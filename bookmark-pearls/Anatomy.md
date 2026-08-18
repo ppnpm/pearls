@@ -29,7 +29,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 ## 2. Purkinje Cell — The Sole Output of the Cerebellar Cortex
 
-**PEARL:** Purkinje cells are the **only output neuron of the cerebellar cortex**, and their output is **inhibitory (GABAergic) onto the deep cerebellar nuclei.**![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-16-15-06-30-{BC7DA5D2-F35E-4712-BAA8-AD06B94DD6D4}.png)
+**PEARL:** Purkinje cells are the **only output neuron of the cerebellar cortex**, and their output is **inhibitory (GABAergic) onto the deep cerebellar nuclei.**![](images/2026-08-16-15-06-30--BC7DA5D2-F35E-4712-BAA8-AD06B94DD6D4-.png)
 
 **UNDERSTAND:** Everything entering the cerebellum (mossy and climbing fibres) excites the deep nuclei directly. The cortex then *sculpts* that excitation by inhibiting it through Purkinje cells — so the cerebellum's net effect on movement is fine modulation, not initiation.
 
@@ -45,7 +45,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **REMEMBER:** *Purkinje = the only exit, and it always says "no".*
 
 **IMAGE:** Large flask-shaped somata in a single row at the molecular–granular junction.
-![Purkinje cells](https://cdn1.dailyrounds.org/uploads/e940abf2e54740389ec12805f147a230.JPEG)
+![Purkinje cells](images/e940abf2e54740389ec12805f147a230.JPEG)
 
 `Q8970`
 
@@ -85,7 +85,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 - **Superior thyroid veins → internal jugular vein**; only the **inferior** thyroid veins reach the brachiocephalic.
 - Tributaries of the brachiocephalic vein: internal thoracic, inferior thyroid, **left superior intercostal**, and vertebral veins.
 - The left superior intercostal vein crosses the **aortic arch** — it is the "**aortic nipple**" seen on a chest radiograph.
-- ![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-16-15-14-30-aortic-nipple.01-3493236613.jpg)
+- ![](images/2026-08-16-15-14-30-aortic-nipple.01-3493236613.jpg)
 
 **EXAM CONNECTION:** "Which vein drains into the brachiocephalic vein?" — the three distractors (hemiazygos, right superior intercostal, superior thyroid) all drain elsewhere.
 
@@ -150,7 +150,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 - **Deformity triad:** **ape thumb = median · claw hand = ulnar · wrist drop = radial**.
 - **Ulnar paradox:** a *higher* ulnar lesion gives a *less* obvious claw (FDP also paralysed).
 - **Pointing index / "hand of benediction" on making a fist** = high median lesion; **Ochsner clasp test** demonstrates it.
-- ![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-16-15-23-13-Median-nerve-injury-18-2048-2666371284.webp)
+- ![](images/2026-08-16-15-23-13-Median-nerve-injury-18-2048-2666371284.webp)
 
 **EXAM CONNECTION:** Image of the cubital fossa with a structure arrowed → identify the nerve, then predict the deficit. Index fingertip sensation is the median's give-away.
 
@@ -170,7 +170,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 - **Bulbus cordis:** proximal 1/3 → **trabeculated right ventricle**; middle 1/3 (conus cordis) → **outflow tracts**; distal 1/3 (truncus arteriosus) → **roots of the aorta and pulmonary trunk**.
 
-- ![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-16-15-26-07-KYFqpik15JD11PvmFmRNdw-1800927870.png)
+- ![](images/2026-08-16-15-26-07-KYFqpik15JD11PvmFmRNdw-1800927870.png)
 
 - **Primitive ventricle → trabeculated LEFT ventricle.** **Primitive atrium → the two atrial appendages.** **Sinus venosus → smooth part of the right atrium + coronary sinus.**
 
@@ -231,7 +231,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **PEARL:** The pretracheal fascia encloses the **viscera of the neck** — thyroid, trachea, oesophagus and the strap muscles. **Sternocleidomastoid is enclosed by the INVESTING layer**, not the pretracheal.
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-16-15-39-20-{4120AC7E-89D1-430D-84B5-F26082D64045}.png)
+![](images/2026-08-16-15-39-20--4120AC7E-89D1-430D-84B5-F26082D64045-.png)
 
 **UNDERSTAND:** The deep cervical fascia is organised as sleeves: the **investing layer** wraps everything superficially (and splits to enclose SCM and trapezius); the **pretracheal** sleeve wraps the viscera; the **prevertebral** sleeve wraps the spine and its muscles; the **carotid sheath** takes a contribution from all three.
 
@@ -275,7 +275,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **PEARL:** Contents = **jugular venous arch (from the anterior jugular veins), sternal heads of both sternocleidomastoids, interclavicular ligament, and a lymph node**. The **external jugular vein is NOT** a content.
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-16-16-07-03-Side-of-the-Neck-Suprasternal-space-3144029012.png)
+![](images/2026-08-16-16-07-03-Side-of-the-Neck-Suprasternal-space-3144029012.png)
 
 **UNDERSTAND:** The investing layer of deep cervical fascia **splits just above the manubrium** into anterior and posterior laminae that attach to its front and back edges — the enclosed wedge is the space of Burns.
 
@@ -394,7 +394,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 - **Asterion** = junction of parietal, occipital and temporal (mastoid); overlies the **transverse–sigmoid sinus junction**.
 
-- ![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-16-18-34-36-slide-7-1024-3349804264.jpg)
+- ![](images/2026-08-16-18-34-36-slide-7-1024-3349804264.jpg)
 
 **EXAM CONNECTION:** Skull photo with the H-shaped suture marked → "incorrect statement" is usually the **accessory** meningeal artery (which is at foramen ovale, not the pterion).
 
@@ -585,7 +585,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 - **Parkinson's disease:** loss of nigrostriatal dopamine → underactive direct + overactive indirect → **too much braking → hypokinesia, rigidity, bradykinesia**.
 - **Hemiballismus:** lesion of the **subthalamic nucleus** (classically a lacunar infarct) → indirect pathway fails → **wild flinging movements of the contralateral limbs**.
 - **Huntington's disease:** loss of **striatal GABAergic neurons of the indirect pathway** first → chorea; caudate atrophy → "**boxcar ventricles**" on imaging.
-- ![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-16-19-30-51-OIP-2370234387.jpg)
+- ![](images/2026-08-16-19-30-51-OIP-2370234387.jpg)
 - **Deep brain stimulation targets = STN or GPi** — precisely the nodes that are overactive in Parkinson's.
 
 **EXAM CONNECTION:** Asked as a sequencing question ("arrange the structures of the direct pathway") and as a clinical vignette (hemiballismus → STN).
@@ -666,7 +666,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **UNDERSTAND:** Before a circulation exists, **amniotic fluid bathes and nourishes the neuroectoderm** through the open neuropores. Their closure marks the end of primary neurulation — and the deadline for folic acid to work.
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-17-08-41-14-{47D20038-CEFF-444D-A768-2E84524AAFA2}.png)
+![](images/2026-08-17-08-41-14--47D20038-CEFF-444D-A768-2E84524AAFA2-.png)
 
 **MUST KNOW:**
 
@@ -690,7 +690,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **UNDERSTAND:** CSF made in the 4th ventricle cannot escape into the subarachnoid space, so the ventricle balloons into a posterior fossa cyst that pushes the tentorium up and prevents the vermis from developing.
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-17-08-41-42-{B4F2E6B2-6C28-4821-933E-59AA25458EEE}.png)
+![](images/2026-08-17-08-41-42--B4F2E6B2-6C28-4821-933E-59AA25458EEE-.png)
 
 **MUST KNOW:**
 
@@ -756,7 +756,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **UNDERSTAND:** The thalamus is the gateway to consciousness — **every sensory modality except OLFACTION relays here** before reaching cortex. Each nucleus is a labelled line to one cortical area.
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-17-09-01-18-{BF1A3A9E-FF6E-4A64-AFE4-79B8BE339912}.png)
+![](images/2026-08-17-09-01-18--BF1A3A9E-FF6E-4A64-AFE4-79B8BE339912-.png)
 
 **MUST KNOW:**
 
@@ -805,13 +805,13 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 - Distinguishing the three on a slide: **tonsil — surface squamous epithelium + crypts, no capsule beneath (only a hemicapsule)**; **thymus — lobules, cortex + medulla, HASSALL'S CORPUSCLES**; **lymph node — complete capsule + subcapsular sinus + hilum**; **spleen — white pulp around a central arteriole in a sea of red pulp**.
 
-- ![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-17-09-10-13-Tonsil-–-Palatine-tonsil-high-power-3-scaled-1852572992.jpg)
+- ![](images/2026-08-17-09-10-13-Tonsil---Palatine-tonsil-high-power-3-scaled-1852572992.jpg)
 
-- ![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-17-09-11-19-Histology-histology-of-immune-system-6-2048-1408370879.webp)
+- ![](images/2026-08-17-09-11-19-Histology-histology-of-immune-system-6-2048-1408370879.webp)
 
-- ![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-17-09-08-51-normal-lymph-node-2-3412801857.jpg)
+- ![](images/2026-08-17-09-08-51-normal-lymph-node-2-3412801857.jpg)
 
-- ![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-17-09-09-24-block3_18-2619484696.jpg)
+- ![](images/2026-08-17-09-09-24-block3_18-2619484696.jpg)
 
 - The tonsil has **efferent lymphatics only, no afferents** (unlike a lymph node) — it drains to the **jugulodigastric node**, the "tonsillar node".
 
@@ -871,7 +871,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 ## 40. Root of the Mesentery
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-17-09-22-40-e3facec3-5fc7-4b6d-a553-813e7b5d89c9_lg-2903052087.jpg)
+![](images/2026-08-17-09-22-40-e3facec3-5fc7-4b6d-a553-813e7b5d89c9_lg-2903052087.jpg)
 
 **PEARL:** Runs obliquely from the **duodenojejunal flexure (left of L2)** to the **ileocaecal junction (right sacroiliac joint)** — about **15 cm (6 inches)** long, though the mesenteric border of the gut it carries is ~6 m.
 
@@ -892,7 +892,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 ---
 
-## 41. Marginal Artery of Drummond![Marginal Artery Of Drummond](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd45jl3w9libvn.cloudfront.net%2Fjaypee%2Fstatic%2Fbooks%2F9788184484564%2FChapters%2Fimages%2F633-1.jpg&f=1&nofb=1&ipt=2bd8de59e869d6f9b4642416ff899b05b91e6d995618ba12eff94e615d5c738b)
+## 41. Marginal Artery of Drummond![Marginal Artery Of Drummond](images/633-1.jpg)
 
 **PEARL:** A continuous anastomotic channel running along the mesenteric border of the colon, formed by the **ileocolic, right colic, middle colic, left colic and sigmoid arteries** — i.e. it links the **SMA and IMA territories**.
 
@@ -980,7 +980,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 ## 45. Houston's Valves
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-17-09-46-06-Rectum-And-Anal-Canal-Valves-of-Houston-3057461536.png)
+![](images/2026-08-17-09-46-06-Rectum-And-Anal-Canal-Valves-of-Houston-3057461536.png)
 
 **PEARL:** The rectum has **4 transverse folds (valves of Houston)** — usually **two on the left and two on the right**; the **middle one lies at the level of the anterior peritoneal reflection**.
 
@@ -1349,7 +1349,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **PEARL:** Boundaries — **teres minor above, teres major below, long head of triceps medially, surgical neck of the humerus laterally**. It transmits the **AXILLARY NERVE and the POSTERIOR CIRCUMFLEX HUMERAL vessels**.
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-17-13-55-05-Boundaries-of-the-Quadrangular-Space-600x328-4126415548.png)
+![](images/2026-08-17-13-55-05-Boundaries-of-the-Quadrangular-Space-600x328-4126415548.png)
 
 **UNDERSTAND:** The axillary nerve is **wrapped around the surgical neck** — so any injury at that level (fracture, anterior dislocation, or a badly placed deltoid injection) takes the nerve with it.
 
@@ -1359,7 +1359,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 - **Test axillary nerve integrity BEFORE and AFTER reducing a shoulder dislocation** — sensation over the regimental badge area is the quickest bedside check (deltoid power is too painful to test acutely).
 - **Supraspinatus is NOT a boundary** — the standard distractor.
 - **Triangular space** (above teres major, lateral to long head of triceps, medial to... ) transmits the **circumflex scapular artery**; **triangular interval** (below teres major) transmits the **RADIAL nerve and profunda brachii**.
-- ![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-17-13-57-37-Mnemonic-of-axillary-spaces-1767041284.jpg)
+- ![](images/2026-08-17-13-57-37-Mnemonic-of-axillary-spaces-1767041284.jpg)
 - **Quadrangular space syndrome** — compression by fibrous bands → posterior shoulder pain and deltoid/teres minor weakness in overhead athletes.
 
 **EXAM CONNECTION:** "All are boundaries of the quadrangular space EXCEPT" → supraspinatus.
@@ -1376,7 +1376,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **UNDERSTAND:** V3 is the only trigeminal division with a **motor root**, and that motor root is funnelled almost entirely into the anterior division. Remembering "**anterior = motor, with one sensory exception (buccal)**" resolves most questions.
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-17-14-01-41-070417_0934_MandibularN1-1789354177.jpg)
+![](images/2026-08-17-14-01-41-070417_0934_MandibularN1-1789354177.jpg)
 
 **MUST KNOW:**
 
@@ -1398,7 +1398,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **PEARL:** **Membranous urethra** (within the urogenital diaphragm) ruptures → urine collects in the **DEEP perineal pouch** — the pattern of **pelvic fracture**. **Bulbar urethra** ruptures → urine escapes into the **SUPERFICIAL perineal pouch** — the pattern of a **straddle injury**.
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-17-14-06-41-S3NUdXXnFZytECUYCl8gcw-448186446.jpg)
+![](images/2026-08-17-14-06-41-S3NUdXXnFZytECUYCl8gcw-448186446.jpg)
 
 **UNDERSTAND:** The superficial pouch is bounded by **Colles' fascia**, which is attached **posteriorly to the perineal membrane and laterally to the ischiopubic rami and fascia lata** but is **free anteriorly**, continuing as Scarpa's fascia. So extravasated urine can only go **forward and upward**.
 
@@ -1555,9 +1555,9 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **MUST KNOW:**
 
 - **RIGHT hilum:** the **eparterial bronchus (to the upper lobe) is the most SUPERIOR** structure, lying **above the pulmonary artery**. Order superior → inferior: **superior lobar bronchus → pulmonary artery → principal bronchus → inferior pulmonary vein**.
-- ![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-17-23-30-09-{BEB9A0BB-C3A0-438C-8049-DFA3E84D9B11}.png)
+- ![](images/2026-08-17-23-30-09--BEB9A0BB-C3A0-438C-8049-DFA3E84D9B11-.png)
 - **LEFT hilum:** the **pulmonary ARTERY is most superior** (it arches over the left main bronchus). Mnemonic: "**RALS**" — **R**ight **A**nterior, **L**eft **S**uperior (position of the pulmonary artery relative to the bronchus).
-- ![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-17-23-30-22-{04AF0C9B-505F-4BB0-9C06-3D62E926C630}.png)
+- ![](images/2026-08-17-23-30-22--04AF0C9B-505F-4BB0-9C06-3D62E926C630-.png)
 - **Right main bronchus is wider, shorter and more vertical** — hence **aspiration and inhaled foreign bodies go right**, most often into the **posterior segment of the right upper lobe (supine)** or the **basal segments of the right lower lobe (erect)**.
 - **Phrenic nerve passes ANTERIOR, vagus POSTERIOR** to the hilum.
 
@@ -1728,7 +1728,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 - **The four mechanoreceptors:** **Meissner** (rapidly adapting, superficial — flutter/light touch) · **Merkel discs** (**slowly** adapting, superficial — sustained pressure, texture, **two-point discrimination**) · **Pacinian** (rapidly adapting, deep — vibration) · **Ruffini endings** (slowly adapting, deep — skin stretch).
 - **Pacinian corpuscle is the LARGEST**, with its **onion-skin (lamellated) capsule** — instantly recognisable histologically and a favourite image question.
-- ![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-18-09-25-39-Pacinian_corpuscle_histology_01-2392151858.jpg)
+- ![](images/2026-08-18-09-25-39-Pacinian_corpuscle_histology_01-2392151858.jpg)
 - All of these are **encapsulated**; **free nerve endings** carry pain and temperature and are **unencapsulated**.
 - **Krause end bulbs** — mucocutaneous junctions; **Merkel cells** are the origin of the aggressive **Merkel cell carcinoma** (Merkel cell polyomavirus).
 - All these signals travel in the **dorsal column–medial lemniscus** pathway.
@@ -1773,7 +1773,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 - **The mesencephalic nucleus is unique in the whole nervous system** — it contains **primary sensory (first-order) neuron cell bodies INSIDE the CNS**, everywhere else they sit in ganglia. It mediates the **jaw-jerk reflex** and pressure sensation from the teeth.
 - **Onion-skin (Dejerine) pattern** of facial sensory loss: the spinal nucleus is somatotopically arranged with the **perioral area represented rostrally and the outer face caudally**, so a lesion produces concentric rings of loss.
-- ![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-18-09-43-35-1637219851008585-0-759729077.jpg)
+- ![](images/2026-08-18-09-43-35-1637219851008585-0-759729077.jpg)
 - **Lateral medullary syndrome** → **ipsilateral facial pain/temperature loss** (spinal nucleus of V) + contralateral body loss (spinothalamic) = **crossed sensory loss**.
 - **Corneal reflex:** afferent **V1 (long ciliary → nasociliary)**, efferent **VII**. Its loss is the earliest sign of an **acoustic neuroma** enlarging in the cerebellopontine angle.
 

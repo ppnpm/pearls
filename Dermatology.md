@@ -38,7 +38,7 @@
 
 ## 3. Syringoma
 
-![Syringoma — Skin Hub - Expert Skin Blemish Removal in Basingstoke](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F66f5619a69539e29062a17e9%2F8e0a8e0e-7bef-43c2-b052-3f6ab5e47329%2FSyringoma.jpg&f=1&nofb=1&ipt=8ab98bc817ea24cb80f95d1db74acc2230254275c75991b6c11c2266a1dfd664)
+![Syringoma — Skin Hub - Expert Skin Blemish Removal in Basingstoke](images/Syringoma.jpg)
 
 **PEARL:** Multiple skin/tan-colored, flat-topped papules — a benign tumor of eccrine sweat **ducts**.
 
@@ -82,7 +82,7 @@
 - Hands/feet: Raynaud's, non-pitting edema, digital ulcers healing with **pitted scars**, sclerodactyly, contractures, acro-osteolysis.
 - Face: mask-like facies, microstomia, telangiectasias, periorbital edema.
 - **Salt-and-pepper appearance** = perifollicular pigment retention within depigmented skin (classic image question).
-- ![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-08-36-47-JLP-126-2025-g001-137671602.png)
+- ![](images/2026-08-15-08-36-47-JLP-126-2025-g001-137671602.png)
 - Loss of sweat glands and hair over sclerotic skin.
 
 **EXAM CONNECTION:** Raynaud's is usually the **first** symptom; abnormal nailfold capillaroscopy (dilated + dropout) distinguishes it from primary Raynaud's.
@@ -107,7 +107,7 @@
 
 ## 7. Lamellar Ichthyosis
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-08-40-35-Riehl_Zumbusch_Tafel_LXV_(3).jpg)
+![](images/2026-08-15-08-40-35-Riehl_Zumbusch_Tafel_LXV_-3-.jpg)
 
 **PEARL:** ARCI due to **TGM1** (transglutaminase-1) mutation, with large plate-like **dark brown** scales over the whole body; mild palmoplantar involvement. Its opposite-end phenotype is CIE (erythroderma with fine white scale).
 
@@ -123,7 +123,7 @@
 
 ## 8. Bathing Suit Ichthyosis
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-08-43-01-ms9-87-4628-g001-1743952597.jpg)
+![](images/2026-08-15-08-43-01-ms9-87-4628-g001-1743952597.jpg)
 
 **PEARL:** A TGM1 (temperature-sensitive) variant of ARCI — starts as a collodion baby, then large dark scales affect **trunk and scalp, sparing face and extremities**, resembling a bathing suit.
 
@@ -135,7 +135,7 @@
 
 ## 9. Harlequin Ichthyosis
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-08-45-18-CRIDM2025-7982066.002-570567873.jpg)
+![](images/2026-08-15-08-45-18-CRIDM2025-7982066.002-570567873.jpg)
 
 **PEARL:** The most severe ARCI — **ABCA12** mutation → armor-like thick truncal plates with deep fissures.
 
@@ -186,7 +186,7 @@
 
 ## 12. Dowling–Degos Disease
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-08-55-40-IDOJ-10-587-g004-724529427.jpg)
+![](images/2026-08-15-08-55-40-IDOJ-10-587-g004-724529427.jpg)
 
 **PEARL:** Reticulate (lacy, net-like) hyperpigmentation, especially in **flexures***.
 
@@ -195,7 +195,7 @@
 - Autosomal dominant; **KRT5** mutation.
 - Also comedo-like lesions and pitted perioral scars.
 - Histology: filiform, antler-like downgrowth of pigmented rete ridges.
-- ![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-08-56-04-OIP-3473687456.jpg)
+- ![](images/2026-08-15-08-56-04-OIP-3473687456.jpg)
 
 **EXAM CONNECTION:** Reticulate pigmentation differential — Dowling–Degos (flexural, AD), dyschromatosis symmetrica (dorsa of hands), Naegeli–Franceschetti–Jadassohn (with absent dermatoglyphics + hypohidrosis).
 
@@ -302,7 +302,7 @@
 
 **PEARL:** Painless, progressive nodular/ulcerated yellow-erythematous plaques in an **immunosuppressed** patient, with **Michaelis–Gutmann bodies** on histology.
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-09-09-24-600px-Michaelis-Gutmann_bodies_-_very_high_mag_-_cropped-2234518474.jpg)
+![](images/2026-08-15-09-09-24-600px-Michaelis-Gutmann_bodies_-_very_high_mag_-_cropped-2234518474.jpg)
 
 **UNDERSTAND:** Defective macrophage phagolysosomal killing (low cGMP) means ingested bacteria are not digested; calcium and iron deposit on the residue → laminated basophilic targetoid inclusions.
 
@@ -322,7 +322,7 @@
 **PEARL:** Morphea (localized scleroderma) shows the **"box sign"** — biopsy with squared-off edges ("boxed dermis") from dense collagen sclerosis extending through the reticular dermis into the subcutaneous septa.
 
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-09-12-05-maxresdefault-381961272.jpg)
+![](images/2026-08-15-09-12-05-maxresdefault-381961272.jpg)
 **MUST KNOW:**
 
 - Histology: thickened horizontal collagen bundles, **loss of adnexa** (hair follicles, eccrine glands trapped/absent), fat replaced by collagen; epidermis normal or flattened.
@@ -332,7 +332,7 @@
 
 **EXAM CONNECTION:** Linear morphea of the forehead = *en coup de sabre (image below)*; associated with Parry–Romberg hemifacial atrophy.
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-09-14-28-F1.large-1111170616.jpg)
+![](images/2026-08-15-09-14-28-F1.large-1111170616.jpg)
 
 **REMEMBER:** *Box sign = morphea; morphea = skin only, no Raynaud's.*
 
@@ -342,7 +342,7 @@
 
 **PEARL:** The Grenz zone (a narrow band of uninvolved papillary dermis just beneath the epidermis) is most prominent in **lepromatous leprosy**, because granulomas are scarce and do not fill that space. Also seen across the borderline spectrum.
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-09-20-31-Slide32-1024x576-3408261622.jpg)
+![](images/2026-08-15-09-20-31-Slide32-1024x576-3408261622.jpg)
 
 **MUST KNOW:**
 
@@ -403,9 +403,9 @@
 **MUST KNOW:**
 
 - Loss of calcium-dependent desmosomal adhesion → **acantholysis + dyskeratosis** (**corps ronds and grains**).
-- ![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-09-28-50-9_3s20B978070207280200001X-2714736276.jpg)
+- ![](images/2026-08-15-09-28-50-9_3s20B978070207280200001X-2714736276.jpg)
 - Nails: **red and white longitudinal bands with V-shaped distal notching**; palmar pits.
-- <img src="file:///C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-09-27-20-darier-nail-3690049337.jpg" title="" alt="" width="356">
+- <img src="images/2026-08-15-09-27-20-darier-nail-3690049337.jpg" title="" alt="" width="356">
 - Worsened by heat, sweating and **UV light**.
 - Hailey–Hailey disease = **ATP2C1** (Golgi Ca²⁺ pump), flexural erosions, "dilapidated brick wall" acantholysis without much dyskeratosis.
 
@@ -524,7 +524,7 @@
 
 ## 33. Menkes Kinky Hair Syndrome
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-10-33-21-2-4264421792.jpg)
+![](images/2026-08-15-10-33-21-2-4264421792.jpg)
 
 **PEARL:** X-linked recessive disorder of **copper metabolism** (ATP7A) showing **pili torti** (twisted hair) and monilethrix-like beading.
 
@@ -542,7 +542,7 @@
 
 ## 34. Trichorrhexis Nodosa
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-10-32-18-Trichorrhexis-shaft-node-1400679466.webp)
+![](images/2026-08-15-10-32-18-Trichorrhexis-shaft-node-1400679466.webp)
 
 **PEARL:** Node formation with fracture of the hair shaft giving a **"two paintbrushes pushed together"** appearance; caused by trauma/chemical damage and by **argininosuccinic aciduria**.
 
@@ -557,7 +557,7 @@
 
 ## 35. Netherton Syndrome — Bamboo Hair
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-10-31-57-The-bamboo-shape-Hair-shaft-anomaly-in-Netherton-syndrome-with-light-microscopy_Q320-1013725293.jpg)
+![](images/2026-08-15-10-31-57-The-bamboo-shape-Hair-shaft-anomaly-in-Netherton-syndrome-with-light-microscopy_.jpg)
 
 **PEARL:** **Trichorrhexis invaginata** (bamboo hair — distal shaft telescoped into the proximal shaft, "golf-tee"/ball-and-socket) + **ichthyosis linearis circumflexa** + atopy.
 
@@ -638,7 +638,7 @@
 
 - Beefy-red, friable, painless ulcer that **bleeds easily**; **no regional lymphadenopathy** (pseudobuboes are subcutaneous granulomas).
 - Diagnosis: **Donovan bodies** in macrophages on tissue smear (Giemsa/Wright); not cultured routinely.
-- ![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-11-07-56-OIP-4180683840.jpg)
+- ![](images/2026-08-15-11-07-56-OIP-4180683840.jpg)
 - Treatment: **azithromycin** (first line), doxycycline as an alternative, until healed.
 
 **EXAM CONNECTION:** Painless genital ulcer — syphilis (clean, indurated, painless, **with** lymphadenopathy), donovanosis (beefy, bleeding, **no** nodes), LGV (transient ulcer, prominent groove sign nodes). Painful — chancroid, herpes.
@@ -667,7 +667,7 @@
 
 ## 42. Flagellate Dermatitis
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-11-11-07-1-Figure1-1-2308142669.png)
+![](images/2026-08-15-11-11-07-1-Figure1-1-2308142669.png)
 
 **PEARL:** Linear "whiplash" streaks of hyperpigmentation — caused by **bleomycin**.
 
@@ -685,7 +685,7 @@
 
 **PEARL:** High fever, then a **rose-coloured morbilliform rash on the trunk** as fever breaks, with ulcers/erythematous papules at the **uvulopalatoglossal junction (Nagayama spots)** — roseola infantum.
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-11-12-50-rash-exanthem-approach-to-exanthem-maculopapular-exanthem-Exanthem-seminar-Fever-and-Rash-Approach-to-patient-with-maculopapular-exanthem-15-2048-3764751313.webp)
+![](images/2026-08-15-11-12-50-rash-exanthem-approach-to-exanthem-maculopapular-exanthem-Exanthem-seminar-Fever.webp)
 
 **MUST KNOW:**
 
@@ -699,7 +699,7 @@
 
 ## 44. Pitted Keratolysis
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-11-13-14-4585-Pitted_keratolysis-1296x728-body-3759526281.jpg)
+![](images/2026-08-15-11-13-14-4585-Pitted_keratolysis-1296x728-body-3759526281.jpg)
 
 **PEARL:** Caused most commonly by ***Corynebacterium*** species, also *Kytococcus sedentarius* (and *Dermatophilus congolensis*).
 

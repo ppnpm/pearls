@@ -13,7 +13,7 @@
 - Presents with **bilateral progressive conductive hearing loss** in a young adult woman, **worsening in pregnancy**; **tinnitus** and **paracusis willisii** (hears better in noisy surroundings).
 - **Tympanic membrane is normal**; **Schwartze sign** (reddish hue from active vascular focus) may be present.
 - Audiometry: **Carhart's notch — a dip in bone conduction at 2000 Hz**; **absent stapedial reflex** is the earliest sign.
-- ![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-17-36-07-Rahul-Bagla-ENT-Online-textbook-GIMS-Carharts-notch-otosclerosis-4232792150.jpg)
+- ![](images/2026-08-15-17-36-07-Rahul-Bagla-ENT-Online-textbook-GIMS-Carharts-notch-otosclerosis-4232792150.jpg)
 - Treatment: **stapedectomy/stapedotomy with a prosthesis**, or hearing aid.
 
 **REMEMBER:** *Fissula ante fenestram → fixed stapes footplate → Carhart's notch at 2 kHz.*
@@ -67,7 +67,7 @@
 
 **PEARL:** The **Phelps sign on CECT (not otoscopy)** — **erosion of the spine of the caroticojugular crest** — indicates **glomus JUGULARE**; the crest is **intact in glomus TYMPANICUM**.
 
-![](C:/Users/pc/AppData/Roaming/marktext/images/2026-08-15-18-03-42-Glomus-tumor-3898808996.webp)
+![](images/2026-08-15-18-03-42-Glomus-tumor-3898808996.webp)
 
 **UNDERSTAND:** Glomus jugulare arises at the jugular bulb, so it destroys the bone separating the carotid canal from the jugular fossa; glomus tympanicum sits on the promontory and leaves it alone.
 
