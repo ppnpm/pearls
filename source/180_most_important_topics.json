@@ -1,0 +1,908 @@
+{
+  "source": "180 Most IMportant topIcs FroM all",
+  "basis": "Last 5 yrs of NEET PG and INICET question paper (2020-2025), as stated in the source",
+  "total_topics": 180,
+  "subjects": 19,
+  "topics": [
+    {
+      "subject": "Anatomy",
+      "topic": "Glossopharyngeal Nerve",
+      "repetition": 7
+    },
+    {
+      "subject": "Anatomy",
+      "topic": "Facial nerve",
+      "repetition": 5
+    },
+    {
+      "subject": "Anatomy",
+      "topic": "Pharyngeal Arch",
+      "repetition": 4
+    },
+    {
+      "subject": "Anatomy",
+      "topic": "Muscles of Mastication",
+      "repetition": 4
+    },
+    {
+      "subject": "Anatomy",
+      "topic": "Anatomical Snuff Box",
+      "repetition": 4
+    },
+    {
+      "subject": "Anatomy",
+      "topic": "T5 level Cross section",
+      "repetition": 3
+    },
+    {
+      "subject": "Anatomy",
+      "topic": "Mandibular Nerve",
+      "repetition": 3
+    },
+    {
+      "subject": "Anatomy",
+      "topic": "Vagus Nerve",
+      "repetition": 3
+    },
+    {
+      "subject": "Physiology",
+      "topic": "Mechanism of action of Hormones & Receptors",
+      "repetition": 10
+    },
+    {
+      "subject": "Physiology",
+      "topic": "Different Type of Transport",
+      "repetition": 6
+    },
+    {
+      "subject": "Physiology",
+      "topic": "GFR",
+      "repetition": 5
+    },
+    {
+      "subject": "Physiology",
+      "topic": "Sensory Receptor",
+      "repetition": 4
+    },
+    {
+      "subject": "Physiology",
+      "topic": "Respiratory Distress Syndrome",
+      "repetition": 3
+    },
+    {
+      "subject": "Physiology",
+      "topic": "Nerve Fibres & Types",
+      "repetition": 4
+    },
+    {
+      "subject": "Physiology",
+      "topic": "Sarcomere Length",
+      "repetition": 4
+    },
+    {
+      "subject": "Biochemistry",
+      "topic": "Tyrosine Metabolism",
+      "repetition": 6
+    },
+    {
+      "subject": "Biochemistry",
+      "topic": "Tryptophan Metabolism",
+      "repetition": 7
+    },
+    {
+      "subject": "Biochemistry",
+      "topic": "Gaucher Disease",
+      "repetition": 7
+    },
+    {
+      "subject": "Biochemistry",
+      "topic": "Vitamin B12",
+      "repetition": 5
+    },
+    {
+      "subject": "Biochemistry",
+      "topic": "Vitamin B3",
+      "repetition": 5
+    },
+    {
+      "subject": "Biochemistry",
+      "topic": "Glycogen Storage Disease",
+      "repetition": 5
+    },
+    {
+      "subject": "Biochemistry",
+      "topic": "Electron chain Complex",
+      "repetition": 4
+    },
+    {
+      "subject": "Biochemistry",
+      "topic": "Competitive Inhibition",
+      "repetition": 5
+    },
+    {
+      "subject": "Biochemistry",
+      "topic": "Pyruvate dehydrogenase",
+      "repetition": 4
+    },
+    {
+      "subject": "Biochemistry",
+      "topic": "Methionine",
+      "repetition": 4
+    },
+    {
+      "subject": "Pathology",
+      "topic": "Granuloma",
+      "repetition": 5
+    },
+    {
+      "subject": "Pathology",
+      "topic": "Iron Deficiency Anemia",
+      "repetition": 6
+    },
+    {
+      "subject": "Pathology",
+      "topic": "Medullary CA Thyroid",
+      "repetition": 4
+    },
+    {
+      "subject": "Pathology",
+      "topic": "Hodkin Lymphoma",
+      "repetition": 4
+    },
+    {
+      "subject": "Pathology",
+      "topic": "AML",
+      "repetition": 4
+    },
+    {
+      "subject": "Pathology",
+      "topic": "Turner Syndrome",
+      "repetition": 3
+    },
+    {
+      "subject": "Pathology",
+      "topic": "Herediatory Spherocytosis",
+      "repetition": 3
+    },
+    {
+      "subject": "Pathology",
+      "topic": "Burkitt Lymphoma",
+      "repetition": 3
+    },
+    {
+      "subject": "Pathology",
+      "topic": "CML",
+      "repetition": 3
+    },
+    {
+      "subject": "Pathology",
+      "topic": "Minimal Change disease",
+      "repetition": 3
+    },
+    {
+      "subject": "Pathology",
+      "topic": "Diabetic Nephropathy",
+      "repetition": 3
+    },
+    {
+      "subject": "Pathology",
+      "topic": "Breast CA",
+      "repetition": 3
+    },
+    {
+      "subject": "Pathology",
+      "topic": "Metaplasia",
+      "repetition": 3
+    },
+    {
+      "subject": "Microbiology",
+      "topic": "Neisseria Gonorrhae",
+      "repetition": 8
+    },
+    {
+      "subject": "Microbiology",
+      "topic": "Nocardia",
+      "repetition": 6
+    },
+    {
+      "subject": "Microbiology",
+      "topic": "Neisseria Meningitis",
+      "repetition": 6
+    },
+    {
+      "subject": "Microbiology",
+      "topic": "HSV",
+      "repetition": 7
+    },
+    {
+      "subject": "Microbiology",
+      "topic": "HPV",
+      "repetition": 6
+    },
+    {
+      "subject": "Microbiology",
+      "topic": "Aspergillus",
+      "repetition": 9
+    },
+    {
+      "subject": "Microbiology",
+      "topic": "Plasmodium Faciparum",
+      "repetition": 8
+    },
+    {
+      "subject": "Microbiology",
+      "topic": "Wucheria Bancrofti",
+      "repetition": 6
+    },
+    {
+      "subject": "Microbiology",
+      "topic": "Candida",
+      "repetition": 6
+    },
+    {
+      "subject": "Microbiology",
+      "topic": "HIV",
+      "repetition": 5
+    },
+    {
+      "subject": "Pharmacology",
+      "topic": "Thiazide",
+      "repetition": 6
+    },
+    {
+      "subject": "Pharmacology",
+      "topic": "Lithium",
+      "repetition": 5
+    },
+    {
+      "subject": "Pharmacology",
+      "topic": "Rifampicin",
+      "repetition": 5
+    },
+    {
+      "subject": "Pharmacology",
+      "topic": "Half life",
+      "repetition": 4
+    },
+    {
+      "subject": "Pharmacology",
+      "topic": "Dose Response curve",
+      "repetition": 4
+    },
+    {
+      "subject": "Pharmacology",
+      "topic": "Digoxin",
+      "repetition": 4
+    },
+    {
+      "subject": "Pharmacology",
+      "topic": "Linezolid",
+      "repetition": 4
+    },
+    {
+      "subject": "Pharmacology",
+      "topic": "Carbamazepine",
+      "repetition": 4
+    },
+    {
+      "subject": "Pharmacology",
+      "topic": "Valporate",
+      "repetition": 4
+    },
+    {
+      "subject": "Pharmacology",
+      "topic": "TCA",
+      "repetition": 3
+    },
+    {
+      "subject": "Pharmacology",
+      "topic": "Morphine",
+      "repetition": 3
+    },
+    {
+      "subject": "Forensic Medicine",
+      "topic": "Drowning",
+      "repetition": 5
+    },
+    {
+      "subject": "Forensic Medicine",
+      "topic": "Rape",
+      "repetition": 6
+    },
+    {
+      "subject": "Forensic Medicine",
+      "topic": "Marbling",
+      "repetition": 4
+    },
+    {
+      "subject": "Forensic Medicine",
+      "topic": "Snake bite",
+      "repetition": 4
+    },
+    {
+      "subject": "Forensic Medicine",
+      "topic": "Datura Poisoning",
+      "repetition": 5
+    },
+    {
+      "subject": "Forensic Medicine",
+      "topic": "Arsenic Poisoning",
+      "repetition": 9
+    },
+    {
+      "subject": "Forensic Medicine",
+      "topic": "Opium Poisoning",
+      "repetition": 4
+    },
+    {
+      "subject": "Community Medicine",
+      "topic": "Yellow bin",
+      "repetition": 4
+    },
+    {
+      "subject": "Community Medicine",
+      "topic": "Mosquito as vector",
+      "repetition": 4
+    },
+    {
+      "subject": "Community Medicine",
+      "topic": "Purification of Waterv",
+      "repetition": 3
+    },
+    {
+      "subject": "Community Medicine",
+      "topic": "Employees State Insurance act 1948",
+      "repetition": 3
+    },
+    {
+      "subject": "Community Medicine",
+      "topic": "Neurolathyrism",
+      "repetition": 3
+    },
+    {
+      "subject": "Community Medicine",
+      "topic": "Fluorosis",
+      "repetition": 3
+    },
+    {
+      "subject": "Community Medicine",
+      "topic": "Anemia mukht bharat",
+      "repetition": 3
+    },
+    {
+      "subject": "Community Medicine",
+      "topic": "Attributable Risk",
+      "repetition": 3
+    },
+    {
+      "subject": "Community Medicine",
+      "topic": "ATT for TB Patient",
+      "repetition": 3
+    },
+    {
+      "subject": "Community Medicine",
+      "topic": "Meta Analysis",
+      "repetition": 4
+    },
+    {
+      "subject": "Community Medicine",
+      "topic": "Senstivity",
+      "repetition": 3
+    },
+    {
+      "subject": "Community Medicine",
+      "topic": "Mean , Median, Mode",
+      "repetition": 3
+    },
+    {
+      "subject": "ENT",
+      "topic": "Otitis Media",
+      "repetition": 6
+    },
+    {
+      "subject": "ENT",
+      "topic": "Pure Tone Audiometry",
+      "repetition": 6
+    },
+    {
+      "subject": "ENT",
+      "topic": "CA Larynx",
+      "repetition": 5
+    },
+    {
+      "subject": "ENT",
+      "topic": "Larynx Anatomy",
+      "repetition": 4
+    },
+    {
+      "subject": "ENT",
+      "topic": "Juvenile Angiofibroma",
+      "repetition": 4
+    },
+    {
+      "subject": "ENT",
+      "topic": "Blood Supply of Nose",
+      "repetition": 4
+    },
+    {
+      "subject": "ENT",
+      "topic": "Anatomy of middle Ear",
+      "repetition": 3
+    },
+    {
+      "subject": "ENT",
+      "topic": "Samter Triad",
+      "repetition": 3
+    },
+    {
+      "subject": "Ophthalmology",
+      "topic": "Retinal Detachment",
+      "repetition": 4
+    },
+    {
+      "subject": "Ophthalmology",
+      "topic": "Retinitis Pigmentosa",
+      "repetition": 4
+    },
+    {
+      "subject": "Ophthalmology",
+      "topic": "Corneal Ulcer",
+      "repetition": 5
+    },
+    {
+      "subject": "Ophthalmology",
+      "topic": "Retinoblastoma",
+      "repetition": 4
+    },
+    {
+      "subject": "Ophthalmology",
+      "topic": "Diabetic Retinopathy",
+      "repetition": 4
+    },
+    {
+      "subject": "Ophthalmology",
+      "topic": "Cataract",
+      "repetition": 5
+    },
+    {
+      "subject": "Ophthalmology",
+      "topic": "Angle Closure Glaucoma",
+      "repetition": 5
+    },
+    {
+      "subject": "Medicine",
+      "topic": "Hepatitis",
+      "repetition": 7
+    },
+    {
+      "subject": "Medicine",
+      "topic": "Pneumonia",
+      "repetition": 6
+    },
+    {
+      "subject": "Medicine",
+      "topic": "COPD",
+      "repetition": 5
+    },
+    {
+      "subject": "Medicine",
+      "topic": "Atrial Fibrillation",
+      "repetition": 4
+    },
+    {
+      "subject": "Medicine",
+      "topic": "Respiratory Acidosis",
+      "repetition": 4
+    },
+    {
+      "subject": "Medicine",
+      "topic": "Metabolic acidosis",
+      "repetition": 8
+    },
+    {
+      "subject": "Medicine",
+      "topic": "Metabolic alkalosis",
+      "repetition": 4
+    },
+    {
+      "subject": "Medicine",
+      "topic": "Type 1 DM",
+      "repetition": 6
+    },
+    {
+      "subject": "Medicine",
+      "topic": "Type 2 DM",
+      "repetition": 6
+    },
+    {
+      "subject": "Medicine",
+      "topic": "HIV",
+      "repetition": 6
+    },
+    {
+      "subject": "Medicine",
+      "topic": "Ulcerative colitis",
+      "repetition": 4
+    },
+    {
+      "subject": "Medicine",
+      "topic": "Multiple Sclerosis",
+      "repetition": 5
+    },
+    {
+      "subject": "Medicine",
+      "topic": "Huntington Chorea",
+      "repetition": 3
+    },
+    {
+      "subject": "Medicine",
+      "topic": "Scleroderma",
+      "repetition": 5
+    },
+    {
+      "subject": "Medicine",
+      "topic": "Hypothyroidism",
+      "repetition": 4
+    },
+    {
+      "subject": "Medicine",
+      "topic": "Diabetes Insipidus",
+      "repetition": 3
+    },
+    {
+      "subject": "Surgery",
+      "topic": "Breast CA",
+      "repetition": 20
+    },
+    {
+      "subject": "Surgery",
+      "topic": "Varicose Veins",
+      "repetition": 4
+    },
+    {
+      "subject": "Surgery",
+      "topic": "Triage",
+      "repetition": 4
+    },
+    {
+      "subject": "Surgery",
+      "topic": "Thyroid & Disorder Related to it",
+      "repetition": 4
+    },
+    {
+      "subject": "Surgery",
+      "topic": "ATLS survey",
+      "repetition": 4
+    },
+    {
+      "subject": "Surgery",
+      "topic": "Cholecystectomy",
+      "repetition": 6
+    },
+    {
+      "subject": "Surgery",
+      "topic": "CA Colon",
+      "repetition": 5
+    },
+    {
+      "subject": "Surgery",
+      "topic": "Chronic Pancreatitis",
+      "repetition": 5
+    },
+    {
+      "subject": "Surgery",
+      "topic": "Gall Stones",
+      "repetition": 4
+    },
+    {
+      "subject": "Surgery",
+      "topic": "Hollow Viscus Perforation",
+      "repetition": 4
+    },
+    {
+      "subject": "Surgery",
+      "topic": "Rectal Prolapse",
+      "repetition": 4
+    },
+    {
+      "subject": "Surgery",
+      "topic": "Various type of Stones",
+      "repetition": 4
+    },
+    {
+      "subject": "Surgery",
+      "topic": "Penetrating chest Trauma",
+      "repetition": 6
+    },
+    {
+      "subject": "Surgery",
+      "topic": "Hemodynamic instability",
+      "repetition": 5
+    },
+    {
+      "subject": "Surgery",
+      "topic": "Parathyroid Adenoma",
+      "repetition": 4
+    },
+    {
+      "subject": "OBGY",
+      "topic": "Uterine Prolapse",
+      "repetition": 8
+    },
+    {
+      "subject": "OBGY",
+      "topic": "Biophysical Score",
+      "repetition": 4
+    },
+    {
+      "subject": "OBGY",
+      "topic": "Ectopic Pregnancy",
+      "repetition": 6
+    },
+    {
+      "subject": "OBGY",
+      "topic": "Post Partum Hemorrhage",
+      "repetition": 8
+    },
+    {
+      "subject": "OBGY",
+      "topic": "MTP",
+      "repetition": 6
+    },
+    {
+      "subject": "OBGY",
+      "topic": "Preeclampsia",
+      "repetition": 6
+    },
+    {
+      "subject": "OBGY",
+      "topic": "Eclampsia",
+      "repetition": 5
+    },
+    {
+      "subject": "OBGY",
+      "topic": "Trichomoniasis",
+      "repetition": 4
+    },
+    {
+      "subject": "OBGY",
+      "topic": "Endometriosis",
+      "repetition": 6
+    },
+    {
+      "subject": "OBGY",
+      "topic": "Copper IUD",
+      "repetition": 4
+    },
+    {
+      "subject": "OBGY",
+      "topic": "CA Cervix",
+      "repetition": 11
+    },
+    {
+      "subject": "OBGY",
+      "topic": "CA Ovary",
+      "repetition": 12
+    },
+    {
+      "subject": "OBGY",
+      "topic": "Endometrial CA",
+      "repetition": 6
+    },
+    {
+      "subject": "OBGY",
+      "topic": "PCOD",
+      "repetition": 6
+    },
+    {
+      "subject": "OBGY",
+      "topic": "Sheehan Syndrome",
+      "repetition": 4
+    },
+    {
+      "subject": "OBGY",
+      "topic": "LSCS",
+      "repetition": 6
+    },
+    {
+      "subject": "OBGY",
+      "topic": "Imperforate Hymen",
+      "repetition": 4
+    },
+    {
+      "subject": "OBGY",
+      "topic": "Anomaly scan",
+      "repetition": 5
+    },
+    {
+      "subject": "Pediatrics",
+      "topic": "Developmental Milestones",
+      "repetition": 6
+    },
+    {
+      "subject": "Pediatrics",
+      "topic": "Malnutrition",
+      "repetition": 4
+    },
+    {
+      "subject": "Pediatrics",
+      "topic": "Marasmus",
+      "repetition": 4
+    },
+    {
+      "subject": "Pediatrics",
+      "topic": "Amniotic band syndrome",
+      "repetition": 3
+    },
+    {
+      "subject": "Pediatrics",
+      "topic": "Cystic fibrosis",
+      "repetition": 3
+    },
+    {
+      "subject": "Pediatrics",
+      "topic": "TAPVC",
+      "repetition": 3
+    },
+    {
+      "subject": "Pediatrics",
+      "topic": "Celiac Disease",
+      "repetition": 3
+    },
+    {
+      "subject": "Pediatrics",
+      "topic": "Hirschprung disease",
+      "repetition": 3
+    },
+    {
+      "subject": "Orthopedics",
+      "topic": "Supracondylar Humerus",
+      "repetition": 4
+    },
+    {
+      "subject": "Orthopedics",
+      "topic": "Anterior Disloaction of Shoulder",
+      "repetition": 4
+    },
+    {
+      "subject": "Orthopedics",
+      "topic": "Compartment Syndrome",
+      "repetition": 6
+    },
+    {
+      "subject": "Orthopedics",
+      "topic": "Neck of Femur Fracture",
+      "repetition": 4
+    },
+    {
+      "subject": "Orthopedics",
+      "topic": "Fat embolism",
+      "repetition": 4
+    },
+    {
+      "subject": "Orthopedics",
+      "topic": "Ankylosing spondylitis",
+      "repetition": 6
+    },
+    {
+      "subject": "Orthopedics",
+      "topic": "Giant Cell tumor",
+      "repetition": 8
+    },
+    {
+      "subject": "Orthopedics",
+      "topic": "Osteoporosis",
+      "repetition": 8
+    },
+    {
+      "subject": "Anesthesia",
+      "topic": "Capnography",
+      "repetition": 6
+    },
+    {
+      "subject": "Anesthesia",
+      "topic": "Different Type of Circuit",
+      "repetition": 4
+    },
+    {
+      "subject": "Anesthesia",
+      "topic": "CPR",
+      "repetition": 6
+    },
+    {
+      "subject": "Anesthesia",
+      "topic": "Sevoflurane",
+      "repetition": 3
+    },
+    {
+      "subject": "Anesthesia",
+      "topic": "Vecuronium",
+      "repetition": 3
+    },
+    {
+      "subject": "Dermatology",
+      "topic": "Psoriasis",
+      "repetition": 3
+    },
+    {
+      "subject": "Dermatology",
+      "topic": "Tinea Capitis",
+      "repetition": 5
+    },
+    {
+      "subject": "Dermatology",
+      "topic": "Pityriasis Rosea",
+      "repetition": 3
+    },
+    {
+      "subject": "Dermatology",
+      "topic": "Leprosy",
+      "repetition": 11
+    },
+    {
+      "subject": "Dermatology",
+      "topic": "Manifestation of drug reaction",
+      "repetition": 4
+    },
+    {
+      "subject": "Dermatology",
+      "topic": "Pemphigus vulgaris",
+      "repetition": 6
+    },
+    {
+      "subject": "Psychiatry",
+      "topic": "Mania",
+      "repetition": 5
+    },
+    {
+      "subject": "Psychiatry",
+      "topic": "Depression",
+      "repetition": 4
+    },
+    {
+      "subject": "Psychiatry",
+      "topic": "Alcohol Withdrawal",
+      "repetition": 6
+    },
+    {
+      "subject": "Psychiatry",
+      "topic": "Disorder of Thoughts",
+      "repetition": 4
+    },
+    {
+      "subject": "Psychiatry",
+      "topic": "Bullemia Nervosa",
+      "repetition": 4
+    },
+    {
+      "subject": "Psychiatry",
+      "topic": "Schziophrenia",
+      "repetition": 3
+    },
+    {
+      "subject": "Radiology",
+      "topic": "CHPS",
+      "repetition": 4
+    },
+    {
+      "subject": "Radiology",
+      "topic": "PET scan",
+      "repetition": 3
+    },
+    {
+      "subject": "Radiology",
+      "topic": "CT scan",
+      "repetition": 3
+    },
+    {
+      "subject": "Radiology",
+      "topic": "SAH",
+      "repetition": 3
+    },
+    {
+      "subject": "Radiology",
+      "topic": "Neurocysticercosis MRI",
+      "repetition": 3
+    }
+  ]
+}
