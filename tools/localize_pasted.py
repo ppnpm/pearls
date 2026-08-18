@@ -1,9 +1,9 @@
-"""Copy MarkText-pasted images into bookmark-pearls/images/ and rewrite
+"""Copy MarkText-pasted images into images/ and rewrite
 the absolute C:/Users/... paths to relative images/ paths."""
 import os, re, shutil, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-IMGDIR = os.path.join(ROOT, 'bookmark-pearls', 'images')
+IMGDIR = os.path.join(ROOT, 'images')
 PAT = re.compile(r'(?:file:///)?[A-Za-z]:/Users/[^)\s]*?/marktext/images/([^)\s]+)')
 
 

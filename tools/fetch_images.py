@@ -1,13 +1,13 @@
 """Download images for the Q ids cited in a subject pearl file.
 
-Files land in bookmark-pearls/images/, named <qid>-<q|e><n>.<ext>.
+Files land in images/, named <qid>-<q|e><n>.<ext>.
 Content-hash dedup: identical bytes reuse the first-seen filename.
 Idempotent - already-present files are skipped.
 """
 import json, os, re, sys, hashlib, urllib.request, urllib.error
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-IMGDIR = os.path.join(ROOT, 'bookmark-pearls', 'images')
+IMGDIR = os.path.join(ROOT, 'images')
 IDX = json.load(open(os.path.join(ROOT, 'tools/image_index.json'), encoding='utf8'))
 
 EXT_OK = {'.jpg', '.jpeg', '.png', '.gif', '.webp', '.bmp'}
