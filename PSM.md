@@ -22,6 +22,10 @@
 
 **REMEMBER:** *Sensitivity and specificity belong to the test; predictive values belong to the population.*
 
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/282ff7f52b4d583fc04b9a49f08920bc.webp)
+
 `Q10020, Q10057, Q10555`
 
 ---
@@ -43,6 +47,10 @@
 **EXAM CONNECTION:** "True about incidence" → **new cases in a defined period, and it is a rate**; "killing power with no time interval" → **case fatality rate**.
 
 **REMEMBER:** *Prevalence is incidence multiplied by how long people stay ill — so curing without preventing raises it.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/a0e7dbaf4eebf3fa03d2cdcaf52c89da.webp)
 
 `Q10551, Q10552, Q10554, Q10556`
 
@@ -86,6 +94,10 @@
 **EXAM CONNECTION:** "Shows the iceberg phenomenon" → **rubella** (over tetanus, rabies and measles).
 
 **REMEMBER:** *If most infections are silent, the notified cases are only the tip.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/851b62c53b65a2a7ae3101ba8f0206f8.webp)
 
 `Q10549`
 
@@ -150,6 +162,10 @@
 
 **REMEMBER:** *Policy, environments, communities, skills, services — five actions, and none of them is social security.*
 
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/c4542997db76eda4674bb4aeb1e0bb64.webp)
+
 `Q10542, Q10026`
 
 ---
@@ -170,6 +186,10 @@
 **EXAM CONNECTION:** HIV + MDR-TB dying of lobar pneumonia → **I(a) = lobar pneumonia** (respiratory failure is a mode of dying).
 
 **REMEMBER:** *Respiratory failure is how he died; lobar pneumonia is why — and the last line of Part I is what gets counted.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/3a2ac4b56a7a48ec486fa7149d70b8c0.webp)
 
 `Q10553`
 
@@ -234,6 +254,10 @@
 **EXAM CONNECTION:** Life-cycle diagram with fruit bats, pigs and humans → **Nipah virus**.
 
 **REMEMBER:** *Fruit bats, date palm sap and hospital spread — an encephalitis that kills half of those it infects, with nothing but supportive care.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/4bd6f0572d234ff7a7a1547f3143977c.JPEG)
 
 `Q10096`
 
@@ -320,6 +344,10 @@
 
 **REMEMBER:** *Geneva holds the WHO and the Red Cross; New York holds UNICEF; Rome holds the FAO.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7fbec45fbefb428d893451bf128f03f7x900x600.PNG)
+
 `Q10069`
 
 ---
@@ -341,6 +369,10 @@
 **EXAM CONNECTION:** Unknown aetiology → **descriptive study**; natural history → **longitudinal**; causation → **RCT**.
 
 **REMEMBER:** *Describe, then compare, then randomise — only randomisation balances the confounders you never thought of.*
+
+
+**IMAGES:**
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/2e8cc6fba7e65b3627fa232e087bb0d7.webp)
 
 `Q10557, Q10558, Q10559, Q10560, Q10569, Q10570, Q10571, Q10572`
 
@@ -385,6 +417,10 @@
 
 **REMEMBER:** *Relative risk is for the individual, attributable risk is for the population — and the odds ratio is all a case-control study can give you.*
 
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/c9071228eadcd2d109f4b4ddbb99302c.webp)
+
 `Q10563, Q10564, Q10565, Q10566`
 
 ---
@@ -426,6 +462,11 @@
 **EXAM CONNECTION:** "Host does NOT shed the organism" → **latent infection**; "not communicable in the incubation period" → **rabies**.
 
 **REMEMBER:** *Latent means silent and non-infectious; subclinical means silent but shedding.*
+
+
+**IMAGES:**
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/00e6b5dc91c37bffbcb0cdfff0581392.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/dacd150caab4606a6fea05b4f1066f95.webp)
 
 `Q10574, Q10575, Q10583`
 
@@ -511,6 +552,10 @@
 **EXAM CONNECTION:** "Most likely side effect after BCG" → **ulceration**.
 
 **REMEMBER:** *The ulcer is the vaccine working — leave it alone and let it scar.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/b56773cd7ec5dd82ef265a6bd5a8fac8.webp)
 
 `Q10592`
 
@@ -691,6 +736,11 @@ usually about the **freeze-dried preparation's stability** or a **swapped dose (
 **REMEMBER:** *Freeze-dried is tougher; 0.05 for the newborn, 0.1 for everyone else,
 Mantoux-positive at 8 weeks.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/a92349814bd04512a123d2590ee61d21.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0167d0e462734a3d942aad80afa1c23bx1280x2081.JPEG)
+
 `Q10835`
 
 ---
@@ -850,6 +900,10 @@ since the last dose — plug all three into the grid. "Clean wound + primed + >1
 
 **REMEMBER:** *Toxoid for the future, immunoglobulin only when the past is incomplete.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture23_DjB3zMT.jpg)
+
 `Q10871`
 
 ---
@@ -910,6 +964,11 @@ from that one asymmetry.
 **Long whisker on top = positive skew**, regardless of which group has "higher readings".
 
 **REMEMBER:** *The skew follows the tail, and the mean chases the tail.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/04/24/screenshot-2024-04-24-144401.JPG)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/untitled-444.jpg)
 
 `Q10935, Q10920`
 
@@ -982,6 +1041,10 @@ pressures — a sign of significantly reduced compliance.
 threshold for that age**. 48/min at 9 months is below 50 → **no pneumonia**.
 
 **REMEMBER:** *60, 50, 40 — and chest indrawing turns "no pneumonia" into pneumonia.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/402ec23059f642f1840119590a5d55fdx1280x711.PNG)
 
 `Q10975`
 
@@ -1144,6 +1207,10 @@ varicella.
 **REMEMBER:** *If it must be repeated every year against a changing strain, it isn't in the
 UIP.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/21/screenshot-2024-09-21-113044.png)
+
 `Q11216`
 
 ---
@@ -1174,6 +1241,10 @@ rise simply because a survey was conducted).
 programme performance. Grade-2 disability is the only one measuring **delay**.
 
 **REMEMBER:** *Deformity at diagnosis measures the years the disease went unseen.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/10/27/untitled-1.jpg)
 
 `Q11240`
 
@@ -1235,6 +1306,11 @@ that is tracking, not the rule of halves (which is about detection and control).
 **REMEMBER:** *Your blood pressure centile follows you from childhood — so prevention must
 start there.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/19/screenshot-2024-09-19-094506.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/19/screenshot-2024-09-19-094510.png)
+
 `Q11261`
 
 ---
@@ -1265,6 +1341,10 @@ individual). It is the structured antidote to premature closure.
 **analysis**. Anything about tracing *causes* of a problem = **Ishikawa**.
 
 **REMEMBER:** *The fishbone asks "why", the histogram only shows "how many".*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/13/screenshot-2024-06-13-111312.JPG)
 
 `Q11315`
 
@@ -1320,6 +1400,13 @@ scrubs the hospital.*
 
 **REMEMBER:** *Counts use chi-square; measurements use t or ANOVA depending on how many groups.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/333f39128051444e8f62260f161639ebx1280x2998.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/69ce1962b6b64f638b91fe579a829ac4x1280x1675.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/6c32b798c9814526ac720ca4983c538f.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/c0efdba1c9b94f8099e9ec072ccd4fe5.JPEG)
+
 `MD0843, MC4556, MB2760, MB2764, MB2761, MB3161, MB3181, MB3178`
 
 ---
@@ -1340,6 +1427,14 @@ scrubs the hospital.*
 **EXAM CONNECTION:** Two forms — read a curve and state the mean/median/mode order, or choose the measure that compares variability across data sets (**coefficient of variation**).
 
 **REMEMBER:** *The mean chases the tail.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/3d5873cd48224b9b8c3e08c5eac1bce0.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d79321686162499ca8b9174d58e8f7aex1280x2893.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/25c3b8cb808949c2891e9d098cd1ab54x1280x1007.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/44ad7515ca2a463e816a919d6602d752.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/53c3609dccfd4f39a6baf16fe1cf5c97x1280x904.JPEG)
 
 `MB1795, MC6992, MD0847`
 
@@ -1362,6 +1457,12 @@ scrubs the hospital.*
 
 **REMEMBER:** *Scattered but centred is accurate yet imprecise.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/62275b1d441443bc92db11bb3add523ex1280x959.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/7ce2cf0861534857a124a94978d0b2f4.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ee4ded5c67c44716abd4d0a0527f6034x720x748.JPEG)
+
 `MA4963, MC4856`
 
 ---
@@ -1383,6 +1484,13 @@ scrubs the hospital.*
 **EXAM CONNECTION:** The word **"then... then..."** in the stem signals stages. Cluster differs because you study everyone in a selected cluster rather than sampling within it.
 
 **REMEMBER:** *Stages of ever-smaller units means multistage.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/eab4b31aa4f24e689e44c4ccf3abf443x1280x1225.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c86c4e0efdea496487723728f004de8ex1280x1523.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/711b7580f9604a5d8a05eab99ce199ebx1280x1225.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6e085576b4f04e5784a9a2773def8601x1280x978.JPEG)
 
 `MB3216`
 
@@ -1448,6 +1556,10 @@ scrubs the hospital.*
 
 **REMEMBER:** *Already vaccinated means two boosters and no immunoglobulin.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f49dfa01d9bd424db725e4ebf600cb98x1280x3397.JPEG)
+
 `MD0180, MF7555`
 
 ---
@@ -1470,6 +1582,10 @@ scrubs the hospital.*
 
 **REMEMBER:** *Yellow burns, red recycles, white contains sharps, blue takes glass.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/204d3e521e0a4ff6b35b363d9eb057db.JPEG)
+
 `MA1141, MA0720, MC6997`
 
 ---
@@ -1491,6 +1607,12 @@ scrubs the hospital.*
 **EXAM CONNECTION:** Multi-statement format. The two true statements are always about **monitoring heat and cumulative exposure**; the false ones claim it measures efficacy or changes the expiry date.
 
 **REMEMBER:** *Inner square darker means throw it away.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3914a3eb19cf43ec9273112090e7b3f6x600x1199.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c7bd80ca927b42bcb0956bc12ae146b7x956x717.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/549c3f139636430fa5c659529a31d432x1280x1489.JPEG)
 
 `MF7319`
 
@@ -1603,6 +1725,10 @@ scrubs the hospital.*
 
 **REMEMBER:** *Only anaphylaxis and encephalopathy stop the vaccine.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/be675360c109494e9527b7a9d637884a.JPEG)
+
 `MC6158`
 
 ---
@@ -1669,6 +1795,19 @@ scrubs the hospital.*
 
 **REMEMBER:** *Convert the percentage into a tail before counting SDs.*
 
+
+**IMAGES:**
+![explanation](https://cdn1.dailyrounds.org/uploads/99fb903f13594e838e63dcee222ccc82x479x387.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9b2acfa7a0024a73895e0113ce912fbcx1280x1219.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0725718d058e4e2fb192380dce611018x1280x453.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3d1af8db94f94ed484da8d27414d1dafx1280x453.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/305d6bbc4a0f469fb7e0564e3e3889eax1280x453.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/39dff3335b964a29962407c305219e50x1280x1219.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/993dd8a1554d4076b27720cfeb085f55x1280x979.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3be6dcba99de4b9da9d25d64a480a8f4x1280x979.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6f9d650d06b14a07b7e419a9d76e3a18x1280x1415.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/93e2bf4f32dc4ae18ff93a6454c32c28.JPEG)
+
 `MB1984, MB1998, MB1988, MB1954, MB2759, MB1339, MB2663`
 
 ---
@@ -1690,6 +1829,11 @@ scrubs the hospital.*
 **EXAM CONNECTION:** The four options permute **90/10** and **smokers/population**. Anchor: **AR applies to the exposed group.**
 
 **REMEMBER:** *Attributable risk speaks about the exposed; population attributable risk speaks about everyone.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f8f2d7bcf01a465699a42d1a750c87b8x1280x704.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c96f4beb9eb942899198d757d3388918x1280x904.JPEG)
 
 `MF7355`
 
@@ -1713,6 +1857,10 @@ scrubs the hospital.*
 
 **REMEMBER:** *Hard water is 150 to 300; the first blue cup times two gives the grams.*
 
+
+**IMAGES:**
+![explanation](https://cdn1.dailyrounds.org/uploads/bed65d5582c142b8ab4533128373dcabx383x287.PNG)
+
 `MB7378, MB7344, MB7690, MB8309, MB7473`
 
 ---
@@ -1734,6 +1882,14 @@ scrubs the hospital.*
 **EXAM CONNECTION:** Portal names, the 10% TB-HIV cut-off, the < 1% microfilaria rate, and the Aedes flight range are all asked as isolated facts.
 
 **REMEMBER:** *Nikshay for TB, Nikusth for leprosy; Aedes flies only a hundred metres.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/39374e8ae8ff4766ab580e0847668af7.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/b721159d54164affa263a74c5ca91b8b.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/757c2c3ffa7b49d683b56627fa39f325x350x243.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/63efb6787d7b418b9c0acd907790fc3bx347x269.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/783a69fcdd7545f5a6a6166f8c0a73edx700x470.JPEG)
 
 `MC9550, MF5092, MB8291, MC4562, MB8055, MF7526, MB7753`
 
@@ -1776,6 +1932,17 @@ scrubs the hospital.*
 **EXAM CONNECTION:** The dependency ratio calculation fails if you divide by 100 instead of by the working-age population. Write the three age bands out first.
 
 **REMEMBER:** *Divide the dependants by the workers, not by everyone.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/39ac4b0ebc2e4df68482fae477fb0a91x1280x668.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/da0fc9aa2dee499fb8ab86afa8cbe537x1280x667.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/56282516aed8445b855f1227e904dba9x1280x668.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1a03fb429f244ed28e11d9e749e7d723x1280x674.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/344c26b2f7a9496b821ea2b178f3b854x1280x675.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/870010dc0b13449394b6774ec77e6c8cx1280x739.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f03638b6a2544b3b8ecd5800ca7ce5d6x1280x739.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8264d886076a4266a5770f584eb6262ax1280x775.JPEG)
 
 `MB8153, MC3614, MB9123, MC4776`
 

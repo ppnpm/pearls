@@ -21,6 +21,10 @@
 
 **REMEMBER:** *No fever, no wheeze, but eosinophils and a preceding sticky eye — that is chlamydia.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/43902d3b26644a7d84f1c48307b3a13bx720x405.JPEG)
+
 `Q9050`
 
 ---
@@ -41,6 +45,10 @@
 **EXAM CONNECTION:** Egg-on-string X-ray → **TGA, with LEFT (not right) atrial enlargement**.
 
 **REMEMBER:** *Two circulations in parallel — the baby lives only as long as something mixes.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/4088803754f6485e86c124368544173e.JPEG)
 
 `Q9051`
 
@@ -63,6 +71,10 @@
 
 **REMEMBER:** *Lecithin climbs and phosphatidylglycerol arrives last — and orange cells, not blue, mean a mature lung.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8a511b86889940589cb2bcb3420a7831x1279x1317.JPEG)
+
 `Q9052, Q9053`
 
 ---
@@ -84,6 +96,10 @@
 
 **REMEMBER:** *Normal at birth, then coarsening everywhere — and Hunter is the X-linked one with clear corneas.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bc2784866d7a414fad4a7a7c99f36f1dx720x1757.JPEG)
+
 `Q9054`
 
 ---
@@ -104,6 +120,12 @@
 **EXAM CONNECTION:** "True about paediatric resuscitation" → **dysrhythmias are usually due to respiratory insufficiency**; Apgar calculations are straight arithmetic.
 
 **REMEMBER:** *Children arrest because they stop breathing — so breathe for them first.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f8f37dd5c34b439e9595b38f031a2658x1280x4216.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0e3e438686eb4a6d9eccb9c35b5fddd7x1279x1330.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b766f912ac324eef818798b4dfcd97adx1280x1714.JPEG)
 
 `Q9055, Q9065, Q9072`
 
@@ -232,6 +254,11 @@
 
 **REMEMBER:** *Skin and neural tube close together — so a mark on the back means look at the cord.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2861854e307542c4956cda6c41c65c98x1280x1058.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a0894b20fa2743a3bb916cd7c3c3bdc6x1280x2049.JPEG)
+
 `Q9068`
 
 ---
@@ -252,6 +279,10 @@
 **EXAM CONNECTION:** Commonest cause of neonatal ventriculomegaly → **aqueductal stenosis**.
 
 **REMEMBER:** *The aqueduct is the narrowest channel in the system — so it blocks first, and the fourth ventricle stays small.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0f23cd9862fb4267a4c70cdfbdf1607dx1280x3447.057163020466.JPEG)
 
 `Q9069`
 
@@ -274,6 +305,10 @@
 
 **REMEMBER:** *A fixed injury to a growing brain — spastic, never flaccid, and never progressive.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cd480ee47cc947ccb1c31d18bad0e6aax510x520.GIF)
+
 `Q9071`
 
 ---
@@ -295,6 +330,10 @@
 **EXAM CONNECTION:** "All are features of NEC EXCEPT" → **metabolic alkalosis**.
 
 **REMEMBER:** *Preterm, fed on formula, second week — distension, blood in the stool and gas in the bowel wall.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0eca889923ad42119ce8c69bc2479324x512x512.PNG)
 
 `Q9074`
 
@@ -359,6 +398,13 @@
 
 **REMEMBER:** *Half your height by two, triple your birth weight by one — and it is the crossing of centiles that matters.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/793d9bb3c6174486a5408193d7041835.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1f282088fbfb4a008b236b583eadb35fx1280x1159.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/77dc77226c73411dbced219bcf1e09c1x720x799.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1ec7b5e214b047b9abc8e877ac44f637x1280x1271.JPEG)
+
 `Q9079, Q9082, Q9078`
 
 ---
@@ -400,6 +446,11 @@
 **EXAM CONNECTION:** Mentzer index <13 with pallor and organomegaly → **HPLC and peripheral smear**.
 
 **REMEMBER:** *Many tiny cells means thalassaemia; too few cells means iron deficiency — thirteen is the dividing line.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7a2002db86254187911b66e5f9772640x720x546.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1a2fcda0c2c74489b0ad2ad11b3e416dx512x357.PNG)
 
 `Q9084`
 
@@ -444,6 +495,11 @@
 
 **REMEMBER:** *GABA receptors disappear as the seizure runs — so the benzodiazepine must be given early or not at all.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f42ff66bd7d645bb8ad72d5de11a837dx1280x2558.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2b200ea81b4c4699b14b325723a999abx1280x4216.JPEG)
+
 `Q9086, Q9087`
 
 ---
@@ -485,6 +541,10 @@
 **EXAM CONNECTION:** True statements → **asymptomatic neonates have fewer late sequelae**, and **transmission is far higher with primary maternal infection**.
 
 **REMEMBER:** *Test the urine in the first three weeks, and follow the hearing for years.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/02e1c93c48204a64bbcdc767f8231b7ax237x212.JPEG)
 
 `Q9089`
 
@@ -593,6 +653,11 @@
 
 **REMEMBER:** *Treat first, image second — every week without thyroxine costs the brain.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ea6391f8140145268369895a6f3d07fbx881x548.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/301028818d404a6abe467ea8f6995231x489x448.PNG)
+
 `Q9096`
 
 ---
@@ -613,6 +678,11 @@
 **EXAM CONNECTION:** Spasms + regression + hypsarrhythmia → **ACTH**.
 
 **REMEMBER:** *Clusters of salaams with lost milestones and a chaotic EEG — treat within days, not weeks.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ab3b894029134b81bbc7ed16c86b9a75x439x296.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7c4d127d30524a63a2d12ccffa51a60cx510x737.GIF)
 
 `Q9097`
 
@@ -635,6 +705,13 @@
 **EXAM CONNECTION:** Gowers' sign with fatty replacement on biopsy → **DMD; death in the third decade**.
 
 **REMEMBER:** *No dystrophin means the membrane tears with every step — big calves, weak boy, early death.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/a391ced3eb664522bee942516c8733ff.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/64aed9b19da74dbc96065fbfe87167f4x1280x1308.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/114ab9174f4b47e09d9d15ddf464d26ax720x1022.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b3b5906d77cf4ff684c56e928a3410b7x510x482.GIF)
 
 `Q9098`
 
@@ -723,6 +800,10 @@
 
 **REMEMBER:** *Ventilate, do not suction — the meconium was inhaled before you arrived.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a93e19c6560145aca39469f332e775acx1280x2558.JPEG)
+
 `Q9104, Q9645, Q9651, Q9654`
 
 ---
@@ -786,6 +867,10 @@
 
 **REMEMBER:** *Doubles at five months, triples at a year; height doubles at four — and velocity beats any single point.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/31/untitled-186.jpg)
+
 `Q9667, Q9668, Q9669, Q9658`
 
 ---
@@ -827,6 +912,10 @@
 **EXAM CONNECTION:** Ping-pong skull → **rickets (craniotabes)**; last fontanelle to close → **anterior**.
 
 **REMEMBER:** *Soft where the skull is thin, lumpy where osteoid piles up — one deficiency, many signs.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/31/untitled-1196.jpg)
 
 `Q9665, Q9666, Q9652`
 
@@ -1123,6 +1212,10 @@
 
 **REMEMBER:** *Rhodopsin fails first and reversibly; the epithelium fails last and forever.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/06/04/screenshot-2024-06-04-175717.jpg)
+
 `Q9694`
 
 ---
@@ -1186,6 +1279,10 @@
 
 **REMEMBER:** *ATP7A can't get copper IN, ATP7B can't get copper OUT — one starves, the other poisons.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/06/05/picture4.jpg)
+
 `Q9708`
 
 ---
@@ -1206,6 +1303,10 @@
 **EXAM CONNECTION:** Term caesarean baby with distress and fluid in the fissure → **transient tachypnoea of the newborn**.
 
 **REMEMBER:** *No labour, no fluid clearance — a wet lung that dries itself in a day or two.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b958be62285947328a78be9442cc901e.PNG)
 
 `Q10004`
 
@@ -1228,6 +1329,10 @@
 **EXAM CONNECTION:** Asymptomatic coin in the oesophagus → **observe 24 hours, then endoscopy**; button battery → **remove immediately**.
 
 **REMEMBER:** *A coin can wait a day; a battery burns through in four hours.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/3cd013b9ea9545659f348a586a8fe96c.JPEG)
 
 `Q10041`
 
@@ -1335,6 +1440,11 @@
 
 **REMEMBER:** *Drooling, tripod, no cough — don't touch the throat, take him to theatre.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/53482c61d5eb4c9f987753bf83b216e2x720x804.PNG)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/31/untitled-1185.jpg)
+
 `Q10152, Q10355, Q9650`
 
 ---
@@ -1355,6 +1465,10 @@
 **EXAM CONNECTION:** 6 days of fever with strawberry tongue, conjunctival congestion and peeling → **IVIG**.
 
 **REMEMBER:** *Everything is treatable except the aneurysm — so give IVIG inside ten days.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/01/17/screenshot-2024-01-17-120130.jpg)
 
 `Q11512`
 
@@ -1397,6 +1511,13 @@
 **EXAM CONNECTION:** Weight-for-height normal but height-for-age <−2 SD → **chronic malnutrition (stunting)**; a plotted point between −2 and −3 SD → **moderate malnutrition, teach the mother to feed**.
 
 **REMEMBER:** *Wasting is this month's hunger; stunting is the last three years of it.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/793d9bb3c6174486a5408193d7041835.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1f282088fbfb4a008b236b583eadb35fx1280x1159.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/77dc77226c73411dbced219bcf1e09c1x720x799.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1ec7b5e214b047b9abc8e877ac44f637x1280x1271.JPEG)
 
 `Q11517, Q10147`
 
@@ -1461,6 +1582,10 @@
 
 **REMEMBER:** *A minute of good breathing before any drug — the newborn heart stops for want of air.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/11/picture12_TNm00xF.jpg)
+
 `Q11525, Q11542, Q11522`
 
 ---
@@ -1481,6 +1606,10 @@
 **EXAM CONNECTION:** "Does NOT enlarge the left atrium" → **atrial septal defect**.
 
 **REMEMBER:** *Only the ASD lets the left atrium off — everything else sends the blood back to it.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/13/98.jpg)
 
 `Q11527, Q11528`
 
@@ -1524,6 +1653,11 @@
 
 **REMEMBER:** *Transfused blood lies to the HPLC; ferritin lies about the iron — go to the DNA and to the liver.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/13/111_BYg1SyJ.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/13/111.jpg)
+
 `Q11532, Q11551, Q11554`
 
 ---
@@ -1544,6 +1678,10 @@
 **EXAM CONNECTION:** Indication for steroids in HSP → **gastrointestinal symptoms**.
 
 **REMEMBER:** *The rash looks worst and matters least; the kidney looks quiet and matters most.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/10/28/picture144.jpg)
 
 `Q11534, Q11544`
 
@@ -1587,6 +1725,10 @@
 
 **REMEMBER:** *Sutures stop the cephalhaematoma — and nothing stops the subgaleal.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/01/29/picture5_eZ8yfLs.jpg)
+
 `Q11538`
 
 ---
@@ -1609,6 +1751,10 @@
 
 **REMEMBER:** *Block cortisol, back up the androgens — the girl is virilised and the boy just collapses.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/23/screenshot-2024-02-23-131544.jpg)
+
 `Q11541`
 
 ---
@@ -1629,6 +1775,10 @@
 **EXAM CONNECTION:** Score calculations → **Silverman higher = worse (preterm), Downes 4–6 = moderate distress**; fluid of choice in children → **dextrose-normal saline for maintenance**.
 
 **REMEMBER:** *Apgar counts up to health; Silverman counts up to failure.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/23/screenshot-2024-08-23-160859.png)
 
 `Q11545, Q11547, Q11549`
 
@@ -1672,6 +1822,10 @@
 
 **REMEMBER:** *Small, thin skin, big surface — the tinier the baby, the thirstier the sums.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/27/screenshot-2024-08-27-181740.png)
+
 `Q11556`
 
 ---
@@ -1713,6 +1867,10 @@
 **EXAM CONNECTION:** "Indicates poor prognosis in ALL" → **age >10 years** (the others listed are favourable).
 
 **REMEMBER:** *Baseline features suggest the odds; how fast the marrow clears decides them.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/14/screenshot-2024-09-14-115108.png)
 
 `Q11559`
 
@@ -1776,6 +1934,10 @@
 
 **REMEMBER:** *A broken DNA-repair kinase: wobbly gait, red eyes, no IgA, and never, ever irradiate.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/14/screenshot-2024-09-14-114259.png)
+
 `Q11564, Q11531`
 
 ---
@@ -1796,6 +1958,10 @@
 **EXAM CONNECTION:** Straight calculation → **(183+175)/2 + 6.5 = 185.5 cm**.
 
 **REMEMBER:** *Average the parents, then add or subtract half the sex difference — six and a half centimetres.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/27/screenshot-2024-08-27-181950.png)
 
 `Q11571, Q11585`
 
@@ -1818,6 +1984,10 @@
 
 **REMEMBER:** *A decade-old measles that never left — the CSF still has the IgG to prove it.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/10/28/picture155.jpg)
+
 `Q11572`
 
 ---
@@ -1838,6 +2008,10 @@
 **EXAM CONNECTION:** Hypotonia + exaggerated reflexes + seizures + miosis → **Sarnat stage 2**.
 
 **REMEMBER:** *Irritable is mild, seizing is moderate, silent is severe — and cooling must start within six hours.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/07/28/untitled-171.jpg)
 
 `Q11586`
 
@@ -1860,6 +2034,10 @@
 
 **REMEMBER:** *It is the lesion, not the milk — cover the sore breast and keep feeding from the other.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/22/picture21.jpg)
+
 `Q11580, Q11588`
 
 ---
@@ -1881,6 +2059,11 @@
 
 **REMEMBER:** *Same locus, opposite direction — Beckwith grows too much, Russell–Silver too little.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/15/picture7.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/screenshot-2024-03-15-121446.jpg)
+
 `Q11582`
 
 ---
@@ -1901,6 +2084,10 @@
 **EXAM CONNECTION:** Energy from saturated fat in children → **<10% of total energy intake**.
 
 **REMEMBER:** *Fat freely until two, then keep the saturated share under a tenth.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/10/28/picture149.jpg)
 
 `Q11575`
 
@@ -1965,6 +2152,15 @@
 
 **REMEMBER:** *Minimal change loses only function; FSGS loses podocytes — and scars never respond to steroids.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/db6ae24576264763909c2f2b9d45fb34x1280x1186.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/882445d2c6464d388e82e64feddc69a6x1279x1133.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b1f885d3f3e041ad9c9cc4f5b5484ca0x1279x1172.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/782746217ba44f388bdb78c6fab8de2bx1279x1189.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/24520707945b48abb56bb8afba19beabx720x687.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7a297a03f6db49959196ff715d59b609x1280x1685.JPEG)
+
 `Q11782`
 
 ---
@@ -2028,6 +2224,12 @@
 
 **REMEMBER:** *Dengue leaks before it bleeds — replace the plasma, not the platelets.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/454ecfb2da134d66a5637932d1c4d161x1280x2559.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7a1485534f2b4b2f9f5120f752fc6a05x1279x1636.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7096767ed9834e33989af2704056cc4dx1280x1999.JPEG)
+
 `Q11785`
 
 ---
@@ -2048,6 +2250,10 @@
 **EXAM CONNECTION:** "True about the difference between adult and paediatric resuscitation" → **dysrhythmias are most often due to respiratory insufficiency in children**.
 
 **REMEMBER:** *Adults arrest from the heart and children from the lungs — so give them air.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f8f37dd5c34b439e9595b38f031a2658x1280x4216.JPEG)
 
 `Q11781, Q11574, Q11567`
 
@@ -2090,6 +2296,10 @@
 
 **REMEMBER:** *Posterior closes by 2–3 months, anterior by 18 months — late closure means think thyroid or rickets.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/31/screenshot-2024-08-31-100636.png)
+
 `Q11641`
 
 ---
@@ -2110,6 +2320,13 @@
 **EXAM CONNECTION:** "Structures punctured while piercing the marked structure" → **scalp, dura, arachnoid** (options adding "epicranium/pericranium" or "synchondral membrane" are the traps).
 
 **REMEMBER:** *Anterolateral, never midline — the sagittal sinus runs down the middle.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/10d6683b67294cf6986153a37723161d.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/35a53ccedc3f4a359a092d48fcf556f1x1024x760.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d81c377c6a784ff386d7d5792b8fd5b6x1200x1429.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6eaf29a13fe2400bb517cabc90c59a90x1279x954.JPEG)
 
 `Q11790`
 
@@ -2140,6 +2357,11 @@ pathognomonic for Williams in an exam.
 
 **REMEMBER:** *DiGeorge lost its parathyroids (low Ca); Williams keeps too much (high Ca)
 and is too friendly.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/16/picture8.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/16/picture9.jpg)
 
 `Q9539, Q9540`
 
@@ -2177,6 +2399,15 @@ syndrome)") to catch candidates who match the number without reading the name. C
 **both halves** of every option.
 
 **REMEMBER:** *18 = overlapping fingers; 13 = midline splits (brain, lip, extra digits).*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/15/picture17.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/screenshot-2024-03-15-180713.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/picture18.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/picture19.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/picture20.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/screenshot-2024-03-15-181556.jpg)
 
 `Q9536, Q9543`
 
@@ -2216,6 +2447,11 @@ Turner (wrong; **reassurance/hormone replacement**), and Turner offered for an a
 **REMEMBER:** *Turner is left-sided (coarctation) and female-only; Noonan is right-sided
 (pulmonary stenosis) and runs in families.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/16/picture3.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/screenshot-2024-03-15-182307.jpg)
+
 `Q9537, Q9544, Q9545`
 
 ---
@@ -2246,6 +2482,10 @@ phenomenon.
 
 **REMEMBER:** *Each generation adds repeats — the disease gets younger and worse.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/16/picture4.jpg)
+
 `Q9538`
 
 ---
@@ -2275,6 +2515,14 @@ confusing "doubles at 5 months" with "triples at 1 year".
 **REMEMBER:** *5 months double, 1 year triple, 2 years quadruple; six months for milk
 teeth, six years for permanent.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/screenshot-2024-03-15-115946.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/screenshot-2024-03-15-120038.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/screenshot-2024-03-15-120714.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/16/picture10_m1Jb2hU.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/picture11_fraD3sV.jpg)
+
 `Q9546, Q9547, Q9548, Q9549, Q9550, Q9551, Q9552`
 
 ---
@@ -2301,6 +2549,10 @@ not reliably cannulable until ~18 weeks.
 15 weeks → amniocentesis, 12 weeks → CVS, 19 weeks with fetal anaemia → cordocentesis.
 
 **REMEMBER:** *11–14 chorion, 15+ fluid, 18+ cord.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/screenshot-2024-03-15-172319.jpg)
 
 `Q9542`
 
@@ -2359,6 +2611,11 @@ the **hypotonic then obese** child, Beckwith–Wiedemann the **big** newborn wit
 **REMEMBER:** *Same locus, opposite parents: Russell–Silver shrinks, Beckwith–Wiedemann
 overgrows.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/15/picture7.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/screenshot-2024-03-15-121446.jpg)
+
 `Q9553`
 
 ---
@@ -2385,6 +2642,11 @@ you read the options; the actual question is usually an **associated feature** �
 **microcephaly**, never macrocephaly.
 
 **REMEMBER:** *5p minus — the cat cries because the larynx is small.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/16/picture13_HbjKDvS.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/16/screenshot-2024-03-16-102112.jpg)
 
 `Q9541`
 
@@ -2418,6 +2680,10 @@ Read the qualifier.
 
 **REMEMBER:** *Lumirubin leaves for good — the reversible isomer comes back.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/05/09/picture1_OVQZJf1.jpg)
+
 `Q9576`
 
 ---
@@ -2448,6 +2714,11 @@ iron deficiency anaemia**.
 
 **REMEMBER:** *Human milk feeds a brain (lactose); cow's milk builds a calf (protein and
 calcium).*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/14/screenshot-2024-09-14-123244.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/22/picture21.jpg)
 
 `Q9574, Q9573`
 
@@ -2509,6 +2780,11 @@ answer is Bardet–Biedl.
 **REMEMBER:** *A ciliopathy: bad cilia in the retina, the kidney and the hypothalamus —
 plus one finger too many.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/02/picture12_0UYI8YO.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/04/02/picture14_b6JG5d4.jpg)
+
 `Q9572`
 
 ---
@@ -2539,6 +2815,10 @@ pathognomonic; the associated question is usually the **type of ossification aff
 (membranous)** or the **gene (RUNX2)**.
 
 **REMEMBER:** *No clavicles, no fontanelle closure, too many teeth — membrane bone fails.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/26/picture5_88c0u6E.jpg)
 
 `Q9578`
 
@@ -2571,6 +2851,10 @@ PA to **ascending** aorta". **Potts goes to the descending aorta.**
 **REMEMBER:** *Waterston is up front (ascending–right); Potts is down the back
 (descending–left); BT comes off the arm.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/19/picture4.jpg)
+
 `Q9600`
 
 ---
@@ -2601,6 +2885,10 @@ brain injury always beats lung injury in these stems.
 
 **REMEMBER:** *Lungs recover; germinal matrix bleeds do not.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/20/screenshot-2024-03-20-125653.png)
+
 `Q9601`
 
 ---
@@ -2629,6 +2917,10 @@ carbonic anhydrase inhibitor) has a limited temporising role.
 or a foramen-naming question along the circulation pathway.
 
 **REMEMBER:** *Half a litre a day into a 150 mL space — the tap never turns off.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/30/9_vxVMydq.jpg)
 
 `Q9571`
 
@@ -2691,6 +2983,10 @@ vomiting, target sign, low potassium with acidic urine. The question is often th
 (erythromycin) or the **first step** (fluids and electrolytes, not surgery).
 
 **REMEMBER:** *Vomiting acid, alkalotic blood, acid urine — fix the salt before the scalpel.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture32.jpg)
 
 `Q10859`
 
@@ -2927,6 +3223,11 @@ it separates WAS from ITP and from Bernard–Soulier.
 
 **REMEMBER:** *The cell that makes surfactant is also the cell that rebuilds the alveolus.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/32687bfa2ad7416dbf634a9b1d28ddd0.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7901dad0826f48d1a03a6ae952a50a5fx1280x1449.JPEG)
+
 `MF2557`
 
 ---
@@ -2947,6 +3248,10 @@ it separates WAS from ITP and from Bernard–Soulier.
 **EXAM CONNECTION:** Read whether the question says **congenital/intrauterine** or **perinatal/intrapartum** — rubella and CMV swap places between the two.
 
 **REMEMBER:** *Rubella strikes in the first trimester, hepatitis B at delivery.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8190e65c717840348c7b48bad4f5ed3ex237x212.JPEG)
 
 `MF9137, MG1226`
 
@@ -2991,6 +3296,11 @@ it separates WAS from ITP and from Bernard–Soulier.
 
 **REMEMBER:** *If the child can drink eagerly, use the mouth.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f174f3e0e9654f8898e1d3176b16b078x510x428.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/faa30532230b4f2a8f6be81f7d14f35bx1280x601.GIF)
+
 `MC0768, MA0492`
 
 ---
@@ -3012,6 +3322,10 @@ it separates WAS from ITP and from Bernard–Soulier.
 **EXAM CONNECTION:** The multi-statement version tests the **name (Shakir, not Shelter)** and the **user (frontline field workers)**; the 13.5–14.5 cm figure is a fabricated distractor.
 
 **REMEMBER:** *Under 11.5 is red and severe.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/c9a84f4021234da999600676b9fd9ecc.PNG)
 
 `MF7403`
 
@@ -3077,6 +3391,10 @@ it separates WAS from ITP and from Bernard–Soulier.
 
 **REMEMBER:** *Thirty ossification centres in one small film.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cfe78ed1becc4b36877ba156e10d8c7fx1280x1325.JPEG)
+
 `MC1583, MA4766, MA4743`
 
 ---
@@ -3119,6 +3437,10 @@ it separates WAS from ITP and from Bernard–Soulier.
 
 **REMEMBER:** *Tyrosine crystals scar the cornea and thicken the palms.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d3592349a17649a495f7368eaed11e0cx853x788.JPEG)
+
 `MA7680`
 
 ---
@@ -3139,6 +3461,10 @@ it separates WAS from ITP and from Bernard–Soulier.
 **EXAM CONNECTION:** The image identifies the virus; the question then asks for another disease it causes. **Pure red cell aplasia** is the answer to look for.
 
 **REMEMBER:** *It stops red cell production — harmless unless your red cells are already dying fast.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/f62e23303e5348a7aa37c3f98f8400ac.JPEG)
 
 `MF9129`
 
@@ -3162,6 +3488,10 @@ it separates WAS from ITP and from Bernard–Soulier.
 
 **REMEMBER:** *Never blow air into a chest that already contains bowel.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f4f1fdad64d24053b439a528cf873989x1280x1660.JPEG)
+
 `MA0437, MG1228`
 
 ---
@@ -3184,6 +3514,10 @@ it separates WAS from ITP and from Bernard–Soulier.
 
 **REMEMBER:** *Fluid first, insulin an hour later, never a bolus.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3bd9e1e7228e4ca0bf552de377af0dcax1280x2847.JPEG)
+
 `MG1232`
 
 ---
@@ -3204,6 +3538,11 @@ it separates WAS from ITP and from Bernard–Soulier.
 **EXAM CONNECTION:** The phrase "neuronal migration disorder" is the discriminator; three of the four options are malformations from entirely different embryological stages.
 
 **REMEMBER:** *A grey-matter-lined cleft means neurons never finished their journey.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9044eed955ea423ca59becaf009b7cbax524x599.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/caceca2b617f4eb9961902747099b11bx521x600.PNG)
 
 `MA6600`
 
@@ -3227,6 +3566,11 @@ it separates WAS from ITP and from Bernard–Soulier.
 
 **REMEMBER:** *Chaotic EEG needs a hormone, not an anticonvulsant.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ab3b894029134b81bbc7ed16c86b9a75x439x296.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7c4d127d30524a63a2d12ccffa51a60cx510x737.GIF)
+
 `MF5349`
 
 ---
@@ -3247,6 +3591,10 @@ it separates WAS from ITP and from Bernard–Soulier.
 **EXAM CONNECTION:** Compute the ratio, compare it with the age-appropriate value, then decide **trunk vs limb**. The numbers in the stem are always sufficient.
 
 **REMEMBER:** *Low ratio means short spine; high ratio means short limbs.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ff4b272b8f7744ad8515e1f3a41a04c2x1280x1269.JPEG)
 
 `MA4771`
 
@@ -3312,6 +3660,14 @@ it separates WAS from ITP and from Bernard–Soulier.
 
 **REMEMBER:** *Cartilage keeps calcifying while bone stops forming — dense line above, weak zone below.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/78592172dff84017a824c47084b3f181x1024x906.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/152a1b898cf7423e8db2c64ed805b112x400x345.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/590560b692034428a7dd6175a72d13ddx720x629.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/69c19899e6a64af8ba2d4d1965c58b7ax571x600.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ce742f2400be4e62813aa4a052447418x1280x1326.JPEG)
+
 `MC0259, MA0452`
 
 ---
@@ -3332,6 +3688,10 @@ it separates WAS from ITP and from Bernard–Soulier.
 **EXAM CONNECTION:** "Not associated with" → **low intelligence**. The facial features are all genuine.
 
 **REMEMBER:** *First and second arch only — the face is affected, the brain is not.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e8b3ba89fff54db08219fed4033a5223x625x416.JPEG)
 
 `MB0256`
 

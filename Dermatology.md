@@ -22,6 +22,19 @@
 
 **REMEMBER:** *Pemphigus is high and flaccid (desmosomes, fish-net); pemphigoid is deep and tense (hemidesmosomes, linear).*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/7202feb9ae9e4bd2a0e8ecccc9407651.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0c66be1b066a4daaaca44d79f53553efx510x517.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0f94366c078c446e8976a3fec9ef39c9x1279x1302.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/44836fa9df094deab7c35b5ec0a196b3x1279x1302.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ea55e6373d764d269353c4a3eb06d31ax510x502.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/75e3113d9e6349af963733a2482e82b2x800x1066.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4cc656298b3a4f73a90f0df583bb05a8x384x218.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2691ca23e5424b91a33862186dd7d646x800x1066.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/36f8ba3f8011493fb3be9a3650d07aebx720x472.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/68496a060b3d4f839103073ae151a71dx1280x1128.JPEG)
+
 `Q8820, Q8861, Q8860`
 
 ---
@@ -43,6 +56,11 @@
 
 **REMEMBER:** *Ulnar is most affected, but you biopsy the superficial radial — take sensation, never motor.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/8c615a42eec4403b9e5f22e8b25556bf.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/41e8dd759c074ba0a1c32c49bf96fc3c.JPEG)
+
 `Q8821, Q8859, Q8857, Q8849`
 
 ---
@@ -63,6 +81,13 @@
 **EXAM CONNECTION:** A polarised light microscopy image of hair → name the disorder. The banding pattern is the whole question.
 
 **REMEMBER:** *Tiger tail = trichothiodystrophy (no cancer risk); bamboo = Netherton; beads = monilethrix; paintbrush = trichorrhexis nodosa.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/271c79dc72ec432c808ea2db9f703182.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b4122fff0680487bb4b1e5fa66c4f6a5x444x483.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b1c54dda60c54955a4012691ef7398e6x483x585.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/95bf059c2e064499bafc8b948dbb3c4dx603x600.JPEG)
 
 `Q8829`
 
@@ -105,6 +130,10 @@
 **EXAM CONNECTION:** Pure matching question; and separately, nail changes → psoriasis.
 
 **REMEMBER:** *Collarette rosea, silvery psoriasis, mica lichenoides, branny versicolor.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d9bd6517e74a4f0ea85b34e5c1da6437.PNG)
 
 `Q8858, Q8856`
 
@@ -149,6 +178,11 @@
 
 **REMEMBER:** *EM is a virus (herpes) with true 3-zone targets; SJS/TEN is a drug with flat targets and dying mucosa.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b71e5ac3bce140de96dcfa1d23bdf9d3.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5be2d00772a2488998c28496dc777016x359x348.PNG)
+
 `Q8842`
 
 ---
@@ -172,6 +206,10 @@
 
 **REMEMBER:** *One dermatome, never crossing the midline, posterior roots, mucosa included — and the contact gets chickenpox.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/2ce918eae0784e26ad3534e2fccfd767.PNG)
+
 `Q8843`
 
 ---
@@ -193,6 +231,13 @@
 
 **REMEMBER:** *Bindi–PTBP, rubber–MBEH, hair dye–PPD, alta–azo dyes. All are tyrosine look-alikes that kill melanocytes.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/3f88529817824c63b0ee93a8eeec6fa2.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/68a2d09f47c8453a86f8f293db25b2e2x512x401.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e98d079c9ccc4999aeb7779574039be4x512x370.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b510338bdedd4dec9b14c58befaeab11x512x371.PNG)
+
 `Q8841`
 
 ---
@@ -212,6 +257,12 @@
 **EXAM CONNECTION:** Image of an eschar in a forest worker → "which is NOT a differential?" → **KFD**.
 
 **REMEMBER:** *Eschar = inoculation site. Scrub typhus, anthrax, spider bite — never KFD.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b8b948517fd94c93aa970d53c3cda85c.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9ea4455437b64f2fb0c805fc90ed0808x720x416.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a3ab8b9981554aed8921824dfdbcaaa7x720x490.PNG)
 
 `Q8847`
 
@@ -235,6 +286,12 @@
 
 **REMEMBER:** *Simplex heals clean (keratin, high); dystrophic scars and turns malignant (collagen VII, deep).*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c08b194812b34c53bbcb36719edb84aax1280x1064.JPEG)
+![explanation](https://cdn1.dailyrounds.org/uploads/4c225646fe424631866c9d31563634a2.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/2596aff9ba73469ba2ac5201630db157.PNG)
+
 `Q8825, Q8846`
 
 ---
@@ -257,6 +314,15 @@
 
 **REMEMBER:** *A boggy pustular scalp mass in a child with a pet is fungal, not bacterial — give oral griseofulvin, not a scalpel.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/c7fa972e42e14f51ab949c6bb06b6c19.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f15a8c3c1922486fbb33f2920f09c0c2x512x358.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2cb3ebe4bbad404dae2c463d49ab443ax720x540.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/af84bb4b2600408aae39b46e6bf7a4bex800x600.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c9535a74c44e4414810b5b9067b44580x800x600.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a4f9e5c233a049229576d4f4860f0df2x800x600.JPEG)
+
 `Q8850`
 
 ---
@@ -277,6 +343,13 @@
 **EXAM CONNECTION:** Image of an annular plaque with central scarring → "which drug/therapy?" → **anti-tubercular therapy**.
 
 **REMEMBER:** *Heals centrally, creeps outward, apple-jelly on diascopy — lupus vulgaris.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/a2689f895add44b2a0db3c443ed1c72a.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d670754e1ff84670a560b4d6c01030acx1100x700.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f76e3f9a008b4177bca3fc93235f8bbex1280x1422.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7d520f373b5444a78ca3afcf1167cbd1x1280x900.JPEG)
 
 `Q8845`
 
@@ -299,6 +372,10 @@
 
 **REMEMBER:** *Same drug, same spot, every time — memory T cells are waiting there.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/345b549e83ab4455865cab5f24863b73x720x581.PNG)
+
 `Q8854`
 
 ---
@@ -319,6 +396,10 @@
 **EXAM CONNECTION:** "False regarding scleredema" → **"associated with sclerodactyly or Raynaud phenomenon"**. Separately, an image of mottled depigmentation with retained follicular pigment → **salt and pepper** → systemic sclerosis.
 
 **REMEMBER:** *Scleredema: thick back, spared hands, no Raynaud's. Scleroderma: tight hands, Raynaud's first, salt-and-pepper skin.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/3f8fbb147d334ed5907f39c38c61c3b8.PNG)
 
 `Q8838, Q8855`
 
@@ -341,6 +422,10 @@
 
 **REMEMBER:** *Whip marks that were never whipped — bleomycin, and remember its lungs.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/ce4017efb0e54947a0dd6d5376823367.PNG)
+
 `Q8828`
 
 ---
@@ -361,6 +446,14 @@
 **EXAM CONNECTION:** Night blindness + keratotic papules on elbows → **phrynoderma**.
 
 **REMEMBER:** *Toad skin on the elbows with night blindness — but treat the whole diet, not just vitamin A.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/eb3c6072ad8445ef81861f5a3b254ea3.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b29c313687194d5ab1b4de38e3193a12x1280x1237.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5d41fa736cc84332b073156c0015e490x1280x1300.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f0134c6609184b61976226da593d114ax1280x984.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bdffe12098534c63a152136e2867643ax1280x1533.JPEG)
 
 `Q8851`
 
@@ -383,6 +476,11 @@
 
 **REMEMBER:** *Off at 48 hours, read again at 96 — allergy crescendos, irritation fades.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6ebc687310f342eb903cfc11bb43f880x1024x768.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1b4a7219538548db927a8f59da688b60x1280x936.JPEG)
+
 `Q8823, Q8827`
 
 ---
@@ -404,6 +502,13 @@
 
 **REMEMBER:** *Unilateral, doesn't cross the midline, white hairs early — segmental vitiligo, and it needs surgery not creams.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/128713be3d6d433a9d382853858a7923.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ca3f74c7155b465283dd1ff0677a5e1ax720x1440.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7f3ba8a5c000485d928e7c7c3ac394d7x1024x768.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/aa5902707aae41afb9e5454dd77afa78x505x246.PNG)
+
 `Q8848`
 
 ---
@@ -423,6 +528,10 @@
 **EXAM CONNECTION:** "Cutis marmorata occurs due to" → **exposure to cold temperature**.
 
 **REMEMBER:** *If it vanishes on warming it is physiological; if it is fixed, think CMTC or a trisomy.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8329af0f29b04662b7b94888e138dca0x1280x1846.JPEG)
 
 `Q8840`
 
@@ -445,6 +554,10 @@
 
 **REMEMBER:** *Straight lines and sharp angles on normal skin, in places the hand can reach — the skin was not sick, it was injured.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/a3fc83256f6c455cbf15f49328c2b197.png)
+
 `Q8826`
 
 ---
@@ -464,6 +577,10 @@
 **EXAM CONNECTION:** "All are part of NAME syndrome EXCEPT" → **Ebstein anomaly** (a cardiac lesion inserted to catch you).
 
 **REMEMBER:** *Myxomas plus spotty pigmentation plus endocrine overactivity — and always echo the heart.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/acd1db191f4d487ea4d71b3072c6b344x1268x1206.JPEG)
 
 `Q8865`
 
@@ -485,6 +602,12 @@
 **EXAM CONNECTION:** Image of orange palmoplantar keratoderma + histology of ortho/parakeratosis → **PRP**.
 
 **REMEMBER:** *Orange skin with islands of normal in a sea of red — pityriasis rubra pilaris.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d95a82b11cb24c0b9f441fd22698ae8a.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f7efd5cfe58347fab23e815e6db7c4d8x512x343.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/49d94cf0d72c4848bc6e37e703e3724ex356x496.JPEG)
 
 `Q8886`
 
@@ -508,6 +631,11 @@
 
 **REMEMBER:** *Good immunity: few bacilli, big granulomas, positive lepromin, badly damaged nerves — that is tuberculoid.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/c06b41ee9ace4b48aa8990f2ccbd4cd3.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c804d280380847679e81d53da558702cx1280x1352.2143864598024.JPEG)
+
 `Q8887`
 
 ---
@@ -528,6 +656,12 @@
 **EXAM CONNECTION:** Transplant patient + perianal/scalp plaques + targetoid intracytoplasmic inclusions → **malakoplakia**.
 
 **REMEMBER:** *Macrophages that swallow but cannot digest — and the debris calcifies into Michaelis–Gutmann bodies.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/7a5d057158454c2884bfafb0fae4dc9e.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/47a3d60857e047babd8641b36e8e9fc0x1279x1079.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/928b9801bda54ff68dd1c78ea5d00b86x1199x816.JPEG)
 
 `Q8889`
 
@@ -551,6 +685,12 @@
 
 **REMEMBER:** *A squared-off block of sclerosed dermis — morphoea, and no Raynaud's means it is not systemic.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/5576aade587948e1a5a5a4da521f3193.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/22f1a7f935d44bc68f7fe39709fd1971x1280x1187.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e675bcf8d802402580c8ca820dc77dc3x1280x1186.JPEG)
+
 `Q8890`
 
 ---
@@ -572,6 +712,10 @@
 **EXAM CONNECTION:** Treated leprosy + painless plantar ulcer → "next step" → **rest, splints and foot care**.
 
 **REMEMBER:** *An anaesthetic foot ulcerates from walking, not from bacilli — take the weight off it.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/59a1b60312fc4c88ad721abd84e9913d.PNG)
 
 `Q8892`
 
@@ -595,6 +739,10 @@
 
 **REMEMBER:** *Isotretinoin is the only drug that fixes all four causes — and the only one that can cure. Never in pregnancy.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/ac7f0b28b1bf4213b1e2ea3fc0c7b12f.PNG)
+
 `Q8893`
 
 ---
@@ -617,6 +765,11 @@
 
 **REMEMBER:** *Simple is the triple response, white belongs to the atopic, black is just metal, cholinergic is a line of tiny weals.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/af9c900dc4d4436a95bb64ecf1d4ddc3x1280x960.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e75400f2cca144e2b279004337f88f0dx1072x1438.PNG)
+
 `Q9878`
 
 ---
@@ -638,6 +791,16 @@
 
 **REMEMBER:** *Granular in the papillae means gluten; linear at the junction means the string of pearls.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/7755febf82a447d88bc621f8ea19a95f.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4adbe9d9b2f14b19983d1de823ed26e7x1280x950.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/93a5c1b8369a4c41ae47030b32cc24c9x384x218.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a6be041776ef47ed9663d36691608a83x1206x1104.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/8016535901d0458f9ccba891baefbb35.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d2ffa1905d93404189705c82b1e6df17x384x218.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f310aa1c7017420ba0bfeee1df97d9fbx188x145.JPEG)
+
 `Q9922, Q9949, Q10270`
 
 ---
@@ -658,6 +821,14 @@
 **EXAM CONNECTION:** Infant + fever that breaks as the rash appears + oral ulcers at the uvulopalatoglossal junction → **roseola infantum**.
 
 **REMEMBER:** *Fever first, rash when the fever breaks, Nagayama spots in the mouth — and it is why babies fit.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/89a7318b1135442385cd06b87a0afc3a.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f36a3008aeff465eae43e3a503746536x670x599.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/31e1684b5cd94140a215cb698ef417b8x753x673.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fc5a6c52271f48bdb61f417171eaf6e5x1280x1706.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0765a3830b0b496e8012c78c66ef2215x1280x1410.JPEG)
 
 `Q9936`
 
@@ -701,6 +872,10 @@
 
 **REMEMBER:** *Velvety flexures = too much insulin. Sudden, itchy, on the palms and mucosa in a thin adult = look for a stomach cancer.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4a7761496c064d8bb1e0bd92479dd856x211x177.JPEG)
+
 `Q10023`
 
 ---
@@ -721,6 +896,10 @@
 **EXAM CONNECTION:** "Darier's sign is seen in" → **urticaria pigmentosa** (Darier's disease is deliberately offered).
 
 **REMEMBER:** *Rub it and it weals — mast cells. Darier's SIGN and Darier's DISEASE are unrelated.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bfabb8387f314858949b8192868729e9x1280x2310.JPEG)
 
 `Q10025`
 
@@ -744,6 +923,10 @@
 
 **REMEMBER:** *Hypopigmented patch from Bihar with NORMAL sensation and old fever — PKDL, the reservoir of kala-azar.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/06/15/screenshot-2024-06-15-114035.png)
+
 `Q10043`
 
 ---
@@ -766,6 +949,11 @@
 
 **REMEMBER:** *Weak but not sore, purple eyelids, papules ON the knuckles — and in an adult, go looking for a cancer.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/40c43dd8c3f04527907abf2dadb68bcb.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/42d5abac25a84f59a8480e1f6d87ef7ax1280x1182.5105782792666.JPEG)
+
 `Q10206, Q10257`
 
 ---
@@ -786,6 +974,10 @@
 **EXAM CONNECTION:** The triad is the question — memorise it as a unit.
 
 **REMEMBER:** *Tenosynovitis, pustules and flitting joint pains in a young adult — culture every orifice and give ceftriaxone.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/aa379fd4309a43b189cafd5d738dad92x327x229.PNG)
 
 `Q10208`
 
@@ -808,6 +1000,10 @@
 
 **REMEMBER:** *Blisters starting at the umbilicus = pemphigoid gestationis. Hives in the striae sparing the umbilicus = PUPPP.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/430f46f6ab8e4def91566ce397bf977ax344x428.PNG)
+
 `Q10242`
 
 ---
@@ -828,6 +1024,12 @@
 **EXAM CONNECTION:** Histology image of a lobulated foamy-celled gland → "mechanism of secretion" → **holocrine**.
 
 **REMEMBER:** *Holocrine sacrifices the whole cell (sebum), apocrine loses its head, merocrine just exports.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/a0210bc07f9348d4801690e9ac20ff3a.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/5ae64a3914f94172b9fe0f33d52ec566.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d6ef8c9aa61d45a89b36db57f5336967x1280x1222.JPEG)
 
 `Q8864, Q8891`
 
@@ -892,6 +1094,13 @@
 
 **REMEMBER:** *Shin spots are common, brown and harmless but flag microvascular disease; necrobiosis lipoidica is rare, yellow, atrophic and may ulcerate.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/44bbe412fe124941af5a25d5a08fa258.png)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d595f5682b974864b535afc850f52bfbx720x540.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a821c6f1b30042d1aee8d5a4eb2c6e64x800x450.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/81fb367beab54118bfd6ba34f6e0f98dx1280x1213.JPEG)
+
 `Q10380`
 
 ---
@@ -912,6 +1121,18 @@
 **EXAM CONNECTION:** Description of punched-out annular plaques with moderate hypoaesthesia → **borderline**. And blister-pack images → count lesions/nerves to choose PB vs MB.
 
 **REMEMBER:** *Punched-out inner edge and Swiss-cheese islands = borderline — the unstable middle that reacts.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/e5cbb29951034da3b2361881deae7be6.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9e5ae526861d48708670a6e39bb5f1f7x1280x1203.JPEG)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/13/picture2_e7rPz6c.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/image_TAhJtvE.png)
+![explanation](https://tnhealth.tn.gov.in/tngovin/dph/images/mbadultdose.png)
+![explanation](https://media.cerebellumacademy.com/media/public/image_QuOAkXI.png)
+![explanation](https://media.cerebellumacademy.com/media/public/image_cv8eRBC.png)
+![explanation](https://media.cerebellumacademy.com/media/public/image_F3OLXAd.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/22/screenshot-2023-11-21-190935.png)
 
 `Q10386, Q11866, Q11871, Q11865`
 
@@ -935,6 +1156,22 @@
 
 **REMEMBER:** *Grooves = Beau (growth arrest). White bands = Mees (arsenic). Half-and-half = kidneys. Terry's = liver.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/f3c48a1dc2854be18c805ca63300f9a7.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a316786f0ae746cca8d96451aefaf032x720x616.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/60974e4895c54004b68b97215279c69ex1280x1486.JPEG)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/15/screenshot-2024-06-15-133321.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/15/screenshot-2024-06-15-133332.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/20/picture3.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/20/picture4.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/20/picture5.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/20/picture6_xhbPtxQ.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/20/picture7.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/15/screenshot-2024-06-15-133344.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/28/screenshot-2023-09-28-112217.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/18/picture8777.jpg)
+
 `Q10828, Q11861, Q11868`
 
 ---
@@ -955,6 +1192,10 @@
 **EXAM CONNECTION:** Non-scarring vertex alopecia + **follicular haemorrhage** on histology → **trichotillomania** (alopecia areata is the intended distractor).
 
 **REMEMBER:** *Broken hairs of different lengths and blood in the follicle — the hairs were pulled, not lost.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/27/screenshot-2023-11-27-181350.jpg)
 
 `Q11856`
 
@@ -977,6 +1218,13 @@
 
 **REMEMBER:** *Herpes fuses cells (giant cells) and unglues them (Tzanck cells) — you see both.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/13/2_ba9b5kJ.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/13/3_dWwqGqk.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/13/4_LZvYmJE.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/25/screenshot-2023-11-25-114321.jpg)
+
 `Q11869`
 
 ---
@@ -997,6 +1245,15 @@
 **EXAM CONNECTION:** Labelled epidermis image → "which cell is NOT in this layer?" → **Langerhans cells in the basal layer**; and "desmosomes are most abundant in" → **stratum spinosum**.
 
 **REMEMBER:** *Base = melanocytes and Merkel; spinosum = Langerhans and desmosomes.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b13e1f89dd244c98b8be2172ad5199ee.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/76a35c86de414c6ba2c9aa9589801e21x412x600.PNG)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/08/19/untitled-13534_QMQ2Xbb.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/27/screenshot-2023-11-27-124309.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/27/screenshot-2023-11-27-124434.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/08/19/untitled-13534.jpg)
 
 `Q8822, Q11867, Q11870`
 
@@ -1019,6 +1276,10 @@
 
 **REMEMBER:** *Sweaty smelly feet with punched-out pits — corynebacterial proteases eating keratin. Dry the foot to cure it.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/089ae868ae1d4b2f974fae426f97cf9a.JPEG)
+
 `Q11969`
 
 ---
@@ -1040,6 +1301,10 @@
 
 **REMEMBER:** *Animal hookworms get lost in human skin (1 cm/day); Strongyloides races (10 cm/hour) and can disseminate on steroids.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/bea7036e115844149e1087a881d82c17.JPEG)
+
 `Q11970`
 
 ---
@@ -1060,6 +1325,10 @@
 **EXAM CONNECTION:** "Incorrect statement" → "**the causative organism is a tick**" — it is a louse.
 
 **REMEMBER:** *Look in the seams, not on the skin — and remember typhus, trench fever and relapsing fever.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/6a81faddd8784f6c8b86f3ed787e3bc4.PNG)
 
 `Q11971`
 
@@ -1103,6 +1372,10 @@
 
 **REMEMBER:** *ABCA12, no lamellar bodies, armour plates — and the baby dies of not being able to expand the chest.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/6b756e8781a7469584bd704e7695a65e.PNG)
+
 `Q11974`
 
 ---
@@ -1123,6 +1396,11 @@
 **EXAM CONNECTION:** "Site of origin of the tumour shown" → **sweat DUCTS**.
 
 **REMEMBER:** *Flat papules under the eyes with tadpole-tailed ducts on histology — syringoma, from the sweat DUCT.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/a9d6e1fc034a428c9e463dce3c85b016.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ccce64d817754beea3c70e269eab9ff3x1280x1182.5105782792666.JPEG)
 
 `Q11976`
 
@@ -1145,6 +1423,10 @@
 **EXAM CONNECTION:** "Not true regarding Bowen's disease" → "**high potential for invasive malignancy**".
 
 **REMEMBER:** *Full-thickness dysplasia but the basement membrane is intact — so it looks alarming and behaves mildly. Biopsy the steroid-resistant "psoriasis".*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6b3ceae757274e5bbb82ee20a70840f8x1280x1216.8124118476728.JPEG)
 
 `Q11977`
 
@@ -1189,6 +1471,10 @@
 
 **REMEMBER:** *Freckle = more pigment; lentigo = more melanocytes, singly; naevus = melanocytes in nests.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e82657c53e21481db426a43fb422413ax1280x1282.JPEG)
+
 `Q11981`
 
 ---
@@ -1209,6 +1495,10 @@
 **EXAM CONNECTION:** "Which is FALSE about skin?" → **dermis from ectoderm**.
 
 **REMEMBER:** *Epidermis from ectoderm, dermis from mesoderm, melanocytes from neural crest.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/07/04/untitled-918.jpg)
 
 `Q11673`
 
@@ -1231,6 +1521,11 @@
 
 **REMEMBER:** *Apocrine follows hair and puberty — axilla, areola, groin. Never palms and soles.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/07/04/screenshot-2024-07-04-103209.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/04/screenshot-2024-07-04-103242.png)
+
 `Q11677`
 
 ---
@@ -1250,6 +1545,11 @@
 **EXAM CONNECTION:** "True about salmon patch" → **a common vascular birthmark of the nape in children that needs NO surgical excision**.
 
 **REMEMBER:** *Tumours involute, malformations do not — and the stork bite needs nothing but reassurance.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/06/05/picture1.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/06/05/picture2.jpg)
 
 `Q9706`
 
@@ -1271,6 +1571,11 @@
 **EXAM CONNECTION:** "False about Lisch nodules" → **that they are associated with facial angiofibroma** (that is tuberous sclerosis).
 
 **REMEMBER:** *Lisch is NF1's harmless iris freckle; angiofibroma belongs to the other one.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/12/picture1_hQ8NREt.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/23/screenshot-2024-02-23-124300.jpg)
 
 `Q11516`
 
@@ -1303,6 +1608,10 @@ tenderness**. Every other listed feature (nailfold capillaries, mechanic's hands
 anti-Mi-2) is true.
 
 **REMEMBER:** *Weak but not sore — and look for a hidden cancer.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture27.jpg)
 
 `Q10873`
 
@@ -1350,6 +1659,10 @@ fishnet**) is the other guaranteed question.
 
 **REMEMBER:** *Deeper split, tougher blister — pemphigoid is tense and spares the mouth.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture33.jpg)
+
 `Q10893`
 
 ---
@@ -1390,6 +1703,10 @@ asymptomatic**, and there is no thickened granular layer to produce the white la
 planus) or deny Koebnerisation.
 
 **REMEMBER:** *Pinpoint shiny papules, skin only — a granuloma clutched by rete ridges.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/24/screenshot-2024-04-24-143750.JPG)
 
 `Q10932`
 
@@ -1453,6 +1770,11 @@ management: **wide local excision cures it, and lymph node dissection is unneces
 and rolled = BCC; everted and fleshy = SCC.
 
 **REMEMBER:** *Rolled pearly edge, gnaws locally, never spreads — the rodent ulcer.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/2b2cb68f342b42aeb75412ad9a8c5369.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dcf6f993722443c89245666de81247f6x1280x1131.JPEG)
 
 `Q10968`
 
@@ -1528,6 +1850,10 @@ psoriasis' signature.*
 
 **REMEMBER:** *Coral red in the fold — minutissimum.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a303185d59e74aa19452c39155d19d32x1280x1267.3624823695345.JPEG)
+
 `MA4884`
 
 ---
@@ -1547,6 +1873,21 @@ psoriasis' signature.*
 **EXAM CONNECTION:** "Copper penny bodies" is a giveaway phrase that maps to exactly one answer. Phaeohyphomycosis is the sophisticated distractor — same fungal group, different tissue form.
 
 **REMEMBER:** *Copper pennies in a cauliflower foot.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/305c0ce25d09419e98766d4e419a9b2ax1200x900.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5f005a07ec604403882710dae4bd4b87x1120x1791.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b40c0926f49b4718b0c7e8ff78fd42a9x1200x900.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9ba00ebde2b441058b9c75987816ebe1x720x544.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f8a1eb30fe2d48d2bf2cc47484d0ce1fx720x678.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/60c00de7bed249e39fd0dbb4204fd078x1200x811.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ea78af5488ad44d28689d5c65e35f365x640x517.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0eb743b778a54477a01712589ecfe242x958x666.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/10ff7c5c755044939c412289187c7306x960x720.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f10f38b8c46748d78bc1a1fdaccebad2x958x649.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cf4305a289564b899dc71aab4dfcf97fx958x656.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3ea8438058004e40912aaa8c1667141fx800x524.JPEG)
 
 `MF5262`
 
@@ -1568,6 +1909,14 @@ psoriasis' signature.*
 
 **REMEMBER:** *Steroids in, pustules out.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/7a2cd6fd46f044b999882663e1b8810c.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a1860d2dff37461b951fa471f6300972x1024x752.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/30f491111ca94303a4f664955cec6572x768x656.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8accfb401ba1405b85d04bf6eac15d05x1279x1103.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d31270bf5e5f4b709adfe08cf50556d9x131x217.PNG)
+
 `MD6689, MF0876, MD0684`
 
 ---
@@ -1587,6 +1936,10 @@ psoriasis' signature.*
 **EXAM CONNECTION:** "Blue-grey oval macules on chest and abdomen" is the whole question. The trap is answering *corporis* because the lesions are on the body.
 
 **REMEMBER:** *Blue spots on the trunk, lice in the pubic hair.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a71d1bce7f42492dbcc1203772d781b3x508x190.PNG)
 
 `MA5109`
 
@@ -1610,6 +1963,17 @@ psoriasis' signature.*
 
 **REMEMBER:** *No pain, no pus, no tenderness — treponeme.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8ba0cafb8f724e8caf99ab7778d022acx630x761.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4aaa8224b2e7443e94743e1015a44778x560x358.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/875f994ab0a44d3a8d26f376c6b54874x597x313.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/03d21e32213a42c9ab3487da627b053ex336x288.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6faad0dd79004ce4898a0d4ec94391e9x495x711.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/be01c14fe5b34f6fb923eca0f40d42cex253x357.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f4fd185c143045fe944bb99f1299a4bbx379x412.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/45e19098c36e4e0ba69bdbc3358cbb5fx559x788.JPEG)
+
 `MF8277`
 
 ---
@@ -1630,6 +1994,10 @@ psoriasis' signature.*
 **EXAM CONNECTION:** "Next best investigation" — a *step* question. Antibiotic resistance is a real consideration but is subordinate to finding a hormonal cause; the exam wants the systemic diagnosis.
 
 **REMEMBER:** *When the sebum keeps coming back, look for the androgen driving it.*
+
+
+**IMAGES:**
+![explanation](https://cdn1.dailyrounds.org/uploads/d0c11e3325124df49bac9104eabccaebx686x530.JPEG)
 
 `MF8274`
 
@@ -1653,6 +2021,10 @@ psoriasis' signature.*
 
 **REMEMBER:** *Everyone with lupus burns; only some get the butterfly.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a9fd4549688a483d8e3c6f4542a8a9e6x512x395.PNG)
+
 `MA5398, MA5309`
 
 ---
@@ -1673,6 +2045,12 @@ psoriasis' signature.*
 **EXAM CONNECTION:** Neonate + clear dew-drop vesicles + "disorder of which gland" → **eccrine**. Note the trap option **"holocrine"** — that is a *mode of secretion* (sebaceous), not a gland type in this list.
 
 **REMEMBER:** *Deeper the plug, angrier the rash.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/f75d9d15bf924ec1a5d06e85cfd57860.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/aa0deef4a0d14ef3bcfc937904ab0af5x600x413.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/35d93e9e18cd4f19b2a0df77cb0c2896x448x496.PNG)
 
 `MA3963`
 
@@ -1695,6 +2073,10 @@ psoriasis' signature.*
 
 **REMEMBER:** *Nine in ten are growing; how long they grow sets how long they get.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2bc0e4da76314d049a833c66bbbbda85x1280x1428.JPEG)
+
 `MA3267, MF7295`
 
 ---
@@ -1716,6 +2098,10 @@ psoriasis' signature.*
 
 **REMEMBER:** *Kaposi's name, herpes' disease, broken barrier — not broken immunity.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/36cc20551fe34e49b38bf265e3e5c27ex389x257.JPEG)
+
 `MC2215`
 
 ---
@@ -1736,6 +2122,11 @@ psoriasis' signature.*
 
 **REMEMBER:** *Tapioca on the palm — it itches and it hurts.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/4f1838108ee0408fa0f9b0e3b59eaa6b.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0d8ec6b043bb4f40ae2329cdf90ce526x942x707.JPEG)
+
 `MC1262`
 
 ---
@@ -1755,6 +2146,10 @@ psoriasis' signature.*
 **EXAM CONNECTION:** Direct matching — photopheresis is asked about only in the context of **CTCL**. Melanoma and SCC are noise.
 
 **REMEMBER:** *Take the cells out, irradiate them, put them back as a vaccine.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1eeb19c7e56b4d35a33b3d144dc28318x1280x1620.JPEG)
 
 `MC2878`
 
@@ -1777,6 +2172,13 @@ psoriasis' signature.*
 
 **REMEMBER:** *Granular layer makes the mortar; spinous layer holds the bricks together.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/16f3b24754b84aee8aa9a915884e5a10x902x830.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/8dbdbb9fdeeb44db93b3075608f74136.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f93c2c811aa94081862e08de28fd0c38x600x600.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/874d6f95161c4f0895a7ce32c3c33ca5x1280x1169.JPEG)
+
 `MC0750, MB9195`
 
 ---
@@ -1797,6 +2199,10 @@ psoriasis' signature.*
 **EXAM CONNECTION:** The stem shows **conjunctival telangiectasia** and asks for the **first** manifestation — deliberately baiting you into answering with the visible sign. The answer is the **cerebellar degeneration** that came first.
 
 **REMEMBER:** *Ataxia comes before the telangiectasia, despite the name's order.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b4cc3d885a0545aebea87449b6058906.JPEG)
 
 `MC2717`
 
@@ -1836,7 +2242,7 @@ psoriasis' signature.*
 
 ## 84. Syringoma
 
-![Syringoma — Skin Hub - Expert Skin Blemish Removal in Basingstoke](images/Syringoma.jpg)
+![Syringoma — Skin Hub - Expert Skin Blemish Removal in Basingstoke](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F66f5619a69539e29062a17e9%2F8e0a8e0e-7bef-43c2-b052-3f6ab5e47329%2FSyringoma.jpg&f=1&nofb=1&ipt=8ab98bc817ea24cb80f95d1db74acc2230254275c75991b6c11c2266a1dfd664)
 
 **PEARL:** Multiple skin/tan-colored, flat-topped papules — a benign tumor of eccrine sweat **ducts**.
 

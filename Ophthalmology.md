@@ -22,6 +22,16 @@
 
 **REMEMBER:** *Parasympathetics ride on the outside — pressure blows the pupil, ischaemia spares it.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/3e2b0df448e246e1a6aa1e14b642b4fb.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/a0644c911f474ce18074bef8c18cfdfb.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/59fd838484a34f2e9a775be56c022eefx1280x3519.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/37cc1b31b60b4af7920a6c9fcb44872ex720x1577.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2e4aadadc52245d3b83e21481c29133ex1280x2906.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/da9f9fb70f8b4957adcfcf01dab3f4a1x1280x2152.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9bc6adac7c7249939ee269a41dadabfdx1280x2259.JPEG)
+
 `Q8746, Q8751, Q8770`
 
 ---
@@ -43,6 +53,12 @@
 **EXAM CONNECTION:** New vessels on FFA → **proliferative diabetic retinopathy**.
 
 **REMEMBER:** *Ischaemia makes VEGF, VEGF makes vessels — burn the ischaemic retina and the vessels regress.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/78faeba114ea4a1f96c49ea5a8908323.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/74d78b1fe5d640c8a55006f3758cb375x512x384.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fcf0d92458794acdbb5c1276f34ede81x359x220.PNG)
 
 `Q8747`
 
@@ -66,6 +82,13 @@
 
 **REMEMBER:** *Dark means depolarised and glutamate flowing — light switches it off.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/4bb98bfa6f5c4ee79dcef1ef6868e1f2.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/15d36c08680e478294529651a92c0b63x1280x866.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ea2bd870bfb3409693a0865da7cef4fex1280x2260.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ef7dd5a0f82446c7bc5ff1a8f132cccdx1279x1373.JPEG)
+
 `Q8748, Q8780`
 
 ---
@@ -88,6 +111,11 @@
 
 **REMEMBER:** *Bifocals are for eyes that need two different powers — hypermetropia only needs one.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/5e252530de0541509ac7db95e2f52764.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fb5c9284011e422483903a96543763e1x1280x3323.6671368124116.JPEG)
+
 `Q8749, Q8758, Q8763, Q8767`
 
 ---
@@ -108,6 +136,11 @@
 **EXAM CONNECTION:** Port-wine stain + seizures → **glaucoma** is the commonest ocular finding.
 
 **REMEMBER:** *The angioma raises episcleral venous pressure — and the eye pays with glaucoma.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/c9f69f3ab6f14c79b326b981eed5f3d6.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/44a8ae7adf6d400fbb3ba041e5461c7ax720x621.PNG)
 
 `Q8750`
 
@@ -151,6 +184,10 @@
 
 **REMEMBER:** *A slit isolates one meridian — so it finds the astigmatic axis and breaks up lenticular haloes.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/85cfd33548674705811a110ecfb0081bx719x430.PNG)
+
 `Q8753`
 
 ---
@@ -173,6 +210,15 @@
 
 **REMEMBER:** *Drusen are the RPE's rubbish — pile it up and the choroid grows through.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/c9dc10ee935c4857b8ba149936b4adeb.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/75801a4aebe842c29f0ffb67770bef8fx1280x1152.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e27a2ed7e1744128a0a53b2b65102165x500x375.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/937e849a6bac4dd9be1590c476a7c781x359x220.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c6eea8533e4e43fd872e153cd0827aeax512x384.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6e6b1b6bd51d42b6afb8c028d481d0d5x1280x670.JPEG)
+
 `Q8754`
 
 ---
@@ -193,6 +239,15 @@
 **EXAM CONNECTION:** Petalloid FFA pattern → **cystoid macular oedema**.
 
 **REMEMBER:** *Henle's fibres radiate like petals — so foveal fluid pools into a flower.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/fbc54987b79647b6a8bd0e4e678201b8.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3cf9b1f079d74ff19e67d51c07a58cd5x1280x670.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f46fe1c49b6f45cdb58bf429b91d9467x1166x346.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5584dfd6d3184499be8b06d12c3e695dx362x280.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/14562abd654541d7b9530c39524eed69x499x333.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/10f9591e367c4165a3da3cdc3fde8b00x500x375.JPEG)
 
 `Q8755`
 
@@ -216,6 +271,10 @@
 
 **REMEMBER:** *It binds melanin and accumulates for years — so screen the fields and OCT, not the fundus.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b75678189d82477c85b6bdd95dd46016.PNG)
+
 `Q8756`
 
 ---
@@ -238,6 +297,12 @@
 
 **REMEMBER:** *Double circulation on the angiogram, collar-stud on the ultrasound, and the metastasis goes to the liver.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/141d11177fdd4d899485f8c57d1a43cb.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/adf57c6472b64d72b1cf0a7e8de84c05x362x280.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/624364bfb51d43e7a80a80fe7b12f9a1x499x333.JPEG)
+
 `Q8757`
 
 ---
@@ -258,6 +323,12 @@
 **EXAM CONNECTION:** Swinging-flashlight image with paradoxical dilatation → **RAPD, seen in optic neuritis**.
 
 **REMEMBER:** *Swing to the bad eye and both pupils escape — the defect is in the nerve, never in the lens.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/96e1bc8cde78426db79bbc5ebfcfc101.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/365bc39ff618443280f8db5759185734x1280x2560.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0da5c28bfa6e428190184234a7c3997dx1280x2448.JPEG)
 
 `Q8759, Q8764`
 
@@ -367,6 +438,11 @@
 
 **REMEMBER:** *A red haemorrhage with a white heart means look at the blood or the heart valves.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/935a7ca0fdd041699f300b438c02c372x720x583.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/35e1700ad0c44e8b97647a207e778d78x720x543.JPEG)
+
 `Q8766`
 
 ---
@@ -389,6 +465,10 @@
 
 **REMEMBER:** *Day one is chemical, days two to five gonococcal, the second week chlamydial.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6b6c877298fa4b5186ea63d8948d3c26x1218x1178.PNG)
+
 `Q8768`
 
 ---
@@ -410,6 +490,11 @@
 **EXAM CONNECTION:** "100-day glaucoma" → **central retinal vein occlusion**.
 
 **REMEMBER:** *Ischaemic vein occlusion makes VEGF for three months — then the angle grows shut.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a93e3c6869d64c888e8ca058355b477ex720x688.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/93df537a43d548da9179ee53b55146fex720x515.JPEG)
 
 `Q8769`
 
@@ -498,6 +583,10 @@
 
 **REMEMBER:** *Five minutes for the letter, one minute for the stroke — that is what 6/6 means.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/192387686eb2481ca5231f8af8a9f6c6x1280x1482.JPEG)
+
 `Q8781`
 
 ---
@@ -519,6 +608,10 @@
 **EXAM CONNECTION:** "Not a feature of pterygium" → **95% recurrence rate**.
 
 **REMEMBER:** *Ultraviolet light focuses on the nasal limbus — and only a graft stops it coming back.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/36566b2b02544e6ca5b9358ff45112a8x360x272.JPEG)
 
 `Q8782`
 
@@ -562,6 +655,10 @@
 
 **REMEMBER:** *Colour and contrast go first and go further than the acuity — and never give oral steroids alone.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3626103842864a77be9fa1a48ea26e8ex720x837.JPEG)
+
 `Q8784, Q8870`
 
 ---
@@ -584,6 +681,10 @@
 
 **REMEMBER:** *The nerve fibres arc around the macula and stop at the raphe — so the field loss arcs and steps.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/5cf05190090e4afea38f0bd632135bde.PNG)
+
 `Q8785, Q8798, Q9946, Q10003`
 
 ---
@@ -604,6 +705,10 @@
 **EXAM CONNECTION:** Cherry-red spot + regression + no organomegaly → **Tay–Sachs**.
 
 **REMEMBER:** *The fovea has no inner retina to go white — so it stays red while everything around it turns pale.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/f251cdd0c144477899015695bb59e4a7.JPEG)
 
 `Q8787`
 
@@ -627,6 +732,10 @@
 
 **REMEMBER:** *Direct lenses bend the light out, mirrored lenses bounce it back — and the scleral spur tells you the angle is open.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/34980924a262461b80ce4a289a3a3f64x720x507.JPEG)
+
 `Q8790`
 
 ---
@@ -648,6 +757,10 @@
 **EXAM CONNECTION:** Boxer wanting refractive surgery → **avoid RK**.
 
 **REMEMBER:** *Deep radial cuts never heal — the eye stays a burst waiting to happen.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3a01ba237ee14c18a9438c05631578dfx1280x5773.JPEG)
 
 `Q8791`
 
@@ -735,6 +848,10 @@
 
 **REMEMBER:** *Rods die first — so night vision and the mid-periphery go long before the acuity.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/ad7085d78b2d46c29ee72741dbb3744a.PNG)
+
 `Q8796`
 
 ---
@@ -757,6 +874,11 @@
 
 **REMEMBER:** *Dilate the pupil and calm the ciliary body — steroids and atropine together, always.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/3dfa9a7088d34ba9bdea7d5e136a11a5.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/ecae3d15348a4e71b45cbdd390c8a473.PNG)
+
 `Q8797, Q8786`
 
 ---
@@ -778,6 +900,11 @@
 
 **REMEMBER:** *Red lens right — if the reds vanish, the right eye is suppressed.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b5c62dff776342aa8d86ba9e131c6580.JPEG)
+![explanation](https://cdn1.dailyrounds.org/uploads/f79aa8422b8b4341be465e90a5f3b588x386x460.JPEG)
+
 `Q8799, Q8872`
 
 ---
@@ -798,6 +925,10 @@
 **EXAM CONNECTION:** 2-month-old with leukocoria from cataract → **immediate surgery**.
 
 **REMEMBER:** *The visual cortex will not wait — a dense infantile cataract must come out within weeks.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/2d37beef38dd43ccbcdf4a8c81f7099f.PNG)
 
 `Q8800`
 
@@ -864,6 +995,11 @@
 
 **REMEMBER:** *ERG reads the whole retina, EOG reads the pigment epithelium — Best's ruins only the EOG.*
 
+
+**IMAGES:**
+![explanation](https://cdn1.dailyrounds.org/uploads/7001ae292bd94f98949a783cbc224eebx640x282.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9e2988ad7e244b11ba7b5faa6114bc44x500x333.PNG)
+
 `Q9914`
 
 ---
@@ -884,6 +1020,14 @@
 **EXAM CONNECTION:** Lepromatous leprosy + iris nodules → **iris pearls**.
 
 **REMEMBER:** *The bacillus loves cool tissue — so leprosy takes the front of the eye and the nerves that protect it.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/6a6cc38c73724cee9873b40b407a0b11.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9ddd1dc7171e4c4db50f763a3284ba63x295x360.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bddb5cf642764f479513b07404092e8bx360x241.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/da889bb424ba43e283cd171663bd4610x338x239.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/891eec4983cd4fc88253e36d909e7561x360x271.JPEG)
 
 `Q9920`
 
@@ -907,6 +1051,10 @@
 
 **REMEMBER:** *The septum decides everything — in front is a swollen lid, behind is a threatened eye.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2d375770cbe64e53a32df90b860536dax1280x960.JPEG)
+
 `Q9938`
 
 ---
@@ -929,6 +1077,10 @@
 
 **REMEMBER:** *Shield it, scan it, and never pull anything out at the bedside.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/60fcda938d3c444bb6f728bde95c3313.JPEG)
+
 `Q9972`
 
 ---
@@ -949,6 +1101,10 @@
 **EXAM CONNECTION:** Cupping + rim thinning + nasal vessel shift → **glaucomatous optic atrophy**.
 
 **REMEMBER:** *Sharp and white came from behind; blurred and grey was swollen first; pale with thin vessels came from the retina.*
+
+
+**IMAGES:**
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/21935a336c3f1a8d00810d0c8fd33dfc.webp)
 
 `Q10047`
 
@@ -993,6 +1149,10 @@
 
 **REMEMBER:** *Asteroids are tethered and never fall; synchysis scintillans is free and sinks.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/ae9fb3da6bbd4cb9bf1352e8d852e287.PNG)
+
 `Q10199`
 
 ---
@@ -1014,6 +1174,15 @@
 
 **REMEMBER:** *Thinnest behind the muscle insertions — so that is where it bursts, opposite the blow.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/142f85598f3a4a22897bb882f1eb7a76.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/340fe9f91c90457a9dc512c02cfab6ddx452x294.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0997a9ba8940459aa49dee37a6907f57x720x306.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7269dd2284ad483a8f2b0eabf46c271dx237x180.PNG)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/db9f0f7ae5a40d74b05800402d11a17a.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/abaf52ecb20a4ad5776611087154151d.webp)
+
 `Q10238, Q10525, Q10526, Q10528, Q10529, Q10530`
 
 ---
@@ -1034,6 +1203,10 @@
 **EXAM CONNECTION:** "Headlight in the fog" → **toxoplasmosis**.
 
 **REMEMBER:** *An active white lesion at the edge of an old scar, glowing through the haze.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/f13b677d185e42caa8be832edccd6d05.PNG)
 
 `Q10253`
 
@@ -1079,6 +1252,10 @@
 
 **REMEMBER:** *A hardening nucleus adds power — distance blurs and the reading glasses come off.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d6c364c22c7e4746ab9f6273748cd74a.PNG)
+
 `Q10292`
 
 ---
@@ -1099,6 +1276,11 @@
 **EXAM CONNECTION:** Membrane that bleeds on peeling in an unvaccinated child → ***C. diphtheriae***; canthal redness with excoriation → ***Moraxella***.
 
 **REMEMBER:** *A true membrane bleeds because it grew into the epithelium; Moraxella eats the skin at the corners.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/23bfb12768c54b9d9d4b1897436783e4x1280x958.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/5665b6b170d74817ae2a43aec6cf5f59.JPEG)
 
 `Q10303, Q10373`
 
@@ -1142,6 +1324,13 @@
 **EXAM CONNECTION:** Limbal pits → **Herbert's pits, trachoma**; drug of choice under SAFE → **azithromycin**.
 
 **REMEMBER:** *The infection ends in childhood; the scarring blinds decades later by turning the lashes inward.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/35bd79f68862430dbfef39425bd010ae.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7c4fa6623d114ef98ed62c374c9fd339x720x497.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8162fc4ccd4f4e2882ca464e1a238c54x720x501.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bd6f58ed3bb94fce887f10aefb2cb07ex500x408.PNG)
 
 `Q10385`
 
@@ -1206,6 +1395,10 @@
 **EXAM CONNECTION:** Fortified cephazolin concentration → **5%**.
 
 **REMEMBER:** *An avascular cornea can only be reached from the surface — so make the drops strong and give them hourly.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/ab66e42381bb46c1a4d6ac138f04a073.PNG)
 
 `Q10396`
 
@@ -1290,6 +1483,11 @@
 
 **REMEMBER:** *Everything around the chiasma is ICA/ACA territory — the MCA never reaches it.*
 
+
+**IMAGES:**
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/916572e71ba6ec0d2c5a48a1d0ffd25b.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/41edaf3372f6078e3572ff6888f22af8.webp)
+
 `Q10523`
 
 ---
@@ -1310,6 +1508,10 @@
 **EXAM CONNECTION:** "False statement about the structure this drug acts on" → the number of processes (60–70, not 30–40) or their location (pars plicata, not pars plana).
 
 **REMEMBER:** *Processes on the plicata; needles through the plana, 4 mm behind the limbus.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/4cfb627a75bb074945f3c4de70674dc0.webp)
 
 `Q10524`
 
@@ -1344,6 +1546,10 @@ and **atropine** (adjunct only).
 **REMEMBER:** *Dendrite plus a numb cornea equals herpes — acyclovir, never steroids on the
 epithelium.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture46.jpg)
+
 `Q10862`
 
 ---
@@ -1373,6 +1579,10 @@ haemorrhagic necrotising retinitis along the vessels.
 vitreous is described as **clear** in an HIV patient, switch to **CMV**.
 
 **REMEMBER:** *Headlight in the fog, beside an old scar.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture49.jpg)
 
 `Q10863`
 
@@ -1405,6 +1615,10 @@ affected zone along the sutures.
 = lamellar**; **powdery central = pulverulenta**; **crown-like peripheral = coronary**.
 
 **REMEMBER:** *A shell of opacity with spokes — lamellar, and it needs surgery.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture11.jpg)
 
 `Q10867`
 
@@ -1439,6 +1653,10 @@ acetazolamide**, with **visual fields** as the monitoring test.
 **REMEMBER:** *High pressure, normal scan, normal fluid — save the optic nerve, not just
 the headache.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture36.jpg)
+
 `Q10898`
 
 ---
@@ -1469,6 +1687,10 @@ cost is **peripheral field and night vision**, not central acuity.
 whether you know the laser targets the **ischaemic retina**, not the vessels.
 
 **REMEMBER:** *Sacrifice the starving periphery to save the macula.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture53.jpg)
 
 `Q10904`
 
@@ -1502,6 +1724,10 @@ procedure that **structurally weakens the cornea most**.
 
 **REMEMBER:** *Deep radial cuts never heal strong — never in a fighter's eye.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3a01ba237ee14c18a9438c05631578dfx1280x5773.JPEG)
+
 `Q10992`
 
 ---
@@ -1533,6 +1759,11 @@ power **90° from its stated axis**, then compare. **Vertical more minus → wit
 **REMEMBER:** *The cylinder acts 90° from its axis — axis 180 means the vertical is steep,
 and that's with the rule.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e3064efaeb4b454ba92c203ee91b040cx1280x1038.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a3e3cc58bb234a56b6b57a677add7d7ex1280x3806.JPEG)
+
 `Q10993`
 
 ---
@@ -1559,6 +1790,11 @@ a 2 mm asymmetry meaningful.
 numbers — **>20 mm absolute, >2 mm asymmetry**.
 
 **REMEMBER:** *Measure the cornea from the lateral orbital rim — twenty is the limit.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/5c7d3547a18a49e0a56d150b791a0775.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f1085a7d427849ad98cc5adeede1d189x1280x1465.JPEG)
 
 `Q10999`
 
@@ -1625,6 +1861,11 @@ medial movement**.
 
 **REMEMBER:** *Superior oblique takes the eye down, out and rolls it in — it never adducts.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/29/screenshot-2023-04-29-173855_hHvu0vD.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/27/whatsapp-image-2023-09-27-at-165211.jpeg)
+
 `Q11236, Q11247`
 
 ---
@@ -1689,6 +1930,10 @@ trichiasis = **TS**.
 
 **REMEMBER:** *Follicles are active, Arlt's line is a scar, a lash on the cornea is TT.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dcc5d20896cf4508a629bc858a7f7d52x720x512.JPEG)
+
 `Q11810`
 
 ---
@@ -1739,6 +1984,10 @@ lid movement linked to gaze — that combination is aberrant regeneration.
 
 **REMEMBER:** *Swap the side, swap the level, swap the muscle type.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b5bdfcff9bba4b4196963ce023ea2e26x1280x1901.0437235543018.JPEG)
+
 `MB2020`
 
 ---
@@ -1759,6 +2008,10 @@ lid movement linked to gaze — that combination is aberrant regeneration.
 **EXAM CONNECTION:** Eponym recall (Vogt), plus the two drug-avoidance scenarios (**sickle cell → not acetazolamide; uveitis → not latanoprost**), which are the more clinically useful points.
 
 **REMEMBER:** *A past attack leaves scars on the lens, the iris and the pupil.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/52d74961d2524b3bb5c22c2677259778x1280x1532.JPEG)
 
 `MF4880, MA1038, MF0801`
 
@@ -1783,6 +2036,10 @@ lid movement linked to gaze — that combination is aberrant regeneration.
 
 **REMEMBER:** *Prostaglandins open the back door; miotics open the front one.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/52d74961d2524b3bb5c22c2677259778x1280x1532.JPEG)
+
 `MD0660, MA1032`
 
 ---
@@ -1805,6 +2062,10 @@ lid movement linked to gaze — that combination is aberrant regeneration.
 
 **REMEMBER:** *Light reflex leaves the tract before the geniculate.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/19ca744ed1e648de8dc46618eb34c6e4x1280x1813.JPEG)
+
 `MC1241, MC1243, MF7378`
 
 ---
@@ -1824,6 +2085,12 @@ lid movement linked to gaze — that combination is aberrant regeneration.
 **EXAM CONNECTION:** Translate "right halves of both eyes" into hemiretinas before choosing. The side of the lesion is always **opposite** to the side of field loss.
 
 **REMEMBER:** *Field loss on the right means damage on the left.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/601a8d2bc35e456383650ccd4622bd42x600x1199.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/934b66384f54409696c86db4b6722a97x834x1436.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b690bcfda10d470ab2957b0561981638x1280x1908.JPEG)
 
 `MF1311`
 
@@ -1845,6 +2112,11 @@ lid movement linked to gaze — that combination is aberrant regeneration.
 **EXAM CONNECTION:** "Least likely on fundoscopy" in hypertension → **IRMA**. The 4-2-1 rule is asked separately as a numbers question.
 
 **REMEMBER:** *Hypertension narrows the arteries; diabetes remodels the capillaries.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/10fca94057194154a4c8b5c91b5ac8e6x1280x3063.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/92933781eb3d4b00998e69c7e0d4dcb9x1280x1359.JPEG)
 
 `MA0388, MD0187`
 
@@ -1868,6 +2140,11 @@ lid movement linked to gaze — that combination is aberrant regeneration.
 
 **REMEMBER:** *An open globe exposes the uvea and both eyes pay for it.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9e6ba1c28ea4411eb64cf2bb1d912884x505x376.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9688fee4bf7d42f09c280ed6d01b5bfax613x419.JPEG)
+
 `MD0724, MB8332`
 
 ---
@@ -1889,6 +2166,10 @@ lid movement linked to gaze — that combination is aberrant regeneration.
 **EXAM CONNECTION:** Two versions: "commonest motility defect" (**elevation restriction**) and "not a treatment" (**beta-blockers**).
 
 **REMEMBER:** *A tethered inferior rectus stops the eye looking up.*
+
+
+**IMAGES:**
+![question](https://dhmbxeygs57ff.cloudfront.net/uploads/f194da62645140e1bc56cf4a3811fe8ax640x418.JPEG)
 
 `MB9055, MB9056`
 
@@ -1935,6 +2216,13 @@ lid movement linked to gaze — that combination is aberrant regeneration.
 
 **REMEMBER:** *Wax runs down the veins in sarcoid.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/388f53758939481d87eb4be1640e43f8.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/715b1603f2714848ac2601c4f5aa749dx1280x4922.313117066291.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/1eb6bba212d947e98e25faf36faee6e2.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fcf3755a7a6541d9b6b3a59c0df0818ex1280x1308.JPEG)
+
 `MB8340, MB8296`
 
 ---
@@ -1956,6 +2244,14 @@ lid movement linked to gaze — that combination is aberrant regeneration.
 **EXAM CONNECTION:** Image of ring segments in the peripheral cornea → **keratoconus**. Keratoglobus (whole-cornea thinning) is the plausible distractor.
 
 **REMEMBER:** *Rings in the periphery flatten the cone in the centre.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b7c7313a8a014b91ae74880feafd1305.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b54369577ed34b5185bd5ec1afca596fx395x356.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b659fa33bae54cc2a41c28c8cc2ccaa4x720x531.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/53eac304f48e4837bb7730dc12bbfcb7x260x161.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5a178f81ff1e49ca88241f617bdb5656x720x575.JPEG)
 
 `MF5174`
 
@@ -2001,6 +2297,18 @@ lid movement linked to gaze — that combination is aberrant regeneration.
 
 **REMEMBER:** *Correct the refraction, save the vision, then straighten the eye.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/bb3a5271f1c04eae846db7795e141590.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7f06f95606b14b3a93834a6d0320faa0x1280x2324.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/04e4e570158346d79287527a2c79be96x600x407.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ac65a7800b4d47b0818d891116fbc7fbx1280x3796.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/29e6604806684f2c9cfb0b3f7fd79ce9x1197x1198.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/39c446b2dd13447c8f788ae592bc965dx1280x3027.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/812d254abce441f2b5ad48055dfd9addx1280x5268.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/86f737206d894a21821d9855aecf4deex1280x5149.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/270efb6a725e49fc823c54a5442a5db0x1280x2207.JPEG)
+
 `MB2072, MC7738, MC0937`
 
 ---
@@ -2021,6 +2329,10 @@ lid movement linked to gaze — that combination is aberrant regeneration.
 **EXAM CONNECTION:** "Punched-out lesions" is a fixed phrase mapping to toxoplasmosis; the distractors each have their own distinctive descriptive phrase.
 
 **REMEMBER:** *Punched-out and pigmented, next to a fluffy new lesion — toxoplasma.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/96b3261505f24644ad2ef07e66c2d03dx662x661.PNG)
 
 `MF4993, MD0665`
 
@@ -2044,6 +2356,11 @@ lid movement linked to gaze — that combination is aberrant regeneration.
 **EXAM CONNECTION:** Labelled anatomical diagram. Learn the four eponymous spaces as a set, since the options are always drawn from within it.
 
 **REMEMBER:** *Petit sits in front of the hyaloid, Berger behind the lens.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/c71454661b9442728009dac77c3b457b.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/48d6c25da5b241ad9ff034750ba2be8dx1280x1837.JPEG)
 
 `MF9315, MC7740, MD4484`
 

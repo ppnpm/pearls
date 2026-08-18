@@ -21,6 +21,10 @@
 
 **REMEMBER:** *Cancer cells burn glucose badly on purpose — they want the bricks, not the fuel.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/44dbdd1410134c478ee549479d615b02x1280x739.JPEG)
+
 `Q8918`
 
 ---
@@ -41,6 +45,10 @@
 **EXAM CONNECTION:** Child eating old paint + abdominal pain + limb weakness → "enzyme defect" → **ALA dehydratase**.
 
 **REMEMBER:** *ALA synthase is rate-limiting; ALA DEhydratase is what lead destroys.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b98b5f3f140340c3be0a305fa0fd4771x1280x1525.JPEG)
 
 `Q9149`
 
@@ -106,6 +114,10 @@
 
 **REMEMBER:** *Insulin turns on PFK-1; glucagon turns on the four bypass enzymes — via fructose-2,6-bisphosphate.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ab6287d4c3344460a3cda715d9451c74x600x1200.JPEG)
+
 `Q9152, Q9159`
 
 ---
@@ -126,6 +138,11 @@
 **EXAM CONNECTION:** "Repair mechanism associated with CRISPR-Cas9" → **non-homologous end joining**.
 
 **REMEMBER:** *Cas9 cuts, NHEJ botches the repair — and a botched repair is a knockout.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d3bf122638db40b29075f1af8c9ac945x1280x3718.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/55d34c1a7d75486a8ef76803f4b55946x1280x857.PNG)
 
 `Q9153, Q9177`
 
@@ -189,6 +206,11 @@
 
 **REMEMBER:** *Break up the hexamer at B28–30 and you get fast insulin; shift the pI and you get slow insulin.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b7d69bea027d436b8378228003336bb5.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/130678960a2c4eaeb2b0d022d80235c0x1280x2499.JPEG)
+
 `Q9157`
 
 ---
@@ -230,6 +252,10 @@
 **EXAM CONNECTION:** "Which enzyme is NOT used in cholesterol synthesis?" → **HMG-CoA lyase**.
 
 **REMEMBER:** *Cytosol REDUCES HMG-CoA to cholesterol; mitochondria CLEAVE it to ketones.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e9308e8bf30d49c284baadb19ae977b5x510x692.PNG)
 
 `Q9161`
 
@@ -294,6 +320,10 @@
 
 **REMEMBER:** *COLA is lost, but only Cystine precipitates — so dilute it and alkalinise it.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/97ff020d81754547b5b454b82d711b6f.JPEG)
+
 `Q9164`
 
 ---
@@ -314,6 +344,11 @@
 **EXAM CONNECTION:** "True regarding non-competitive inhibition" → **constant Km, decreased Vmax**. Also "an allosteric modifier participates in feedback regulation".
 
 **REMEMBER:** *Competitive raises Km; non-competitive lowers Vmax; uncompetitive lowers both.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/397707ff8e1a474aa143981cba6babd6x1279x1431.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/34fac50a7250488b88596ffb2c1141e5x1280x883.JPEG)
 
 `Q9172, Q9165`
 
@@ -378,6 +413,10 @@
 
 **REMEMBER:** *Folate fixes the marrow and abandons the cord.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e5d6c8ffb72c49bb85eb3eb5a7900d1ax1280x1902.JPEG)
+
 `Q9171`
 
 ---
@@ -398,6 +437,11 @@
 **EXAM CONNECTION:** Karyotype image with a chromosome marked → identify the type; or the recurrence-risk question in Down syndrome.
 
 **REMEMBER:** *13, 14, 15, 21, 22 are acrocentric — the only ones that do Robertsonian translocations.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/51c1c4b06b834ee49a2595c93a0c6680.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e7d11af6afbe4947aad151b29bbfbc8ex1280x1705.JPEG)
 
 `Q9173`
 
@@ -420,6 +464,10 @@
 
 **REMEMBER:** *The third base wobbles — so the code is degenerate, but never ambiguous.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1e2ad80f76c940efad91da49b943c477x562x1198.PNG)
+
 `Q9175`
 
 ---
@@ -441,6 +489,10 @@
 **EXAM CONNECTION:** Multi-statement question — the false ones are usually "encodes ALL ETC proteins" and "genetic code identical to nuclear".
 
 **REMEMBER:** *Mother's line only, thousands of copies, high mutation rate — and heteroplasmy explains why siblings differ.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/83d6d116e37041048e4b17bb665fae6ex1280x903.PNG)
 
 `Q9176`
 
@@ -483,6 +535,10 @@
 **EXAM CONNECTION:** "miRNA binds to which part of the mRNA?" → **3′ UTR**.
 
 **REMEMBER:** *Drosha in the nucleus, Dicer in the cytoplasm, and the landing site is the 3′ UTR.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/55bd04b204964e28a346d5edb9dda58ex1280x1391.JPEG)
 
 `Q9179`
 
@@ -547,6 +603,10 @@
 
 **REMEMBER:** *Keratan sulfate: no uronic acid, and it keeps the cornea clear.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/998a1a25cb394a3c83a5408d1dd4ec2bx412x255.JPEG)
+
 `Q9182`
 
 ---
@@ -567,6 +627,11 @@
 **EXAM CONNECTION:** "Dinner at 8 pm, tested at 7 am — source of blood glucose?" → **hepatic glycogenolysis**. The seductive wrong answer is gluconeogenesis.
 
 **REMEMBER:** *Under 18 hours = liver glycogen. Beyond that = gluconeogenesis. Muscle glycogen never counts.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ec0f7f37d46b43aba5d8a67df102de0cx1280x1901.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0d210dea707846be8a80b1dd085abdacx600x1200.JPEG)
 
 `Q9183`
 
@@ -611,6 +676,11 @@
 
 **REMEMBER:** *Tender Loving Care For Nancy — and all five are B vitamins.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/72eb71b8612b4f1b9d3f4db4baaaf704.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3fdba9494f474323a9c3ab86bcd0234bx1092x899.PNG)
+
 `Q9185`
 
 ---
@@ -631,6 +701,11 @@
 **EXAM CONNECTION:** Marfanoid habitus + dislocated lens + the named enzyme → "which amino acid to supplement?" → **cysteine**.
 
 **REMEMBER:** *Homocystinuria: lens DOWN, clots, recessive, B6-responsive. Marfan: lens UP, aorta, dominant.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/00fc56d26bed4db181a849c7dbef250ex1280x1774.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bcd76df2f7cd4fd8bcc986803f0c1256x512x345.PNG)
 
 `Q9186`
 
@@ -673,6 +748,10 @@
 **EXAM CONNECTION:** "Glycogen phosphorylase is activated by" → **calcium** (insulin, G6P and protein phosphatase are all inhibitors — the distractors).
 
 **REMEMBER:** *Calcium contracts the muscle and feeds it at the same time — phosphorylase kinase's δ subunit is calmodulin.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dafecd9ee2034003b574e81dbcebbfdax1280x2560.JPEG)
 
 `Q9197, Q9219`
 
@@ -719,6 +798,10 @@
 **EXAM CONNECTION:** Sequencing question, or a CAH vignette worked backwards to the enzyme.
 
 **REMEMBER:** *Desmolase first (rate-limiting, ACTH-driven), then 3β-HSD, 17α-hydroxylase, 17,20-lyase.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/06b835f663d042b582fe7e0d8e062422x1280x2002.JPEG)
 
 `Q9200`
 
@@ -782,6 +865,10 @@
 
 **REMEMBER:** *C banding for Centromeres — so C banding counts the dicentrics.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0bda1837e4df41da95a780816883d72ax1280x979.JPEG)
+
 `Q9205, Q9220`
 
 ---
@@ -823,6 +910,10 @@
 
 **REMEMBER:** *Split the sample into thousands of droplets and the rare mutant is no longer outnumbered.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/24a6c67a71c147d48c2461e68e660e4ex1120x1354.PNG)
+
 `Q9207`
 
 ---
@@ -843,6 +934,10 @@
 **EXAM CONNECTION:** "In Sanger sequencing ddNTP is used because" → **it does not allow further elongation of DNA**.
 
 **REMEMBER:** *No 3′-OH, no next bond — the chain stops, and the length tells you the base.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/92241a874eba422bb066650b71f4e59ex1024x1024.PNG)
 
 `Q9208, Q9204`
 
@@ -866,6 +961,10 @@
 
 **REMEMBER:** *No folate, no thymidine — so uracil goes in, and futile repair shreds the DNA.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ee4e74c9abc84ce4a1745d163afebbf3x1280x1276.JPEG)
+
 `Q9209`
 
 ---
@@ -886,6 +985,10 @@
 **EXAM CONNECTION:** "Enzyme estimated in RBCs to diagnose B2 deficiency" → **glutathione reductase** (transketolase is B1 — the intended trap). And a child with **pedal oedema + cardiomegaly + cheilosis** → **thiamine** (wet beriberi), despite the cheilosis pointing at riboflavin.
 
 **REMEMBER:** *Glutathione Reductase = riboflavin (both have an R). Transketolase = Thiamine (both have a T).*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4b98026e752a4e53ab76ce2162552bf0x960x720.PNG)
 
 `Q9210, Q9214`
 
@@ -908,6 +1011,10 @@
 **EXAM CONNECTION:** "Which zymogens require γ-glutamyl carboxylase?" → **II, VII, IX, X**. Beware options substituting VIII or XI.
 
 **REMEMBER:** *1972 plus C, S and Z — carboxylated to grip calcium; warfarin blocks the recycling of vitamin K.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/95c075ced62347fbb61a6c14d1d575bcx1279x1234.JPEG)
 
 `Q9211`
 
@@ -973,6 +1080,10 @@
 **EXAM CONNECTION:** "Which biochemical process is used by monoclonal antibodies in hybridoma technology?" → **purine salvage pathway**.
 
 **REMEMBER:** *HAT medium kills anything that cannot salvage — only the hybrid has both HGPRT and immortality.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5cda283f69124bfdabc26964852ea2b5x1280x2037.JPEG)
 
 `Q9218`
 
@@ -1079,6 +1190,10 @@
 
 **REMEMBER:** *Breakdown gives CO, iron and biliverdin. ALA belongs to the build, not the breakdown.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5d91b99726dd490081cf7cf57c982757x1280x2558.JPEG)
+
 `Q9226`
 
 ---
@@ -1098,6 +1213,10 @@
 **EXAM CONNECTION:** "Which mutation results in reversal to wild-type phenotype when the mutant gene is suppressed?" → **mutations in tRNA**.
 
 **REMEMBER:** *A mutant tRNA misreads the stop codon back into an amino acid — the error stays, the phenotype recovers.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5097eab53ac14750a1cc322bf8016a29x1280x1555.JPEG)
 
 `Q9227`
 
@@ -1160,6 +1279,10 @@
 
 **REMEMBER:** *Cross-link, shear, pull down with an antibody — ChIP tells you where a protein sits on the genome.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202024-12-18%20131326.jpg)
+
 `Q9524`
 
 ---
@@ -1179,6 +1302,10 @@
 **EXAM CONNECTION:** Young patient + recurrent pancreatitis + eruptive xanthomas + very high triglycerides → **type I**.
 
 **REMEMBER:** *No LPL, no clearance — milky serum, eruptive xanthomas and pancreatitis, but normal cholesterol.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202024-12-18%20131953.jpg)
 
 `Q9526`
 
@@ -1220,6 +1347,10 @@
 
 **REMEMBER:** *Sodium drags glucose in at the top (SGLT-1), glucose drifts out at the bottom (GLUT-2) — and that is why ORS works.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/Screenshot%202024-12-18%20131253.jpg)
+
 `Q9529`
 
 ---
@@ -1239,6 +1370,11 @@
 **EXAM CONNECTION:** The biopsy description of the glycogen's **chain length** is the whole question.
 
 **REMEMBER:** *Long chains = Andersen (no branching). Short chains = Cori (no debranching).*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202024-12-18%20131450.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202024-12-18%20131507.jpg)
 
 `Q9530`
 
@@ -1282,6 +1418,10 @@
 
 **REMEMBER:** *Muscle sends lactate (Cori) and alanine (Cahill); fat sends glycerol.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/Screenshot%202024-12-18%20131348.jpg)
+
 `Q9534`
 
 ---
@@ -1322,6 +1462,10 @@
 **EXAM CONNECTION:** "FIGLU is an intermediate in the metabolism of" → **histidine**.
 
 **REMEMBER:** *FIGLU — Formimino from HIstidine, handed to folate. No folate, and it spills into the urine.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/46ad4c55f4d24551a3d691e61d8b6237x1280x1449.JPEG)
 
 `Q9975`
 
@@ -1469,6 +1613,10 @@
 **EXAM CONNECTION:** "Which enzyme produces the excreted metabolite?" → **monoamine oxidase**.
 
 **REMEMBER:** *MAO makes 5-HIAA. Carcinoid steals tryptophan — so look for pellagra and right-heart valves.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2accede02d1e4ad7b92c6dffea20a10bx1280x1408.JPEG)
 
 `Q10254`
 
@@ -1787,6 +1935,10 @@
 
 **REMEMBER:** *Retinol travels, retinal sees, retinoic acid differentiates — and retinoic acid can never go back.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/41951a946a70435dbe9930bc95aeef74x1279x1623.JPEG)
+
 `Q10786`
 
 ---
@@ -1872,6 +2024,10 @@
 **EXAM CONNECTION:** "Folate trap refers to" → **accumulation of methyl-tetrahydrofolate**.
 
 **REMEMBER:** *Methyl-THF is a one-way door and B12 holds the only key.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2340fa2f5ef54a51a74955f50a8b11cbx1280x1774.JPEG)
 
 `Q10800`
 
@@ -1982,6 +2138,10 @@
 
 **REMEMBER:** *Transaminases pass the nitrogen around; only glutamate dehydrogenase sets it free.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5ead5ccdd3404daba2c1ac8d84e4128bx1280x723.JPEG)
+
 `Q10807`
 
 ---
@@ -2088,6 +2248,10 @@
 
 **REMEMBER:** *Nothing happens until phospholipase A2 cuts arachidonic acid loose — which is why steroids block both arms.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/364d110205114669a30e8479d7e4625ax1024x700.jpeg)
+
 `Q10814`
 
 ---
@@ -2153,6 +2317,10 @@
 
 **REMEMBER:** *Anything touching the proton gradient lives in the inner membrane; the soluble pathways float in the matrix.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/39cfca1ac5e74aea826d31bfbc8c2586x1280x1590.521861777151.JPEG)
+
 `Q10795, Q10793`
 
 ---
@@ -2174,6 +2342,10 @@
 **EXAM CONNECTION:** Photosensitive dermatitis + diarrhoea + depression + red tongue, then "which is NOT associated?" → **Wernicke's encephalopathy**.
 
 **REMEMBER:** *Anything that steals, blocks or hides tryptophan gives pellagra — Hartnup, carcinoid, B6 lack, maize and jowar.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/20f0c68170c2437a8e235efe8000eed6.JPEG)
 
 `Q10821`
 
@@ -2243,6 +2415,11 @@
 
 **REMEMBER:** *Morquio: bones wrecked, brain spared — and never extend that neck.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/67318a8bf95c43458e32f68aec2ced49x1102x490.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ca4ee3b83d5f4ce0ad9162fcd39be183x1280x1126.JPEG)
+
 `Q11052`
 
 ---
@@ -2263,6 +2440,10 @@
 **EXAM CONNECTION:** Joint swelling + nodules + hoarse voice → **ceramidase**.
 
 **REMEMBER:** *Ceramide is the hub — Farber blocks its final breakdown, and the baby's cry goes hoarse.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a017a6d45196402e81ffe7e36e3d7b92x268x201.JPEG)
 
 `Q11057, Q10790`
 
@@ -2285,6 +2466,10 @@
 
 **REMEMBER:** *Tissues can't use the oxygen, so the venous blood comes back red and the lactate soars.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7fdce35a5184493da5256b2517142930x1280x2560.JPEG)
+
 `Q11058`
 
 ---
@@ -2305,6 +2490,10 @@
 **EXAM CONNECTION:** Neonate with jaundice, hepatomegaly and vomiting on breast milk → "most susceptible to sepsis by" → ***E. coli***.
 
 **REMEMBER:** *Galactose-1-phosphate poisons the organs and the neutrophils; galactitol clouds the lens.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/273ae933e27941edbdbe9e4f99d5dbe6x1280x1129.JPEG)
 
 `Q11059`
 
@@ -2327,6 +2516,10 @@
 **EXAM CONNECTION:** "Which statement is INCORRECT?" → "**the X-linked form is due to adenosine deaminase deficiency**".
 
 **REMEMBER:** *X-linked SCID = common γ chain (T− B+ NK−). ADA deficiency is the recessive one, and it kills all three lineages.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/20d98e26810d41d993afd2a0347328ae.JPEG)
 
 `Q11060`
 
@@ -2356,6 +2549,10 @@ up. **The anticodon decides — the amino acid goes to the codon of the tRNA's o
 identity.**
 
 **REMEMBER:** *The ribosome reads the address on the envelope, not the letter inside.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture12_GkPH2U9.jpg)
 
 `Q10868`
 
@@ -2517,6 +2714,10 @@ metabolic logic.
 **REMEMBER:** *Aminopterin blocks the de novo route, so only the salvage-capable hybrid
 lives.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5cda283f69124bfdabc26964852ea2b5x1280x2037.JPEG)
+
 `Q10965`
 
 ---
@@ -2611,6 +2812,10 @@ syndrome, look for the **fallen albumin and the exaggerated α2 peak**.
 
 **REMEMBER:** *Too big to leak — α2-macroglobulin stands tall while everything else drains
 away.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fbd0983139604b11ad59a24ebd1bfdefx1280x606.JPEG)
 
 `Q11021`
 
@@ -2746,6 +2951,10 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 
 **REMEMBER:** *Every polymerase adds to a 3′-OH — editing just rewrites a letter in place.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/07/06/whatsapp-image-2023-06-12-at-190121011058.jpg)
+
 `Q11321`
 
 ---
@@ -2788,6 +2997,10 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 
 **REMEMBER:** *RT means you must copy RNA into DNA first.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/171f4fe6637e4718ab94ab027de0a8bbx572x449.PNG)
+
 `MF0680`
 
 ---
@@ -2808,6 +3021,10 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 **EXAM CONNECTION:** "ApoB-48 synthesis involves ___" → **RNA editing**. Alternative splicing is the distractor — it is the right answer for **IgM/IgD** and for **calcitonin/CGRP**, not for apoB.
 
 **REMEMBER:** *One gene, one transcript, one edited base — 48% of a protein.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/32bc240e5be848dda037a6e8368306b1x605x534.JPEG)
 
 `MD0798`
 
@@ -2851,6 +3068,11 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 **EXAM CONNECTION:** One-liners drawn straight from the table. The recurring trap: **NO comes FROM arginine and yields citrulline** — the options reverse it.
 
 **REMEMBER:** *Take off the acid group and you get the amine.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b3632e10e9ca4447ad3bdca0b708fc39x435x243.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7b53b3afcc1c47e792f684ad0097deeex1280x1310.JPEG)
 
 `MA7258, MA7244, MD0797, MA8396`
 
@@ -2897,6 +3119,11 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 
 **REMEMBER:** *Normal, then strokes that ignore the arteries — mitochondria.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/0d2c86a902f54fd1bbe8d5ea08c81972.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/517dda62074444dd8f1f28403f50a180x720x581.JPEG)
+
 `MA1134`
 
 ---
@@ -2938,6 +3165,12 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 
 **REMEMBER:** *Crumpled paper stores glucose-cerebroside; foamy cells store sphingomyelin.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/12f46ebde0b240f18423e6ca63d55aeb.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/eaf86bca861342ff84c303230efbb8bax1280x2017.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/0f716f89fa9a4370bbdb7b6295a1acee.JPEG)
+
 `MF1500, MB0052`
 
 ---
@@ -2959,6 +3192,10 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 
 **REMEMBER:** *Chop the chain, move the branch, strip the phosphate.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d899de2c563b46f3a4712e021cba77d7x1280x1333.JPEG)
+
 `MB1688`
 
 ---
@@ -2979,6 +3216,10 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 **EXAM CONNECTION:** "Protein produced by a regulatory gene" → **repressor**. All three distractors (operon, promoter, inducer) are non-protein by definition.
 
 **REMEMBER:** *Only the repressor is a protein; the rest is DNA.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9e86086e09284a7eaa24d79a49175a8fx719x599.PNG)
 
 `MB2776`
 
@@ -3002,6 +3243,10 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 
 **REMEMBER:** *Ubiquitin is the tag, the proteasome is the shredder.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1b2e8593c17c4a2fb62a658d5c37865fx335x360.JPEG)
+
 `MC9795`
 
 ---
@@ -3024,6 +3269,10 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 
 **REMEMBER:** *Fluorocitrate jams the citrate enzyme; malonate mimics succinate.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/76825a8fa7b34db89430c4b5211dd573x1280x1018.JPEG)
+
 `MA1177`
 
 ---
@@ -3044,6 +3293,10 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 **EXAM CONNECTION:** "Which transporter deficiency" — the stem gives **exercise intolerance + myoglobinuria + high CK**. Creatine is the distractor; creatine has nothing to do with mitochondrial transport.
 
 **REMEMBER:** *Long chains need a ferry; short chains swim.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7d27598800f5469bade0f988478cd9f3x1280x1913.JPEG)
 
 `MA9797`
 
@@ -3066,6 +3319,10 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 
 **REMEMBER:** *The heart's own isoenzyme comes first.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5fe1affdba0148eb9ad195e5bb2563c3x1024x680.JPEG)
+
 `MC9496, MA8376`
 
 ---
@@ -3086,6 +3343,11 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 **EXAM CONNECTION:** Asked twice in the same wording, once as a medicine stem and once as an anaesthesia stem. The answer word is **de-repression** — repression would *reduce* the attack, which is the opposite.
 
 **REMEMBER:** *Induce P450, eat the haem, release the brake on ALA synthase.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2370f6a3e9e64db5b0d342d7fc4a410fx1280x1964.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/920bb948896549ca8d154dc6b5f5166cx1280x1313.JPEG)
 
 `MF0210, MB0707`
 
@@ -3128,6 +3390,12 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 **EXAM CONNECTION:** The stem gives marfanoid habitus + **downward** lens dislocation + CBS deficiency and asks what to **supplement** → **cysteine**. Methionine is the trap — it is the one to *restrict*.
 
 **REMEMBER:** *Block the road to cysteine and cysteine becomes essential.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/00fc56d26bed4db181a849c7dbef250ex1280x1774.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bcd76df2f7cd4fd8bcc986803f0c1256x512x345.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c84307c25b08404ebad0ed6c97f95b35x1280x1169.JPEG)
 
 `MF1318`
 
@@ -3192,6 +3460,10 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 
 **REMEMBER:** *Fed enzyme is LPL, fasting enzyme is HSL — insulin flips both.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/930c5ce53b9a48df908e15bf24113255x800x552.JPEG)
+
 `MD1280`
 
 ---
@@ -3234,6 +3506,10 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 
 **REMEMBER:** *No glycogen at all means the synthase, not the phosphorylase.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/782e85c36f0648698a222dca988adfabx1280x1863.JPEG)
+
 `MF8299, MB1684`
 
 ---
@@ -3274,6 +3550,11 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 **EXAM CONNECTION:** Image of a plasmid with lacZ and an insert → the phenomenon is **complementation**. The distractors are the other bacterial gene-transfer mechanisms.
 
 **REMEMBER:** *Insert breaks the enzyme — success is colourless.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/e3cfb150996e46179163a897cd3823ca.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/53a706e417e4439889c4fec0a2189b5ex600x600.JPEG)
 
 `MC6789`
 
@@ -3316,6 +3597,10 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 
 **REMEMBER:** *Getting it into bile is harder than making it water-soluble.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d87ed2fc1ea044268632684a033fe807x1280x2023.JPEG)
+
 `MB0757, MD3077`
 
 ---
@@ -3337,6 +3622,10 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 
 **REMEMBER:** *Vitamin C builds the vessel wall, vitamin K builds the clot.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/78592172dff84017a824c47084b3f181x1024x906.JPEG)
+
 `MF8118`
 
 ---
@@ -3357,6 +3646,10 @@ polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is
 **EXAM CONNECTION:** "Two devices eukaryotes use to regulate transcription" → **DNA methylation and histone acetylation**. Every distractor pairs the right process with the wrong molecule (DNA acetylation, histone amplification) — no such things.
 
 **REMEMBER:** *Methylate the DNA to mute it; acetylate the histone to open it.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a5e2caab31444ddda44e54b175ad2c72x993x932.JPEG)
 
 `MB2780`
 

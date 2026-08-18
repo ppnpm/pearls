@@ -22,6 +22,10 @@
 
 **REMEMBER:** *Dead bone has no blood supply — so no antibiotic reaches it and the knife must.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/295bf4a3cddd4400aa62800f53989bdax1280x1176.JPEG)
+
 `Q8919, Q9024`
 
 ---
@@ -43,6 +47,15 @@
 **EXAM CONNECTION:** Attitude of the limb → **shortened and externally rotated**; intertrochanteric fracture → **proximal femoral nail**.
 
 **REMEMBER:** *Inside the capsule, replace the head; outside it, fix the bone.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d6ba163c5f49463e873c3847457e603ax1275x3420.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/395593067ce34a53ba8c2553a54f96c1x1072x979.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/be8cda7a3ad6421eb3f5da57efe70c45x1024x1024.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/31e25f3db192479bbf6d6e722062a3d7x1280x1967.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/49f2c42b7d6d4a24b655b430415fe243.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/53e9673a803e46d7aaea91bcdbbb267fx1280x1010.JPEG)
 
 `Q8920, Q9009`
 
@@ -66,6 +79,14 @@
 
 **REMEMBER:** *Oxyphil cells are stuffed with mitochondria — so they hold on to the sestamibi.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/99bc0ed00c7445fd83f6c172e98038cbx512x512.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/666a460de5f9487294c804cd28a46d5bx720x1197.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/49d4133d5b6e49a394882e929d8be212x1280x1246.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/57436a7d9dac4a02a03a9d08d991b811x720x720.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ea56ff526ee445e7ba55188fea556f7fx672x526.JPEG)
+
 `Q8921`
 
 ---
@@ -87,6 +108,13 @@
 **EXAM CONNECTION:** Lytic lesion with fever and raised ESR → **MRI next**, not biopsy or PET.
 
 **REMEMBER:** *Image first, biopsy second — a careless tract costs the limb.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/49e39ded8ed74d09aa4b0c165aed0633.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d708e92ba9364da4936c7fdb704c0f4fx720x1363.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c3c6a201b4ff4777a09699639315f12fx1280x1407.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ac5acbf0c4fd4e8bb8b94f8c1a773e09x1280x1176.JPEG)
 
 `Q8922`
 
@@ -110,6 +138,14 @@
 
 **REMEMBER:** *One artery feeds the head at that age — lose it and the head must be contained while it rebuilds.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/a6b7e83eb5e6429cad756ccfa9820d34.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4648e5cd327446ebbcb5713124cc21c4x720x513.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6f43492cf328450a80eeecb519a8ccdax1001x768.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/265949daa50e406388181e793de23143x1280x1198.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e5e04841e5954754b32fcc00e3ba67fax720x1067.PNG)
+
 `Q8952`
 
 ---
@@ -131,6 +167,11 @@
 **EXAM CONNECTION:** Eversion injury → **deltoid ligament**; inversion → **anterior talofibular ligament**.
 
 **REMEMBER:** *The long lateral malleolus blocks eversion — so inversion tears the outside and eversion snaps the inside bone.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f908a703a2374676a376b9623c1ac7e0x1272x1060.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/42f8071970804886b08e6640a9357394x1279x1223.JPEG)
 
 `Q8953`
 
@@ -198,6 +239,15 @@
 
 **REMEMBER:** *A bar on one side and a hemivertebra on the other — one side cannot grow and the other will not stop.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/0ed0c8fd93cb4adab7506cda10a42bb4.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7d6d28f7f69c4d0bb2bd7e185cbcbf26x570x616.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/e62bedff691049c5814fa3feab9ce2fa.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e9afc0c4ad2e4b06a44729dee539c316x1280x1280.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2b3438081dbe418fb173399e274c123bx720x720.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7997bc8460f245c79ee6571e4bc9643bx1280x1262.JPEG)
+
 `Q9014, Q9021`
 
 ---
@@ -220,6 +270,12 @@
 
 **REMEMBER:** *Eccentric, epiphyseal, expansile and after the physis closes — and RANKL is both the mechanism and the drug target.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/50d75944d680436780799bd6790aeec4.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/06be4c40d88a4d0dbc05ac7ebfd0bc5dx720x775.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b92598d330514a3babb74ad481395e07x1279x1560.JPEG)
+
 `Q9015`
 
 ---
@@ -240,6 +296,10 @@
 **EXAM CONNECTION:** Arms elevated, hands pumping for 3 minutes → **Roos test**.
 
 **REMEMBER:** *Three narrow spaces, three provocative tests — and the lower trunk suffers first.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d4196bdafb2d49008a9f87d2af5b5718.GIF)
 
 `Q9017`
 
@@ -285,6 +345,10 @@
 
 **REMEMBER:** *Only the outer quarter has blood — repair the rim, trim the middle.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bc22fc2a4cae4ed38415688ec639da2fx1279x1559.JPEG)
+
 `Q9019`
 
 ---
@@ -329,6 +393,11 @@
 
 **REMEMBER:** *Dinner fork means dorsal tilt — and the cast holds it in the opposite of every displacement.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/9ca7abed17d242e5bed2a71d458b6edf.jpg)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c854a2f64ed1455488fe4b2d123ac69ax720x855.JPEG)
+
 `Q9023, Q9027`
 
 ---
@@ -349,6 +418,11 @@
 **EXAM CONNECTION:** Counterforce brace → **tennis elbow**; de Quervain's → **APL and EPB**.
 
 **REMEMBER:** *The brace stops the pull reaching the epicondyle; Finkelstein stretches the two thumb tendons.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a109bd0fa18646a49aae68a96bda3831x1024x768.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2849d44748cc49b88e7587aa450497dcx1280x1492.JPEG)
 
 `Q9025, Q9026`
 
@@ -372,6 +446,10 @@
 
 **REMEMBER:** *Shearing tears the perforators — the skin survives in appearance long after it has died.*
 
+
+**IMAGES:**
+![explanation](https://cdn1.dailyrounds.org/uploads/22ed05e62e1847ef8ac555f5033d495e.PNG)
+
 `Q9029`
 
 ---
@@ -392,6 +470,14 @@
 **EXAM CONNECTION:** Image pairs → **jersey finger (flexor, DIP won't flex) and mallet/baseball finger (extensor, DIP droops)**; DIP + PIP + first CMC with sparing of MCP → **osteoarthritis**.
 
 **REMEMBER:** *Jersey pulls the flexor off and needs surgery; mallet drops the extensor and needs a splint.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/092533ecb3984df581093ccd7b6fed1f.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2b369abd6e614e86b1b70d538046d546x720x732.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/37afcc099948485597ab82bded445152x720x1499.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0c4ce65e67924b4dad621155ea2feddfx1280x1085.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1e8d2990ca664920a9acfc69cf29e9ebx720x1051.PNG)
 
 `Q9031, Q9032`
 
@@ -435,6 +521,13 @@
 
 **REMEMBER:** *Flex the good hip to flatten the spine and expose the deformity; the pelvis drops on the side you are NOT standing on.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5f456d26ed454fda92e3f283039b8ddcx372x264.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7026cc757bb14f768d2c9586586d80c3x1280x4280.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/0c038ce4d03d47cd90a6a8060326b9df.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9ccb51070ca5422d89b944d0b7c7e439x1280x1396.JPEG)
+
 `Q9034, Q9036, Q9010`
 
 ---
@@ -456,6 +549,14 @@
 **EXAM CONNECTION:** Tibial traction for a femoral shaft fracture → **Steinmann pin + Bohler's stirrup + Böhler–Braun splint**.
 
 **REMEMBER:** *The pin pulls the bone, the stirrup redirects the pull, the splint holds the limb.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3189db5533dc4f1c9d04d95b7bf07c6cx642x972.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b4861b398cc34fb9b8affbe586c9b2cex1200x900.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8b45de4a893d4406b516636e29fa8369x1280x960.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ebe2047d3e9847f3a49a5f1c046469e1x1280x2018.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1f97f56a87274e03a6d674be73244d8cx1280x1257.JPEG)
 
 `Q9035`
 
@@ -479,6 +580,13 @@
 
 **REMEMBER:** *CAVE — cavus, adductus, varus, equinus — and the tendo-Achilles is cut last.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/afd8a981bca546acb21ee078341b4cf7.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e59e90661cd9489da70e48c66b033465x720x540.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2f1dac6a8b584f309c6f4575ff1db633x1200x1399.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/397cd668dc374093ad2ca245a002eed4x1280x4599.JPEG)
+
 `Q9037, Q10145, Q10187`
 
 ---
@@ -499,6 +607,11 @@
 **EXAM CONNECTION:** Cupping and fraying with ALP >1500 → **rickets**; "tumour NOT causing osteomalacia" → **breast carcinoma**.
 
 **REMEMBER:** *Unmineralised cartilage piles up at every growth plate — cupping, fraying and a rosary of ribs.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b96ba0de255c405891527173735b0de5.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8304d32eb63241a79bb599822608ba51x1280x1326.JPEG)
 
 `Q9038, Q9012, Q10204`
 
@@ -521,6 +634,10 @@
 
 **REMEMBER:** *It is the repair, not the death, that collapses the head — so treat before the crescent appears.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d4d99ed053c740f89ffd942b56104a07.JPEG)
+
 `Q9040`
 
 ---
@@ -541,6 +658,14 @@
 **EXAM CONNECTION:** Untreated lateral condyle fracture → **cubitus valgus**; displaced supracondylar fracture with no intact posterior cortex → **Gartland type III**.
 
 **REMEMBER:** *Supracondylar unites crooked into varus; lateral condyle fails to unite and drifts into valgus.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/3dce681c3bab4a1192a88aa6fe6bff2f.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/075032e5184741db9838274dc8ccceeex1280x1508.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/46b12fc8e62b460fb459be247d574be8x1280x1602.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6f5f9488f022431ebb7fa92791068eb6x1280x973.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/fd00e0e53297417fb91a4615a317e88f.JPEG)
 
 `Q9041, Q9047`
 
@@ -608,6 +733,11 @@
 
 **REMEMBER:** *Pain before the break, in an old patient, through a hole in the bone — biopsy before you nail.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/9545cc4094ed4f7790a90a1c8d8caa1b.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f5c6d490eece469ea217e5bbaf5f2c2ax738x770.JPEG)
+
 `Q9045`
 
 ---
@@ -628,6 +758,10 @@
 **EXAM CONNECTION:** X-ray showing a compression plate → **primary healing (no callus)**.
 
 **REMEMBER:** *Compression gives no strain and no callus; a cast gives motion, callus and faster union.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/8080f170c26d4182a821d1f65b69d60a.PNG)
 
 `Q9046`
 
@@ -651,6 +785,10 @@
 
 **REMEMBER:** *The palmar cutaneous branch flies over the retinaculum — so the thenar skin stays normal in carpal tunnel.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/949fc41420d7418b9aaea04bd9bac9d5x1024x700.jpeg)
+
 `Q9048`
 
 ---
@@ -673,6 +811,15 @@
 **EXAM CONNECTION:** Knee flexed ~20° with anterior gliding → **Lachman test**; matching tests to ligaments is straight recall.
 
 **REMEMBER:** *Twenty degrees relaxes the hamstrings and frees the meniscal wedge — that is why Lachman wins.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/68363c0cae06430bbe07b8df7d3b8e4c.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d9aea68439c843aeb9df4f42417e3966x254x175.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/00fd57d1a14c4a67b60d47b4599f36afx512x384.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/02dee7eb661d41c992bdee9e2f38a66ex509x266.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c7478efaa5a74aa7a6ea139b5a5afa3ax512x192.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3631f0284db3434eb6a33a2a0a59b3ffx500x383.PNG)
 
 `Q9049, Q10210, Q10251, Q9980`
 
@@ -737,6 +884,12 @@
 
 **REMEMBER:** *Pull slowly and bone grows into the gap — a millimetre a day, and infection is an indication, not a barrier.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d7ba72a6d31e45e8acbea3c8e45c0b58.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9af4f46e1d084fcdb9e0eea7ede0d2fcx1280x1566.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9bccaf344b0540cca0439ea1c43fac7ex1280x2560.JPEG)
+
 `Q9927`
 
 ---
@@ -758,6 +911,13 @@
 **EXAM CONNECTION:** Pain at 60–120° with a positive Hawkins–Kennedy test → **painful arc/impingement syndrome**.
 
 **REMEMBER:** *The space is tightest in the middle of the arc — so that is where it hurts.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bab93ffba4c84ccf8ff0656495db121ax1280x2046.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2e9790ecee3e4a568e6e4a4d7085f6dbx1280x1992.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/76ffde96dd6548f39c140c40173bf1d6x1279x1319.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4a886ed275c8438e86d2a7d3f835ab45x1280x1979.JPEG)
 
 `Q9932`
 
@@ -823,6 +983,10 @@
 
 **REMEMBER:** *The talus is fed backwards through its neck — break the neck and the body dies.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/6b3b37936e4649ab919570fdc3715578.JPEG)
+
 `Q10256`
 
 ---
@@ -867,6 +1031,11 @@
 
 **REMEMBER:** *C1 bursts outwards and C2 splits its pars — both widen the canal, so the patient often walks in.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/05/22/picture16.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/24/picture78.jpg)
+
 `Q10339`
 
 ---
@@ -888,6 +1057,10 @@
 
 **REMEMBER:** *Sausage finger, held flexed, tender along the sheath, agony on extension — drain it today.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/6498a2a86d8044679ad50453a138dbc3.JPEG)
+
 `Q10344`
 
 ---
@@ -908,6 +1081,10 @@
 **EXAM CONNECTION:** "Incorrect about the PCL" → **it is the main restraint to internal rotation**.
 
 **REMEMBER:** *Cruciates are inside the joint but outside the synovium — the PCL simply stops the tibia sliding back.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/07/screenshot-2024-02-07-143739.jpg)
 
 `Q11459`
 
@@ -931,6 +1108,12 @@
 
 **REMEMBER:** *Perilunate — everything moves around the lunate; lunate dislocation — only the lunate spills out.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/04/48.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/04/49.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/04/50.jpg)
+
 `Q11460`
 
 ---
@@ -952,6 +1135,13 @@
 **EXAM CONNECTION:** Fish-tail deformity → **distal humeral fracture in children**; Tom Smith's arthritis destroys → **the femoral capital epiphysis**.
 
 **REMEMBER:** *Growing epiphyses live on end-arteries — infection or fracture, and the cartilage nucleus dies.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/42.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/43.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/04/41.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/04/42.jpg)
 
 `Q11467, Q11468`
 
@@ -1017,6 +1207,10 @@ HUMERUS (postero-lateral).**
 **REMEMBER:** *The head goes out the front — tearing the labrum in front and denting itself
 behind.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cffa0b9af3ad464191d771ef59116714x451x278.JPEG)
+
 `Q11022`
 
 ---
@@ -1058,6 +1252,11 @@ association, Trethowan's sign.** False: "internal rotation normal" (it is the mo
 LOST) and "CT is the investigation of choice" (it is the **frog-leg lateral X-ray**).
 
 **REMEMBER:** *Fat adolescent, knee pain, foot turned out — fix it where it lies.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b23ae0fc22e442d59468b158d195551e.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/36d68f0d17ec4d609106778933139f66x1024x700.jpeg)
 
 `Q11130`
 
@@ -1159,6 +1358,11 @@ intact ⇒ superficial nerve intact ⇒ the lesion is the DEEP peroneal nerve.**
 
 **REMEMBER:** *Deep lifts the foot, superficial turns it out, tibial turns it in.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3d52bcf03ec442bfa7909cf6ba2a7033x1280x2400.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3b8f77c49d2f4567a384a3c2ccb0deb0x1200x1836.JPEG)
+
 `Q11136`
 
 ---
@@ -1190,6 +1394,11 @@ vertebra and cotton-wool skull = mixed; uniformly dense enlarged bone = scleroti
 **REMEMBER:** *A flame of resorption eats along the bone first, then chaos rebuilds it
 bigger and weaker.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b35179303a794f21a6afbf920613a3f7.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/73e04614513446d697efa0befc290e5cx1280x756.JPEG)
+
 `Q11137`
 
 ---
@@ -1220,6 +1429,10 @@ fractures easily** — the central paradox of the disease.
 imperfecta and rickets both have **decreased** density.
 
 **REMEMBER:** *Too much bone, no marrow — dense, blind, anaemic and still fracturing.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/5502f05c4901430e962f4cf8f8d772af.JPEG)
 
 `Q11138`
 
@@ -1290,6 +1503,14 @@ intertrochanteric fracture.**
 
 **REMEMBER:** *Dislocated backwards turns in; broken turns out.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/9f4cb159396245598f7fbe90271aef95.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f4ab6bd55b074891a738c4ba8528ee28x1280x4271.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a9338f291946408ab82974840a36a700x1280x1802.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e0aedfeb601e466183ef098660e542e7x1280x4053.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/c3cb21b866064155a99cb92795f99f27.JPEG)
+
 `Q11135, Q11144`
 
 ---
@@ -1320,6 +1541,11 @@ the original injury at all, which is why the interval can be a decade.
 **REMEMBER:** *The lateral condyle fails, the elbow drifts into valgus, and years later the
 ulnar nerve wears out.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/5c296d249f144c18a66670bd2709531d.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/92f0eef457f04dedb22143e5aaa5edf5x1280x1508.JPEG)
+
 `Q11146`
 
 ---
@@ -1346,6 +1572,26 @@ reasoning step. Read them, don't derive them.
 
 **REMEMBER:** *Heberden distal, Boston for low curves, aviator's talus loses its body,
 McMurray clicks the meniscus.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d09a2f7f453941ecaa2d096bd0a95a0bx1280x1085.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/89b1b40cf8074f90a341c93f98b47bec.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8e95d12cf1394fde81fafe4a8c3b2e92x261x358.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/789e2aeba3a144edb58941e0273d00ecx720x912.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ef3ab0f4fb2041e1a3bbadbd20d31c56x255x387.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5ff3f99dc75d41f18a7651fa5d8d650cx1280x1280.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bc5a38a6ec9649419b5d3a461c34d05ax720x720.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dfddfcc440c648c6a81257139b66bce5x1200x1783.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/1f4062f930c64fa588b5fcb64249c570.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/11ed1fa605d842c087050d861a290dbdx300x426.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cd7f3903d3a0431499aaa6226736f547x1280x1194.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1f13c788a38d4147a949377cc82bf62ax1279x1062.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/f472227044634a3e991fadb8189aa1f4.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8bc0d2fcc5f245bdafe86445cbcfa849x1280x1982.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1231da278b7e4cb59d66012e919831efx1280x4207.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b85c2139c3894b4f91bdcec9f13b7143x1279x1060.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/daee4afc01aa4108beaa28c2c90f4625x1280x1860.JPEG)
 
 `Q11129, Q11133, Q11134, Q11140, Q11142, Q11143, Q11145, Q11139`
 
@@ -1377,6 +1623,14 @@ stem says metaphysis with sunburst and raised ALP, switch to osteosarcoma.
 
 **REMEMBER:** *Diaphysis, onion peel, CD99 — and it looks like osteomyelitis.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/05/08/io54.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202025-05-24%20101949.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202025-05-24%20102011.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202025-05-24%20102025.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202025-05-24%20102040.jpg)
+
 `Q11220`
 
 ---
@@ -1407,6 +1661,14 @@ the aggressive lysis, the thin expanded cortex, and the dramatic response to **D
 **distal radius location** is a stock stem.
 
 **REMEMBER:** *Ends of bones after the plates close, soap bubbles up to the joint — GCT.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture12_b3emOjw.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/screenshot-2024-01-02-130615.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture13_fTE459u.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture14_3f4Ne5o.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture16_KKxJopm.jpg)
 
 `Q11222`
 
@@ -1447,6 +1709,12 @@ stairs and cycling = neurogenic.**
 
 **REMEMBER:** *Bend forward and the canal opens — stenosis loves a shopping trolley.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-103338.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-103349.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-103402.jpg)
+
 `Q11221`
 
 ---
@@ -1479,6 +1747,13 @@ correct**. CTS goes with Durkan/Tinel/Phalen; Guyon/ulnar goes with Froment/Card
 **REMEMBER:** *Wakes at night, shakes the hand, spares the palm — press the tunnel to prove
 it.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture41.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture37.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture38.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture39.jpg)
+
 `Q11207`
 
 ---
@@ -1508,6 +1783,14 @@ a **rocker-bottom foot** — the classic iatrogenic complication.
 CAVE in order.
 
 **REMEMBER:** *CAVE — and you dig out the cavus first, the equinus last.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-102714.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-102726.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-102757.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-102812.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-102825.jpg)
 
 `Q11210`
 
@@ -1542,6 +1825,12 @@ lacks **vitamin C**, while a polished-rice diet without pulses would suggest **t
 **REMEMBER:** *No hydroxylation, no collagen — bleeding gums, bleeding periosteum, breaking
 scars.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/19/screenshot-2024-09-19-092757.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/19/screenshot-2024-09-19-092802.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/19/screenshot-2024-09-19-093002.png)
+
 `Q11211`
 
 ---
@@ -1568,6 +1857,39 @@ reason out.
 
 **REMEMBER:** *Thomas for the hip, Hoover for the faker, Sprengel for the scapula, Haglund
 for the heel — and dead bone shines whitest.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/07/picture25.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/07/picture26.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/05/08/io11.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/08/18/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_83.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/24/screenshot-2024-01-23-195511.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/24/screenshot-2024-01-23-195523.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/08/31/screenshot-2024-08-31-090929.png)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/05/15/screenshot-2024-05-15-112808.JPG)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/08/17/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_83_AJMegAp.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-131335.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202025-02-19%20115127.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-131347.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-131359.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-131410.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-131422.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-131433.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-131447.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/07/picture27.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/07/picture28.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/07/picture29.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/08/17/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_87.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/31/picture1.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/31/picture2.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/31/picture3.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/31/picture4.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/15/screenshot-2024-05-15-112245.JPG)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/01/04/screenshot-2024-01-04-175840.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/04/whatsapp-image-2024-01-04-at-180800.jpeg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/04/picture204.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/07/04/screenshot-2024-07-03-180933.png)
 
 `Q11197, Q11198, Q11206, Q11208, Q11212, Q11213, Q11217, Q11219, Q11225, Q11205, Q11193`
 
@@ -1598,6 +1920,19 @@ angular correction before disimpaction simply levers on locked bone.
 the deformity-to-fracture match (**dinner fork = extra-articular distal radius**).
 
 **REMEMBER:** *Pull it out to length, push it palmar, tip it ulnar, then plaster.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/05/08/io32.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/23.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/82.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/83_ts2QvpP.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/37.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/screenshot-2024-01-10-173334.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/38.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/39_WZsKVZq.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/40.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/41.jpg)
 
 `Q11244, Q11228`
 
@@ -1631,6 +1966,15 @@ Traction options are never correct in a modern stem.
 
 **REMEMBER:** *Inside the capsule, the head loses its blood — replace it. Outside, fix it.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-131936.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-132035.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-132049.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-132102.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-131913.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/08/18/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_101.jpg)
+
 `Q11250, Q11258, Q11252`
 
 ---
@@ -1662,6 +2006,12 @@ and that **Kocher is a hip-specific decision rule for children**.
 
 **REMEMBER:** *Pus under pressure widens the joint and eats cartilage in days — aspirate,
 wash out, treat.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/24/screenshot-2024-01-23-194843.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/24/screenshot-2024-01-23-195047.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/08/17/untitled-1325.jpg)
 
 `Q11229, Q11241`
 
@@ -1701,6 +2051,15 @@ Flowing candle wax with normal SI joints = DISH.
 
 **REMEMBER:** *Candle wax down the front, joints untouched — DISH, not inflammation.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/01/11/54.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/11/55.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/11/picture7.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/11/55_HWaf72g.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/11/103.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/11/104.jpg)
+
 `Q11257`
 
 ---
@@ -1730,6 +2089,16 @@ distractors usually pair the right splint with the wrong nerve.
 
 **REMEMBER:** *Cock-up holds a dropped wrist (radial); knuckle-bender un-claws the ulnar
 hand.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture24.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture35.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture34.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture33.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture30.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture31.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture30_HJLEd4u.jpg)
 
 `Q11251`
 
@@ -1764,6 +2133,14 @@ II.** Learn SALTR in order with the exit route of each.
 **REMEMBER:** *A chip of metaphysis rides with the epiphysis — type II, and the growth plate
 usually survives.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/c4e15e6b50304193abd7ad5f548c97fe.PNG)
+![explanation](https://cdn1.dailyrounds.org/uploads/cb2397de8ecd4d9a8d2c7ad0f648e23a.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/36d68f0d17ec4d609106778933139f66x1024x700.jpeg)
+![explanation](https://cdn1.dailyrounds.org/uploads/2ace3e5f483345cb80598521cc408d52.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9d49ed63a91246ae976876919820e765x407x333.JPEG)
+
 `Q11823`
 
 ---
@@ -1796,6 +2173,10 @@ sequence TEAM is the examinable detail.
 **REMEMBER:** *Traction, External rotation, Adduction, Medial rotation — TEAM puts the
 shoulder back.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/67f3c42870b74c74b2709fefbcb428db.GIF)
+
 `Q11847`
 
 ---
@@ -1816,6 +2197,10 @@ shoulder back.*
 **EXAM CONNECTION:** The question asks what the rule is *for*. It never decides management, only **the need for a radiograph**.
 
 **REMEMBER:** *A decision rule for the X-ray, not for the treatment.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/52ba594d759847b9951685d8d03a8b61x990x750.JPEG)
 
 `MA8984, MG1620`
 
@@ -1839,6 +2224,13 @@ shoulder back.*
 
 **REMEMBER:** *A ratio survives magnification; an absolute measurement does not.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/98a4242578004dd9a9db9600e7ea4366x1280x1507.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/a563b87f3e454a3e9241d2b9b6f1defe.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2df2aea2d73f4db1b519218e4ffe4086x1280x1403.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7bdaaa016aca4c10998ea407458da1f9x1280x2594.JPEG)
+
 `MA8933, MB2460, MB2218, MB5160, MD0752`
 
 ---
@@ -1859,6 +2251,16 @@ shoulder back.*
 **EXAM CONNECTION:** Two image signs from the same disease. Learn **Scottie dog collar = spondylolysis**, **inverted Napoleon hat = grade V slip**.
 
 **REMEMBER:** *Break the dog's neck and the vertebra slides forward.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/e5168b466c214b0ebd52884f0336b046.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0d0c5b0ad249472fa02a04c3cee3f956x1280x1485.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/78ec4299809f44ffba2dfa8f59faad0e.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/060b7aa67fa146f9bdb2b668457b4f8ex934x606.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/aa57611286e84bfa947b14746aff66c8x720x960.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a60f94ab53164841a0e357010da2170dx1280x3636.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b4fcc6bd19cc4cce974ba84fdbbdda35x1280x1198.JPEG)
 
 `MC4412, MG7157`
 
@@ -1881,6 +2283,13 @@ shoulder back.*
 
 **REMEMBER:** *The belt is the hinge, so the spine is pulled apart, not crushed.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/77718635f7f949f9bbaf2188502da363.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/59851172b3db41bea149e72a7bcd130ax1200x1388.JPEG)
+![explanation](https://cdn1.dailyrounds.org/uploads/809c7f2eeeef40559454d092a0888c94.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8ca2cf0bd7054020b23c4f31ff429b9cx1280x1706.JPEG)
+
 `MG6548`
 
 ---
@@ -1901,6 +2310,10 @@ shoulder back.*
 **EXAM CONNECTION:** "Not associated" → **dextrocardia**. The correct associations all lie in the cervical spine, cord or kidney.
 
 **REMEMBER:** *The scapula never came down, and everything else in that neck went wrong with it.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7c0bd69f56924b10b8c2b32184e6636ax396x354.PNG)
 
 `MC2620, MB9173`
 
@@ -1943,6 +2356,20 @@ shoulder back.*
 
 **REMEMBER:** *Outside the capsule means nothing holds the leg from rolling out.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8f407df1f68646c997c7e72093f57101x1001x768.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4e7867fc444649f0b55d255878d7e893x742x842.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d7934cf4465b45d5847430db8962e93cx1280x1280.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/235a9d1a28ae4f1e9fe4c4648e121d3e.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/14dc490185104b7c9ed76a91f3fead82x720x951.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/52641def432c4c9e9c79c10965f3cea3x720x975.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cb756b07ed5e4b64ad4b932927e5bc47x426x354.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e40e8089ef31494e96ca7a7472ece08bx1280x2056.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/134d1072e56f467aa8805b0109ec0560x800x600.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d0fe0973e40947a38b3ffe66e259013ex720x561.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b7e2bf315c3147f3a79d03f2d5faf129x1280x1223.JPEG)
+
 `MA8044, MA8027, MA8076, MG6554`
 
 ---
@@ -1963,6 +2390,19 @@ shoulder back.*
 **EXAM CONNECTION:** Sequence question. Traction is always first, plaster always last; the middle two are dictated by the direction of the displacements.
 
 **REMEMBER:** *Pull it apart, push it down, tilt it in, then plaster.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/9ca7abed17d242e5bed2a71d458b6edf.jpg)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c854a2f64ed1455488fe4b2d123ac69ax720x855.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/65a93223993740c495daa155786048ccx1280x1420.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/46eff51c35a54ce08988149eed8e8e96x1279x1421.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8cf2fa6ca59d47d79f5eed22bbb29c38x1280x2778.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/811391f8302644efb808c405e35235efx1280x1891.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c3bec28a9c1a41b1bc3d923a6dd0cd96x1280x1316.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/92ac8de8dac8499a8f31180cc8e83371x1280x1133.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cc4b850bdd4947caab9a1fc85954b107x1280x2558.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2ddfb024ce794679a717efd532820487x1280x4597.JPEG)
 
 `MD4501, MF0686`
 
@@ -1985,6 +2425,18 @@ shoulder back.*
 
 **REMEMBER:** *A cartilage cap that keeps growing is a chondrosarcoma.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/80256ef6b3a54a8f991441d95e9e4b7a.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/227864ea55164471bdfa40d253356f9d.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5c42cbc386f24d9296075f107819323cx1280x1013.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3a981da579514c35abce6a43d4644cb6x1279x2028.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d0f9846c6d9b4ccfbe638d7f69f8d35cx1273x1126.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f4948509552a456fa5c1f8da0cfb6034x638x917.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/164805c1958b4acd89127890015e4f1ex145x240.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c270a3182e8b4c88aee57604251e2a99x1280x2072.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/730b18c6eeb4404b951c573b2fd9683dx512x410.PNG)
+
 `MF9190, MF5245`
 
 ---
@@ -2006,6 +2458,20 @@ shoulder back.*
 
 **REMEMBER:** *Each test removes the compensation the patient is unconsciously using.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fab2eac01a614541b8e8eb6000631789x1280x2008.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/45c56c94f54647a9aaaca5441625107ax1064x2495.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/81da840d6865428a96a79f39d075c0efx1280x4280.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7fb81ae6b5954f41b3ec1d053c519212x1280x2162.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7026cc757bb14f768d2c9586586d80c3x1280x4280.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8aab927437e1471f99534f6aeaa50010x720x456.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/949fc41420d7418b9aaea04bd9bac9d5x1024x700.jpeg)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/84b5e5eb4d1143958be3dd50c53a3787x1280x1429.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5dfd59610ed4480eb08ec567e78533cdx1280x2558.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8dde492c1e9b4216982a97ebdbba9d15x1280x1416.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d3299a6fd29841c58c0b784671708142x1279x1140.JPEG)
+
 `MC5321, MB9225, MB6273, MF8164, MD0233`
 
 ---
@@ -2026,6 +2492,17 @@ shoulder back.*
 **EXAM CONNECTION:** The management word is **hyperextension** — splinting in flexion (the deformed position) is the trap answer.
 
 **REMEMBER:** *Hold the joint in the direction the torn tendon should pull.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/40d0650b2f604ac8a95bf3c58838607d.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/36031e446fba4b178dd4326afef78435x1280x1344.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f69619d537d645ec89bf78428a51092bx469x599.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a2dcf1df7aa547569edb9b23b5b4fe4ex1280x1222.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e6f1cb40d29a4415833349642c8a605bx1280x844.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9c2040ddd70745199f16395e93f78b58x1280x988.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3deb8ddc550345bc883002661184a0d4x1280x1157.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1ea28df97a50400b87329ff762655acax1280x1179.JPEG)
 
 `MC5635`
 
@@ -2068,6 +2545,11 @@ shoulder back.*
 **EXAM CONNECTION:** The option set permutes **eversion/inversion**, **abduction/adduction** and **cavus/planus** — you must get all four right. **Everything points inward and downward.**
 
 **REMEMBER:** *CAVE — and correct it in that order, equinus last.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/82f399c414fc44e2b2490c082abb40e7x720x540.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a1d7a0ec619d4540a6619b318298f007x440x1622.PNG)
 
 `MF7550`
 
@@ -2113,6 +2595,10 @@ shoulder back.*
 
 **REMEMBER:** *Flex the hip and it must roll outward.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4886f62c5fd544618b3dcd3246250943x1024x700.jpeg)
+
 `MB5862`
 
 ---
@@ -2133,6 +2619,17 @@ shoulder back.*
 **EXAM CONNECTION:** "Not required on an emergency basis" → **internal fixation**. The MESS question tests that you know which score answers the **amputate-or-salvage** question, as opposed to the Gustilo classification, which only describes the wound.
 
 **REMEMBER:** *Clean it and splint it now; fix it with metal later.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/f530cad987064730a65a09bb08fced33.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a1d5777ee174414896c660db5ecbae84x1280x1566.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d3f6d0247c704a669cfad724f363b9eex720x1552.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/84a1042aff90448bb49f5408fed46b9bx720x403.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/306a732260ff4ce2bbc077954052b977x720x540.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0e2b55361d02462d9d349046ab6dc932x800x600.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8b868b0c26134874a2eeeb9c693faa4dx800x600.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/465c935b02614de4a6ef0c385131f6e5x720x540.JPEG)
 
 `MF7559, MB6531, MF5272`
 
@@ -2177,6 +2674,12 @@ shoulder back.*
 
 **REMEMBER:** *Induction gives the instruction; conduction gives the scaffold.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/50d75944d680436780799bd6790aeec4.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/06be4c40d88a4d0dbc05ac7ebfd0bc5dx720x775.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b92598d330514a3babb74ad481395e07x1279x1560.JPEG)
+
 `MD6711, MC7735`
 
 ---
@@ -2196,6 +2699,15 @@ shoulder back.*
 **EXAM CONNECTION:** Image-based. The two proximal femoral deformities to distinguish are **Shepherd's crook (fibrous dysplasia)** and **coxa vara** from other causes.
 
 **REMEMBER:** *Weak woven bone bends under load and looks like frosted glass.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/a522513ebaa34d1d92a296750f670d82.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cf126e6c690c4afc9a24e0adef28deeex1024x700.jpeg)
+![question](https://cdn1.dailyrounds.org/uploads/cc6b8f86f8b743a4b849b24a2a173c10.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ce70bc4237aa476895fa17ad1ba0052ax720x775.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4fa0d93be1a74fd1b912ae6e6fdb11e9x1280x1184.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e0b87da53c294194bad5fc8a83c1222fx1279x1560.JPEG)
 
 `MB5186, MF7548`
 
@@ -2219,6 +2731,10 @@ shoulder back.*
 
 **REMEMBER:** *Normal chemistry is part of the diagnosis, not evidence against it.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/ea36103522cd4a58b73b9ea1162d107e.PNG)
+
 `MD6691, MD0674`
 
 ---
@@ -2240,6 +2756,10 @@ shoulder back.*
 **EXAM CONNECTION:** The limb position mnemonic — **posterior = ADIR (adduction, internal rotation); anterior = FABER**. The absent femoral pulse is a distractor engineered to suggest vascular injury.
 
 **REMEMBER:** *No femoral head behind the artery means no pulse to feel.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/9dc3ec214d1848acb82c015910b09598.PNG)
 
 `MA8023, MF0602`
 
@@ -2284,6 +2804,17 @@ shoulder back.*
 **EXAM CONNECTION:** Eponym-to-bone matching. Hawkins = talus; **Böhler's angle** = calcaneum; **Lisfranc** = tarsometatarsal.
 
 **REMEMBER:** *Each dislocated joint strips one more blood supply.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8bc0d2fcc5f245bdafe86445cbcfa849x1280x1982.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/7b709bdccde543338328899cc723a3a0.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d3f6d0247c704a669cfad724f363b9eex720x1552.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/84a1042aff90448bb49f5408fed46b9bx720x403.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/306a732260ff4ce2bbc077954052b977x720x540.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0e2b55361d02462d9d349046ab6dc932x800x600.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8b868b0c26134874a2eeeb9c693faa4dx800x600.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/465c935b02614de4a6ef0c385131f6e5x720x540.JPEG)
 
 `MG1157, MB6110`
 

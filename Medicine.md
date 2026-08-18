@@ -22,6 +22,11 @@
 
 **REMEMBER:** *One fused kinase, every myeloid stage in the blood, basophilia and a LOW LAP — and a pill that switches it off.*
 
+
+**IMAGES:**
+![question](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/questions_image/01KN164CDR6TJ5EBXPY5WA0GCW.png)
+![question](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/questions_image/01KN144MBEHYG3NY90EW8KCH1B.png)
+
 `Q9451, Q9454, Q9467`
 
 ---
@@ -42,6 +47,13 @@
 **EXAM CONNECTION:** Adult + bleeding + blasts, or thrombocytopenia with **prolonged PT and aPTT** → **t(15;17)**.
 
 **REMEMBER:** *Faggot cells and DIC — start ATRA before the karyotype comes back.*
+
+
+**IMAGES:**
+![question](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/questions_image/01KN11VQVQG820CTRS2KR9WE44.png)
+![explanation](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/question_explanation/b1fdcded-b397-4527-b7f7-d2f61e8cc8d6.jpg)
+![explanation](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/question_explanation/469a76fd-ec71-4eae-b79e-9cc8b04f1f1e.png)
+![explanation](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/question_explanation/f62020dd-4412-499d-916c-b81a674b593b.png)
 
 `Q9455, Q9469`
 
@@ -86,6 +98,10 @@
 
 **REMEMBER:** *Everything partners chromosome 14: 8 is MYC (Burkitt), 18 is BCL2 (follicular), 11 is cyclin D1 (mantle). ALCL is 2;5 and CD30.*
 
+
+**IMAGES:**
+![explanation](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/question_explanation/91cbcd90-bbd0-4906-9c7e-55b815288e21.jpg)
+
 `Q9456, Q9463`
 
 ---
@@ -129,6 +145,10 @@
 **EXAM CONNECTION:** "Most appropriate INITIAL management" of myeloma with calcium 14.8 → **IV normal saline**. And "effect of a proteasome blocker" → **increased apoptosis**.
 
 **REMEMBER:** *Fluid first, then the bisphosphonate, then the myeloma. And the proteasome inhibitor works because plasma cells make too much protein.*
+
+
+**IMAGES:**
+![question](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/questions_image/01KM50P4ZA4CXES17EXXQDMP9H.jpg)
 
 `Q9458, Q9465, Q9466`
 
@@ -432,6 +452,10 @@
 
 **REMEMBER:** *Worst headache of my life plus a stiff neck plus big ventricles — CT now, then LP for xanthochromia, then nimodipine.*
 
+
+**IMAGES:**
+![explanation](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/question_explanation/3a725038-932b-4c75-8f96-4b46d9adb87b.jpg)
+
 `Q9486`
 
 ---
@@ -522,6 +546,11 @@
 
 **REMEMBER:** *Sensory symptoms come first, colour vision goes out of proportion, steroids go in the vein — and only ocrelizumab touches primary progressive disease.*
 
+
+**IMAGES:**
+![explanation](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/question_explanation/971e39a5-b689-4156-a3ff-aacd6bd63606.jpg)
+![explanation](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/question_explanation/fc4e7a75-592b-4ebb-8750-58f88fb06136.jpg)
+
 `Q9494, Q9495, Q9490`
 
 ---
@@ -564,6 +593,10 @@
 **EXAM CONNECTION:** The stem gives the **stimulus intensity** — a normally innocuous stimulus causing pain is **allodynia**, mediated by **innocuous (not noxious) receptors**.
 
 **REMEMBER:** *If it shouldn't hurt but does, that is allodynia; if it should hurt and hurts far too much, that is hyperalgesia.*
+
+
+**IMAGES:**
+![question](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/questions_image/01KMYPG5DBESW216K4P9VNNAFJ.jpg)
 
 `Q9497, Q9499`
 
@@ -632,6 +665,11 @@
 
 **REMEMBER:** *Surface antigen means infection, surface antibody means protection, core antibody means you met the real virus — never the vaccine.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/31aeec65e0c4450ebaab39c620fdc941.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/59d66670c07a481abcc0e406a52edd56x1280x1156.JPEG)
+
 `Q10080`
 
 ---
@@ -675,6 +713,10 @@
 
 **REMEMBER:** *V1–V4 is the LAD. And in an inferior MI, check V4R before you give a nitrate.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/edfec934c9dd4e948efdec9aa4fdee9e.JPEG)
+
 `Q9945`
 
 ---
@@ -695,6 +737,13 @@
 **EXAM CONNECTION:** "Most common causative organism" in a **productive** cough with **lobar consolidation**, whatever the CD4 → ***S. pneumoniae***.
 
 **REMEMBER:** *Wet cough and a lobe = pneumococcus; dry cough and a haze = Pneumocystis; molluscum-like papules with fever = histoplasma.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/48b59933c93c4200b03927a145220da4x754x600.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/36daf54e7e104369bd39e7fdd0f354a6x800x351.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a3f2b9d4234948d985eaa3da557abd6ex720x540.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/186c398941d74434a0a17a1ff17f83eax720x476.PNG)
 
 `Q9898, Q9981`
 
@@ -807,6 +856,10 @@
 
 **REMEMBER:** *Fast, small and swinging — tachycardia, low voltage, electrical alternans.*
 
+
+**IMAGES:**
+![explanation](https://cdn1.dailyrounds.org/uploads/505052b1f4c841f68d3d076123915607x625x230.PNG)
+
 `Q10092`
 
 ---
@@ -829,6 +882,10 @@
 **EXAM CONNECTION:** "Incorrect statement about management" → "**antibiotics and analgesics not used**".
 
 **REMEMBER:** *Warm it fast in a water bath, never rub it, give ibuprofen for the thromboxane — and amputate months later.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e0a64eb40ba64ce5bb19166d95385f24x1280x956.JPEG)
 
 `Q10118`
 
@@ -874,6 +931,10 @@
 
 **REMEMBER:** *A wide gradient means the pressure is in the portal vein; a narrow one means the disease is on the peritoneum.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202025-02-18%20162012.jpg)
+
 `Q10161`
 
 ---
@@ -895,6 +956,10 @@
 **EXAM CONNECTION:** Hemiplegia + global aphasia + visual neglect (all three components) → **total anterior circulation stroke**.
 
 **REMEMBER:** *Three of three is total, two is partial, none of the cortical signs is lacunar.*
+
+
+**IMAGES:**
+![question](https://image.prepladder.com/content/2mOGpEJOPfjS8POg8ryK1692706376.png)
 
 `Q10162, Q10163`
 
@@ -1122,6 +1187,10 @@
 
 **REMEMBER:** *Serology screens, biopsy confirms, diet comes last — and always check the IgA level.*
 
+
+**IMAGES:**
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/5dc9c6f26750b70579026435e134c18a.webp)
+
 `Q10472, Q10473, Q10474, Q10475`
 
 ---
@@ -1143,6 +1212,11 @@
 **EXAM CONNECTION:** Asked as the **maintenance drug (co-trimoxazole)**, the **commonest CNS feature (dementia)**, and the **commonest cardiac feature (endocarditis)**.
 
 **REMEMBER:** *PAS-positive macrophages, arthralgia years before the diarrhoea — and co-trimoxazole for a year because relapse happens in the brain.*
+
+
+**IMAGES:**
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/1ff3d6f1ab97ebd2698783d04e61d8bf.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/b1f06f33c0e3595e77bdf058d73857c7.webp)
 
 `Q10476, Q10477, Q10478`
 
@@ -1189,6 +1263,11 @@
 
 **REMEMBER:** *Fluid in the pleura is not cleared by suction or physiotherapy — tap it, and tap it under ultrasound.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/eb36c4e28e1b4be1893c1244b5398713.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/13dd0f1ab9d149ba9c46dd72848559ebx488x422.PNG)
+
 `Q10109`
 
 ---
@@ -1231,6 +1310,10 @@
 **EXAM CONNECTION:** CT showing an **ahaustral ("lead pipe") colon** with chronic diarrhoea → **ulcerative colitis**.
 
 **REMEMBER:** *Continuous from the rectum, mucosal only, and the colon ends up a smooth lead pipe.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/aa6e11777ad14c64b9c24cd85e47403f.JPEG)
 
 `Q11704`
 
@@ -1275,6 +1358,10 @@
 
 **REMEMBER:** *A high JVP that does not move belongs to tamponade or SVC obstruction, not to heart failure.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/18bbe4a977c84587903e8637a0d9303cx1280x1005.JPEG)
+
 `Q11707`
 
 ---
@@ -1296,6 +1383,10 @@
 **EXAM CONNECTION:** "Most common presentation of SLE" → **arthralgia/myalgia**.
 
 **REMEMBER:** *Lupus usually walks in with joint pain, and its arthritis deforms without eroding.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1da1c0f61e29410c9f97bd2143e58b53x1280x1052.JPEG)
 
 `Q11708`
 
@@ -1341,6 +1432,10 @@
 
 **REMEMBER:** *Aldosterone escapes on sodium but never on blood pressure — high BP, low K, alkalosis, normal Na.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/37f7f5a0b0f645dc8c51db7060e0e5b9x1280x1337.JPEG)
+
 `Q11711`
 
 ---
@@ -1361,6 +1456,10 @@
 **EXAM CONNECTION:** Steroid-treated SLE patient with Cushingoid features → **serum cortisol with ACTH**.
 
 **REMEMBER:** *When you already know the source, don't localise it — measure how flat her own axis has gone.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2a9e78f1a9274af1a1860912a1ffea1dx1280x2864.JPEG)
 
 `Q11714`
 
@@ -1384,6 +1483,10 @@
 
 **REMEMBER:** *Nebs, steroids, antibiotics, controlled oxygen to 88–92%, and BiPAP when the pH falls.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/eda7f0cf5ada48ac9b474ce986cfb27fx1280x1348.JPEG)
+
 `Q11715, Q11712`
 
 ---
@@ -1405,6 +1508,12 @@
 **EXAM CONNECTION:** "Tall P waves" → **tricuspid stenosis** (mitral stenosis gives broad, bifid P waves).
 
 **REMEMBER:** *Tall P is the right atrium, wide P is the left — and atrial fibrillation abolishes the presystolic accentuation of mitral stenosis.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d9de18e8421d4e87965d2b4915fe52c6x1280x960.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/70e10acc7b9f4c249713071ae9311e21x1280x1789.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/18bbe4a977c84587903e8637a0d9303cx1280x1005.JPEG)
 
 `Q11716, Q11726, Q11728`
 
@@ -1428,6 +1537,15 @@
 **EXAM CONNECTION:** "All true EXCEPT" → **end-inspiratory COARSE crackles** (they are fine).
 
 **REMEMBER:** *Fine Velcro crackles at the bases, honeycombing on HRCT — and never give steroids for IPF.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/72566afa28834b58a74fd46a26c19af7.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4689091fe1e944fbb126cdfdbbeab7ddx246x157.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c2cc0129f166436b80cdc78eadefca46x706x644.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/df68360574724c508e6cacf09f3feb6ex663x606.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4797840fdd004525bcb2d0a73a5421cax598x445.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c279eade67fd456eb0eb0acea3da1d7ax1279x970.JPEG)
 
 `Q11717`
 
@@ -1473,6 +1591,14 @@
 
 **REMEMBER:** *Under 48 hours you may cardiovert; over 48 you need a TOE. Vagal first in PSVT, then adenosine — and never adenosine in pre-excited AF.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/65affbb2429a470b9d5ebb1469a0b9f0x1280x2221.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d2aabb966631485da12618f45b0bdc8fx1280x2207.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4412e8eb72994d2b9514a06d7a6b99cbx1280x2052.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7d6c4d5ed4a54f70b2030d71f3d06969x1280x1697.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d8076b463c924c27b49b4479ac3c46b2x1279x1416.JPEG)
+
 `Q11720, Q11721, Q11733`
 
 ---
@@ -1517,6 +1643,10 @@
 
 **REMEMBER:** *Night waking means inflammation — treat with a steroid inhaler, never with more reliever.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/633f242e7352405fa619711d7af9e1eex1280x4038.JPEG)
+
 `Q11725`
 
 ---
@@ -1538,6 +1668,10 @@
 **EXAM CONNECTION:** Day-2 deterioration + MCA infarct with midline shift → **decompressive surgery**.
 
 **REMEMBER:** *Swelling peaks on day two or three — under 60 and within 48 hours, take off the skull.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/5a0119c357cf4c85a06e09ed00c0843e.JPEG)
 
 `Q11727`
 
@@ -1603,6 +1737,13 @@
 
 **REMEMBER:** *Air cysts in an infant's pneumonia mean staph — and they usually resolve on their own.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/bc9666b426664523819231c585391200.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/42665461a98c47d7902a285fe7dbff7cx1280x1497.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cafe42500b644382ad44f84bba9e324ax1280x1019.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c11515d308804449887a93f28f2e9a68x1280x846.PNG)
+
 `Q11734`
 
 ---
@@ -1624,6 +1765,11 @@
 **EXAM CONNECTION:** Scan image showing a single hot area with the rest of the gland suppressed → **hypersecreting adenoma**.
 
 **REMEMBER:** *Hot means working, working means benign — check the TSH before you order the scan.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d2d0ede29d4d42ce98e2ed30593c890f.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/446147cae6bd406294d261351cfe7cdfx1280x2916.JPEG)
 
 `Q11735`
 
@@ -1689,6 +1835,12 @@
 
 **REMEMBER:** *Unstable means shock the patient, not drug the patient.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/4f768264223140c0a149827bd6b2faad.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2fbcf5dbbd664b00b0670113380120dfx720x363.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/74fdb0fbf87c4ba3af78ce55dd0c7864x530x614.PNG)
+
 `Q11740, Q11768`
 
 ---
@@ -1711,6 +1863,11 @@
 **EXAM CONNECTION:** A labelled brainstem section with an arrow on the dark band → **Parkinson's disease**.
 
 **REMEMBER:** *The black stripe in the midbrain turns pale in Parkinson's — that pigment is dopamine's shadow.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/71be37076f91458cbdb3a43fada1746f.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5f813fbb8ee5461a8455492a12746f77x600x906.JPEG)
 
 `Q11741`
 
@@ -1756,6 +1913,10 @@
 **EXAM CONNECTION:** Post-MI with any lipid profile → **atorvastatin 80 mg**.
 
 **REMEMBER:** *After an infarct you treat the diagnosis, not the LDL — high-intensity statin for everyone.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a664fd309c9e44d8bec9a2eaae5a64a5x1280x1803.JPEG)
 
 `Q11743`
 
@@ -1930,6 +2091,10 @@
 
 **REMEMBER:** *Fast dementia plus myoclonus plus periodic sharp waves — a prion, and nothing to be done.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/af07286f85de4f3dbbda141e1975c166.JPEG)
+
 `Q11757`
 
 ---
@@ -2039,6 +2204,10 @@
 
 **REMEMBER:** *Rheumatoid pleural fluid is the hungriest fluid in medicine — the glucose is nearly gone.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3c76be2af0f04ba88f45ca2174e078fax1280x2296.JPEG)
+
 `Q11763, Q11764`
 
 ---
@@ -2060,6 +2229,10 @@
 **EXAM CONNECTION:** Crossed sensory loss + Horner's + hoarseness → **PICA**.
 
 **REMEMBER:** *Face here, body there, hoarse voice and a droopy lid — but the arm still moves: PICA.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/58105eba00354e34b9271a088ec2e5f1x1280x1530.PNG)
 
 `Q11767`
 
@@ -2105,6 +2278,10 @@
 
 **REMEMBER:** *Rehydrate before you treat the plasma cells — the calcium is what is killing the kidney.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/56f896aa6c2b4c449e446165261ce012x458x918.PNG)
+
 `Q11773`
 
 ---
@@ -2129,6 +2306,10 @@
 
 **REMEMBER:** *Copper in Descemet's, superior pole first — nearly always with neurology, only two-thirds with liver disease.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/af5e1b00249b45648917b1cc46d266bfx720x632.PNG)
+
 `Q11774`
 
 ---
@@ -2150,6 +2331,11 @@
 **EXAM CONNECTION:** Image of a failed prayer sign in a diabetic → **cheiroarthropathy**.
 
 **REMEMBER:** *Sugar cross-links collagen — the hands stiffen before the eyes and kidneys announce themselves.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/a27cb0e287bb413e822d26e645f25c43.png)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7ebf66ac726e4bf1ae40d287b9585d36x720x464.JPEG)
 
 `Q11776`
 
@@ -2193,6 +2379,10 @@
 **EXAM CONNECTION:** CSF image with a cobweb clot + lymphocytes + low sugar → **tuberculous meningitis**.
 
 **REMEMBER:** *A cobweb in the tube and cranial nerves at the base — subacute meningitis is tuberculous.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/dafb9bf2283b45b59a0a7914f2e03006.JPEG)
 
 `Q11787`
 
@@ -2276,6 +2466,10 @@ patient needs treatment, not more tests).
 
 **REMEMBER:** *C4d is the antibody's fingerprint — wash the antibody out.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture21.jpg)
+
 `Q10852`
 
 ---
@@ -2341,6 +2535,10 @@ distractors.
 **REMEMBER:** *Two enzymes only: methionine synthase (blood) and methylmalonyl-CoA mutase
 (nerves).*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/8a5d8832f8fd47d5a510b47e7da82c7d.PNG)
+
 `Q10837`
 
 ---
@@ -2369,6 +2567,10 @@ instead of rising.
 then check precordial progression to exclude simple lead reversal.
 
 **REMEMBER:** *Upright aVR plus shrinking chest R waves — the heart is on the other side.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture19.jpg)
 
 `Q10854`
 
@@ -2552,6 +2754,10 @@ squamous → high calcium.**
 
 **REMEMBER:** *Neuroendocrine cells secrete hormones — small cell drops the sodium.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/untitled-443.jpg)
+
 `Q10919`
 
 ---
@@ -2645,6 +2851,10 @@ still sensitive to bedaquiline/linezolid = PRE-XDR.**
 **REMEMBER:** *Lose the quinolone and you're pre-XDR; lose bedaquiline or linezolid too and
 you're XDR.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/untitled-446.jpg)
+
 `Q10921`
 
 ---
@@ -2706,6 +2916,10 @@ obstructive hydrocephalus and the bulging fontanelle.
 
 **REMEMBER:** *Listen to the head when the newborn heart fails.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/24/screenshot-2024-04-24-143702.JPG)
+
 `Q10931`
 
 ---
@@ -2735,6 +2949,11 @@ a **narrow, tall, "witch's hat" loop shifted right** in restriction.
 three fibrotic/restrictive distractors.
 
 **REMEMBER:** *Ratio down = blocked; ratio up with small volumes = stiff.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/09f02c63497141728eaf19b02048faeb.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ffbd97e6efff47eda6268df1bde7ed6fx1280x1110.JPEG)
 
 `Q10957`
 
@@ -2929,6 +3148,10 @@ criterion. Only the **transaminase ≥1000** is in the severe category among the
 **REMEMBER:** *Warning signs say "watch"; shock, severe bleeding and ALT ≥1000 say
 "severe".*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/87393961ada7455c9dfb916aecbaad44x720x531.JPEG)
+
 `Q10979`
 
 ---
@@ -3021,6 +3244,12 @@ white material *is* the epithelium, so it cannot be removed.
 off"**. Candida is the reflex wrong answer.
 
 **REMEMBER:** *Wipes off = Candida; won't wipe off = EBV.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3638defe56f14870888eb384aaa09078x1280x1131.9605077574047.JPEG)
+![explanation](https://cdn1.dailyrounds.org/uploads/9521c953e6664507b3e6ee8d585b3eff.JPEG)
+![explanation](https://cdn1.dailyrounds.org/uploads/df58bad5b5004221b4194a6eee2570ee.JPEG)
 
 `Q10981`
 
@@ -3123,6 +3352,10 @@ amyloid; the physiology it produces is **restrictive**, not dilated or hypertrop
 
 **REMEMBER:** *Thick walls with small voltages — the muscle is padded, not grown.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/aa3c283d27fc4d788789de1c221daff7.PNG)
+
 `Q11012`
 
 ---
@@ -3186,6 +3419,10 @@ wrong.
 **REMEMBER:** *Kill the fungus and drain the pressure first — let the immune system come
 back later.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2747323f98db44d0a05e0638d4d95114x1280x2558.JPEG)
+
 `Q11039`
 
 ---
@@ -3218,6 +3455,10 @@ rest, or with fever**.
 normal coronary risk factors. The ECG image alone answers the question.
 
 **REMEMBER:** *Coved ST in V1–V3, dies in his sleep — Brugada needs an ICD.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/be306bd6f6fd4cc08068642c7b672f3dx1159x572.PNG)
 
 `Q11040`
 
@@ -3308,6 +3549,11 @@ only for VF and pulseless VT**.
 ECG. Unstable = **shock, now**. Every pharmacological option becomes wrong.
 
 **REMEMBER:** *No pressure, no time for drugs — synchronise and shock.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/10/01/screenshot-2024-10-01-144116.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/23/screenshot-2024-07-23-110009.jpg)
 
 `Q11204`
 
@@ -3413,6 +3659,10 @@ degeneration (Pick's)**. Any dementia listed with a **movement disorder** is sub
 
 **REMEMBER:** *Cortex loses words and skills; subcortex loses speed and movement.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/10/12/screenshot-2023-10-12-124045.jpg)
+
 `Q11254`
 
 ---
@@ -3444,6 +3694,10 @@ test should ever delay **post-exposure prophylaxis**, because once symptoms appe
 
 **REMEMBER:** *Wash, vaccinate, infiltrate immunoglobulin — the diagnosis can wait, the
 prophylaxis cannot.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/29/screenshot-2024-06-29-123912.png)
 
 `Q11260`
 
@@ -3549,6 +3803,10 @@ testing.
 
 **REMEMBER:** *Low EPO means the marrow is doing it by itself.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/05/screenshot-2024-09-02-132158.png)
+
 `Q11284`
 
 ---
@@ -3617,6 +3875,10 @@ gland points to de Quervain; a **rock-hard fixed** gland to Riedel or carcinoma.
 **REMEMBER:** *Lymphocytes with germinal centres and big pink Hürthle cells — a gland being
 eaten quietly.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/09/05/screenshot-2024-09-05-093401.png)
+
 `Q11325`
 
 ---
@@ -3645,6 +3907,10 @@ incidental to recognising the **syndrome**.
 
 **REMEMBER:** *Coffee spots and freckles in the armpit — every lump is a nerve tumour until
 proven otherwise.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/05/04/untitled-184.jpg)
 
 `Q11306`
 
@@ -3681,6 +3947,10 @@ complexes trapped; absent = leucocyte-mediated.
 anti-GBM → linear; low complement with a recent sore throat → granular.
 
 **REMEMBER:** *ANCA arms the neutrophil, not the glomerulus — so nothing lights up.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/495a2ed70c254967a131d2168bfd9e00.JPEG)
 
 `Q11801`
 
@@ -3773,6 +4043,12 @@ symptoms → the answer is **CSF oligoclonal bands**. Aquaporin-4 is the trap fo
 **REMEMBER:** *Plaques follow the veins outward; the antibody clones are made inside the
 barrier.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/58bdf2d4f3e6436ab4685bf28b8d1b5e.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/24ff9f4c8bce40979612c294533d4061x1279x1211.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/83f530ef14ec46f1b9212b35d27b2fe6.GIF)
+
 `Q11828, Q11844`
 
 ---
@@ -3805,6 +4081,10 @@ the liver.
 
 **REMEMBER:** *High gradient means portal pressure; high protein means the liver's sinusoids
 are still healthy — so blame the heart.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/02a4a25f02cb4d039c34d05e61043ab7x600x642.JPEG)
 
 `Q11832`
 
@@ -3882,6 +4162,12 @@ finding**, since the haemodynamic features overlap almost completely.
 **REMEMBER:** *Fluid squeezes all through diastole (no y descent); a shell lets it fill fast
 then slams shut.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/63c1e6200141457ea1af314164eb4131x720x644.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dc7631cfd820449aa194c6b97d9224e4x1280x878.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b65557ee28394d6986b00e6f57841f29x1279x840.JPEG)
+
 `Q11851`
 
 ---
@@ -3913,6 +4199,10 @@ discriminating feature; add fluctuation and parkinsonism and the diagnosis is fi
 
 **REMEMBER:** *Sees children who aren't there, varies hour to hour, moves like a Parkinson
 patient — and must never get haloperidol.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fa891d5874ca4554b0483697b8d0b79fx631x523.JPEG)
 
 `Q11852`
 
@@ -4062,6 +4352,11 @@ patient — and must never get haloperidol.*
 
 **REMEMBER:** *Unstable stays in the room — use the probe, not the scanner.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b99f9978e8ee438bbd08eedad63b4d74x1280x3028.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d4668925fa3d4297b60f21f9059bfdc1x1280x1241.JPEG)
+
 `MF1433`
 
 ---
@@ -4082,6 +4377,11 @@ patient — and must never get haloperidol.*
 **EXAM CONNECTION:** ECG image plus a drug list. Match **tall T waves → hyperkalaemia → the potassium-sparing agent**. Thiazides would cause the opposite (hypokalaemia, U waves).
 
 **REMEMBER:** *Tented T is the first warning; calcium is the first treatment.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/09c04d90e8f94add9258932549e38ecb.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/42cb3e8f49db4d64bd53c3af849c6da0x1280x1622.JPEG)
 
 `MF8083`
 
@@ -4105,6 +4405,10 @@ patient — and must never get haloperidol.*
 
 **REMEMBER:** *Normal glucose means nothing is eating it — think virus.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/505060e2c15c41f5a879f53aa4a8efa6.GIF)
+
 `MB9159, MC1613`
 
 ---
@@ -4125,6 +4429,10 @@ patient — and must never get haloperidol.*
 **EXAM CONNECTION:** The grouping question hinges on classifying **rhabdomyolysis as prerenal** in this list, and **snake venom/light chains as intrinsic**.
 
 **REMEMBER:** *Drugs that squeeze the glomerulus are prerenal; poisons that kill the tubule are intrinsic.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9794a1e8c242417fb6431c0de1c214b9x1200x2480.JPEG)
 
 `MA1391`
 
@@ -4188,6 +4496,11 @@ patient — and must never get haloperidol.*
 **EXAM CONNECTION:** "Radiological feature differentiating RA from SLE" → **erosions**. The other three options are deliberately shared features.
 
 **REMEMBER:** *RA eats the bone; lupus only loosens the ligaments.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9af726f2c71f4f47847780615b61c65dx462x600.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4a4967d74a494db59838dd2e542b4890x986x732.JPEG)
 
 `MC1403, MC1637`
 
@@ -4254,6 +4567,10 @@ patient — and must never get haloperidol.*
 
 **REMEMBER:** *Wet lungs with dry filling pressures.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1f5811521ca64b0294bc67e57e96fba2x1280x1016.JPEG)
+
 `MB3384`
 
 ---
@@ -4297,6 +4614,11 @@ patient — and must never get haloperidol.*
 
 **REMEMBER:** *vWF does two jobs, so it breaks two tests.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/6359e01906c647fc90ca09a466f82172.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0fedd76b578148fc8ed55da37e66574cx1280x1995.JPEG)
+
 `MG1005, MB4049`
 
 ---
@@ -4318,6 +4640,10 @@ patient — and must never get haloperidol.*
 **EXAM CONNECTION:** "Associated with all EXCEPT" → **aplastic anaemia**. Reason from the pathology, not from a memorised list.
 
 **REMEMBER:** *A neutrophilic disease needs neutrophils.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/90fc36735ada43a1ac4e06c99141b0a7.PNG)
 
 `MC2141`
 
@@ -4362,6 +4688,10 @@ patient — and must never get haloperidol.*
 
 **REMEMBER:** *Tamponade fills slowly all through diastole; constriction fills fast then stops dead.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/18bbe4a977c84587903e8637a0d9303cx1280x1005.JPEG)
+
 `MC1785, MC7092, MC7697`
 
 ---
@@ -4382,6 +4712,14 @@ patient — and must never get haloperidol.*
 **EXAM CONNECTION:** Measure the **PR intervals before the dropped beat**. Constant → Mobitz II; lengthening → Mobitz I. That single measurement is the entire question.
 
 **REMEMBER:** *Lengthening then dropping is benign; dropping without warning is not.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/aa48441f5b7d44109b74845aec7e75b3.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/eeba5011417b4da7a5c8584dc8401b57x436x135.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fe5f3695d29449e391e74d1f2dd270b5x442x133.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/321f89fee89642ff8d4791a7741dd90ax1280x1311.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/70e10acc7b9f4c249713071ae9311e21x1280x1789.JPEG)
 
 `MG0988`
 
@@ -4404,6 +4742,11 @@ patient — and must never get haloperidol.*
 
 **REMEMBER:** *Deposits under the endothelium inflame; deposits under the epithelium leak.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/61f60a4aeb574c178459f81e107d7445x1279x911.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b83e16725c9e4acbae2e0ff8275ec1a5x1279x911.JPEG)
+
 `MB6507`
 
 ---
@@ -4424,6 +4767,11 @@ patient — and must never get haloperidol.*
 **EXAM CONNECTION:** Image-based labelling — identify the **right ventricle**. The reasoning chain is smoking → COPD → pulmonary hypertension → RV.
 
 **REMEMBER:** *Sick lungs make the right heart fail backwards.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/2f76f0e1f4c54dd0acdfdbe17fe53558.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/20f8fcfb42a241858420a39210256d38x1280x1083.JPEG)
 
 `MF2481`
 
@@ -4447,6 +4795,10 @@ patient — and must never get haloperidol.*
 
 **REMEMBER:** *No cortisol means no sugar; no aldosterone means no sodium.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/57617c19d08a4e3aacd60a698f3634ce.PNG)
+
 `MB6877`
 
 ---
@@ -4467,6 +4819,29 @@ patient — and must never get haloperidol.*
 **EXAM CONNECTION:** ECG spotters. Write down which leads are elevated before looking at the options — the map does the rest.
 
 **REMEMBER:** *Count the leads: the wider the elevation, the more proximal the block.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/2bacc8a01e8148ec9c31c2b01b458dd1.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a0d690cfd571427cabfe3625fec7aea2x720x446.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/544634fa03c146d38f02014738cc9ffdx1280x791.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ecf1b037017145409598613d151004afx1280x808.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/92955d71dfdd400ca4f634e482ddf9d8x1280x849.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e2aaee158f5b4111b131cce1219c5afax1280x791.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dda0e5b11d9340808ac18534d35fd867x1280x803.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/45ebf16ae3734bbfad303bbf66c8eff1.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fb930c11dc1548d6a183c5c6ab2ccf7ax1199x838.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0e6306d001434620bdba7c39df33bf02x1280x810.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/96faff1fdae6488e944b880304724ac9x528x329.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/24692db0f660497cbbc53a7599250a3e.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/130beaa3b3b0476d8c21af66e5ee33f9x1280x184.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/44acec8550be4ce0b208549b2e07bd54x800x179.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/097b95729fa14ac68da475ce6288a968x1088x570.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a8ebe0b5757c4efca4f5dd15c6d24e99x1268x324.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/666962cd0f424000b7e84123f719f120x502x282.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/25067efa869941baa6a40b54599b371ax1049x213.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/56d3f3941c6d447d9e74e846087b52a0.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e2b6162528124a3ba471869ec72fd6b5x1280x774.JPEG)
 
 `MB3782, MB3778, MA0616, MB3694`
 
@@ -4510,6 +4885,10 @@ patient — and must never get haloperidol.*
 **EXAM CONNECTION:** "Not observed in MEN 1" → **posterior pituitary tumours**. Angiofibroma and foregut carcinoid are included to test the less-known associated list.
 
 **REMEMBER:** *Three Ps, and the pituitary half that makes hormones.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/95f7c4eac7794f728806926c4f50bbb2x1280x1061.JPEG)
 
 `MB3124`
 
@@ -4616,6 +4995,11 @@ patient — and must never get haloperidol.*
 **EXAM CONNECTION:** Image of an **ankle jerk** being elicited + "what lesion exaggerates it" → **upper motor neuron**. Every other option is a form of LMN disease.
 
 **REMEMBER:** *Cut the brake and the reflex runs wild; cut the arc and it stops.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/da01446bcb434cf5a6866a80b9f84556.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1764350d33f04129869472f31df05d82x407x358.PNG)
 
 `MD9083`
 

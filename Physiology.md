@@ -21,6 +21,12 @@
 
 **REMEMBER:** *Fast gate opens, slow gate slams shut — and nothing can be done until the membrane repolarises.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8cd4e8949ca142d1a64c212c3b9a54cbx1280x1683.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/6c478df751c84f949a6c0ab3d3d93001.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/10227ad34b60459897d9c5d3309f4107x1280x2823.JPEG)
+
 `Q8831, Q8830`
 
 ---
@@ -42,6 +48,13 @@
 
 **REMEMBER:** *ATP breaks the bond, not makes it — no ATP, no release, rigor mortis.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/6677a61eca434e89a80a3175f50ab1c7.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8478ad20252a4950811900da27222470x794x600.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5b3b50ddb02941f5ac80cc10bcdae0fbx775x599.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/60c59fd72afd49ac9a6b41580d16e236x386x599.JPEG)
+
 `Q8834, Q8924`
 
 ---
@@ -62,6 +75,11 @@
 **EXAM CONNECTION:** Glucose excretion calculation → **filtered load minus Tm = 30 mg/min**; efferent constriction does all EXCEPT → **decrease glomerular oncotic pressure**.
 
 **REMEMBER:** *Filter it, subtract what the carriers can carry, and the rest appears in the urine.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/500e1da504d94d398ff2bf10eaabe8eb.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0d0a53d8dd1b4b35909256f8a69b8a6bx1280x2564.JPEG)
 
 `Q8832, Q8837`
 
@@ -126,6 +144,10 @@
 
 **REMEMBER:** *The heart needs to share current, not to seal compartments — gap junctions yes, tight junctions no.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/c9a9ae28d6884955bbb5b700aaa84d91.JPEG)
+
 `Q8836, Q8882, Q8880`
 
 ---
@@ -168,6 +190,10 @@
 
 **REMEMBER:** *Alpha chains never switch — which is why alpha disease starts before birth and beta disease waits six months.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/6f3facd7a9524712a22266f8a427fe3a.PNG)
+
 `Q8878, Q8955`
 
 ---
@@ -188,6 +214,10 @@
 **EXAM CONNECTION:** Integrin connects with → **fibronectin**; transmembrane segment amino acids → **hydrophobic**.
 
 **REMEMBER:** *Selectins let the leucocyte roll, integrins make it stop.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cff12cc1e0cf4a298dd52197a820deabx1279x818.JPEG)
 
 `Q8879, Q8959`
 
@@ -231,6 +261,11 @@
 
 **REMEMBER:** *Rubbing shuts the gate in the cord; morphine opens the descending brake from the midbrain.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/282b5f42ca40421795588ad74e57cdffx1280x1037.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/74c90cdb28d74654865a4fb00eadc576.JPEG)
+
 `Q8962, Q8885, Q8884`
 
 ---
@@ -251,6 +286,11 @@
 **EXAM CONNECTION:** Pacemaker of breathing → **pre-Bötzinger complex**; single-breath nitrogen method measures → **dead space**; lung recoiling without the chest wall → **minimum volume**; RQ 200/250 → **0.8**.
 
 **REMEMBER:** *CO2 talks to the brainstem through CSF hydrogen ions; oxygen only shouts from the carotid body.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f63564c02af64479b366d5aaa20ef047x1280x1382.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1f1f1c4189404e9fae215bd0a8d3b577x1280x1145.JPEG)
 
 `Q8927, Q8928, Q8931, Q8958`
 
@@ -293,6 +333,10 @@
 **EXAM CONNECTION:** Least frequency of slow waves → **stomach (3–4/min)**.
 
 **REMEMBER:** *Cajal cells set the tempo; only spikes make the muscle play.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3aedd333927b4607b4c6b1eca436466ex1020x730.JPEG)
 
 `Q8957`
 
@@ -357,6 +401,13 @@
 
 **REMEMBER:** *Every mechanical event trails the electrical one that caused it — and filling comes last.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/650d94b4e5cf4e1d867a15093d360c20x1024x700.jpeg)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9499b8e6649542cb88781f17312c95a4x1280x1596.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/76202439afbd4b4f88576c49193b05c2x1280x1316.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e8152288950741fcb3748d8010af752dx1280x1259.JPEG)
+
 `Q8964, Q9006`
 
 ---
@@ -377,6 +428,10 @@
 **EXAM CONNECTION:** ECF volume from mannitol dilution → **~14 L**; Gibbs–Donnan equilibrium is due to → **intracellular proteins**; normal tissue (interstitial) oncotic pressure → **~12 mmHg**.
 
 **REMEMBER:** *Pick a marker that goes exactly where you want to measure — and subtract for the rest.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9ddfeb532f3b4162af5301ce970e31eax542x120.JPEG)
 
 `Q8965, Q8966, Q10136`
 
@@ -420,6 +475,12 @@
 
 **REMEMBER:** *A small pump, repeated down a hairpin, becomes a huge gradient.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/39cdcc874e6a48fbb6bd10e93b6015f8.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9512c61fde2b4724828a30873cf54f59x1280x1384.JPEG)
+![question](https://daily-rounds-staging.s3.amazonaws.com/uploads/15c2e62e91f448bc990088bf8be49034.JPEG)
+
 `Q8989, Q8996, Q10011, Q10276, Q10095`
 
 ---
@@ -440,6 +501,10 @@
 **EXAM CONNECTION:** Decerebrate rigidity, all EXCEPT → **rigidity in all muscles of the body**; decorticate rigidity → **flexion of the upper limbs with extension of the lower limbs**; medial lemniscus lesion in the pons → **contralateral loss of touch and proprioception**.
 
 **REMEMBER:** *Lose the red nucleus and the arms stop flexing — decorticate becomes decerebrate.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a6c11cba47204951b0b484492ec712f7x571x131.JPEG)
 
 `Q8995, Q8998, Q9001`
 
@@ -525,6 +590,10 @@
 
 **REMEMBER:** *Every ion has a voltage it "wants"; the membrane sits wherever the open channels drag it.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/9e65cb4f41a6492a8013df434d57ea87.JPEG)
+
 `Q9003, Q9894, Q10141`
 
 ---
@@ -588,6 +657,11 @@
 
 **REMEMBER:** *Acid goes out as potassium comes in, and bicarbonate goes to the blood — the alkaline tide.*
 
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/a4587831a79aa9a2d35da61e25bfb9fb.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/c5461d992769348488d23055aab95ca7.webp)
+
 `Q10693, Q10688, Q10689, Q10325`
 
 ---
@@ -629,6 +703,10 @@
 
 **REMEMBER:** *The duct takes sodium out and puts potassium in — hypotonic, potassium-rich saliva.*
 
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/63ea10782f9a5ad75b8c7a16840df066.webp)
+
 `Q10692, Q10691, Q10694, Q10327, Q10690`
 
 ---
@@ -649,6 +727,11 @@
 **EXAM CONNECTION:** Passively absorbed in the gut → **lipids**; SCFAs absorbed maximally in → **colon**; NOT a function of colonic SCFAs → **secretion of sodium**; not absorbed in the colon → **K+**; false about vitamin absorption → **folate uses Na+ cotransporters**; stimulates ferritin synthesis → **iron**; daily intestinal fluid absorption → **~8 L**.
 
 **REMEMBER:** *The colon salvages what the bacteria make — butyrate feeds the lining and drags sodium and water home.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/2df9bb9acdadf9c29ef31f73dbcc26ea.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/601342059de9ae02f874c481cccf6e57.webp)
 
 `Q10695, Q10696, Q10697, Q10699, Q10700, Q10701, Q10698, Q10702`
 
@@ -671,6 +754,12 @@
 
 **REMEMBER:** *Direct pathway says go, indirect says stop — dopamine votes "go" at both.*
 
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/4561f5bd2dc31a672ddd9fb47af9c4ac.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/caae5f0e62c941aa908ef23f76f41152.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/babe4e846ecba3b0e14c2b237d323592.webp)
+
 `Q10681, Q10682, Q10683, Q10684, Q10685`
 
 ---
@@ -692,6 +781,12 @@
 
 **REMEMBER:** *A woman's eggs are all counted before she is born; a man's are three months old.*
 
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/74a9a0d852fbf3359e6724d324b33838.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/ea4b928b25d65842f715fb13f8610eb9.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/1254b58050233e32fef029478cbc9de0.webp)
+
 `Q10490, Q10494, Q10492, Q10493`
 
 ---
@@ -712,6 +807,15 @@
 **EXAM CONNECTION:** Langhans cells form → **cytotrophoblast**; implantation occurs → **6–10 days after fertilisation**; the decidua that forms the placenta → **decidua basalis**.
 
 **REMEMBER:** *Villi grow where the blood is — frondosum at the base, laeve everywhere else.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/e2bcb50b4e5fc3d4070ebac1f9bf1977.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/cecdc004962a68ca3637e04d5d9cefae.webp)
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/6395c599a5ef73652b1a4a2c79860123.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/717653b43e847845365e5bffe708523d.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/e8791878c98d8abc6fb2338736ed171c.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/0e158a415481be5ac5356a30cb66f27c.webp)
 
 `Q10491, Q10495, Q10496`
 
@@ -755,6 +859,11 @@
 
 **REMEMBER:** *One duodenal enzyme unlocks the whole pancreatic cascade — and peptides cross faster than amino acids.*
 
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/1ac31d844e8bf8a44d1c49dd46105cd2.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/03d21d150b47ca4087daf0bd590359f3.webp)
+
 `Q10706, Q10707, Q10708, Q10705`
 
 ---
@@ -775,6 +884,10 @@
 **EXAM CONNECTION:** Gastric emptying is mainly regulated by → **enteric reflexes**; increases gastric emptying → **distension of the stomach** (and gastrin); reflex delaying emptying with duodenal acid → **enterogastric reflex**; does NOT stimulate gastric motility → **enkephalin**; parasympathetic stimulation → **increased peristalsis**.
 
 **REMEMBER:** *The duodenum sets the pace; the stomach merely obeys.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/c5461d992769348488d23055aab95ca7.webp)
 
 `Q10709, Q10710, Q10711, Q10712, Q10718, Q10719, Q10713`
 
@@ -834,6 +947,10 @@ right wave.
 
 **REMEMBER:** *Close your eyes and alpha appears; open them and it's gone.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture36_HSqgaRr.jpg)
+
 `Q10914`
 
 ---
@@ -867,6 +984,10 @@ and the direction of the effect.
 **REMEMBER:** *The housekeeper works when the house is empty — every 90 minutes, motilin
 rings the bell.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/04/24/screenshot-2024-04-24-143934.JPG)
+
 `Q10944`
 
 ---
@@ -898,6 +1019,11 @@ salt.** Match the layer to the hormone and then the hormone to the function.
 
 **REMEMBER:** *Salt, sugar, sex — outside in.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/da7e53b4253c447499fd44ce2631fa17.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1b49d858574d4f49bc96c921b8579244x1280x1393.JPEG)
+
 `Q10956`
 
 ---
@@ -927,6 +1053,12 @@ motor command.
 gamma**, and if the sensory ending is marked, **primary = Ia, annulospiral**.
 
 **REMEMBER:** *Alpha moves the muscle, gamma keeps the sensor honest.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/45f189c50009449c8f4c3f1791ec21ae.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0f3a7b9a21434609a95f91b0ef12effcx1280x1019.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d808e65b4f694be88dbce6c8e7354d90x1280x1678.JPEG)
 
 `Q10978`
 
@@ -958,6 +1090,10 @@ PCT (SGLT, NHE3) plus the basolateral Na⁺/K⁺-ATPase**, and remember that **N
 is on the blood side**.
 
 **REMEMBER:** *One pump on the blood side powers every carrier on the urine side.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/35783f7c4b7f43e9a9a525c4acfe370ex1280x1670.JPEG)
 
 `Q10988`
 
@@ -992,6 +1128,11 @@ true.
 **REMEMBER:** *Stretch is felt on the outside of the vessel — adventitia, via the ninth
 nerve.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/49792d496825408c95ad667c077a64dcx1280x2026.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c26f743543a34cca9e06719113b377bex1280x1674.JPEG)
+
 `Q10998`
 
 ---
@@ -1024,6 +1165,10 @@ inverts a true statement.
 
 **REMEMBER:** *The calcium that contracts the muscle also unlocks its glycogen.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dafecd9ee2034003b574e81dbcebbfdax1280x2560.JPEG)
+
 `Q10985`
 
 ---
@@ -1053,6 +1198,10 @@ act on it follows from that single fact.
 The distractor "sodium and calcium" describes phase 4, not phase 0.
 
 **REMEMBER:** *Too depolarised for sodium channels — the node has to rise on calcium.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/72463b08cb6a44848f032162d449409bx800x600.GIF)
 
 `Q11014`
 
@@ -1116,6 +1265,10 @@ is usually the consequence: **calcium and magnesium reabsorption**.
 **REMEMBER:** *Potassium leaks back to keep the pump fed — and its positive charge pulls
 calcium along with it.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/09/12.jpg)
+
 `Q11187`
 
 ---
@@ -1146,6 +1299,11 @@ the membrane back toward (and briefly past) the potassium equilibrium potential.
 **Rising = Na⁺ in; falling = K⁺ out; undershoot = K⁺ still leaving.**
 
 **REMEMBER:** *Sodium rushes in and quits; potassium leaves late and overshoots.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/e4a2ce96f3ed4c5390ac49809e2b0088.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b142a264fb7f4271af9a4127a31a35b8x1280x1683.JPEG)
 
 `Q11050`
 
@@ -1178,6 +1336,11 @@ neighbours** = paracrine. "Merocrine" in the options is a category error and is 
 wrong.
 
 **REMEMBER:** *Auto = itself, para = the neighbour, endo = the bloodstream.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/10/700.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/10/701.jpg)
 
 `Q11255`
 
@@ -1240,6 +1403,10 @@ modulation is the **gate control theory**; anything involving the brainstem and 
 
 **REMEMBER:** *Rubbing it better is real — big fibres shut the gate on small ones.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/05/physiology-5_1-6.jpg)
+
 `Q11324`
 
 ---
@@ -1260,6 +1427,11 @@ modulation is the **gate control theory**; anything involving the brainstem and 
 **EXAM CONNECTION:** Two separate questions from one cycle: "contraction ends when" → **calcium falls**; "myosin ceases contact with actin when" → **ATP binds the head**.
 
 **REMEMBER:** *Calcium starts it, ATP binding lets go, SERCA finishes it.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a3c27f19b832464d939cbafcfab1208ax1280x2133.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2a96ee0f49dd43f388fc7e96e279f5ccx1280x2273.JPEG)
 
 `MC1287, MF4968, MC1294`
 
@@ -1282,6 +1454,10 @@ modulation is the **gate control theory**; anything involving the brainstem and 
 **EXAM CONNECTION:** The clearance comparison is pure logic; the sodium deficit and filterability questions are formula and concept recall.
 
 **REMEMBER:** *More cleared than filtered means the tubule added some.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/f9e9ddb302d944008de20d3d789832a1.JPEG)
 
 `MB4797, MD6747, MF1398`
 
@@ -1325,6 +1501,11 @@ modulation is the **gate control theory**; anything involving the brainstem and 
 
 **REMEMBER:** *Anaemia lowers the content without touching the pressure.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/8226e6fc3bdd4392b76d0fa474fc0659.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/59e08c6c2d5c4a5ea66fb8e49162cc29x934x712.PNG)
+
 `MF9337`
 
 ---
@@ -1366,6 +1547,14 @@ modulation is the **gate control theory**; anything involving the brainstem and 
 
 **REMEMBER:** *In parallel measures length; in series measures tension.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/45f189c50009449c8f4c3f1791ec21ae.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0f3a7b9a21434609a95f91b0ef12effcx1280x1019.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d808e65b4f694be88dbce6c8e7354d90x1280x1678.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0743bd9469c34201b620841d24f08cb0x1280x1556.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/79ac1ff4addc4f319d6ab71c5ed720d5x1280x5407.JPEG)
+
 `MG1019, MC7405, MC0694`
 
 ---
@@ -1388,6 +1577,11 @@ modulation is the **gate control theory**; anything involving the brainstem and 
 
 **REMEMBER:** *Radius to the fourth power beats everything else.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/2cc38040ebe945859aafc3a5221da48e.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9ab97d9977fb4e7abe45d1cd42bf0791x1280x650.JPEG)
+
 `MC8907`
 
 ---
@@ -1408,6 +1602,15 @@ modulation is the **gate control theory**; anything involving the brainstem and 
 **EXAM CONNECTION:** Two variables must both be right. Also learn the flow-volume loop patterns — the reasoning is about **transmural pressure**, not memory.
 
 **REMEMBER:** *No surfactant means high tension and a stiff lung.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/606344104570456ea4fd4883288e85cex1280x1922.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/314b3cfc0cf740f58314632cdd638969.JPEG)
+![explanation](https://cdn1.dailyrounds.org/uploads/66c4c25c48d74d168b41e5a6b11b5003x939x402.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/630880cfc5d34137a4e4000aab92bf5dx978x662.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6bf00026bd254cc8843370dd7cd90f23x600x1366.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0d448a20301a4373b39e03a726675434x1280x3207.JPEG)
 
 `MF8225, MB2007, MB2013`
 
@@ -1450,6 +1653,13 @@ modulation is the **gate control theory**; anything involving the brainstem and 
 **EXAM CONNECTION:** Identify **which curve** and **slope vs shift**. Contractility is the only variable that changes the **ESPVR slope**.
 
 **REMEMBER:** *Contractility is a slope, loading is a shift.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9499b8e6649542cb88781f17312c95a4x1280x1596.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/76202439afbd4b4f88576c49193b05c2x1280x1316.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e8152288950741fcb3748d8010af752dx1280x1259.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/72463b08cb6a44848f032162d449409bx800x600.GIF)
 
 `MF2366, MG0987`
 
@@ -1494,6 +1704,10 @@ modulation is the **gate control theory**; anything involving the brainstem and 
 **EXAM CONNECTION:** Number recall (**2–3 months**), and the "all increase acid secretion EXCEPT" question answering **serotonin**.
 
 **REMEMBER:** *The thyroid keeps months of hormone in its colloid bank.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4f7fee13e7ea4ca8bb231cb855ab5493x1279x818.JPEG)
 
 `MB6158, MF1952, MC7080, MF7507`
 

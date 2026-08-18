@@ -23,10 +23,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *White is myelinated and limited (T1–L2); grey is grey-matter-bound, unmyelinated and everywhere.*
 
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6e25b56bd7a44f719f16657175a3d5a2x1280x1459.JPEG)
-
 `Q8969`
 
 ---
@@ -49,11 +45,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **REMEMBER:** *Purkinje = the only exit, and it always says "no".*
 
 **IMAGE:** Large flask-shaped somata in a single row at the molecular–granular junction.
-![Purkinje cells](https://cdn1.dailyrounds.org/uploads/e940abf2e54740389ec12805f147a230.JPEG)
-
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/e940abf2e54740389ec12805f147a230.JPEG)
+![Purkinje cells](images/e940abf2e54740389ec12805f147a230.JPEG)
 
 `Q8970`
 
@@ -77,10 +69,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Vein through tendon (open), gut through muscle (squeezed), artery behind everything (untouched).*
 
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/53e0cadbe05649db9d15da8a233616d8x1279x1382.JPEG)
-
 `Q8974`
 
 ---
@@ -103,10 +91,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Right goes to azygos (its own side); left has to climb to the brachiocephalic.*
 
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6e2b7b730be649eda48465dce01e10c9x1280x1757.JPEG)
-
 `Q9146`
 
 ---
@@ -127,13 +111,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Classic "all form the dorsal digital expansion of the middle finger EXCEPT" → the **palmar interosseous**.
 
 **REMEMBER:** *The middle finger is the axis — it cannot adduct toward itself, so no palmar interosseous.*
-
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/0a4f47834df6437ab0d9ddd1da10780f.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8af955cc519c4228ac45e4fa122b0f0cx1280x1342.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7e9ce74f456b4c359307fecb18e85099x1280x1508.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3393db8be7694ebf9f7f8b174f60b2a0x1280x1342.JPEG)
 
 `Q9187`
 
@@ -179,15 +156,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Median owns the index fingertip — front and back.*
 
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/bf8824e32fb84d73a0e6d295a20d898c.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6fc6af3c40054271873617b25aae05a1x1280x1142.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bdfed687a45f4a2ca55d40da02f2d684x602x422.GIF)
-![question](https://cdn1.dailyrounds.org/uploads/94b8cc5b1f514abaaf63d2d2ffa20daa.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/36ee2aea014e45c29cb91aad5206cef6x1280x1142.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c8b6fb3ab5a54b02b7a73e2d5ee84320x1280x2971.JPEG)
-
 `Q9189, Q9194`
 
 ---
@@ -213,11 +181,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** A model/diagram of the looping heart tube with a segment marked → asked for the derivative. "Infundibulum" is the give-away for conus cordis.
 
 **REMEMBER:** *Bulbus cordis, top to bottom: right ventricle → both outflows → great vessel roots.*
-
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/c665ec22481e4dea9d6ae41b862b817b.PNG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c2640596dfbe4215bcd56556366b593cx1280x1103.JPEG)
 
 `Q9264`
 
@@ -259,10 +222,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** "Medial lemniscus is a continuation of ___" → fasciculus gracilis/cuneatus. Also asked as the site of decussation → **medulla (sensory decussation)**, distinct from the **pyramidal (motor) decussation** lower down.
 
 **REMEMBER:** *Dorsal columns cross late (in the medulla); spinothalamic crosses immediately.*
-
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/57b488add6e9471584851e21f5a0c844x354x550.PNG)
 
 `Q9266`
 
@@ -330,10 +289,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Burns' space holds the jugular ARCH, not the external jugular vein.*
 
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/34294ba3616e4cb4b7c7b3653eae6903x1280x1718.JPEG)
-
 `Q9887`
 
 ---
@@ -356,10 +311,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Lateral = crossed sensory, no weakness. Medial = weakness + tongue.*
 
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/3612ca30186940edb1dbc1703a618d2d.JPEG)
-
 `Q9939`
 
 ---
@@ -380,11 +331,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Labelled brainstem cross-section — identify the abducens nerve fascicle as the structure involved.
 
 **REMEMBER:** *Crossed hemiplegia: the cranial nerve names the level, the limb weakness is always on the other side.*
-
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/a1ded896850d4a9eb86539ae70c5c310.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8ee430244d484c38883f0624c2dd416fx468x293.JPEG)
 
 `Q10005, Q10064`
 
@@ -428,14 +374,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Ovale is MALE; spinosum carries the MIDDLE meningeal artery.*
 
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/00e59694fefa400b86e1cc6f8d887f9c.JPEG)
-![question](https://cdn1.dailyrounds.org/uploads/65952b41331e4033bb7ffbc89531646b.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c2b7083ef012475d9aebef2d54f11f8cx1280x1198.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/17218674842e4fa39be51de087788127x1279x1439.JPEG)
-![question](https://cdn1.dailyrounds.org/uploads/afe1220251a8474da41fc3734d19261b.JPEG)
-
 `Q10062, Q10189, Q8972`
 
 ---
@@ -462,12 +400,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Thinnest bone over the biggest meningeal artery = extradural haematoma.*
 
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/3f891a44b6714102bce9711133ab9f70.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dc81c0a94d7a40f28052b990aa39f8e8x1280x1525.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3dea3f58f8aa498d81f60998535a309bx600x666.JPEG)
-
 `Q10117`
 
 ---
@@ -487,11 +419,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Labelled skull base with a fossa marked → site of referred pain.
 
 **REMEMBER:** *Above the tentorium the pain is frontal (V1); below it, occipital (C2–C3).*
-
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/f3ffc6786821474987e50ee119da1f0b.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4353961d751045c7881807d03f681607x1046x823.PNG)
 
 `Q10009`
 
@@ -515,10 +442,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *In the male, only the appendix of testis and the prostatic utricle are Müllerian leftovers.*
 
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/edaf9b8f53db443d99ebd81200690467x1280x1676.JPEG)
-
 `Q10019`
 
 ---
@@ -541,11 +464,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Phrenic in front of the hilum, vagus behind; phrenic in front of scalenus anterior, plexus behind.*
 
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/d67221b99bf14146a043a1366fa1a789.GIF)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a19e57540547467a88c5a58de59eaf7dx1280x1887.JPEG)
-
 `Q10029`
 
 ---
@@ -565,11 +483,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** "All these nerves supply muscles attached to the marked structure EXCEPT" → **vagus (X)**.
 
 **REMEMBER:** *Styloid: pharynx-IX, hyoid-VII, tongue-XII — three arches, one spike.*
-
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2024/02/19/picture2.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/19/picture3_MfcLXDI.jpg)
 
 `Q10042`
 
@@ -592,10 +505,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Tensor veli palatini is trigeminal; every other palatal muscle is vagal.*
 
-
-**IMAGES:**
-![question](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/questions_image/01KN45HW2TH1AWFEASTMAPPHWX.jpg)
-
 `Q10160`
 
 ---
@@ -616,10 +525,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Post-operative sensory loss vignette; the discriminator is always **medial (saphenous) vs lateral (sural)**.
 
 **REMEMBER:** *Long saphenous vein = saphenous nerve = medial. Short = sural = lateral.*
-
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/image_fr2Sxki.png)
 
 `Q9518`
 
@@ -642,10 +547,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *ACA drops the leg and the bladder; MCA drops the face, arm and speech.*
 
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2024/01/01/picture16_dWjWWf0.jpg)
-
 `Q9516`
 
 ---
@@ -667,12 +568,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Asked both ways — "which muscle initiates abduction" (supraspinatus) and "which is not involved in overhead abduction" (pectoralis major).
 
 **REMEMBER:** *Supraspinatus starts it, deltoid carries it, scapula finishes it.*
-
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/3a7acbf6d73d4341932fd1417992387f.GIF)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1cc7962a39374d419793ce26976b0c05x1280x1652.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/58f389b94a1446b98f4aee71a0e048c8x800x509.PNG)
 
 `Q10250, Q9984`
 
@@ -697,12 +592,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Direct pathway releases the brake; indirect pathway presses it. Dopamine always favours movement.*
 
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fafa841adb1d47b6a9dc39e743c9881ax1280x1288.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bfdb7ca542504a1bb4a5ccb65df68133x1279x1007.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0124ac26a6a94b39a448d93203b3fadbx510x451.GIF)
-
 `Q10249`
 
 ---
@@ -723,14 +612,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Ankle clonus / UMN signs image → "which region does NOT contain the damaged fibres" → **anterior limb of internal capsule**.
 
 **REMEMBER:** *Motor is posterior; Heubner is anterior.*
-
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/877ffb9b82ea44e39a65b75799227059.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/96d609cbca6c458880d89cbac55a9145x600x592.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3831338d7a59423cb4a22fb7ad00b2e3x1280x1156.JPEG)
-![question](https://cdn1.dailyrounds.org/uploads/13d99094df7e42fda8a2ed4bd450676c.GIF)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e405d998d47b40719f40307f3985f8bcx1280x2843.JPEG)
 
 `Q10288, Q10290`
 
@@ -753,13 +634,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *The sound side sags; the lesion is on the side you're standing on.*
 
-
-**IMAGES:**
-![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/d1f73584d624b7b8de11c9e899b2f684.webp)
-![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/f066060a668468dab6e55ffe5b2d2b6f.webp)
-![question](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-83_yKEsbeR.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-84_kpcG9e3.jpg)
-
 `Q10352, Q11665`
 
 ---
@@ -781,10 +655,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Post-laceration infection vignette → "between which layers?" → aponeurosis and pericranium.
 
 **REMEMBER:** *Layer 4 is dangerous — emissary veins carry infection to the sinuses.*
-
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/image_3r149gs.png)
 
 `Q10406`
 
@@ -810,10 +680,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Anterior closes day 25 (anencephaly), posterior day 28 (spina bifida) — folate before conception.*
 
-
-**IMAGES:**
-![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/d7a31d2daf102958140ace52daa66058.webp)
-
 `Q10448, Q10454`
 
 ---
@@ -837,10 +703,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Dandy–Walker: big posterior fossa, missing vermis, blocked exits. Chiari: small posterior fossa, everything pushed down.*
 
-
-**IMAGES:**
-![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/770b96ded6bc85993b526b5eba21269c.webp)
-
 `Q10450`
 
 ---
@@ -861,10 +723,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** "Hypophysis cerebri arises from" → **surface ectoderm + neuroectoderm**.
 
 **REMEMBER:** *Front from the mouth (makes hormones); back from the brain (stores them).*
-
-
-**IMAGES:**
-![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/b05bc7fd1990c38062b1c569a54c8a38.webp)
 
 `Q10451`
 
@@ -912,11 +770,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Y-shaped lamina makes three groups; everything but smell changes trains here.*
 
-
-**IMAGES:**
-![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/b915c270ab5af9ddd60a2424da666603.webp)
-![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/ef955abde40d8331fd59d9dd843b93ca.webp)
-
 `Q10461, Q10462, Q10463`
 
 ---
@@ -937,10 +790,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Straight definition-matching question. Also asked as "the most common type of clubfoot" → **equinovarus**.
 
 **REMEMBER:** *Equinus points down like a horse; calcaneus walks on the heel.*
-
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c5e0f6ac8558427b86225843c167d9bbx1280x722.PNG)
 
 `Q10279`
 
@@ -974,15 +823,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Squamous epithelium + crypts = tonsil; Hassall's corpuscles = thymus; capsule + sinus = lymph node.*
 
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/06df04378e8941ad80566a7bbdb4083c.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/16b171cf1a7b40dcac4a6922936fbd31x1254x1284.JPEG)
-![explanation](https://cdn1.dailyrounds.org/uploads/70e56f13d60940f1885dae76de498fe0x250x370.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a992c3c5d8ae43ffb2ea6624f8d8d4edx1280x1010.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4001334811e3425ba537e7df3024eae9x263x274.PNG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/25c7b3b99a6542d9bbe2289071e1a88cx800x600.JPEG)
-
 `Q10203`
 
 ---
@@ -1004,10 +844,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Anterior commissure first, corpus callosum last — and the splenium is the last part of the last.*
 
-
-**IMAGES:**
-![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/86ce4232077d7dad2da51454e8b8fd7a.webp)
-
 `Q10457`
 
 ---
@@ -1028,12 +864,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Cross-section or gross photograph → identify by **fold density and mesenteric fat/arcades**.
 
 **REMEMBER:** *Jejunum: few arcades, long vasa recta, empty and thick. Ileum: many arcades, short vasa recta, full and fatty.*
-
-
-**IMAGES:**
-![question](https://image.prepladder.com/content/x6QPLHPlO1NawzGV4mEN1740382220.png)
-![explanation](https://image.prepladder.com/content/YrQZgIE7q1yyWIqUTLqh1740382248.png)
-![explanation](https://image.prepladder.com/content/PbsMNKzElhc14eBXdOKn1740382265.png)
 
 `Q10729`
 
@@ -1058,16 +888,11 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Six inches of root carrying twenty feet of gut — DJ flexure to ileocaecal junction.*
 
-
-**IMAGES:**
-![question](https://image.prepladder.com/content/tEsd1us5l5WusPFrOfmL1740382082.png)
-![explanation](https://image.prepladder.com/content/LvM9JjLnWaC0Ems08qW71740382132.png)
-
 `Q10731`
 
 ---
 
-## 41. Marginal Artery of Drummond![Marginal Artery Of Drummond](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd45jl3w9libvn.cloudfront.net%2Fjaypee%2Fstatic%2Fbooks%2F9788184484564%2FChapters%2Fimages%2F633-1.jpg&f=1&nofb=1&ipt=2bd8de59e869d6f9b4642416ff899b05b91e6d995618ba12eff94e615d5c738b)
+## 41. Marginal Artery of Drummond![Marginal Artery Of Drummond](images/633-1.jpg)
 
 **PEARL:** A continuous anastomotic channel running along the mesenteric border of the colon, formed by the **ileocolic, right colic, middle colic, left colic and sigmoid arteries** — i.e. it links the **SMA and IMA territories**.
 
@@ -1083,10 +908,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** "Which is NOT involved in the formation of the marginal artery" → inferior epigastric.
 
 **REMEMBER:** *Drummond runs the whole colon and joins SMA to IMA — it fails at the splenic flexure.*
-
-
-**IMAGES:**
-![explanation](https://image.prepladder.com/content/t5U1FmGpt6LXSRTBGaPS1740382293.png)
 
 `Q10728`
 
@@ -1132,13 +953,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Falciform is skin-deep; Cantlie's line follows the blood.*
 
-
-**IMAGES:**
-![explanation](https://image.prepladder.com/content/pU4Rrp2zjkcjjL1RuGMF1740379091.png)
-![explanation](https://image.prepladder.com/content/SqgJM6cMcM57QmCi6W5k1740379118.png)
-![explanation](https://image.prepladder.com/content/ILojPXRhddQkPZADm9eK1740379169.png)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/07/04/untitled-917.jpg)
-
 `Q10735, Q11643`
 
 ---
@@ -1159,10 +973,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Straight matching of recess ↔ vessel in its fold → **paraduodenal = IMV**.
 
 **REMEMBER:** *Left of D4, and the fold carries the inferior mesenteric vein.*
-
-
-**IMAGES:**
-![explanation](https://image.prepladder.com/content/Yh8qJvZdSxaXSejtMY3Q1740382170.png)
 
 `Q10730`
 
@@ -1186,10 +996,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Four Houston valves; biopsy the middle one — it is below the peritoneum.*
 
-
-**IMAGES:**
-![explanation](https://image.prepladder.com/content/pTSqt176tGXO5stYRoQw1740382322.png)
-
 `Q10727`
 
 ---
@@ -1210,12 +1016,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Labelled embryology model → "the marked structure is derived from" → endocardial cushions.
 
 **REMEMBER:** *Membranous septum = endocardial cushions = the commonest VSD; conotruncal = neural crest = DiGeorge.*
-
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-80.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-81.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-82.jpg)
 
 `Q11345`
 
@@ -1283,14 +1083,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Lateral pterygoid is the odd one out — it opens and protrudes; everything else closes.*
 
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/Picture4_qE2kAop.png)
-![question](https://media.cerebellumacademy.com/media/public/images/2023/11/08/picture5_D79Ap5C.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/08/picture6_4466EGR.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/16/whatsapp-image-2023-11-16-at-142429.jpeg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/08/screenshot-2023-11-08-183242.jpg)
-
 `Q11340, Q11475`
 
 ---
@@ -1312,10 +1104,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** "Lateral boundary of the femoral triangle" → **medial margin of sartorius** (not "lateral margin").
 
 **REMEMBER:** *Sartorius laterally, adductor longus medially, inguinal ligament above — and NAVEL inside.*
-
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/22/01.jpg)
 
 `Q11474`
 
@@ -1339,10 +1127,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Only levator ani + coccygeus — obturator internus is a wall, not a floor.*
 
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/04/anotmy-12.jpg)
-
 `Q11479`
 
 ---
@@ -1364,11 +1148,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Epididymis has stereocilia — actin, non-motile, absorptive; not cilia.*
 
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-95.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-96.jpg)
-
 `Q11481`
 
 ---
@@ -1389,10 +1168,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** "Common carotid pulse is felt at the level of" → **cricoid cartilage (C6)**.
 
 **REMEMBER:** *C6 — the four Cs: Cricoid, Cricopharyngeus, Carotid tubercle, Common carotid pulse.*
-
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/22/4.jpg)
 
 `Q11471`
 
@@ -1416,11 +1191,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Crest to crest = L4; the cord stopped at L1 — so L3–L4 is safe.*
 
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2023/09/26/screenshot-2023-09-26-194457.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/26/screenshot-2023-09-26-194559.jpg)
-
 `Q11480, Q9513`
 
 ---
@@ -1441,10 +1211,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Direct match — "ligament connecting medial cuneiform to base of 2nd metatarsal".
 
 **REMEMBER:** *Lisfranc keys the 2nd metatarsal to the medial cuneiform — miss it and the midfoot collapses.*
-
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/18/anatomy-nov-inicet-2022-03.jpg)
 
 `Q11457`
 
@@ -1468,11 +1234,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Fibular neck = foot drop. Check inversion to separate it from an L5 root lesion.*
 
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2023/07/12/whatsapp-image-2023-06-12-at-19012101101018.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/07/12/whatsapp-image-2023-06-12-at-19012101101019.jpg)
-
 `Q11454`
 
 ---
@@ -1493,11 +1254,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Asked in both directions; the answer hinges on **superior gluteal = posterior, inferior gluteal = anterior**.
 
 **REMEMBER:** *Posterior division: I Love Sacral — Iliolumbar, Lateral sacral, Superior gluteal. Nothing visceral.*
-
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/09/ia-13.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/image_iEks6PE.png)
 
 `Q11478, Q9507`
 
@@ -1521,12 +1277,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Filiform = friction, not flavour.*
 
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/21/screenshot-2024-09-21-112022.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/21/screenshot-2024-09-21-112042.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/21/screenshot-2024-09-21-112107.jpg)
-
 `Q11352`
 
 ---
@@ -1547,11 +1297,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Sequencing question — arrange the afferent columns medial to lateral.
 
 **REMEMBER:** *Sulcus limitans splits them: motor medial, sensory lateral — and within sensory, visceral is nearer the midline.*
-
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/16/screenshot-2024-05-16-124220.JPG)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/04/whatsapp-image-2023-11-04-at-190127.jpeg)
 
 `Q11482`
 
@@ -1596,12 +1341,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Lienorenal = splenic vessels + pancreatic tail. Gastrosplenic = short gastrics.*
 
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2023/07/20/untitled-1102.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/07/20/untitled-1103.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/26/screenshot-2023-09-26-195325.jpg)
-
 `Q11486`
 
 ---
@@ -1626,11 +1365,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** "All are boundaries of the quadrangular space EXCEPT" → supraspinatus.
 
 **REMEMBER:** *Quadrangular = axillary nerve; triangular interval = radial nerve.*
-
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/17.png)
-![explanation](https://media.cerebellumacademy.com/media/public/18.png)
 
 `Q11491`
 
@@ -1701,10 +1435,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Commonest = arterial puncture; deadliest = tamponade; left side = chyle; subclavian = pneumothorax.*
 
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2023/05/18/ai-15_OHMmMGN.jpg)
-
 `Q11495`
 
 ---
@@ -1727,10 +1457,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Arrested at prophase I for decades, at metaphase II until fertilisation — the reason old eggs miscount chromosomes.*
 
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/07/04/untitled-880.jpg)
-
 `Q11496`
 
 -
@@ -1751,11 +1477,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Vignette of "burning pain on touching cold water, sensory loss, normal motor function" with a labelled brain image → **thalamus**.
 
 **REMEMBER:** *Thalamic stroke that goes numb, then burns — and touch becomes torture.*
-
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-71_2KvCA3I.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/09/picture2_rw0NybC.jpg)
 
 `Q11502`
 
@@ -1778,10 +1499,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Submucosa holds the stitch; the oesophagus has no serosa, so it leaks.*
 
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/25/screenshot-2024-05-25-170141.jpg)
-
 `Q11504`
 
 ---
@@ -1802,11 +1519,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** "Decussation of the superior cerebellar peduncle occurs at" → **midbrain (inferior colliculus level)**.
 
 **REMEMBER:** *Superior colliculus: rubro- and tectospinal. Inferior colliculus: SCP and trochlear.*
-
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-48.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-49.jpg)
 
 `Q11505`
 
@@ -1829,10 +1541,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Multi-select — the trap option is always **piriformis**.
 
 **REMEMBER:** *Superior gluteal: medius, minimus, TFL — and it is the only thing above piriformis.*
-
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/04/anotmy-15.jpg)
 
 `Q11507`
 
@@ -1857,10 +1565,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Bronchus is always most posterior; the artery is anterior on the right, superior on the left (RALS).*
 
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/09/4.jpg)
-
 `Q11634`
 
 ---
@@ -1881,11 +1585,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Labelled embryology diagram → asked which mark gives the annulus (sclerotome) vs nucleus pulposus (notochord).
 
 **REMEMBER:** *Notochord survives only as the nucleus pulposus — and comes back as chordoma at the clivus and sacrum.*
-
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/Picture1_nwT1J2m.png)
-![explanation](https://media.cerebellumacademy.com/media/public/Picture2_i21IeWU.png)
 
 `Q11636`
 
@@ -1908,14 +1607,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Lens-shaped artery (extradural, stops at sutures); crescent-shaped veins (subdural, crosses them).*
 
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2023/05/09/ia-8.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/09/ia-9.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/09/ia-10.jpg)
-![question](https://media.cerebellumacademy.com/media/public/images/2023/11/16/picture1_G56FmPI.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/09/ia-15_S5BUhyV.jpg)
-
 `Q11490, Q11637`
 
 ---
@@ -1935,11 +1626,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Torso diagram with a line drawn → vertebral level.
 
 **REMEMBER:** *L1 transpyloric (everything), L3 subcostal, L4 umbilicus and aortic bifurcation, L5 IVC.*
-
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2024/06/25/screenshot-2024-06-25-094612.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/22/whatsapp-image-2024-06-22-at-123059-pm.jpeg)
 
 `Q11635`
 
@@ -1963,10 +1649,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *L4 knee jerk, L5 great toe and no reflex, S1 little toe and ankle jerk.*
 
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/21/screenshot-2024-09-21-105931.jpg)
-
 `Q11483`
 
 ---
@@ -1988,11 +1670,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Dorsal brainstem image with a nerve arrowed → **trochlear**. Or clinically: head tilt + trouble on stairs.
 
 **REMEMBER:** *Fourth is the odd one: dorsal exit, crossed, longest, thinnest — and it takes you down and in.*
-
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2023/05/18/ai-16.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/15/screenshot-2024-05-15-194331.JPG)
 
 `Q11639`
 
@@ -2037,12 +1714,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Hippocampus → fornix → mammillary → anterior thalamus → cingulate. Break it anywhere and memory stops recording.*
 
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2024/07/04/screenshot-2024-07-04-102042.png)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/04/screenshot-2024-07-04-102142.png)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/04/4.jpg)
-
 `Q11646`
 
 ---
@@ -2066,10 +1737,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Meissner is shallow and fine; Pacinian is deep and buzzy.*
 
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-62.jpg)
-
 `Q11653`
 
 ---
@@ -2091,10 +1758,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** "Dural sac ends at" → **S2**; often linked to the PSIS as the surface marker.
 
 **REMEMBER:** *Cord stops at L1–L2, dura at S2 (PSIS) — the safe window in between is where you tap.*
-
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/Picture1_jhebV4l.png)
 
 `Q11655`
 
@@ -2118,10 +1781,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Spinal = pain, Principal = touch, Mesencephalic = proprioception (and it lives inside the CNS).*
 
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/03/untitled-6_01aPAfq.jpg)
-
 `Q11656`
 
 ---
@@ -2143,11 +1802,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** A vignette of "right facial weakness with right facial pain/temperature loss and left leg pain/temperature loss" → **lateral pons**.
 
 **REMEMBER:** *Four Ms in the midline, four Ss on the side; the cranial nerve tells you the floor.*
-
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/15/screenshot-2024-05-15-102147.png)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/07/screenshot-2023-11-07-175932.jpg)
 
 `Q11657`
 
@@ -2171,10 +1825,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *On the left, adrenal and gonad go via the renal vein — but the phrenic goes straight to the IVC.*
 
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/04/screenshot-2024-07-04-104032.png)
-
 `Q11659`
 
 ---
@@ -2195,11 +1845,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Labelled cerebellar section → "the marked structure gives origin to which fibres?" → **dentato-rubral**.
 
 **REMEMBER:** *Dentate out via the superior peduncle to red nucleus and thalamus — cerebellar signs stay on the same side.*
-
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2024/09/03/screenshot-2024-09-03-162435.jpeg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/07/screenshot-2023-11-07-171455.jpg)
 
 `Q11660, Q11488`
 
@@ -2222,12 +1867,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** A maid/housekeeper with anterior knee swelling and a labelled diagram → **prepatellar**.
 
 **REMEMBER:** *Housemaid scrubs (prepatellar); the clergyman prays upright (superficial infrapatellar).*
-
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2024/06/22/picture7_7pP8YJl.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/22/picture8_YeVAwxe.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/22/picture9_cATgTRH.jpg)
 
 `Q11662`
 
@@ -2314,10 +1953,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Median lobe grows into the bladder (BPH); posterior lobe grows into the rectum's reach (cancer).*
 
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/07/04/untitled-921.jpg)
-
 `Q11674`
 
 ---
@@ -2340,10 +1975,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Medial plantar = LAFF (like LOAF); lateral plantar takes the rest, like the ulnar nerve.*
 
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/04/screenshot-2024-07-04-102502_Vdv1wE0.png)
-
 `Q11676`
 
 ---
@@ -2365,10 +1996,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Skull image marking the pterygopalatine fossa → "which ganglion is affected?"
 
 **REMEMBER:** *Ciliary-III, Otic-IX, and the two "wet face" ganglia (pterygopalatine and submandibular) are VII.*
-
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2024/09/05/screenshot-2024-09-05-140551.png)
 
 `Q11679`
 
@@ -2413,10 +2040,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **REMEMBER:** *Out = projection, within = association, across = commissural.*
 
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2023/12/28/picture17.jpg)
-
 `Q9554`
 
 ---
@@ -2447,11 +2070,6 @@ body → anterior; cerebellum → VL; optic tract → LGB; taste → VPM.
 
 **REMEMBER:** *Memory goes to the front (anterior), the body to VPL, the face to VPM.*
 
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2023/12/28/picture24_MtwBmwN.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/12/28/picture25_w4HM85M.jpg)
-
 `Q9555`
 
 ---
@@ -2476,12 +2094,6 @@ gaze = VI, lateral rectus**.
 
 **REMEMBER:** *Six swims in the blood beside the carotid; the rest sit in the wall.*
 
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2024/02/17/picture63.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/17/picture64.jpg)
-![question](https://media.cerebellumacademy.com/media/public/images/2023/06/09/picture32_xOBKCci.jpg)
-
 `Q9556, Q9557`
 
 ---
@@ -2502,11 +2114,6 @@ gaze = VI, lateral rectus**.
 **EXAM CONNECTION:** Either the superlative recall (largest/smallest/first/last) or an X-ray of a child's wrist asking which bone is absent — remember the film shows a growing skeleton, so the **pisiform is missing**.
 
 **REMEMBER:** *Capitate is the biggest and the first; pisiform is the tiniest, a sesamoid, and the last.*
-
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2023/04/24/picture-27_zmze7bs.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/12/26/picture74.jpg)
 
 `Q9558`
 
@@ -2534,11 +2141,6 @@ in front of it, cannot be reached by a posteriorly directed tear.
 structure lying **anterior** to the vaginal orifice (urethra, bladder, clitoris).
 
 **REMEMBER:** *A median cut runs backwards — everything it can hurt is behind the vagina.*
-
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/15/picture37_ucaj8Oz.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/15/picture38_ix1mras.jpg)
 
 `Q9561`
 
@@ -2568,15 +2170,6 @@ genitofemoral** or the **inferior epigastric artery** as a canal content (neithe
 
 **REMEMBER:** *Deep ring pierces the transversalis fascia; the femoral branch and the
 epigastric artery stay outside.*
-
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5f5fca36f32146b3bfa76b1c85145cfex600x606.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4556d0df7eaa4ac1b0c1d9f99e82d1f3x720x620.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/89792db95d08484bb9c1ea17a218e53fx1279x1221.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/59255403e5f14b9cb2e14d297ffd63bdx1280x1294.JPEG)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/16/picture48.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/16/screenshot-2024-02-15-110907.jpg)
 
 `Q10725, Q10726, Q9569`
 
@@ -2641,12 +2234,6 @@ bellies** (omohyoid, occipitofrontalis) that nonetheless has a **single nerve**.
 
 **REMEMBER:** *Two nerves, not two bellies — the omohyoid only looks the part.*
 
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture22.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture23.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture24.jpg)
-
 `Q10879, Q10856`
 
 ---
@@ -2680,11 +2267,6 @@ by **direction (anterior/posterior/medial/terminal)** rather than by name.
 **REMEMBER:** *Ascending pharyngeal hugs the midline; piriformis is the landmark; the
 median nerve lets the hand see.*
 
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/untitled-432.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture32_MSP8EF9.jpg)
-
 `Q10912, Q10913, Q10929`
 
 ---
@@ -2716,14 +2298,6 @@ short medial list is the whole task; everything not on it is lateral.
 named — **quadratus plantae, interossei, adductor hallucis** — is **lateral**.
 
 **REMEMBER:** *LAFF is medial; the rest of the sole is lateral.*
-
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b39abed34c824d97926d711473da48b4x1280x1717.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/aa75815ce72948b7ab6849866e7d2363x1280x1777.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3f1987f817f84db984c6bbfe5ebe98c3x1280x1777.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6726324b53454ee7bb50634d7d6b60f0x1280x1753.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bb026f1c907d44bba86524b7caea404dx1280x1942.JPEG)
 
 `Q10971`
 
@@ -2763,11 +2337,6 @@ be the labelled structure.
 **REMEMBER:** *At the sternal angle the aorta arches, the trachea splits, the pulmonary
 trunk divides and the azygos empties.*
 
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/eee7d8c1beb146bfa7d69dd6e39f86b7.JPEG)
-![explanation](https://cdn1.dailyrounds.org/uploads/3d8e3f54552b403497312a700fe57005.JPEG)
-
 `Q10962`
 
 ---
@@ -2800,10 +2369,6 @@ says "left" and names anything other than the **inferior phrenic or renal** vein
 wrong.
 
 **REMEMBER:** *Everything on the left goes through the left renal vein first.*
-
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/52073319c69146e8ab4a9e39defe325dx1280x1789.JPEG)
 
 `Q11005`
 
@@ -2838,10 +2403,6 @@ medially**.
 **REMEMBER:** *Front flexes, back extends, top abducts, and the greater tubercle rotates
 you outward.*
 
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6652d491f95f4d7ab50abe272cc12892x1280x1496.GIF)
-
 `Q10989`
 
 ---
@@ -2873,12 +2434,6 @@ smooth muscle, heart and vessels)**. Position at gastrulation predicts destiny.
 intermediate (**kidney**), the outer sheets are lateral plate (**serous membranes**).
 
 **REMEMBER:** *Paraxial builds the axis — vertebrae, ribs and muscle.*
-
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/c132825d20c5433bb343452cf12dd68a.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5194b555828e41f8a28df8584a1cd21cx1280x1214.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/508de4aed9fc414fb9c5e16e83fd750cx1279x1125.JPEG)
 
 `Q10996`
 
@@ -2917,10 +2472,6 @@ left-sided relations (pancreas, spleen) and the retroperitoneal position are alw
 **REMEMBER:** *Right is a pyramid squeezed by the liver and cava; left is a crescent draped
 over the kidney.*
 
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9bdcb775f0bb40c6ae59758c9b2dc391x600x847.JPEG)
-
 `Q11008`
 
 ---
@@ -2954,11 +2505,6 @@ and mitral valves marked → **subaortic curtain/left fibrous trigone**.
 **REMEMBER:** *The fibrous skeleton is the heart's insulating tape — only the His bundle is
 allowed through.*
 
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/a4e63f64e3d64d7c8281be354c422b8b.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f2f1b29f86e547e188b23313658ce4d4x1280x1474.JPEG)
-
 `Q11024`
 
 ---
@@ -2990,12 +2536,6 @@ bronchiole.
 (no → bronchiole) and **do alveoli open off the wall?** (no → terminal, yes → respiratory).
 
 **REMEMBER:** *No cartilage, no alveoli — the last tube that only conducts.*
-
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/b62649191ecd428bb10eb45bfbe543fe.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8ca0a584d17747e9bce0cc93b9a7462dx575x431.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/70456d647c524177a20ef42e242fa6bex1280x1024.JPEG)
 
 `Q11049`
 
@@ -3031,10 +2571,6 @@ visible = anterior coronal**, therefore the canal in the medial orbital wall is 
 **REMEMBER:** *Just under the roof, in the anterior plane — cut it and the orbit fills with
 blood.*
 
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2023/03/26/untitled-138.jpg)
-
 `Q11192`
 
 ---
@@ -3065,11 +2601,6 @@ maxillary nerve or zygomatic branch — causes **reduced lacrimation and a dry, 
 after the pterygopalatine ganglion they ride V2, so the answer is **foramen rotundum**.
 
 **REMEMBER:** *Facial nerve fibres hitch a ride on the trigeminal to reach the tear gland.*
-
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/7f16b1b530a7440d861285b84920e6f6.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/16af0ac5a1fb43a188c243b7ebe52a7dx1279x1050.PNG)
 
 `Q11803`
 
@@ -3139,12 +2670,6 @@ anatomical relation selects the superficial pouch.
 **REMEMBER:** *Below the membrane, urine fills the scrotum and belly wall but never the
 thigh — Holden's line stops it.*
 
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2a40630ca86346759ce0a42c96007057x468x604.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a89e957c868f466f97b3198f1ab132fcx1280x1244.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3e9c19a5861144d2af2f1f3a9503bbdax1280x1318.JPEG)
-
 `Q11834`
 
 ---
@@ -3174,10 +2699,6 @@ plana, not the pars plicata or the ora serrata.
 
 **REMEMBER:** *Four millimetres behind the limbus: behind the lens, in front of the retina.*
 
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/77c1267c387c4797a45fa347b30af020x1279x1414.JPEG)
-
 `Q11845`
 
 ---
@@ -3198,11 +2719,6 @@ plana, not the pars plicata or the ora serrata.
 **EXAM CONNECTION:** Always asked as "which is **NOT** a deep relation" → the answer is the **lingual nerve**. The reverse stem ("not superficial") answers **lingual artery** or **glossopharyngeal nerve**.
 
 **REMEMBER:** *The nerve rides over it, the artery burrows under it.*
-
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/094c749125af45d99b5abb0a00f6b7c3x600x564.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/eb08a0a807d543eca416ea4b558f2f87x600x564.JPEG)
 
 `MA0964`
 
@@ -3225,11 +2741,6 @@ plana, not the pars plicata or the ora serrata.
 
 **REMEMBER:** *One is bone, two is cartilage, three is reticular, four is the floor.*
 
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/eb0ba099c64e4f858e80413936d4a088x1280x2156.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/22c6422132c84f62833a8d64fdf24958x1280x3831.JPEG)
-
 `MC5277, MB2543`
 
 ---
@@ -3251,13 +2762,6 @@ plana, not the pars plicata or the ora serrata.
 
 **REMEMBER:** *Superior out, middle in, inferior both.*
 
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/64e09bf015fd405c80a5e43f524e618d.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bbb4a665a5074327ad5d0cf51f17a431x1280x1099.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/34cdc17d883b41d688f40950d3f0c6efx600x489.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/08d7e9790f8b4fe4afdec9aa33c384b3x1280x1767.JPEG)
-
 `MF0799, MC5274`
 
 ---
@@ -3278,10 +2782,6 @@ plana, not the pars plicata or the ora serrata.
 **EXAM CONNECTION:** "Anterolateral wall of the true pelvis" → **obturator internus**; the trap distractor is **obturator externus**, which is outside the pelvis entirely.
 
 **REMEMBER:** *Internus lines the pelvis, externus leaves it.*
-
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c0bafe2e502f461e940a89256019ae23x600x614.JPEG)
 
 `MB3523`
 
@@ -3305,14 +2805,6 @@ plana, not the pars plicata or the ora serrata.
 
 **REMEMBER:** *Genu forward for frontal, splenium back for sight.*
 
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/3f02994eb244448ea875cd193d33a013.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/549704a53dcd4aa58d4d753824d47523x1280x1056.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cdf78937ae524771aec56a67e252b9bax1280x1188.JPEG)
-![question](https://cdn1.dailyrounds.org/uploads/65de9eb2b484426fbd35ca7c539623db.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/aeb26d2ca87a4db393b2bb93c23734d1x343x338.JPEG)
-
 `MB9263, MC7579`
 
 ---
@@ -3334,11 +2826,6 @@ plana, not the pars plicata or the ora serrata.
 **EXAM CONNECTION:** Image of a rectus sheath section with the posterior layer missing → the level is **below a point midway between umbilicus and pubic symphysis**. Watch the wording: "midway between umbilicus and symphysis," not xiphisternum.
 
 **REMEMBER:** *Below the arcuate line, everything goes in front and the back door is open.*
-
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/dd2f4930d3854a5cbd7a2d383aebe46b.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5e824c87ebef4f6ebe169a3d0b5f79bfx600x577.JPEG)
 
 `MA7327`
 
@@ -3384,10 +2871,6 @@ plana, not the pars plicata or the ora serrata.
 
 **REMEMBER:** *Disse is the moat around the hepatocyte; Kupffer patrols the river, not the moat.*
 
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/30d56388bdfc47c3857415654d48802ax1280x803.JPEG)
-
 `MB2694`
 
 ---
@@ -3409,10 +2892,6 @@ plana, not the pars plicata or the ora serrata.
 **EXAM CONNECTION:** Single-liner: "Kanavel's sign positive → diagnosis?" → **tenosynovitis**. Distractors are all the painless chronic finger conditions.
 
 **REMEMBER:** *Sausage, semi-flexed, sheath-tender, screams on extension.*
-
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c4acfff517914a74a30320734d94e737x1280x2520.JPEG)
 
 `MB0211`
 
@@ -3436,11 +2915,6 @@ plana, not the pars plicata or the ora serrata.
 
 **REMEMBER:** *"What" is temporal, "where" is parietal — agnosia loses the what.*
 
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/985d9f9c21e142b787a38323bc997372x600x535.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1c16e1eaa21a41bf97b6cbe2769e08f8x600x487.JPEG)
-
 `MG1141`
 
 ---
@@ -3462,10 +2936,6 @@ plana, not the pars plicata or the ora serrata.
 **EXAM CONNECTION:** "Which part is NOT drained by the thoracic duct?" → **right upper limb**. Note the trap: the **left** upper limb *is* drained by it.
 
 **REMEMBER:** *Everything but the right upper quadrant.*
-
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7ded001ab6264452ba0c8b4225f6dab2x1280x1658.JPEG)
 
 `MA9689`
 
@@ -3489,11 +2959,6 @@ plana, not the pars plicata or the ora serrata.
 
 **REMEMBER:** *No OK sign, no AIN.*
 
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/69526a82cd0c4671ab9f2c4d3cd069c2x1280x1442.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4a8a0fa0dbe046729f57315e6adb33bbx1280x1223.JPEG)
-
 `MC5272, MA0541`
 
 ---
@@ -3514,10 +2979,6 @@ plana, not the pars plicata or the ora serrata.
 **EXAM CONNECTION:** Asked as "last fontanelle to close" (**anterior**) or as the closure timing table. The paediatric cross-link — causes of delayed closure — is the more common INI-CET form.
 
 **REMEMBER:** *Four bones, largest gap, last to shut.*
-
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6c23f82879904a98ad5c366911d4df2cx1280x1378.JPEG)
 
 `MC4397`
 
@@ -3540,10 +3001,6 @@ plana, not the pars plicata or the ora serrata.
 
 **REMEMBER:** *Urothelium runs calyx to prostate, then quits.*
 
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d08d82d545bf4815b7899a9df650acf2x1280x2380.JPEG)
-
 `MB2696`
 
 ---
@@ -3564,10 +3021,6 @@ plana, not the pars plicata or the ora serrata.
 **EXAM CONNECTION:** "Brachial artery blockage — flow decreased in all EXCEPT" → **anterior circumflex humeral**. The question is really testing where the axillary artery ends.
 
 **REMEMBER:** *Circumflex humerals belong to the axilla, collaterals belong to the arm.*
-
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e624e43c20f744ea9806489d8df72212x1280x2308.JPEG)
 
 `MA0676`
 
@@ -3606,6 +3059,7 @@ plana, not the pars plicata or the ora serrata.
 ## 133. Eye — Basic Dimensions and Development
 
 **PEARL:**
+
 - **AP diameter of the adult eye = 24 mm (2.4 cm).**
 - The **canal of Schlemm appears by the 4th month** of gestation.
 - **Full visual acuity (6/6) is attained by ~6 years** of age.
@@ -3808,6 +3262,7 @@ plana, not the pars plicata or the ora serrata.
 ## 152. Arches of the Foot
 
 **PEARL:**
+
 - **Medial longitudinal arch:** **calcaneus (medial half), talus, navicular, three cuneiforms, and the first three metatarsals**.
 - **Lateral longitudinal arch:** **calcaneus (lateral half), cuboid, and the 4th and 5th metatarsals**.
 - **The phalanges take no part in the arches** — toes can be amputated without losing arch function.
@@ -3833,6 +3288,7 @@ plana, not the pars plicata or the ora serrata.
 **PEARL:** The **deltoid** gives the shoulder its rounded contour; **axillary nerve** injury causes wasting → a **flat, flabby, asymmetrical shoulder** with loss of sensation over the **regimental badge area (upper lateral arm)**.
 
 **MUST KNOW:**
+
 - Axillary nerve (C5, C6) is injured in **surgical neck fracture of the humerus** and **shoulder dislocation** — always test the badge area before and after reduction.
 - **In deltoid pyomyositis, abduction, flexion and extension are all impaired** (anterior, middle and posterior fibres) **but sensation is preserved** — the muscle is diseased, the nerve is not. Sensory loss over the **LOWER lateral arm** is from the **radial nerve**, not the axillary.
 - Abduction: **supraspinatus 0–15°, deltoid 15–90°**, then scapular rotation (trapezius + serratus anterior).
@@ -3864,6 +3320,7 @@ plana, not the pars plicata or the ora serrata.
 ## 157. Spinal Cord Arterial Syndromes
 
 **PEARL:**
+
 - **Anterior spinal artery** occlusion → loss of **pain, temperature, crude touch** (spinothalamic) and motor function, with **fine touch/proprioception/vibration preserved** (dorsal columns spared).
 - **Posterior spinal artery** occlusion → loss of **proprioception, fine touch and vibration** (dorsal columns).
 

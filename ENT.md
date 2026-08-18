@@ -44,8 +44,10 @@
 
 **REMEMBER:** *Red mass rising behind the drum that pulsates then blanches — never biopsy it.*
 
+
+
 **IMAGES:**
-![explanation](images/9907-e1.jpeg)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f3294641c02c4a5e9dd7bdaa033624f4x605x600.JPEG)
 
 `Q9907, Q10007`
 
@@ -68,9 +70,11 @@
 
 **REMEMBER:** *Ear pain with a normal ear means look elsewhere — tonsil is IX, larynx is X, teeth and TMJ are V.*
 
+
+
 **IMAGES:**
-![explanation](images/9909-e1.jpeg)
-![explanation](images/10048-e1.jpeg)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1c8d4a9369334b1fb315596674356c0dx1280x2558.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f50e3a5e088e40b79fb251f95e77af48x1280x2429.JPEG)
 
 `Q9909, Q10048`
 
@@ -141,9 +145,11 @@
 
 **REMEMBER:** *Blocked ostium, years later, an expanding cyst that pushes the eye sideways — and eggshell crackling.*
 
+
+
 **IMAGES:**
-![question](images/9931-q1.png)
-![explanation](images/9931-e1.png)
+![question](https://cdn1.dailyrounds.org/uploads/aefb7e9048e74fa79af2612160b82c8e.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/33d76cc70edc4ca4a7be3078b5723b90x512x510.PNG)
 
 `Q9931, Q10000`
 
@@ -167,8 +173,10 @@
 
 **REMEMBER:** *Inspiratory is above the cords, expiratory is in the chest, biphasic is the glottis and subglottis.*
 
+
+
 **IMAGES:**
-![explanation](images/9934-e1.jpeg)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/74b4c98abb59427c8564c3236d75b224x1280x1826.JPEG)
 
 `Q9934`
 
@@ -215,9 +223,11 @@
 
 **REMEMBER:** *One side, trismus, hot-potato voice, uvula pushed away — and the floor of the mouth is Ludwig's, not quinsy.*
 
+
+
 **IMAGES:**
-![question](images/9968-q1.jpeg)
-![explanation](images/9968-e1.jpeg)
+![question](https://cdn1.dailyrounds.org/uploads/d779f195b72141bb9f3c59fe7f4358ee.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c49ef6ae1e5c4014978739947e30ced8x1280x1669.JPEG)
 
 `Q9965, Q9968`
 
@@ -241,9 +251,11 @@
 
 **REMEMBER:** *Dix-Hallpike diagnoses, Epley treats — seconds of vertigo, normal hearing, fatigable rotatory nystagmus.*
 
+
+
 **IMAGES:**
-![explanation](images/9966-e1.jpeg)
-![explanation](images/9966-e2.jpeg)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d1dab6693b424b19bd3aca7c49bd81a9x1280x2095.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3bb2fd521fc34b67b82d1bb38db07bf6x1280x2359.JPEG)
 
 `Q9966`
 
@@ -268,12 +280,14 @@
 
 **REMEMBER:** *Temporal line above, canal in front, tangent behind — drill there for the antrum. The lateral canal guards the facial nerve.*
 
+
+
 **IMAGES:**
-![explanation](images/9967-e1.jpeg)
-![question](images/10124-q1.jpeg)
-![explanation](images/10124-e1.jpeg)
-![explanation](images/10124-e2.png)
-![explanation](images/10182-e1.png)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/46befb08736c48898d2c8780f1c68252x1280x1732.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/e3129b4b34174de08d60a90e71b93687.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ba40f9752f904b768ef9c052e5684223x1279x1023.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/644137c4bfa64cab9c0a0c38bbf188edx800x800.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5bf445840f6745ab90b5d08f120862dfx800x526.PNG)
 
 `Q9967, Q10124, Q10182`
 
@@ -321,8 +335,10 @@
 
 **REMEMBER:** *A neck node plus one blocked ear in an adult — look in the fossa of Rosenmüller.*
 
+
+
 **IMAGES:**
-![explanation](images/10082-e1.jpeg)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4ded39d831464964acc8ce474e149908x1279x1012.JPEG)
 
 `Q10082`
 
@@ -346,9 +362,11 @@
 
 **REMEMBER:** *Flat tympanogram plus adenoid facies — take out the adenoids AND put in the grommet.*
 
+
+
 **IMAGES:**
-![question](images/10143-q1.jpeg)
-![explanation](images/10143-e1.jpeg)
+![question](https://cdn1.dailyrounds.org/uploads/43f950c937954d77b63785beae531068.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d20f24dd2e5d4b8ba33fb4a9f6dfd002x482x458.JPEG)
 
 `Q10143`
 
@@ -394,8 +412,10 @@
 
 **REMEMBER:** *Wipes off easily = Vincent's. Sticks and bleeds and spreads beyond the tonsil = diphtheria — give antitoxin now.*
 
+
+
 **IMAGES:**
-![explanation](images/10195-e1.jpeg)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8b1458efa4d141df8a2f9f81715e20edx720x1019.JPEG)
 
 `Q10195`
 
@@ -441,10 +461,12 @@
 
 **REMEMBER:** *Lean forward and pinch the soft part; Little's area bleeds in the young, sphenopalatine in the old.*
 
+
+
 **IMAGES:**
-![question](images/10235-q1.jpeg)
-![explanation](images/10235-e1.jpeg)
-![explanation](images/10235-e2.jpeg)
+![question](https://cdn1.dailyrounds.org/uploads/4c369030c9d14eaca6870b88ff464718.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d9ec1e34cd544413bf9bf09d9af03250x1280x1120.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7d2aa180c42c4fae9aafa8dc82e8daf5x1280x1994.JPEG)
 
 `Q10235`
 
@@ -468,9 +490,11 @@
 
 **REMEMBER:** *Base is stiff and hears high notes — and it is the first to die from noise, age and drugs.*
 
+
+
 **IMAGES:**
-![explanation](images/10241-e1.jpeg)
-![explanation](images/9915-e1.jpeg)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ac32b12add0e447490f8fc31849b786cx1280x1752.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/db6e073a0b4d4a96b07e576215ff74fex1280x1752.JPEG)
 
 `Q10241, Q9915`
 
@@ -539,8 +563,10 @@
 
 **REMEMBER:** *The narrowest 4 mm of the nerve in the narrowest bit of canal — that is where Bell's palsy strangles it.*
 
+
+
 **IMAGES:**
-![explanation](images/10248-e1.jpeg)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/420f3175135e46929b2b19e6d9c4162bx1280x4080.JPEG)
 
 `Q10248`
 
@@ -564,12 +590,14 @@
 
 **REMEMBER:** *Nose-chin sees the maxilla (Water's); nose-forehead sees the frontal (Caldwell's); looking up from below sees the sphenoid.*
 
+
+
 **IMAGES:**
-![question](images/10255-q1.jpeg)
-![explanation](images/10255-e1.jpeg)
-![explanation](images/10255-e2.jpeg)
-![explanation](images/10255-e3.jpeg)
-![explanation](images/10255-e4.jpeg)
+![question](https://cdn1.dailyrounds.org/uploads/dbc7dea023df43489947a5c22813047a.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f0a0fe3247ff4875a188468a3c8240ffx600x729.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/999ee94dc56d4e8d8ae8d02d28abcd14x627x599.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8e425cf42dff444ca7227b0e65a0c499x1280x747.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/96fa8aaab59a4e4299655c6a3d8b21c1x259x269.JPEG)
 
 `Q10255`
 
@@ -593,9 +621,11 @@
 
 **REMEMBER:** *ECOLIMA — and everything above the olive is bilateral, so cortical lesions never make you deaf in one ear.*
 
+
+
 **IMAGES:**
-![explanation](images/10305-e1.jpeg)
-![question](images/9923-q1.png)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e41df44ff9ef4779a03d5417ecbc3668x1280x1441.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/a662c397893d4641b87bccfe3981cefc.PNG)
 
 `Q10305, Q9923`
 
@@ -664,9 +694,11 @@
 
 **REMEMBER:** *Iron deficiency, a web and dysphagia — the one hypopharyngeal cancer that picks women, and it sits behind the cricoid.*
 
+
+
 **IMAGES:**
-![question](images/10362-q1.jpeg)
-![explanation](images/10362-e1.jpeg)
+![question](https://cdn1.dailyrounds.org/uploads/c1dcc4b62ee04808a4d45d8cd9a1e240.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/75704eb8b460449db4446e2c8f4c4e50x1280x2159.JPEG)
 
 `Q10362`
 
@@ -690,9 +722,11 @@
 
 **REMEMBER:** *Cricothyroid tenses (external laryngeal); posterior cricoarytenoid is the only one that opens the airway.*
 
+
+
 **IMAGES:**
-![explanation](images/11647-e1.png)
-![explanation](images/11647-e2.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/14/screenshot-2024-05-14-115959.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/07/screenshot-2023-11-07-153601.jpg)
 
 `Q11647`
 
@@ -727,8 +761,10 @@ adrenaline offered as tempting but wrong interventions.
 
 **REMEMBER:** *Floppy larynx sucked in on inspiration — turn the baby over and wait.*
 
+
+
 **IMAGES:**
-![question](images/10844-q1.jpeg)
+![question](https://cdn1.dailyrounds.org/uploads/cdeb9ee2910d4768bb9509720b22fd7b.JPEG)
 
 `Q10844`
 
@@ -765,8 +801,10 @@ when the ossicular chain is replaced by a TORP → **14:1**.
 **REMEMBER:** *Big drum onto a small footplate does most of the work; the ossicles only add
 a third.*
 
+
+
 **IMAGES:**
-![explanation](images/10900-e1.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture45.jpg)
 
 `Q10900`
 
@@ -875,10 +913,12 @@ notched at 4 kHz = noise.
 
 **REMEMBER:** *Hydrops swells the apex and steals the low notes first.*
 
+
+
 **IMAGES:**
-![question](images/11029-q1.jpeg)
-![explanation](images/11029-e1.jpeg)
-![explanation](images/11029-e2.jpeg)
+![question](https://cdn1.dailyrounds.org/uploads/3c6c3768ec1c4ad7ab5f32dd08e4ed0f.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0cb11f00c57a4a8680f4f8b5bba18adfx1280x1803.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/59360a00559541cfad59db9d4d396aabx1280x1623.JPEG)
 
 `Q11029`
 
@@ -911,6 +951,10 @@ comes from forgetting that the **slow phase is the true vestibular response**.
 testing.
 
 **REMEMBER:** *COWS — Cold Opposite, Warm Same.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/08/29/picture17.jpg)
 
 `Q11214`
 
@@ -948,6 +992,10 @@ loss**; the loss is **conductive with an intact middle ear**.
 **REMEMBER:** *A third window lets sound escape — air conduction fails while bone conduction
 gets better than normal.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/19/screenshot-2024-06-19-174717.png)
+
 `Q11253`
 
 ---
@@ -983,8 +1031,10 @@ condition.
 **REMEMBER:** *Smoke fills the floppy space under the epithelium — the cords get heavy and
 the voice drops.*
 
+
+
 **IMAGES:**
-![question](images/11815-q1.jpeg)
+![question](https://cdn1.dailyrounds.org/uploads/770bbe6eb9104fe1baf945ede1d21e6f.JPEG)
 
 `Q11815`
 
@@ -1020,8 +1070,10 @@ gives raised ICP and focal signs.
 **REMEMBER:** *Discharge, deep pain and a lazy lateral rectus — the infection has reached
 the petrous apex.*
 
+
+
 **IMAGES:**
-![question](images/11818-q1.jpeg)
+![question](https://cdn1.dailyrounds.org/uploads/88f608e6ac5043c083c5637bb8014793.JPEG)
 
 `Q11818`
 
@@ -1062,8 +1114,10 @@ sensorineural loss.
 **REMEMBER:** *Both Rinnes normal means the problem is the nerve — and Weber runs away from
 the bad cochlea.*
 
+
+
 **IMAGES:**
-![explanation](images/11842-e1.jpeg)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/250dd8e48bdb46259f04f4fb6e1b9479x1279x1605.JPEG)
 
 `Q11842`
 
@@ -1098,8 +1152,10 @@ reverse (which is how the disease starts).
 
 **REMEMBER:** *Crystals fell into the canal; Epley rolls them home to the utricle.*
 
+
+
 **IMAGES:**
-![explanation](images/11849-e1.jpeg)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f04bc59fd59546bf9a210805af6f7d32x1280x2359.JPEG)
 
 `Q11849`
 
@@ -1146,6 +1202,13 @@ reverse (which is how the disease starts).
 
 **REMEMBER:** *Low-risk HPV — comes back forever, turns malignant almost never.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/330e3c902cf74d1e9b05a4a23b8cc1cc.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ac8a3c609f364402a506295a9fd0bd3cx512x422.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1faa9206ae1b4a40bb9b76f834d8a8a2x768x576.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/05a81e40a55f40009934c6ec010ca5f8x720x324.JPEG)
+
 `MC7498`
 
 ---
@@ -1189,6 +1252,10 @@ reverse (which is how the disease starts).
 
 **REMEMBER:** *Muscles in front, nerves behind — trismus is a muscle sign.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/65e95b72f7834a8ea6c17c6d7d26289ax1280x1473.JPEG)
+
 `MB5373`
 
 ---
@@ -1210,6 +1277,18 @@ reverse (which is how the disease starts).
 **EXAM CONNECTION:** Asked as a grouping question (which are objective) and as a sequencing question (order the auditory pathway). Both are pure recall — memorise the mnemonic.
 
 **REMEMBER:** *If the patient has to answer, it is subjective.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/434200c4b833472289c379754af17c3cx1280x2078.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1f9167544929446482f04a6b10c3109dx1280x851.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/08e1a8592af442298a505488323105bex1280x1116.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e41df44ff9ef4779a03d5417ecbc3668x1280x1441.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a62bcecbf06942c5be3d165abac9655cx1280x2105.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7e416f7699d74f2789eb0bc6f24285fex1280x1441.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1f2cecf16b1040809c4dd31c05e16773x600x1002.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8e75c7e16b9045ad89595ed0ca1b4b06x1280x1416.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6b4b5cb4346c46c897b05917cdbf8c21x1280x3090.JPEG)
 
 `MD6949, MF9109, MD6951, MF7320`
 
@@ -1234,6 +1313,10 @@ reverse (which is how the disease starts).
 
 **REMEMBER:** *Inner cells listen, outer cells amplify.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/912d6426a5c64869a16ccd419c34a812x1280x2975.JPEG)
+
 `MG1166, MB8894`
 
 ---
@@ -1257,6 +1340,12 @@ reverse (which is how the disease starts).
 
 **REMEMBER:** *Onodi hides the optic nerve; Haller blocks the maxilla.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a05f6853e6494fd8b47c16868d235d0ax472x360.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/66e69d87c30a4debb95178fdc941e6d2x408x481.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6e8d515afbf345a0bfd6e3f5f524e750x720x949.JPEG)
+
 `MC6411, MC7584`
 
 ---
@@ -1278,6 +1367,11 @@ reverse (which is how the disease starts).
 **EXAM CONNECTION:** "What else would you see" → **roomy nasal cavity** — counter-intuitive against the complaint of obstruction, which is exactly why it is asked. Rhinosporidium's classification (**protist, not fungus**) is a separate favourite.
 
 **REMEMBER:** *A wide nose that feels blocked and smells terrible to everyone but the patient.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cdafe3fc932845f78f061ada8c044c6dx1280x957.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a813c201198c4800bbe43437de8562b9x512x382.PNG)
 
 `MF1488, MB4740`
 
@@ -1303,6 +1397,13 @@ reverse (which is how the disease starts).
 
 **REMEMBER:** *Sensation above, motor below — and both recurrents gone means the airway closes.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/01db8c67ccfd4505ae52b2b0312f0ecdx1280x2954.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ac5dbf3b0d7449279efdc72a549df0a5x1280x1134.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e598d4b5b5404acd9edf7be2b040a3ecx1280x1424.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7d82455c1ad94ac39dac6fce31c98ca6x600x759.JPEG)
+
 `MD2326, MF1506, MA7135, MC2264`
 
 ---
@@ -1324,6 +1425,10 @@ reverse (which is how the disease starts).
 **EXAM CONNECTION:** Image of a white mass behind an intact drum → the follow-up is the **eponymous criteria (Levenson)**. Bent and Kuhn is for **allergic fungal sinusitis**; AAO-HNS for **Ménière's**.
 
 **REMEMBER:** *Pearl behind an intact drum, born there, not migrated.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/7e994a5f04e44082bfac66040247c358.PNG)
 
 `MA6024`
 
@@ -1347,6 +1452,10 @@ reverse (which is how the disease starts).
 
 **REMEMBER:** *Shiners, salute and Dennie–Morgan are allergic; Veraguth is depressed.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/64cb9b6da4d44ca0a1750878e3906fe8x1200x1118.JPEG)
+
 `MG5831`
 
 ---
@@ -1368,6 +1477,12 @@ reverse (which is how the disease starts).
 **EXAM CONNECTION:** Image-based identification, then prognosis. Confusing Ohngren's with Donaldson's line is the usual error — one is oncological, one is otological.
 
 **REMEMBER:** *Above the line is bad news; below the line is operable.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/93edbd02d7624a5e9bfc08748f8c850f.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6a66229bcb5a43a7a3a2d4b2a650aa6dx1000x715.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3118eb7d296447fe89dd3cfd4f20c26fx1280x964.JPEG)
 
 `MA1180`
 
@@ -1392,6 +1507,14 @@ reverse (which is how the disease starts).
 
 **REMEMBER:** *Tube 36 with a cartilage majority; canal 24 with a bony majority.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/40f1ea8559894b919900ff820962b74ax1280x1550.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/43f950c937954d77b63785beae531068.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d20f24dd2e5d4b8ba33fb4a9f6dfd002x482x458.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6b4b5cb4346c46c897b05917cdbf8c21x1280x3090.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9ad20391e348495eb8316e0a318c0d79x1280x1521.JPEG)
+
 `MA6240, MF7475`
 
 ---
@@ -1413,6 +1536,10 @@ reverse (which is how the disease starts).
 **EXAM CONNECTION:** "Not associated with" → **renal angiomyolipoma**. This tests whether you can separate the **CHARGE** acronym from the **tuberous sclerosis** feature list.
 
 **REMEMBER:** *Cyanosis that improves when the baby cries — check the choanae.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dff547f2da0c4b1fba7b0b4222c897f8x799x472.PNG)
 
 `MB4702`
 

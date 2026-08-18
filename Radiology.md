@@ -21,6 +21,14 @@
 
 **REMEMBER:** *Dead bone cannot resorb itself, so it stays white while the living bone around it fades.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/9e998e59ced24020a32a5058eb29325f.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/317b19d8c2dc4522ae34b1c5147a2a57x1280x1048.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c85f3d8ef39e40e79450d617c29849d5x1280x1169.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/dfac3ef207ca41d4bed26f176b1414ba.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5291846a37d8459e8dbf04b6c5c7127fx1280x1277.JPEG)
+
 `Q8944, Q8987, Q8994`
 
 ---
@@ -43,6 +51,13 @@
 
 **REMEMBER:** *Veins should breathe and arteries should bounce — flatten either and something is blocked.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c9a3230078de41c7817ee90ab9bc357ex512x559.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e65af83b28434665a21238413e6907a3x512x356.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/89193768cde74e8390c96a1692913ba0.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/e7550fdaf1424892a1b2b157be5dc843.JPEG)
+
 `Q8945, Q8946, Q8947`
 
 ---
@@ -64,6 +79,10 @@
 
 **REMEMBER:** *Marrow fails first, gut next, brain last — and only protons stop where you aim them.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/62c4f6d692354217afdc5a9e9ef3ce48x1280x901.JPEG)
+
 `Q8949, Q8977, Q8988`
 
 ---
@@ -84,6 +103,13 @@
 **EXAM CONNECTION:** Flowing anterior ossification with spared sacroiliac joints → **DISH**; bamboo spine → **ankylosing spondylitis**; infant with fever, irritability and mandibular hyperostosis → **Caffey disease**; colour-coded urate deposits → **DECT in gout**.
 
 **REMEMBER:** *Candle wax poured on the front is DISH; bamboo growing from within, with sick sacroiliac joints, is ankylosing spondylitis.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/a8b69e45cd084515b8371f1470720264.JPEG)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/16/36.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/15/20.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/16/37.jpg)
 
 `Q8950, Q9716, Q9713, Q9717`
 
@@ -107,6 +133,22 @@
 
 **REMEMBER:** *CT to exclude blood in minutes; DWI to see the infarct that CT cannot.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f687eb5c7b23433bb7e86db7453bbadcx510x567.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b5ca22c7b8db43bcbd52ab147e76ff71x1280x1751.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/74aa20843eb24f809a03e64b921a6ce9.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/df4d30ae9e2e4896ad833a363362c0ecx512x590.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b5e21cf3e2bc4873bc0cde15d1120611x140x160.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/aba533b9ffc54180be8c46ea2692d2cfx512x512.JPEG)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/15/23.jpg)
+![question](https://cdn1.dailyrounds.org/uploads/9d5a3c6d22a8438497dcbc023b8618b5.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/35bd50943ffe4defb638d2eb8c06fd28x1279x1186.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fd21cd55ab7646578c4cd53d2d385159x600x577.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ee798df373334af1a796790b65496d7bx600x1759.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/5673403979a1498eb5bf914d620bae9d.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/43378e03896145b3b7c0c2a9079863f5x510x537.GIF)
+
 `Q8951, Q8979, Q8980, Q9710, Q8985, Q8975`
 
 ---
@@ -127,6 +169,24 @@
 **EXAM CONNECTION:** Avascular hemithorax with mediastinal shift after trauma → **chest tube insertion**; pneumatocele → ***S. aureus***; miliary nodules "all EXCEPT" → **COVID-19**; anterior mediastinal mass in a young adult → **lymphoma**; snowman heart → **TAPVC**; multicystic lung lesion in an infant → **congenital pulmonary airway malformation**.
 
 **REMEMBER:** *Pattern plus distribution, every time — the nodule alone tells you almost nothing.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/9d5a3c6d22a8438497dcbc023b8618b5.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/35bd50943ffe4defb638d2eb8c06fd28x1279x1186.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fd21cd55ab7646578c4cd53d2d385159x600x577.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ee798df373334af1a796790b65496d7bx600x1759.JPEG)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/15/24.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/16/31_bUstwO9.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/15/25.jpg)
+![question](https://cdn1.dailyrounds.org/uploads/ace1806ebaa8449cbb966f231754cd67.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6dc102b446cc4cd98938483d4817a869x1279x634.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/ed591ce1af0841cf9d7924266a0ad2de.JPEG)
+![explanation](https://cdn1.dailyrounds.org/uploads/8666fba9870348fe81ab3a293c491492.JPEG)
+![explanation](https://cdn1.dailyrounds.org/uploads/b68b2036208e43cc9f6c75d31dd58354.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/06f15432ba984a02b455e6de0fdc6628.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/282333c26be449bd800cfea0159eeb4dx550x354.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fb98f430409147869af505f94c6f6bb0x514x750.JPEG)
 
 `Q8985, Q9711, Q9714, Q9712, Q8981, Q8993, Q8948, Q8983`
 
@@ -149,6 +209,21 @@
 
 **REMEMBER:** *Thick barium for the stomach, thin for the colon — and none at all where it might leak.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/968c42d9a13a44519a5bf89b53a6bb88.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0f6e2f41aa2e4522bb3b8ed6ba5d3053x387x450.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/16392a45e42e446aab529500cf3a925a.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/f8d97fe0fc01427c901be7292c9add08.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0ccdf626947a4e7aae1b2e6f438b866fx607x630.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d5cd5c002496443ca73655a9056b6cb0x720x599.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0e17873830c04ba5a04f2a1e7342a4d3x500x404.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0bf775bd79534304808c77e1325ff00fx1280x2560.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3c1294dda9c8492293da8d16e3fb40e1x720x625.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/74e297fe1b404376bb078f74c5bd9ad7.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/458fc62210274be0bea7f4e734e2f60fx512x210.PNG)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/16/34.jpg)
+
 `Q8978, Q8992, Q8982, Q8991, Q9715`
 
 ---
@@ -169,6 +244,13 @@
 **EXAM CONNECTION:** Salt-and-pepper skull → **hyperparathyroidism**; parietal swelling limited by sutures → **cephalhaematoma**.
 
 **REMEMBER:** *Grainy skull is parathyroid, punched-out is myeloma, cotton wool is Paget.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/0ff7909ab8af4f0ab7233a27e0c58643.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/dd4d8ae5273c4b5293da61850cdf5559.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9621135fec1a4a85a6e32020a22d1cb9x1003x1024.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/42b6c256be964e73944ca3a2aee9efb6x1280x1035.JPEG)
 
 `Q8976, Q8986`
 
@@ -191,6 +273,10 @@
 
 **REMEMBER:** *The left atrium sits under the carina and in front of the oesophagus — every sign is just that anatomy enlarging.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture31.jpg)
+
 `Q9720, Q9752`
 
 ---
@@ -211,6 +297,13 @@
 **EXAM CONNECTION:** Newborn with heart failure and a midline vascular structure → **vein of Galen malformation**; false about temporal-lobe encephalitis → **association with myasthenia gravis**; investigation NOT needed in suspected non-accidental injury → **karyotyping**.
 
 **REMEMBER:** *A newborn in heart failure may have the problem in its head.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/16/48.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/15/6.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/15/13.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/16/40.jpg)
 
 `Q9719, Q9721, Q9723, Q9718`
 
@@ -233,6 +326,12 @@
 
 **REMEMBER:** *Only the dome is inside the peritoneum — burst there and you operate; anywhere else, drain and wait.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/15/2.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/07/19/screenshot-2024-07-19-174619.png)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/16/43.jpg)
+
 `Q9722, Q9750, Q9737, Q9728`
 
 ---
@@ -253,6 +352,12 @@
 **EXAM CONNECTION:** Halo sign after stem cell transplant → **invasive aspergillosis**; comet-tail sign in a miner → **round atelectasis**; MRI better than CT → **Pancoast tumour**; NOT a PET false negative → **tuberculosis**.
 
 **REMEMBER:** *A halo is haemorrhage around a fungus; a comet tail is lung being dragged into folded pleura.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/16/26.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/16/32.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture25.jpg)
 
 `Q9724, Q9727, Q9738, Q9751`
 
@@ -275,6 +380,14 @@
 
 **REMEMBER:** *Mucin scallops the liver; autoimmune pancreatitis swells the whole gland like a sausage.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/16/27.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/16/28.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture16.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture14.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture19.jpg)
+
 `Q9725, Q9726, Q9746, Q9745, Q9749`
 
 ---
@@ -295,6 +408,11 @@
 **EXAM CONNECTION:** Dilated central loops with prominent valvulae conniventes → **proximal small bowel obstruction**; intussusception with free air → **urgent surgical exploration**.
 
 **REMEMBER:** *Valvulae cross the whole lumen, haustra do not — and never push an enema into a perforated bowel.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/07/19/screenshot-2024-07-19-171813.png)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/07/19/screenshot-2024-07-19-171431.png)
 
 `Q9734, Q9733`
 
@@ -317,6 +435,11 @@
 
 **REMEMBER:** *Night pain abolished by aspirin means a nidus — burn it and the disease is cured.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/15/15.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture3.jpg)
+
 `Q9729, Q9741, Q9740, Q9748`
 
 ---
@@ -337,6 +460,12 @@
 **EXAM CONNECTION:** Neck pain and dizziness after chiropractic manipulation → **internal carotid artery dissection**; pulsatile supraclavicular mass → **Doppler ultrasound first**; "street of stones" in the ureter → **complication of ESWL**; febrile UTI in an infant with reflux on MCU → **short intravesical ureteric tunnel**.
 
 **REMEMBER:** *Image a pulsatile lump before you ever put a needle in it.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/15/16.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/15/21.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture17.jpg)
 
 `Q9730, Q9742, Q9732, Q9747`
 
@@ -359,6 +488,11 @@
 
 **REMEMBER:** *Find macroscopic fat and you have usually found something benign.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture11.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/07/19/screenshot-2024-07-19-173953.png)
+
 `Q9744, Q9736`
 
 ---
@@ -379,6 +513,12 @@
 **EXAM CONNECTION:** False about a normal chest radiograph → **that lower-lobe veins contribute significantly to the hilar shadow**; posterior versus anterior rib identification → **posterior ribs are horizontal**.
 
 **REMEMBER:** *Check rotation and inspiration first — most "pathology" is positioning.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/86f614af2eab4519a2937a04e489d58bx1280x1291.JPEG)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture32.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/05/28/screenshot-2024-05-28-121406.JPG)
 
 `Q10111, Q9753, Q9762`
 
@@ -443,6 +583,10 @@
 
 **REMEMBER:** *MRI reads water and iron beautifully and calcium badly — CT does the opposite.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/04/08/picture19_tWnRfgz.jpg)
+
 `Q10192, Q10101, Q10217, Q9996`
 
 ---
@@ -485,6 +629,10 @@
 
 **REMEMBER:** *Few bubbles means high obstruction — and distal gas beside a double bubble means volvulus until disproved.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/05/27/picture16_OO1cI94.jpg)
+
 `Q9763`
 
 ---
@@ -505,6 +653,14 @@
 **EXAM CONNECTION:** Beaded bile ducts on MRCP → **primary sclerosing cholangitis**; post-cholecystectomy pain with a dilated CBD → **ERCP with manometry**; Mercedes-Benz sign → **cholelithiasis**; least useful test in achalasia → **24-hour pH monitoring**.
 
 **REMEMBER:** *Ultrasound then MRCP; keep ERCP for the moment you intend to treat.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/05/27/picture19_szK0zon.jpg)
+![question](https://cdn1.dailyrounds.org/uploads/c99917b8ec7244f690b0cf9fe91b9375.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fb64a26792f3466896a026152aca2b94x510x438.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7f3f7730700343f88eec3c39109ee642x1191x1198.JPEG)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture9.jpg)
 
 `Q9766, Q9910, Q10196, Q9760`
 
@@ -527,6 +683,11 @@
 
 **REMEMBER:** *The inferior mesenteric artery is why a horseshoe kidney never climbs.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/05/27/picture21_bK8Jl8w.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture10.jpg)
+
 `Q9767, Q10213, Q10209`
 
 ---
@@ -547,6 +708,14 @@
 **EXAM CONNECTION:** Hyperdense expansile sinus opacification in an atopic patient → **allergic fungal sinusitis**; ring lesion with chronic ear discharge → **cerebellar abscess**; bilateral thalamic hyperintensity with encephalitis → **Japanese encephalitis**; Wormian bones are least associated with → **achondroplasia**; infant with seizures, hypopigmented macules and ungual fibromas → **tuberous sclerosis**.
 
 **REMEMBER:** *Chronic ear discharge plus a new headache means look inside the skull.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/05/27/picture26.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture8.jpg)
+![question](https://cdn1.dailyrounds.org/uploads/18696bc6d6f4479a83c07f8e2744bdc2.PNG)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/03/image-20230403140605-1.png)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture37.jpg)
 
 `Q9768, Q9759, Q9994, Q10211, Q9755`
 
@@ -569,6 +738,13 @@
 
 **REMEMBER:** *Years of bisphosphonate plus new thigh pain equals a stress fracture until the X-ray says otherwise.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/4130b757fc514071b06f2cb9c29e3401.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/87f1f5f353204be58de21fa963bb4020.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d35ccc8b28ca4fec8570cc11334fdc20x558x599.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/630c14604bca4648b45d5685357dca18x461x599.JPEG)
+
 `Q10214, Q9957, Q10049`
 
 ---
@@ -589,6 +765,11 @@
 **EXAM CONNECTION:** Stable patient after RTA with flank ecchymoses → **CECT**; traumatic pneumothorax with hypotension → **intercostal drain insertion**.
 
 **REMEMBER:** *The unstable patient never goes to the scanner — FAST answers the only question that matters.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture42.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/05/27/picture27.jpg)
 
 `Q9765, Q9757, Q9769`
 
@@ -611,6 +792,13 @@
 
 **REMEMBER:** *Microcysts with a starburst scar are benign; big mucinous cysts in the tail must come out.*
 
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/fe8b52b27c035ab6c63b64249ed7cb0b.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/6df12c501151e38d573c642d3d3bb5c5.webp)
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/60025bbe68e88a74670e4ebc8d156919.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/156fad64a0306edf012a6350f4c64e99.webp)
+
 `Q10219, Q10422, Q10222`
 
 ---
@@ -631,6 +819,11 @@
 **EXAM CONNECTION:** False-positive PET uptake → **urinary bladder**; phaeochromocytoma with negative MRI → **Ga-68 DOTATOC PET**; NOT useful to reduce contrast nephropathy → **doing CE-MRI instead of CECT**; incorrect radiation limit → **pregnant occupational worker 1 mSv/year**.
 
 **REMEMBER:** *Every tracer images a process — so its artefacts are as predictable as its indications.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/a3e2d7e0419e88a92538bb415c021085.webp)
+![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202025-06-04%20163714.png)
 
 `Q10220, Q10402, Q10223, Q10345`
 
@@ -653,6 +846,12 @@
 
 **REMEMBER:** *Striated means patchy tubular flow; persistent means blocked drainage; blank means no function.*
 
+
+**IMAGES:**
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/775369158450a6eb2242ec480aca19f2.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/ec94e614618a58663914892c4c9cd92f.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/d56735e037979903d42f91a34fe12c22.webp)
+
 `Q10224, Q10417, Q10420`
 
 ---
@@ -673,6 +872,12 @@
 **EXAM CONNECTION:** Wall–echo–shadow sign → **chronic cholecystitis with gallstones**; intrahepatic duct dilatation with hepatosplenomegaly and jaundice → **Caroli disease**.
 
 **REMEMBER:** *When the gallbladder disappears into a shadow, look for the three-layer sandwich.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/23f78cda6fd6b322e1b403686ff1d224.webp)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/01/image-20230401205003-1.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/04/29/screenshot-2024-04-29-120104.JPG)
 
 `Q10226, Q10231`
 
@@ -695,6 +900,19 @@
 
 **REMEMBER:** *Tuberculosis pulls the caecum up and opens the valve; Crohn narrows everything it touches.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/6308a9c4c3144e22a7cb9f932a271b15.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/908ca3b342b54293893b64cf5554c95ex720x576.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6eee9afe284e4d9cba8d8f5862f5a2d8x860x1024.JPEG)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/df36a66d7f2fccdaaa03fe4d1f759523.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/629092b496fe67dbb8fbb1855c537330.webp)
+![explanation](https://cdn1.dailyrounds.org/uploads/8fdf619537584e9b9c6241635c98e2b9x267x260.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/b97665cd3a354233b914455b35cba974.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/efbde43fee074ffaa50c29d1481b2d11x422x394.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2560300a6ff5419ea21d6c7c92d01ff0x392x406.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f6d749d25dc9401f994415cbf015b26bx1278x416.PNG)
+
 `Q10300, Q10416, Q10302, Q10360`
 
 ---
@@ -715,6 +933,18 @@
 **EXAM CONNECTION:** Empty delta sign → **cerebral venous thrombosis**; pancake brain → **holoprosencephaly**; NOT a site of physiological calcification → **red nucleus**; treated with gamma knife → **arteriovenous malformation**; wrongly matched with radiotherapy response → **dysgerminoma as radioresistant**; remote afterloading → **brachytherapy**.
 
 **REMEMBER:** *An infarct that ignores arterial territories is venous until proved otherwise.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/aa0d34b1371d4ae7bfbeeba5a816c9e4x1280x1325.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0e7c6941bd094324a343754e29ad5b6ax630x630.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cfd18bef5b9e4f7ba10f87d3f73d4033x928x1068.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/77574f2259034354865128f9d3b3b498x842x963.JPEG)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/07/screenshot-2024-05-07-163401.jpg)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0da0a64582ab4a5091c050689a196d0cx1169x1510.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/5a63eb42dc504e4a84418fe424c6dac1.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/70e224cb8f474989967b054500d2890dx720x720.JPEG)
+![question](https://media.cerebellumacademy.com/media/public/image_iW1H8jJ.png)
 
 `Q10240, Q10291, Q10229, Q10260, Q10383, Q10367, Q10381, Q10418`
 
@@ -758,6 +988,13 @@
 
 **REMEMBER:** *A wedge of chorion means two placentas; a bare T means one — and that changes everything.*
 
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/63611ab5822e453d22594fd4da3008b0.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/9db0b5bf052e540266d55474fafbf086.webp)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture5.jpg)
+![question](https://cdn1.dailyrounds.org/uploads/5c1bfce552ce4e4aa865f973461aadcc.JPEG)
+
 `Q10228, Q10419, Q10384`
 
 ---
@@ -778,6 +1015,11 @@
 **EXAM CONNECTION:** NOT a chest X-ray feature of sarcoidosis → **galaxy sign**; best investigation for a solitary pulmonary nodule → **plain CT**.
 
 **REMEMBER:** *The stage predicts remission — nodes alone usually vanish, fibrosis never does.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/e83c2c281877c3fbbacd6361de157184.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/f663cbde8b9a88f02998bb64cad4fdcb.webp)
 
 `Q10428, Q10438`
 
@@ -800,6 +1042,19 @@
 
 **REMEMBER:** *Free air rises — so the film's position decides which sign you will see.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/18/screenshot-2024-07-18-150100.png)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/03/26/untitled-169.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/23/screenshot-2024-05-23-152745.png)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/03/26/untitled-145.jpg)
+![question](https://media.cerebellumacademy.com/media/public/Screenshot%202025-01-27%20183230.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/23/screenshot-2024-05-23-163521_sTAjDlR.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/23/screenshot-2024-05-23-163534_8I0o2Kl.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/23/screenshot-2024-05-23-163547_HQrbrqm.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/23/screenshot-2024-05-23-163602_nOdKJAL.png)
+![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202025-01-27%20183612.jpg)
+
 `Q11688, Q11692, Q11689, Q11685, Q11691`
 
 ---
@@ -820,6 +1075,16 @@
 **EXAM CONNECTION:** NOT a sign of renal papillary necrosis → **ball and socket sign**; diabetic with flank pain and gas on imaging → **emphysematous infection**; back pain with disc destruction and epidural abscess in an endemic area → **Pott's spine**; periosteal thickening with sclerosis and central lucency → **chronic osteomyelitis**.
 
 **REMEMBER:** *The papilla lives at the edge of its blood supply — and gas in tissue means a diabetic emergency.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/d90740ef9e3d82d53bd4c587fc7e4877.webp)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/05/11/screenshot-2024-05-11-094100.JPG)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/08/19/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_179.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/08/19/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_180.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/08/19/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_181.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/08/19/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_182.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/07/18/screenshot-2024-07-18-151825.png)
 
 `Q10446, Q11697, Q11694, Q11695`
 
@@ -842,6 +1107,10 @@
 
 **REMEMBER:** *Small daily doses let normal tissue repair — that is the entire point of fractionation.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/18/screenshot-2024-05-18-182008.jpg)
+
 `Q11702, Q11684, Q11683`
 
 ---
@@ -862,6 +1131,16 @@
 **EXAM CONNECTION:** Halo sign on breast ultrasound → **fibroadenoma**; fluid-filled lower back mass with no neural elements → **meningocele**; posterior oesophageal impression on the arch study → **aberrant right subclavian artery**; lucent line across the patella → **patella fracture**.
 
 **REMEMBER:** *Wider than tall and smoothly rimmed is benign; taller than wide with a shadow behind it is not.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/05/11/screenshot-2024-05-11-110208.JPG)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/08/19/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_182-2.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/08/19/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_182-3.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/07/18/screenshot-2024-07-18-151449.png)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/07/18/screenshot-2024-07-18-151040.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/18/screenshot-2024-07-18-151135.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/18/screenshot-2024-07-18-151206.png)
 
 `Q11686, Q11687, Q11701, Q11698`
 
@@ -961,6 +1240,10 @@ FAST image question turns on recognising **anechoic fluid in Morison's pouch = p
 
 **REMEMBER:** *Head and neck dry, torso with contrast, limbs stay out.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/03/26/untitled-132.jpg)
+
 `Q11186, Q11189`
 
 ---
@@ -993,6 +1276,10 @@ hierarchy**. Fix the order: **marrow lowest, then gut, then brain.**
 **REMEMBER:** *The faster a tissue divides, the sooner radiation kills it — marrow first,
 neurons last.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/23/screenshot-2024-05-23-114356.png)
+
 `Q11190`
 
 ---
@@ -1022,6 +1309,11 @@ structure — which is why a cyst-within-a-cyst is essentially diagnostic.
 pathognomonic. The **water-lily sign** is the other classic image.
 
 **REMEMBER:** *A cyst inside a cyst with a calcified rind — the dog's tapeworm.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/03/26/untitled-177.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/03/26/untitled-178.jpg)
 
 `Q11194`
 
@@ -1055,6 +1347,14 @@ monophasic artery = disease; sandy beach = normal lung.**
 **REMEMBER:** *Veins flow steadily, arteries bounce three times, and healthy lung looks like
 a beach.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/23/screenshot-2024-05-23-104938.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/23/screenshot-2024-05-23-104951.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/23/screenshot-2024-05-23-105005.png)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/05/27/screenshot-2024-05-27-092554.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/27/screenshot-2024-05-27-102120.jpg)
+
 `Q11200, Q11201`
 
 ---
@@ -1080,6 +1380,13 @@ a direct picture of the anatomy.
 horseshoe kidney; drooping lily = duplex system.**
 
 **REMEMBER:** *A contrast-filled head with a lucent hood — the cobra in the bladder.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/03/31/1_47NZiMk.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/08/19/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_198.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/WhatsApp%20Image%202025-01-27%20at%2018.50.30.jpeg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/08/19/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_199.jpg)
 
 `Q11199`
 
@@ -1113,6 +1420,12 @@ fat = AML; central scar + homogeneous = oncocytoma; water density, no enhancemen
 
 **REMEMBER:** *If a solid renal mass enhances and has no fat, treat it as cancer.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/03/27/untitled-187.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/03/27/untitled-144_IwptMAR.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/23/screenshot-2024-05-23-165250.png)
+
 `Q11202`
 
 ---
@@ -1141,6 +1454,10 @@ therefore a story about **template availability and repair time**.
 the mechanism (sister chromatid template) is the reason.
 
 **REMEMBER:** *After the DNA is copied there is a spare template — so S phase survives.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/23/screenshot-2024-05-23-160416.png)
 
 `Q11230`
 
@@ -1194,6 +1511,16 @@ answer is the one that is **not renally excreted**.
 
 **REMEMBER:** *The lobe that touches the border is the lobe that is diseased.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/f017a40ccdbb4055af27bd46d03deb48.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0be09caf11c144f8956c4a0fed20bed3x1024x472.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d1dfa7b3677b4a0dbbf3c608697f4a17x1280x1645.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a83317ddbc9a42e7b2b7261e28690774x1024x472.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/0102fc775d0945c09f050569178830f2.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/935130413e8844539ca5aa93b5b1bb05x1280x2307.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ee54e3d51b4945a7968846fd90614688x1060x901.PNG)
+
 `MF8222, MA3927, MA3921, MA0995`
 
 ---
@@ -1216,6 +1543,12 @@ answer is the one that is **not renally excreted**.
 
 **REMEMBER:** *Two hila and the right paratracheal node make three.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/7c08f3e499554daa82a94abbaa834206.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/abd5116277e049879e572cba83a97ec2x1280x1170.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/78f7f81bc1f04f4ea823bae7b3045af1x1280x1298.JPEG)
+
 `MC9495, MA3958`
 
 ---
@@ -1235,6 +1568,29 @@ answer is the one that is **not renally excreted**.
 **EXAM CONNECTION:** Grouping questions. Remember that **glioblastoma bleeds rather than calcifies**, and oligodendroglioma does both.
 
 **REMEMBER:** *Slow tumours calcify; fast tumours bleed.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/ba9bd1d6e8e74c1887c9f6809bbd36cd.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fa6ac5d46661431684803b25e0ba8e99x1280x1223.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/5673403979a1498eb5bf914d620bae9d.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fde46e8fdcc2495c9625e22f853411b3x690x808.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/edef59e6ce474e57917af7e2ead9c02fx720x780.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/43378e03896145b3b7c0c2a9079863f5x510x537.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/819de93fd57e45b5b39b52347f9b8358x1048x1040.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9a52a046756f4637a2e00c712932d90ax254x200.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/88f0f69f906b4321ace861b8a4abfe92x442x512.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/005dd7f21675470cad600851cab9e990x1280x960.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/8be21605f63b486bb2124eec2733e7ff.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1f1690155c0e4d0c8dea154ff9b88729x181x181.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2c92c6114a0643f0ab0741d215bffdb6x172x121.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0cf55af2acdd4b3ca9c3eff50412a2b5x155x159.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6dd2003fbbde453b904c3c99eba4bd16x193x159.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/507e530f4b3c4faba01eac509037b78bx784x963.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a7e5c451c38e4dedbdc912ca6a22c4dax1280x1026.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/da30bfdd9fb343269e21219017fbda42x1280x1149.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d7cb2373c2794c4684e64759ca20c19ex647x745.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/917c06cd8b0241e8995ff2379c1b42f0x831x977.JPEG)
 
 `MA3835, MA8648, MC4255, MA3867, MC4621`
 
@@ -1257,6 +1613,21 @@ answer is the one that is **not renally excreted**.
 
 **REMEMBER:** *Boot with dark lungs is Fallot; snowman with white lungs is TAPVR.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/792de6e8218a4a6ca939832fe53726e7.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/114c6399688b45a785592bdea607c98ex1200x1419.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dce745581e9040178cfd76245bc54629x1200x1429.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a5478b2375604b8185e61ef7b6d58230x1024x667.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e026f23af91a405ea89d0f7545d848d2x1280x1561.GIF)
+![question](https://cdn1.dailyrounds.org/uploads/f0f499f2a984479a800629b673562eaa.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d01b7458847f4186bbd0152bf7cf7d64x510x603.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/983b47ffdc5c47dc9956e7bd94da3facx510x494.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b8d455f894f24e8e9c147e7c3a178428x510x558.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ad3fe6b6422548c8856299317c3e47c5x510x522.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c4d273d1af7445fdad02e659555c9e69x510x494.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d07d5041004645849e8cce1dd37bd092x510x640.GIF)
+
 `ME0663, MA3953`
 
 ---
@@ -1278,6 +1649,17 @@ answer is the one that is **not renally excreted**.
 
 **REMEMBER:** *Sand under the waves means the lung is moving.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/3b240ce5323344d7ab461cabce80b751.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3aab0be1d144490b95b9975d3318dbd3x1280x904.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b18baa92b14849fd98f7c2b7a473f0f8x1280x1322.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bbf6f2930622414e9ebcec83be15d2d7x1280x1159.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/9d5a3c6d22a8438497dcbc023b8618b5.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/35bd50943ffe4defb638d2eb8c06fd28x1279x1186.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fd21cd55ab7646578c4cd53d2d385159x600x577.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ee798df373334af1a796790b65496d7bx600x1759.JPEG)
+
 `MF1861, MA0686, MF5404`
 
 ---
@@ -1297,6 +1679,32 @@ answer is the one that is **not renally excreted**.
 **EXAM CONNECTION:** Sign-to-disease matching, and the three Rigler eponyms are deliberately confused in the options.
 
 **REMEMBER:** *Bellows of contrast between swollen folds means C. difficile.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1928b416b39a45cc98c3c85de9ec791ex954x1106.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/544fd7d5c90942b19e9835c4ea94ffe1.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c630f49567ce4b3bb96bc7224c50bf39x1280x780.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0f6e2f41aa2e4522bb3b8ed6ba5d3053x387x450.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b5bdec3be8214149b4321669d20ce417x323x461.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/26d315aabed64925a095dd613db26b5cx720x720.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2581dc5431c74171abcd83814d250beex484x698.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d548af6e9d5a4b16880804dd8b4d6cfax387x450.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/3b3df2a12a594060805eb1692e0b57bd.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7300441f56f043c3ab2f44eaf6f7d6cfx1280x1316.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/49a16946311b4181940af71447f438ccx1280x1282.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3a66aaf0cf744ede802dda0b46924d99x1279x1328.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a8e78c140797481eb09e4bcef9106cd8x720x910.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9513fa34bce3499088a9a4601ae434c4x834x1186.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/20dd99dfcb3e4ffa8728b296b69b5556x284x383.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/81240b80138a476d8f5ca2b40d19c68bx490x600.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fdcc40d8b70549d4b0c489b623ab32c8x720x1526.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c32bbb60d2824af6b74fbd5585c9bb98x1279x1662.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6bf0090dbba54d08bf6d460f3f8c3a01x1279x1642.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cee8aa378b1148b198c0d8a7c9f23822x720x608.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/300e1080a96d4fe19194df39a503fef0x660x476.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/13531a6af0434a64bf763df3a4c61fb8x479x600.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6d13f1689c1141ed93c2e447931546f0x512x683.PNG)
 
 `MA0600, MC5358, MA0586, MA0588`
 
@@ -1319,6 +1727,13 @@ answer is the one that is **not renally excreted**.
 
 **REMEMBER:** *A ball that rolls with gravity is a fungus ball.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/a45d11661b7140a2b141639c15fb5476.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3047b338a39748ab9f377dc72a3a2e04x1280x1667.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9b6bb8c03c1c4fdebe7b8c87e7db2010x1212x1140.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/265efc2c54a84d509c8e1a8089faba8fx450x658.PNG)
+
 `MA0986`
 
 ---
@@ -1340,6 +1755,14 @@ answer is the one that is **not renally excreted**.
 
 **REMEMBER:** *Anterior, right-sided and late-presenting is Morgagni.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/22c212c17faa476dbf408298de122b4e.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9d01b2e105de478fabb683ccb45bc149x1280x1660.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2100a010197040dcb3950fb2541433a9x252x255.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e88016b5d7e345ffb33922a35e0b9a08x468x450.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/97213a6b824346bebf418955ba37f97fx512x402.PNG)
+
 `MF0893`
 
 ---
@@ -1359,6 +1782,12 @@ answer is the one that is **not renally excreted**.
 **EXAM CONNECTION:** "All EXCEPT" formats. Anchor **ARPKD striates, ADPKD does not**, and know that **ball-on-tee (not ball-and-socket)** belongs to papillary necrosis.
 
 **REMEMBER:** *Striations mean sick tubules; cysts mean replaced parenchyma.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d50726d672614185aa3af017c2c26f51.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/02a0180259ff4791973b4e606fc2d286x1280x3761.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2f5f5862005f47ea9dae3e9a023bfc13x1280x1142.JPEG)
 
 `MA8432, MA8433`
 
@@ -1380,6 +1809,11 @@ answer is the one that is **not renally excreted**.
 **EXAM CONNECTION:** The **pigmentation of eyes and nose** is the discriminator that excludes ankylosing spondylitis and DISH.
 
 **REMEMBER:** *Pigment binds collagen, so cartilage darkens and degenerates.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/df31f1cd0d16469abadf81affc2e464d.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/a8b69e45cd084515b8371f1470720264.JPEG)
 
 `MA1502, MD4508`
 
@@ -1422,6 +1856,18 @@ answer is the one that is **not renally excreted**.
 
 **REMEMBER:** *The periosteum stops at the suture, so the cephalhaematoma does too.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/dd4d8ae5273c4b5293da61850cdf5559.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9621135fec1a4a85a6e32020a22d1cb9x1003x1024.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/42b6c256be964e73944ca3a2aee9efb6x1280x1035.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3fa55d5b4d7f42e4a0bba6bb3784ac85x1280x2360.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/37b5b2e3cae7442da4e26ee0a99ac7c3.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ccd0d5aa3f2c49f4a9dfb8e90c5f69b5x1280x1602.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/40523a67a8e44fda91e6d9f596fcff53x1280x1367.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/335c38cfcc744bf38f01ef300dce3c09x1280x1434.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/375683b550704193aaea059adccfc65cx1280x1191.JPEG)
+
 `MF8231, MB6601`
 
 ---
@@ -1444,6 +1890,26 @@ answer is the one that is **not renally excreted**.
 
 **REMEMBER:** *Strands crossing the channel prove it is the false one.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/ed3d3df71e8d4aa6861785a8933d6bed.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5e754c369c91465594f78b4a83905a03x1280x747.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d3cd5efdca5040ae8a6dd8e50f3dc70ex1280x1495.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/873b339846874787b4e3c689738f1a71.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7f11eccce52c42f18a7915eb4c076021x1280x1888.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c4c8753494db4694a4b67e77bcea1502x1280x5795.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/65667801a0fb450ab1af9a1939e7ff8dx1280x1432.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/96f08dd9f0fa4fc694291835f3cd15b3x510x432.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8c59f243f5294b64ac000021835b7b5fx510x396.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/41b99e48f08c46fbb6bafdd542c1891dx1280x955.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0ef0a805761c4ec987831c7a0197d01cx510x418.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5e04c4b1c58a44258a37864e5518899ax510x354.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0eef8c33a1a143e38b966f4ec038a545x1076x711.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/972403fa3d0e48a08e561ff4310101acx510x620.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/96660889c8b34a0f89ee373ebdb60f40x1280x1040.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/91de267cb9594cb6ba98e16f4495780fx443x490.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6353c90095d1471696dac8fa7bd2a3b3x676x568.JPEG)
+
 `MC4008, MB6587`
 
 ---
@@ -1464,6 +1930,12 @@ answer is the one that is **not renally excreted**.
 **EXAM CONNECTION:** Match the waveform to the vessel type first — monophasic is normal in **neither**, and the reasoning differs between arteries and veins.
 
 **REMEMBER:** *Breathing should be visible in a normal leg vein.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c9d8ead89b764e3bab9541fd7b534b34x1280x960.JPEG)
+![explanation](https://cdn1.dailyrounds.org/uploads/3dbabd447e2a4e409ce51818a274fd17.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/abb8db41eea04d79a3b747bbe7969860x1280x636.JPEG)
 
 `MC5357, MG5844`
 

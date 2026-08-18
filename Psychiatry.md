@@ -252,6 +252,12 @@
 
 **REMEMBER:** *Fill the iron stores first; reach for a gabapentinoid, not a dopamine agonist.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/c0052b61135d4aea839710289588fd3f.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/71b5dbf4d86640e5b78dc4df64d08f98x1280x2592.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/159c16f93b7541e4b5663b45d540da78x1062x1682.JPEG)
+
 `Q8899, Q8912`
 
 ---
@@ -357,6 +363,11 @@
 
 **REMEMBER:** *Energy comes back before hope does — watch the patient hardest in the third week.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b23ef537226e48a6889d0ecfe4f96f0d.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/eade6e43293b4095a6eea33c2cc85427x1280x1308.JPEG)
+
 `Q9906, Q10377, Q10108, Q10267`
 
 ---
@@ -377,6 +388,11 @@
 **EXAM CONNECTION:** NOT an immature defence → **sublimation**; incorrectly matched → **genital stage with hysteria** (it is the phallic stage); role of the whistle in Pavlov's experiment → **conditioned stimulus**.
 
 **REMEMBER:** *Suppression is a decision, repression is a disappearance — one is mature, the other is not.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/9a29c19d8f3946b9a9b97f6fafcd7f54.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9d927c604d6c4572afc3181efaad5621x1280x3468.JPEG)
 
 `Q10190, Q9982, Q10370`
 
@@ -462,6 +478,13 @@
 
 **REMEMBER:** *Grouped by the compulsion, not by the anxiety — which is why hypochondriasis moved out.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/12/screenshot-2024-03-12-152634.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/12/screenshot-2024-03-12-152232.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/12/screenshot-2024-03-12-152954.jpg)
+![question](https://cdn1.dailyrounds.org/uploads/aa238c6f54564eb89070cdc1975b62ab.JPEG)
+
 `Q10423, Q10424, Q10425, Q10429, Q10430, Q9916`
 
 ---
@@ -545,6 +568,10 @@
 **EXAM CONNECTION:** Coined "dementia praecox" → **Kraepelin**; thought disorder with emotional disturbance and loosening of associations → **disorganised schizophrenia**; neurotransmitters implicated → **all of the above**; symptom NOT present in a typical psychotic presentation → **catatonic symptoms**; completely immobile and unresponsive → **stupor**.
 
 **REMEMBER:** *Kraepelin named the course, Bleuler named the split, Schneider named the symptoms.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/12/screenshot-2024-03-12-142949.jpg)
 
 `Q11148, Q11149, Q11169, Q10441, Q10442`
 
@@ -651,6 +678,11 @@
 
 **REMEMBER:** *Draw the developmental curve: flat from birth is autism, a fall at one year is Rett, a collapse at four is Heller.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/26f3f33b358940a68e8f87ad4143eab9x600x287.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d8ef5a926c6d468ba9063acd5f2105afx800x533.PNG)
+
 `Q11167, Q11168, Q11159, Q11147`
 
 ---
@@ -671,6 +703,10 @@
 **EXAM CONNECTION:** NOT part of alcohol dependence → **lack of tolerance**; increased in depression → **cortisol**; increased in mania → **noradrenaline**; drug class most likely to cause delirium → **anticholinergics**.
 
 **REMEMBER:** *Depression turns the stress axis on and cannot turn it off.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/13/screenshot-2024-03-13-155020.jpg)
 
 `Q11150, Q11160, Q11163, Q10433`
 
@@ -776,6 +812,10 @@
 **EXAM CONNECTION:** Test of intelligence → **Stanford–Binet**; short-lived emotion → **affect**; true about schism and skew → **skew is more relevant in male children**; students developing a positive attitude to handwashing → **affective learning**.
 
 **REMEMBER:** *Affect is today's weather; mood is the season.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/25/screenshot-2024-05-25-170300.jpg)
 
 `Q11180, Q11182, Q11882, Q11960, Q11880`
 
@@ -1217,6 +1257,12 @@ delirium tremens.*
 
 **REMEMBER:** *REM sleep leaking into the waking day.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/8f0dac50232a4eedac4dc9f639dfcb4e.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f57a309d87e9465dbf87fa566138b76bx1280x944.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e189481359b14d4fbee07cd798b5f043x1280x2592.JPEG)
+
 `MA5331, MF5078, MA5964`
 
 ---
@@ -1238,6 +1284,10 @@ delirium tremens.*
 **EXAM CONNECTION:** The stem's giveaway is the **abrupt, episodic, situationally triggered surge with a sense of impending doom** — episodic distinguishes it from GAD, and the absence of a social/performance focus distinguishes it from social anxiety.
 
 **REMEMBER:** *It is the fear of the next attack that makes it a disorder.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6ab1892272934b0792b8745017664ccfx1280x6841.JPEG)
 
 `MD0861, MF1455`
 

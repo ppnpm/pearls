@@ -21,6 +21,13 @@
 
 **REMEMBER:** *Mycolic acid holds the dye — the more mycolic acid, the stronger the acid you need to wash it out.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/36a8ddd4a8b4470887ee5a0e96ad88ad.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1afc227efd4c4caab4c862cd30d6d737x720x501.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/04f6afcd0f024dbbad620fb7f59e820ax305x235.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dfdfa4e8cbe2459eb59843248b4de506x1280x2413.JPEG)
+
 `Q9331`
 
 ---
@@ -42,6 +49,10 @@
 
 **REMEMBER:** *Mould in the cold, yeast in the beast — except Coccidioides, which makes a spherule.*
 
+
+**IMAGES:**
+![question](https://daily-rounds-staging.s3.amazonaws.com/uploads/2e437e6966bf4e789ac10bf9b1222e76.JPEG)
+
 `Q9332, Q9334`
 
 ---
@@ -62,6 +73,10 @@
 **EXAM CONNECTION:** "Mucus in stool with abdominal pain" → ***Entamoeba***; life-cycle/microscopy spotters → **Giardia**.
 
 **REMEMBER:** *Giardia sticks and starves you; Entamoeba digs and bleeds you.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/6faccf5c3c43457a82d9a5b5e3f00143.JPEG)
 
 `Q9333, Q9343`
 
@@ -127,6 +142,11 @@
 
 **REMEMBER:** *Glucan catches most fungi — but not the capsule-wearing Cryptococcus or the ribbon-shaped Mucor.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/98b03b33d5754140b261f3fa6e67c329.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b56b0fefcc8a4f61959ee5a6680bcaf0x567x425.JPEG)
+
 `Q9337, Q9338, Q9339`
 
 ---
@@ -148,6 +168,12 @@
 **EXAM CONNECTION:** Oocyst size is given in the stem for a reason — **it is the answer**.
 
 **REMEMBER:** *Small and round is Crypto, middle is Cyclospora, big and oval is Cystoisospora.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/832e73804a10421bbacc4ed14006e7f4.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/eb7670963b1046c88ea8a938f3e3ac9ax508x368.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9ffc8bed88464893a60488eefaae23a1x512x284.JPEG)
 
 `Q9340`
 
@@ -171,6 +197,10 @@
 
 **REMEMBER:** *Bacitracin for Group A, optochin for pneumococcus — small discs, big answers.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/6b2b4c2213364ff4a8469a2038aacb12.PNG)
+
 `Q9341`
 
 ---
@@ -191,6 +221,10 @@
 **EXAM CONNECTION:** Life-cycle diagrams showing a free-living cycle plus autoinfection → ***Strongyloides***.
 
 **REMEMBER:** *The only worm that reinfects you from inside — and steroids turn it lethal.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d56d5520329b4aceb6b6e248aabc0b56.PNG)
 
 `Q9342`
 
@@ -235,6 +269,11 @@
 **EXAM CONNECTION:** Egg image → identify the worm → name the drug. The drug class map is what is really being tested.
 
 **REMEMBER:** *Flat worms take praziquantel; round worms take albendazole.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/575f7b66bd404923adc47c0cfb1ddb4c.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/64af404af17d4eeabd9e06632e4993cfx520x435.GIF)
 
 `Q9346`
 
@@ -343,6 +382,10 @@
 
 **REMEMBER:** *Same protease, opposite paralysis — botulinum stops at the muscle, tetanus climbs to the cord.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/cc7e91efa2fb4b08a31fa9ace2fc4517.JPEG)
+
 `Q9351`
 
 ---
@@ -365,6 +408,10 @@
 
 **REMEMBER:** *Inside the neutrophil but happy on agar — facultative, not obligate.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/2d2b8a14b1804d32aac112e7e610423e.JPEG)
+
 `Q9352`
 
 ---
@@ -385,6 +432,10 @@
 **EXAM CONNECTION:** "Why CLED over MacConkey for UTI" → **it supports Gram-positives and Candida** (the swarming and lactose facts are true but are not the reason).
 
 **REMEMBER:** *MacConkey deliberately kills Gram-positives — and in urine, Gram-positives are the pathogens.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c853fc6818544389a60e58d0d9aaabf5x762x542.JPEG)
 
 `Q9353`
 
@@ -407,6 +458,10 @@
 **EXAM CONNECTION:** "Multiple alveolar-like liver lesions" → ***E. multilocularis***; water-lily sign → ***E. granulosus***.
 
 **REMEMBER:** *Granulosus makes one balloon; multilocularis behaves like a cancer.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1d0bcc0948bf4d86abcdd120d6a227bax600x667.JPEG)
 
 `Q9354`
 
@@ -493,6 +548,10 @@
 
 **REMEMBER:** *The larva that cannot get past your basement membrane — it just wanders and itches.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/3b8a484a168d48bb85ddd8073ec4ce80.PNG)
+
 `Q9359`
 
 ---
@@ -514,6 +573,11 @@
 **EXAM CONNECTION:** "All true about scrub typhus EXCEPT" → **produces non-lactose-fermenting colonies on MacConkey** (it cannot be cultured).
 
 **REMEMBER:** *Hunt for the eschar, give doxycycline, and never expect it to grow on agar.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/61ac0c154e914348823174a08e684029.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f93002cb68d049b69cd27402f33161ddx1280x2163.JPEG)
 
 `Q9362, Q9364`
 
@@ -624,6 +688,10 @@
 
 **REMEMBER:** *Cover with steroids first — the danger comes when the cyst dies, not while it lives.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/eef83360be9448318ec488874710dbf2x468x455.JPEG)
+
 `Q9368`
 
 ---
@@ -644,6 +712,10 @@
 **EXAM CONNECTION:** "Disruption of what causes the watery diarrhoea" → **zonula occludens** (tight junctions).
 
 **REMEMBER:** *Cholera jams the cAMP switch on and unzips the tight junctions — the mucosa itself is untouched.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6ea04de118f64753a4f1880a6ca9b4ecx1280x1516.JPEG)
 
 `Q9369`
 
@@ -689,6 +761,11 @@
 
 **REMEMBER:** *If you can see the clump, you don't need a label.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d66d0147c39d4167bd2f1bd64e7a939e.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/399df01b60164f3998793e000dbf7629x1279x917.JPEG)
+
 `Q9374, Q9396`
 
 ---
@@ -731,6 +808,11 @@
 **EXAM CONNECTION:** Labelled tube diagram → the ova are at the **bottom (sediment)**.
 
 **REMEMBER:** *Formalin fixes, ether takes the fat up top, and the eggs sink to the bottom.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/30e9e03c2026400fb8bdba9cdaf54eb6.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/25e07a845e4f478cbc40f6dca7bce8bdx1280x1753.PNG)
 
 `Q9377`
 
@@ -835,6 +917,10 @@
 
 **REMEMBER:** *Discs give a zone and a category; dilutions give a number.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/75fe4859fbd949cf919ed0173887733ex234x175.JPEG)
+
 `Q9390`
 
 ---
@@ -923,6 +1009,10 @@
 
 **REMEMBER:** *DNA viruses inclose in the nucleus, RNA viruses in the cytoplasm — poxvirus and rabies are the ones to remember by name.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0bb5ebf2e6424f1ca1e40c95cb94e659x510x499.GIF)
+
 `Q9395`
 
 ---
@@ -988,6 +1078,11 @@
 
 **REMEMBER:** *Parasites everywhere and a normal-looking mucosa — that is Giardia.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/21b32f8da69c4f20a28f96c022429b3f.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5e90b1ac26544eaa8ea2e1099cc38096x1280x853.JPEG)
+
 `Q9398`
 
 ---
@@ -1009,6 +1104,10 @@
 **EXAM CONNECTION:** "Which organism produces a superantigen" → ***S. pyogenes*** (and *S. aureus*).
 
 **REMEMBER:** *A superantigen glues MHC to the T-cell receptor from the outside — no specificity, just a cytokine storm.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/712d6a8ea7f54478896129e1a83cf088x1279x1284.JPEG)
 
 `Q9401`
 
@@ -1052,6 +1151,11 @@
 
 **REMEMBER:** *Lipid A anchors LPS and triggers your own TLR4 — the shock is self-inflicted.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/310787ee940f4ea49de4204905dfb465.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/43c5bd5175374eb1ac97ec8c02c3569fx1280x1147.JPEG)
+
 `Q9404`
 
 ---
@@ -1074,6 +1178,15 @@
 
 **REMEMBER:** *Violet, iodine, acetone, safranin — and Albert's stain for the diphtheria granules.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/fc86612806e5486782aa454becc22894.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0399c8760a2f4378b3592f3f4c02e1f9x1280x848.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1e97b78504b54720999e9411c4f5737ex503x500.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4a89848d72624fbc888d1552117942c4x840x1198.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/95cc77d0ce4746a7ba900f911b7fd9c4x700x867.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/93fcb8c5d9784cf1a8bc77cb9d7abdfax698x500.JPEG)
+
 `Q9405`
 
 ---
@@ -1093,6 +1206,14 @@
 **EXAM CONNECTION:** Sclerotic/copper-penny bodies in a forest or agricultural worker → **chromoblastomycosis** by a **dematiaceous fungus**, which **does not invade deeper structures**.
 
 **REMEMBER:** *Copper pennies in the skin — pigmented fungus, stays superficial, never reaches bone.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1dab708aed9e4f1d9fff652063fd549ex958x640.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/67bcde742f734e83809c0375126ae080.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/305c0ce25d09419e98766d4e419a9b2ax1200x900.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5f005a07ec604403882710dae4bd4b87x1120x1791.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/41e61ecf4e4d45a7946828f53ca22576.JPEG)
 
 `Q9407, Q9416, Q9426`
 
@@ -1135,6 +1256,13 @@
 **EXAM CONNECTION:** Lancet-shaped Gram-positive diplococci → **catalase-negative, optochin-sensitive**.
 
 **REMEMBER:** *Lancet-shaped pairs, dissolved by bile, killed by optochin — pneumococcus.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/c9023f5b99234316bf8eb60772aef8f5.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9a5ff5213e9046e1a5d7d5e97e6e0cabx720x1018.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5d218f20a93145dca8c7437508cf89fex720x604.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c2a0f71ea8d9452b8f003db82701643ex1280x2558.JPEG)
 
 `Q9409`
 
@@ -1179,6 +1307,11 @@
 
 **REMEMBER:** *Cough, coryza, conjunctivitis, Koplik — then the rash comes down from the face.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/40c03f347d7345dba088e2aee6f6861ax700x463.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6a1134b0363f4e87acf77099ac7964f2x1280x1085.JPEG)
+
 `Q9412`
 
 ---
@@ -1221,6 +1354,20 @@
 
 **REMEMBER:** *Only a segmented genome can be shuffled — influenza and rotavirus.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/f0b22c9decfb445f81434f0ed1acafd8.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a9822f159d464e0187b8bc5702ddbc1ax1280x1177.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8dee85296ad74c20ac31b2c2c67a0b7fx1280x1177.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/70dcca97c44b4454996fd636e75cb8dcx1280x1178.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1aac9ca34ba5436896852c07a52480e9x1280x1179.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/2d5b14ba290f40f49e56b4b88d141bf5.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/80512876fd5648ab84faf65c59b088e5x224x205.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/80db3742352a496285e7bc6f94abd743x1279x1476.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/22d28e5fd2964d669392aa2813c566e9x1069x1028.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5da4de4aea9d47719fcba1b974208ca4x1280x912.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b2e99e3019dc4c51aa8619d90fae6e05x363x291.JPEG)
+
 `Q9415, Q9427`
 
 ---
@@ -1242,6 +1389,12 @@
 **EXAM CONNECTION:** The cell containing the morula IS the answer — monocyte → *Ehrlichia*; neutrophil → *Anaplasma*.
 
 **REMEMBER:** *Mono for Ehrlichia, granulocyte for Anaplasma — doxycycline for both.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d807c7b033ba4aa3b41c3fe062d52df1.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e669095e46c047969ae305e102d766fbx358x286.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/90ff2ff932114bd196eb617f3874d515x358x286.JPEG)
 
 `Q9417, Q9420`
 
@@ -1285,6 +1438,10 @@
 **EXAM CONNECTION:** "Incorrect pair" → **non-erosive arthritis – SLE patients** (it is healthy adults).
 
 **REMEMBER:** *B19 stops the red cell factory for a week — harmless unless your red cells are already dying fast.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cc6bd331f6574d53bdf78b0306474859x720x537.PNG)
 
 `Q9423`
 
@@ -1396,6 +1553,14 @@
 
 **REMEMBER:** *Epidermophyton skips hair, Microsporum skips nails, Trichophyton takes everything.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/025701ba25864f828867f59e7f8cce2b.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f3487034f9f546b5925250156a97a71bx1030x630.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1954e826b0374bdea9d25bfa1fb6f11ax416x585.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a4c6eab421f646bdb2af87449000c5aax329x329.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a3af12e85e0142fd92a4319a305d641cx225x170.PNG)
+
 `Q9432`
 
 ---
@@ -1418,6 +1583,10 @@
 
 **REMEMBER:** *Draw the blood when the mosquito bites — between ten at night and two in the morning.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f7253091b8064667aa7a6a122b40b285x439x319.PNG)
+
 `Q9434`
 
 ---
@@ -1439,6 +1608,11 @@
 **EXAM CONNECTION:** Pleomorphic Gram-negative bacilli in CSF → **satellitism around *S. aureus***.
 
 **REMEMBER:** *Staph breaks the red cells open and feeds Haemophilus its NAD — that is satellitism.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/679ecf5c85e1411db194e479ed6f3df6x348x324.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/058873d713c04ae7a0ab4e4bc4392986x510x453.GIF)
 
 `Q9437`
 
@@ -1482,6 +1656,10 @@
 
 **REMEMBER:** *Meningococcus wears a capsule; gonococcus does not — and the group B capsule looks like human tissue.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/4fec6766e7f049818bf67ed1df4549c5.PNG)
+
 `Q9439`
 
 ---
@@ -1501,6 +1679,10 @@
 **EXAM CONNECTION:** Negative in low dilutions, positive in higher ones → **antibody excess (prozone)**.
 
 **REMEMBER:** *Too much antibody caps every site and no lattice forms — dilute it and the reaction appears.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/943f9958a4f1498088b432ca3e0cb4d7x1280x1481.JPEG)
 
 `Q9440`
 
@@ -1524,6 +1706,12 @@
 
 **REMEMBER:** *Ticks carry almost everything; mites carry scrub typhus; lice carry epidemic typhus.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b3b44a0682c84f409578b38b0646f2f6.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9ef77ca8a029448e87aed74495f938ffx1030x978.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b2f4191524a744a38b169d1037072676x720x540.JPEG)
+
 `Q9441, Q9886`
 
 ---
@@ -1545,6 +1733,10 @@
 **EXAM CONNECTION:** "Actin-based cell-to-cell spread" → ***Listeria***; "motility" → **motile at 25 °C, non-motile at 37 °C**.
 
 **REMEMBER:** *It rockets on your own actin from cell to cell — antibodies never see it, and cephalosporins never touch it.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4264a8dace0043789498c544ca6def6ex720x734.GIF)
 
 `Q9444, Q9446`
 
@@ -1569,6 +1761,13 @@
 
 **REMEMBER:** *Falciparum sequesters, so you see only rings and bananas in blood that is never enlarged.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/05/screenshot-2024-03-05-112048.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/05/picture20.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/05/picture23.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/05/screenshot-2024-03-05-114810.jpg)
+
 `Q9471, Q9472, Q9630, Q9631, Q9632, Q9633`
 
 ---
@@ -1589,6 +1788,12 @@
 **EXAM CONNECTION:** "Least likely to cause autoinfection" → ***Hymenolepis diminuta***.
 
 **REMEMBER:** *CHEST — Crypto, H. nana, Enterobius, Strongyloides, T. solium.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/04/screenshot-2024-03-04-190536.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/04/screenshot-2024-03-04-190749.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/05/picture54.jpg)
 
 `Q9626, Q9639, Q9640`
 
@@ -1612,6 +1817,10 @@
 
 **REMEMBER:** *A narrow neck and a wide base — the flask-shaped ulcer of the caecum.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/04/picture71.jpg)
+
 `Q9627`
 
 ---
@@ -1632,6 +1841,10 @@
 **EXAM CONNECTION:** True statement about PAM → **it is commoner in tropical climates** (and NOT faeco-oral, NOT acute for *Acanthamoeba*).
 
 **REMEMBER:** *Naegleria swims up the nose and kills in days; Acanthamoeba drifts in the blood and smoulders — or eats a contact-lens cornea.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/05/screenshot-2024-03-05-100242.jpg)
 
 `Q9628`
 
@@ -1655,6 +1868,10 @@
 
 **REMEMBER:** *Bihar and the Gangetic plain — sandflies in mud walls, and no animal reservoir to hide in.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/05/picture14.jpg)
+
 `Q9629`
 
 ---
@@ -1677,6 +1894,10 @@
 **EXAM CONNECTION:** Read two variables — **number of prior doses** and **time since the last dose** — then apply the 5-year/10-year rule.
 
 **REMEMBER:** *Three doses and a memory means toxoid alone; no memory means immunoglobulin too.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7072435aef93478683f601da12a14192x610x458.PNG)
 
 `Q9947`
 
@@ -1741,6 +1962,10 @@
 
 **REMEMBER:** *Two signals or nothing — and only a dendritic cell can give a naive T cell both.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/10226498d4f14accbc321452d6f3d620x1280x1839.JPEG)
+
 `Q10008`
 
 ---
@@ -1763,6 +1988,10 @@
 
 **REMEMBER:** *Rodent flea to bubo to lung — and only the lung form spreads between people.*
 
+
+**IMAGES:**
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/08199ba04450e8aafd18da53148aee33.webp)
+
 `Q10045`
 
 ---
@@ -1783,6 +2012,10 @@
 **EXAM CONNECTION:** "Second intermediate host" → **freshwater fish**; "true about the parasite" → **operculated egg is diagnostic**.
 
 **REMEMBER:** *Copepod first, fish second, man last — and the worm eats your B12.*
+
+
+**IMAGES:**
+![explanation](https://cdn1.dailyrounds.org/uploads/375754eb7f9044f59d63ff71a1a014b0x404x317.PNG)
 
 `Q10050`
 
@@ -1846,6 +2079,17 @@
 **EXAM CONNECTION:** "Valley fever/desert rheumatism" → **coccidioidomycosis**; narrow-based budding 2–4 µm yeast → **histoplasmosis**.
 
 **REMEMBER:** *Deserts give spherules; river valleys and bat caves give intracellular yeasts.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/17db3705808240c9adb0cb8896490f40.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/28a1a4b1979844aa9633927f5f3905f2x544x430.JPEG)
+![explanation](https://cdn1.dailyrounds.org/uploads/441c0e794587449cb99dd12d8b9938ee.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0eb743b778a54477a01712589ecfe242x958x666.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/10ff7c5c755044939c412289187c7306x960x720.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f10f38b8c46748d78bc1a1fdaccebad2x958x649.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cf4305a289564b899dc71aab4dfcf97fx958x656.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3ea8438058004e40912aaa8c1667141fx800x524.JPEG)
 
 `Q10115, Q10323`
 
@@ -1913,6 +2157,10 @@
 
 **REMEMBER:** *West is chronic with big neck nodes; East is fast, fierce and comes from game animals.*
 
+
+**IMAGES:**
+![question](https://image.prepladder.com/notes/XCgE1R7gujCnnAYTwgbH1744454970.png)
+
 `Q10165`
 
 ---
@@ -1956,6 +2204,10 @@
 
 **REMEMBER:** *Streak to isolate, lawn to test sensitivity, pour plate to count.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e64cfd0a5fae4677866d86de0cace7d6x1280x7594.JPEG)
+
 `Q11061`
 
 ---
@@ -1976,6 +2228,10 @@
 **EXAM CONNECTION:** "CX3C or delta chemokine" → **fractalkine**.
 
 **REMEMBER:** *Count the amino acids between the cysteines — three means fractalkine, the only one of its kind.*
+
+
+**IMAGES:**
+![explanation](https://cdn1.dailyrounds.org/uploads/b16f109e1b684f12a7f34ee438f17119x601x416.PNG)
 
 `Q11065`
 
@@ -2041,6 +2297,10 @@
 
 **REMEMBER:** *Smooth narrowing is oedema and croup; a shaggy trachea with membranes is staph and an emergency.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/Picture2_mz2twvQ.png)
+
 `Q11369`
 
 ---
@@ -2104,6 +2364,10 @@
 
 **REMEMBER:** *Neisseria's endotoxin is short (LOS) — but it is the one that kills fastest.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/09/11/whatsapp-image-2023-07-04-at-125641.jpg)
+
 `Q11341`
 
 ---
@@ -2124,6 +2388,10 @@
 **EXAM CONNECTION:** "Dimorphic fungus involving subcutaneous layers" → **Sporothrix** (the distractors chromoblastomycosis and rhinosporidiosis are also subcutaneous but not dimorphic in this sense).
 
 **REMEMBER:** *Thorn prick, then a ladder of nodules climbing the arm — Sporothrix.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/07/picture12333.jpg)
 
 `Q11343`
 
@@ -2146,6 +2414,10 @@
 
 **REMEMBER:** *HA gets in, NA gets out — and uniquely for an RNA virus, the copying happens in the nucleus.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/03/30/1-micro-12.jpg)
+
 `Q11348`
 
 ---
@@ -2166,6 +2438,10 @@
 **EXAM CONNECTION:** Bone marrow image with intracellular amastigotes → asked which statement is true. The traps are "obligate **extra**cellular" and "stibogluconate first line in India".
 
 **REMEMBER:** *Inside macrophages, so look in the buffy coat, marrow or spleen — and treat with liposomal amphotericin B.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/03/30/untitled-274.jpg)
 
 `Q11350`
 
@@ -2210,6 +2486,11 @@
 
 **REMEMBER:** *Birds keep it, pigs multiply it, Culex carries it, man is a dead end.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/07/02/screenshot-2024-07-02-173342.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/03/31/1_XhS7DFx.jpg)
+
 `Q11354`
 
 ---
@@ -2240,6 +2521,11 @@ give-away phrase for arthrospores.
 
 **REMEMBER:** *Arthro = joints of the hypha snapping into bricks.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/08/screenshot-2024-03-07-103455.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/08/screenshot-2024-03-07-103700.jpg)
+
 `Q9559`
 
 ---
@@ -2268,6 +2554,12 @@ a **severely inflammatory** lesion.
 and the **Wood's lamp fluorescence → ectothrix → Microsporum** link.
 
 **REMEMBER:** *Microsporum sits outside and glows; Trichophyton hides inside and doesn't.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/08/picture16.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/08/picture23.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/08/screenshot-2024-03-07-115808.jpg)
 
 `Q9560, Q9563`
 
@@ -2306,6 +2598,11 @@ needs surgery — the fungal one.**
 
 **REMEMBER:** *EU = fUngal, needs the knife; Actino = bacteria, cured by drugs.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/08/picture24.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/08/screenshot-2024-03-07-120416.jpg)
+
 `Q9562`
 
 ---
@@ -2339,6 +2636,13 @@ sputum + stool. Watercress → Fasciola. Raw fish → Clonorchis → cholangioca
 
 **REMEMBER:** *Only the lung fluke gets coughed up — so only Paragonimus is in sputum.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/05/picture43.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/05/picture44.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/05/screenshot-2024-03-05-135544.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/05/picture50.jpg)
+
 `Q9564, Q9565`
 
 ---
@@ -2368,6 +2672,10 @@ analogues** (tenofovir, entecavir, lamivudine) that also treat HIV, and it forms
 **partially double-stranded**.
 
 **REMEMBER:** *A DNA virus that reverse-transcribes, with one strand left unfinished.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/06/picture60.jpg)
 
 `Q9566`
 
@@ -2459,6 +2767,10 @@ demonstration.
 
 **REMEMBER:** *Painless and hard, corkscrewing in the dark.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/2de630460d5f456a94e9f03dc0758cdb.PNG)
+
 `Q10836`
 
 ---
@@ -2531,6 +2843,10 @@ diplococci on the smear diagnostic in men.
 **REMEMBER:** *Gram-negative diplococci inside the pus cell — oxidase positive, pilus
 powered.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/10/20/picture6_5TwLnsp.jpg)
+
 `Q10881`
 
 ---
@@ -2571,6 +2887,11 @@ gametocytes** or **appliqué forms**. Enlarged red cells with Schüffner dots me
 **REMEMBER:** *Only rings and bananas circulate — everything else is stuck to the
 endothelium.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture30_lqTpbJZ.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture31_J54vSYe.jpg)
+
 `Q10872, Q9580`
 
 ---
@@ -2602,6 +2923,10 @@ cue; the follow-up asks about **transmission (contact, not airborne)** or the **
 
 **REMEMBER:** *Bats to apes to people, by touch — and the fluids stay infectious after
 death.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/untitled-442.jpg)
 
 `Q10883`
 
@@ -2678,6 +3003,10 @@ swallowed egg**; the distractors offer larval penetration (hookworm/Strongyloide
 (Taenia).
 
 **REMEMBER:** *Plugged barrel egg goes in by mouth; larvae go in through the feet.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/24/screenshot-2024-04-24-144659.JPG)
 
 `Q10939`
 
@@ -2776,6 +3105,13 @@ erythema multiforme.
 **REMEMBER:** *One ring that grows = Lyme; many true targets on the hands = multiforme;
 fleeting rings on the trunk with carditis = marginatum.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/04/24/screenshot-2024-04-24-143657.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/04/24/screenshot-2024-04-24-143708.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/04/24/screenshot-2024-04-24-143723.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/04/24/screenshot-2024-04-24-143733.png)
+
 `Q10945`
 
 ---
@@ -2838,6 +3174,14 @@ right-angle = Mucor; narrow, septate, acute-angle = Aspergillus.**
 **REMEMBER:** *Ribbons at right angles, in a sugar-rich acidotic patient — cut it out and
 give amphotericin.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/44d03faba1df4a508acdf97b56cdc0e2.JPEG)
+![explanation](https://cdn1.dailyrounds.org/uploads/e4fbf03894b64b849d892a65eb8b1483.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6a9c672ec39a47c58da985c3d87090e7x1200x800.JPEG)
+![explanation](https://cdn1.dailyrounds.org/uploads/f3f1aa81c9f447c5a5ced34814f830b3.JPEG)
+![explanation](https://cdn1.dailyrounds.org/uploads/3c54740451584c91ba909094bfbf2545.JPEG)
+
 `Q10994`
 
 ---
@@ -2868,6 +3212,12 @@ the **tick list** and remember that **scrub typhus is the mite-borne outlier**.
 
 **REMEMBER:** *Ticks carry almost everything — but the chigger keeps scrub typhus for
 itself.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b3b44a0682c84f409578b38b0646f2f6.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9ef77ca8a029448e87aed74495f938ffx1030x978.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b2f4191524a744a38b169d1037072676x720x540.JPEG)
 
 `Q11023`
 
@@ -2900,6 +3250,10 @@ existence of two separate drug classes — **maraviroc (a CCR5 antagonist)** and
 (gp41)** and from the **host co-receptors (CCR5/CXCR4)**. Read the verb in the stem.
 
 **REMEMBER:** *gp120 grabs, gp41 fuses.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/20ae6e1960c24f3b921c3c7d7fcebbf4x642x720.PNG)
 
 `Q11036`
 
@@ -2974,6 +3328,11 @@ different mechanism.
 
 **REMEMBER:** *A superantigen skips the groove and shouts at every T cell at once.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/76f47b45ba144f86b8ca9883ac5f9199.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/712d6a8ea7f54478896129e1a83cf088x1279x1284.JPEG)
+
 `Q11051`
 
 ---
@@ -3001,6 +3360,12 @@ heart, kidneys, nerves and adrenals.
 Pseudomonas exotoxin A are the two answers.
 
 **REMEMBER:** *Diphtheria stops the ribosome from stepping forward — EF-2 is the target.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/264f519be18b45609a151e5a95fd2724.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/46a83737e0f94fa5a3bc9152efe1d443x1280x1204.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c318390bddb84dda9631fb37a8d98f3dx1279x1939.JPEG)
 
 `Q11045`
 
@@ -3033,6 +3398,11 @@ the test for **pemphigus, pemphigoid and glomerulonephritis**, not for serum.
 
 **REMEMBER:** *Indirect finds antibodies floating in serum; direct finds them already stuck
 in tissue.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6fdbee5356f744abb37f074deec0d402x1280x1080.JPEG)
+![explanation](https://cdn1.dailyrounds.org/uploads/2ecba17c26f241c7bf76c518456d5847.PNG)
 
 `Q11047`
 
@@ -3096,6 +3466,10 @@ knees** — and never disseminates in the immunocompetent.
 
 **REMEMBER:** *Aquarium hand, cool-loving mycobacterium that only colours in the light.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/8eeb12c941744fe4b32756c24441967c.JPEG)
+
 `Q11813`
 
 ---
@@ -3127,6 +3501,10 @@ Everything about stains, morphology and co-trimoxazole is true.
 
 **REMEMBER:** *You cannot grow it — you can only stain it black with silver.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5f062a1568b64ef6b003635283f2e591x720x479.JPEG)
+
 `Q11819`
 
 ---
@@ -3148,6 +3526,10 @@ Everything about stains, morphology and co-trimoxazole is true.
 **EXAM CONNECTION:** The stem lists three warning signs and one severity criterion. Learn which side of the line each item sits on.
 
 **REMEMBER:** *Warning signs predict; organ failure defines.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/87393961ada7455c9dfb916aecbaad44x720x531.JPEG)
 
 `MG1192`
 
@@ -3171,6 +3553,11 @@ Everything about stains, morphology and co-trimoxazole is true.
 
 **REMEMBER:** *Allantoic for vaccine, amniotic for isolation.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/9963cf252e214be2a8247ff7ed0965a1.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1d7806bf5e5b4fe8a325cfa18450c809x1280x2559.JPEG)
+
 `MA7575`
 
 ---
@@ -3190,6 +3577,16 @@ Everything about stains, morphology and co-trimoxazole is true.
 **EXAM CONNECTION:** Pure number recall — and note the units, since "12–13 days" and "12–13 hours" are both offered.
 
 **REMEMBER:** *Leprosy doubles in a fortnight; E. coli in a coffee break.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/4bda1adef86949098ede5d97b23a2955.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4469292b83cb40ce8e573d63c602d72dx720x464.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/11eaa63515774753a7d0a2f0413b55c9x1280x960.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6875e86bc33e4db1b984d098ca88f0aax1280x960.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/3727c5c477704f1ba353331bf774ed68.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f1c4c07ede354d4582f1ccb63b3e2beax720x666.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8d6225a1ac1242b2b91995eff21c5051x510x465.GIF)
 
 `MA2064, MF7471, MD0949, MC7102`
 
@@ -3233,6 +3630,21 @@ Everything about stains, morphology and co-trimoxazole is true.
 **EXAM CONNECTION:** Both organisms are oxidase-positive and ferment glucose — options A and B are deliberately shared. Only **maltose** separates them.
 
 **REMEMBER:** *Meningococcus Gets Maltose; Gonococcus Gets Glucose only.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/48d2ba254fc0410f925d202060935357x1280x769.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/e69ec681aaa64f33b5c0ebc4b28e826d.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8ba0cafb8f724e8caf99ab7778d022acx630x761.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4aaa8224b2e7443e94743e1015a44778x560x358.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/875f994ab0a44d3a8d26f376c6b54874x597x313.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/03d21e32213a42c9ab3487da627b053ex336x288.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6faad0dd79004ce4898a0d4ec94391e9x495x711.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/be01c14fe5b34f6fb923eca0f40d42cex253x357.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f4fd185c143045fe944bb99f1299a4bbx379x412.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1167210a9cd6434a905a98bc64668d41x1280x2612.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/18d812e3f73748129e5bd6360116b53c.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ff3f9c5ab3b844eca341bdbc09fd4bc8x720x705.JPEG)
 
 `MA1622, MG7084, MD6628, MD6640`
 
@@ -3297,6 +3709,10 @@ Everything about stains, morphology and co-trimoxazole is true.
 
 **REMEMBER:** *The enzyme that eats the colony's centre also dissolves it in bile.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/da35c3ce0a084258b7d472a93e409dacx799x599.JPEG)
+
 `MA1591`
 
 ---
@@ -3316,6 +3732,10 @@ Everything about stains, morphology and co-trimoxazole is true.
 **EXAM CONNECTION:** The words **"no itching"** and **family history** are the discriminators from allergic angioedema. Note C1 **inhibitor** vs C1, C2, C4 **deficiency** — different answers, adjacent options.
 
 **REMEMBER:** *No itch means no histamine — think bradykinin.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/0ecdb416e66d49fd80006a9523c0da94.PNG)
 
 `MC2616`
 
@@ -3338,6 +3758,11 @@ Everything about stains, morphology and co-trimoxazole is true.
 
 **REMEMBER:** *Minutes means antibody was already there — type II.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/988706e6c52640cabe45b6c598d1b709x1280x2089.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/740d6c7dadda46d38620f36124adea54x1280x4218.JPEG)
+
 `MA6841`
 
 ---
@@ -3357,6 +3782,10 @@ Everything about stains, morphology and co-trimoxazole is true.
 **EXAM CONNECTION:** The image identifies the virus; the question asks for **another disease caused by the same virus**. Each distractor belongs to a different oncovirus — learn the mapping as pairs.
 
 **REMEMBER:** *HHV-8 infects vessels and B cells, so it causes a vascular tumour and a lymphoma.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/fece6b7ec1014a0383a9e26eceda6e32.JPEG)
 
 `MA8280`
 
@@ -3421,6 +3850,10 @@ Everything about stains, morphology and co-trimoxazole is true.
 
 **REMEMBER:** *Back of the mouth is Coxsackie; front of the mouth is herpes.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/0b3d5d8cbba0496fab3bcc20faad940a.JPEG)
+
 `MA7974`
 
 ---
@@ -3440,6 +3873,11 @@ Everything about stains, morphology and co-trimoxazole is true.
 **EXAM CONNECTION:** Eponym matching. "Kissing disease" is the deliberately colloquial way of asking for infectious mononucleosis.
 
 **REMEMBER:** *Heterophile antibodies agglutinate sheep cells — nothing to do with EBV antigens.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/56a68cb738154ea98c9e016ee6f77819.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/85b8c3a992cf4e17a36bb4f25411ddc6x720x540.JPEG)
 
 `MA8272, MF0660`
 
@@ -3461,6 +3899,10 @@ Everything about stains, morphology and co-trimoxazole is true.
 
 **REMEMBER:** *Mutans makes glue and acid; gallolyticus points at the colon.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/12c3101f29ff47efbe955cbbef471d4f.JPEG)
+
 `MA1570, MA1587, MA1572`
 
 ---
@@ -3481,6 +3923,11 @@ Everything about stains, morphology and co-trimoxazole is true.
 **EXAM CONNECTION:** Straight matching, and the M-protein/C-carbohydrate pair is the one most often swapped. Remember **M for Myocardium**.
 
 **REMEMBER:** *M for myocardium, C for the cardiac valve Cusps.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/71859d98b67d48c5896c4fdae954cba4.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/09b6f26a9b354667b0bc8ab1ef856e40x750x600.JPEG)
 
 `MA1560, MA1556, MC1746`
 
@@ -3526,6 +3973,12 @@ Everything about stains, morphology and co-trimoxazole is true.
 
 **REMEMBER:** *Light it from the side to see what a stain cannot show.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/9344114b08274ce392d349a6a9c5a28b.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/45e19098c36e4e0ba69bdbc3358cbb5fx559x788.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/05c868c7062945f1b1e6bd668a50e79cx400x300.JPEG)
+
 `ME9924, MA6188, MC1749`
 
 ---
@@ -3548,6 +4001,10 @@ Everything about stains, morphology and co-trimoxazole is true.
 
 **REMEMBER:** *Gold develops in the cold, on the bench, not in the incubator.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/a61acd2d11344deeb352dd8478d17ec1.JPEG)
+
 `MA1501, MA1545, MD0633`
 
 ---
@@ -3568,6 +4025,10 @@ Everything about stains, morphology and co-trimoxazole is true.
 **EXAM CONNECTION:** "All true EXCEPT" → **obligate intracellular**. The Gram-stain image is the bait; the biology is the answer.
 
 **REMEMBER:** *It hides in neutrophils by choice, not by necessity.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/2d2b8a14b1804d32aac112e7e610423e.JPEG)
 
 `MD0164`
 

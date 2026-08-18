@@ -44,6 +44,11 @@
 
 **REMEMBER:** *Flame 7 cm, soot 30 cm, powder 60 cm — beyond that only the abrasion collar remains.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/3e80b564c3574d3a91983ff1763caa6d.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c5f36e448de04d4db9690992ff416499x800x627.JPEG)
+
 `Q8744, Q9941`
 
 ---
@@ -85,6 +90,10 @@
 **EXAM CONNECTION:** Image of branching venous discoloration → **marbling** (lividity and tattooing are the distractors).
 
 **REMEMBER:** *Green at the caecum first, then the veins turn into a marble map at 36–48 hours.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/f08c958e1aac4d3db862f87d08cad628.PNG)
 
 `Q10097, Q10398`
 
@@ -193,6 +202,10 @@
 
 **REMEMBER:** *Aconite numbs then kills; strychnine convulses with a clear mind — but only if the seed was crushed.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/fc57a4d6732243e5b6871d3bc2e3b5a4.JPEG)
+
 `Q9913, Q10271`
 
 ---
@@ -234,6 +247,10 @@
 **EXAM CONNECTION:** "Test to identify semen" → **acid phosphatase**. "Human vs animal bone" → **precipitin**.
 
 **REMEMBER:** *Acid phosphatase says "semen"; precipitin says "human"; DNA says "who".*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/17/screenshot-2024-05-17-110617.JPG)
 
 `Q9912, Q11983`
 
@@ -341,6 +358,10 @@
 
 **REMEMBER:** *Scissors on the X-ray need no expert — the thing speaks for itself, and the doctor must now explain it.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d5d19093f524421abd8a5229d2cc4036.PNG)
+
 `Q10409`
 
 ---
@@ -405,6 +426,14 @@
 
 **REMEMBER:** *Sideways blow hinges the base; falling on your feet rings the foramen magnum; a hammer signs its name.*
 
+
+**IMAGES:**
+![explanation](https://cdn1.dailyrounds.org/uploads/914517ea05c142d5a19d87bbdad29a09x316x505.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ed143d3195ff4a1b89d3e816fd311ee6x1279x1477.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e7c0bb08e76d45ce84d2053f513842c1x1280x1373.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2338efa0315d4a03bd538ad094ee92e0x1280x1055.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/ed9e6de29db142618422450f83cb6915.JPEG)
+
 `Q10371, Q10061`
 
 ---
@@ -449,6 +478,13 @@
 
 **REMEMBER:** *Loops dominate, composites are rare — and the pattern is fixed by 24 weeks in the womb and never changes.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bbde1da114d6424187de7970fb44b5f7x1280x734.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/aa43248c318841cea07cc0093195ce4ax1280x852.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/46a07a69bbcc486588bb08c26daee280x1280x824.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/4fe932782aa84715ad3a9581fa5ff5ff.PNG)
+
 `Q10083, Q10180`
 
 ---
@@ -469,6 +505,10 @@
 **EXAM CONNECTION:** Image of a superficial injury without singeing → **moist heat (scald)**.
 
 **REMEMBER:** *Flame singes hair and climbs; liquid spares hair and runs down.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/598f33b01cd640899aae9e48202e73f0.JPEG)
 
 `Q10399`
 
@@ -491,6 +531,10 @@
 **EXAM CONNECTION:** Sequencing question — note that **GI bleeding comes FIRST and the asymptomatic phase SECOND**, with the stricture LAST.
 
 **REMEMBER:** *Bleeds, then seems better, then the liver fails, then the pylorus scars shut.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/10/13/screenshot-2023-10-13-112003.jpg)
 
 `Q11985`
 
@@ -534,6 +578,10 @@
 
 **REMEMBER:** *Cadmium stains the teeth and softens the bones through the kidney; phosphorus rots the jaw.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/Picture1_tTLY5Xt.png)
+
 `Q11989`
 
 ---
@@ -576,6 +624,20 @@
 
 **REMEMBER:** *Yellow bells are Thevetia, hoods are aconite, mango fruit is the suicide tree — and all the oleanders stop the heart like digoxin.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/05/29/screenshot-2024-05-29-160947.JPG)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/29/screenshot-2024-05-29-161047.JPG)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/29/screenshot-2024-05-29-161101.JPG)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/29/screenshot-2024-05-29-161111.JPG)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/29/screenshot-2024-05-29-161123.JPG)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/29/screenshot-2024-05-29-161134.JPG)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/29/screenshot-2024-05-29-161144.JPG)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/28/image-9.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/27/screenshot-2023-09-27-104418.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/27/screenshot-2023-09-27-104520.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/27/screenshot-2023-09-27-104614.jpg)
+
 `Q11990, Q12009`
 
 ---
@@ -598,6 +660,11 @@
 
 **REMEMBER:** *Look for tissue bridges — a knife leaves none. And never trust a scalp wound to look like what it is.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/29/image-31.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/01/2_k8Mg0qq.jpg)
+
 `Q12011, Q11995`
 
 ---
@@ -619,6 +686,10 @@
 **EXAM CONNECTION:** Multi-select — only **"large acetabulum"** among the listed options is male; the others (U-shaped angle, everted tuberosity, large sciatic notch, deep preauricular sulcus) are all female.
 
 **REMEMBER:** *Everything female widens the birth canal; everything male is bigger and rougher.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/29/image-30.jpg)
 
 `Q11996`
 
@@ -949,6 +1020,12 @@ thin line after a fall = fissured; fall from height on the feet = ring.**
 **REMEMBER:** *Broad surface cracks it, small heavy object stamps it, and an infant skull
 just dents.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/09/30/ch-1_anatomy-3.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/10/screenshot-2024-06-10-153018.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/10/screenshot-2024-06-10-152959.png)
+
 `Q11270`
 
 ---
@@ -981,6 +1058,10 @@ air** environment that desiccates the tissue faster than bacteria can rot it.
 **rigor in hours, adipocere in weeks.**
 
 **REMEMBER:** *ATP runs out in hours, bacteria bloom in days, fat turns to wax in weeks.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/06/10/screenshot-2024-06-10-163601.png)
 
 `Q11287`
 
@@ -1015,6 +1096,10 @@ proves only **contact with water** (washerwoman's changes, cutis anserina, or a 
 
 **REMEMBER:** *Wrinkled skin says "in the water"; froth and diatoms say "alive in the
 water".*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/10/screenshot-2024-06-10-095140.png)
 
 `Q11337`
 
@@ -1058,6 +1143,11 @@ and **light blue = coagulation**.
 
 **REMEMBER:** *Fluoride freezes metabolism for toxicology; citrate borrows calcium for
 clotting tests.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/20d11c110c5942248ac0b7cf121eb7ef.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/b054745fdf6c41f082de4b5f75c52c70.JPEG)
 
 `Q11814, Q11805`
 
@@ -1155,6 +1245,10 @@ both must be maximal for blowback.
 
 **REMEMBER:** *Inside the vessel means it settled; outside means it was struck.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/e2796dd52a7f42e5b5a5ca3b05f5b333.JPEG)
+
 `MB0088`
 
 ---
@@ -1197,6 +1291,12 @@ both must be maximal for blowback.
 
 **REMEMBER:** *The back of the skull is smooth, so the front of the brain is safe when you fall forwards.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8d0f005638c5413dad28c3ffb6c4265fx1280x1411.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3875ed3e645d4017a731ac3b47d8df5fx1280x1373.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/72ef5116fb944b82a7cc0d7a0d473db7x1279x1656.JPEG)
+
 `MB0540`
 
 ---
@@ -1219,6 +1319,13 @@ both must be maximal for blowback.
 **EXAM CONNECTION:** Grouping question — put cephalic and intermembral in the **race** column, and the rest in **sex**. The carpal ossification table is asked with a hand X-ray.
 
 **REMEMBER:** *Pelvis tells you sex, skull tells you race.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6c5339f818154bd5a2224da77db2ecc7x377x228.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/149e51cb37a046d5b49316bbc90fcb6fx435x252.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/d445faa9afa64da7a2c7b9f0338f59bb.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f6514911790b4f5eb9a14300b0d553b5x720x1007.JPEG)
 
 `MA0908, MA0774, MD0635, MD0643`
 
@@ -1284,6 +1391,12 @@ both must be maximal for blowback.
 
 **REMEMBER:** *Thallium takes the eyebrows; lead lines the gums.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2246e9bf20bf49c8b0a2d677833bf301x1158x990.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/0bd671a3cc524d59a27847e65eeff573.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/219b2049ea9c4f4f8f22fa7f092db149x720x458.JPEG)
+
 `MF5228, MB1059`
 
 ---
@@ -1325,6 +1438,10 @@ both must be maximal for blowback.
 **EXAM CONNECTION:** Two related stems — "conclusive evidence of drowning" → **none of them**; and "which supports antemortem drowning" → **cadaveric spasm**. Note they are opposite in spirit: nothing proves it, but cadaveric spasm is the best support.
 
 **REMEMBER:** *Diatoms suggest, cadaveric spasm supports, nothing proves.*
+
+
+**IMAGES:**
+![explanation](https://cdn1.dailyrounds.org/uploads/7c49cd2c216b4a43bf964b1c6fd7877dx286x283.PNG)
 
 `MB5903, MB5896`
 

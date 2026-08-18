@@ -21,6 +21,10 @@
 
 **REMEMBER:** *Turn every haemoglobin into one pigment; stain the reticulocyte while it is still alive.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/04/25/picture37.jpg)
+
 `Q9643, Q9644`
 
 ---
@@ -62,6 +66,11 @@
 **EXAM CONNECTION:** "MPGN is seen in" → **all of HIV, SLE, CLL and hepatitis B**.
 
 **REMEMBER:** *A double-contoured capillary means something has been dripping antigen for months — go and find it.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7f039af743ee4067a0c727cb7b482b29x1280x1391.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1954f94cdc314e7da9931a38553e4f1bx1280x1390.JPEG)
 
 `Q9892, Q10363`
 
@@ -105,6 +114,11 @@
 
 **REMEMBER:** *Grooved nuclei, eosinophils and a tennis racket in the cytoplasm.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/60f0c571021f432e925fcfc1341e9fd8.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c652df0c3f0245cca71656f320a427b0x1280x1428.JPEG)
+
 `Q9951`
 
 ---
@@ -147,6 +161,11 @@
 
 **REMEMBER:** *Granules first and cytokines later — that is why allergy comes back hours after it went away.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/fd9b7fad1a6948ac979334a064f7d0e8.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/05afb970bbf44923a9051559614f82e1x1280x2558.JPEG)
+
 `Q9958`
 
 ---
@@ -167,6 +186,11 @@
 **EXAM CONNECTION:** "Incorrect about this lesion" → **that it is malignant and metastasises frequently**.
 
 **REMEMBER:** *Verocay bodies and a capsule — it pushes the nerve aside and never spreads.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/3d9f833ca9e845a9ad0c88510221812e.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/161368f93d9341cb9a94985a5a639e5cx1279x662.JPEG)
 
 `Q9959`
 
@@ -210,6 +234,14 @@
 
 **REMEMBER:** *Smoke lands at the bronchiole and eats the top; a missing blood-borne inhibitor eats the bottom evenly.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/2b6704c065844e54b6dd8ab616b7d50c.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e62496d1dc4e4d898b7693592c210853x1280x1048.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f05dc5bf51de41839520f02447bcd63ax1280x1048.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/646f5e3157224d3484d268df83978955x1280x845.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/89d208f8f5f34e66a4a815daa86c067cx416x467.JPEG)
+
 `Q10018`
 
 ---
@@ -230,6 +262,10 @@
 **EXAM CONNECTION:** "Incorrect about NETs" → **that they are effective only against bacteria** (they also act against fungi).
 
 **REMEMBER:** *The neutrophil throws out its own DNA to catch microbes — and sometimes the immune system turns on that DNA.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/7ec51d31000d474eae33d1496ac48ebf.GIF)
 
 `Q10038`
 
@@ -275,6 +311,13 @@
 
 **REMEMBER:** *Salt-and-pepper nuclei name the cell, never the organ.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/99281b373ac74f18a2166b583acf6beex1280x1026.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/30da3a50c423403cb2fcc2f2a6d6cade.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1bf2c58f5ce2468d88bae1eadbaee552x1280x1108.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e55699def8dd4db89b3d578f478ee036x1280x1108.JPEG)
+
 `Q10099, Q10081`
 
 ---
@@ -295,6 +338,10 @@
 **EXAM CONNECTION:** Electron microscopy in PSGN → **subepithelial deposits** (light microscopy after progression → crescents).
 
 **REMEMBER:** *Humps on electron microscopy, crescents on light — read which lens the question is looking through.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1a0c6263f5724e50ba7d5e8c3645edf6x1280x853.3333333333334.JPEG)
 
 `Q10102`
 
@@ -317,6 +364,11 @@
 
 **REMEMBER:** *Oxygen runs out at the central vein and P450 lives there too — zone 3 dies of both starvation and poison.*
 
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/5533b552bdbef7b6dd28d343c8b0205d.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/5e1cbf6142480ef53a1f54a9919fab15.webp)
+
 `Q10599, Q10600, Q10601, Q10319`
 
 ---
@@ -338,6 +390,15 @@
 
 **REMEMBER:** *Unconjugated bilirubin makes black stones, supersaturated cholesterol makes yellow ones — and spider cells in a baby's heart mean tuberous sclerosis.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/c38e25c0c7294c3585246eadd787da3c.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/f0d59461f8234f91a3513e9ae01718a5.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/86256f14a51246398133d170b9f34989x1280x1118.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/da4b233e70bd431080194aec45d80c64.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/aa77d43ce6f34bb480a2a303f8c419fcx802x531.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/800f908dc3a343d8961576964a1f3db1x1280x925.JPEG)
+
 `Q10289, Q10281, Q10307`
 
 ---
@@ -358,6 +419,11 @@
 **EXAM CONNECTION:** Best predictor of chronicity in HBV → **age at infection**; least likely on biopsy in ACUTE hepatitis B → **ground-glass hepatocytes**.
 
 **REMEMBER:** *The stronger the immune attack, the sicker the patient and the cleaner the clearance.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/c5ce0269364d67db6b94979d02deffe6.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/d27f2865941cfa0b1e0ffb1412181781.webp)
 
 `Q10602, Q10603, Q10604, Q10611`
 
@@ -422,6 +488,18 @@
 
 **REMEMBER:** *Even scarring makes small nodules; patchy scarring makes big ones.*
 
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/c83b2a633715bc15d6b1fbf001edbb35.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/05326a2cf9c5bd9605d7a095f11ea187.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/0606b81ce3e39ed01be8d5a36e20e2f0.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/7264c6caedbe4212597a8d32866de937.webp)
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/da27af0ac7f723abc2dfe57120b456de.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/7a50802132ec22c832dc4f7334c9526d.webp)
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/df2fdc881c821867ccc9ddc769c04eeb.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/0e40ef72aa3cac34038ca07f38c01fbc.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/cc6eb589caf5f975a3db97933e9f3036.webp)
+
 `Q10614, Q10615, Q10610, Q10607, Q10613`
 
 ---
@@ -464,6 +542,14 @@
 
 **REMEMBER:** *Plasma cells at the limiting plate with lymphocytes inside the hepatocytes — and it melts away with steroids.*
 
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/fcd1b8f682c9ac33ea4755aa90694a42.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/c2cf0c286166999f62272102d4ecc78e.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/12dc5b17663e028ebbe7621761c6b0ce.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/0a2ec73c9103bee1fcb3251571fe21ca.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/3a0826cd23e4aa1995bf1cdcb837686b.webp)
+
 `Q10617, Q10618, Q10619, Q10620, Q10621`
 
 ---
@@ -505,6 +591,12 @@
 **EXAM CONNECTION:** Commonest benign liver tumour → **cavernous haemangioma**; incorrect about hepatic adenoma → **that beta-catenin-activated adenomas have no malignant risk**; incorrect about fibrolamellar carcinoma → **that it is associated with cirrhosis**.
 
 **REMEMBER:** *A central scar is usually harmless — unless the cells around it are oncocytes.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/b9405a9da127eb14e497e22febbf80fd.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/400b34742901ce906be75fe76686694c.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/bc76dc51e1bc67afbf28cc1e0f1d454b.webp)
 
 `Q10625, Q10626, Q10634, Q10633, Q10629`
 
@@ -568,6 +660,14 @@
 
 **REMEMBER:** *Intermittent solids = a fixed ring; progressive solids then liquids = cancer; both from the start = motility.*
 
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/1fe31a9e9918e8c1e2e10b81178bd0e0.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/ff037eac6678334fc56ea9ec0692c6bf.webp)
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/6a38ec69f26cfb3c3c87bcc08abdec9c.webp)
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/3b6fe2a959f918ec23f69e4f5337996a.webp)
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/7554eb43b3ebd6c3f50c4f5cc74e366f.webp)
+
 `Q10640, Q10641, Q10643, Q10638, Q10637`
 
 ---
@@ -610,6 +710,10 @@
 
 **REMEMBER:** *Achalasia's sphincter is too tight, scleroderma's is too slack — same dysphagia, opposite reflux.*
 
+
+**IMAGES:**
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/b92ea928c1f5315959a2e85c195a3c8b.webp)
+
 `Q10644`
 
 ---
@@ -632,6 +736,12 @@
 
 **REMEMBER:** *Kill the acid and the oesophagus is safer while the stomach is not.*
 
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/71683ad1c82f87de9825ebb2588ddad7.webp)
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/14051ddb-5bc1-4072-bf5b-b8c0e5e24371.jpg)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/edc886aa8321db2ae9f80770b172eb42.webp)
+
 `Q10655, Q10656, Q10639, Q10648, Q10647, Q10654`
 
 ---
@@ -652,6 +762,10 @@
 **EXAM CONNECTION:** Germline mutation in familial gastric cancer → **CDH1**; "all true about diffuse gastric cancer EXCEPT" → **bulky tumour**; markers NOT expressed by gastric MALToma → **CD10**.
 
 **REMEMBER:** *No E-cadherin, no cohesion — the cells scatter, the stomach stiffens and nothing forms a lump.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/551524f61b03b910202e2286b0b556bb.webp)
 
 `Q10649, Q10650, Q10651`
 
@@ -674,6 +788,12 @@
 
 **REMEMBER:** *Non-bilious vomit means the block is above the ampulla — and posterior ulcers bleed while anterior ones burst.*
 
+
+**IMAGES:**
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/d396e30604a476c306a39a75df1cec60.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/e33b1c11e391bbce25dd29fc33895a44.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/a8016019209651fc3b6911192ea2914a.webp)
+
 `Q10645, Q10646, Q10657`
 
 ---
@@ -694,6 +814,11 @@
 **EXAM CONNECTION:** Malabsorption NOT due to a mucosal defect → **cystic fibrosis**; phase impaired in Whipple disease → **lymphatic transport**; confirming the diagnosis on a foamy-macrophage biopsy → **acid-fast stain**.
 
 **REMEMBER:** *Whipple blocks the drains, not the lining — and only mycobacteria take up the acid-fast stain.*
+
+
+**IMAGES:**
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/1fa585e35f29d3ffc9cea7aa8c571303.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/3e0541e8a858e9e9dbcfc9349667fd3d.webp)
 
 `Q10661, Q10662, Q10663`
 
@@ -716,6 +841,10 @@
 
 **REMEMBER:** *No regulatory T cells, no tolerance; no motor protein, no brush border.*
 
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/f57587b1736ea52df57c0e0df265069a.webp)
+
 `Q10659, Q10660`
 
 ---
@@ -736,6 +865,12 @@
 **EXAM CONNECTION:** Commonest obstruction under 2 years → **intussusception**; pathogenesis of Hirschsprung → **failure of neural crest cell migration**; Hirschsprung association → **Down syndrome**.
 
 **REMEMBER:** *Migration runs downhill, so the disease always starts at the anus — and the narrow bit is the sick bit.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/3259a005ea4059690960dc0f23f1d692.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/adfa24091dd720c828d23aca03fb2cee.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/3f7fb512cfe95f1126512eae606bd1f0.webp)
 
 `Q10658, Q10666, Q10667, Q10669`
 
@@ -779,6 +914,11 @@
 
 **REMEMBER:** *Midgut makes serotonin — and the syndrome only starts once the liver is bypassed.*
 
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/a5777e34f8d562847737f1f6a617bca5.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/642293576ee8c299794060161e16f01e.webp)
+
 `Q10652, Q10653, Q10665`
 
 ---
@@ -800,6 +940,12 @@
 
 **REMEMBER:** *The antibiotic clears the competition, the toxin dissolves the cytoskeleton, and the crypt erupts.*
 
+
+**IMAGES:**
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/0582ab12548ea33fc6144df85ebb0d97.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/9100fb816164a295f6227ca70a16afd4.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/d592dca15d66e2936b8328bcc5af6085.webp)
+
 `Q10672`
 
 ---
@@ -820,6 +966,10 @@
 **EXAM CONNECTION:** Gene in Crohn disease → **NOD2**; NOT associated with Crohn → **primary biliary cirrhosis**.
 
 **REMEMBER:** *Crohn cannot clear intracellular bacteria, so it inflames through the whole wall — and everything else follows from that.*
+
+
+**IMAGES:**
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/d75dc29ae36d18022b03630e4a9ff092.webp)
 
 `Q10673, Q10674`
 
@@ -862,6 +1012,12 @@
 **EXAM CONNECTION:** Cystically dilated glands in a child's rectal polyp → **juvenile polyp**; incorrect about Peutz–Jeghers → **autosomal recessive inheritance**; incorrect about appendiceal tumours → **that primary adenocarcinoma is serous** (it is mucinous).
 
 **REMEMBER:** *Juvenile polyps swell the stroma; Peutz–Jeghers polyps branch muscle through it.*
+
+
+**IMAGES:**
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/b888132e7ec263152df24081193f0093.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/c7f3c7f2d402e7e33e4d2167bc4078dc.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/325b58d102c13c7c9344fb5f372df692.webp)
 
 `Q10678, Q10679, Q10677`
 
@@ -935,6 +1091,10 @@ autoimmunity → **hereditary spherocytosis → pigment gallstones**.
 
 **REMEMBER:** *Chronic haemolysis makes bilirubin stones — black and in the gallbladder.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture13_iMJmAgR.jpg)
+
 `Q10869`
 
 ---
@@ -994,6 +1154,10 @@ one-to-one association with no exceptions in the exam.
 
 **REMEMBER:** *Reinke's rods belong to Leydig — the hormone-making cell.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b559bf19d0394a0cbdc52a1cae041366.PNG)
+
 `Q10961`
 
 ---
@@ -1024,6 +1188,10 @@ template (homologous recombination, error-free, S/G2 phase)** or a **blunt re-li
 **mismatch repair protein**. Learn each syndrome by its pathway.
 
 **REMEMBER:** *MSH proofreads single mistakes; ATM, BRCA and Ku deal with broken backbones.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0a372d4847344cd7924ef749c9039b74x1280x1270.JPEG)
 
 `Q11016`
 
@@ -1088,6 +1256,13 @@ laminated calcification**, run the **PSaMMoma** list and let the clinical contex
 
 **REMEMBER:** *Sand grains form where papillae die — meninges, thyroid, ovary, kidney.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/91d75ae75ce44651865dc4a50f6020fe.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ecf3f94eec13471f82c55c36e31c58a2x1137x861.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0b81a62385fb4da491ea928f50073f81x800x593.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ac25710341c747349404d7fb34e3e14fx800x423.PNG)
+
 `Q11821`
 
 ---
@@ -1118,6 +1293,11 @@ executioners, and 1 and 4 are inflammatory.
 
 **REMEMBER:** *Nine from the mitochondrion, eight from the death receptor — both hand over to
 three.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d6f10eafa0404c5592bb1ce161d73fec.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/55ea5017b3da4e3bb02e80426b956631x1280x2559.JPEG)
 
 `Q11848`
 
@@ -1184,6 +1364,12 @@ the lines of closure" plus stenosis and calcification is rheumatic.
 **REMEMBER:** *Sterile warts on the closure line, a fish-mouth valve, and Aschoff bodies in
 the myocardium.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fd6e8db518b0486db9677db538f6d717x720x480.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1d45eefa763e41f99a85843ad6f59a59x800x534.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9ab8c514977e4b98a14460159d9e52f6x1280x925.JPEG)
+
 `Q11843`
 
 ---
@@ -1205,6 +1391,10 @@ the myocardium.*
 **EXAM CONNECTION:** Two questions from one topic: the "most common" list, and **PRKAR1A → cardiac myxoma/Carney complex**.
 
 **REMEMBER:** *A pedunculated left atrial mass that embolises and causes fever.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/528a3d9188634a509fb70d6f13136abbx1280x1885.JPEG)
 
 `MB0459, MB0460`
 
@@ -1249,6 +1439,11 @@ the myocardium.*
 
 **REMEMBER:** *No CD40 signal means the B cell can never switch away from IgM.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/39dfc36475f94e52bc7fd4648aed92a4.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/50817ec07cd446f9a6490e6810ea3fd2x1279x1080.JPEG)
+
 `MD0149, MF9277`
 
 ---
@@ -1269,6 +1464,11 @@ the myocardium.*
 **EXAM CONNECTION:** "Would NOT expect metastatic calcification" → **tuberculosis** (dystrophic). The other three all cause hypercalcaemia.
 
 **REMEMBER:** *Dead tissue calcifies locally; high calcium calcifies everywhere.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/7c523f86ec7d4e89abedf0600e249de3.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/19c9bc9d375649d7ac42ecb43585cdd9x1280x1239.JPEG)
 
 `MA2199, MA2156`
 
@@ -1291,6 +1491,10 @@ the myocardium.*
 
 **REMEMBER:** *Collapsed keratin skeleton clumped in the cytoplasm.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/10d91fea144f4264a44653915f0f34a6x720x448.JPEG)
+
 `MF1440, MF9224`
 
 ---
@@ -1311,6 +1515,11 @@ the myocardium.*
 **EXAM CONNECTION:** Image plus mutation. **RET** is the distractor — correct for **medullary** carcinoma and for **radiation-related papillary** cases, but **BRAF** is the commonest overall.
 
 **REMEMBER:** *Clear empty nuclei mean papillary, and BRAF drives it.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/2f164bcb918f4ad49ec163e966b7202d.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a91495940f4f4437840356f87c3954efx1280x1159.JPEG)
 
 `MG6574`
 
@@ -1335,6 +1544,13 @@ the myocardium.*
 
 **REMEMBER:** *One wave of neural crest cells populates both plexuses, so both are lost.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b08dd20c68994db4aef43835352a004e.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f04243e464674e5e99e44d95676c51b7x1280x1086.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0fc3cdfe0f2d4a268398a2afe3839034x1280x1573.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a4079f7c1f83426ca6094d5d37bf059ax720x816.PNG)
+
 `MG6611`
 
 ---
@@ -1356,6 +1572,12 @@ the myocardium.*
 **EXAM CONNECTION:** "Most accurate test" signals a **molecular** answer. Note that **t(11;22)** appears as an option written the other way round — both describe the same translocation, but the EWSR1 phrasing is the intended answer.
 
 **REMEMBER:** *Diaphysis, onion peel, fever — and EWSR1 proves it.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/a06d333e5f9846e39627ec4a9bf2a3b9.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/324a41653878431eb00f6994dd3699aax1280x1407.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4d0cd73e727b488b9d5bb40db0a021f6x720x553.PNG)
 
 `MG7197`
 
@@ -1379,6 +1601,15 @@ the myocardium.*
 
 **REMEMBER:** *In phyllodes the stroma is the tumour.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/7dbcc62c8f8644869d8b31db051257f2.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e634d489478f456f8c268ce427283a16x1280x1276.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d4839ac0eb044b8cb23bd86daf4c1d3fx697x526.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e1d1bc7ce61f4172a6de68071a4d16d1x800x567.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/66c2cfa5e9a244f8999ee33027d6dde2x1280x853.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f291e205b3a8431ea4c4b9099ed3d902x600x1384.JPEG)
+
 `MG7202, MA5649`
 
 ---
@@ -1401,6 +1632,15 @@ the myocardium.*
 
 **REMEMBER:** *Tennis rackets on electron microscopy, coffee beans on light microscopy.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/c284377481414961ab0bc7d4b46d52c1.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4dcf900614ef422d95f0a0eb2baa5943x1280x1589.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3ab4f69596b042458b6695eb55c25bc4x1280x1078.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/fb3d2835a649456290292b0401eb3fc4.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/504d808c549645b0bcadbcefbb529c39x720x655.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0469c0ef21f44d53aefb652fcca8f295x720x845.PNG)
+
 `MC0238, MC7439`
 
 ---
@@ -1422,6 +1662,10 @@ the myocardium.*
 
 **REMEMBER:** *Blocking complement treats the symptom; replacing the stem cell cures the disease.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d7cc11a7646f4d32b87eb44ade0ac2a8.JPEG)
+
 `MC0377`
 
 ---
@@ -1442,6 +1686,26 @@ the myocardium.*
 **EXAM CONNECTION:** Smear images are common. **Smudge cells → CLL**; **Auer rods → AML M3**; **globoid cells → Krabbe**.
 
 **REMEMBER:** *Fragile cells smudge; cyclin D1 marks the mantle.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/ef14e04d5b5c40758e27948ebc5a98a6.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/298ecac3c9674c88b1e8cdf95b8f076dx1200x1874.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1ccf592de2f94fa19f26db69879bf9b8x1279x1050.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bd7429809c314880950412cce2e28c6ax1279x1103.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2d5a413779f1468dac68342811b4bb48x352x512.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9788bbf7ca0b4bf092835c95fb655bdex720x820.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a07b0a55e0f04edfaefe10bde3ca73c7x1280x960.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/2e80d11c6fcb467fa393e8d49d531ee3.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6031e6ed44f24170b9cdea19937062dax1280x925.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6fe4b58cde5642e99d945ade7d697924x1280x853.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/42888aed972b47a5be96f054daac716ax634x476.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/11aee33119ad4b2ea7dd11d44d86414bx1280x860.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/47dc789d288b4e18994e5f746afd2b8bx640x481.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0f0673ea9e7c4ac5b7ccef5cf8dbc8a3x1280x976.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8cbba8132d2c40e08cdaa19e5a970968x1280x2262.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/b3f383f3dbc145629ed5b2d4fc98828d.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/773fe97dafd444069f2a797a988ad5ecx1280x1126.JPEG)
 
 `MF7291, MD6958, MB3646, MF2227, MA3125`
 
@@ -1465,6 +1729,17 @@ the myocardium.*
 
 **REMEMBER:** *Platelets live warm and briefly; adenine buys red cells two more weeks.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1b1f01af443f48ec90792074de2e9c37x1280x1063.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/dccff6d3fb594eba8c1bde762b581fa4.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3c20ccb754674ecebb7e88add0c456e9x1280x740.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c5e2635a3a4a4975a5b09f42fdb93239x1280x735.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1fd8eff4edb74ac0b40aeb2e3e78ccb3x281x600.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/22255640c34340549a921cde22e1b888x1280x1154.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/9e1a29810adf4e8db425729998e4107e.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/abc691ac348544e79127b6941c1c71e6x800x640.JPEG)
+
 `MF9248, MB9272, MF7220, MD0156, MD6723`
 
 ---
@@ -1485,6 +1760,10 @@ the myocardium.*
 **EXAM CONNECTION:** The setting (**caesarean under GA**) plus the timing (**within hours**) plus **neutrophilic infiltrate** identifies it.
 
 **REMEMBER:** *Acid burns the alveolus before any organism arrives.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/fcba5c612d6e4e76abad598fb12eae9a.PNG)
 
 `MC6253`
 
@@ -1509,6 +1788,10 @@ the myocardium.*
 
 **REMEMBER:** *Screen the heart, the ears and the sugar.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/340936f5af594f37aa654a880f002d50x1280x1769.JPEG)
+
 `MF9393`
 
 ---
@@ -1529,6 +1812,11 @@ the myocardium.*
 **EXAM CONNECTION:** Image identification. DeBakey II (**ascending only**) is the one most often confused with type I.
 
 **REMEMBER:** *Ascending involvement means the operating theatre.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/513ae428901c4b76a18722ab31200856.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/20779968120a46ee8ede09c38f0f2cccx1280x1582.JPEG)
 
 `MB8577`
 
@@ -1572,6 +1860,11 @@ the myocardium.*
 **EXAM CONNECTION:** "Next best step" → **reassure about spontaneous regression**. The distractors each belong to a different vascular tumour.
 
 **REMEMBER:** *It grows, then it goes.*
+
+
+**IMAGES:**
+![explanation](https://cdn1.dailyrounds.org/uploads/28fe8aa3482b4eb2b8f07f025ec9d599x265x190.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/66608e07536d4823a515db5e574bb28ex1280x853.JPEG)
 
 `MB1626`
 
@@ -1635,6 +1928,14 @@ the myocardium.*
 
 **REMEMBER:** *Deposits under the epithelium leak; deposits under the endothelium inflame.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/60387443a4c949e7bb52709e57708567.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6a602ea110644d62b43870ed07d94e42x529x338.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/862779b26c7243f2a170f9e64927cc5ex1280x1268.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7a297a03f6db49959196ff715d59b609x1280x1685.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2f5f5862005f47ea9dae3e9a023bfc13x1280x1142.JPEG)
+
 `MB5294, MB5313, MB5345, MB5367`
 
 ---
@@ -1656,6 +1957,13 @@ the myocardium.*
 **EXAM CONNECTION:** Given three IHC images, pick the **equivocal (2+)** one for FISH. Separately, the "which is NOT triple-negative" question answers **mucinous**.
 
 **REMEMBER:** *Only the equivocal middle needs the gene test.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/4a0f5ca3d9de45089698a89e77d04c36.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e7eadae9aaf1403399eadaa2ef3cc625x1280x1252.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4cb27d72e8614595ae8b4e0ce2a8d0dex1280x1323.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5d1f88f168044be7a084c2f861fe2a7cx1280x1322.JPEG)
 
 `MC6248, MA5703`
 
@@ -1679,6 +1987,15 @@ the myocardium.*
 
 **REMEMBER:** *A plasma cell that cannot export its antibody stores it.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/53bcf73b43c6498d95fcba32fdb02b7a.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6f94b54944444fdbb52f27bd1990aed5x1280x1199.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f08df38011214369800be6225b1eb85ex1280x1199.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/97ef33b0c64f414f9c6629a62fe310bax1279x1152.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/be2826017fa044f9a0f46c9a305d9baex1279x1199.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/c33558f7f3f04be780d1f10abe5cc295.PNG)
+
 `MA9462, MA4138, MC0513, MB3644`
 
 ---
@@ -1699,6 +2016,15 @@ the myocardium.*
 **EXAM CONNECTION:** The stem's two clues are **age/smoking status** and **zonal distribution**. A young non-smoker with basal disease is always α1-antitrypsin.
 
 **REMEMBER:** *Smoke damages the top; blood-borne enzyme deficiency damages the bottom.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/1e80b6f7a14b464a98286264691d89ab.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/17cbaa8cc70949dc91fed3f8939934e5x416x467.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a93fe0d6352f4bddb79cbafb63f956e0x1280x3586.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/95d6331bf7c9453c92f4b8cdb493fa64.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/55a9a6e7c27d464e94b1bad0a9f74d03.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3667d71a5a8c439a9df8f85718e5bf19x800x527.JPEG)
 
 `MD0601, MC3183, MC1850`
 
@@ -1722,6 +2048,10 @@ the myocardium.*
 
 **REMEMBER:** *Acute swells the lobule; chronic eats the portal edge.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ed3b8d201aea404fbad0181756978b57x1280x3480.JPEG)
+
 `MC2581, MA4155`
 
 ---
@@ -1742,6 +2072,10 @@ the myocardium.*
 **EXAM CONNECTION:** "Not seen in" → **Pick disease**. The trinucleotide question answers **Huntington** for the same style of reasoning.
 
 **REMEMBER:** *Rosenthal fibres are stressed astrocytes; Pick bodies are stressed neurons.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/89718cdc76004fe2933f1de8e14df3bb.PNG)
 
 `MA2967, MA3632`
 
@@ -1786,6 +2120,17 @@ the myocardium.*
 
 **REMEMBER:** *A tumour growing into a cavity becomes a bunch of grapes.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/2daf99317620433387d811bf6d16066a.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/73ca1f4641144daa92922d1df8eb61c6x720x589.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ed35485997e1420cba58303401080a17x1279x1207.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/aa3c283d27fc4d788789de1c221daff7.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/963749d7af4d44378911cbbed07daa89.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8e788a89891e4d6ba0cf86974d6a8409x1280x1002.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/945e49b983ea4b6ca20777dfd41ffc28x720x480.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fd5e47c8426d40c4a36de4358d1a24f7x599x450.JPEG)
+
 `MA6185, MA8502, MG1016, MF8326`
 
 ---
@@ -1828,6 +2173,11 @@ the myocardium.*
 
 **REMEMBER:** *Germinal centres, atrophic follicles, and mitochondria-rich Hürthle cells.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6b233b3b2d9d49d49685f0dad6384948x1280x1054.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/195578065e3247c094ff1b8205ec17dcx1280x1054.JPEG)
+
 `MB5473`
 
 ---
@@ -1850,6 +2200,10 @@ the myocardium.*
 
 **REMEMBER:** *One broken actin regulator gives eczema, tiny platelets and infections.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c28ffe3f31474198a0dcead7c61fc313x720x348.JPEG)
+
 `MF4954`
 
 ---
@@ -1871,6 +2225,14 @@ the myocardium.*
 
 **REMEMBER:** *Middle third and keratin pearls means squamous.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/143903d49673443abde235721a409426.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/35dae415b8e24e1c8f65d099f6fd8238x1280x1049.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/773e24b7b9e24ef881bed2b58f99d218x1279x1048.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f03350b97f8d455da3e53b9124e9d83ax1279x1048.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b943f25f3358433583d6924c14ba9801x1279x1049.JPEG)
+
 `MB9274, MA2198`
 
 ---
@@ -1891,6 +2253,10 @@ the myocardium.*
 **EXAM CONNECTION:** Read which adaptation each option represents. Only the pregnant uterus (or the breast) gives **both**, and only physiologically.
 
 **REMEMBER:** *Hormones multiply the cells, stretch enlarges them.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/da5cfe5b914a411481bdc3af51988d68x1280x1750.JPEG)
 
 `MA2541, MA2544, MC0100`
 
@@ -1915,6 +2281,15 @@ the myocardium.*
 
 **REMEMBER:** *Neuromas and a marfanoid build mean 2B, and 2B has no parathyroid.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/686283fac26f4eb78187aa9af61612a5.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a01742751e314b5fb189a29264e911d3x1280x1061.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/4a6a83d23af84eafa189a7212a1fc290.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/68ba6b6a16c14c7283fbc2d3d669f0ffx745x529.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b17233c0e5ba4cbdbb85fc5ae096a634x1280x1106.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a203874dea9c4530b2db0e62409e4f4ax1280x1094.JPEG)
+
 `MB5515, MD0592`
 
 ---
@@ -1937,6 +2312,13 @@ the myocardium.*
 
 **REMEMBER:** *Fibres lodge in the pleura, gas irradiates the bronchus, eggs inflame the bladder.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5217156371654e7abdda0d2c6b9916c8x1280x896.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fb2407423eeb4baba654821bd01eb5cax1280x856.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6e51281fd81f4c8a99e5d632f32bf314x1280x859.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/3cee031e734f42848ad4eb8a20132a59.PNG)
+
 `MA4152, MF8086, MC3150`
 
 ---
@@ -1957,6 +2339,11 @@ the myocardium.*
 **EXAM CONNECTION:** The word **erythroderma with cells in the smear** selects Sézary. If the cells are only in skin, it is mycosis fungoides.
 
 **REMEMBER:** *Cerebriform cells in the blood plus red skin equals Sézary.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/f981fb48bce44cd4adab2869d94a3764.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/f754dc7934424d90a3a339359c9209de.JPEG)
 
 `MC0195, MC0193`
 
@@ -2001,6 +2388,10 @@ the myocardium.*
 
 **REMEMBER:** *Three separate sets prove it is infection, not contamination.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/186ed21749ed4d3ab7e43344abb39a78x1200x2770.JPEG)
+
 `MG1038`
 
 ---
@@ -2021,6 +2412,12 @@ the myocardium.*
 **EXAM CONNECTION:** "Which is INCORRECT" → calling the double-barrelled variant **severe**. Its two intimal tears, false channel and tendency to chronicity are all true.
 
 **REMEMBER:** *A second tear lets the blood out, so the false lumen stops growing.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/66d4d667e23d413580cbd80184648d5e.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f3764ab072a54a8b8f146f3072eb75b6x1280x1345.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7a2c77e5933245f8bb8534c099249e8fx1280x1345.JPEG)
 
 `MC0912`
 
@@ -2043,6 +2440,10 @@ the myocardium.*
 **EXAM CONNECTION:** The three-test grid (**BT, PT, aPTT**) plus the **ristocetin correction test** distinguishes every option in this family.
 
 **REMEMBER:** *Bleeding time tests the plug, not the clot.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8a852ed6ad094d22b4add695e1529e87x1280x1740.JPEG)
 
 `MC4459, MF8320`
 

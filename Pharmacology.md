@@ -105,6 +105,11 @@
 
 **REMEMBER:** *Heparin is only a catalyst — no antithrombin, no effect.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/de69baed8b1d41cdbb00c4d4e5c135e4x1279x2261.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5667d3b799884c6eac3fa8e97acc7bddx1280x1847.JPEG)
+
 `Q9238, Q9244, Q9255`
 
 ---
@@ -124,6 +129,10 @@
 **EXAM CONNECTION:** DMARD that increases extracellular adenosine → **methotrexate**.
 
 **REMEMBER:** *Low-dose weekly methotrexate treats inflammation with adenosine, not with antifolate killing.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9f8d4a9516b044e2a3f0355baf01eb5cx1280x1905.JPEG)
 
 `Q9234`
 
@@ -314,6 +323,10 @@
 
 **REMEMBER:** *Low-dose aspirin hoards urate; magnesium and aminoglycosides silence a junction that has nothing to spare.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e88c3818bfea430391c09404932d7402x1280x2234.JPEG)
+
 `Q9261, Q9259, Q9243, Q9247, Q9254`
 
 ---
@@ -418,6 +431,10 @@
 **EXAM CONNECTION:** Drug causing QT prolongation → **quinidine**; antiarrhythmic contraindicated in interstitial lung disease → **amiodarone**; late sodium current inhibitor → **ranolazine**; combined with isosorbide dinitrate in heart failure → **hydralazine**.
 
 **REMEMBER:** *Class III and Ia stretch repolarisation and invite torsades — and magnesium is the cure, not the cause.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6538f64b996042a2988f62f01335e095x1268x324.JPEG)
 
 `Q9275, Q9287, Q9288, Q9271`
 
@@ -693,6 +710,10 @@
 
 **REMEMBER:** *Block CYP3A4 and an ordinary ergot dose becomes a tourniquet.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/e5f470b5d0ef4785a0a3eaba9c8dfafa.JPEG)
+
 `Q9302`
 
 ---
@@ -798,6 +819,12 @@
 **EXAM CONNECTION:** Occult GI bleeding on aspirin → **thromboxane inhibition**; false about eicosanoids → **that they are synthesised from arginine**; identifying the antiplatelet targets → **aspirin (COX), eptifibatide (GpIIb/IIIa), vorapaxar (PAR-1)**.
 
 **REMEMBER:** *Steroids stop the cascade at its source; NSAIDs only close one branch and divert traffic down the other.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/796e4a43627f4b17b0530b4e3b118f9ex1280x2080.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/1cdc3b043f0b47cbac9a11aee230237c.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/672ca9540c3b4fe7b9d71a5ec95b1f1dx1280x1585.JPEG)
 
 `Q9311, Q9330, Q9319`
 
@@ -924,6 +951,10 @@
 **EXAM CONNECTION:** From the dose–response curves → **drugs A and B are agonists** (equal efficacy at different potencies; the drug that never reaches maximum is a partial agonist).
 
 **REMEMBER:** *Left–right is potency, up–down is efficacy — and only the second one matters at the bedside.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/58ca7aff3ff64887b8cf57ae267880a1.JPEG)
 
 `Q9323`
 
@@ -1114,6 +1145,12 @@
 
 **REMEMBER:** *Beta-lactams need TIME above the MIC; aminoglycosides need a big PEAK and a clean trough.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/e2fbfcd7026a422b87211570339a0108.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/de59935081ef433c99266fa547e42bb2x866x722.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c1c5288ebe8f4f18af77726317f3d045x856x672.PNG)
+
 `Q10280, Q10680, Q10359`
 
 ---
@@ -1198,6 +1235,11 @@ It also explains ***ACE-INHIBITOR ANGIO-OEDEMA***, which is bradykinin-mediated 
 **EXAM CONNECTION:** Drug that does NOT act as an inverse agonist → **varenicline (a partial agonist)**.
 
 **REMEMBER:** *Agonist up, antagonist level, inverse agonist below baseline.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/47a42dafb55b40a8a33cfebc2d871081.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8d7167c153aa42a5bdc0787fd454473ex1280x1252.JPEG)
 
 `Q10301`
 
@@ -1410,6 +1452,10 @@ blockade lowers pressure — the "hypertension" option is always the false one.*
 
 **REMEMBER:** *Block alpha-1 and the patient falls over, not up.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/untitled-431.jpg)
+
 `Q10910`
 
 ---
@@ -1509,6 +1555,10 @@ answers the **class named in the stem** (checkpoint inhibitor → **nivolumab, P
 
 **REMEMBER:** *Checkpoint inhibitors take the brakes off — expect autoimmunity, treat with
 steroids.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/untitled-440.jpg)
 
 `Q10906, Q10916`
 
@@ -1636,6 +1686,10 @@ haemophiliac on ART is a bleed until proven otherwise.**
 drug is the one with the bleeding warning: **tipranavir**.
 
 **REMEMBER:** *Tipranavir thins the platelets — never in a haemophiliac.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a35d3bc243d84eabab61ffc2580066dcx769x673.JPEG)
 
 `Q10991`
 
@@ -1939,6 +1993,10 @@ selegiline are the low-risk distractors.
 
 **REMEMBER:** *Azoles block the demethylase; terbinafine blocks the epoxidase; amphotericin punches holes.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e48d5ad74a9b48c6baa33c90914e13cbx1280x2560.JPEG)
+
 `MC7458`
 
 ---
@@ -2024,6 +2082,10 @@ selegiline are the low-risk distractors.
 
 **REMEMBER:** *The same receptor narrows the head and the heart.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/e5f470b5d0ef4785a0a3eaba9c8dfafa.JPEG)
+
 `MD6615, MF0777`
 
 ---
@@ -2107,6 +2169,10 @@ selegiline are the low-risk distractors.
 
 **REMEMBER:** *Inducers burn off the pill; inhibitors preserve it.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f8a58aad12854f86a92361861e668a00x720x957.JPEG)
+
 `MA4479, MF9196, MA2902`
 
 ---
@@ -2149,6 +2215,10 @@ selegiline are the low-risk distractors.
 
 **REMEMBER:** *Clearance sets the maintenance dose; volume sets the loading dose.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8bee4685a9ae43ae9d112e3d0790eaffx1280x2445.JPEG)
+
 `MF1298`
 
 ---
@@ -2170,6 +2240,11 @@ selegiline are the low-risk distractors.
 
 **REMEMBER:** *Potency is the x-axis, efficacy is the y-axis.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/12fda29ce9db479e99be322d78892dc3x1280x1196.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/202d58649a0544a9ba61ef918f0a6f03x1280x1167.JPEG)
+
 `MA4515, MA4508`
 
 ---
@@ -2190,6 +2265,10 @@ selegiline are the low-risk distractors.
 **EXAM CONNECTION:** "All are Phase I EXCEPT" → **acetylation**. The prodrug and drug-induced lupus lists are asked in the same style.
 
 **REMEMBER:** *Phase I uncovers the handle; Phase II attaches the tag.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8bee4685a9ae43ae9d112e3d0790eaffx1280x2445.JPEG)
 
 `MA4470, MA4489, MA4490, MA4487`
 
@@ -2234,6 +2313,11 @@ selegiline are the low-risk distractors.
 
 **REMEMBER:** *Alkylators hit any cell; antimetabolites need a dividing one.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fd047e306bdc4310be749978ffaf0c5dx1280x1780.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/114b5293e3404eddbd69d440272edb0ex1280x1988.JPEG)
+
 `MB1142, MF9180, MC9511`
 
 ---
@@ -2254,6 +2338,10 @@ selegiline are the low-risk distractors.
 **EXAM CONNECTION:** Mechanism recall. The distractors offer receptor blockade — the toxin acts **presynaptically on release**, not on the receptor.
 
 **REMEMBER:** *No docking, no release, no acetylcholine.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/679a402efdee47c7b4fd3adaa70f4af1x1280x2234.JPEG)
 
 `MF5189`
 
@@ -2276,6 +2364,11 @@ selegiline are the low-risk distractors.
 **EXAM CONNECTION:** "Preferred diuretic in cirrhosis" → an **aldosterone antagonist**. The heart failure question tests the same class distinction: which drugs are **disease-modifying** versus **symptomatic**.
 
 **REMEMBER:** *Cirrhotic ascites is an aldosterone problem, so block aldosterone.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1eebed7de1f34fd99539e6c7613f42f0x1280x1306.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7e588cc951734db299c6dc05ac5ec75bx1280x1301.JPEG)
 
 `MF1954, MA4793`
 
@@ -2321,6 +2414,10 @@ selegiline are the low-risk distractors.
 
 **REMEMBER:** *A patch smooths the peaks and needs no swallowing.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e5db3b220b5c4a6fb0a82d0c724c68c5x640x784.JPEG)
+
 `MG1026`
 
 ---
@@ -2341,6 +2438,14 @@ selegiline are the low-risk distractors.
 **EXAM CONNECTION:** Device image → the answer is the deposition problem, and the follow-up is always the **spacer**.
 
 **REMEMBER:** *Slow the spray down and it reaches the lung instead of the throat.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/ec770a589e1047a78ff6b5de544cbde3.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c452ea6ccbbf417c874451c433cacafdx1024x768.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cd66363a6d394a44a7890ccd61457138x1024x768.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ab918f67f8294857a067861d1341021cx799x533.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0a6c665607a14641b55b575ac17d13cax800x600.JPEG)
 
 `MD6669, MC7464`
 

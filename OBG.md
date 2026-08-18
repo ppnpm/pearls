@@ -23,6 +23,10 @@
 
 **REMEMBER:** *Alert line means think and refer; action line four hours later means act.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d570ef2f11e74e289248156d276cabbax1280x1092.JPEG)
+
 `Q9108`
 
 ---
@@ -43,6 +47,11 @@
 **EXAM CONNECTION:** "Deepest part causing cystocele and enterocele" → **pubococcygeus**.
 
 **REMEMBER:** *The levator ani is a shelf, not a sling — tear the pubococcygeus and everything slides through the gap.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/848900652b924f848ba1ad747b746282x800x583.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0090ea163b584c9fb97a3635e4ce5a03x600x684.JPEG)
 
 `Q9109, Q9138`
 
@@ -88,6 +97,11 @@
 
 **REMEMBER:** *High gonadotrophins point at the ovary; low ones point at the brain.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4ce0d83565e9407da97052e03b4ca3f4x600x878.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8fdec7bb5c8340998669563695fd081fx1280x2558.JPEG)
+
 `Q9111, Q9132`
 
 ---
@@ -109,6 +123,10 @@
 **EXAM CONNECTION:** Abnormal Pap (any grade) → **colposcopy and directed biopsy**.
 
 **REMEMBER:** *Never treat on cytology alone — colposcope, biopsy, then act.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c8d766a6c9db4794abe17633684b9833x1280x1033.JPEG)
 
 `Q9112, Q9133`
 
@@ -132,6 +150,11 @@
 
 **REMEMBER:** *Wedge the right hip to tilt her left — the uterus must come off the vena cava.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/81959a2ab2bc41e4a07cfc0e437ec33b.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/13aefb3ae0e54fc89b5101ad0b3f1003.JPEG)
+
 `Q9114, Q9117, Q9121`
 
 ---
@@ -153,6 +176,12 @@
 **EXAM CONNECTION:** Gross specimen with two cords, one placenta and NO dividing membrane → **monochorionic monoamniotic**; "best time to determine type" → **11–14 weeks**.
 
 **REMEMBER:** *Lambda is thick and safe; T is thin and shares a placenta; no membrane at all is the most dangerous of all.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/299f93b512f2498693c743c9fa249349.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6faf0d666866408e88d09d1ca99e6b1fx382x566.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1828892d8b264029afc5e0f9fdde741ex1280x5795.JPEG)
 
 `Q9115, Q9136`
 
@@ -242,6 +271,10 @@
 
 **REMEMBER:** *Anti-D prevents sensitisation; it cannot reverse it.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4413ce522e1a41d2b88fec6e0c6b0cf9x1280x3281.JPEG)
+
 `Q9120`
 
 ---
@@ -286,6 +319,10 @@
 
 **REMEMBER:** *Magnesium stops the fit, labetalol lowers the pressure, delivery cures the disease.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/20a6c3215a3540eaad8d2a7485603fa9x557x600.JPEG)
+
 `Q9123`
 
 ---
@@ -307,6 +344,10 @@
 **EXAM CONNECTION:** "Maximum risk of fetal varicella syndrome" → **13–20 weeks**.
 
 **REMEMBER:** *Thirteen to twenty weeks scars the skin and stunts the limb; five days either side of delivery kills the newborn.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a9ca7f26f1f745e6b367632ca66f2ddfx383x576.JPEG)
 
 `Q9125`
 
@@ -374,6 +415,10 @@
 
 **REMEMBER:** *Lift the presenting part, never push the cord back, and go straight to theatre.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0dc37cf41518466b91e256c25f641497x1280x1870.JPEG)
+
 `Q9128`
 
 ---
@@ -395,6 +440,12 @@
 **EXAM CONNECTION:** "All are cut EXCEPT" → **obturator muscle**.
 
 **REMEMBER:** *Cut down and out at sixty degrees — everything in the perineum, nothing on the pelvic wall.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/71bad115c69b45bb9ed60112a70bf0a7.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/015134ab07b14d9eb884ed9294cdbe51x1200x916.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/abe30855adf844ca8d7ff8e9ee16f4e1x1280x753.JPEG)
 
 `Q9107, Q9129`
 
@@ -437,6 +488,12 @@
 **EXAM CONNECTION:** Gross specimen with whorled white nodules → **leiomyoma**.
 
 **REMEMBER:** *Firm, white, whorled and shelling out cleanly — a fibroid, and it shrinks after menopause.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/be7abfd8ec1740d6bba3fefd5efbc24b.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c9c5a24cfd6545e49fd479455b302edcx1280x1415.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/25e1ad9b1ba54dbfb796a7ee6617e471x1280x1698.PNG)
 
 `Q9131`
 
@@ -481,6 +538,10 @@
 **EXAM CONNECTION:** "Ideal time for nuchal translucency" → **11–14 weeks**.
 
 **REMEMBER:** *Eleven to fourteen weeks — after that the lymphatics drain the evidence away.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/80eecda627d649f88eabb4729ca2c85ax796x599.JPEG)
 
 `Q9140`
 
@@ -633,6 +694,10 @@
 
 **REMEMBER:** *Glucose crosses and insulin does not — so the fetus makes its own and grows fat on it.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/01/15/picture14_kY8nI7M.jpg)
+
 `Q9605, Q9606, Q9615`
 
 ---
@@ -677,6 +742,10 @@
 
 **REMEMBER:** *Itchy palms and soles at night with no rash — check bile acids and deliver at 37 weeks.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/30/screenshot-2023-04-30-144703.jpg)
+
 `Q9610, Q9611`
 
 ---
@@ -699,6 +768,13 @@
 
 **REMEMBER:** *After twenty weeks and gone by twelve weeks postpartum — otherwise it was never gestational.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/08/screenshot-2024-01-08-184021.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/08/screenshot-2024-01-08-184135.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/08/screenshot-2024-01-08-192932.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/08/screenshot-2024-01-08-193029.jpg)
+
 `Q9612, Q9614, Q9618, Q9620, Q9625, Q10024`
 
 ---
@@ -720,6 +796,11 @@
 **EXAM CONNECTION:** "All true about predictive tests EXCEPT" → **sFlt-1 and s-Eng are decreased** (they are increased); prevention → **aspirin before 16 weeks**.
 
 **REMEMBER:** *The placenta is starved and floods the blood with anti-VEGF — and aspirin only works if it is started while placentation is still happening.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/08/screenshot-2024-01-08-185956.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/08/screenshot-2024-01-08-190116.jpg)
 
 `Q9617, Q9623`
 
@@ -786,6 +867,10 @@
 
 **REMEMBER:** *Gravida counts pregnancies including this one; para counts deliveries, not babies.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/image_Ov51NLE.png)
+
 `Q10034`
 
 ---
@@ -807,6 +892,11 @@
 **EXAM CONNECTION:** Corkscrew glands → **progesterone from the corpus luteum**.
 
 **REMEMBER:** *Straight glands are oestrogen; corkscrew glands are the corpus luteum.*
+
+
+**IMAGES:**
+![question](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/questions_image/01KKXA9S5WPKCDN36121Q81DRQ.png)
+![explanation](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/question_explanation/36192c6e-f399-45bd-91f5-316da7251727.png)
 
 `Q10035, Q10105`
 
@@ -830,6 +920,10 @@
 **EXAM CONNECTION:** Nodularity in the pouch of Douglas → **endometriosis**.
 
 **REMEMBER:** *Retrograde menstruation lands in the pouch of Douglas — feel for the nodules while she is bleeding.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/02/29/screenshot-2024-02-29-164935.jpg)
 
 `Q10046`
 
@@ -896,6 +990,10 @@
 
 **REMEMBER:** *Eight for the breast, ten for the bleed — and check the gonadotrophins to find the level.*
 
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/830fc480377504e04be945fa34e5d855.webp)
+
 `Q10499, Q10133`
 
 ---
@@ -917,6 +1015,10 @@
 **EXAM CONNECTION:** Amenorrhoea then painless flooding at 45 with a thick endometrium → **metropathia haemorrhagica**.
 
 **REMEMBER:** *No ovulation, no progesterone — so the bleeding is heavy, painless, and the glands look like Swiss cheese.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/7bc2bfd9e29ec727895e93122c76db63.webp)
 
 `Q10500, Q10501, Q10502, Q10503, Q10507`
 
@@ -962,6 +1064,10 @@
 
 **REMEMBER:** *Wait six weeks for clean tissue — and the first repair is the best chance you will get.*
 
+
+**IMAGES:**
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/0147c54a010ddf1ba2a86a7feda38a3d.webp)
+
 `Q10508, Q10510, Q10511, Q10512`
 
 ---
@@ -983,6 +1089,10 @@
 **EXAM CONNECTION:** Structure identification question → **glistening, peristalses on stimulation, uterine artery crosses above it**.
 
 **REMEMBER:** *Arteries pulse; only the ureter crawls — and the water always runs under the bridge.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/71feeaa6744c458d10707e5175ac6814.webp)
 
 `Q10509`
 
@@ -1069,6 +1179,10 @@
 
 **REMEMBER:** *A cystocele reduces and keeps its rugae; a Gartner's cyst does neither.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6acbb8557a68426e82495020892da39bx346x394.PNG)
+
 `Q11071`
 
 ---
@@ -1090,6 +1204,10 @@
 **EXAM CONNECTION:** Flat-topped fundus without a fundal bulge → **arcuate uterus, class VI**.
 
 **REMEMBER:** *Development, fusion, resorption — and only the septum is worth resecting.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/4ae41333268f43d9820ac1326d7c9965.PNG)
 
 `Q11072`
 
@@ -1132,6 +1250,11 @@
 **EXAM CONNECTION:** Anterior fontanelle + supraorbital ridge → **brow → mentovertical diameter**.
 
 **REMEMBER:** *Fully flexed or fully extended will deliver; half-way is a brow and will not.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/ff8f897bc6d641adac83522fef2f8a04.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ca75a78fd2474787b824bffc8a622889x269x220.PNG)
 
 `Q11076`
 
@@ -1503,6 +1626,10 @@
 
 **REMEMBER:** *Anaemia, failing heart, low albumin — fluid in every compartment and the Buddha posture.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/1e674f87892e41ab9d69cd43c7267f51.PNG)
+
 `Q11096`
 
 ---
@@ -1523,6 +1650,18 @@
 **EXAM CONNECTION:** Image of a ridge rising across the abdomen → **retraction (Bandl's) ring**; "false about dehiscence" → **the cavities become continuous** (that is rupture).
 
 **REMEMBER:** *A ring that climbs means the lower segment is about to give way.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/5668788c4df64edcaa0f4a196649eea1.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ae1eda5b802b462d8dbb710660c96e67x1280x1124.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/077e514eb4544bca9b177f53a21905ccx1280x1124.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c7aae27b6fe9448291a4bb989c83c249x1280x1124.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9229e82d189b4b32a1c19ce994dab754x1280x1124.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/4a4ae9dc8b0241feb12c1b4c9fcffb6c.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7b0740ed51f044cc911d672fe2bb92a1x1280x1398.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9dce94b3db3740f9b69b7a0cf7ff9643x1280x1399.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/87d160e7a68446639c1e4939fc8a751f.JPEG)
 
 `Q11099, Q11100, Q11101, Q11104, Q11106, Q11113`
 
@@ -1566,6 +1705,10 @@
 **EXAM CONNECTION:** "All true EXCEPT" → **the dilatational division includes the acceleration phase**.
 
 **REMEMBER:** *Sedation stops the preparatory division and nothing else — once maximum slope begins, labour runs on its own.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1ecf286f5fd04815866ed8359c47c3c5x1280x1033.JPEG)
 
 `Q11111`
 
@@ -1807,6 +1950,10 @@
 
 **REMEMBER:** *Scrape away the basalis and the cavity sticks shut — no endometrium, no bleed, no implantation.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/10/screenshot-2024-08-10-175609.png)
+
 `Q11385`
 
 ---
@@ -1828,6 +1975,10 @@
 **EXAM CONNECTION:** Frothy discharge + strawberry cervix → ***Trichomonas vaginalis***.
 
 **REMEMBER:** *Curdy and acid is candida; grey and fishy is vaginosis; frothy, itchy and strawberry is trichomonas.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/14/2_page_1.jpg)
 
 `Q11387`
 
@@ -1893,6 +2044,10 @@
 
 **REMEMBER:** *Score it first: six or less is one drug with folinic rescue; seven or more is EMA-CO.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/15/1.jpg)
+
 `Q11397`
 
 ---
@@ -1914,6 +2069,10 @@
 **EXAM CONNECTION:** "False regarding management" → **elective caesarean has no role in reducing brachial plexus injury** (it does).
 
 **REMEMBER:** *Night insulin yes, morning insulin no — and the requirement collapses the moment the placenta is out.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/27/untitled-236.jpg)
 
 `Q11398`
 
@@ -1937,6 +2096,10 @@
 
 **REMEMBER:** *Seven active pills protect you — so never let a gap fall next to the pill-free week.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/07/screenshot-2024-06-07-122802.png)
+
 `Q11399`
 
 ---
@@ -1958,6 +2121,10 @@
 **EXAM CONNECTION:** "Stop MgSO4 when" → **urine output 60 mL in 4 hours**; "false about MgSO4" → **it lowers blood pressure**.
 
 **REMEMBER:** *Magnesium stops fits, relaxes the uterus and leaves by the kidney — it never treats the blood pressure.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/27/untitled-237.jpg)
 
 `Q11400, Q11401, Q11414`
 
@@ -2047,6 +2214,10 @@
 
 **REMEMBER:** *Soft, short, open, anterior and low — the cervix that is already halfway there.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/26/untitled-226_ZlB06tA.jpg)
+
 `Q11409`
 
 ---
@@ -2090,6 +2261,10 @@
 
 **REMEMBER:** *VEGF opens the capillaries — she is drowning in the abdomen and dry in the vessels.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/02/picture3.jpg)
+
 `Q11411`
 
 ---
@@ -2112,6 +2287,11 @@
 
 **REMEMBER:** *Two up and two out is point A at the ureter; three further out is point B at the pelvic wall.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/12/screenshot-2024-08-12-104746.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/12/screenshot-2024-08-12-104945.png)
+
 `Q11412, Q11413`
 
 ---
@@ -2132,6 +2312,10 @@
 **EXAM CONNECTION:** "Differentiate obstructive from testicular cause" → **testicular biopsy**.
 
 **REMEMBER:** *FSH is a blood test of the tubules; the biopsy settles it and may find sperm at the same time.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/07/screenshot-2024-06-07-123823.png)
 
 `Q11416, Q11421`
 
@@ -2154,6 +2338,10 @@
 **EXAM CONNECTION:** "Incorrect regarding uterine innervation" → **contractility is mediated by T7–T8 innervation** (it is hormonal).
 
 **REMEMBER:** *T10 to L1 for the contractions, S2 to S4 for the perineum — and the uterus contracts without any nerves at all.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/27/untitled-242.jpg)
 
 `Q11422`
 
@@ -2199,6 +2387,10 @@
 
 **REMEMBER:** *If you can see the scalp without parting the labia, it is outlet — and if the head is not engaged, no instrument may be used at all.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/29/screenshot-2024-08-29-175601.png)
+
 `Q11423, Q11429`
 
 ---
@@ -2241,6 +2433,10 @@
 **EXAM CONNECTION:** Image of a thin flexible cannula → **endometrial sampling**.
 
 **REMEMBER:** *A Pipelle that finds cancer is right; a Pipelle that finds nothing in a woman still bleeding proves nothing.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/19/untitled-1038.jpg)
 
 `Q11432`
 
@@ -2286,6 +2482,10 @@
 
 **REMEMBER:** *Block the outflow and the blood goes backwards through the tubes — obstruction breeds endometriosis.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/05/screenshot-2024-08-05-103004.png)
+
 `Q11434, Q11594, Q11426`
 
 ---
@@ -2328,6 +2528,12 @@
 **EXAM CONNECTION:** Labelled pelvic diagram at the level of the spines → **mid-pelvis**.
 
 **REMEMBER:** *The spines mark station zero and the narrowest plane — everything gets stuck there.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/09/15/untitled-85.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/19/untitled-1057.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/12/screenshot-2024-08-12-120415.png)
 
 `Q11436, Q11601`
 
@@ -2372,6 +2578,10 @@
 **EXAM CONNECTION:** 46,XY + male testosterone + virilisation at puberty → **5α-reductase deficiency / male pseudohermaphrodite**.
 
 **REMEMBER:** *Testosterone builds the inside, DHT builds the outside — lose the enzyme and the outside stays female until puberty forces the issue.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/08/15/whatsapp-image-2023-06-12-at-190121011010201026_page_49.jpg)
 
 `Q11444, Q11453`
 
@@ -2458,6 +2668,10 @@
 
 **REMEMBER:** *Engage, descend, flex, rotate in, extend and crown, restitute, rotate out, expel.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/09/13/screenshot-2024-09-12-124357.jpg)
+
 `Q11604, Q11603`
 
 ---
@@ -2502,6 +2716,10 @@
 
 **REMEMBER:** *Thirty-six weeks, tocolysis, anti-D and a theatre next door — and being a first pregnancy is no barrier.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/09/13/screenshot-2024-09-12-123650.jpg)
+
 `Q11607`
 
 ---
@@ -2524,6 +2742,10 @@
 
 **REMEMBER:** *No germ cells means no inhibin — the FSH rises while the testosterone stays normal.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/02/picture9_PMXBtsB.jpg)
+
 `Q11608`
 
 ---
@@ -2545,6 +2767,10 @@
 **EXAM CONNECTION:** Mass through the cervix with a palpable uterus → **fibroid polyp** (not inversion).
 
 **REMEMBER:** *Feel the uterus abdominally and the cervical rim vaginally — then it is a polyp, not an inversion.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/09/13/screenshot-2024-09-12-124438.jpg)
 
 `Q11610`
 
@@ -2611,6 +2837,10 @@
 **EXAM CONNECTION:** "Which markers for this ovarian mass" → in practice **all of them**, because the panel covers all three lineages.
 
 **REMEMBER:** *Three lineages, three sets of markers — age and imaging tell you which to send.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/09/13/screenshot-2024-09-12-124341.jpg)
 
 `Q11613, Q11632`
 
@@ -2761,6 +2991,10 @@
 
 **REMEMBER:** *Pale ciliated cells sweep, dark peg cells feed — damage them and you get an ectopic.*
 
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/b6b0ae93fe9a283a4a8edd72673502b2.webp)
+
 `Q10486`
 
 ---
@@ -2781,6 +3015,10 @@
 **EXAM CONNECTION:** "Space of Retzius is also known as" → **prevesical / retropubic** (the trap options pair it with "presacral").
 
 **REMEMBER:** *Retzius is in front of the bladder, behind the pubis — the incontinence surgeon's space.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/3477f43bee00156d36cee3bf0202b5ad.webp)
 
 `Q10489`
 
@@ -2874,6 +3112,11 @@ or an ultrasound image asking for the sign. **Lambda = two chorions; T = one.**
 **REMEMBER:** *Two eggs can only make two placentas; one egg can make anything depending
 on when it splits.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/01/06/picture001.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/06/picture2.jpg)
+
 `Q9584, Q9585`
 
 ---
@@ -2914,6 +3157,13 @@ version.
 
 **REMEMBER:** *Flex to 9.5, deflex to 13.5 — the brow is the worst place to be.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/13/screenshot-2024-01-13-154601.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/22/screenshot-2024-03-22-111042.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/13/screenshot-2024-01-13-154601_pOH5OXq.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/13/picture36.jpg)
+
 `Q9589, Q9592`
 
 ---
@@ -2948,6 +3198,11 @@ risk of cord prolapse" (**footling**).
 
 **REMEMBER:** *Frank is folded at the hip and straight at the knee — the "candlestick" baby.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/30/1_9cbh8wE.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/01/06/screenshot-2024-01-06-121641.jpg)
+
 `Q9590, Q9593`
 
 ---
@@ -2975,6 +3230,10 @@ right, >5 contractions in 10 minutes.**
 
 **REMEMBER:** *Four to start, one an hour, four to the right.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/17/picture5_x3sMtFz.jpg)
+
 `Q9591, Q9595`
 
 ---
@@ -3001,6 +3260,13 @@ answer to a 5-week bleed with an intrauterine sac is threatened, not missed, abo
 efficacy falls after 9 weeks). The 5-week bleeding scan → **threatened abortion**.
 
 **REMEMBER:** *Sac 5, yolk 5.5, heart 6 — and a closed os means only threatened.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/06/14/4_WiEESAd.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/18/picture1_ZHsbau5.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/18/screenshot-2024-01-18-105412_GeIfj1d.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/06/10/untitled-661.jpg)
 
 `Q9594, Q9582, Q9583`
 
@@ -3031,6 +3297,11 @@ measure at the myoma surface. Also image identification of the **myoma screw**.
 
 **REMEMBER:** *Control the inflow, not the tumour's own skin.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/06/15/2.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/06/15/2.jpg)
+
 `Q9587, Q9588`
 
 ---
@@ -3059,6 +3330,10 @@ wall. This is a rare instance of a **physiological consequence defining a stage*
 
 **REMEMBER:** *A blocked ureter means the sidewall is involved — that's IIIB.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/12/18/picture23_ZC18iSO.jpg)
+
 `Q9598`
 
 ---
@@ -3085,6 +3360,10 @@ because the old terms were used inconsistently. The numbers were narrowed to ref
 
 **REMEMBER:** *24 to 38 is normal now; LH is the high one and the glucose:insulin ratio is
 the low one.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/06/15/untitled-761.jpg)
 
 `Q9597, Q9586`
 
@@ -3115,6 +3394,11 @@ the promontory = **diagonal conjugate**) and the numeric recall of which conjuga
 shortest (**obstetric**).
 
 **REMEMBER:** *Feel the diagonal, subtract two, and you have the obstetric conjugate.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/06/13/obg-13.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/13/screenshot-2024-01-13-174838.jpg)
 
 `Q9596`
 
@@ -3325,6 +3609,12 @@ to histology. **Schiller–Duval = AFP = yolk sac** is the single highest-yield 
 
 **REMEMBER:** *The yolk sac made AFP in the fetus, and its tumour still does.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/bd2b5020f67f4f4caf02bb8405d8b376.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/658ad21b17c54c6f8e16bd12131fbb43x800x600.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ac25710341c747349404d7fb34e3e14fx800x423.PNG)
+
 `Q10838`
 
 ---
@@ -3354,6 +3644,10 @@ by "which other condition is this done for" — pick the one **inside the uterin
 
 **REMEMBER:** *A curette only knows what is inside the cavity.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/16cdc6a0524a49bf9979457a35a40885x1280x4487.JPEG)
+
 `Q10833`
 
 ---
@@ -3382,6 +3676,11 @@ the finding itself — the fluid is still telling you something.
 the work-up is finished. It isn't — **cardiac defect** is the answer.
 
 **REMEMBER:** *Thick nuchal fold, normal chromosomes — look at the heart.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture28.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture29.jpg)
 
 `Q10878`
 
@@ -3420,6 +3719,10 @@ all paternal**, partial mole **69,XXY triploid**. Don't be lured by "any of thes
 
 **REMEMBER:** *All father, no baby — 46,XX complete. Triploid with a fetus — partial.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture40_Z2UabYR.jpg)
+
 `Q10886`
 
 ---
@@ -3451,6 +3754,10 @@ washings**) to tempt you into Stage III. Anchor on the one thing that counts her
 
 **REMEMBER:** *Half the myometrium makes it IB; washings and LVSI change the treatment,
 not the stage.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture45_AgNegDF.jpg)
 
 `Q10892`
 
@@ -3574,6 +3881,10 @@ is based on Zhang, not Friedman.**
 
 **REMEMBER:** *Friedman said four, Zhang says six — and six is why fewer caesareans.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture42_cyrT7Hh.jpg)
+
 `Q10889`
 
 ---
@@ -3604,6 +3915,10 @@ separating it from an infarct, and the reason it resolves when the pressure is c
 are haemorrhages, which would be hyperdense on CT and asymmetrical.
 
 **REMEMBER:** *Back of the brain, vasogenic, reversible — control the pressure and it goes.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture43_Ut01KC3.jpg)
 
 `Q10890`
 
@@ -3791,6 +4106,10 @@ is anatomically implausible (**bowel**). Everything urological or haemorrhagic i
 **REMEMBER:** *The scar and the placenta sit in front of the bladder — that's what gets
 injured.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/84268612f965433bacb61fb002a017edx600x1200.PNG)
+
 `Q10967`
 
 ---
@@ -3851,6 +4170,11 @@ and only then does pregnancy need excluding.
 Beyond 4 weeks → pregnancy test first.**
 
 **REMEMBER:** *Four weeks of grace — inject and reassure.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/86bd1bc1e387428a871ff147a72ba92dx398x265.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/de9fec57e05b490e86a15552c7c8a07dx432x273.PNG)
 
 `Q10973`
 
@@ -4015,6 +4339,10 @@ A head palpable abdominally excludes every instrumental option.
 **REMEMBER:** *Fully dilated is not enough — if the head is still palpable above the brim,
 it is a caesarean.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/07/04/whatsapp-image-2023-06-12-at-1901210142.jpg)
+
 `Q11282`
 
 ---
@@ -4049,6 +4377,10 @@ test.
 
 **REMEMBER:** *Breathing goes first, tone goes last — and a dry uterus is the worst sign of
 all.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/06/screenshot-2024-08-06-171706.png)
 
 `Q11283`
 
@@ -4147,6 +4479,11 @@ for a **parallel oestrogenic finding** — superficial cells.
 
 **REMEMBER:** *Oestrogen makes the mucus fern and the vaginal cells mature to the surface.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/c2302f084c6d4529a61d263324a87621.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2134856a735e49468f837401430009cdx1280x1259.JPEG)
+
 `Q11794`
 
 ---
@@ -4178,6 +4515,11 @@ pathology, which is why it is the most specific criterion.
 **REMEMBER:** *Glands invade the inner myometrium, so the dark junctional zone swells past
 12 mm.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4f542cb0991b4ff7907d364bb827670cx720x535.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/06dbd579fd894c0c8c181c4990cdc9e7x1280x1362.JPEG)
+
 `Q11829`
 
 ---
@@ -4208,6 +4550,10 @@ Select only the three **synthetic-failure** items.
 
 **REMEMBER:** *HELLP breaks the blood; AFLP stops the factory — glucose, fibrinogen and
 ammonia tell you which.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f077ca247cd04557a853146956d7aa68x926x1164.PNG)
 
 `Q11837`
 
@@ -4262,6 +4608,11 @@ invasive sampling or treatment.
 
 **REMEMBER:** *Above the hymen is minus, below is plus.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/8147be931ab0473799ed315b00581c74.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e849497ff314477d9a3f81077b0beb85x1280x1716.JPEG)
+
 `MG6790`
 
 ---
@@ -4305,6 +4656,11 @@ invasive sampling or treatment.
 **EXAM CONNECTION:** Four options permute **villous vs extravillous** and **spiral vs radial vs arcuate**. Both halves must be right: **extravillous + spiral**.
 
 **REMEMBER:** *The second wave never reaches the myometrium.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/86fef835bafd42e686f42bb3043e1266x1092x1198.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c4932fbb82fa41379426e3247e9630d1x1280x1211.JPEG)
 
 `MF5407`
 
@@ -4368,6 +4724,10 @@ invasive sampling or treatment.
 
 **REMEMBER:** *Uterus present means AMH never worked; breasts present means oestrogen did.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/536987446eb543f386274c52bc9e5974x1280x2560.JPEG)
+
 `MC5259, MF9070, MF9076`
 
 ---
@@ -4388,6 +4748,37 @@ invasive sampling or treatment.
 **EXAM CONNECTION:** Memorise the T21 pattern as **"two up, two down"** — the two placental markers up, the two fetal markers down.
 
 **REMEMBER:** *Down has a hyperactive placenta and a lazy fetal liver.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/f95f38e8c328433ba238c27103092202.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fd62dfe8dcf5418ea9a2f29351bd9b37x510x620.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f02e322ff69b4b55a63ed0a13be69d5ax720x949.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/491bc031737649698c4fa4e967f5a63ax1280x1040.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2818c67a680a4ecb8c469b4367d07871x278x312.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2ab58285283846c7b771bb9264340273x766x580.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e3e6a1d4fe2e441aa76b127e5cbf6b70x720x509.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/834f223749cf4963945a63e9b765ff24.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4a6093fd75bb44d8af17bbafadb4ec6ax510x739.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0107150786554fcda9b910fc34d331e3x512x216.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c3e68832f192432eac95bf1cea92e77cx1279x1242.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/810cc7ebcf18409abce7cd62b6b858a6x1279x1242.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b977a6a87feb493d917eab3a06a51189x512x392.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9d37c295525d496e93fbe593d3d660c9x441x410.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0205246a80d84182a7f6f3d9a62cd4f0x512x167.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dd46a08662134b7c999747aff0d5df8bx234x157.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a02452a643604fae944b810e71a2de01x210x188.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/65667801a0fb450ab1af9a1939e7ff8dx1280x1432.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/96f08dd9f0fa4fc694291835f3cd15b3x510x432.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8c59f243f5294b64ac000021835b7b5fx510x396.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/41b99e48f08c46fbb6bafdd542c1891dx1280x955.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0ef0a805761c4ec987831c7a0197d01cx510x418.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5e04c4b1c58a44258a37864e5518899ax510x354.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0eef8c33a1a143e38b966f4ec038a545x1076x711.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/972403fa3d0e48a08e561ff4310101acx510x620.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/96660889c8b34a0f89ee373ebdb60f40x1280x1040.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/91de267cb9594cb6ba98e16f4495780fx443x490.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6353c90095d1471696dac8fa7bd2a3b3x676x568.JPEG)
 
 `MC6347, MF1513, MF0544`
 
@@ -4495,6 +4886,10 @@ invasive sampling or treatment.
 
 **REMEMBER:** *Cut the septum from inside and leave the wall intact.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b5daabaa46584f8ca9566b45a6d7c54dx1280x4923.JPEG)
+
 `MD0696`
 
 ---
@@ -4514,6 +4909,12 @@ invasive sampling or treatment.
 **EXAM CONNECTION:** The critical phrase is **"membranes are felt"** — intact. That converts the answer from prolapse management to **immediate caesarean with membranes preserved**.
 
 **REMEMBER:** *Intact membranes are protecting the cord — do not break them.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/775c094e466e45c8a7d14e02518f0bb5x310x190.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1c9d0b81ed434fa7bcbe1655a25cff42x1280x1870.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/81959a2ab2bc41e4a07cfc0e437ec33b.JPEG)
 
 `MG1167, MB9873`
 
@@ -4557,6 +4958,10 @@ invasive sampling or treatment.
 **EXAM CONNECTION:** Three vaginitides, three discharges, three pH values. The strawberry cervix image is unique to trichomonas.
 
 **REMEMBER:** *Frothy, itchy, strawberry, sexually transmitted — trichomonas.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d04e4e069cc2400695a2a719f54c5dcfx450x598.JPEG)
 
 `MD0690`
 
@@ -4688,6 +5093,14 @@ invasive sampling or treatment.
 **EXAM CONNECTION:** Eponym matching. **Kroener = fimbriectomy** is the single most-asked pairing.
 
 **REMEMBER:** *Kroener takes the fimbriae; Pomeroy takes a loop.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4caec47b20a04233891a5a2610e280aax1280x992.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8de23c3cf2764095b9cc139758f29e4ax1280x973.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a95b458acaae46e5bd94ba5828801655x1280x1852.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/459d8d4c6f1141a484d36daa5544d18ax1280x991.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/13030913f5e542d3ac44667d89b41702x1280x973.JPEG)
 
 `MC4452, MF5465`
 

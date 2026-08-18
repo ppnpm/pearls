@@ -21,6 +21,11 @@
 
 **REMEMBER:** *2 mild, 3 severe, 4 life-threatening, 5 dying, 6 dead.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/e7043d29a273452490437193fddb2028.JPEG)
+![question](https://media.cerebellumacademy.com/media/public/image_ba8Uepe.png)
+
 `Q8810, Q10089, Q10354`
 
 ---
@@ -42,6 +47,10 @@
 
 **REMEMBER:** *Class III still shows the base of the uvula; Class IV shows only hard palate.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/e7043d29a273452490437193fddb2028.JPEG)
+
 `Q10225, Q10089`
 
 ---
@@ -62,6 +71,15 @@
 **EXAM CONNECTION:** "Highest FiO2 in conventional oxygen therapy" → non-rebreather. "Which mask is preferred in COPD?" → Venturi.
 
 **REMEMBER:** *Non-rebreather for the highest FiO2; Venturi for the most PRECISE FiO2.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fd3a4d775a1e4e13bedbe85e3254fef5x720x960.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/64092b994c2348d38847b668aba7ad59x1280x1173.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/62d66d08f06a4f8a9edcb457427228a7x1280x1390.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/75aa475d4a604f40a8ef8ebd50cd58aax1280x1280.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/7ff9215818c84e6d855d8f7048e0cadc.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c27b9647869e4422b76221e4ceddc3e4x720x960.JPEG)
 
 `Q8805, Q10156, Q8811, Q10374`
 
@@ -166,6 +184,10 @@
 
 **REMEMBER:** *RSI = preoxygenate, drugs together, no bagging, cuffed tube — for the full stomach, not for the arrested heart.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7f3e319aa6174d5d9044e026fef3eed6x1176x1512.PNG)
+
 `Q8808`
 
 ---
@@ -207,6 +229,11 @@
 **EXAM CONNECTION:** Endoscopic image of a narrowed subglottis after prolonged intubation → "staging system" → **Cotton–Myer**.
 
 **REMEMBER:** *Cotton–Myer for subglottic stenosis: 50, 70, 99, none.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/18b974d106b84f62a622028c5005668d.png)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6c7938ac77534f1aa0e15552460ddc46x1280x1826.JPEG)
 
 `Q8817, Q9978`
 
@@ -334,6 +361,10 @@
 
 **REMEMBER:** *Lidocaine + prilocaine, 45 minutes, 5 mm deep — and prilocaine turns the blood brown.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/688fb994a2b44b8da42204a99a01db42.PNG)
+
 `Q8814`
 
 ---
@@ -354,6 +385,10 @@
 **EXAM CONNECTION:** Photograph of an exsanguinated limb with a tourniquet → identify **Bier's block**.
 
 **REMEMBER:** *IV anaesthesia behind a cuff — never bupivacaine, never release early.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d0eacc915ce34ba589bf5dc53b2308d3.JPEG)
 
 `Q8815`
 
@@ -397,6 +432,15 @@
 
 **REMEMBER:** *Fastrach to intubate; ProSeal/Supreme to protect the stomach; i-gel to insert fast.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d5379a4e2beb4d9ca9dad970172aaf8d.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/02e1af60fe574f39affa55d1423b58d8x1280x1547.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3f685b6927f841f38e2e52851c9608e4x1280x1047.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a36b5b75700c4d92b95743e21ca238a3x1280x1777.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/13ad5af14e2f4084adedff8ce343d63fx1280x1556.JPEG)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/12/18/picture15_ekic22E.jpg)
+
 `Q10252, Q10215`
 
 ---
@@ -416,6 +460,11 @@
 **EXAM CONNECTION:** Image of an anaesthetic circuit with the valve marked → opening pressure.
 
 **REMEMBER:** *APL pops off at 30–40 cmH2O — and a stuck one barotraumatises the patient.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/e9e7b14b36424f5ebd4f64378a1ea050.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/88d55e09cb5847649f01ad13a2ceec94x1280x426.JPEG)
 
 `Q8819, Q10175`
 
@@ -606,6 +655,12 @@
 
 **REMEMBER:** *Mallampati, Cormack–Lehane and Wilson assess. BURP fixes.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/24e02ad19ab843289898e7b67f9ae831x510x325.GIF)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a6f73de7a27844a1940d2bc2aa82d1aax1280x3999.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6b7731ed4b024568803d8aa1b4f787acx1280x3099.JPEG)
+
 `Q10747`
 
 ---
@@ -647,6 +702,10 @@
 **EXAM CONNECTION:** Photograph of a tube with a visible spiral → "specifically designed for" → **head and neck / prone surgery**.
 
 **REMEMBER:** *Spiral = won't kink = head, neck and prone.*
+
+
+**IMAGES:**
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/e427c2ec5e5815509d8b38ab8c8d8f6d.webp)
 
 `Q10437`
 
@@ -859,6 +918,11 @@
 
 **REMEMBER:** *C seals down, E lifts up — and every finger stays on bone.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4d4a089781de4526bad5e8a55be3978ex1280x1063.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/695009ac8fd04796901480b9bf91328a.PNG)
+
 `Q10753, Q8816`
 
 ---
@@ -992,6 +1056,11 @@ variable- and fixed-performance devices.
 
 **REMEMBER:** *Reservoir for the highest concentration; Venturi for the most reliable one.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture25.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture26.jpg)
+
 `Q10870`
 
 ---
@@ -1054,6 +1123,11 @@ by lying flat.** Compensatory **cerebral vasodilatation** adds to the pain.
 
 **REMEMBER:** *Split the dural fibres, don't cut them — pencil points leak less.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ca40227eb560417699f97d0d88a8b4c6x1280x1717.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/83b981b2e07545d08c3889d69545fc3ex1200x799.JPEG)
+
 `Q11850`
 
 ---
@@ -1075,6 +1149,10 @@ by lying flat.** Compensatory **cerebral vasodilatation** adds to the pain.
 
 **REMEMBER:** *A blind needle in a closed cone bleeds before it does anything else.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/5eb4eeb027f8404bbbb71475c1295991.JPEG)
+
 `MA5812`
 
 ---
@@ -1095,6 +1173,11 @@ by lying flat.** Compensatory **cerebral vasodilatation** adds to the pain.
 **EXAM CONNECTION:** Image of a soft flanged tube → "true statement" → **can be used in conscious patients**. Every wrong option is a property of the *oral* airway (teeth damage) or a false safety claim (facial trauma).
 
 **REMEMBER:** *The nose route dodges the gag; the mouth route provokes it.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/69a1ea2e15c54b5a8e3e144fe0293f69.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/69f20e42939f424b84f1df3d8aae0838x1280x960.JPEG)
 
 `MG6768`
 
@@ -1158,6 +1241,13 @@ by lying flat.** Compensatory **cerebral vasodilatation** adds to the pain.
 
 **REMEMBER:** *No waveform for three breaths, no trachea.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a7e7e748e0f640488db1f6449610de07x1280x1075.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/052306edaff848b5aa50df3815a98d1cx1280x4942.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/c3eb2f02713d4f108ef0c9cca63d9874.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f4593cdc76ff47e7b1c27cfd8868f381x1279x904.JPEG)
+
 `MF1362, MA2839, MD0678`
 
 ---
@@ -1200,6 +1290,10 @@ by lying flat.** Compensatory **cerebral vasodilatation** adds to the pain.
 
 **REMEMBER:** *Ketamine props up the circulation and the airway but pushes up the pressure in the head.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/be48d8c17d4b421bb2e752e37fe3e621.JPEG)
+
 `MA5744, MA5117, MA5093, MA5035`
 
 ---
@@ -1220,6 +1314,11 @@ by lying flat.** Compensatory **cerebral vasodilatation** adds to the pain.
 **EXAM CONNECTION:** Ranking questions appear in both flavours — "arrange by potency" (use MAC) and "fastest induction" (use blood–gas). The single most-asked trap: choosing lowest MAC gives you **highest potency, not fastest induction**.
 
 **REMEMBER:** *Solubility sets the speed, MAC sets the strength.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2b4742a236574d888df15bbc175acb5dx1280x1280.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/07a4b3ffcc41420c90d72d54795fba78x860x68.PNG)
 
 `MF4933, MA5857, MA5854, MA5863`
 
@@ -1283,6 +1382,11 @@ by lying flat.** Compensatory **cerebral vasodilatation** adds to the pain.
 **EXAM CONNECTION:** Straight matching questions. The single most-confused pair is **DISS (pipeline) vs PISS (cylinder)** — read which word appears in the stem.
 
 **REMEMBER:** *Pins for cylinders, diameters for pipelines.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e0d65c4f15264135884407f1f0571accx1280x1076.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3ca9b5f3a06f4027b9626096e9c988f7x1280x1026.JPEG)
 
 `MA4161, MA2294`
 
@@ -1366,6 +1470,12 @@ by lying flat.** Compensatory **cerebral vasodilatation** adds to the pain.
 **EXAM CONNECTION:** Image-based: device with a metal handle and a tube through it → advantage = **facilitates endotracheal intubation**. The distractor "port for orogastric tube" belongs to **ProSeal/Supreme**, not Fastrach.
 
 **REMEMBER:** *The one with a handle is the one you intubate through.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/0bd240ce49a2486c82427622bad5bf73.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e4d267bcfe264d7e9c9f9c723c98b18cx1063x1381.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/26de9b0b9395464abb55055aab4255aax1280x1662.JPEG)
 
 `MA2271`
 

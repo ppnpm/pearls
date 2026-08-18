@@ -126,6 +126,10 @@
 
 **REMEMBER:** *Hinchey tells you whether to drain it or resect it.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/28/picture8_s8T1Gmi.jpg)
+
 `Q9785, Q9791`
 
 ---
@@ -146,6 +150,13 @@
 **EXAM CONNECTION:** First symptom in obstruction → **colicky pain**; significant small bowel dilatation → **>3 cm**; adhesive obstruction next step → **CECT abdomen**; incorrect about strangulation → **that the splenic flexure is most prone to ischaemia in large bowel obstruction**; obstipation not a necessary feature → **Richter's hernia**; IV neostigmine → **colonic pseudo-obstruction**.
 
 **REMEMBER:** *Vomit early means high, distend early means low — and the caecum bursts first.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture4.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture3.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture2.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture8.jpg)
 
 `Q9799, Q9798, Q9800, Q9794, Q9802, Q9797`
 
@@ -189,6 +200,12 @@
 
 **REMEMBER:** *No ganglion cells on suction biopsy; thick meconium stuck at the terminal ileum with an unused colon beyond.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/28/picture3_HnFAXRu.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture6.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture7.jpg)
+
 `Q9787, Q9792, Q9796`
 
 ---
@@ -209,6 +226,10 @@
 **EXAM CONNECTION:** Oesophageal perforation needing operative management → **Boerhaave syndrome**; incorrect about full-thickness rectal prolapse → **that men are affected 6 times more than women**.
 
 **REMEMBER:** *No serosa means no barrier — a ruptured oesophagus contaminates the mediastinum within hours.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/12/05/screenshot-2023-12-05-163230.jpg)
 
 `Q9795, Q9805`
 
@@ -252,6 +273,10 @@
 
 **REMEMBER:** *Spasm starves the posterior midline — relax the sphincter and the fissure heals.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture6_paG6mqe.jpg)
+
 `Q9809, Q9817, Q9815, Q9814, Q9813`
 
 ---
@@ -272,6 +297,13 @@
 **EXAM CONNECTION:** Strangulates without obstruction → **Richter's hernia**; bowel forming part of the sac wall → **sliding hernia**; reduction of an incarcerated hernia → **taxis**; true about femoral hernia → **appears below and lateral to the pubic tubercle**; NOT a ventral hernia → **femoral**; wrong femoral ring boundary → **lateral–conjoint tendon**; umbilical hernia after pregnancy → **Mayo's operation**.
 
 **REMEMBER:** *A narrow neck kills quietly — Richter's strangulates while the bowels still open.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/29/screenshot-2024-03-29-184843.png)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/12/13/105.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/06/02/untitled-194.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/30/screenshot-2024-03-30-095414.png)
 
 `Q9818, Q9819, Q9823, Q9826, Q9829, Q9820, Q9830, Q9828`
 
@@ -294,6 +326,11 @@
 
 **REMEMBER:** *Mesh removes tension; keeping tacks above the iliopubic tract removes the pain.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/06/03/hernia-12.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/06/02/untitled-192.jpg)
+
 `Q9821, Q9824, Q9822, Q9831, Q9825`
 
 ---
@@ -314,6 +351,13 @@
 **EXAM CONNECTION:** GERD not responding to PPI → **endoscopy**; incorrect about GERD → **that regurgitation is well controlled by PPIs**; salmon-coloured mucosa with reflux → **Barrett oesophagus**; correct about hiatus hernia → **mixed type involves upward migration of the GE junction**; definitive treatment of achalasia → **Heller's myotomy**; incorrect about Plummer–Vinson → **that myotomy is used to dilate the webs**.
 
 **REMEMBER:** *PPIs change the acid, surgery changes the anatomy — regurgitation needs the anatomy fixed.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/06/01/untitled-172.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/18/screenshot-2024-03-18-172706.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/27/screenshot-2023-04-26-123631_AcyAjOO.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/06/01/surgery-31.jpg)
 
 `Q9812, Q9816, Q9835, Q9827, Q9811, Q9834`
 
@@ -337,6 +381,12 @@
 
 **REMEMBER:** *Anterior ulcers perforate, posterior ulcers bleed — the wall behind decides the emergency.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/06/02/backup_of_backup_of_surgery-2-1.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/06/02/backup_of_backup_of_surgery-20.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/screenshot-2024-03-15-191820.jpg)
+
 `Q9840, Q9841, Q9839, Q9836, Q9837`
 
 ---
@@ -357,6 +407,14 @@
 **EXAM CONNECTION:** Incorrect about the upper GI endoscope → **that it is useful for diagnosing GIST**; commonest complication of oesophageal stenting → **migration**; identifying narrow band imaging.
 
 **REMEMBER:** *The scope sees mucosa only — a submucosal lump needs ultrasound, not forceps.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/06/02/untitled-180.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/27/screenshot-2023-04-26-123631_ITvc20H.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/picture1_9pIu6Y2.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/screenshot-2024-03-15-153546.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/screenshot-2024-03-15-153703.jpg)
 
 `Q9838, Q9833, Q9832`
 
@@ -379,6 +437,10 @@
 
 **REMEMBER:** *Find one VACTERL defect and you are obliged to hunt for five more.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture5_lUloloi.jpg)
+
 `Q9810`
 
 ---
@@ -399,6 +461,11 @@
 **EXAM CONNECTION:** Commonest site in Western countries → **proximal stomach**; D2 lymphadenectomy → **stations 1–11**; true GE junction tumour → **Siewert type II (1 cm above to 2 cm below)**; inaccurate about gastric TNM → **that Dukes staging was used for stomach cancer**; incorrect about gastric polyps → **that metaplastic polyps are strongly associated with FAP**; incorrect about gastric lymphoma → **that the fundus is the commonest site**.
 
 **REMEMBER:** *Perigastric nodes are D1; add the arterial trunks and you have D2.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/22/screenshot-2024-03-22-192920.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/22/screenshot-2024-03-22-192225.png)
 
 `Q9842, Q9848, Q9849, Q9847, Q9844, Q9846`
 
@@ -442,6 +509,14 @@
 
 **REMEMBER:** *Ladd's does not straighten the gut — it widens the mesentery so it cannot twist.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/06/10/f_OaTcyCa.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/23/screenshot-2024-03-23-120902.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/23/screenshot-2024-03-23-121141.png)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/06/10/picture5_AqOOW7J.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/06/10/picture7_zfhUHyc.jpg)
+
 `Q9850, Q9851, Q9853, Q9852, Q9854`
 
 ---
@@ -463,6 +538,13 @@
 
 **REMEMBER:** *Operate on the asymptomatic gallbladder only when the stone, the wall or the patient carries a cancer risk.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture21.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture30.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture31.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture17.jpg)
+
 `Q9861, Q9856, Q9862, Q9866, Q9855, Q9876`
 
 ---
@@ -483,6 +565,11 @@
 **EXAM CONNECTION:** Incorrect gallbladder cancer risk factor → **adenomyomatosis**; management of T1a gallbladder cancer → **no further treatment**; Todani type III → **endoscopic sphincterotomy**; confluence with unilateral second-order extension → **Bismuth–Corlette III**.
 
 **REMEMBER:** *No submucosa in the gallbladder — so once the tumour reaches muscle, it needs the liver bed out too.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture26.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture33.jpg)
 
 `Q9863, Q9864, Q9865, Q9867`
 
@@ -547,6 +634,12 @@
 
 **REMEMBER:** *Big duct, drain it; small duct, resect it; annular pancreas, bypass it.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture39.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture40.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture36.jpg)
+
 `Q9874, Q9868, Q9875`
 
 ---
@@ -607,6 +700,10 @@ answer **MRI, SWI sequence**.
 
 **REMEMBER:** *Deep coma + clean CT = shearing, not bleeding.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d65f01d0e377468fa13f3e569e53408cx720x835.JPEG)
+
 `Q9879, Q10361`
 
 ---
@@ -634,6 +731,13 @@ with obstruction as the answer; or an image of gas under both domes asking the
 **diagnosis** or the **next step (erect CXR / laparotomy)**.
 
 **REMEMBER:** *Obstruction fills the bowel; perforation empties it into the peritoneum.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/3e6615499bb047c09a3ad82a1b315fed.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c7177ced5f934699b47fccdf6b8a0635x1279x1410.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f1e757e5e4ad4cb9ad52817087b60c6ex1279x1662.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/66d755b07838450a89db5c238649d3fax1279x1642.JPEG)
 
 `Q9995`
 
@@ -698,6 +802,10 @@ malnutrition" (**duodenal**).
 
 **REMEMBER:** *Long tract closes; short, lined, fed-by-a-foreign-body tract never will.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/6d1eac14816a4a3290279f24465d46f5.PNG)
+
 `Q10075, Q10287`
 
 ---
@@ -732,6 +840,14 @@ enters and which segment is filled*.
 
 **REMEMBER:** *Blood at the meatus — hands off the urethra.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ee069926e84141a7b30fc319b1a1bbf6x1280x1573.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6339791e8b734d5cb732e51ff3daf5d1x1280x2105.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/32eb798d6bc34d4892cb9c59c28224b0.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3e25e9ceb90c490d861289d850eac22ex608x520.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/08236bd5a4d343518c8760b7cb3d28f3x1080x1400.JPEG)
+
 `Q10090, Q10128`
 
 ---
@@ -760,6 +876,10 @@ M1**; candidates who read only the skin changes pick T4d N3c M0 and lose the mar
 
 **REMEMBER:** *Cross the midline and you've left the N's behind — that's M1.*
 
+
+**IMAGES:**
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/d87d9518c7cb042899e7a0154c04f949.webp)
+
 `Q10044, Q10293, Q10724`
 
 ---
@@ -786,6 +906,10 @@ circulating PTH and the time for calcium to fall; that delay is what the stem is
 "immediately on extubation" is nerve; "within 6 hours with neck swelling" is haematoma.
 
 **REMEMBER:** *Day 0 hoarse = nerve. Day 2 twitchy = calcium.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/288489a34deb41d4aaf6b61f432d0f09.PNG)
 
 `Q10053`
 
@@ -818,6 +942,10 @@ struvite.
 
 **REMEMBER:** *Urease splits urea, alkali makes struvite, AHA blocks urease.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/Screenshot%202025-02-08%20180331.jpg)
+
 `Q10408, Q9961`
 
 ---
@@ -848,6 +976,12 @@ investigation). Read the image description, not just the vitals.
 
 **REMEMBER:** *Unstable, peritonitic, eviscerated, or shot — open. Otherwise, look first.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/7f3261b23428411181affe1bd060839f.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/08a610ca86a342fcb7afd84dd7f93d65x1280x1993.JPEG)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/09/01/image-15.jpg)
+
 `Q10138, Q10410`
 
 ---
@@ -877,6 +1011,23 @@ on.
 
 **REMEMBER:** *Vein in Paget–Schroetter, upper-third for the cyst, sural for the graft,
 Category III is the controlled one.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0e958c1ce5034e74b88ccc31e90e2bc3x900x1200.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bbfe56269aff4879acd49324704d5815x600x523.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/b0122d924eac4e0ca8fee2cd815268cd.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/39c1d3e746df47188855975dc0fae789x264x190.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3fb6255ebdf048a4963468da1f8b2c8fx300x149.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d49c4f0988a94b6bb17ec1fc4c4ecd4dx312x277.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5beb3ce169b54a83aeb4d086df55e0a5x348x146.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/54a66bb98e4d4490a080fa68c43bf150.PNG)
+![explanation](https://cdn1.dailyrounds.org/uploads/a76570f91c0b488d968011b49769de65x461x244.PNG)
+![explanation](https://cdn1.dailyrounds.org/uploads/f8f47340536a40bfaf187d58e481f8e4x486x373.PNG)
+![explanation](https://cdn1.dailyrounds.org/uploads/a2ad03a494a7422a9e51329ce02fa6f1x493x504.PNG)
+![explanation](https://cdn1.dailyrounds.org/uploads/b9d18d774beb4ae99115790eec9803bdx725x278.PNG)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/09/02/screenshot-2024-09-02-155902.png)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/91ea1c2efe24404aa594b8f26d57e44fx1280x4050.JPEG)
 
 `Q10107, Q10158, Q10304, Q10131, Q10012, Q10299, Q9962, Q10356, Q10306, Q10330, Q10329`
 
@@ -931,6 +1082,11 @@ hilum, Hannover remembers the artery.*
 
 **REMEMBER:** *Leaf-like stroma, spreads by blood not lymph — wide excision, never the axilla.*
 
+
+**IMAGES:**
+![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/082340a6423a693f2e9b6fce412d654c.webp)
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/73daf7da0e5d62ee1787e9ba49d4cd83.webp)
+
 `Q10721, Q10720`
 
 ---
@@ -950,6 +1106,10 @@ hilum, Hannover remembers the artery.*
 **EXAM CONNECTION:** Pure terminology matching, or "all are true about amazia EXCEPT" → "amazia is absence of the nipple" (that is athelia).
 
 **REMEMBER:** *Thelia = nipple, mastia = gland. Amazia keeps the nipple and is usually the surgeon's fault.*
+
+
+**IMAGES:**
+![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/44136e7475e5cdbf119a02af93ac4554.webp)
 
 `Q10722, Q10723`
 
@@ -992,6 +1152,10 @@ hilum, Hannover remembers the artery.*
 **EXAM CONNECTION:** "Not a complication of bladder drainage of a transplanted pancreas" → **metabolic alkalosis**.
 
 **REMEMBER:** *Alkaline juice down the drain = acid left behind.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/12/30/picture2.jpg)
 
 `Q10212`
 
@@ -1053,6 +1217,10 @@ ABPI trap — never bandage without it.
 
 **REMEMBER:** *Venous ulcers slope; arterial ulcers are punched out.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture37.jpg)
+
 `Q10860`
 
 ---
@@ -1079,6 +1247,10 @@ materials fail on one or both counts.
 **Prolene for vessels** is asked repeatedly.
 
 **REMEMBER:** *Radial forearm carries skin on fascia; arteries are sewn with Prolene.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture38.jpg)
 
 `Q10861, Q10866`
 
@@ -1111,6 +1283,10 @@ adhesions that cause the next episode.
 stable patient without peritonitis.
 
 **REMEMBER:** *Drip and suck while the CT decides whether to cut.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture8.jpg)
 
 `Q10850`
 
@@ -1267,6 +1443,10 @@ you cannot use a test to exclude what you have already demonstrated.
 **REMEMBER:** *Sentinel node answers a question — don't ask it when you already know the
 answer.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture2.jpg)
+
 `Q10903`
 
 ---
@@ -1298,6 +1478,10 @@ disease → chemotherapy after orchidectomy**, not RPLND or radiotherapy first.
 
 **REMEMBER:** *Through the groin, never the scrotum — then chemotherapy for the para-aortic
 nodes.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture41_TOWotaw.jpg)
 
 `Q10922`
 
@@ -1655,6 +1839,10 @@ false options.
 **REMEMBER:** *Mixed flora thrombose the fascia — cut it all out, and leave the testes
 alone.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/09/25/picture28.jpg)
+
 `Q11289`
 
 ---
@@ -1685,6 +1873,10 @@ before the procedure.
 the chest rules out a chest drain; NG tube, log roll and analgesia are all safe.
 
 **REMEMBER:** *Never put a drain into a chest full of bowel.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/11/17/picture1.jpg)
 
 `Q11273`
 
@@ -1751,6 +1943,10 @@ and PET are distractors.
 **REMEMBER:** *Liquids and solids together means the muscle, not the lumen — manometry
 proves it, endoscopy excludes cancer.*
 
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/05/04/untitled-183.jpg)
+
 `Q11278`
 
 ---
@@ -1813,6 +2009,10 @@ worsen the pancreatitis.
 **"ERCP least useful" → acute pancreatitis without stones**.
 
 **REMEMBER:** *Map it with MRCP; only reach for ERCP when you intend to do something.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/26/screenshot-2024-08-26-175606.jpg)
 
 `Q11313, Q11301, Q11302, Q11312`
 
@@ -1877,6 +2077,11 @@ the number: **narrow (<25°) obstructs.**
 
 **REMEMBER:** *Lose the fat pad, close the angle, trap the duodenum.*
 
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/09/whatsapp-image-2024-09-09-at-60550-pm.jpeg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/09/whatsapp-image-2024-09-09-at-60554-pm.jpeg)
+
 `Q11311`
 
 ---
@@ -1907,6 +2112,11 @@ laterality spectrum (**absent kidney**).
 
 **REMEMBER:** *A laterality defect — spleens, situs, rotation and veins go wrong together;
 and operate before 60 days.*
+
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/05/04/untitled-182.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/20/picture1555.jpg)
 
 `Q11308, Q11305`
 
@@ -1942,6 +2152,13 @@ diameter, sitting with neck flexed, cystine resists ESWL, insulinoma commonest P
 
 **REMEMBER:** *Four times the wound, outer diameter in French, chin down for the Ryle's
 tube.*
+
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/09/screenshot-2024-09-09-164749.png)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/05/08/screenshot-2024-05-08-123903.JPG)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/09/05/screenshot-2024-09-05-093702.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/05/screenshot-2024-09-05-112015.png)
 
 `Q11317, Q11322, Q11300, Q11329, Q11332, Q11331, Q11298, Q11307, Q11330, Q11320`
 
@@ -2074,6 +2291,10 @@ gain of function**; MEN 1 = menin, loss of function.
 
 **REMEMBER:** *RET switched ON gives MEN 2; RET switched OFF gives Hirschsprung.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/e31505be1cbb411781f75172bbd94af0.JPEG)
+
 `Q11824`
 
 ---
@@ -2139,6 +2360,11 @@ readings).
 **REMEMBER:** *Two cultures, typical organism — that's a major criterion; two transverse
 creases — that's MacFee.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d4d3532287f7489b88469826542b5967.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/055f1bab79fd4d128ea4b78f73ba1c05x1280x2546.JPEG)
+
 `Q11841, Q11840`
 
 ---
@@ -2170,6 +2396,11 @@ management. **Calcified = CE5 = observe.**
 
 **REMEMBER:** *Calcified means dead — leave it alone; active and unilocular means PAIR;
 honeycomb means surgery.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d38b00bb1738446eb1c728f36b8c3557.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7ac33059a5a14243b5f4ec89754d5ccbx1280x1799.JPEG)
 
 `Q11820`
 
@@ -2203,6 +2434,10 @@ surgeon's knot, and **haemorrhagic cystitis in a child** points to adenovirus.
 **REMEMBER:** *Double the first throw so it cannot slip; adenovirus 11 and 21 bleed the
 bladder.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/594c2a3ca3d74865a7d0d5a8d4b9f78fx1280x2097.JPEG)
+
 `Q11822, Q11846`
 
 ---
@@ -2224,6 +2459,13 @@ bladder.*
 **EXAM CONNECTION:** Labelled anatomical diagram, and the paired clinical question about post-cholecystectomy collections answering **pigtail drainage**.
 
 **REMEMBER:** *Fluid runs down the right gutter and pools under the liver.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/fcd0340198df42f19194eac3c2c5466a.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8a06d58bf48844608a03d99182f2f454x1280x1792.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4b054ae0f1fd4a04baa35c8686c0c01ax1280x2262.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/01e363fe8e3344b78c45d8a2148d4b3cx1280x2262.JPEG)
 
 `MF5375, MC9377, MC9376`
 
@@ -2247,6 +2489,11 @@ bladder.*
 
 **REMEMBER:** *Type three first and weak; type one later and strong.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b72ac66835784d84b7a009900b801a2d.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/343819643f414ecdb0ef4a522676ff6d.JPEG)
+
 `MA6497, MD0217, MC1438`
 
 ---
@@ -2267,6 +2514,11 @@ bladder.*
 **EXAM CONNECTION:** The **mechanism** in the stem decides the site: manhole/bicycle/straddle → bulbar; road traffic accident with pelvic fracture → membranous.
 
 **REMEMBER:** *Perineal blow hits the bulb; pelvic fracture shears the membrane.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ef272ab3dfdb4b2caf63e055e6b81b5fx1280x2104.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/4db798c2a59c445eaf0bdd00f3eb2e11.JPEG)
 
 `MD0768, MF1780, MF5331`
 
@@ -2289,6 +2541,10 @@ bladder.*
 
 **REMEMBER:** *Within two years it was left behind; after two years it was made there.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cb8a9fd06ff049cf8d8471ff68af11dcx1280x6315.JPEG)
+
 `MF1322, MF0817, MG1110`
 
 ---
@@ -2309,6 +2565,11 @@ bladder.*
 **EXAM CONNECTION:** "Not a complication of this method" — identify from the image whether the route is central (TPN) or enteral, then pick the complication belonging to the other route.
 
 **REMEMBER:** *Only food that passes the throat can be aspirated.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/bd892fa4aec9484f88fc620c3f28fc5d.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/1f856bc80d264b0c98541855fcbe7743.JPEG)
 
 `MF9295, MF5380`
 
@@ -2332,6 +2593,17 @@ bladder.*
 
 **REMEMBER:** *Class by the worst sign, suffix by the symptoms.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/299dec7ce467441ab2587d7d16a6c1e8.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a8710644f6454710bb237aa02464cb00x464x1513.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/782e30f3abda49e68ea3f6ee3e5a484ax1280x960.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0400f6b898e040d89a286cfd17edf069x495x375.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/ab27542be9694df6966f39881dbdcbd6.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/05cd84aa9c6b4ba4b8a703203b56ca84x1280x956.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a277163d01f14377a0caac15cdb27804x648x432.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1f0c315db1d94698b862516e1b06e8bfx900x1200.JPEG)
+
 `MF1317, MF8180`
 
 ---
@@ -2354,6 +2626,10 @@ bladder.*
 
 **REMEMBER:** *It came down from the neck, so it can go back up through the neck.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/a7e0542ebb724f978e6cd49358048f9c.JPEG)
+
 `MD0816, MF8139`
 
 ---
@@ -2374,6 +2650,10 @@ bladder.*
 **EXAM CONNECTION:** The blood supply is the answer, and the intralobar/extralobar distinction turns on **pleural covering and venous drainage**.
 
 **REMEMBER:** *Lung tissue that never joined the airway keeps its embryonic aortic supply.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/cac0f56ef35d43b0a72010bfbc60002c.JPEG)
 
 `MB7710, MB6977`
 
@@ -2397,6 +2677,17 @@ bladder.*
 **EXAM CONNECTION:** "False regarding horseshoe kidney" → **division of the isthmus improves function**. The IMA relation is asked separately.
 
 **REMEMBER:** *It stopped rising because the inferior mesenteric artery was in the way.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/9c3e978220ff4fbfac13c95bb34b2147.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/33d94c9fb40544c1b799daa5505ade16x1280x1276.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/75ebbf0994d949e1ab250a1bf84f25c9x720x533.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/f4f50c5f1f674ce89ce50d157a6fa490.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e9b7fc3c5c6a45698024013c1ae6f717x1280x1703.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8ef8a12be91346fcbbf1110c83f50f74x490x649.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/11138d2cb6824c879bc3b2b05541cc10x502x449.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/671962f1854c4c7186982ec8d1359b23x441x548.PNG)
 
 `MC3251, MC3423, MF1324`
 
@@ -2440,6 +2731,13 @@ bladder.*
 **EXAM CONNECTION:** Image recognition of a needle in the proximal tibia. The purpose — **vascular access for fluids/drugs**, not marrow sampling — is the discriminator.
 
 **REMEMBER:** *Marrow is a vein that cannot collapse.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/5643fcb7d9d645f1bb5a87876d642627.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/db2eb2bf3be34415997390fd7b265b31x1280x1352.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/c446264d75ba4e829845320cab454f02.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/95ae79a1d5cb4c0fa2d9437712a90e54x1279x1410.JPEG)
 
 `MF8273, MD9049`
 
@@ -2507,6 +2805,10 @@ bladder.*
 
 **REMEMBER:** *Before two is congenital and familial Milroy; after two is praecox and Meige.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/4aba0d02377b4b64808a992654f70480.PNG)
+
 `MB7689`
 
 ---
@@ -2526,6 +2828,12 @@ bladder.*
 **EXAM CONNECTION:** "Not a component" → **complication of surgery**. Incision identification is a separate image-based item.
 
 **REMEMBER:** *A preoperative score can only contain preoperative facts.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d50b7cd6d7c746e88f8d652fe21af10f.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/213ebc8183304f7b82e95491588f80c1x1280x1439.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/eca41929fa4245c2a6f4428370343172x1280x1434.JPEG)
 
 `MD0765, MG1067`
 
@@ -2548,6 +2856,10 @@ bladder.*
 **EXAM CONNECTION:** The image of a Roux loop to the liver hilum identifies the operation; the question then asks which association is false — **absent kidney**.
 
 **REMEMBER:** *Anastomose the bowel to the raw porta while the tiny ductules are still open.*
+
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/a8031d2804a445b1bf12408bb593e860.JPEG)
 
 `MC5346`
 
@@ -2593,6 +2905,11 @@ bladder.*
 
 **REMEMBER:** *Scar tissue has no vessels, nerves or lymphatics — so neither does the tumour in it.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/c3b0189e88984ebd8b0b961ab3365781.JPEG)
+![question](https://upload.wikimedia.org/wikipedia/commons/1/1a/SinusPilonidalis.jpg)
+
 `MB2793, MA1341`
 
 ---
@@ -2614,6 +2931,10 @@ bladder.*
 **EXAM CONNECTION:** "Considered in all EXCEPT" → **radio-opaque stones**. The other three are the selection criteria.
 
 **REMEMBER:** *Only radiolucent cholesterol dissolves.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/89fab04ff0da4e0d850859727d1690e8x1280x1980.JPEG)
 
 `MD1314, ME6750`
 
@@ -2659,6 +2980,12 @@ bladder.*
 
 **REMEMBER:** *The fourth lumen sucks out what would otherwise be aspirated.*
 
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/340e054cb5574183a29c0784007b6521.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6c4bf5121419410a93c9ec3ab563077ex1280x1881.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2a6c17df4bd948958a3072145176af04x1280x1653.JPEG)
+
 `MD6772`
 
 ---
@@ -2681,6 +3008,10 @@ bladder.*
 
 **REMEMBER:** *Examine when the breast is quietest — just after the period.*
 
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/504a22df2e1245329a35d71199e408c6x344x208.PNG)
+
 `MF4007, MB9858, MB1037`
 
 ---
@@ -2701,6 +3032,11 @@ bladder.*
 **EXAM CONNECTION:** Both numbers matter — **50%** and **10 minutes**. The options permute one-third/half and 10/30 minutes.
 
 **REMEMBER:** *Two half-lives, so it should halve in ten minutes.*
+
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/78538d8853224efd93d30bd4a826420dx1280x1347.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/95f7c4eac7794f728806926c4f50bbb2x1280x1061.JPEG)
 
 `MD2054, MD0764`
 
