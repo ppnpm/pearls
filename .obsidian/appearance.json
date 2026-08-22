@@ -1,0 +1,11 @@
+{
+  "theme": "moonstone",
+  "interfaceFontFamily": "Satoshi Variable",
+  "textFontFamily": "Charter",
+  "baseFontSize": 18,
+  "monospaceFontFamily": "Cascadia Mono",
+  "showViewHeader": false,
+  "showRibbon": false,
+  "nativeMenus": false,
+  "cssTheme": "Sanctum"
+}

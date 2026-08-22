@@ -1,0 +1,14 @@
+{
+  // Lint rules for this Obsidian pearl vault.
+  // Content style: one long line per block (Obsidian soft-wraps),
+  // bold labels (**PEARL:**, **MUST KNOW:**) instead of sub-headings.
+  "config": {
+    "MD013": false, // line-length: prose lines are intentionally unwrapped
+    "MD025": false, // single-h1: OBG uses # OBSTETRICS / # GYNAECOLOGY parts
+    "MD033": false, // inline HTML: allowed for sized images
+    "MD036": false, // emphasis-as-heading: bold labels are the house style
+    "MD024": { "siblings_only": true } // repeated pearl titles across systems
+  },
+  "globs": ["*.md"],
+  "ignores": [".obsidian/**", "node_modules/**"]
+}

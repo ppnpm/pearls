@@ -1,0 +1,42 @@
+# --- Obsidian vault ---
+# Keep shared settings (appearance, hotkeys, core-plugins) but ignore
+# per-machine state that changes every time the vault is opened.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/graph.json
+.obsidian/plugins/*/data.json
+.trash/
+
+# --- Python tooling (tools/) ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# --- Scratch / working files ---
+*.tmp
+*.bak
+*.orig
+*.rej
+*.log
+scratch/
+tmp/
+
+# --- OS junk ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# --- Editors ---
+.vscode/
+.idea/
+*.swp
+*~
