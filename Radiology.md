@@ -1,6 +1,6 @@
 # Radiology — Bookmark-Derived Pearls
 
-*Distilled from bookmarked INI-CET / NEET-PG MCQs. Only high-yield, revisable learning points were kept; points already covered by the existing pearl collection were dropped.*
+*Distilled from bookmarked INI-CET / NEET-PG MCQs. Only high-yield, revisable learning points were kept; duplicate pearls have been merged so that each concept appears once, in the pearl where it belongs. Guideline-dependent content has been updated to the position as of 2026, with footnoted sources listed at the end of the file.*
 
 ---
 
@@ -8,12 +8,12 @@
 
 - [Physics, Radiation Biology and Radiotherapy](#physics-radiation-biology-and-radiotherapy) — 7 pearls
 - [Contrast Media and Imaging Techniques](#contrast-media-and-imaging-techniques) — 3 pearls
-- [Chest and Cardiac Imaging](#chest-and-cardiac-imaging) — 17 pearls
+- [Chest and Cardiac Imaging](#chest-and-cardiac-imaging) — 16 pearls
 - [Gastrointestinal and Hepatobiliary Imaging](#gastrointestinal-and-hepatobiliary-imaging) — 17 pearls
-- [Genitourinary Imaging](#genitourinary-imaging) — 14 pearls
+- [Genitourinary Imaging](#genitourinary-imaging) — 13 pearls
 - [Neuroradiology and Head and Neck](#neuroradiology-and-head-and-neck) — 9 pearls
 - [Musculoskeletal Imaging](#musculoskeletal-imaging) — 7 pearls
-- [Paediatric Imaging](#paediatric-imaging) — 3 pearls
+- [Paediatric Imaging](#paediatric-imaging) — 2 pearls
 - [Vascular, Breast and Obstetric Imaging](#vascular-breast-and-obstetric-imaging) — 7 pearls
 - [Nuclear Medicine and PET](#nuclear-medicine-and-pet) — 2 pearls
 - [Trauma and Emergency Imaging](#trauma-and-emergency-imaging) — 2 pearls
@@ -30,10 +30,10 @@
 
 **MUST KNOW:**
 
-- **The five basic radiographic densities, least to most opaque: ***AIR/GAS → FAT → SOFT TISSUE/WATER → BONE/CALCIUM → METAL (and contrast).***
-- **Radio-opaque foreign bodies: ***metal, GLASS (leaded), gravel and stone, some plastics, bone, and teeth; RADIOLUCENT and easily missed: WOOD, most plastics, thorns and organic material — use ULTRASOUND or CT for these.***
+- **The five basic radiographic densities, least to most opaque:** *AIR/GAS → FAT → SOFT TISSUE/WATER → BONE/CALCIUM → METAL (and contrast).***
+- **Radio-opaque foreign bodies:** *metal, GLASS (leaded), gravel and stone, some plastics, bone, and teeth; RADIOLUCENT and easily missed: WOOD, most plastics, thorns and organic material — use ULTRASOUND or CT for these.***
 - **The ***SILHOUETTE SIGN***: loss of a normal border means the abnormality lies in the anatomically adjacent structure — ***loss of the RIGHT HEART BORDER = RIGHT MIDDLE LOBE; loss of the RIGHT HEMIDIAPHRAGM = right LOWER lobe; loss of the LEFT HEART BORDER = LINGULA; loss of the AORTIC KNUCKLE = apicoposterior segment of the left upper lobe.***
-- **Rib counting on a chest film: ***POSTERIOR ribs run HORIZONTALLY and are clearly seen; ANTERIOR ribs run OBLIQUELY downwards and fade at the costal cartilage.*** Count posterior ribs to assess inspiration (***adequate = 5–7 ANTERIOR or 9–10 POSTERIOR ribs above the diaphragm***).
+- **Rib counting on a chest film:** *POSTERIOR ribs run HORIZONTALLY and are clearly seen; ANTERIOR ribs run OBLIQUELY downwards and fade at the costal cartilage.*** Count posterior ribs to assess inspiration (***adequate = 5–7 ANTERIOR or 9–10 POSTERIOR ribs above the diaphragm***).
 - **Radiographic anatomy on a lateral chest film: the trachea is anterior, the oesophagus posterior to it, the aortic arch above the left main bronchus, and the SVC to the right of the trachea.**
 
 **EXAM CONNECTION:** False about X-rays → **that live bone is more radio-opaque than dead bone**; rib fracture identification → **count the posterior ribs**.
@@ -59,11 +59,11 @@
 
 **MUST KNOW:**
 
-- **The phases of acute radiation syndrome: ***PRODROMAL (nausea, vomiting, anorexia — the SHORTER the latency to vomiting, the WORSE the prognosis), LATENT (deceptively well), MANIFEST ILLNESS, then recovery or death.*** ***THE ABSOLUTE LYMPHOCYTE COUNT AT 48 HOURS IS THE BEST EARLY BIOLOGICAL DOSIMETER.***
-- **Radiosensitivity: ***MOST sensitive — lymphocytes, spermatogonia, intestinal crypt cells, marrow, ovarian follicles, LENS and FETUS; LEAST — muscle, bone and NEURONES.*** ***THE FETUS IS MOST VULNERABLE DURING ORGANOGENESIS (2–8 weeks); the deterministic threshold for fetal effects is usually quoted around 100–150 mGy.***
+- **The phases of acute radiation syndrome:** *PRODROMAL (nausea, vomiting, anorexia — the SHORTER the latency to vomiting, the WORSE the prognosis), LATENT (deceptively well), MANIFEST ILLNESS, then recovery or death.*** ***THE ABSOLUTE LYMPHOCYTE COUNT AT 48 HOURS IS THE BEST EARLY BIOLOGICAL DOSIMETER.***
+- **Radiosensitivity:** *MOST sensitive — lymphocytes, spermatogonia, intestinal crypt cells, marrow, ovarian follicles, LENS and FETUS; LEAST — muscle, bone and NEURONES.*** ***THE FETUS IS MOST VULNERABLE DURING ORGANOGENESIS (2–8 weeks); the deterministic threshold for fetal effects is usually quoted around 100–150 mGy.***
 - **Effects are ***DETERMINISTIC (threshold-dependent, severity rises with dose — erythema, cataract, sterility, ARS) or STOCHASTIC (no threshold, PROBABILITY rises with dose — cancer and heritable effects).*** ***RADIATION PROTECTION FOLLOWS "ALARA" (as low as reasonably achievable), with TIME, DISTANCE (inverse square law) and SHIELDING as the three tools.***
-- **Typical effective doses: ***chest X-ray ~0.02 mSv; NCCT head ~2 mSv (NOT 20); CT abdomen ~8–10 mSv; natural background ~2–3 mSv/year; occupational limit 20 mSv/year averaged over 5 years.***
-- **Hounsfield values worth carrying: ***fat −100, water 0, soft tissue 30–60, ACUTE BLOOD CLOT 60–90, calcium/bone +1000.*** ***CT beams are FILTERED (not unfiltered) to reduce beam hardening, and ULTRASOUND — not CT — IS THE INVESTIGATION OF CHOICE FOR GALLSTONES***, many of which are CT-invisible.
+- **Typical effective doses:** *chest X-ray ~0.02 mSv; NCCT head ~2 mSv (NOT 20); CT abdomen ~8–10 mSv; natural background ~2–3 mSv/year; occupational limit 20 mSv/year averaged over 5 years.***
+- **Hounsfield values worth carrying:** *fat −100, water 0, soft tissue 30–60, ACUTE BLOOD CLOT 60–90, calcium/bone +1000.*** ***CT beams are FILTERED (not unfiltered) to reduce beam hardening, and ULTRASOUND — not CT — IS THE INVESTIGATION OF CHOICE FOR GALLSTONES***, many of which are CT-invisible.
 
 **EXAM CONNECTION:** False about acute radiation syndrome → **that GI effects occur at a lower dose than marrow suppression**; the Bragg peak → **protons**; correct about CT → **CT number of water is 0**.
 
@@ -86,8 +86,8 @@
 
 - **The law of ***BERGONIÉ AND TRIBONDEAU: radiosensitivity is greatest in cells that are rapidly DIVIDING, UNDIFFERENTIATED and have a LONG MITOTIC FUTURE*** — hence marrow, gut mucosa, gonads, lymphocytes and fetus are sensitive; ***NEURONES AND MUSCLE ARE RADIORESISTANT.*** Cells are most sensitive in ***G2/M and most resistant in LATE S phase***, and ***HYPOXIC CELLS ARE 2–3 TIMES MORE RESISTANT (the oxygen enhancement ratio)*** — the rationale for fractionation.
 - **The "4 R's" of radiobiology justifying ***FRACTIONATION: REPAIR of sublethal damage (favours normal tissue), REDISTRIBUTION within the cell cycle, REPOPULATION, and REOXYGENATION of hypoxic tumour.***
-- **Sources and modalities: ***COBALT-60 teletherapy (gamma), LINAC (X-rays and electrons — ELECTRONS for superficial targets because of their limited depth), PROTONS (Bragg peak), IRIDIUM-192 and CAESIUM-137 for brachytherapy, IODINE-125 seeds for prostate, and RADIOISOTOPE therapy (I-131 for thyroid, Lu-177 DOTATATE, radium-223).***
-- **Radiotherapy toxicity: ***ACUTE effects hit rapidly dividing tissues (mucositis, dermatitis, diarrhoea, myelosuppression); LATE effects are fibrosis, stricture, xerostomia, infertility, and SECOND MALIGNANCY (stochastic, decades later).***
+- **Sources and modalities:** *COBALT-60 teletherapy (gamma), LINAC (X-rays and electrons — ELECTRONS for superficial targets because of their limited depth), PROTONS (Bragg peak), IRIDIUM-192 and CAESIUM-137 for brachytherapy, IODINE-125 seeds for prostate, and RADIOISOTOPE therapy (I-131 for thyroid, Lu-177 DOTATATE, radium-223).***
+- **Radiotherapy toxicity:** *ACUTE effects hit rapidly dividing tissues (mucositis, dermatitis, diarrhoea, myelosuppression); LATE effects are fibrosis, stricture, xerostomia, infertility, and SECOND MALIGNANCY (stochastic, decades later).***
 - ***IMRT, IGRT AND STEREOTACTIC RADIOSURGERY ALL EXIST TO SOLVE THE SAME PROBLEM — CONFORMING A HIGH DOSE TO THE TUMOUR WHILE SPARING NORMAL TISSUE.***
 
 **EXAM CONNECTION:** Incorrect about brachytherapy → **that it is better than teletherapy for large bulky tumours**; linear accelerator produces → **X-rays**; correct radiotherapy statement → **rapidly proliferating cells are the most radiosensitive**.
@@ -107,8 +107,8 @@
 **MUST KNOW:**
 
 - ***ACCELERATED REPOPULATION OF TUMOUR CELLS BEGINS ABOUT 3–4 WEEKS INTO A COURSE***, so ***PROLONGING TREATMENT OR TAKING UNPLANNED BREAKS REDUCES CURE RATES*** — treatment interruptions must be compensated.
-- **Total doses to recognise: ***radical treatment 60–70 Gy; adjuvant breast 40–50 Gy; palliative bone metastasis 8 Gy single fraction or 20 Gy in 5; whole-brain 20–30 Gy; STEREOTACTIC RADIOSURGERY delivers a single ablative dose of 12–24 Gy.***
-- **Normal tissue tolerance limits worth knowing: ***spinal cord ~45–50 Gy (myelopathy beyond), lens ~10 Gy (cataract), kidney ~20 Gy, whole lung ~20 Gy (pneumonitis then fibrosis) and heart.***
+- **Total doses to recognise:** *radical treatment 60–70 Gy; adjuvant breast 40–50 Gy; palliative bone metastasis 8 Gy single fraction or 20 Gy in 5; whole-brain 20–30 Gy; STEREOTACTIC RADIOSURGERY delivers a single ablative dose of 12–24 Gy.***
+- **Normal tissue tolerance limits worth knowing:** *spinal cord ~45–50 Gy (myelopathy beyond), lens ~10 Gy (cataract), kidney ~20 Gy, whole lung ~20 Gy (pneumonitis then fibrosis) and heart.***
 - **Radiotherapy is used ***RADICALLY (curative — larynx, cervix, prostate, lymphoma), ADJUVANTLY (post-operative breast, rectum), NEOADJUVANTLY (rectal, oesophageal) and PALLIATIVELY (bone pain, SVC obstruction, cord compression, haemoptysis and bleeding).***
 - ***CONCURRENT CHEMORADIATION (usually platinum-based) IS STANDARD FOR LOCALLY ADVANCED CERVICAL, HEAD AND NECK, OESOPHAGEAL AND ANAL CANCER*** — chemotherapy acting as a radiosensitiser.
 
@@ -209,9 +209,9 @@
 **MUST KNOW:**
 
 - ***IONIC HIGH-OSMOLAR CONTRAST MUST NEVER BE GIVEN INTRATHECALLY*** (fatal neurotoxicity); non-ionic agents are mandatory for myelography.
-- **Contrast reactions: ***ANAPHYLACTOID reactions are NOT true IgE allergy (so a prior reaction, not "iodine or seafood allergy", is the risk factor) — pre-medicate high-risk patients with steroids and antihistamines; CONTRAST-INDUCED NEPHROPATHY is minimised by hydration and using the lowest volume of low-osmolar agent; METFORMIN is withheld in renal impairment; GADOLINIUM risks NEPHROGENIC SYSTEMIC FIBROSIS in severe renal failure.***
-- **PET-CT practicalities: ***the CT provides attenuation correction and anatomical localisation; images are acquired ~60 minutes after FDG injection; patients must rest and keep warm (BROWN FAT and muscle uptake cause artefacts); SUV quantifies uptake.***
-- **PET indications: ***staging and restaging of lymphoma, lung, head and neck, oesophageal and colorectal cancer; assessment of the solitary pulmonary nodule; detection of recurrence; myocardial viability; and epilepsy focus localisation.***
+- **Contrast reactions:** *ANAPHYLACTOID reactions are NOT true IgE allergy (so a prior reaction, not "iodine or seafood allergy", is the risk factor) — pre-medicate high-risk patients with steroids and antihistamines; CONTRAST-INDUCED NEPHROPATHY is minimised by hydration and using the lowest volume of low-osmolar agent; METFORMIN is withheld in renal impairment; GADOLINIUM risks NEPHROGENIC SYSTEMIC FIBROSIS in severe renal failure.***
+- **PET-CT practicalities:** *the CT provides attenuation correction and anatomical localisation; images are acquired ~60 minutes after FDG injection; patients must rest and keep warm (BROWN FAT and muscle uptake cause artefacts); SUV quantifies uptake.***
+- **PET indications:** *staging and restaging of lymphoma, lung, head and neck, oesophageal and colorectal cancer; assessment of the solitary pulmonary nodule; detection of recurrence; myocardial viability; and epilepsy focus localisation.***
 - ***FALSE POSITIVES: INFECTION AND INFLAMMATION (TUBERCULOSIS, sarcoid, abscess, post-surgical change); FALSE NEGATIVES: small lesions (<8 mm), low-grade tumours — CARCINOID, MUCINOUS adenocarcinoma, bronchioloalveolar carcinoma, PROSTATE cancer and renal cell carcinoma (which is also masked by urinary excretion) — and hyperglycaemia.***
 
 **EXAM CONNECTION:** Ionic monomer → **diatrizoate**; false about PET-CT → **that oral glucose is given before imaging**.
@@ -230,11 +230,11 @@
 
 **MUST KNOW:**
 
-- **Signal characteristics: ***on T1, FAT is BRIGHT and fluid DARK; on T2, FLUID is BRIGHT; FLAIR suppresses CSF; STIR suppresses fat (useful for marrow oedema); GADOLINIUM shortens T1 and makes enhancing tissue bright.*** ***A T1-BRIGHT LESION suggests fat, subacute blood (methaemoglobin), melanin, protein or gadolinium.***
+- **Signal characteristics:** *on T1, FAT is BRIGHT and fluid DARK; on T2, FLUID is BRIGHT; FLAIR suppresses CSF; STIR suppresses fat (useful for marrow oedema); GADOLINIUM shortens T1 and makes enhancing tissue bright.*** ***A T1-BRIGHT LESION suggests fat, subacute blood (methaemoglobin), melanin, protein or gadolinium.***
 - **MRI safety: absolute or relative contraindications include ***older cardiac pacemakers and implantable defibrillators, cochlear implants, intra-ocular metallic foreign bodies (ALWAYS ASK ABOUT METALWORK AND WELDING), some aneurysm clips and neurostimulators*** — modern "MR-conditional" devices are increasingly permissible under protocol. ***THE PROJECTILE EFFECT IN ZONE IV IS A LETHAL HAZARD; claustrophobia, noise, long acquisition and cost are practical limitations.***
-- **Where CT beats MRI: ***acute haemorrhage in the first hours, CALCIFICATION (e.g. congenital ZIKA infection, where NCCT is the investigation of choice for the grey–white junction calcification of microcephaly), bone cortex and fracture detail, lung parenchyma, and the unstable or ventilated patient.***
-- **Where MRI beats CT: ***soft tissue and marrow, posterior fossa and spinal cord, PANCOAST tumour and brachial plexus, ligaments and menisci, staging of rectal, prostate and cervical cancer, and characterising liver and adnexal lesions.***
-- **Intracranial calcification differential: ***physiological (pineal, choroid plexus, falx), congenital infection (CMV — PERIVENTRICULAR; TOXOPLASMA — SCATTERED; ZIKA — subcortical/grey–white junction), tuberous sclerosis, Sturge–Weber ("tram-track"), craniopharyngioma, oligodendroglioma, meningioma, neurocysticercosis and tuberculoma.***
+- **Where CT beats MRI:** *acute haemorrhage in the first hours, CALCIFICATION (e.g. congenital ZIKA infection, where NCCT is the investigation of choice for the grey–white junction calcification of microcephaly), bone cortex and fracture detail, lung parenchyma, and the unstable or ventilated patient.***
+- **Where MRI beats CT:** *soft tissue and marrow, posterior fossa and spinal cord, PANCOAST tumour and brachial plexus, ligaments and menisci, staging of rectal, prostate and cervical cancer, and characterising liver and adnexal lesions.***
+- **Intracranial calcification differential:** *physiological (pineal, choroid plexus, falx), congenital infection (CMV — PERIVENTRICULAR; TOXOPLASMA — SCATTERED; ZIKA — subcortical/grey–white junction), tuberous sclerosis, Sturge–Weber ("tram-track"), craniopharyngioma, oligodendroglioma, meningioma, neurocysticercosis and tuberculoma.***
 
 **EXAM CONNECTION:** Principle of functional MRI → **BOLD technique**; true about MRI, all EXCEPT → **that it is not helpful for breast implants**; investigation of choice for congenital Zika infection → **NCCT**.
 
@@ -263,6 +263,8 @@
 
 **EXAM CONNECTION:** The question asks which contrast is safe in **renal failure** — the answer is the one that is **not renally excreted**.
 
+**ALSO KNOW:** **"Contrast-induced nephropathy" has been substantially reworded: the ACR–NKF consensus separates CONTRAST-ASSOCIATED AKI (temporal association only) from the far rarer CONTRAST-INDUCED AKI (causal), and the risk from modern low-osmolar INTRAVENOUS iodinated contrast is much lower than once taught.** **Prophylactic intravenous volume expansion is advised only at eGFR <30 (or 30–44 with risk factors); N-acetylcysteine and sodium bicarbonate are NOT recommended.** **GADOLINIUM: nephrogenic systemic fibrosis risk is essentially confined to the older group I agents, and group II macrocyclic agents may be given at any eGFR when needed.**[^2]
+
 **REMEMBER:** *Microbubbles leave through the lungs — the kidney never sees them.*
 
 `Q11265`
@@ -281,10 +283,10 @@
 
 **MUST KNOW:**
 
-- **Cavitating lung lesions: ***TUBERCULOSIS (upper lobe, thick-walled), STAPHYLOCOCCUS, KLEBSIELLA ("bulging fissure"), anaerobic abscess (with an air–fluid level), squamous cell carcinoma, granulomatosis with polyangiitis, septic emboli and fungi.*** ***A NODULE WITH SURROUNDING GROUND-GLASS ("HALO SIGN") SUGGESTS INVASIVE FUNGAL INFECTION (angioinvasive ASPERGILLOSIS), and the "AIR CRESCENT SIGN" indicates a retracting fungus ball (aspergilloma) or resolving invasive disease.***
+- **Cavitating lung lesions:** *TUBERCULOSIS (upper lobe, thick-walled), STAPHYLOCOCCUS, KLEBSIELLA ("bulging fissure"), anaerobic abscess (with an air–fluid level), squamous cell carcinoma, granulomatosis with polyangiitis, septic emboli and fungi.*** ***A NODULE WITH SURROUNDING GROUND-GLASS ("HALO SIGN") SUGGESTS INVASIVE FUNGAL INFECTION (angioinvasive ASPERGILLOSIS), and the "AIR CRESCENT SIGN" indicates a retracting fungus ball (aspergilloma) or resolving invasive disease.***
 - ***HRCT FEATURES OF FUNGAL PNEUMONIA: interlobular septal thickening, peripheral WEDGE-SHAPED CONSOLIDATION (infarcts from angioinvasion), pleural effusion and the HALO/reversed-halo signs — cavitation is NOT the early feature.***
-- **Mediastinal masses by compartment: ***ANTERIOR — the "4 Ts": THYMOMA, retrosternal THYROID, TERATOMA/germ cell tumour and "terrible" LYMPHOMA (with thoracic aorta aneurysm); MIDDLE — lymphadenopathy, BRONCHOGENIC CYST, vascular lesions; POSTERIOR — NEUROGENIC TUMOURS (the commonest), oesophageal lesions, extramedullary haemopoiesis and neurenteric cysts.***
-- **Paediatric chest patterns: ***"SNOWMAN"/figure-of-8 heart with pulmonary plethora — SUPRACARDIAC TAPVC; "EGG-ON-A-STRING" with a narrow pedicle — TRANSPOSITION; "BOOT-SHAPED" heart with reduced vascularity — TETRALOGY OF FALLOT; multicystic lesion in a lobe with recurrent infection and respiratory distress — CONGENITAL PULMONARY AIRWAY MALFORMATION (the main mimic of diaphragmatic hernia).***
+- **Mediastinal masses by compartment:** *ANTERIOR — the "4 Ts": THYMOMA, retrosternal THYROID, TERATOMA/germ cell tumour and "terrible" LYMPHOMA (with thoracic aorta aneurysm); MIDDLE — lymphadenopathy, BRONCHOGENIC CYST, vascular lesions; POSTERIOR — NEUROGENIC TUMOURS (the commonest), oesophageal lesions, extramedullary haemopoiesis and neurenteric cysts.***
+- **Paediatric chest patterns:** *"SNOWMAN"/figure-of-8 heart with pulmonary plethora — SUPRACARDIAC TAPVC; "EGG-ON-A-STRING" with a narrow pedicle — TRANSPOSITION; "BOOT-SHAPED" heart with reduced vascularity — TETRALOGY OF FALLOT; multicystic lesion in a lobe with recurrent infection and respiratory distress — CONGENITAL PULMONARY AIRWAY MALFORMATION (the main mimic of diaphragmatic hernia).***
 - **Lobar consolidation with fever, cough and haemoptysis in a child is ***pneumonia until proved otherwise***, but persistent or recurrent same-site consolidation demands a search for ***foreign body, bronchiectasis, congenital malformation or tuberculosis.***
 
 **EXAM CONNECTION:** Avascular hemithorax with mediastinal shift after trauma → **chest tube insertion**; pneumatocele → ***S. aureus***; miliary nodules "all EXCEPT" → **COVID-19**; anterior mediastinal mass in a young adult → **lymphoma**; snowman heart → **TAPVC**; multicystic lung lesion in an infant → **congenital pulmonary airway malformation**.
@@ -314,16 +316,16 @@
 
 ### 12. Left Atrial Enlargement on the Chest Film
 
-**PEARL:** **Signs of LEFT ATRIAL enlargement: ***STRAIGHTENING OF THE LEFT HEART BORDER (a prominent left atrial appendage), SPLAYING OF THE CARINA (>90°) with elevation of the left main bronchus, a DOUBLE RIGHT HEART BORDER ("double density"), posterior displacement of the oesophagus on a barium swallow, and DYSPHAGIA MEGALATRIENSIS.*** ***A "DOUBLE LEFT heart border" IS NOT A SIGN — the double density appears on the RIGHT.***
+**PEARL:** **Signs of LEFT ATRIAL enlargement:** *STRAIGHTENING OF THE LEFT HEART BORDER (a prominent left atrial appendage), SPLAYING OF THE CARINA (>90°) with elevation of the left main bronchus, a DOUBLE RIGHT HEART BORDER ("double density"), posterior displacement of the oesophagus on a barium swallow, and DYSPHAGIA MEGALATRIENSIS.*** ***A "DOUBLE LEFT heart border" IS NOT A SIGN — the double density appears on the RIGHT.***
 
 **UNDERSTAND:** Every sign follows from ***WHERE THE LEFT ATRIUM SITS: it is the MOST POSTERIOR chamber, lying directly beneath the carina and immediately anterior to the oesophagus.*** So as it enlarges it ***pushes the carina apart, indents the oesophagus (dysphagia), and its right margin grows across the midline to appear THROUGH the right atrial shadow as a second border*** — while its appendage bulges out to straighten the left contour. Anatomy alone generates the whole list.
 
 **MUST KNOW:**
 
-- **Chamber enlargement patterns: ***LEFT VENTRICLE — apex displaced down and out ("boot" shape in aortic stenosis); RIGHT VENTRICLE — the apex is lifted UP off the diaphragm with filling of the retrosternal space on the lateral; RIGHT ATRIUM — bulging right heart border; LEFT ATRIUM — as above.*** ***THE COMMONEST CAUSE OF ISOLATED, MARKED LEFT ATRIAL ENLARGEMENT IS MITRAL VALVE DISEASE, especially rheumatic MITRAL STENOSIS.***
-- **Other mitral stenosis findings: ***pulmonary venous hypertension with upper-lobe blood diversion, KERLEY B LINES, a small left ventricle, and MITRAL ANNULAR/valvular CALCIFICATION.***
+- **Chamber enlargement patterns:** *LEFT VENTRICLE — apex displaced down and out ("boot" shape in aortic stenosis); RIGHT VENTRICLE — the apex is lifted UP off the diaphragm with filling of the retrosternal space on the lateral; RIGHT ATRIUM — bulging right heart border; LEFT ATRIUM — as above.*** ***THE COMMONEST CAUSE OF ISOLATED, MARKED LEFT ATRIAL ENLARGEMENT IS MITRAL VALVE DISEASE, especially rheumatic MITRAL STENOSIS.***
+- **Other mitral stenosis findings:** *pulmonary venous hypertension with upper-lobe blood diversion, KERLEY B LINES, a small left ventricle, and MITRAL ANNULAR/valvular CALCIFICATION.***
 - **Cardiothoracic ratio >0.5 on a PA film indicates cardiomegaly — ***but is NOT valid on an AP or portable film***, where magnification exaggerates the heart.
-- **Cardiac silhouettes worth naming: ***"BOOT-SHAPED" (coeur en sabot) — tetralogy of Fallot; "EGG-ON-A-STRING/egg on side" — TRANSPOSITION; "SNOWMAN"/figure-of-8 — supracardiac TAPVC; "COTTAGE LOAF" — truncus/other; "WATER-BOTTLE" — pericardial effusion; "WALL-TO-WALL" heart — Ebstein anomaly.***
+- **Cardiac silhouettes worth naming:** *"BOOT-SHAPED" (coeur en sabot) — tetralogy of Fallot; "EGG-ON-A-STRING/egg on side" — TRANSPOSITION; "SNOWMAN"/figure-of-8 — supracardiac TAPVC; "COTTAGE LOAF" — truncus/other; "WATER-BOTTLE" — pericardial effusion; "WALL-TO-WALL" heart — Ebstein anomaly.***
 - **Pericardial effusion versus cardiomegaly is settled by ***ECHOCARDIOGRAPHY, not the plain film.***
 
 **EXAM CONNECTION:** Features of left atrial enlargement, all EXCEPT → **double LEFT heart border**; cyanotic infant with an egg-on-a-string heart → **transposition of the great arteries**.
@@ -345,9 +347,9 @@
 
 **MUST KNOW:**
 
-- **The aspergillosis spectrum by immune status: ***ASPERGILLOMA (a mycetoma in a pre-existing cavity — the "air crescent"/monod sign, mobile with position, causing haemoptysis) in the NORMAL host; ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS (central bronchiectasis, FINGER-IN-GLOVE mucoid impaction, high IgE and eosinophilia) in ASTHMA and CYSTIC FIBROSIS; INVASIVE aspergillosis in the NEUTROPENIC/immunosuppressed.***
-- **Asbestos-related disease: ***PLEURAL PLAQUES (calcified, along the diaphragm and posterolateral chest wall — a MARKER of exposure, NOT premalignant), benign pleural effusion, DIFFUSE PLEURAL THICKENING, ROUND ATELECTASIS, ASBESTOSIS (lower-zone interstitial fibrosis), and the malignancies — BRONCHOGENIC CARCINOMA (commonest, hugely multiplied by smoking) and MESOTHELIOMA (nodular, circumferential pleural thickening with a contracted hemithorax — NOT related to smoking).***
-- **Occupational lung disease patterns: ***SILICOSIS — UPPER-zone nodules with EGGSHELL calcification of hilar nodes and a risk of TB; COAL WORKER'S PNEUMOCONIOSIS — upper-zone nodules with progressive massive fibrosis; BERYLLIOSIS — sarcoid-like; BYSSINOSIS — "Monday fever" in cotton workers.***
+- **The aspergillosis spectrum by immune status:** *ASPERGILLOMA (a mycetoma in a pre-existing cavity — the "air crescent"/monod sign, mobile with position, causing haemoptysis) in the NORMAL host; ALLERGIC BRONCHOPULMONARY ASPERGILLOSIS (central bronchiectasis, FINGER-IN-GLOVE mucoid impaction, high IgE and eosinophilia) in ASTHMA and CYSTIC FIBROSIS; INVASIVE aspergillosis in the NEUTROPENIC/immunosuppressed.***
+- **Asbestos-related disease:** *PLEURAL PLAQUES (calcified, along the diaphragm and posterolateral chest wall — a MARKER of exposure, NOT premalignant), benign pleural effusion, DIFFUSE PLEURAL THICKENING, ROUND ATELECTASIS, ASBESTOSIS (lower-zone interstitial fibrosis), and the malignancies — BRONCHOGENIC CARCINOMA (commonest, hugely multiplied by smoking) and MESOTHELIOMA (nodular, circumferential pleural thickening with a contracted hemithorax — NOT related to smoking).***
+- **Occupational lung disease patterns:** *SILICOSIS — UPPER-zone nodules with EGGSHELL calcification of hilar nodes and a risk of TB; COAL WORKER'S PNEUMOCONIOSIS — upper-zone nodules with progressive massive fibrosis; BERYLLIOSIS — sarcoid-like; BYSSINOSIS — "Monday fever" in cotton workers.***
 - ***MRI IS SUPERIOR TO CT FOR THE PANCOAST (SUPERIOR SULCUS) TUMOUR***, because it defines brachial plexus, subclavian vessel, vertebral and chest-wall invasion — the findings that determine resectability.
 - ***FDG PET-CT FALSE NEGATIVES: LOW-GRADE/typical CARCINOID, MUCINOUS ADENOCARCINOMA, INSULINOMA and other low-metabolic tumours, plus small lesions and hyperglycaemia; FALSE POSITIVES: INFECTION AND INFLAMMATION, notably TUBERCULOSIS and sarcoid*** (a critical limitation in India).
 
@@ -372,8 +374,8 @@
 
 **MUST KNOW:**
 
-- **Anterior mediastinal masses — the "4 Ts": ***THYMOMA (associated with MYASTHENIA GRAVIS, red cell aplasia and hypogammaglobulinaemia), THYROID (retrosternal goitre — continuous with the neck, HIGH attenuation because of iodine), TERATOMA/germ cell tumour (fat, fluid and calcium; raised AFP/beta-hCG in malignant types) and "TERRIBLE" LYMPHOMA (young adults, bulky nodal mass, B symptoms).***
-- **Middle mediastinum: ***lymphadenopathy, bronchogenic cyst, oesophageal duplication, hiatus hernia and vascular lesions. Posterior: NEUROGENIC TUMOURS (schwannoma, neurofibroma, ganglioneuroma, neuroblastoma — the commonest posterior mass, often with rib erosion and intraspinal extension), extramedullary haemopoiesis and paravertebral abscess.***
+- **Anterior mediastinal masses — the "4 Ts":** *THYMOMA (associated with MYASTHENIA GRAVIS, red cell aplasia and hypogammaglobulinaemia), THYROID (retrosternal goitre — continuous with the neck, HIGH attenuation because of iodine), TERATOMA/germ cell tumour (fat, fluid and calcium; raised AFP/beta-hCG in malignant types) and "TERRIBLE" LYMPHOMA (young adults, bulky nodal mass, B symptoms).***
+- **Middle mediastinum:** *lymphadenopathy, bronchogenic cyst, oesophageal duplication, hiatus hernia and vascular lesions. Posterior: NEUROGENIC TUMOURS (schwannoma, neurofibroma, ganglioneuroma, neuroblastoma — the commonest posterior mass, often with rib erosion and intraspinal extension), extramedullary haemopoiesis and paravertebral abscess.***
 - **The renal counterpart is the ***ANGIOMYOLIPOMA — macroscopic fat is essentially diagnostic and excludes renal cell carcinoma; multiple bilateral AMLs suggest TUBEROUS SCLEROSIS, and lesions >4 cm risk life-threatening haemorrhage (WUNDERLICH SYNDROME) and are treated by embolisation.***
 - ***A FAT-CONTAINING LESION THAT ENHANCES, CONTAINS THICK SEPTA OR SHOWS RAPID GROWTH IS NOT BENIGN — think LIPOSARCOMA or, in the kidney, the rare fat-containing RCC.***
 - **On CT, always ***measure the attenuation before speculating: fat −100, water 0, blood 60–90, calcium/contrast >100 HU.***
@@ -400,8 +402,8 @@
 
 - **A ***PA film is standard***; an ***AP/portable film MAGNIFIES THE HEART AND WIDENS THE MEDIASTINUM***, so cardiothoracic ratio cannot be assessed on it. Adequate penetration allows the vertebral bodies to be just visible behind the heart.
 - ***THE HILA SHOULD BE OF EQUAL DENSITY AND CONCAVE LATERALLY; a convex, dense or enlarged hilum means lymphadenopathy, mass or pulmonary arterial enlargement.***
-- **Systematic review scheme ("ABCDE"): ***Airway (trachea central, carina), Breathing (lung fields, pleura), Circulation (heart size and contours, aortic knuckle), Diaphragm (free air, effusion, gastric bubble) and Everything else (bones, soft tissues, devices, review areas — apices, behind the heart, below the diaphragm and the costophrenic angles).***
-- **Rib identification: ***count the POSTERIOR ribs (horizontal, clearly outlined) from the first rib downwards; ANTERIOR ribs slope steeply downwards and fade at the costal cartilage.***
+- **Systematic review scheme ("ABCDE"):** *Airway (trachea central, carina), Breathing (lung fields, pleura), Circulation (heart size and contours, aortic knuckle), Diaphragm (free air, effusion, gastric bubble) and Everything else (bones, soft tissues, devices, review areas — apices, behind the heart, below the diaphragm and the costophrenic angles).***
+- **Rib identification:** *count the POSTERIOR ribs (horizontal, clearly outlined) from the first rib downwards; ANTERIOR ribs slope steeply downwards and fade at the costal cartilage.***
 - ***DEVICE POSITIONS TO CHECK ON EVERY FILM: endotracheal tube tip 3–5 cm above the carina, central line tip at the cavoatrial junction, nasogastric tube below the diaphragm and to the left, and the chest drain within the pleural space.***
 
 **EXAM CONNECTION:** False about a normal chest radiograph → **that lower-lobe veins contribute significantly to the hilar shadow**; posterior versus anterior rib identification → **posterior ribs are horizontal**.
@@ -419,19 +421,21 @@
 
 ### 16. Sarcoidosis and the Solitary Pulmonary Nodule
 
-**PEARL:** **Chest X-ray staging of sarcoidosis: ***STAGE 0 — normal; I — BILATERAL HILAR LYMPHADENOPATHY alone; II — lymphadenopathy PLUS parenchymal change; III — PARENCHYMAL disease WITHOUT adenopathy; IV — FIBROSIS.*** ***THE "GALAXY SIGN" (a large nodule surrounded by satellite micronodules) IS AN HRCT FINDING, NOT A CHEST X-RAY FINDING.*** For a ***SOLITARY PULMONARY NODULE (≤30 mm), PLAIN (thin-section) CT IS THE INVESTIGATION OF CHOICE***, with ***PET for indeterminate nodules and CT-GUIDED BIOPSY as the gold standard.***
+**PEARL:** **Chest X-ray staging of sarcoidosis:** *STAGE 0 — normal; I — BILATERAL HILAR LYMPHADENOPATHY alone; II — lymphadenopathy PLUS parenchymal change; III — PARENCHYMAL disease WITHOUT adenopathy; IV — FIBROSIS.*** ***THE "GALAXY SIGN" (a large nodule surrounded by satellite micronodules) IS AN HRCT FINDING, NOT A CHEST X-RAY FINDING.*** For a ***SOLITARY PULMONARY NODULE (≤30 mm), PLAIN (thin-section) CT IS THE INVESTIGATION OF CHOICE***, with ***PET for indeterminate nodules and CT-GUIDED BIOPSY as the gold standard.***
 
 **UNDERSTAND:** Sarcoid staging is worth memorising because it is ***prognostic, not merely descriptive***: ***stage I resolves spontaneously in 60–90%, stage II in about half, stage III in less than a third, and stage IV not at all.*** That is why asymptomatic stage I disease is observed rather than treated. Similarly, the approach to a lung nodule is dictated by ***PRE-TEST PROBABILITY: size, margins, growth rate, location and smoking history determine whether to follow, image functionally, or biopsy.***
 
 **MUST KNOW:**
 
 - ***FEATURES FAVOURING MALIGNANCY IN A NODULE: SPICULATED or lobulated margin, UMBILICATION, size >8 mm, UPPER LOBE location, cavitation with a thick irregular wall, ECCENTRIC or FINE PERIPHERAL calcification, and a VOLUME DOUBLING TIME OF 1–6 MONTHS.*** ***BENIGN: smooth margins, small size, and CENTRAL, DIFFUSE, LAMINATED or "POPCORN" calcification (granuloma, hamartoma); stability over 2 YEARS on serial CT effectively excludes malignancy*** (except for ground-glass adenocarcinoma, which grows very slowly).
-- **Sarcoidosis features: ***bilateral symmetrical hilar and right paratracheal adenopathy ("1-2-3"/GARLAND'S TRIAD), a PERILYMPHATIC nodular distribution on HRCT with upper-zone predominance, raised ACE and hypercalcaemia, non-caseating granulomas, and LÖFGREN SYNDROME (erythema nodosum, arthralgia and bilateral hilar adenopathy — an excellent prognosis).***
+- **Sarcoidosis features:** *bilateral symmetrical hilar and right paratracheal adenopathy ("1-2-3"/GARLAND'S TRIAD), a PERILYMPHATIC nodular distribution on HRCT with upper-zone predominance, raised ACE and hypercalcaemia, non-caseating granulomas, and LÖFGREN SYNDROME (erythema nodosum, arthralgia and bilateral hilar adenopathy — an excellent prognosis).***
 - ***THE MAIN DIFFERENTIAL OF BILATERAL HILAR LYMPHADENOPATHY IS TUBERCULOSIS AND LYMPHOMA — in India, TB must be excluded before steroids are given for "sarcoid".***
 - **PET is unhelpful for very small nodules (<8 mm) and gives ***false negatives in carcinoid and mucinous tumours and false positives in TB and sarcoid.***
 - **Lung cancer screening with ***LOW-DOSE CT reduces mortality in high-risk smokers***, using Lung-RADS to standardise follow-up.
 
 **EXAM CONNECTION:** NOT a chest X-ray feature of sarcoidosis → **galaxy sign**; best investigation for a solitary pulmonary nodule → **plain CT**.
+
+**ALSO KNOW:** **LUNG CANCER SCREENING (USPSTF 2021): ANNUAL LOW-DOSE CT for adults aged 50–80 with a ≥20 PACK-YEAR history who currently smoke or quit within 15 years** — the age was lowered from 55 and the threshold from 30 pack-years. Report using **Lung-RADS**. **The parallel structured-reporting systems worth naming are BI-RADS (breast), LI-RADS (hepatocellular carcinoma in the at-risk liver), PI-RADS v2.1 (prostate MRI), TI-RADS (thyroid nodules) and O-RADS (adnexal masses).**[^1]
 
 **REMEMBER:** *The stage predicts remission — nodes alone usually vanish, fibrosis never does.*
 
@@ -711,38 +715,26 @@
 
 **PEARL:** The **galaxy sign** on HRCT — a large nodule formed by coalescing small satellite nodules — is a feature of **sarcoidosis**.
 
-**MUST KNOW:** Sarcoid HRCT hallmarks: **perilymphatic nodules** (along bronchovascular bundles, fissures, subpleural), **bilateral hilar lymphadenopathy** with **"1-2-3 sign" (Garland's triad)** and **eggshell calcification**. It is a **non-caseating granulomatous** disease with raised ACE and hypercalcaemia. **Note: a "galaxy sign" also occurs in TB** — the setting decides.
+**MUST KNOW: **Sarcoid HRCT hallmarks:** perilymphatic nodules** (along bronchovascular bundles, fissures, subpleural), **bilateral hilar lymphadenopathy** with **"1-2-3 sign" (Garland's triad)** and **eggshell calcification**. It is a **non-caseating granulomatous** disease with raised ACE and hypercalcaemia. **Note: a "galaxy sign" also occurs in TB** — the setting decides.
 
 **REMEMBER:** *Nodule made of nodules = galaxy = sarcoid (perilymphatic distribution).*
 
 ---
 
-### 27. Solitary Pulmonary Nodule
-
-**PEARL:** **Plain (non-contrast) CT is the standard investigation of choice** for a solitary pulmonary nodule.
-
-**MUST KNOW:** Benign clues: **size <8 mm, smooth margins, and benign calcification patterns — central, diffuse, laminated, or "popcorn" (hamartoma)**; stability for **2 years**. Malignant clues: **spiculated margins, upper lobe, >8 mm, growth, eccentric calcification**. **PET-CT** is used for nodules **>8–10 mm** to assess metabolic activity.
-
-**REMEMBER:** *Plain CT first; popcorn/central calcification = benign; spiculated = biopsy.*
-
----
-
----
-
 ## Gastrointestinal and Hepatobiliary Imaging
 
-### 28. Contrast Studies and Abdominal Imaging
+### 27. Contrast Studies and Abdominal Imaging
 
-**PEARL:** **Barium concentration is chosen for the target organ: ***BARIUM SWALLOW uses a PASTE for the OESOPHAGUS; BARIUM MEAL ~95% BaSO4 for the STOMACH AND DUODENUM; BARIUM MEAL FOLLOW-THROUGH ~50% for the SMALL BOWEL; BARIUM ENEMA ~25% for the LARGE BOWEL.*** ***A DOUBLE-CONTRAST (barium plus gas) TECHNIQUE COATS THE MUCOSA AND SHOWS FINE DETAIL.*** ***THE TODANI CLASSIFICATION OF CHOLEDOCHAL CYSTS: TYPE I — fusiform/saccular dilatation of the CBD (the commonest); II — a diverticulum; III — CHOLEDOCHOCELE; IV — multiple intra- AND extrahepatic cysts; V — intrahepatic only (CAROLI DISEASE).***
+**PEARL:** **Barium concentration is chosen for the target organ:** *BARIUM SWALLOW uses a PASTE for the OESOPHAGUS; BARIUM MEAL ~95% BaSO4 for the STOMACH AND DUODENUM; BARIUM MEAL FOLLOW-THROUGH ~50% for the SMALL BOWEL; BARIUM ENEMA ~25% for the LARGE BOWEL.*** ***A DOUBLE-CONTRAST (barium plus gas) TECHNIQUE COATS THE MUCOSA AND SHOWS FINE DETAIL.*** ***THE TODANI CLASSIFICATION OF CHOLEDOCHAL CYSTS: TYPE I — fusiform/saccular dilatation of the CBD (the commonest); II — a diverticulum; III — CHOLEDOCHOCELE; IV — multiple intra- AND extrahepatic cysts; V — intrahepatic only (CAROLI DISEASE).***
 
 **UNDERSTAND:** The rule for barium is ***NEVER USE IT WHERE PERFORATION OR ASPIRATION IS POSSIBLE*** — extravasated barium causes a severe chemical mediastinitis or peritonitis and dense granulomatous reaction. ***USE WATER-SOLUBLE CONTRAST (GASTROGRAFFIN) INSTEAD WHEN LEAK OR PERFORATION IS SUSPECTED — but NOT if there is a risk of aspiration (it causes severe pulmonary oedema), where NON-IONIC contrast is used.*** Choosing the agent is thus a safety decision, not a preference.
 
 **MUST KNOW:**
 
 - **Choledochal cysts present with the classic (and uncommon) triad of ***ABDOMINAL PAIN, JAUNDICE AND A PALPABLE MASS***, usually in childhood; ultrasound screens and ***MRCP defines the anatomy.*** ***THEY CARRY A REAL RISK OF CHOLANGIOCARCINOMA, SO EXCISION WITH ROUX-EN-Y HEPATICOJEJUNOSTOMY IS RECOMMENDED — drainage procedures alone are inadequate.*** An anomalous pancreaticobiliary junction is the usual underlying anomaly.
-- **Renal imaging: ***RENAL CELL CARCINOMA — a solid, heterogeneously ENHANCING mass in an older adult with painless haematuria (CECT is the investigation of choice; enhancement of >20 HU after contrast defines a solid lesion); ANGIOMYOLIPOMA — contains MACROSCOPIC FAT (−20 HU or lower), which is essentially diagnostic and links to TUBEROUS SCLEROSIS; ONCOCYTOMA — a central stellate scar with spoke-wheel vessels, but never confidently distinguished from RCC preoperatively; SIMPLE CYST — water density, thin-walled, NON-enhancing (BOSNIAK classification grades cystic lesions).***
+- **Renal imaging:** *RENAL CELL CARCINOMA — a solid, heterogeneously ENHANCING mass in an older adult with painless haematuria (CECT is the investigation of choice; enhancement of >20 HU after contrast defines a solid lesion); ANGIOMYOLIPOMA — contains MACROSCOPIC FAT (−20 HU or lower), which is essentially diagnostic and links to TUBEROUS SCLEROSIS; ONCOCYTOMA — a central stellate scar with spoke-wheel vessels, but never confidently distinguished from RCC preoperatively; SIMPLE CYST — water density, thin-walled, NON-enhancing (BOSNIAK classification grades cystic lesions).***
 - ***PELVIURETERIC (PUJ) OBSTRUCTION — ballooning of the renal pelvis with calyceal dilatation but a NORMAL-CALIBRE URETER*** — is the commonest cause of antenatal hydronephrosis; ***a DIURETIC RENOGRAM (MAG3/DTPA) distinguishes obstruction from a baggy but unobstructed system, and pyeloplasty is indicated for split function <40%, deteriorating function, symptoms or recurrent infection.***
-- **Contrast safety: ***iodinated contrast risks ALLERGIC-TYPE REACTIONS AND CONTRAST-INDUCED NEPHROPATHY (hydrate; caution with eGFR <30 and metformin); GADOLINIUM risks NEPHROGENIC SYSTEMIC FIBROSIS in severe renal failure; and ULTRASOUND remains the first-line abdominal investigation in children, pregnancy and for gallstones.***
+- **Contrast safety:** *iodinated contrast risks ALLERGIC-TYPE REACTIONS AND CONTRAST-INDUCED NEPHROPATHY (hydrate; caution with eGFR <30 and metformin); GADOLINIUM risks NEPHROGENIC SYSTEMIC FIBROSIS in severe renal failure; and ULTRASOUND remains the first-line abdominal investigation in children, pregnancy and for gallstones.***
 - ***OVARIAN HYPERSTIMULATION SYNDROME after ovulation induction: markedly ENLARGED OVARIES WITH MULTIPLE LARGE FOLLICLES plus ASCITES***, with nausea, vomiting, haemoconcentration and thrombosis risk — a diagnosis made from the ultrasound plus the IVF history.
 
 **EXAM CONNECTION:** Double-contrast study of stomach and duodenum → **barium meal**; saccular dilatation of the CBD on MRCP → **type I choledochal cyst**; enhancing renal mass with haematuria → **renal cell carcinoma**; ballooned renal pelvis → **PUJ obstruction**; enlarged multifollicular ovaries after IVF → **OHSS**.
@@ -767,17 +759,17 @@
 
 ---
 
-### 29. Abdominal CT — Two Classic Appearances
+### 28. Abdominal CT — Two Classic Appearances
 
 **PEARL:** ***"SCALLOPING OF THE LIVER AND SPLENIC SURFACES BY LOW-ATTENUATION GELATINOUS ASCITES" = PSEUDOMYXOMA PERITONEI, most often from a MUCINOUS NEOPLASM OF THE APPENDIX*** (or ovary). ***A DIFFUSELY ENLARGED, "SAUSAGE-SHAPED" PANCREAS WITH LOSS OF THE NORMAL LOBULATIONS AND A LOW-DENSITY "CAPSULE-LIKE" RIM = AUTOIMMUNE (IgG4-related) PANCREATITIS***, which characteristically mimics carcinoma and ***RESPONDS DRAMATICALLY TO CORTICOSTEROIDS.***
 
-**UNDERSTAND:** Scalloping is the diagnostic point in pseudomyxoma: ***simple ascites does not indent solid organs, but thick mucinous material exerts MASS EFFECT and moulds the liver edge.*** In autoimmune pancreatitis, the loss of lobulation matters because ***CARCINOMA CAUSES FOCAL MASS WITH UPSTREAM DUCT DILATATION AND ATROPHY, WHEREAS AIP CAUSES DIFFUSE SAUSAGE-LIKE ENLARGEMENT WITH A DIFFUSELY NARROWED (not dilated) DUCT*** — and getting this right spares the patient a Whipple operation.
+**UNDERSTAND: **Scalloping is the diagnostic point in pseudomyxoma:** *simple ascites does not indent solid organs, but thick mucinous material exerts MASS EFFECT and moulds the liver edge.*** In autoimmune pancreatitis, the loss of lobulation matters because ***CARCINOMA CAUSES FOCAL MASS WITH UPSTREAM DUCT DILATATION AND ATROPHY, WHEREAS AIP CAUSES DIFFUSE SAUSAGE-LIKE ENLARGEMENT WITH A DIFFUSELY NARROWED (not dilated) DUCT*** — and getting this right spares the patient a Whipple operation.
 
 **MUST KNOW:**
 
-- **Autoimmune pancreatitis: ***TYPE 1 is the pancreatic manifestation of IgG4-RELATED DISEASE (raised serum IgG4, storiform fibrosis, obliterative phlebitis, IgG4-positive plasma cells; with sclerosing cholangitis, sialadenitis, retroperitoneal fibrosis and orbital pseudotumour); TYPE 2 is duct-centric, IgG4-negative and associated with INFLAMMATORY BOWEL DISEASE.*** ***PAINLESS OBSTRUCTIVE JAUNDICE WITH A PANCREATIC MASS IN A YOUNGER PATIENT SHOULD PROMPT AN IgG4 LEVEL BEFORE SURGERY.***
+- **Autoimmune pancreatitis:** *TYPE 1 is the pancreatic manifestation of IgG4-RELATED DISEASE (raised serum IgG4, storiform fibrosis, obliterative phlebitis, IgG4-positive plasma cells; with sclerosing cholangitis, sialadenitis, retroperitoneal fibrosis and orbital pseudotumour); TYPE 2 is duct-centric, IgG4-negative and associated with INFLAMMATORY BOWEL DISEASE.*** ***PAINLESS OBSTRUCTIVE JAUNDICE WITH A PANCREATIC MASS IN A YOUNGER PATIENT SHOULD PROMPT AN IgG4 LEVEL BEFORE SURGERY.***
 - **Pseudomyxoma peritonei is treated by ***CYTOREDUCTIVE SURGERY WITH HEATED INTRAPERITONEAL CHEMOTHERAPY (HIPEC)***; it kills by progressive obstruction rather than by metastasis.
-- **Liver segmental anatomy (Couinaud): ***segment I is the CAUDATE (drains directly to the IVC); segments II and III form the left lateral section; IVa and IVb the left medial; V and VIII the right anterior; VI and VII the right posterior.*** ***SEGMENT V LIES ADJACENT TO THE GALLBLADDER FOSSA, BELOW THE PLANE OF THE RIGHT PORTAL VEIN*** — the segment most often involved by gallbladder carcinoma.
+- **Liver segmental anatomy (Couinaud):** *segment I is the CAUDATE (drains directly to the IVC); segments II and III form the left lateral section; IVa and IVb the left medial; V and VIII the right anterior; VI and VII the right posterior.*** ***SEGMENT V LIES ADJACENT TO THE GALLBLADDER FOSSA, BELOW THE PLANE OF THE RIGHT PORTAL VEIN*** — the segment most often involved by gallbladder carcinoma.
 - ***A GALLBLADDER POLYP <1 cm IN AN ASYMPTOMATIC PATIENT IS FOLLOWED UP WITH ULTRASOUND; CHOLECYSTECTOMY IS INDICATED FOR POLYPS ≥1 cm, rapid growth, age >50, a sessile polyp, coexisting gallstones or PRIMARY SCLEROSING CHOLANGITIS.***
 - ***IN SUSPECTED BILIARY ATRESIA, INTRAOPERATIVE CHOLANGIOGRAPHY IS THE DEFINITIVE CONFIRMATORY INVESTIGATION*** (ultrasound shows the triangular cord sign and an absent/contracted gallbladder; HIDA screens) — and it is performed at the same sitting as the Kasai portoenterostomy.
 
@@ -796,7 +788,7 @@
 
 ---
 
-### 30. Bowel Obstruction and Paediatric Emergencies
+### 29. Bowel Obstruction and Paediatric Emergencies
 
 **PEARL:** **On the abdominal film, ***SMALL BOWEL is CENTRAL with VALVULAE CONNIVENTES crossing the FULL width of the lumen; LARGE BOWEL is PERIPHERAL with HAUSTRA that do NOT cross completely.*** ***PROXIMAL (jejunal) obstruction gives few dilated central loops with prominent valvulae and EARLY VOMITING; DISTAL obstruction gives many loops and later, feculent vomiting with more distension.*** ***INTUSSUSCEPTION IS REDUCED BY AIR (or hydrostatic) ENEMA — BUT EVIDENCE OF PERFORATION (free air), PERITONITIS OR SHOCK MAKES IT A SURGICAL EMERGENCY AND CONTRAINDICATES ENEMA REDUCTION.***
 
@@ -804,13 +796,15 @@
 
 **MUST KNOW:**
 
-- **Signs of obstruction on plain film: ***dilated loops (small bowel >3 cm, colon >6 cm, caecum >9 cm — the "3/6/9 rule"), multiple air–fluid levels on the erect film, and a GASLESS RECTUM.*** ***CT IS THE INVESTIGATION OF CHOICE — it identifies the transition point, the cause, and signs of STRANGULATION (bowel wall thickening, poor enhancement, mesenteric fat stranding, free fluid, pneumatosis and portal venous gas).***
-- **Classic obstruction patterns: ***SIGMOID VOLVULUS — "COFFEE-BEAN"/inverted-U loop arising from the pelvis; CAECAL VOLVULUS — a dilated loop pointing to the left upper quadrant; GALLSTONE ILEUS — RIGLER'S TRIAD (pneumobilia, small bowel obstruction and an ectopic gallstone); closed-loop obstruction — a C-shaped fluid-filled loop with a whirl sign.***
+- **Signs of obstruction on plain film:** *dilated loops (small bowel >3 cm, colon >6 cm, caecum >9 cm — the "3/6/9 rule"), multiple air–fluid levels on the erect film, and a GASLESS RECTUM.*** ***CT IS THE INVESTIGATION OF CHOICE — it identifies the transition point, the cause, and signs of STRANGULATION (bowel wall thickening, poor enhancement, mesenteric fat stranding, free fluid, pneumatosis and portal venous gas).***
+- **Classic obstruction patterns:** *SIGMOID VOLVULUS — "COFFEE-BEAN"/inverted-U loop arising from the pelvis; CAECAL VOLVULUS — a dilated loop pointing to the left upper quadrant; GALLSTONE ILEUS — RIGLER'S TRIAD (pneumobilia, small bowel obstruction and an ectopic gallstone); closed-loop obstruction — a C-shaped fluid-filled loop with a whirl sign.***
 - ***FREE AIR UNDER THE DIAPHRAGM ON AN ERECT CHEST FILM (or RIGLER'S "DOUBLE-WALL" SIGN on a supine film) MEANS PERFORATION AND USUALLY MEANS LAPAROTOMY.***
 - **Ultrasound in intussusception shows the ***"TARGET"/DOUGHNUT sign in cross-section and the PSEUDOKIDNEY sign longitudinally***; enema reduction succeeds in the majority, with a recurrence rate of about 10%.
 - ***ROTAVIRUS VACCINE HAS A SMALL ASSOCIATION WITH INTUSSUSCEPTION*** — but the benefit vastly outweighs the risk, and a temporal link after vaccination should not delay standard management.
 
 **EXAM CONNECTION:** Dilated central loops with prominent valvulae conniventes → **proximal small bowel obstruction**; intussusception with free air → **urgent surgical exploration**.
+
+**ALSO KNOW:** ***THE "DOUBLE BUBBLE" SIGN (a distended stomach and proximal duodenum with NO distal gas) = DUODENAL ATRESIA.*** Vomiting is ***BILIOUS because the atresia is usually DISTAL to the ampulla of Vater***; it is associated with ***DOWN SYNDROME (~30%), polyhydramnios, malrotation and annular pancreas.*** Contrast: ***ILEAL ATRESIA gives MANY dilated loops with multiple air–fluid levels; MIDGUT VOLVULUS gives a "double bubble WITH distal gas" and needs an urgent UPPER GI CONTRAST STUDY showing the duodenojejunal flexure to the right of the midline and a "CORKSCREW" duodenum.*** ***THE NUMBER OF DILATED LOOPS TELLS YOU HOW FAR DOWN THE OBSTRUCTION IS*** — a high obstruction cannot distend much bowel, so it produces few, large bubbles and early vomiting with little distension; a low obstruction distends everything above it, giving many loops, marked distension and later, feculent vomiting. And ***THE PRESENCE OF DISTAL GAS IS THE CRUCIAL DISCRIMINATOR: no distal gas = complete atresia (semi-elective surgery); double bubble WITH distal gas = possible MALROTATION WITH VOLVULUS — a true emergency, because the entire midgut can infarct within hours.*** ***BILIOUS VOMITING IN A NEONATE IS MALROTATION WITH VOLVULUS UNTIL PROVED OTHERWISE — the investigation is an URGENT UPPER GI CONTRAST STUDY, and delay costs the whole small bowel.*** **Other paediatric patterns:** *HYPERTROPHIC PYLORIC STENOSIS — NON-bilious projectile vomiting, a single gastric bubble with a "CATERPILLAR" stomach; ultrasound shows a muscle >3–4 mm and channel >15–17 mm. NECROTISING ENTEROCOLITIS — PNEUMATOSIS INTESTINALIS, portal venous gas, free air. MECONIUM ILEUS — a "SOAP-BUBBLE"/ground-glass right lower quadrant with few air–fluid levels, associated with CYSTIC FIBROSIS. HIRSCHSPRUNG — a transition zone with a narrow distal segment on contrast enema and delayed evacuation.***** *OTHER "DOUBLE BUBBLE" CAUSES: annular pancreas, duodenal web/stenosis, preduodenal portal vein and midgut volvulus.***** *A PLAIN FILM SHOWING FREE AIR IN A NEONATE MEANS PERFORATION AND MANDATES SURGERY, WHATEVER THE UNDERLYING CAUSE.*** *Few bubbles means high obstruction — and distal gas beside a double bubble means volvulus until disproved.*
 
 **REMEMBER:** *Valvulae cross the whole lumen, haustra do not — and never push an enema into a perforated bowel.*
 
@@ -822,18 +816,18 @@
 
 ---
 
-### 31. Biliary and Pancreatic Imaging
+### 30. Biliary and Pancreatic Imaging
 
 **PEARL:** ***MRCP SHOWING MULTIFOCAL STRICTURES ALTERNATING WITH DILATATION — "BEADING" OF THE INTRA- AND EXTRAHEPATIC DUCTS — IS DIAGNOSTIC OF PRIMARY SCLEROSING CHOLANGITIS***, associated with ULCERATIVE COLITIS and p-ANCA. ***A DILATED COMMON BILE DUCT WITH DELAYED DRAINAGE AND RAISED ENZYMES AFTER CHOLECYSTECTOMY SUGGESTS SPHINCTER OF ODDI DYSFUNCTION — DIAGNOSED DEFINITIVELY BY ERCP WITH SPHINCTER MANOMETRY.*** ***THE "MERCEDES-BENZ" (triradiate) SIGN — gas-filled fissures within a gallstone — IS DIAGNOSTIC OF CHOLELITHIASIS.***
 
-**UNDERSTAND:** The choice of biliary investigation follows a strict logic: ***ULTRASOUND FIRST (cheap, no radiation, best for stones and duct calibre) → MRCP for non-invasive DUCTAL ANATOMY → ENDOSCOPIC ULTRASOUND for small distal stones and staging → ERCP ONLY WHEN INTERVENTION IS INTENDED***, because ERCP carries a real risk of pancreatitis, bleeding, perforation and sepsis. ***"DIAGNOSTIC ERCP" IS OBSOLETE — the exceptions, such as sphincter manometry, are precisely the cases where nothing else can answer the question.***
+**UNDERSTAND: **The choice of biliary investigation follows a strict logic:** *ULTRASOUND FIRST (cheap, no radiation, best for stones and duct calibre) → MRCP for non-invasive DUCTAL ANATOMY → ENDOSCOPIC ULTRASOUND for small distal stones and staging → ERCP ONLY WHEN INTERVENTION IS INTENDED***, because ERCP carries a real risk of pancreatitis, bleeding, perforation and sepsis. ***"DIAGNOSTIC ERCP" IS OBSOLETE — the exceptions, such as sphincter manometry, are precisely the cases where nothing else can answer the question.***
 
 **MUST KNOW:**
 
-- **PSC: ***a "PRUNED-TREE" appearance in advanced disease, a HIGH RISK OF CHOLANGIOCARCINOMA AND COLORECTAL CANCER, and the classic "ONION-SKIN" periductal fibrosis histologically; there is no effective medical therapy and transplantation is the endpoint.*** Contrast ***PRIMARY BILIARY CHOLANGITIS (small ducts only, normal MRCP, AMA-positive, middle-aged women).***
+- **PSC:** *a "PRUNED-TREE" appearance in advanced disease, a HIGH RISK OF CHOLANGIOCARCINOMA AND COLORECTAL CANCER, and the classic "ONION-SKIN" periductal fibrosis histologically; there is no effective medical therapy and transplantation is the endpoint.*** Contrast ***PRIMARY BILIARY CHOLANGITIS (small ducts only, normal MRCP, AMA-positive, middle-aged women).***
 - ***RECURRENT PYOGENIC (ORIENTAL) CHOLANGITIS — intrahepatic pigment stones with disproportionate dilatation of the EXTRAhepatic ducts and "arrowhead" tapering, associated with liver flukes; CAROLI DISEASE — saccular INTRAhepatic duct dilatation with the "CENTRAL DOT SIGN" (a portal radicle within the dilated duct).***
 - **Only ***10–20% OF GALLSTONES ARE RADIO-OPAQUE***, so ***ULTRASOUND (echogenic focus with posterior ACOUSTIC SHADOWING, mobile with position) IS THE INVESTIGATION OF CHOICE — sensitivity >95%.*** ***A HIDA SCAN SHOWING NON-VISUALISATION OF THE GALLBLADDER CONFIRMS ACUTE CHOLECYSTITIS.***
-- **Signs of acute cholecystitis on ultrasound: ***a thick-walled (>3 mm) gallbladder, pericholecystic fluid, stones and a SONOGRAPHIC MURPHY SIGN.***
+- **Signs of acute cholecystitis on ultrasound:** *a thick-walled (>3 mm) gallbladder, pericholecystic fluid, stones and a SONOGRAPHIC MURPHY SIGN.***
 - ***ACHALASIA IS INVESTIGATED WITH A TIMED BARIUM SWALLOW ("BIRD-BEAK"), UPPER GI ENDOSCOPY (mandatory to exclude PSEUDOACHALASIA) AND MANOMETRY (the gold standard) — 24-HOUR pH MONITORING IS THE LEAST USEFUL***, since it measures acid reflux rather than motility.
 
 **EXAM CONNECTION:** Beaded bile ducts on MRCP → **primary sclerosing cholangitis**; post-cholecystectomy pain with a dilated CBD → **ERCP with manometry**; Mercedes-Benz sign → **cholelithiasis**; least useful test in achalasia → **24-hour pH monitoring**.
@@ -851,7 +845,7 @@
 
 ---
 
-### 32. Pancreatic Lesions on Imaging
+### 31. Pancreatic Lesions on Imaging
 
 **PEARL:** ***A MULTICYSTIC, LOBULATED "BUNCH OF GRAPES"/SPONGY PANCREATIC MASS WITH A CENTRAL SCAR AND STELLATE "SUNBURST" CALCIFICATION = SEROUS CYSTADENOMA*** (benign, elderly women, "grandmother tumour"). ***AN ENLARGED, EFFACED DUODENAL C-LOOP WITH "FROSTBERG'S INVERTED 3 SIGN" ON BARIUM = CARCINOMA OF THE HEAD OF THE PANCREAS***; a ***"DOUBLE DUCT SIGN" (dilated common bile AND pancreatic ducts) is the CT/MRCP equivalent.***
 
@@ -859,11 +853,11 @@
 
 **MUST KNOW:**
 
-- **Radiological signs of ACUTE PANCREATITIS on plain film: ***"SENTINEL LOOP" (a localised dilated jejunal loop), "COLON CUT-OFF SIGN" (gas in the transverse colon ending abruptly at the splenic flexure) and the "PRESERVED RENAL HALO" sign.*** ***GREY TURNER'S (flank) AND CULLEN'S (periumbilical) SIGNS ARE CLINICAL, NOT RADIOLOGICAL.*** ***CECT AT 72 HOURS OR LATER IS THE INVESTIGATION OF CHOICE FOR NECROSIS AND LOCAL COMPLICATIONS*** (earlier scans underestimate it).
+- **Radiological signs of ACUTE PANCREATITIS on plain film:** *"SENTINEL LOOP" (a localised dilated jejunal loop), "COLON CUT-OFF SIGN" (gas in the transverse colon ending abruptly at the splenic flexure) and the "PRESERVED RENAL HALO" sign.*** ***GREY TURNER'S (flank) AND CULLEN'S (periumbilical) SIGNS ARE CLINICAL, NOT RADIOLOGICAL.*** ***CECT AT 72 HOURS OR LATER IS THE INVESTIGATION OF CHOICE FOR NECROSIS AND LOCAL COMPLICATIONS*** (earlier scans underestimate it).
 - ***A PANCREATIC HEAD MASS WITH PAINLESS OBSTRUCTIVE JAUNDICE AND A PALPABLE GALLBLADDER (COURVOISIER'S LAW) IS CARCINOMA UNTIL PROVED OTHERWISE — but ALWAYS CONSIDER AUTOIMMUNE PANCREATITIS (sausage pancreas, raised IgG4) BEFORE OPERATING.***
 - **Staging pancreatic cancer is about ***VASCULAR CONTACT: involvement of the coeliac axis, superior mesenteric artery or hepatic artery determines resectability, so a PANCREATIC-PROTOCOL CECT WITH ARTERIAL AND PORTAL PHASES IS MANDATORY.***
-- **Chronic pancreatitis: ***COARSE PARENCHYMAL AND INTRADUCTAL CALCIFICATION with a dilated, beaded ("CHAIN OF LAKES") pancreatic duct.***
-- **Tumour markers and imaging complement each other: ***CA 19-9 for pancreatic ductal adenocarcinoma (useless as a screening test, useful for follow-up).***
+- **Chronic pancreatitis:** *COARSE PARENCHYMAL AND INTRADUCTAL CALCIFICATION with a dilated, beaded ("CHAIN OF LAKES") pancreatic duct.***
+- **Tumour markers and imaging complement each other:** *CA 19-9 for pancreatic ductal adenocarcinoma (useless as a screening test, useful for follow-up).***
 
 **EXAM CONNECTION:** Spongy pancreatic mass with sunburst calcification → **serous cystadenoma**; enlarged duodenal loop with the reversed-3 sign → **carcinoma head of pancreas**; NOT a radiological sign of pancreatitis → **Grey Turner sign**.
 
@@ -879,7 +873,7 @@
 
 ---
 
-### 33. Gallbladder Ultrasound and Biliary Cystic Disease
+### 32. Gallbladder Ultrasound and Biliary Cystic Disease
 
 **PEARL:** ***THE "WALL–ECHO–SHADOW" (WES) SIGN — a hyperechoic gallbladder wall, a thin hypoechoic line of bile, a hyperechoic stone surface and dense POSTERIOR ACOUSTIC SHADOWING — indicates a CONTRACTED, STONE-FILLED GALLBLADDER, i.e. CHRONIC CHOLECYSTITIS WITH CHOLELITHIASIS.*** ***SACCULAR DILATATION OF THE INTRAHEPATIC DUCTS WITH THE "CENTRAL DOT SIGN" (an enhancing portal radicle within the dilated duct) = CAROLI DISEASE.***
 
@@ -887,9 +881,9 @@
 
 **MUST KNOW:**
 
-- **Ultrasound of the gallbladder: ***stones are ECHOGENIC, SHADOWING and MOBILE; POLYPS are echogenic, NON-shadowing and IMMOBILE; SLUDGE is echogenic, non-shadowing and mobile; ADENOMYOMATOSIS shows intramural diverticula (Rokitansky–Aschoff sinuses) with "COMET-TAIL"/twinkling artefact; PORCELAIN gallbladder shows a calcified wall (with an increased carcinoma risk).***
-- **Acute cholecystitis: ***wall >3 mm, pericholecystic fluid, a positive SONOGRAPHIC MURPHY SIGN and stones; a HIDA SCAN SHOWING NON-FILLING OF THE GALLBLADDER IS THE MOST ACCURATE TEST when ultrasound is equivocal.***
-- **Caroli disease: ***a congenital ductal plate malformation, part of the fibropolycystic liver diseases and associated with ARPKD and CONGENITAL HEPATIC FIBROSIS (when combined, "Caroli SYNDROME"); it presents with recurrent CHOLANGITIS and stones, and carries a risk of CHOLANGIOCARCINOMA. It is TODANI TYPE V.***
+- **Ultrasound of the gallbladder:** *stones are ECHOGENIC, SHADOWING and MOBILE; POLYPS are echogenic, NON-shadowing and IMMOBILE; SLUDGE is echogenic, non-shadowing and mobile; ADENOMYOMATOSIS shows intramural diverticula (Rokitansky–Aschoff sinuses) with "COMET-TAIL"/twinkling artefact; PORCELAIN gallbladder shows a calcified wall (with an increased carcinoma risk).***
+- **Acute cholecystitis:** *wall >3 mm, pericholecystic fluid, a positive SONOGRAPHIC MURPHY SIGN and stones; a HIDA SCAN SHOWING NON-FILLING OF THE GALLBLADDER IS THE MOST ACCURATE TEST when ultrasound is equivocal.***
+- **Caroli disease:** *a congenital ductal plate malformation, part of the fibropolycystic liver diseases and associated with ARPKD and CONGENITAL HEPATIC FIBROSIS (when combined, "Caroli SYNDROME"); it presents with recurrent CHOLANGITIS and stones, and carries a risk of CHOLANGIOCARCINOMA. It is TODANI TYPE V.***
 - **Cholangiocarcinoma at the hilum (***KLATSKIN tumour***) causes non-union of the right and left ducts with intrahepatic dilatation and a collapsed gallbladder.**
 - ***A DILATED COMMON BILE DUCT (>6 mm, or >8–10 mm after cholecystectomy) WITH A DILATED PANCREATIC DUCT — the "DOUBLE DUCT SIGN" — MEANS PERIAMPULLARY OR PANCREATIC HEAD MALIGNANCY UNTIL PROVED OTHERWISE.***
 
@@ -906,7 +900,7 @@
 
 ---
 
-### 34. Barium Appearances of Bowel Disease
+### 33. Barium Appearances of Bowel Disease
 
 **PEARL:** **In ***ILEOCAECAL TUBERCULOSIS***: the ***FLEISCHNER ("inverted umbrella") SIGN — a widely gaping, thickened ileocaecal valve with a narrowed terminal ileum; STIERLIN'S SIGN — lack of barium retention in the inflamed segment; the STRING SIGN; a CONICAL/contracted caecum and the GOOSENECK deformity.*** ***THE "APPLE-CORE"/NAPKIN-RING LESION — short, irregular stenosis with abrupt SHOULDERED margins — BELONGS TO COLONIC CARCINOMA, NOT TO TUBERCULOSIS.*** In ***CROHN DISEASE, APHTHOUS ULCERS ARE THE EARLIEST radiological finding***, progressing to cobblestoning, longitudinal ulcers with anti-mesenteric PSEUDOSACCULATION, skip lesions and the ***STRING SIGN OF KANTOR.***
 
@@ -915,9 +909,9 @@
 **MUST KNOW:**
 
 - ***BENIGN VERSUS MALIGNANT GASTRIC ULCER ON BARIUM: BENIGN — projects BEYOND the gastric wall contour, has a HAMPTON'S LINE (a thin lucent rim of overhanging mucosa at the neck) and SMOOTH, EVEN RADIATING FOLDS reaching the crater. MALIGNANT — remains WITHIN the wall contour, has a CARMAN MENISCUS SIGN (a lenticular ulcer with a convex inner border), NODULAR, CLUBBED, FUSED, INTERRUPTED folds, and the KIRKLIN COMPLEX.***
-- **Other named barium signs: ***"BIRD-BEAK" — achalasia; "CORKSCREW" — diffuse oesophageal spasm; "RAT-TAIL"/shouldered stricture — oesophageal carcinoma; "LEAD-PIPE" colon — chronic ulcerative colitis; "THUMBPRINTING" — ischaemic or infective colitis; "STRING OF BEADS" — small bowel obstruction; "COBBLESTONE" — Crohn; "MOULAGE" (featureless tube) — coeliac disease; "MEGADUODENUM" — scleroderma.***
+- **Other named barium signs:** *"BIRD-BEAK" — achalasia; "CORKSCREW" — diffuse oesophageal spasm; "RAT-TAIL"/shouldered stricture — oesophageal carcinoma; "LEAD-PIPE" colon — chronic ulcerative colitis; "THUMBPRINTING" — ischaemic or infective colitis; "STRING OF BEADS" — small bowel obstruction; "COBBLESTONE" — Crohn; "MOULAGE" (featureless tube) — coeliac disease; "MEGADUODENUM" — scleroderma.***
 - ***CT/MR ENTEROGRAPHY HAS REPLACED BARIUM FOR CROHN DISEASE***, showing mural hyperenhancement, the ***"FAT HALO" (submucosal fat) and "COMB" sign (engorged vasa recta)***, plus abscesses and fistulae that barium cannot see.
-- **Ileocaecal TB versus Crohn: ***favour TB with a SHORT segment, a GAPING valve, ASCITES, necrotic lymph nodes and pulmonary disease; favour CROHN with LONG segments, skip lesions, perianal disease, comb sign and a positive ASCA.***
+- **Ileocaecal TB versus Crohn:** *favour TB with a SHORT segment, a GAPING valve, ASCITES, necrotic lymph nodes and pulmonary disease; favour CROHN with LONG segments, skip lesions, perianal disease, comb sign and a positive ASCA.***
 - ***ASCA POSITIVITY SUPPORTS CROHN DISEASE; p-ANCA SUPPORTS ULCERATIVE COLITIS.***
 
 **EXAM CONNECTION:** NOT seen in ileocaecal tuberculosis → **apple-core sign**; sign of ileocaecal TB → **Fleischner sign**; malignant gastric ulcer → **Carman meniscus sign**; earliest small-bowel finding in Crohn disease → **aphthous ulcer**.
@@ -940,7 +934,7 @@
 
 ---
 
-### 35. Air in the Wrong Place — Named Signs
+### 34. Air in the Wrong Place — Named Signs
 
 **PEARL:** ***"FOOTBALL SIGN" (a large oval lucency outlining the peritoneal cavity on a supine film) = PNEUMOPERITONEUM; "MOUNT FUJI SIGN" (bilateral frontal subdural air separating and peaking the frontal lobes) = TENSION PNEUMOCEPHALUS; "HAMMAN'S SIGN" (a crunching sound synchronous with the heartbeat) = PNEUMOMEDIASTINUM.*** ***RETROCARDIAC AIR–FLUID LEVEL ON A CHEST X-RAY = HIATUS HERNIA.***
 
@@ -949,10 +943,10 @@
 **MUST KNOW:**
 
 - ***TENSION PNEUMOCEPHALUS IS A NEUROSURGICAL EMERGENCY*** (after craniotomy, trauma or sinus surgery) requiring decompression; simple pneumocephalus resolves spontaneously.
-- **Pneumomediastinum: ***spontaneous (after vomiting, asthma, Valsalva or childbirth), from oesophageal rupture (BOERHAAVE — with subcutaneous emphysema, pleural effusion and a "V SIGN OF NACLERIO"), tracheobronchial injury, or barotrauma. ALWAYS EXCLUDE OESOPHAGEAL PERFORATION with a water-soluble contrast swallow — it is the lethal cause.***
-- **Diaphragmatic hernias to distinguish: ***HIATUS HERNIA — retrocardiac air–fluid level, sliding (type I, 95%) or rolling/paraoesophageal (type II, at risk of volvulus and strangulation); MORGAGNI — ANTERIOR, retrosternal, RIGHT-sided, usually asymptomatic in adults; BOCHDALEK — POSTEROLATERAL, LEFT-sided, presenting in the newborn; EVENTRATION — an intact but elevated, thinned diaphragm.*** ***CT WITH ORAL CONTRAST IS THE INVESTIGATION OF CHOICE FOR A HIATUS HERNIA when volvulus or obstruction is suspected.***
+- **Pneumomediastinum:** *spontaneous (after vomiting, asthma, Valsalva or childbirth), from oesophageal rupture (BOERHAAVE — with subcutaneous emphysema, pleural effusion and a "V SIGN OF NACLERIO"), tracheobronchial injury, or barotrauma. ALWAYS EXCLUDE OESOPHAGEAL PERFORATION with a water-soluble contrast swallow — it is the lethal cause.***
+- **Diaphragmatic hernias to distinguish:** *HIATUS HERNIA — retrocardiac air–fluid level, sliding (type I, 95%) or rolling/paraoesophageal (type II, at risk of volvulus and strangulation); MORGAGNI — ANTERIOR, retrosternal, RIGHT-sided, usually asymptomatic in adults; BOCHDALEK — POSTEROLATERAL, LEFT-sided, presenting in the newborn; EVENTRATION — an intact but elevated, thinned diaphragm.*** ***CT WITH ORAL CONTRAST IS THE INVESTIGATION OF CHOICE FOR A HIATUS HERNIA when volvulus or obstruction is suspected.***
 - ***BEFORE INSERTING A CHEST DRAIN AFTER BLUNT TRAUMA, LOOK CAREFULLY: pneumothorax and haemothorax need a drain, but CONSOLIDATION NEEDS NONE AND A DIAPHRAGMATIC HERNIA IS A CONTRAINDICATION*** — the drain will perforate herniated stomach or bowel.
-- **The safe triangle for chest drain insertion: ***the 4th–5th intercostal space, anterior to the mid-axillary line, above the level of the nipple, bordered by the lateral border of pectoralis major and the anterior border of latissimus dorsi.***
+- **The safe triangle for chest drain insertion:** *the 4th–5th intercostal space, anterior to the mid-axillary line, above the level of the nipple, bordered by the lateral border of pectoralis major and the anterior border of latissimus dorsi.***
 
 **EXAM CONNECTION:** Hamman's sign → **pneumomediastinum**; Mount Fuji sign → **pneumocephalus**; football sign → **pneumoperitoneum**; retrocardiac air–fluid level → **hiatus hernia**; further evaluation needed before a chest tube → **consolidation and diaphragmatic hernia**.
 
@@ -974,7 +968,7 @@
 
 ---
 
-### 36. Hepatic Hydatid Cyst
+### 35. Hepatic Hydatid Cyst
 
 **PEARL:** A **well-defined liver cyst with a LAMELLAR (double-layered) wall, CURVILINEAR CALCIFICATION and internal DAUGHTER CYSTS** on CT is a **hydatid cyst (*Echinococcus granulosus*)** — usually an **incidental** finding.
 
@@ -1002,7 +996,7 @@
 
 ---
 
-### 37. Named Abdominal CT and Radiograph Signs
+### 36. Named Abdominal CT and Radiograph Signs
 
 **PEARL:** **ACCORDION sign = PSEUDOMEMBRANOUS COLITIS.** **RIGLER'S TRIAD (pneumobilia + small bowel obstruction + ectopic gallstone) = GALLSTONE ILEUS.**
 
@@ -1048,20 +1042,20 @@
 
 ---
 
-### 38. Carcinoma Head of Pancreas — Barium Signs
+### 37. Carcinoma Head of Pancreas — Barium Signs
 
 **PEARL:**
 
 - **Frostberg's reversed 3 sign** — an enlarged/widened duodenal C-loop with a reversed "3" contour at the ampulla.
 - **Antral pad sign** — extrinsic indentation of the gastric antrum by the pancreatic mass.
 
-**MUST KNOW:** Other classics: **double duct sign** (dilated common bile and pancreatic ducts) on CT/MRCP, and **Courvoisier's law** — a palpable, non-tender gallbladder with jaundice suggests malignant obstruction rather than stones. **Contrast-enhanced CT (pancreatic protocol) is the investigation of choice.**
+**MUST KNOW: **Other classics:** double duct sign** (dilated common bile and pancreatic ducts) on CT/MRCP, and **Courvoisier's law** — a palpable, non-tender gallbladder with jaundice suggests malignant obstruction rather than stones. **Contrast-enhanced CT (pancreatic protocol) is the investigation of choice.**
 
 **REMEMBER:** *Reversed 3 + antral pad + double duct = carcinoma head of pancreas.*
 
 ---
 
-### 39. Serous Cystadenoma of the Pancreas
+### 38. Serous Cystadenoma of the Pancreas
 
 **PEARL:** A **spongy/honeycomb (microcystic) appearance with a central "sunburst" calcification** on CT.
 
@@ -1071,7 +1065,7 @@
 
 ---
 
-### 40. Carcinoma Colon — Apple Core
+### 39. Carcinoma Colon — Apple Core
 
 **PEARL:** The **"apple core" (napkin ring) appearance** on barium enema indicates **carcinoma colon** — an annular constricting lesion with shouldered, overhanging edges and mucosal destruction.
 
@@ -1081,17 +1075,17 @@
 
 ---
 
-### 41. Ileocaecal Tuberculosis — Fleischner Sign
+### 40. Ileocaecal Tuberculosis — Fleischner Sign
 
 **PEARL:** **Fleischner (inverted umbrella) sign** — a **widely gaping, thickened, patulous ileocaecal valve** with a narrowed, ulcerated terminal ileum.
 
-**MUST KNOW:** Other TB signs: **Stierlin sign** (lack of barium retention in the inflamed caecum/terminal ileum — a "string" of barium with normal filling either side), **string sign of Kantor**, conical shrunken caecum with a **shortened, retracted ileocaecal angle**. **Crohn's** classically has a **narrow, stenotic** ileocaecal valve and skip lesions — TB gapes, Crohn's narrows.
+**MUST KNOW: **Other TB signs:** Stierlin sign** (lack of barium retention in the inflamed caecum/terminal ileum — a "string" of barium with normal filling either side), **string sign of Kantor**, conical shrunken caecum with a **shortened, retracted ileocaecal angle**. **Crohn's** classically has a **narrow, stenotic** ileocaecal valve and skip lesions — TB gapes, Crohn's narrows.
 
 **REMEMBER:** *TB opens the valve (Fleischner); Crohn's closes it.*
 
 ---
 
-### 42. Crohn Disease — Earliest Radiological Sign
+### 41. Crohn Disease — Earliest Radiological Sign
 
 **PEARL:** **Aphthous ulcers** are among the **earliest radiological features** of small bowel Crohn disease.
 
@@ -1101,7 +1095,7 @@
 
 ---
 
-### 43. Mercedes-Benz Sign
+### 42. Mercedes-Benz Sign
 
 **PEARL:** The **Mercedes-Benz (triradiate) sign** = **central radiolucent gas fissures within a gallstone** — diagnostic of **cholelithiasis**.
 
@@ -1111,7 +1105,7 @@
 
 ---
 
-### 44. Steakhouse Syndrome
+### 43. Steakhouse Syndrome
 
 **PEARL:** **Food bolus (usually meat) impaction in the oesophagus.**
 
@@ -1125,7 +1119,7 @@
 
 ## Genitourinary Imaging
 
-### 45. Genitourinary Trauma Imaging
+### 44. Genitourinary Trauma Imaging
 
 **PEARL:** ***EXTRAPERITONEAL BLADDER RUPTURE IS THE COMMONER TYPE (associated with PELVIC FRACTURE), shows FLAME-SHAPED perivesical contrast extravasation, and is managed CONSERVATIVELY with CATHETER DRAINAGE.*** ***INTRAPERITONEAL rupture (a burst at the DOME, typically after blunt trauma to a full bladder) outlines bowel loops and REQUIRES SURGICAL REPAIR.*** ***CT CYSTOGRAPHY (with RETROGRADE bladder filling) IS THE INVESTIGATION OF CHOICE — a standard CT with clamped catheter or an MCU is inadequate.*** ***BLOOD AT THE URETHRAL MEATUS AFTER TRAUMA MEANS A RETROGRADE URETHROGRAM BEFORE ANY CATHETER IS PASSED.***
 
@@ -1134,9 +1128,9 @@
 **MUST KNOW:**
 
 - ***THE CARDINAL RULE OF URETHRAL INJURY: BLOOD AT THE MEATUS, A HIGH-RIDING PROSTATE, PERINEAL/SCROTAL BRUISING OR INABILITY TO PASS URINE = DO NOT CATHETERISE. Perform an RGU; if there is a rupture, place a SUPRAPUBIC CATHETER.*** Blind catheterisation converts a partial tear into a complete one.
-- **Urethral injury types: ***POSTERIOR (membranous) urethral injury accompanies PELVIC FRACTURE (the classic "high-riding prostate"); ANTERIOR (bulbar) urethral injury follows a STRADDLE injury, with a butterfly perineal haematoma.***
-- **Renal trauma: ***CECT with a DELAYED (excretory) PHASE is essential to detect collecting-system injury and urine leak; most blunt renal injuries are managed non-operatively.***
-- **The trauma imaging algorithm: ***UNSTABLE patient with a POSITIVE FAST → straight to LAPAROTOMY; STABLE patient with a positive FAST → CECT ABDOMEN to characterise the injury and allow non-operative management; unstable with a negative FAST → look elsewhere (chest, pelvis, retroperitoneum) or perform DPL.***
+- **Urethral injury types:** *POSTERIOR (membranous) urethral injury accompanies PELVIC FRACTURE (the classic "high-riding prostate"); ANTERIOR (bulbar) urethral injury follows a STRADDLE injury, with a butterfly perineal haematoma.***
+- **Renal trauma:** *CECT with a DELAYED (excretory) PHASE is essential to detect collecting-system injury and urine leak; most blunt renal injuries are managed non-operatively.***
+- **The trauma imaging algorithm:** *UNSTABLE patient with a POSITIVE FAST → straight to LAPAROTOMY; STABLE patient with a positive FAST → CECT ABDOMEN to characterise the injury and allow non-operative management; unstable with a negative FAST → look elsewhere (chest, pelvis, retroperitoneum) or perform DPL.***
 - ***A DIAPHRAGMATIC RUPTURE ON THE CHEST FILM (bowel or stomach in the hemithorax, the nasogastric tube tip above the diaphragm) IS AN ABSOLUTE CONTRAINDICATION TO BLIND INTERCOSTAL DRAIN INSERTION*** — the tube perforates herniated viscera.
 
 **EXAM CONNECTION:** Perivesical contrast extravasation → **extraperitoneal rupture, the commoner type**; blood at the meatus after a skid injury → **retrograde urethrogram**; procedure contraindicated with a diaphragmatic rupture → **intercostal drain**; stable patient with a positive eFAST → **CECT abdomen**.
@@ -1152,7 +1146,7 @@
 
 ---
 
-### 46. Renal Anomalies and Renovascular Disease
+### 45. Renal Anomalies and Renovascular Disease
 
 **PEARL:** ***FUSION OF THE LOWER POLES ACROSS THE MIDLINE BY AN ISTHMUS = HORSESHOE KIDNEY — the commonest renal fusion anomaly, held low in the abdomen because THE ISTHMUS IS ARRESTED BY THE INFERIOR MESENTERIC ARTERY.*** ***A RIGHT URETER THAT SWINGS MEDIALLY BEHIND THE IVC AND BACK — the "FISH-HOOK"/reverse-J appearance — IS A RETROCAVAL URETER.*** On intravenous urography, renovascular hypertension shows ***a DELAYED or ABSENT NEPHROGRAM, a SMALL/ATROPHIC kidney, delayed washout and a RIM nephrogram — but NOT a filling defect in the calyces.***
 
@@ -1160,10 +1154,10 @@
 
 **MUST KNOW:**
 
-- **Horseshoe kidney associations: ***TURNER SYNDROME and trisomy 18; an increased incidence of WILMS TUMOUR, transitional cell carcinoma and CARCINOID; and technical difficulty during aortic surgery.***
+- **Horseshoe kidney associations:** *TURNER SYNDROME and trisomy 18; an increased incidence of WILMS TUMOUR, transitional cell carcinoma and CARCINOID; and technical difficulty during aortic surgery.***
 - **A ***FILLING DEFECT IN THE CALYCES OR PELVIS ON UROGRAPHY MEANS SOMETHING INSIDE THE LUMEN — a RADIOLUCENT STONE, TRANSITIONAL CELL CARCINOMA, blood clot, fungal ball or sloughed papilla (papillary necrosis)*** — not vascular disease.
-- **Renovascular hypertension: ***ATHEROSCLEROTIC (older, ostial, bilateral) or FIBROMUSCULAR DYSPLASIA (young women, mid-distal artery, "STRING-OF-BEADS"); screen with DOPPLER, CT or MR ANGIOGRAPHY (a captopril renogram in selected cases); suspect it with resistant hypertension, an abdominal BRUIT, FLASH PULMONARY OEDEMA, or a RISE IN CREATININE AFTER STARTING AN ACE INHIBITOR.***
-- **Other congenital renal anomalies: ***ectopic (pelvic) kidney, CROSSED FUSED ECTOPIA, PANCAKE kidney, duplex system with an ectopic ureterocele (the WEIGERT–MEYER rule: the UPPER moiety ureter inserts LOWER and MEDIALLY and OBSTRUCTS; the LOWER moiety refluxes), and multicystic dysplastic kidney.***
+- **Renovascular hypertension:** *ATHEROSCLEROTIC (older, ostial, bilateral) or FIBROMUSCULAR DYSPLASIA (young women, mid-distal artery, "STRING-OF-BEADS"); screen with DOPPLER, CT or MR ANGIOGRAPHY (a captopril renogram in selected cases); suspect it with resistant hypertension, an abdominal BRUIT, FLASH PULMONARY OEDEMA, or a RISE IN CREATININE AFTER STARTING AN ACE INHIBITOR.***
+- **Other congenital renal anomalies:** *ectopic (pelvic) kidney, CROSSED FUSED ECTOPIA, PANCAKE kidney, duplex system with an ectopic ureterocele (the WEIGERT–MEYER rule: the UPPER moiety ureter inserts LOWER and MEDIALLY and OBSTRUCTS; the LOWER moiety refluxes), and multicystic dysplastic kidney.***
 - ***ANY UNEXPLAINED HYDRONEPHROSIS DESERVES A DIURETIC RENOGRAM TO SEPARATE OBSTRUCTION FROM A BAGGY, UNOBSTRUCTED SYSTEM.***
 
 **EXAM CONNECTION:** Fused lower poles with a midline isthmus → **horseshoe kidney**; fish-hook right ureter → **retrocaval ureter**; NOT a feature of renovascular hypertension → **filling defect in the calyces**.
@@ -1178,7 +1172,7 @@
 
 ---
 
-### 47. Nephrogram Patterns
+### 46. Nephrogram Patterns
 
 **PEARL:** ***A STRIATED NEPHROGRAM (alternating linear bands of contrast from medulla to cortex) occurs in ACUTE PYELONEPHRITIS, ACUTE URETERIC OBSTRUCTION, RENAL VEIN THROMBOSIS, contusion and ARPKD — but NOT in ADPKD, which gives a "SWISS-CHEESE" nephrogram.*** ***A DENSE PERSISTENT NEPHROGRAM (contrast retained beyond 3 minutes) INDICATES ACUTE URETERIC OBSTRUCTION; a RIM NEPHROGRAM suggests CHRONIC obstruction or ACUTE ARTERIAL OCCLUSION; and NON-VISUALISATION of a kidney on IVP suggests a NON-FUNCTIONING kidney — classically MULTICYSTIC DYSPLASTIC KIDNEY.***
 
@@ -1186,10 +1180,10 @@
 
 **MUST KNOW:**
 
-- **MULTICYSTIC DYSPLASTIC KIDNEY: ***multiple NON-COMMUNICATING cysts with NO normal pelvicalyceal system, arising from failure of the ureteric bud to induce the metanephros, associated with ureteric/PUJ atresia; it is NON-FUNCTIONING, usually detected antenatally ("SOAP-BUBBLE" on ultrasound) and often INVOLUTES spontaneously.*** ***BILATERAL DISEASE CAUSES OLIGOHYDRAMNIOS, PULMONARY HYPOPLASIA AND POTTER SEQUENCE.***
+- **MULTICYSTIC DYSPLASTIC KIDNEY:** *multiple NON-COMMUNICATING cysts with NO normal pelvicalyceal system, arising from failure of the ureteric bud to induce the metanephros, associated with ureteric/PUJ atresia; it is NON-FUNCTIONING, usually detected antenatally ("SOAP-BUBBLE" on ultrasound) and often INVOLUTES spontaneously.*** ***BILATERAL DISEASE CAUSES OLIGOHYDRAMNIOS, PULMONARY HYPOPLASIA AND POTTER SEQUENCE.***
 - **Contrast with ***ADPKD (bilateral enlarged kidneys with innumerable communicating-appearing cysts, hepatic cysts, berry aneurysms, adult presentation) and ARPKD (bilateral echogenic enlarged kidneys in a neonate with CONGENITAL HEPATIC FIBROSIS).***
 - **A ***"DROOPING LILY" SIGN*** indicates a duplex system with an obstructed upper moiety displacing the lower moiety downwards and laterally.
-- **Acute pyelonephritis on CT: ***a striated/wedge-shaped area of reduced enhancement; imaging is NOT routinely needed but is indicated for failure to respond in 72 hours, suspected obstruction or abscess, diabetes and immunosuppression*** — looking for ***EMPHYSEMATOUS pyelonephritis (gas within the parenchyma, in diabetics — a surgical emergency) or a perinephric abscess.***
+- **Acute pyelonephritis on CT:** *a striated/wedge-shaped area of reduced enhancement; imaging is NOT routinely needed but is indicated for failure to respond in 72 hours, suspected obstruction or abscess, diabetes and immunosuppression*** — looking for ***EMPHYSEMATOUS pyelonephritis (gas within the parenchyma, in diabetics — a surgical emergency) or a perinephric abscess.***
 - ***ANY UNILATERAL NON-FUNCTIONING KIDNEY DEMANDS AN EXPLANATION: obstruction, vascular occlusion, congenital dysplasia, chronic reflux nephropathy or prior nephrectomy.***
 
 **EXAM CONNECTION:** Striated nephrogram differential, all EXCEPT → **ADPKD**; contrast retained in one kidney at 10 minutes → **acute ureteric obstruction**; non-visualised kidney on IVP → **multicystic dysplastic kidney**.
@@ -1205,18 +1199,18 @@
 
 ---
 
-### 48. Renal Papillary Necrosis and Emphysematous Infection
+### 47. Renal Papillary Necrosis and Emphysematous Infection
 
-**PEARL:** **Urographic signs of ***RENAL PAPILLARY NECROSIS: the "LOBSTER CLAW" sign, FORNICEAL EXCAVATION, the "SIGNET RING" (contrast surrounding a sloughed papilla) and the "BALL ON TEE" sign — but NOT a "ball and socket".*** Causes ("POSTCARDS"): ***PYELONEPHRITIS, OBSTRUCTION, SICKLE CELL DISEASE, TUBERCULOSIS, CIRRHOSIS/alcoholism, ANALGESIC NEPHROPATHY (NSAIDs, phenacetin), Renal vein thrombosis, DIABETES MELLITUS and Systemic vasculitis.*** ***GAS IN AND AROUND THE GALLBLADDER WALL IN AN ELDERLY DIABETIC WITH ACUTE RIGHT UPPER QUADRANT PAIN = EMPHYSEMATOUS CHOLECYSTITIS.***
+**PEARL:** **Urographic signs of ***RENAL PAPILLARY NECROSIS: the "LOBSTER CLAW" sign, FORNICEAL EXCAVATION, the "SIGNET RING" (contrast surrounding a sloughed papilla) and the "BALL ON TEE" sign — but NOT a "ball and socket".*** Causes ("POSTCARDS"):** *PYELONEPHRITIS, OBSTRUCTION, SICKLE CELL DISEASE, TUBERCULOSIS, CIRRHOSIS/alcoholism, ANALGESIC NEPHROPATHY (NSAIDs, phenacetin), Renal vein thrombosis, DIABETES MELLITUS and Systemic vasculitis.*** ***GAS IN AND AROUND THE GALLBLADDER WALL IN AN ELDERLY DIABETIC WITH ACUTE RIGHT UPPER QUADRANT PAIN = EMPHYSEMATOUS CHOLECYSTITIS.***
 
 **UNDERSTAND:** The renal papilla is uniquely vulnerable because it sits at the ***TIP OF THE MEDULLARY PYRAMID — the region of lowest oxygen tension and highest osmolality in the body***, supplied only by the long vasa recta. Anything that further reduces its perfusion (sickling, vasculitis, NSAID-induced loss of prostaglandin vasodilatation) or raises pressure (obstruction) infarcts it. Similarly, ***GAS-FORMING INFECTION IS ALMOST ALWAYS A DIABETIC PHENOMENON***, because high tissue glucose lets fermenting organisms (*E. coli*, *Klebsiella*, *Clostridium*) produce gas — and it signals a ***surgical emergency with high mortality.***
 
 **MUST KNOW:**
 
 - ***EMPHYSEMATOUS CHOLECYSTITIS REQUIRES URGENT ANTIBIOTICS AND EMERGENCY CHOLECYSTECTOMY (or percutaneous cholecystostomy if unfit)*** — it is more often ACALCULOUS, commoner in men and diabetics, and carries a high risk of gangrene and perforation. ***EMPHYSEMATOUS PYELONEPHRITIS is its renal equivalent*** — gas within the renal parenchyma in a diabetic, managed with drainage, antibiotics and sometimes nephrectomy.
-- **Analgesic nephropathy: ***papillary necrosis with a small, scarred kidney and a "BALL-ON-TEE" calyx; it also carries a risk of TRANSITIONAL CELL CARCINOMA of the urothelium.***
+- **Analgesic nephropathy:** *papillary necrosis with a small, scarred kidney and a "BALL-ON-TEE" calyx; it also carries a risk of TRANSITIONAL CELL CARCINOMA of the urothelium.***
 - **A ***SLOUGHED PAPILLA CAN OBSTRUCT THE URETER and present exactly like a stone*** — with colic, haematuria and hydronephrosis but no calcification on CT.
-- **Chronic osteomyelitis on X-ray: ***periosteal thickening, cortical sclerosis, a central lucency (BRODIE ABSCESS), a dense SEQUESTRUM surrounded by an INVOLUCRUM, and a CLOACA.*** ***THE SEQUESTRUM LOOKS DENSER BECAUSE DEAD BONE CANNOT BE RESORBED*** — the same principle as in the first radiology pearl.
+- **Chronic osteomyelitis on X-ray:** *periosteal thickening, cortical sclerosis, a central lucency (BRODIE ABSCESS), a dense SEQUESTRUM surrounded by an INVOLUCRUM, and a CLOACA.*** ***THE SEQUESTRUM LOOKS DENSER BECAUSE DEAD BONE CANNOT BE RESORBED*** — the same principle as in the first radiology pearl.
 - ***POTT'S SPINE (tuberculous spondylitis) ON MRI: ANTERIOR VERTEBRAL BODY DESTRUCTION WITH RELATIVE DISC PRESERVATION UNTIL LATE, SUBLIGAMENTOUS SPREAD OVER MULTIPLE LEVELS, LARGE PARASPINAL/PSOAS COLD ABSCESSES, and GIBBUS deformity — whereas PYOGENIC SPONDYLODISCITIS DESTROYS THE DISC EARLY and involves fewer levels.***
 
 **EXAM CONNECTION:** NOT a sign of renal papillary necrosis → **ball and socket sign**; diabetic with flank pain and gas on imaging → **emphysematous infection**; back pain with disc destruction and epidural abscess in an endemic area → **Pott's spine**; periosteal thickening with sclerosis and central lucency → **chronic osteomyelitis**.
@@ -1236,7 +1230,7 @@
 
 ---
 
-### 49. Non-Visualisation of a Kidney on IVP
+### 48. Non-Visualisation of a Kidney on IVP
 
 **PEARL:** A kidney that **fails to appear at all on intravenous urography** is most often one that cannot **concentrate and excrete contrast** — **renal HYPOPLASIA/dysplasia (or agenesis)**. Hydronephrosis, duplication and renal vein thrombosis usually produce an **abnormal but visible** kidney.
 
@@ -1259,7 +1253,7 @@
 
 ---
 
-### 50. Ureterocele and Named Urographic Signs
+### 49. Ureterocele and Named Urographic Signs
 
 **PEARL:** The **"COBRA-HEAD" (adder-head) sign on IVU** — a bulbous contrast-filled dilatation of the distal ureter surrounded by a radiolucent halo — is a **URETEROCELE**.
 
@@ -1286,7 +1280,7 @@
 
 ---
 
-### 51. Renal Cell Carcinoma on CT
+### 50. Renal Cell Carcinoma on CT
 
 **PEARL:** A **large, HETEROGENEOUS, solid renal mass with areas of necrosis and haemorrhage that ENHANCES on CECT (>15–20 HU change)** in an adult is **RENAL CELL CARCINOMA** until proved otherwise. The discriminators are **fat (angiomyolipoma), a central scar (oncocytoma), and simple fluid density with no enhancement (a benign cyst)**.
 
@@ -1315,7 +1309,7 @@
 
 ---
 
-### 52. Renal Imaging Patterns
+### 51. Renal Imaging Patterns
 
 **PEARL:** A **STRIATED NEPHROGRAM** occurs in **acute pyelonephritis, medullary sponge kidney, ARPKD, acute papillary necrosis and renal tuberculosis** — **NOT in ADPKD**.
 
@@ -1341,7 +1335,7 @@
 
 ---
 
-### 53. Nephrograms — The Four Patterns
+### 52. Nephrograms — The Four Patterns
 
 **PEARL:**
 
@@ -1354,7 +1348,7 @@
 
 ---
 
-### 54. Renovascular Hypertension on IVU
+### 53. Renovascular Hypertension on IVU
 
 **PEARL:** Findings are **delayed/absent nephrogram, a small (atrophic) kidney, rim nephrogram, and ureteric notching**. **A filling defect in the calyces is NOT a feature** — that indicates a mass, clot or stone.
 
@@ -1364,7 +1358,7 @@
 
 ---
 
-### 55. Genitourinary Tuberculosis
+### 54. Genitourinary Tuberculosis
 
 **PEARL:** **Moth-eaten calyces** are the **earliest IVP finding**. The **most sensitive modality is CT-IVP (CT urography)**.
 
@@ -1374,7 +1368,7 @@
 
 ---
 
-### 56. Duplex Collecting System — Weigert–Meyer Law
+### 55. Duplex Collecting System — Weigert–Meyer Law
 
 **PEARL:** The **UPPER** pole moiety drains **inferomedially** and is associated with an **ureterocele and OBSTRUCTION**; the **LOWER** pole moiety drains **superolaterally** and is associated with **vesicoureteric REFLUX**. The obstructed, non-functioning upper moiety displaces the opacified lower moiety downward and laterally — the **"drooping lily" sign**.
 
@@ -1382,7 +1376,7 @@
 
 ---
 
-### 57. Multicystic Dysplastic Kidney
+### 56. Multicystic Dysplastic Kidney
 
 **PEARL:** **Non-visualization of the kidney on IVP** is characteristic of MCDK.
 
@@ -1392,21 +1386,9 @@
 
 ---
 
-### 58. Renal Papillary Necrosis
-
-**PEARL:** The **"ball on tee"** sign is seen in renal papillary necrosis (**not** "ball and socket").
-
-**MUST KNOW:** Other signs: **"lobster claw"**, ring shadow, and the classic **sloughed papilla acting as a filling defect** in the calyx. Causes — **POSTCARDS**: Pyelonephritis, Obstruction, Sickle cell, TB, Cirrhosis/alcohol, Analgesics (NSAIDs/phenacetin), Renal vein thrombosis, Diabetes (commonest), Systemic vasculitis.
-
-**REMEMBER:** *Ball on tee = dead papilla sitting in its calyx; think diabetes, analgesics, sickle cell.*
-
----
-
----
-
 ## Neuroradiology and Head and Neck
 
-### 59. Neuroimaging in Trauma and Stroke
+### 57. Neuroimaging in Trauma and Stroke
 
 **PEARL:** ***A SEVERELY IMPAIRED CONSCIOUS LEVEL AFTER DECELERATION INJURY WITH A NORMAL NON-CONTRAST CT = DIFFUSE AXONAL INJURY*** — shearing of axons at grey–white matter junctions, the corpus callosum and the dorsolateral brainstem; ***MRI (especially SUSCEPTIBILITY-WEIGHTED IMAGING, which shows microhaemorrhages as blooming hypointense foci) IS THE INVESTIGATION OF CHOICE.*** In stroke, ***NON-CONTRAST CT IS THE FIRST INVESTIGATION (to exclude haemorrhage before thrombolysis), but DIFFUSION-WEIGHTED MRI DETECTS INFARCTION EARLIEST — within 30 MINUTES.***
 
@@ -1414,12 +1396,12 @@
 
 **MUST KNOW:**
 
-- **Early CT signs of infarction: ***LOSS OF GREY–WHITE DIFFERENTIATION, obscuration of the LENTIFORM NUCLEUS, LOSS OF THE INSULAR RIBBON, sulcal effacement, and the HYPERDENSE MCA SIGN (thrombus in the vessel itself — the earliest sign of all).*** ***ASPECTS scoring quantifies early ischaemic change and guides thrombectomy decisions.***
-- **MRI sequences and their uses: ***T1 — anatomy (fat bright, CSF dark); T2 — pathology (fluid bright); FLAIR — T2 with CSF suppressed, best for periventricular and cortical lesions (and DWI-positive/FLAIR-negative "mismatch" suggests a stroke less than 4.5 hours old); DWI/ADC — acute infarct; SWI/GRE — BLOOD PRODUCTS, CALCIUM AND MICROBLEEDS; MR ANGIOGRAPHY — vessels; SPECTROSCOPY — metabolites; TRACTOGRAPHY — white matter tracts.***
-- **Intracranial haemorrhage patterns: ***EXTRADURAL — BICONVEX/LENTIFORM, does NOT cross sutures (middle meningeal artery, lucid interval); SUBDURAL — CRESCENTIC, CROSSES sutures but not the midline (bridging veins, elderly and alcoholics); SUBARACHNOID — blood in the basal cisterns and sulci (berry aneurysm, "thunderclap" headache); INTRAPARENCHYMAL.***
+- **Early CT signs of infarction:** *LOSS OF GREY–WHITE DIFFERENTIATION, obscuration of the LENTIFORM NUCLEUS, LOSS OF THE INSULAR RIBBON, sulcal effacement, and the HYPERDENSE MCA SIGN (thrombus in the vessel itself — the earliest sign of all).*** ***ASPECTS scoring quantifies early ischaemic change and guides thrombectomy decisions.***
+- **MRI sequences and their uses:** *T1 — anatomy (fat bright, CSF dark); T2 — pathology (fluid bright); FLAIR — T2 with CSF suppressed, best for periventricular and cortical lesions (and DWI-positive/FLAIR-negative "mismatch" suggests a stroke less than 4.5 hours old); DWI/ADC — acute infarct; SWI/GRE — BLOOD PRODUCTS, CALCIUM AND MICROBLEEDS; MR ANGIOGRAPHY — vessels; SPECTROSCOPY — metabolites; TRACTOGRAPHY — white matter tracts.***
+- **Intracranial haemorrhage patterns:** *EXTRADURAL — BICONVEX/LENTIFORM, does NOT cross sutures (middle meningeal artery, lucid interval); SUBDURAL — CRESCENTIC, CROSSES sutures but not the midline (bridging veins, elderly and alcoholics); SUBARACHNOID — blood in the basal cisterns and sulci (berry aneurysm, "thunderclap" headache); INTRAPARENCHYMAL.***
 - ***HYPERTENSIVE HAEMORRHAGE OCCURS AT CHARACTERISTIC SITES, IN ORDER: PUTAMEN/basal ganglia (commonest — contralateral hemiplegia), THALAMUS, PONS (pinpoint pupils, coma), CEREBELLUM and lobar white matter*** — the result of rupture of CHARCOT–BOUCHARD microaneurysms on lenticulostriate perforators. ***LOBAR haemorrhages in the elderly suggest CEREBRAL AMYLOID ANGIOPATHY.***
 - ***NEUROCYSTICERCOSIS — ABSOLUTE diagnostic criteria are: histological demonstration of the parasite, VISUALISATION OF A SUBRETINAL PARASITE ON FUNDOSCOPY, and NEURORADIOLOGICAL DEMONSTRATION OF A CYSTIC LESION CONTAINING A SCOLEX*** ("hole-with-dot" sign); ring-enhancing lesions without a scolex are only major criteria. It is the commonest cause of adult-onset epilepsy in India.
-- **Sellar/suprasellar masses: ***CRANIOPHARYNGIOMA — a suprasellar CYSTIC AND SOLID lesion with CALCIFICATION and "MACHINE OIL" fluid, arising from Rathke's pouch remnants (adamantinomatous in children, papillary in adults), presenting with headache, BITEMPORAL HEMIANOPIA, growth failure and DIABETES INSIPIDUS; PITUITARY MACROADENOMA — arises from the sella and rarely calcifies ("snowman"/figure-of-8 shape); RATHKE CLEFT CYST — simple, non-enhancing, non-calcified.***
+- **Sellar/suprasellar masses:** *CRANIOPHARYNGIOMA — a suprasellar CYSTIC AND SOLID lesion with CALCIFICATION and "MACHINE OIL" fluid, arising from Rathke's pouch remnants (adamantinomatous in children, papillary in adults), presenting with headache, BITEMPORAL HEMIANOPIA, growth failure and DIABETES INSIPIDUS; PITUITARY MACROADENOMA — arises from the sella and rarely calcifies ("snowman"/figure-of-8 shape); RATHKE CLEFT CYST — simple, non-enhancing, non-calcified.***
 
 **EXAM CONNECTION:** Severe GCS after RTA with a normal CT → **diffuse axonal injury**; earliest imaging of cerebral infarct → **diffusion-weighted MRI**; MRI showing microhaemorrhages → **susceptibility-weighted imaging**; hyperdense lesion in the putamen with contralateral hemiplegia → **hypertensive haemorrhage**; suprasellar calcified cystic mass → **craniopharyngioma**.
 
@@ -1444,7 +1426,7 @@
 
 ---
 
-### 60. Head and Neck Imaging
+### 58. Head and Neck Imaging
 
 **PEARL:** ***HETEROGENEOUS "DOUBLE-DENSITY" HYPERATTENUATING MATERIAL EXPANDING MULTIPLE SINUSES IN AN ATOPIC PATIENT WITH HEADACHE AND NASAL OBSTRUCTION = ALLERGIC FUNGAL SINUSITIS*** — a NON-invasive, hypersensitivity-driven disease treated by ***SURGICAL CLEARANCE PLUS STEROIDS (not by systemic antifungals).*** ***A RING-ENHANCING POSTERIOR FOSSA LESION IN A PATIENT WITH CHRONIC EAR DISCHARGE IS A CEREBELLAR ABSCESS*** — the classic intracranial complication of chronic suppurative otitis media.
 
@@ -1453,10 +1435,10 @@
 **MUST KNOW:**
 
 - **Intracranial complications of chronic suppurative otitis media: ***meningitis, extradural and subdural abscess, TEMPORAL LOBE and CEREBELLAR abscess, LATERAL SINUS THROMBOSIS, otitic hydrocephalus and petrositis (GRADENIGO syndrome).*** ***CHOLESTEATOMA (a non-dependent soft-tissue mass with SCUTUM AND OSSICULAR EROSION on HRCT, restricted diffusion on MRI) is the usual driver.***
-- **Ring-enhancing brain lesion differential: ***abscess (restricted diffusion centrally on DWI — the key discriminator), high-grade glioma, metastasis, TUBERCULOMA, neurocysticercosis, toxoplasmosis (in HIV — versus CNS LYMPHOMA, which is usually solitary, periventricular and thallium/PET-avid), and demyelination (incomplete ring).***
-- **Thalamic changes: ***BILATERAL THALAMIC T2/FLAIR HYPERINTENSITY IN A FEBRILE ENCEPHALITIC PATIENT SUGGESTS JAPANESE ENCEPHALITIS*** (also seen in deep venous thrombosis, Wernicke encephalopathy and artery of Percheron infarction); ***HSV encephalitis targets the TEMPORAL lobes and TB meningitis produces BASAL exudates with hydrocephalus and infarcts.***
+- **Ring-enhancing brain lesion differential:** *abscess (restricted diffusion centrally on DWI — the key discriminator), high-grade glioma, metastasis, TUBERCULOMA, neurocysticercosis, toxoplasmosis (in HIV — versus CNS LYMPHOMA, which is usually solitary, periventricular and thallium/PET-avid), and demyelination (incomplete ring).***
+- **Thalamic changes:** *BILATERAL THALAMIC T2/FLAIR HYPERINTENSITY IN A FEBRILE ENCEPHALITIC PATIENT SUGGESTS JAPANESE ENCEPHALITIS*** (also seen in deep venous thrombosis, Wernicke encephalopathy and artery of Percheron infarction); ***HSV encephalitis targets the TEMPORAL lobes and TB meningitis produces BASAL exudates with hydrocephalus and infarcts.***
 - ***WORMIAN BONES (extra sutural ossicles) — "PORKCHOP": Pyknodysostosis, Osteogenesis Imperfecta, Rickets (healing), Kinky hair (Menkes), Cleidocranial dysostosis, HYPOTHYROIDISM/hypophosphatasia, Otopalatodigital and DOWN SYNDROME — but NOT achondroplasia.***
-- **Tuberous sclerosis on imaging: ***cortical and subcortical TUBERS, SUBEPENDYMAL NODULES (which calcify), SUBEPENDYMAL GIANT CELL ASTROCYTOMA at the foramen of Monro, plus renal ANGIOMYOLIPOMAS and cardiac RHABDOMYOMAS*** — in an infant with seizures, developmental delay, ash-leaf macules and ungual fibromas.
+- **Tuberous sclerosis on imaging:** *cortical and subcortical TUBERS, SUBEPENDYMAL NODULES (which calcify), SUBEPENDYMAL GIANT CELL ASTROCYTOMA at the foramen of Monro, plus renal ANGIOMYOLIPOMAS and cardiac RHABDOMYOMAS*** — in an infant with seizures, developmental delay, ash-leaf macules and ungual fibromas.
 
 **EXAM CONNECTION:** Hyperdense expansile sinus opacification in an atopic patient → **allergic fungal sinusitis**; ring lesion with chronic ear discharge → **cerebellar abscess**; bilateral thalamic hyperintensity with encephalitis → **Japanese encephalitis**; Wormian bones are least associated with → **achondroplasia**; infant with seizures, hypopigmented macules and ungual fibromas → **tuberous sclerosis**.
 
@@ -1473,7 +1455,7 @@
 
 ---
 
-### 61. Neuroradiological Signs
+### 59. Neuroradiological Signs
 
 **PEARL:** ***THE "EMPTY DELTA SIGN" — a triangular filling defect within the enhancing superior sagittal sinus on CONTRAST-ENHANCED CT or MRI — INDICATES CEREBRAL VENOUS SINUS THROMBOSIS*** (it cannot be seen on a non-contrast study). ***THE "PANCAKE BRAIN" APPEARANCE IS ALOBAR HOLOPROSENCEPHALY***, associated with ***TRISOMY 13.*** ***PHYSIOLOGICAL INTRACRANIAL CALCIFICATION OCCURS IN THE PINEAL GLAND, HABENULAR COMMISSURE, CHOROID PLEXUS, DURA (falx and tentorium) AND BASAL GANGLIA — BUT NOT IN THE RED NUCLEUS.***
 
@@ -1481,10 +1463,10 @@
 
 **MUST KNOW:**
 
-- **Midline forebrain anomalies: ***HOLOPROSENCEPHALY (failure of prosencephalic cleavage — ALOBAR with a single monoventricle and fused thalami, semilobar, lobar; with midline facial defects — cyclopia, cleft lip); LISSENCEPHALY ("smooth brain" — arrested neuronal MIGRATION at 8–14 weeks, "figure-of-8"/hourglass appearance); SCHIZENCEPHALY (grey-matter-lined clefts); PORENCEPHALY (a CSF cavity from destruction, not lined by grey matter); and AGENESIS OF THE CORPUS CALLOSUM (colpocephaly, "racing-car" ventricles).***
-- **The phakomatoses on imaging: ***STURGE–WEBER — leptomeningeal angiomatosis with pial enhancement, "TRAM-TRACK" gyriform calcification and hemiatrophy (GNAQ mutation); TUBEROUS SCLEROSIS — cortical tubers, subependymal nodules and SEGA (TSC1/TSC2); NF1 — optic glioma and "FASI" bright spots (neurofibromin); NF2 — BILATERAL VESTIBULAR SCHWANNOMAS and meningiomas (MERLIN); VON HIPPEL–LINDAU — cerebellar and retinal HAEMANGIOBLASTOMAS.***
+- **Midline forebrain anomalies:** *HOLOPROSENCEPHALY (failure of prosencephalic cleavage — ALOBAR with a single monoventricle and fused thalami, semilobar, lobar; with midline facial defects — cyclopia, cleft lip); LISSENCEPHALY ("smooth brain" — arrested neuronal MIGRATION at 8–14 weeks, "figure-of-8"/hourglass appearance); SCHIZENCEPHALY (grey-matter-lined clefts); PORENCEPHALY (a CSF cavity from destruction, not lined by grey matter); and AGENESIS OF THE CORPUS CALLOSUM (colpocephaly, "racing-car" ventricles).***
+- **The phakomatoses on imaging:** *STURGE–WEBER — leptomeningeal angiomatosis with pial enhancement, "TRAM-TRACK" gyriform calcification and hemiatrophy (GNAQ mutation); TUBEROUS SCLEROSIS — cortical tubers, subependymal nodules and SEGA (TSC1/TSC2); NF1 — optic glioma and "FASI" bright spots (neurofibromin); NF2 — BILATERAL VESTIBULAR SCHWANNOMAS and meningiomas (MERLIN); VON HIPPEL–LINDAU — cerebellar and retinal HAEMANGIOBLASTOMAS.***
 - ***STEREOTACTIC RADIOSURGERY (GAMMA KNIFE using cobalt-60, LINAC-based X-knife, or CYBERKNIFE) IS USED FOR ARTERIOVENOUS MALFORMATIONS, acoustic schwannoma, meningioma, pituitary adenoma, trigeminal neuralgia and small metastases — but NOT for infiltrative GLIOBLASTOMA***, which has no discrete margin.
-- **Tumour radiosensitivity: ***HIGHLY RADIOSENSITIVE — lymphoma, leukaemia, SEMINOMA, DYSGERMINOMA, EWING SARCOMA, Wilms tumour, neuroblastoma, small cell lung cancer; RADIORESISTANT — RENAL CELL CARCINOMA, melanoma, sarcomas, thyroid follicular carcinoma and GI adenocarcinoma.*** (Dysgerminoma is radiosensitive but treated with chemotherapy to spare the bowel and fertility.)
+- **Tumour radiosensitivity:** *HIGHLY RADIOSENSITIVE — lymphoma, leukaemia, SEMINOMA, DYSGERMINOMA, EWING SARCOMA, Wilms tumour, neuroblastoma, small cell lung cancer; RADIORESISTANT — RENAL CELL CARCINOMA, melanoma, sarcomas, thyroid follicular carcinoma and GI adenocarcinoma.*** (Dysgerminoma is radiosensitive but treated with chemotherapy to spare the bowel and fertility.)
 - **Remote afterloading is a ***brachytherapy*** technique that keeps staff away from the source.
 
 **EXAM CONNECTION:** Empty delta sign → **cerebral venous thrombosis**; pancake brain → **holoprosencephaly**; NOT a site of physiological calcification → **red nucleus**; treated with gamma knife → **arteriovenous malformation**; wrongly matched with radiotherapy response → **dysgerminoma as radioresistant**; remote afterloading → **brachytherapy**.
@@ -1506,7 +1488,7 @@
 
 ---
 
-### 62. Spinal Cord Blood Supply and Aortic Surgery
+### 60. Spinal Cord Blood Supply and Aortic Surgery
 
 **PEARL:** ***PARAPLEGIA WITH LOSS OF PAIN AND TEMPERATURE BUT PRESERVED PROPRIOCEPTION AFTER AORTIC SURGERY OR DISSECTION = ANTERIOR SPINAL ARTERY SYNDROME, from interruption of the ARTERY OF ADAMKIEWICZ*** (the great anterior radiculomedullary artery, usually arising from a left intercostal or lumbar artery between T9 and L2).
 
@@ -1515,8 +1497,8 @@
 **MUST KNOW:**
 
 - ***PREVENTION AND TREATMENT DURING THORACOABDOMINAL AORTIC SURGERY: CSF DRAINAGE (to raise cord perfusion pressure), maintaining a HIGH MEAN ARTERIAL PRESSURE, intercostal artery reimplantation, and neuromonitoring*** — a favourite exam application.
-- **Other cord syndromes: ***BROWN-SÉQUARD (hemisection — ipsilateral motor and dorsal column loss, CONTRALATERAL pain and temperature loss); CENTRAL CORD (hyperextension in the elderly — arms worse than legs); POSTERIOR CORD (dorsal column loss — B12 deficiency, tabes dorsalis); and SYRINGOMYELIA (a CAPE-LIKE dissociated sensory loss with preserved dorsal columns).***
-- **Aortic dissection imaging: ***CT ANGIOGRAPHY IS THE INVESTIGATION OF CHOICE (an intimal flap with true and false lumens); STANFORD TYPE A (ascending aorta) NEEDS EMERGENCY SURGERY, TYPE B (descending only) IS MANAGED MEDICALLY with aggressive blood pressure and heart-rate control unless complicated.*** A widened mediastinum on chest X-ray is suggestive but neither sensitive nor specific.
+- **Other cord syndromes:** *BROWN-SÉQUARD (hemisection — ipsilateral motor and dorsal column loss, CONTRALATERAL pain and temperature loss); CENTRAL CORD (hyperextension in the elderly — arms worse than legs); POSTERIOR CORD (dorsal column loss — B12 deficiency, tabes dorsalis); and SYRINGOMYELIA (a CAPE-LIKE dissociated sensory loss with preserved dorsal columns).***
+- **Aortic dissection imaging:** *CT ANGIOGRAPHY IS THE INVESTIGATION OF CHOICE (an intimal flap with true and false lumens); STANFORD TYPE A (ascending aorta) NEEDS EMERGENCY SURGERY, TYPE B (descending only) IS MANAGED MEDICALLY with aggressive blood pressure and heart-rate control unless complicated.*** A widened mediastinum on chest X-ray is suggestive but neither sensitive nor specific.
 - **Saccular aneurysms of the distal arch may present with ***HOARSENESS from recurrent laryngeal nerve stretch (ORTNER'S/cardiovocal syndrome)*** and chest pain.
 - ***SPINAL CORD MRI WITH DIFFUSION IMAGING CONFIRMS INFARCTION ("OWL'S EYE"/pencil-like T2 hyperintensity in the anterior horns)*** when the diagnosis is uncertain.
 
@@ -1528,7 +1510,7 @@
 
 ---
 
-### 63. Calcified vs Haemorrhagic Brain Tumours
+### 61. Calcified vs Haemorrhagic Brain Tumours
 
 **PEARL:** **Commonly CALCIFYING intracranial lesions: OLIGODENDROGLIOMA (~90%), craniopharyngioma, ependymoma, chordoma, meningioma, choroid plexus tumours, central neurocytoma, teratoma.** **Commonly HAEMORRHAGIC: glioblastoma, oligodendroglioma, and metastases from melanoma, lung, breast, renal and thyroid.**
 
@@ -1571,7 +1553,7 @@
 
 ---
 
-### 64. Raised Intracranial Pressure — Skull X-ray
+### 62. Raised Intracranial Pressure — Skull X-ray
 
 **PEARL:**
 
@@ -1585,7 +1567,7 @@
 
 ---
 
-### 65. Eye of the Tiger Sign
+### 63. Eye of the Tiger Sign
 
 **PEARL:** **Eye of the tiger sign** (central T2 hyperintensity within a hypointense globus pallidus) = **Hallervorden–Spatz syndrome / PKAN** (pantothenate kinase-associated neurodegeneration).
 
@@ -1595,7 +1577,7 @@
 
 ---
 
-### 66. Bilateral Thalamic Hyperintensity
+### 64. Bilateral Thalamic Hyperintensity
 
 **PEARL:** T2/FLAIR **hyperintensity in the BILATERAL THALAMI** in a patient with encephalitis suggests **Japanese encephalitis**.
 
@@ -1605,7 +1587,7 @@
 
 ---
 
-### 67. Sturge–Weber Syndrome
+### 65. Sturge–Weber Syndrome
 
 **PEARL:** MRI shows **leptomeningeal enhancement** with **cortical atrophy**.
 
@@ -1619,7 +1601,7 @@
 
 ## Musculoskeletal Imaging
 
-### 68. Spinal Ossification — DISH versus Ankylosing Spondylitis
+### 66. Spinal Ossification — DISH versus Ankylosing Spondylitis
 
 **PEARL:** ***DIFFUSE IDIOPATHIC SKELETAL HYPEROSTOSIS (FORESTIER DISEASE): FLOWING, "DRIPPING CANDLE WAX" OSSIFICATION OF THE ANTERIOR LONGITUDINAL LIGAMENT ACROSS ≥4 CONTIGUOUS VERTEBRAE, WITH PRESERVED DISC SPACES AND — crucially — NORMAL SACROILIAC AND APOPHYSEAL JOINTS***, in a middle-aged or elderly patient. ***ANKYLOSING SPONDYLITIS: "BAMBOO SPINE" from SYNDESMOPHYTES (thin, vertical, marginal ossification of the annulus), SQUARING of vertebral bodies, and — the defining feature — BILATERAL SYMMETRICAL SACROILIITIS***, beginning in the third decade.
 
@@ -1627,9 +1609,9 @@
 
 **MUST KNOW:**
 
-- **DISH associations: ***older age, MALE sex, TYPE 2 DIABETES, obesity and metabolic syndrome, and hyperuricaemia***; it is often asymptomatic but can cause stiffness, DYSPHAGIA (cervical osteophytes), difficult intubation, and ***UNSTABLE EXTENSION-TYPE FRACTURES AFTER MINOR TRAUMA*** (as in ankylosing spondylitis — a rigid spine fractures like a long bone).
-- **Ankylosing spondylitis: ***HLA-B27 (>90%), inflammatory back pain (age <40, insidious onset, morning stiffness >30 min, improvement with EXERCISE not rest, night pain), reduced chest expansion, positive SCHOBER test; extra-articular — ACUTE ANTERIOR UVEITIS (the commonest), aortic regurgitation, apical pulmonary fibrosis, IgA nephropathy, cauda equina syndrome and amyloidosis.*** ***MRI OF THE SACROILIAC JOINTS DETECTS INFLAMMATION YEARS BEFORE RADIOGRAPHIC CHANGE*** — hence "non-radiographic axial spondyloarthritis". Treatment: exercise and physiotherapy, NSAIDs, then ***TNF or IL-17 INHIBITORS (conventional DMARDs do not work for axial disease).***
-- **Other causes of a fused/abnormal spine: ***KLIPPEL–FEIL syndrome (congenital fusion of cervical vertebrae — short neck, low hairline, restricted movement, with Sprengel deformity and renal anomalies), psoriatic and reactive arthritis (BULKY, ASYMMETRICAL, NON-MARGINAL "PARAMARGINAL" syndesmophytes), fluorosis, and OPLL (ossified posterior longitudinal ligament — myelopathy).***
+- **DISH associations:** *older age, MALE sex, TYPE 2 DIABETES, obesity and metabolic syndrome, and hyperuricaemia***; it is often asymptomatic but can cause stiffness, DYSPHAGIA (cervical osteophytes), difficult intubation, and ***UNSTABLE EXTENSION-TYPE FRACTURES AFTER MINOR TRAUMA*** (as in ankylosing spondylitis — a rigid spine fractures like a long bone).
+- **Ankylosing spondylitis:** *HLA-B27 (>90%), inflammatory back pain (age <40, insidious onset, morning stiffness >30 min, improvement with EXERCISE not rest, night pain), reduced chest expansion, positive SCHOBER test; extra-articular — ACUTE ANTERIOR UVEITIS (the commonest), aortic regurgitation, apical pulmonary fibrosis, IgA nephropathy, cauda equina syndrome and amyloidosis.*** ***MRI OF THE SACROILIAC JOINTS DETECTS INFLAMMATION YEARS BEFORE RADIOGRAPHIC CHANGE*** — hence "non-radiographic axial spondyloarthritis". Treatment: exercise and physiotherapy, NSAIDs, then ***TNF or IL-17 INHIBITORS (conventional DMARDs do not work for axial disease).***
+- **Other causes of a fused/abnormal spine:** *KLIPPEL–FEIL syndrome (congenital fusion of cervical vertebrae — short neck, low hairline, restricted movement, with Sprengel deformity and renal anomalies), psoriatic and reactive arthritis (BULKY, ASYMMETRICAL, NON-MARGINAL "PARAMARGINAL" syndesmophytes), fluorosis, and OPLL (ossified posterior longitudinal ligament — myelopathy).***
 - ***CAFFEY DISEASE (infantile cortical hyperostosis)*** — an infant under 6 months with fever, irritability and ***PERIOSTEAL NEW BONE, classically of the MANDIBLE and CLAVICLE, SPARING the epiphyses*** — is self-limiting; its differentials are ***non-accidental injury (metaphyseal corner and posterior rib fractures of different ages), osteomyelitis, scurvy, prostaglandin therapy and physiological periostitis (symmetrical, diaphyseal, 1–4 months, asymptomatic).***
 - ***DUAL-ENERGY CT (DECT) DISTINGUISHES URATE FROM CALCIUM AND DISPLAYS GOUTY TOPHI IN COLOUR*** — a non-invasive alternative to joint aspiration for gout.
 
@@ -1647,7 +1629,7 @@
 
 ---
 
-### 69. Bone Radiology of Metabolic Disease
+### 67. Bone Radiology of Metabolic Disease
 
 **PEARL:** ***A "SALT-AND-PEPPER" (PEPPER-POT) SKULL — granular loss of trabeculae with blurring of the inner and outer tables — IS THE SIGNATURE OF HYPERPARATHYROIDISM.*** Contrast: ***MULTIPLE MYELOMA — sharply defined "PUNCHED-OUT" lytic lesions with no sclerotic rim; PAGET DISEASE — OSTEOPOROSIS CIRCUMSCRIPTA early, then "COTTON-WOOL" mixed lytic-sclerotic areas with DIPLOIC WIDENING and the "TAM O'SHANTER" skull.***
 
@@ -1655,11 +1637,11 @@
 
 **MUST KNOW:**
 
-- **Other radiological signs of hyperparathyroidism: ***SUBPERIOSTEAL RESORPTION ALONG THE RADIAL SIDE OF THE MIDDLE PHALANGES (the most specific sign), terminal-tuft acro-osteolysis, BROWN TUMOURS (lytic, expansile — "osteitis fibrosa cystica"), the "RUGGER-JERSEY SPINE" of renal osteodystrophy, and soft-tissue and vascular calcification.***
-- **Myeloma: ***a SKELETAL SURVEY IS OBSOLETE — use WHOLE-BODY LOW-DOSE CT, PET-CT OR MRI; the BONE SCAN IS FALSELY NEGATIVE*** because the lesions are purely lytic with no osteoblastic reaction.
-- **Paget disease: ***usually asymptomatic and found incidentally with a RAISED ALKALINE PHOSPHATASE and normal calcium; complications include bone pain, deformity (bowing, skull enlargement), DEAFNESS, pathological fracture, high-output cardiac failure, spinal stenosis and — the feared one — SARCOMATOUS TRANSFORMATION (~1%). Treated with BISPHOSPHONATES.***
-- **Osteomalacia/rickets: ***LOOSER'S ZONES (pseudofractures), a "rugger-jersey" or codfish vertebra, and (in children) metaphyseal CUPPING, FRAYING AND SPLAYING with widened growth plates.*** ***OSTEOPOROSIS is diagnosed by DEXA (T-score ≤ −2.5), NOT by X-ray***, which is insensitive until 30–50% of bone is lost.
-- **Neonatal scalp swelling on imaging: ***CEPHALHAEMATOMA — SUBPERIOSTEAL, LIMITED BY SUTURE LINES, appearing HOURS after birth; CAPUT SUCCEDANEUM — present AT birth and CROSSES sutures; SUBGALEAL HAEMORRHAGE — crosses sutures, boggy and potentially exsanguinating.***
+- **Other radiological signs of hyperparathyroidism:** *SUBPERIOSTEAL RESORPTION ALONG THE RADIAL SIDE OF THE MIDDLE PHALANGES (the most specific sign), terminal-tuft acro-osteolysis, BROWN TUMOURS (lytic, expansile — "osteitis fibrosa cystica"), the "RUGGER-JERSEY SPINE" of renal osteodystrophy, and soft-tissue and vascular calcification.***
+- **Myeloma:** *a SKELETAL SURVEY IS OBSOLETE — use WHOLE-BODY LOW-DOSE CT, PET-CT OR MRI; the BONE SCAN IS FALSELY NEGATIVE*** because the lesions are purely lytic with no osteoblastic reaction.
+- **Paget disease:** *usually asymptomatic and found incidentally with a RAISED ALKALINE PHOSPHATASE and normal calcium; complications include bone pain, deformity (bowing, skull enlargement), DEAFNESS, pathological fracture, high-output cardiac failure, spinal stenosis and — the feared one — SARCOMATOUS TRANSFORMATION (~1%). Treated with BISPHOSPHONATES.***
+- **Osteomalacia/rickets:** *LOOSER'S ZONES (pseudofractures), a "rugger-jersey" or codfish vertebra, and (in children) metaphyseal CUPPING, FRAYING AND SPLAYING with widened growth plates.*** ***OSTEOPOROSIS is diagnosed by DEXA (T-score ≤ −2.5), NOT by X-ray***, which is insensitive until 30–50% of bone is lost.
+- **Neonatal scalp swelling on imaging:** *CEPHALHAEMATOMA — SUBPERIOSTEAL, LIMITED BY SUTURE LINES, appearing HOURS after birth; CAPUT SUCCEDANEUM — present AT birth and CROSSES sutures; SUBGALEAL HAEMORRHAGE — crosses sutures, boggy and potentially exsanguinating.***
 
 **EXAM CONNECTION:** Salt-and-pepper skull → **hyperparathyroidism**; parietal swelling limited by sutures → **cephalhaematoma**.
 
@@ -1675,7 +1657,7 @@
 
 ---
 
-### 70. Bone Tumours and Bone Densitometry
+### 68. Bone Tumours and Bone Densitometry
 
 **PEARL:** ***OSTEOID OSTEOMA — a small CORTICAL lesion with a lucent NIDUS and surrounding sclerosis causing NIGHT PAIN DRAMATICALLY RELIEVED BY NSAIDs (the nidus makes PROSTAGLANDIN E2) — is best shown by CT and is TREATED BY CT-GUIDED RADIOFREQUENCY ABLATION.*** ***EWING SARCOMA IS THE MOST RADIOSENSITIVE BONE TUMOUR.*** For osteoporosis, ***DEXA AND QUANTITATIVE CT MEASURE BONE DENSITY (and chemical/biochemical analysis assesses metabolism) — THE RADIONUCLIDE BONE SCAN IS NOT A TEST FOR OSTEOPOROSIS.***
 
@@ -1685,8 +1667,8 @@
 
 - **Bone tumour identification by ***AGE, SITE AND ZONE OF TRANSITION***: ***OSTEOSARCOMA — metaphysis of the distal femur/proximal tibia, adolescents, SUNBURST periosteal reaction and CODMAN TRIANGLE; EWING SARCOMA — DIAPHYSIS, younger children, "ONION-SKIN" lamellated periosteum, with fever and raised inflammatory markers mimicking osteomyelitis, t(11;22) EWSR1-FLI1; GIANT CELL TUMOUR — EPIPHYSIS of a mature bone, "SOAP-BUBBLE", eccentric and lytic; OSTEOCHONDROMA — the commonest benign tumour, a stalked exostosis pointing AWAY from the joint; ENCHONDROMA — a lucent lesion with rings-and-arcs calcification, commonest in the HANDS.***
 - ***OLLIER DISEASE = MULTIPLE ENCHONDROMAS; MAFFUCCI SYNDROME = MULTIPLE ENCHONDROMAS PLUS SOFT-TISSUE HAEMANGIOMAS (with PHLEBOLITHS on X-ray) — and BOTH carry a substantial risk of CHONDROSARCOMA (highest in Maffucci).*** ***McCUNE–ALBRIGHT syndrome = polyostotic FIBROUS DYSPLASIA ("GROUND-GLASS" lesions, SHEPHERD'S CROOK deformity) + CAFÉ-AU-LAIT macules with irregular "COAST OF MAINE" borders + PRECOCIOUS PUBERTY.***
-- **Signs of an AGGRESSIVE bone lesion: ***a WIDE ZONE OF TRANSITION, permeative or moth-eaten destruction, cortical breach, aggressive periosteal reaction (sunburst, Codman triangle, lamellated) and a soft-tissue mass.***
-- **DEXA: ***T-score compares with a young adult (≤ −2.5 = osteoporosis, −1 to −2.5 = osteopenia); the Z-score compares with age-matched controls and is the one used in CHILDREN AND PREMENOPAUSAL WOMEN.*** ***QUANTITATIVE CT measures true volumetric density and separates trabecular from cortical bone but delivers more radiation.***
+- **Signs of an AGGRESSIVE bone lesion:** *a WIDE ZONE OF TRANSITION, permeative or moth-eaten destruction, cortical breach, aggressive periosteal reaction (sunburst, Codman triangle, lamellated) and a soft-tissue mass.***
+- **DEXA:** *T-score compares with a young adult (≤ −2.5 = osteoporosis, −1 to −2.5 = osteopenia); the Z-score compares with age-matched controls and is the one used in CHILDREN AND PREMENOPAUSAL WOMEN.*** ***QUANTITATIVE CT measures true volumetric density and separates trabecular from cortical bone but delivers more radiation.***
 - ***A BONE SCAN IS SENSITIVE FOR METASTASES, OSTEOMYELITIS, STRESS FRACTURE AND PAGET DISEASE — but is FALSELY NEGATIVE IN MULTIPLE MYELOMA and useless in osteoporosis.***
 
 **EXAM CONNECTION:** Cortical nidus with night pain relieved by NSAIDs → **CT-guided radiofrequency ablation**; most radiosensitive bone tumour → **Ewing sarcoma**; useful in osteoporosis → **DEXA, quantitative CT and chemical analysis (not bone scan)**; enchondromas with haemangiomas → **Maffucci syndrome**.
@@ -1701,7 +1683,7 @@
 
 ---
 
-### 71. Musculoskeletal Imaging Traps
+### 69. Musculoskeletal Imaging Traps
 
 **PEARL:** ***A PATIENT ON LONG-TERM BISPHOSPHONATES WITH NEW THIGH PAIN NEEDS A PLAIN X-RAY (femoral radiograph) — looking for an ATYPICAL SUBTROCHANTERIC/DIAPHYSEAL FEMORAL FRACTURE with lateral cortical thickening and a transverse "beaked" lucency.*** ***SEVERE PAIN, SWELLING, WARMTH AND PATCHY ("SPOTTY") PERIARTICULAR OSTEOPOROSIS WEEKS AFTER A MINOR HAND INJURY = SUDECK'S ATROPHY (complex regional pain syndrome type 1).*** ***A BONY FRAGMENT FROM THE ANTEROINFERIOR GLENOID RIM (BONY BANKART), WITH A HILL–SACHS DEFECT ON THE POSTEROLATERAL HUMERAL HEAD, INDICATES RECURRENT ANTERIOR SHOULDER DISLOCATION.***
 
@@ -1709,10 +1691,10 @@
 
 **MUST KNOW:**
 
-- **Complex regional pain syndrome: ***pain disproportionate to the injury with allodynia, oedema, vasomotor and sudomotor change, and later trophic changes and contracture; X-ray shows PATCHY periarticular osteopenia and a three-phase bone scan shows increased periarticular uptake.*** ***TREATMENT IS EARLY MOBILISATION AND PHYSIOTHERAPY, analgesia (gabapentinoids, bisphosphonates), and sympathetic blocks — PROLONGED IMMOBILISATION WORSENS IT.***
-- **Shoulder dislocation: ***ANTERIOR (>95%) — the arm abducted and externally rotated, with the humeral head medial and inferior on the AP film; POSTERIOR — the "LIGHT BULB" sign with the rim sign, classically after SEIZURES OR ELECTROCUTION and easily missed on a single AP view; INFERIOR (LUXATIO ERECTA) — the arm fixed above the head.*** ***ALWAYS DOCUMENT AXILLARY NERVE FUNCTION (the regimental badge area) BEFORE AND AFTER REDUCTION.***
+- **Complex regional pain syndrome:** *pain disproportionate to the injury with allodynia, oedema, vasomotor and sudomotor change, and later trophic changes and contracture; X-ray shows PATCHY periarticular osteopenia and a three-phase bone scan shows increased periarticular uptake.*** ***TREATMENT IS EARLY MOBILISATION AND PHYSIOTHERAPY, analgesia (gabapentinoids, bisphosphonates), and sympathetic blocks — PROLONGED IMMOBILISATION WORSENS IT.***
+- **Shoulder dislocation:** *ANTERIOR (>95%) — the arm abducted and externally rotated, with the humeral head medial and inferior on the AP film; POSTERIOR — the "LIGHT BULB" sign with the rim sign, classically after SEIZURES OR ELECTROCUTION and easily missed on a single AP view; INFERIOR (LUXATIO ERECTA) — the arm fixed above the head.*** ***ALWAYS DOCUMENT AXILLARY NERVE FUNCTION (the regimental badge area) BEFORE AND AFTER REDUCTION.***
 - **A ***BANKART LESION (labral ± bony) predisposes to RECURRENCE, especially in young patients — MR ARTHROGRAPHY is the investigation of choice, and recurrent instability is treated surgically (Bankart repair or LATARJET procedure for significant bone loss).***
-- **Osteoporosis pharmacovigilance: ***bisphosphonates also cause OSTEONECROSIS OF THE JAW (dental clearance before starting) and oesophagitis; a drug holiday after 3–5 years is considered in low-risk patients.***
+- **Osteoporosis pharmacovigilance:** *bisphosphonates also cause OSTEONECROSIS OF THE JAW (dental clearance before starting) and oesophagitis; a drug holiday after 3–5 years is considered in low-risk patients.***
 - ***THE HISTORY DICTATES THE VIEW: a shoulder needs an AXILLARY or scapular-Y view to exclude posterior dislocation; a scaphoid needs dedicated scaphoid views and repeat imaging or MRI at 10–14 days if initially normal.***
 
 **EXAM CONNECTION:** Thigh pain after 7 years of alendronate → **X-ray**; warm, painful, swollen hand a month after trauma → **Sudeck's atrophy**; anteroinferior glenoid rim fragment → **recurrent anterior dislocation**.
@@ -1729,7 +1711,7 @@
 
 ---
 
-### 72. Ochronosis (Alkaptonuria)
+### 70. Ochronosis (Alkaptonuria)
 
 **PEARL:** **Intervertebral disc calcification with pigmentation of the sclerae, ears and nose = OCHRONOSIS (alkaptonuria)** — **homogentisate oxidase deficiency**.
 
@@ -1755,7 +1737,7 @@
 
 ---
 
-### 73. Bankart Lesion
+### 71. Bankart Lesion
 
 **PEARL:** A defect of the **anteroinferior glenoid rim/labrum** → **recurrent ANTERIOR shoulder dislocation**.
 
@@ -1765,11 +1747,11 @@
 
 ---
 
-### 74. Double PCL Sign
+### 72. Double PCL Sign
 
 **PEARL:** The **double PCL sign** on sagittal MRI indicates a **bucket-handle tear of the MEDIAL meniscus** — the displaced fragment lies in the intercondylar notch, parallel to and below the true PCL.
 
-**MUST KNOW:** Related signs: **double anterior horn sign**, absent bow-tie sign, and the **flipped meniscus sign**. The **medial meniscus tears more often** because it is firmly attached to the medial collateral ligament and is less mobile. Displaced bucket-handle tears cause **locked knee** and need arthroscopic repair.
+**MUST KNOW: **Related signs:** double anterior horn sign**, absent bow-tie sign, and the **flipped meniscus sign**. The **medial meniscus tears more often** because it is firmly attached to the medial collateral ligament and is less mobile. Displaced bucket-handle tears cause **locked knee** and need arthroscopic repair.
 
 **REMEMBER:** *Two PCLs on one image = bucket-handle tear of the medial meniscus.*
 
@@ -1781,7 +1763,7 @@
 
 ## Paediatric Imaging
 
-### 75. Paediatric Neurovascular and Infective Imaging
+### 73. Paediatric Neurovascular and Infective Imaging
 
 **PEARL:** ***A NEWBORN WITH HIGH-OUTPUT CARDIAC FAILURE AND A LARGE MIDLINE TUBULAR VASCULAR STRUCTURE ON IMAGING HAS A VEIN OF GALEN MALFORMATION*** — a high-flow arteriovenous shunt bypassing the capillary bed. ***HERPES SIMPLEX ENCEPHALITIS shows ASYMMETRICAL TEMPORAL AND INFERIOR FRONTAL LOBE (limbic) HYPERINTENSITY, often with HAEMORRHAGE (blooming on SWI) and XANTHOCHROMIC/red-cell-containing CSF*** — and behavioural change is characteristic; ***it has NO association with myasthenia gravis.***
 
@@ -1791,7 +1773,7 @@
 
 - ***HSV ENCEPHALITIS IS A NEUROLOGICAL EMERGENCY — START INTRAVENOUS ACICLOVIR ON SUSPICION, BEFORE THE PCR RESULT***; untreated mortality exceeds 70%. MRI is far more sensitive than CT early; EEG may show periodic lateralised epileptiform discharges over the temporal lobe.
 - **Vein of Galen malformation: presents with ***neonatal heart failure, a cranial BRUIT, macrocephaly and hydrocephalus; treated by staged ENDOVASCULAR EMBOLISATION*** (surgery is hazardous).
-- **Other paediatric posterior fossa/midline lesions: ***DANDY–WALKER malformation (vermian hypoplasia with a large posterior fossa cyst continuous with a dilated fourth ventricle), Chiari malformations, and arachnoid cyst.***
+- **Other paediatric posterior fossa/midline lesions:** *DANDY–WALKER malformation (vermian hypoplasia with a large posterior fossa cyst continuous with a dilated fourth ventricle), Chiari malformations, and arachnoid cyst.***
 - ***NON-ACCIDENTAL INJURY: bilateral SUBDURAL HAEMATOMAS OF DIFFERENT AGES (mixed density) in an infant demand a SKELETAL SURVEY (metaphyseal corner fractures, POSTERIOR RIB fractures, fractures of different ages), FUNDOSCOPY FOR RETINAL HAEMORRHAGES, a full physical examination and child-protection referral*** — ***KARYOTYPING HAS NO ROLE.***
 - **In an infant, a rapidly enlarging head with a "setting-sun" sign and a bulging fontanelle warrants urgent imaging for hydrocephalus, haemorrhage or mass.**
 
@@ -1809,32 +1791,7 @@
 
 ---
 
-### 76. Paediatric Bowel Obstruction on Plain Film
-
-**PEARL:** ***THE "DOUBLE BUBBLE" SIGN (a distended stomach and proximal duodenum with NO distal gas) = DUODENAL ATRESIA.*** Vomiting is ***BILIOUS because the atresia is usually DISTAL to the ampulla of Vater***; it is associated with ***DOWN SYNDROME (~30%), polyhydramnios, malrotation and annular pancreas.*** Contrast: ***ILEAL ATRESIA gives MANY dilated loops with multiple air–fluid levels; MIDGUT VOLVULUS gives a "double bubble WITH distal gas" and needs an urgent UPPER GI CONTRAST STUDY showing the duodenojejunal flexure to the right of the midline and a "CORKSCREW" duodenum.***
-
-**UNDERSTAND:** ***THE NUMBER OF DILATED LOOPS TELLS YOU HOW FAR DOWN THE OBSTRUCTION IS*** — a high obstruction cannot distend much bowel, so it produces few, large bubbles and early vomiting with little distension; a low obstruction distends everything above it, giving many loops, marked distension and later, feculent vomiting. And ***THE PRESENCE OF DISTAL GAS IS THE CRUCIAL DISCRIMINATOR: no distal gas = complete atresia (semi-elective surgery); double bubble WITH distal gas = possible MALROTATION WITH VOLVULUS — a true emergency, because the entire midgut can infarct within hours.***
-
-**MUST KNOW:**
-
-- ***BILIOUS VOMITING IN A NEONATE IS MALROTATION WITH VOLVULUS UNTIL PROVED OTHERWISE — the investigation is an URGENT UPPER GI CONTRAST STUDY, and delay costs the whole small bowel.***
-- **Other paediatric patterns: ***HYPERTROPHIC PYLORIC STENOSIS — NON-bilious projectile vomiting, a single gastric bubble with a "CATERPILLAR" stomach; ultrasound shows a muscle >3–4 mm and channel >15–17 mm. NECROTISING ENTEROCOLITIS — PNEUMATOSIS INTESTINALIS, portal venous gas, free air. MECONIUM ILEUS — a "SOAP-BUBBLE"/ground-glass right lower quadrant with few air–fluid levels, associated with CYSTIC FIBROSIS. HIRSCHSPRUNG — a transition zone with a narrow distal segment on contrast enema and delayed evacuation.***
-- ***OTHER "DOUBLE BUBBLE" CAUSES: annular pancreas, duodenal web/stenosis, preduodenal portal vein and midgut volvulus.***
-- **Intussusception: ***a target/doughnut sign on ultrasound; AIR ENEMA both diagnoses and treats — CONTRAINDICATED IF THERE IS PERFORATION, PERITONITIS OR SHOCK.***
-- ***A PLAIN FILM SHOWING FREE AIR IN A NEONATE MEANS PERFORATION AND MANDATES SURGERY, WHATEVER THE UNDERLYING CAUSE.***
-
-**EXAM CONNECTION:** Bilious vomiting with a double bubble → **duodenal atresia**.
-
-**REMEMBER:** *Few bubbles means high obstruction — and distal gas beside a double bubble means volvulus until disproved.*
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2024/05/27/picture16_OO1cI94.jpg)
-
-`Q9763`
-
----
-
-### 77. Scalp Swellings of the Newborn
+### 74. Scalp Swellings of the Newborn
 
 **PEARL:** **CEPHALHAEMATOMA is subperiosteal and does NOT cross suture lines**; it **appears 12–24 hours after birth**, not at birth. **Caput succedaneum and subgaleal haemorrhage DO cross sutures.**
 
@@ -1870,7 +1827,7 @@
 
 ## Vascular, Breast and Obstetric Imaging
 
-### 78. Doppler Waveforms
+### 75. Doppler Waveforms
 
 **PEARL:** ***A NORMAL LOWER-LIMB VEIN SHOWS A "RESPIROPHASIC" WAVEFORM; LOSS OF THAT PHASICITY — A MONOPHASIC (continuous) WAVEFORM — INDICATES OBSTRUCTION PROXIMAL TO THE POINT OF INTERROGATION, as in DVT.*** In arteries the sequence is the reverse: ***a normal peripheral artery is TRIPHASIC, becoming BIPHASIC with mild-to-moderate stenosis and MONOPHASIC with severe stenosis.***
 
@@ -1880,10 +1837,10 @@
 
 - ***THE PRIMARY DIAGNOSTIC CRITERION FOR DVT IS NON-COMPRESSIBILITY OF THE VEIN ON GENTLE PROBE PRESSURE*** (compression ultrasound); loss of phasicity, absent augmentation on calf squeeze, and visible echogenic thrombus with venous distension are supportive.
 - **Also lost is ***AUGMENTATION*** — the surge of flow normally produced by squeezing the calf distally, absent when there is obstruction between the squeeze and the probe.
-- **Duplex Doppler terms: ***RESISTIVE INDEX = (peak systolic − end diastolic) ÷ peak systolic — HIGH in renal obstruction and transplant rejection; SPECTRAL BROADENING and elevated peak systolic velocity indicate stenosis; ALIASING on colour Doppler indicates high-velocity (usually stenotic) flow.***
+- **Duplex Doppler terms:** *RESISTIVE INDEX = (peak systolic − end diastolic) ÷ peak systolic — HIGH in renal obstruction and transplant rejection; SPECTRAL BROADENING and elevated peak systolic velocity indicate stenosis; ALIASING on colour Doppler indicates high-velocity (usually stenotic) flow.***
 - ***A LOW-RESISTANCE CONTINUOUS DIASTOLIC FLOW PATTERN IS NORMAL IN ORGANS THAT NEED CONSTANT PERFUSION — internal carotid, renal, hepatic and placental circulations — while HIGH-RESISTANCE triphasic flow is normal in limbs and the external carotid.*** ***ABSENT OR REVERSED END-DIASTOLIC FLOW IN THE UMBILICAL ARTERY IS AN OMINOUS OBSTETRIC SIGN.***
 - **Ultrasound in trauma — the ***FAST scan (pericardial sac, right upper quadrant/MORISON'S POUCH, left upper quadrant, pelvis) detects FREE FLUID as an ANECHOIC stripe***; the ***eFAST adds thoracic views for pneumothorax and haemothorax.*** ***A POSITIVE FAST IN AN UNSTABLE PATIENT MEANS LAPAROTOMY; A NEGATIVE FAST DOES NOT EXCLUDE INJURY*** (it misses retroperitoneal and hollow-viscus injury, and needs ~200 mL of fluid).
-- **Lung ultrasound in M-mode: ***the "SEASHORE SIGN" (waves above the pleural line, sand below) IS NORMAL; the "STRATOSPHERE"/BARCODE SIGN (parallel lines throughout, from absent lung sliding) INDICATES PNEUMOTHORAX***, and the "LUNG POINT" is pathognomonic. B-lines ("comet tails") indicate interstitial oedema.
+- **Lung ultrasound in M-mode:** *the "SEASHORE SIGN" (waves above the pleural line, sand below) IS NORMAL; the "STRATOSPHERE"/BARCODE SIGN (parallel lines throughout, from absent lung sliding) INDICATES PNEUMOTHORAX***, and the "LUNG POINT" is pathognomonic. B-lines ("comet tails") indicate interstitial oedema.
 
 **EXAM CONNECTION:** Venous Doppler waveform in DVT → **monophasic**; M-mode lung ultrasound showing seashore sign → **normal lung**; free fluid between liver and kidney on FAST → **positive FAST**.
 
@@ -1899,7 +1856,7 @@
 
 ---
 
-### 79. Vascular Imaging and Interventional Complications
+### 76. Vascular Imaging and Interventional Complications
 
 **PEARL:** ***ACUTE NECK PAIN AND NEUROLOGICAL SYMPTOMS AFTER NECK MANIPULATION OR TRIVIAL TRAUMA IN A YOUNG PATIENT = CERVICAL ARTERY DISSECTION*** — angiography shows ***a long, tapering "STRING SIGN"/abrupt narrowing, an intimal flap or a double lumen***; MRI with fat-saturated T1 shows the ***CRESCENTIC INTRAMURAL HAEMATOMA.*** ***A PULSATILE SUPRACLAVICULAR/NECK MASS SHOULD FIRST BE IMAGED WITH DOPPLER ULTRASOUND — NEVER BIOPSIED BLINDLY.*** ***"STEINSTRASSE" (a street of stone fragments lined up in the ureter) IS THE CLASSIC COMPLICATION OF EXTRACORPOREAL SHOCKWAVE LITHOTRIPSY.***
 
@@ -1907,10 +1864,10 @@
 
 **MUST KNOW:**
 
-- **Carotid and vertebral dissection: ***ICA dissection gives neck/face pain, a PAINFUL PARTIAL HORNER SYNDROME (ptosis and miosis with PRESERVED sweating), pulsatile tinnitus and delayed cerebral ischaemia; VERTEBRAL dissection gives occipital pain and posterior circulation stroke (WALLENBERG).*** ***IT IS A LEADING CAUSE OF STROKE IN THE YOUNG***, and is treated with antithrombotics (antiplatelet or anticoagulant), with stenting reserved for failure or occlusion.
+- **Carotid and vertebral dissection:** *ICA dissection gives neck/face pain, a PAINFUL PARTIAL HORNER SYNDROME (ptosis and miosis with PRESERVED sweating), pulsatile tinnitus and delayed cerebral ischaemia; VERTEBRAL dissection gives occipital pain and posterior circulation stroke (WALLENBERG).*** ***IT IS A LEADING CAUSE OF STROKE IN THE YOUNG***, and is treated with antithrombotics (antiplatelet or anticoagulant), with stenting reserved for failure or occlusion.
 - **Doppler assessment of a neck mass distinguishes ***a CAROTID BODY TUMOUR (splaying of the carotid bifurcation — the "LYRE SIGN", intensely vascular, salt-and-pepper on MRI) from an aneurysm, a lymph node or a branchial cyst.***
-- **ESWL contraindications and complications: ***contraindicated in PREGNANCY, uncorrected coagulopathy, untreated UTI, and distal obstruction; complications are steinstrasse, renal haematoma, haematuria, and "sepsis if infected stone".*** ***CYSTINE AND CALCIUM OXALATE MONOHYDRATE STONES ARE HARD AND RESIST LITHOTRIPSY.***
-- **Vascular access complications after angiography: ***pseudoaneurysm (to-and-fro flow, "YIN-YANG" sign on Doppler), AV fistula, haematoma and retroperitoneal bleed.***
+- **ESWL contraindications and complications:** *contraindicated in PREGNANCY, uncorrected coagulopathy, untreated UTI, and distal obstruction; complications are steinstrasse, renal haematoma, haematuria, and "sepsis if infected stone".*** ***CYSTINE AND CALCIUM OXALATE MONOHYDRATE STONES ARE HARD AND RESIST LITHOTRIPSY.***
+- **Vascular access complications after angiography:** *pseudoaneurysm (to-and-fro flow, "YIN-YANG" sign on Doppler), AV fistula, haematoma and retroperitoneal bleed.***
 - ***MICTURATING CYSTOURETHROGRAM SHOWING CONTRAST REFLUXING UP THE URETER = VESICOURETERIC REFLUX, whose usual cause is a CONGENITALLY SHORT INTRAVESICAL URETERIC TUNNEL*** (a normal tunnel is compressed by bladder filling and acts as a flap valve) — graded I–V and a common cause of febrile UTI and reflux nephropathy in infants.
 
 **EXAM CONNECTION:** Neck pain and dizziness after chiropractic manipulation → **internal carotid artery dissection**; pulsatile supraclavicular mass → **Doppler ultrasound first**; "street of stones" in the ureter → **complication of ESWL**; febrile UTI in an infant with reflux on MCU → **short intravesical ureteric tunnel**.
@@ -1926,7 +1883,7 @@
 
 ---
 
-### 80. Mammography
+### 77. Mammography
 
 **PEARL:** ***MAMMOGRAPHY USES A MOLYBDENUM TARGET AND MOLYBDENUM FILTER, LOW kVp WITH HIGH mA, A SINGLE-SCREEN CASSETTE, AND A BERYLLIUM EXIT WINDOW*** (beryllium's very low atomic number lets the soft, low-energy X-rays escape the tube).
 
@@ -1934,7 +1891,7 @@
 
 **MUST KNOW:**
 
-- **Screening: ***two views (CRANIOCAUDAL and MEDIOLATERAL OBLIQUE) — the MLO shows the most breast tissue including the axillary tail; COMPRESSION reduces dose, motion and overlap and improves contrast.*** ***BI-RADS categories 0–6 standardise reporting: 4 and 5 require biopsy; 3 means short-interval follow-up.***
+- **Screening:** *two views (CRANIOCAUDAL and MEDIOLATERAL OBLIQUE) — the MLO shows the most breast tissue including the axillary tail; COMPRESSION reduces dose, motion and overlap and improves contrast.*** ***BI-RADS categories 0–6 standardise reporting: 4 and 5 require biopsy; 3 means short-interval follow-up.***
 - ***MALIGNANT FEATURES: an irregular SPICULATED mass, architectural distortion, and PLEOMORPHIC, BRANCHING, FINE LINEAR MICROCALCIFICATIONS IN A CLUSTERED OR SEGMENTAL DISTRIBUTION (the hallmark of DCIS); BENIGN features: round/oval circumscribed mass, coarse "POPCORN" calcification (fibroadenoma), rim/eggshell calcification and vascular calcification.***
 - ***MAMMOGRAPHY IS INSENSITIVE IN THE DENSE BREAST OF YOUNG WOMEN — ULTRASOUND IS THE FIRST-LINE IMAGING UNDER 30 AND IN PREGNANCY/LACTATION***, and MRI is used for high-risk screening (BRCA carriers), implant assessment, occult primaries and extent of disease.
 - **Screening programmes typically offer mammography ***every 1–2 years from age 40–50 to 70***; ***IN INDIA, CLINICAL BREAST EXAMINATION IS THE RECOMMENDED POPULATION SCREENING METHOD*** because mammographic screening is not feasible at scale.
@@ -1948,7 +1905,7 @@
 
 ---
 
-### 81. Cardiac and Obstetric Ultrasound Signs
+### 78. Cardiac and Obstetric Ultrasound Signs
 
 **PEARL:** ***THE EARLIEST RADIOGRAPHIC SIGN OF LEFT ATRIAL ENLARGEMENT IS FULLNESS OF THE LEFT ATRIAL APPENDAGE (the "THIRD MOGUL" sign) below the pulmonary artery***, before the double density, carinal splaying or oesophageal displacement appear. ***ON AXIAL CT, THE LEFT ATRIUM IS THE MOST POSTERIOR CHAMBER, LYING JUST ANTERIOR TO THE VERTEBRAL COLUMN AND OESOPHAGUS.*** In twins at 10–13 weeks, ***THE "LAMBDA"/TWIN-PEAK SIGN (a triangular wedge of chorion at the base of a THICK membrane) INDICATES DICHORIONIC placentation; the "T-SIGN" (a thin membrane meeting the placenta at right angles, with no chorionic wedge) indicates MONOCHORIONIC.***
 
@@ -1957,9 +1914,9 @@
 **MUST KNOW:**
 
 - **Monochorionic twins need ***FORTNIGHTLY ULTRASOUND FROM 16 WEEKS*** to detect TTTS (a polyhydramnios/oligohydramnios sequence with a "stuck twin"), treated by ***FETOSCOPIC LASER ABLATION of the placental anastomoses.***
-- **Cardiac CT anatomy from front to back: ***RIGHT VENTRICLE is the MOST ANTERIOR chamber (hence the one injured in blunt chest trauma and the one entered on subxiphoid pericardiocentesis); the LEFT ATRIUM is the MOST POSTERIOR (hence dysphagia and the oesophageal indentation, and the site of pulmonary vein isolation for atrial fibrillation); the LEFT VENTRICLE forms the apex.***
-- **Causes of left atrial enlargement: ***MITRAL VALVE DISEASE (especially stenosis), left ventricular failure of any cause, and the left-to-right shunts that load it (VSD, PDA) — but NOT an uncomplicated ASD.***
-- **Other classic obstetric ultrasound signs: ***"SNOWSTORM"/bunch-of-grapes — hydatidiform mole; "DOUBLE BUBBLE" — fetal duodenal atresia; "LEMON AND BANANA" — Chiari II with a neural tube defect; "SANDAL GAP" and nuchal thickening — Down syndrome.***
+- **Cardiac CT anatomy from front to back:** *RIGHT VENTRICLE is the MOST ANTERIOR chamber (hence the one injured in blunt chest trauma and the one entered on subxiphoid pericardiocentesis); the LEFT ATRIUM is the MOST POSTERIOR (hence dysphagia and the oesophageal indentation, and the site of pulmonary vein isolation for atrial fibrillation); the LEFT VENTRICLE forms the apex.***
+- **Causes of left atrial enlargement:** *MITRAL VALVE DISEASE (especially stenosis), left ventricular failure of any cause, and the left-to-right shunts that load it (VSD, PDA) — but NOT an uncomplicated ASD.***
+- **Other classic obstetric ultrasound signs:** *"SNOWSTORM"/bunch-of-grapes — hydatidiform mole; "DOUBLE BUBBLE" — fetal duodenal atresia; "LEMON AND BANANA" — Chiari II with a neural tube defect; "SANDAL GAP" and nuchal thickening — Down syndrome.***
 - ***FIRST-TRIMESTER ULTRASOUND (CROWN–RUMP LENGTH AT 7–13 WEEKS) IS THE MOST ACCURATE METHOD OF DATING A PREGNANCY.***
 
 **EXAM CONNECTION:** Earliest sign of left atrial enlargement → **enlargement of the left atrial appendage**; the most posterior cardiac chamber on CT → **left atrium**; lambda sign at 12 weeks → **dichorionic diamniotic twins**.
@@ -1976,7 +1933,7 @@
 
 ---
 
-### 82. Breast, Spine and Vascular Anomalies
+### 79. Breast, Spine and Vascular Anomalies
 
 **PEARL:** ***ON ULTRASOUND A FIBROADENOMA IS A WELL-DEFINED, OVAL, HOMOGENEOUSLY HYPOECHOIC MASS, WIDER THAN TALL, WITH A THIN ECHOGENIC CAPSULE/"HALO" AND POSTERIOR ACOUSTIC ENHANCEMENT.*** ***A FLUID-FILLED, TRANSILLUMINATING MIDLINE LUMBOSACRAL SAC THAT IS T2-HYPERINTENSE WITH NO NEURAL ELEMENTS IS A MENINGOCELE (a MYELOMENINGOCELE contains cord/nerve roots and causes neurological deficit).*** ***AN ABERRANT RIGHT SUBCLAVIAN ARTERY (arising as the FOURTH branch of the arch and passing BEHIND the oesophagus) CAUSES "DYSPHAGIA LUSORIA".***
 
@@ -1985,8 +1942,8 @@
 **MUST KNOW:**
 
 - ***SPINA BIFIDA OCCULTA*** — a vertebral arch defect with intact skin, often marked by a ***hairy patch, dimple, lipoma or haemangioma; MRI is indicated to exclude a TETHERED CORD, diastematomyelia or dermal sinus.*** ***MYELOMENINGOCELE IS ASSOCIATED WITH CHIARI II MALFORMATION AND HYDROCEPHALUS***, and is prevented by ***PRECONCEPTIONAL FOLIC ACID.***
-- **Vascular rings and arches: ***an ABERRANT RIGHT SUBCLAVIAN ARTERY indents the oesophagus POSTERIORLY (usually asymptomatic); a DOUBLE AORTIC ARCH or right arch with an aberrant left subclavian and ligamentum forms a TRUE VASCULAR RING causing stridor and dysphagia in infancy — diagnosed by CT/MR angiography.***
-- **Breast lesion characterisation: ***BI-RADS on ultrasound and mammography; a SIMPLE CYST is anechoic with posterior enhancement and needs no action; a COMPLEX cystic lesion needs biopsy; a PHYLLODES tumour resembles a large, rapidly growing fibroadenoma with cleft-like spaces.***
+- **Vascular rings and arches:** *an ABERRANT RIGHT SUBCLAVIAN ARTERY indents the oesophagus POSTERIORLY (usually asymptomatic); a DOUBLE AORTIC ARCH or right arch with an aberrant left subclavian and ligamentum forms a TRUE VASCULAR RING causing stridor and dysphagia in infancy — diagnosed by CT/MR angiography.***
+- **Breast lesion characterisation:** *BI-RADS on ultrasound and mammography; a SIMPLE CYST is anechoic with posterior enhancement and needs no action; a COMPLEX cystic lesion needs biopsy; a PHYLLODES tumour resembles a large, rapidly growing fibroadenoma with cleft-like spaces.***
 - ***MAMMOGRAPHY IS INSENSITIVE UNDER 30 — ULTRASOUND IS FIRST-LINE THERE***, and the triple assessment (clinical, imaging, pathology) governs every breast lump.
 - **Patella fracture is identified by ***a lucent line crossing the cortex with separation of fragments; the mimic is a BIPARTITE PATELLA — smooth, corticated margins in the SUPEROLATERAL quadrant, often bilateral, and asymptomatic.***
 
@@ -2007,7 +1964,7 @@
 
 ---
 
-### 83. Doppler Waveforms and Lung Ultrasound Signs
+### 80. Doppler Waveforms and Lung Ultrasound Signs
 
 **PEARL:** **Normal VENOUS flow is MONOPHASIC** (continuous, with respiratory phasicity but no reverse component). **Normal peripheral ARTERIAL flow is TRIPHASIC**; loss of the reverse component (**biphasic → monophasic**) indicates **increasingly severe proximal stenosis**. On M-mode lung ultrasound, the **SEASHORE sign is NORMAL** (lung sliding present); the **STRATOSPHERE/BARCODE sign** means **no sliding — pneumothorax**.
 
@@ -2036,7 +1993,7 @@
 
 ---
 
-### 84. Doppler Waveforms in Venous Disease
+### 81. Doppler Waveforms in Venous Disease
 
 **PEARL:** **Normal lower limb venous flow is PHASIC with respiration (respirophasic).** **Loss of phasicity — a MONOPHASIC, continuous waveform — indicates proximal venous obstruction**, as distal to a non-occlusive chronic DVT.
 
@@ -2067,7 +2024,7 @@
 
 ## Nuclear Medicine and PET
 
-### 85. Nuclear Medicine — Physiological Uptake and Tracer Selection
+### 82. Nuclear Medicine — Physiological Uptake and Tracer Selection
 
 **PEARL:** ***PHYSIOLOGICAL FDG UPTAKE — a source of FALSE POSITIVES — occurs in the BRAIN, MYOCARDIUM, SKELETAL AND LARYNGEAL MUSCLE (after activity or speech), the GASTROINTESTINAL TRACT, the URINARY TRACT (FDG IS RENALLY EXCRETED, so the collecting system and BLADDER are always hot), BROWN FAT, thymus and marrow.*** ***A SUSPECTED PHAEOCHROMOCYTOMA/PARAGANGLIOMA WITH RAISED METANEPHRINES BUT NEGATIVE MRI IS LOCALISED WITH A SOMATOSTATIN-RECEPTOR PET — Ga-68 DOTATOC/DOTATATE/DOTANOC.***
 
@@ -2075,9 +2032,9 @@
 
 **MUST KNOW:**
 
-- **Tracer–indication pairs: ***Tc-99m MDP — BONE scan (metastases, osteomyelitis, Paget); Tc-99m PERTECHNETATE — thyroid and MECKEL'S diverticulum (ectopic gastric mucosa); Tc-99m DTPA/MAG3 — renal function and obstruction; Tc-99m DMSA — renal SCARRING; Tc-99m sestamibi — myocardial perfusion and PARATHYROID adenoma; HIDA — biliary; MIBG — phaeochromocytoma and NEUROBLASTOMA; Ga-68 DOTA — neuroendocrine; PSMA PET — prostate cancer; C-11 METHIONINE — brain tumour grading and recurrence; 18F-NaF — bone.***
+- **Tracer–indication pairs:** *Tc-99m MDP — BONE scan (metastases, osteomyelitis, Paget); Tc-99m PERTECHNETATE — thyroid and MECKEL'S diverticulum (ectopic gastric mucosa); Tc-99m DTPA/MAG3 — renal function and obstruction; Tc-99m DMSA — renal SCARRING; Tc-99m sestamibi — myocardial perfusion and PARATHYROID adenoma; HIDA — biliary; MIBG — phaeochromocytoma and NEUROBLASTOMA; Ga-68 DOTA — neuroendocrine; PSMA PET — prostate cancer; C-11 METHIONINE — brain tumour grading and recurrence; 18F-NaF — bone.***
 - ***I-131 IS THERAPEUTIC AND DIAGNOSTIC IN DIFFERENTIATED THYROID CANCER AND THYROTOXICOSIS; I-123 AND Tc-99m ARE PURELY DIAGNOSTIC.***
-- **Preparation matters: ***fast 4–6 hours and avoid exertion before FDG-PET; withhold thyroid-blocking drugs and iodine before thyroid scintigraphy; keep the patient warm to reduce brown-fat uptake.***
+- **Preparation matters:** *fast 4–6 hours and avoid exertion before FDG-PET; withhold thyroid-blocking drugs and iodine before thyroid scintigraphy; keep the patient warm to reduce brown-fat uptake.***
 - ***RADIATION PROTECTION LIMITS (AERB/ICRP): OCCUPATIONAL WORKER 20 mSv/year (averaged over 5 years, max 30 in any year); PREGNANT OCCUPATIONAL WORKER — about 2 mSv to the abdomen/1 mSv to the fetus for the remainder of the pregnancy (NOT the figure usually quoted for the public); GENERAL PUBLIC 1 mSv/year; LENS and SKIN limits are set separately.***
 - ***CONTRAST-INDUCED NEPHROPATHY IS REDUCED BY HYDRATION, USING LOW- OR ISO-OSMOLAR AGENTS (IODIXANOL), MINIMISING VOLUME AND STOPPING NEPHROTOXINS — SWITCHING TO GADOLINIUM-ENHANCED MRI IS NOT A SOLUTION***, since gadolinium risks nephrogenic systemic fibrosis in the same patients.
 
@@ -2093,7 +2050,7 @@
 
 ---
 
-### 86. PET-CT Preparation
+### 83. PET-CT Preparation
 
 **PEARL:** **Oral glucose is NOT given before PET-CT.** The patient **fasts 4–6 hours** and blood glucose must be normal, because **FDG uptake is competitively inhibited by glucose**.
 
@@ -2109,7 +2066,7 @@
 
 ## Trauma and Emergency Imaging
 
-### 87. Trauma Imaging Algorithm
+### 84. Trauma Imaging Algorithm
 
 **PEARL:** ***IN BLUNT TRAUMA: an UNSTABLE patient with a POSITIVE FAST goes STRAIGHT TO LAPAROTOMY; a STABLE patient with a positive FAST (or with flank ecchymoses, suggesting retroperitoneal injury) has a CECT — the GOLD STANDARD for localising the source of bleeding.*** ***A SIMPLE TRAUMATIC PNEUMOTHORAX WITH HAEMODYNAMIC COMPROMISE IS TREATED BY INTERCOSTAL DRAIN INSERTION; NEEDLE THORACOSTOMY IS RESERVED FOR TENSION PNEUMOTHORAX*** (and is only a temporising measure before the drain).
 
@@ -2117,10 +2074,10 @@
 
 **MUST KNOW:**
 
-- **The ATLS sequence: ***PRIMARY SURVEY (cABCDE with catastrophic haemorrhage control), adjuncts (chest and pelvic X-ray, FAST, blood gas), resuscitation, then SECONDARY SURVEY and definitive imaging.*** ***THE THREE PLACES BLOOD HIDES: chest, abdomen/retroperitoneum and pelvis/long bones ("on the floor and four more").***
-- **CT in trauma: ***a whole-body "PAN-SCAN" with arterial and portal-venous phases identifies solid organ injury (graded by the AAST scale), ACTIVE CONTRAST EXTRAVASATION (a blush — an indication for ANGIOEMBOLISATION), vascular injury and bowel/mesenteric injury; DELAYED phases are added for urinary tract injury.***
+- **The ATLS sequence:** *PRIMARY SURVEY (cABCDE with catastrophic haemorrhage control), adjuncts (chest and pelvic X-ray, FAST, blood gas), resuscitation, then SECONDARY SURVEY and definitive imaging.*** ***THE THREE PLACES BLOOD HIDES: chest, abdomen/retroperitoneum and pelvis/long bones ("on the floor and four more").***
+- **CT in trauma:** *a whole-body "PAN-SCAN" with arterial and portal-venous phases identifies solid organ injury (graded by the AAST scale), ACTIVE CONTRAST EXTRAVASATION (a blush — an indication for ANGIOEMBOLISATION), vascular injury and bowel/mesenteric injury; DELAYED phases are added for urinary tract injury.***
 - ***MOST SOLID ORGAN INJURIES IN THE STABLE PATIENT ARE MANAGED NON-OPERATIVELY*** with observation, serial examination and interventional radiology — a major change from historical practice, and the reason CT matters so much.
-- **Chest trauma imaging: ***look for pneumothorax, haemothorax, rib and sternal fractures, FLAIL segment, pulmonary contusion, WIDENED MEDIASTINUM (aortic injury — confirm with CT angiography), diaphragmatic rupture and pneumomediastinum (tracheobronchial or oesophageal injury).***
+- **Chest trauma imaging:** *look for pneumothorax, haemothorax, rib and sternal fractures, FLAIL segment, pulmonary contusion, WIDENED MEDIASTINUM (aortic injury — confirm with CT angiography), diaphragmatic rupture and pneumomediastinum (tracheobronchial or oesophageal injury).***
 - ***DIAGNOSTIC PERITONEAL LAVAGE IS NOW RARELY USED*** — reserved for the unstable patient with an equivocal or unobtainable FAST and no CT access.
 
 **EXAM CONNECTION:** Stable patient after RTA with flank ecchymoses → **CECT**; traumatic pneumothorax with hypotension → **intercostal drain insertion**.
@@ -2135,7 +2092,7 @@
 
 ---
 
-### 88. Whole-Body Trauma CT ("Pan-Scan")
+### 85. Whole-Body Trauma CT ("Pan-Scan")
 
 **PEARL:** The whole-body trauma CT protocol is **NCCT head + NCCT cervical spine + CONTRAST-ENHANCED CT of the TORSO (chest, abdomen and pelvis)**. **CT of the LIMBS is NOT part of it** — extremities are imaged with plain radiographs, and with CT angiography only if a specific vascular injury is suspected.
 
@@ -2161,3 +2118,9 @@
 ---
 
 ---
+
+## Sources for the 2026 Updates
+
+[^1]: **USPSTF Final Recommendation Statement: Lung Cancer Screening (2021)** — annual low-dose CT from age 50 to 80 with a 20 pack-year history, current smokers or those who quit within 15 years. <https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/lung-cancer-screening>
+
+[^2]: **ACR–NKF consensus statement on the use of intravenous iodinated contrast media in patients with kidney disease**, and the **ACR Manual on Contrast Media** — contrast-associated versus contrast-induced AKI, prophylaxis thresholds, and group II gadolinium agents. <https://www.acr.org/Clinical-Resources/Contrast-Manual>

@@ -1,6 +1,6 @@
 # Psychiatry — Bookmark-Derived Pearls
 
-*Distilled from bookmarked INI-CET / NEET-PG MCQs. Only high-yield, revisable learning points were kept; points already covered by the existing pearl collection were dropped.*
+*Distilled from bookmarked INI-CET / NEET-PG MCQs. Only high-yield, revisable learning points were kept; duplicate pearls have been merged so that each concept appears once, in the pearl where it belongs. Guideline-dependent content has been updated to the position as of 2026, with footnoted sources listed at the end of the file.*
 
 ---
 
@@ -9,16 +9,16 @@
 - [Psychiatric Assessment, Examination and Psychometrics](#psychiatric-assessment-examination-and-psychometrics) — 5 pearls
 - [Psychopathology and Descriptive Terminology](#psychopathology-and-descriptive-terminology) — 6 pearls
 - [Schizophrenia and Psychotic Disorders](#schizophrenia-and-psychotic-disorders) — 4 pearls
-- [Mood Disorders](#mood-disorders) — 15 pearls
-- [Anxiety, OCD, Trauma and Related Disorders](#anxiety-ocd-trauma-and-related-disorders) — 9 pearls
-- [Somatic Symptom Disorders](#somatic-symptom-disorders) — 4 pearls
-- [Substance Use Disorders](#substance-use-disorders) — 5 pearls
-- [Sleep Disorders](#sleep-disorders) — 7 pearls
-- [Child and Adolescent Psychiatry](#child-and-adolescent-psychiatry) — 9 pearls
+- [Mood Disorders](#mood-disorders) — 10 pearls
+- [Anxiety, OCD, Trauma and Related Disorders](#anxiety-ocd-trauma-and-related-disorders) — 7 pearls
+- [Somatic Symptom Disorders](#somatic-symptom-disorders) — 3 pearls
+- [Substance Use Disorders](#substance-use-disorders) — 4 pearls
+- [Sleep Disorders](#sleep-disorders) — 5 pearls
+- [Child and Adolescent Psychiatry](#child-and-adolescent-psychiatry) — 7 pearls
 - [Personality Disorders](#personality-disorders) — 3 pearls
 - [Eating Disorders](#eating-disorders) — 2 pearls
 - [Sexual and Gender Disorders](#sexual-and-gender-disorders) — 2 pearls
-- [Organic and Neuropsychiatric Disorders](#organic-and-neuropsychiatric-disorders) — 9 pearls
+- [Organic and Neuropsychiatric Disorders](#organic-and-neuropsychiatric-disorders) — 6 pearls
 - [Psychopharmacology and Physical Treatments](#psychopharmacology-and-physical-treatments) — 11 pearls
 - [Psychotherapy, Theories and Eponyms](#psychotherapy-theories-and-eponyms) — 9 pearls
 
@@ -34,10 +34,10 @@
 
 **MUST KNOW:**
 
-- **Types of long-term memory: ***EXPLICIT/DECLARATIVE (conscious) — EPISODIC (events) and SEMANTIC (facts), dependent on the HIPPOCAMPUS and medial temporal lobe; IMPLICIT/NON-DECLARATIVE (unconscious) — PROCEDURAL skills (basal ganglia, cerebellum), CLASSICAL CONDITIONING (amygdala for fear) and PRIMING.***
+- **Types of long-term memory:** *EXPLICIT/DECLARATIVE (conscious) — EPISODIC (events) and SEMANTIC (facts), dependent on the HIPPOCAMPUS and medial temporal lobe; IMPLICIT/NON-DECLARATIVE (unconscious) — PROCEDURAL skills (basal ganglia, cerebellum), CLASSICAL CONDITIONING (amygdala for fear) and PRIMING.***
 - ***PRIMING is exposure to a CUE that facilitates recall of a related target*** — hearing "something you get at McDonald's" to retrieve "Berger" (Hans Berger, who recorded the first EEG). It is a form of IMPLICIT memory and is preserved in amnestic syndromes — a favourite exam scenario.
 - ***KORSAKOFF SYNDROME = ANTEROGRADE AMNESIA WITH LOSS OF RECENT MEMORY IN AN ALERT, RESPONSIVE PATIENT***, plus CONFABULATION, apathy, lack of initiative and personality change; it follows thiamine deficiency (WERNICKE encephalopathy — the triad of CONFUSION, OPHTHALMOPLEGIA and ATAXIA — is the ACUTE form). ***TREAT WITH PARENTERAL THIAMINE (before any glucose); recovery is often incomplete even after months of treatment.***
-- **Other memory disturbances: ***CONFABULATION (fabricated memories filling gaps, without intent to deceive), DÉJÀ VU and JAMAIS VU, HYPERAMNESIA, and DISSOCIATIVE (psychogenic) AMNESIA — which is typically for PERSONAL identity and is selective, unlike organic amnesia.***
+- **Other memory disturbances:** *CONFABULATION (fabricated memories filling gaps, without intent to deceive), DÉJÀ VU and JAMAIS VU, HYPERAMNESIA, and DISSOCIATIVE (psychogenic) AMNESIA — which is typically for PERSONAL identity and is selective, unlike organic amnesia.***
 - **The Mini-Mental State Examination (30 points) samples orientation, registration, attention, recall, language and construction; ***a score below 24 suggests cognitive impairment — but it is heavily EDUCATION-DEPENDENT and insensitive to frontal and subcortical deficits (the MoCA is better).***
 
 **EXAM CONNECTION:** Test of immediate memory → **digit span forward, up to 7 digits**; recall prompted by a phonological clue → **priming**; true about Korsakoff syndrome → **anterograde amnesia with loss of recent memory**.
@@ -56,13 +56,15 @@
 
 **MUST KNOW:**
 
-- **The MSE structure: ***APPEARANCE and behaviour; SPEECH (rate, volume, tone, quantity); MOOD (subjective) and AFFECT (objective — range, reactivity, congruence); THOUGHT — FORM (see the formal thought disorders), CONTENT (delusions, obsessions, suicidal ideation) and POSSESSION (insertion, withdrawal, broadcasting); PERCEPTION (hallucinations, illusions, depersonalisation, derealisation); COGNITION (orientation, attention, memory, intelligence); JUDGEMENT; and INSIGHT.***
+- **The MSE structure:** *APPEARANCE and behaviour; SPEECH (rate, volume, tone, quantity); MOOD (subjective) and AFFECT (objective — range, reactivity, congruence); THOUGHT — FORM (see the formal thought disorders), CONTENT (delusions, obsessions, suicidal ideation) and POSSESSION (insertion, withdrawal, broadcasting); PERCEPTION (hallucinations, illusions, depersonalisation, derealisation); COGNITION (orientation, attention, memory, intelligence); JUDGEMENT; and INSIGHT.***
 - ***INSIGHT IS GRADED, NOT ALL-OR-NONE (from complete denial of illness → awareness of being ill but blaming others → awareness with intellectual understanding → true emotional insight leading to behaviour change)***, and it predicts treatment adherence better than almost any other single item.
 - ***ANOSOGNOSIA — denial of a deficit — FOLLOWS RIGHT (non-dominant) HEMISPHERE DAMAGE***, because the intact analytic left hemisphere cannot supply the emotional appraisal the right normally provides.
-- **Lateralisation of emotion: ***the RIGHT hemisphere subserves affect, humour, prosody, socialisation and body image; the LEFT is analytic and verbal.*** Hence ***RIGHT-hemisphere lesions cause indifference and loss of insight; LEFT-hemisphere lesions are more often followed by DEPRESSION (a "catastrophic reaction").*** In temporal lobe epilepsy, ***LEFT-sided foci produce philosophical, humourless, hyper-religious and ideational preoccupations (part of the GESCHWIND syndrome — hypergraphia, hyper-religiosity, hyposexuality, viscosity), while RIGHT-sided foci produce excessive emotional display.***
-- **Perceptual definitions to keep separate: ***ILLUSION (misperception of a REAL stimulus), HALLUCINATION (perception WITHOUT a stimulus, with the full force of reality, in external space), PSEUDOHALLUCINATION (recognised as internal), DEPERSONALISATION (self feels unreal) and DEREALISATION (surroundings feel unreal).***
+- **Lateralisation of emotion:** *the RIGHT hemisphere subserves affect, humour, prosody, socialisation and body image; the LEFT is analytic and verbal.*** Hence ***RIGHT-hemisphere lesions cause indifference and loss of insight; LEFT-hemisphere lesions are more often followed by DEPRESSION (a "catastrophic reaction").*** In temporal lobe epilepsy, ***LEFT-sided foci produce philosophical, humourless, hyper-religious and ideational preoccupations (part of the GESCHWIND syndrome — hypergraphia, hyper-religiosity, hyposexuality, viscosity), while RIGHT-sided foci produce excessive emotional display.***
+- **Perceptual definitions to keep separate:** *ILLUSION (misperception of a REAL stimulus), HALLUCINATION (perception WITHOUT a stimulus, with the full force of reality, in external space), PSEUDOHALLUCINATION (recognised as internal), DEPERSONALISATION (self feels unreal) and DEREALISATION (surroundings feel unreal).***
 
 **EXAM CONNECTION:** Asking what the patient would do if a house were on fire → **test judgement**; true statement about lateralisation → **left temporal lobe epilepsy produces philosophical, humourless preoccupations**.
+
+**ALSO KNOW:** **THE CLASSIFICATIONS IN CURRENT USE ARE DSM-5-TR (2022) AND ICD-11 (in force since 1 January 2022).** Changes worth knowing: **PROLONGED GRIEF DISORDER is now a formal diagnosis in both**; **ICD-11 replaced the ICD-10 schizophrenia SUBTYPES (paranoid, hebephrenic, catatonic) with a SYMPTOM-DIMENSION description, and merged the ICD-10 personality-disorder types into a SINGLE diagnosis graded MILD/MODERATE/SEVERE with trait qualifiers**; **GAMING DISORDER and COMPLEX PTSD are new ICD-11 entities**; and **GENDER INCONGRUENCE was moved out of the mental disorders chapter altogether.** Indian PG papers still quote ICD-10 numbering, so read which system the stem names.[^1]
 
 **REMEMBER:** *A patient can pass the fire question and still set the ward alight — watch, don't just ask.*
 
@@ -78,9 +80,9 @@
 
 **MUST KNOW:**
 
-- **Test categories: ***INTELLIGENCE (Stanford–Binet, Wechsler); PERSONALITY — OBJECTIVE (MMPI, 16-PF, Eysenck) versus PROJECTIVE (RORSCHACH inkblot, THEMATIC APPERCEPTION TEST, sentence completion, draw-a-person); NEUROPSYCHOLOGICAL (Bender–Gestalt, Halstead–Reitan, Luria–Nebraska, PGI battery); and RATING SCALES (Hamilton and Beck for depression, Young for mania, Yale–Brown for OCD, PANSS/BPRS for schizophrenia, MMSE/MoCA for cognition).***
+- **Test categories:** *INTELLIGENCE (Stanford–Binet, Wechsler); PERSONALITY — OBJECTIVE (MMPI, 16-PF, Eysenck) versus PROJECTIVE (RORSCHACH inkblot, THEMATIC APPERCEPTION TEST, sentence completion, draw-a-person); NEUROPSYCHOLOGICAL (Bender–Gestalt, Halstead–Reitan, Luria–Nebraska, PGI battery); and RATING SCALES (Hamilton and Beck for depression, Young for mania, Yale–Brown for OCD, PANSS/BPRS for schizophrenia, MMSE/MoCA for cognition).***
 - ***IQ = (MENTAL AGE ÷ CHRONOLOGICAL AGE) × 100***, with a population mean of 100 and SD of 15; ***SOCIAL QUOTIENT is the analogous ratio for adaptive functioning*** — and DSM-5 now grades intellectual disability by adaptive function rather than IQ alone.
-- **Other MSE terms worth precision: ***ANHEDONIA (loss of pleasure), ALEXITHYMIA (inability to identify and describe one's emotions), APATHY, EUTHYMIA, DYSPHORIA, LABILE affect, and BLUNTED vs FLAT vs RESTRICTED affect (a spectrum of reduced expression).***
+- **Other MSE terms worth precision:** *ANHEDONIA (loss of pleasure), ALEXITHYMIA (inability to identify and describe one's emotions), APATHY, EUTHYMIA, DYSPHORIA, LABILE affect, and BLUNTED vs FLAT vs RESTRICTED affect (a spectrum of reduced expression).***
 - **Family-environment concepts from schizophrenia research (Lidz): ***"MARITAL SCHISM" — open conflict and hostility between parents, with the child used as a pawn — described more in FEMALE patients; "MARITAL SKEW" — one dominant parent (typically the mother) and one submissive parent, with the abnormality accepted as normal — described more in MALE patients.*** ***THESE ARE HISTORICAL ASSOCIATIONS WITH SCHIZOPHRENIA, NOT OCD, AND ARE NO LONGER CONSIDERED CAUSAL*** — but ***EXPRESSED EMOTION (criticism, hostility and emotional over-involvement) IS a validated predictor of RELAPSE and is the target of family intervention.***
 - **Learning domains (Bloom), asked in medical-education style questions: ***COGNITIVE (knowledge), PSYCHOMOTOR (skills) and AFFECTIVE (attitudes and values)*** — a session that changes students' attitudes and makes them promote a behaviour voluntarily is ***AFFECTIVE learning.***
 
@@ -128,9 +130,9 @@
 **MUST KNOW:**
 
 - ***MOOD-CONGRUENCE MATTERS DIAGNOSTICALLY: mood-congruent psychotic features carry a better prognosis and support a primary MOOD disorder; mood-INCONGRUENT features (passivity phenomena, thought insertion, persecutory delusions unrelated to mood) point towards schizoaffective disorder or schizophrenia and a worse prognosis.***
-- **Named delusional syndromes: ***CAPGRAS (a familiar person replaced by an identical impostor), FREGOLI (strangers are a familiar persecutor in disguise), COTARD (nihilistic — "I am dead"), OTHELLO (delusional jealousy — dangerous, associated with alcohol), DE CLÉRAMBAULT/EROTOMANIA (a person of higher status is secretly in love with the patient), FOLIE À DEUX (shared psychotic disorder — treat by SEPARATING the pair), and EKBOM (delusional parasitosis).***
+- **Named delusional syndromes:** *CAPGRAS (a familiar person replaced by an identical impostor), FREGOLI (strangers are a familiar persecutor in disguise), COTARD (nihilistic — "I am dead"), OTHELLO (delusional jealousy — dangerous, associated with alcohol), DE CLÉRAMBAULT/EROTOMANIA (a person of higher status is secretly in love with the patient), FOLIE À DEUX (shared psychotic disorder — treat by SEPARATING the pair), and EKBOM (delusional parasitosis).***
 - ***OLFACTORY REFERENCE DISORDER — the fixed belief of emitting a foul body odour, with excessive washing, camouflaging and social avoidance despite reassurance — is a distinct condition (classified with the OCD-related disorders in ICD-11), and is NOT an olfactory hallucination (which would be smelling something that is not there).***
-- **Other localising syndromes: ***KLEINE–LEVIN ("sleeping beauty") — episodic hypersomnia with hyperphagia and hypersexuality in adolescent males; medial hypothalamic lesions — hyperphagia and obesity without satiety; CHARCOT–WILBRAND — loss of visual dream imagery with occipitotemporal damage; and GERSTMANN syndrome (dominant parietal — agraphia, acalculia, finger agnosia, left–right disorientation).***
+- **Other localising syndromes:** *KLEINE–LEVIN ("sleeping beauty") — episodic hypersomnia with hyperphagia and hypersexuality in adolescent males; medial hypothalamic lesions — hyperphagia and obesity without satiety; CHARCOT–WILBRAND — loss of visual dream imagery with occipitotemporal damage; and GERSTMANN syndrome (dominant parietal — agraphia, acalculia, finger agnosia, left–right disorientation).***
 - ***KÜBLER-ROSS'S STAGES OF GRIEF ARE DENIAL, ANGER, BARGAINING, DEPRESSION AND ACCEPTANCE — "WITHDRAWAL" IS NOT ONE OF THEM***, and the stages are neither universal nor strictly sequential.
 
 **EXAM CONNECTION:** Ribot's law → **retrograde amnesia**; mood-INCONGRUENT delusion in depression → **delusion of control**; hyperorality with hypersexuality and indifference → **Klüver–Bucy syndrome**; NOT a Kübler-Ross stage → **withdrawal**.
@@ -216,10 +218,10 @@
 
 **MUST KNOW:**
 
-- **The formal thought disorders: ***CIRCUMSTANTIALITY (over-inclusive detail, but eventually reaches the point); TANGENTIALITY (never reaches it); DERAILMENT (sentences make sense individually but not together); FLIGHT OF IDEAS (rapid, connected shifts — mania); CLANG ASSOCIATION (linked by sound/rhyme); PERSEVERATION; NEOLOGISM; WORD SALAD; and THOUGHT BLOCK.***
+- **The formal thought disorders:** *CIRCUMSTANTIALITY (over-inclusive detail, but eventually reaches the point); TANGENTIALITY (never reaches it); DERAILMENT (sentences make sense individually but not together); FLIGHT OF IDEAS (rapid, connected shifts — mania); CLANG ASSOCIATION (linked by sound/rhyme); PERSEVERATION; NEOLOGISM; WORD SALAD; and THOUGHT BLOCK.***
 - ***CROW'S TYPE 1 (positive symptoms, no structural pathology, good response and prognosis) vs TYPE 2 (negative symptoms — the 5 A's: Affective flattening, Alogia, Avolition, Anhedonia, Asociality — demonstrable structural abnormality on CT/MRI, poor response).***
-- **DSM/ICD essentials: ***symptoms for ≥6 MONTHS (DSM) or ≥1 MONTH (ICD) with functional decline; SCHIZOPHRENIFORM disorder 1–6 months; BRIEF PSYCHOTIC DISORDER <1 month with full recovery; SCHIZOAFFECTIVE disorder requires psychosis for ≥2 weeks WITHOUT prominent mood symptoms.***
-- **Treatment: ***ANTIPSYCHOTICS (atypicals first-line; monitor metabolic parameters), with CLOZAPINE reserved for TREATMENT-RESISTANT disease (failure of two adequate trials) — it is the ONLY agent with proven superiority there, and reduces suicide, at the cost of AGRANULOCYTOSIS (mandatory counts), myocarditis, seizures, sialorrhoea and severe constipation.*** Psychosocial treatment (family intervention to reduce EXPRESSED EMOTION, supported employment, CBT for psychosis) substantially reduces relapse.
+- **DSM/ICD essentials:** *symptoms for ≥6 MONTHS (DSM) or ≥1 MONTH (ICD) with functional decline; SCHIZOPHRENIFORM disorder 1–6 months; BRIEF PSYCHOTIC DISORDER <1 month with full recovery; SCHIZOAFFECTIVE disorder requires psychosis for ≥2 weeks WITHOUT prominent mood symptoms.***
+- **Treatment:** *ANTIPSYCHOTICS (atypicals first-line; monitor metabolic parameters), with CLOZAPINE reserved for TREATMENT-RESISTANT disease (failure of two adequate trials) — it is the ONLY agent with proven superiority there, and reduces suicide, at the cost of AGRANULOCYTOSIS (mandatory counts), myocarditis, seizures, sialorrhoea and severe constipation.*** Psychosocial treatment (family intervention to reduce EXPRESSED EMOTION, supported employment, CBT for psychosis) substantially reduces relapse.
 - ***THE DURATION OF UNTREATED PSYCHOSIS IS ONE OF THE FEW MODIFIABLE PREDICTORS OF OUTCOME*** — the rationale for early-intervention services.
 
 **EXAM CONNECTION:** NOT a good prognostic factor → **insidious onset**; formal thought disorder → **derailment**.
@@ -239,7 +241,7 @@
 **MUST KNOW:**
 
 - **Subtypes (retained in ICD, dropped in DSM-5 in favour of dimensions): ***PARANOID (commonest, best prognosis, later onset — delusions of persecution/reference/grandeur); DISORGANISED/HEBEPHRENIC (early onset, WORST prognosis); CATATONIC (stuporous or excited); SIMPLE (insidious negative symptoms without florid psychosis); UNDIFFERENTIATED; RESIDUAL.***
-- **Catatonic signs to name precisely: ***STUPOR (immobility and unresponsiveness — the most complete form), CATALEPSY (a posture passively induced and held), WAXY FLEXIBILITY (even, plastic resistance like bending a candle), NEGATIVISM, POSTURING, MANNERISMS, STEREOTYPY (spontaneous repetitive purposeless movements), ECHOLALIA and ECHOPRAXIA.***
+- **Catatonic signs to name precisely:** *STUPOR (immobility and unresponsiveness — the most complete form), CATALEPSY (a posture passively induced and held), WAXY FLEXIBILITY (even, plastic resistance like bending a candle), NEGATIVISM, POSTURING, MANNERISMS, STEREOTYPY (spontaneous repetitive purposeless movements), ECHOLALIA and ECHOPRAXIA.***
 - ***SCHNEIDER'S FIRST-RANK SYMPTOMS (not diagnostic on their own, but heavily examined): audible thoughts, third-person and running-commentary auditory hallucinations, thought withdrawal/insertion/broadcasting, passivity phenomena (made feelings, impulses and acts) and delusional perception.***
 - **Positive symptoms = delusions, hallucinations, disorganised speech and behaviour; ***NEGATIVE = the 5 A's (Affective blunting, Alogia, Avolition, Anhedonia, Asociality) — which include SOCIAL WITHDRAWAL AND SELF-NEGLECT.*** Catatonic symptoms are a separate dimension and are NOT present in most patients.
 - **Epidemiology: lifetime risk ~1%, equal in the sexes, ***EARLIER ONSET IN MEN (15–25) THAN WOMEN (25–35)***; heritability is high (~50% concordance in monozygotic twins); risk factors include urban birth, migration, obstetric complications, winter birth and CANNABIS use in adolescence.
@@ -286,13 +288,15 @@
 
 **MUST KNOW:**
 
-- **Core DSM criteria: ***≥5 symptoms for ≥2 WEEKS, including DEPRESSED MOOD or ANHEDONIA — "SIG E CAPS" (Sleep, Interest, Guilt, Energy, Concentration, Appetite, Psychomotor, Suicide).***
+- **Core DSM criteria:** *≥5 symptoms for ≥2 WEEKS, including DEPRESSED MOOD or ANHEDONIA — "SIG E CAPS" (Sleep, Interest, Guilt, Energy, Concentration, Appetite, Psychomotor, Suicide).***
 - ***PSYCHOTIC DEPRESSION*** presents with ***MOOD-CONGRUENT delusions — NIHILISTIC ("my intestines have rotted", "I am dead" — COTARD SYNDROME), guilt, poverty and deserved punishment, and delusions of illness*** — and requires ***AN ANTIDEPRESSANT PLUS AN ANTIPSYCHOTIC, OR ECT (the treatment of choice when there is food refusal, stupor or high suicide risk).*** ***AN ANTIDEPRESSANT ALONE IS INADEQUATE.***
 - ***GRIEF versus DEPRESSION: in GRIEF the dysphoria comes in WAVES tied to reminders of the deceased, SELF-ESTEEM IS PRESERVED, positive emotions and humour persist, and any thought of death is about JOINING the deceased. In DEPRESSION the low mood is PERSISTENT AND PERVASIVE, with WORTHLESSNESS AND SELF-LOATHING, global anhedonia and active suicidal ideation.*** ***PSYCHOTIC SYMPTOMS, PROFOUND GUILT ABOUT CAUSING THE DEATH, AND PSYCHOMOTOR RETARDATION INDICATE DEPRESSION, NOT NORMAL BEREAVEMENT.***
 - ***ABRUPT DISCONTINUATION OF SHORT-HALF-LIFE ANTIDEPRESSANTS — ESPECIALLY VENLAFAXINE AND PAROXETINE — CAUSES A DISCONTINUATION SYNDROME: agitation, anxiety, INSOMNIA, dizziness, "electric shock" sensations, flu-like symptoms and nausea.*** ***FLUOXETINE'S LONG HALF-LIFE MAKES IT ALMOST IMMUNE*** — always taper, and never confuse discontinuation with relapse.
 - **Other specifiers worth knowing: seasonal pattern (winter depression — light therapy), peripartum onset, mixed features and catatonia.**
 
 **EXAM CONNECTION:** NOT a feature of melancholia → **sleep-onset insomnia**; NOT a feature of atypical depression → **that it responds better to TCAs than to MAOIs/SSRIs**; nihilistic delusion in depression → **psychotic depression**; abrupt stoppage causing agitation, anxiety and insomnia → **venlafaxine**.
+
+**ALSO KNOW:** It is the **reverse vegetative pattern** of melancholia (which has early-morning waking, weight loss, anhedonia, diurnal variation worse in the morning, and **no** mood reactivity). Classically responds well to **MAO inhibitors**; SSRIs are used first-line in practice. *Atypical = eats more, sleeps more, still reacts to good news.*
 
 **REMEMBER:** *Melancholia wakes at four in the morning and cannot be cheered; atypical depression sleeps all day and brightens with good news.*
 
@@ -312,7 +316,7 @@
 - **Postpartum depression: risk factors are ***previous depression, lack of social support, marital discord, unwanted pregnancy, obstetric complications and adolescent motherhood.*** Screen with the ***EDINBURGH POSTNATAL DEPRESSION SCALE.*** ***SERTRALINE AND PAROXETINE ARE PREFERRED IN BREASTFEEDING*** (low milk levels).
 - ***UNTREATED MATERNAL DEPRESSION IMPAIRS INFANT ATTACHMENT, GROWTH AND COGNITIVE DEVELOPMENT*** — the reason screening matters even when the mother minimises her symptoms.
 - ***ALWAYS ASK DIRECTLY ABOUT THOUGHTS OF HARMING THE BABY AND ABOUT SUICIDAL IDEATION*** — suicide is a leading cause of maternal death in the year after delivery.
-- **Medication in pregnancy: ***AVOID VALPROATE ABSOLUTELY; LITHIUM carries a small risk of EBSTEIN ANOMALY (first trimester) but is often continued with monitoring in severe bipolar disorder; PAROXETINE has a cardiac-defect signal; and untreated severe illness is itself a major risk to mother and fetus.***
+- **Medication in pregnancy:** *AVOID VALPROATE ABSOLUTELY; LITHIUM carries a small risk of EBSTEIN ANOMALY (first trimester) but is often continued with monitoring in severe bipolar disorder; PAROXETINE has a cardiac-defect signal; and untreated severe illness is itself a major risk to mother and fetus.***
 
 **EXAM CONNECTION:** Day-4 tearfulness, mood swings and insomnia → **postpartum blues**.
 
@@ -331,12 +335,14 @@
 **MUST KNOW:**
 
 - ***ANTIDEPRESSANTS SHOULD NEVER BE GIVEN AS MONOTHERAPY IN BIPOLAR DEPRESSION*** — always with a mood stabiliser or an antipsychotic; ***QUETIAPINE, LURASIDONE, LAMOTRIGINE and olanzapine–fluoxetine are the evidence-based options for the depressive pole.***
-- **Diagnostic thresholds: ***MANIA — ≥1 WEEK (or any duration if hospitalisation is needed), with marked impairment or psychosis; HYPOMANIA — ≥4 DAYS, observable change but NO marked impairment and NO psychosis. BIPOLAR I requires a manic episode; BIPOLAR II requires hypomania plus a major depressive episode; CYCLOTHYMIA is 2 years of subthreshold swings.***
-- **Mania mnemonic "DIG FAST": ***Distractibility, Indiscretion/impulsivity, Grandiosity, Flight of ideas, Activity increase, Sleep need decreased, Talkativeness/pressured speech.*** ***A REDUCED NEED FOR SLEEP (as opposed to insomnia with fatigue) IS THE MOST DISCRIMINATING SINGLE SYMPTOM.***
+- **Diagnostic thresholds:** *MANIA — ≥1 WEEK (or any duration if hospitalisation is needed), with marked impairment or psychosis; HYPOMANIA — ≥4 DAYS, observable change but NO marked impairment and NO psychosis. BIPOLAR I requires a manic episode; BIPOLAR II requires hypomania plus a major depressive episode; CYCLOTHYMIA is 2 years of subthreshold swings.***
+- **Mania mnemonic "DIG FAST":** *Distractibility, Indiscretion/impulsivity, Grandiosity, Flight of ideas, Activity increase, Sleep need decreased, Talkativeness/pressured speech.*** ***A REDUCED NEED FOR SLEEP (as opposed to insomnia with fatigue) IS THE MOST DISCRIMINATING SINGLE SYMPTOM.***
 - **Treatment of acute mania: ***an ANTIPSYCHOTIC (rapid) with LITHIUM or VALPROATE; stop antidepressants; ECT for severe, refractory or pregnant cases.*** Maintenance: ***LITHIUM has the best evidence for preventing relapse AND for reducing SUICIDE.***
 - ***BIPOLAR DISORDER CARRIES ONE OF THE HIGHEST SUICIDE RATES IN PSYCHIATRY, AND THE MEAN DELAY TO DIAGNOSIS IS YEARS*** — because patients present in depression and are never asked about past highs. ***ALWAYS SCREEN FOR PAST HYPOMANIA BEFORE PRESCRIBING AN ANTIDEPRESSANT.***
 
 **EXAM CONNECTION:** NOT true about rapid cyclers → **that it occurs commonly in men**.
+
+**ALSO KNOW:** **Lithium is the only psychotropic with a proven anti-suicidal effect.** Risk is highest in **depressive and mixed** episodes, not manic ones. *15% attempt; lithium is the protective drug.*
 
 **REMEMBER:** *Four episodes a year: stop the antidepressant, check the thyroid, start valproate.*
 
@@ -354,11 +360,13 @@
 
 - ***ECT IS THE FASTEST-ACTING TREATMENT AND IS THE TREATMENT OF CHOICE FOR: severe depression with high suicide risk or food refusal, PSYCHOTIC DEPRESSION, CATATONIA, malignant catatonia/neuroleptic malignant syndrome, severe mania, and depression in pregnancy.*** Its principal adverse effects are ***TRANSIENT ANTEROGRADE AND RETROGRADE AMNESIA***; there is ***NO ABSOLUTE CONTRAINDICATION (raised intracranial pressure is the main relative one)***, and modern practice uses brief-pulse, unilateral or bitemporal stimulation under anaesthesia with a muscle relaxant.
 - ***CATATONIA WITH WAXY FLEXIBILITY AND FOOD REFUSAL IS A MEDICAL EMERGENCY — GIVE A LORAZEPAM CHALLENGE FIRST, AND USE ECT IF IT FAILS OR THE PATIENT IS DETERIORATING.***
-- **Suicide risk factors ("SAD PERSONS"): ***Sex (male — higher completion; female — higher attempts), Age (adolescent and elderly), Depression, Previous attempt (the STRONGEST single predictor), Ethanol/substance use, Rational thinking loss (psychosis), Social support lacking, Organised plan, No spouse, Sickness (chronic illness).*** ***ALWAYS ASK DIRECTLY ABOUT SUICIDE — ASKING DOES NOT PLANT THE IDEA.***
+- **Suicide risk factors ("SAD PERSONS"):** *Sex (male — higher completion; female — higher attempts), Age (adolescent and elderly), Depression, Previous attempt (the STRONGEST single predictor), Ethanol/substance use, Rational thinking loss (psychosis), Social support lacking, Organised plan, No spouse, Sickness (chronic illness).*** ***ALWAYS ASK DIRECTLY ABOUT SUICIDE — ASKING DOES NOT PLANT THE IDEA.***
 - **In bipolar disorder, ***SUICIDE RISK IS HIGHEST IN THE DEPRESSIVE AND MIXED PHASES, NOT IN MANIA***; and ***LITHIUM IS THE ONLY PSYCHOTROPIC WITH A DEMONSTRATED ANTI-SUICIDE EFFECT.***
-- **Non-pharmacological neuromodulation: ***ECT, REPETITIVE TRANSCRANIAL MAGNETIC STIMULATION (depression, OCD, PTSD), VAGUS NERVE STIMULATION (LEFT vagus, for chronic treatment-resistant depression), SLEEP DEPRIVATION (a transient antidepressant effect), and BRIGHT LIGHT therapy for seasonal depression.*** ***SYSTEMATIC DESENSITISATION IS A TREATMENT FOR PHOBIAS, NOT FOR DEPRESSION.***
+- **Non-pharmacological neuromodulation:** *ECT, REPETITIVE TRANSCRANIAL MAGNETIC STIMULATION (depression, OCD, PTSD), VAGUS NERVE STIMULATION (LEFT vagus, for chronic treatment-resistant depression), SLEEP DEPRIVATION (a transient antidepressant effect), and BRIGHT LIGHT therapy for seasonal depression.*** ***SYSTEMATIC DESENSITISATION IS A TREATMENT FOR PHOBIAS, NOT FOR DEPRESSION.***
 
 **EXAM CONNECTION:** Differentiates mania from hypomania → **hallucinations (psychotic features)**; when suicide risk is greatest → **soon after starting antidepressant medication**; treatment of choice for catatonia with psychotic depression and food refusal → **ECT**; NOT a treatment for depression → **systematic desensitisation**.
+
+**ALSO KNOW:** Persistently elevated/irritable mood with increased activity/energy lasting **at least 4 days** — same symptoms as mania but **without marked impairment in social/occupational functioning, no hospitalization, and NO psychotic features**. **Any psychotic feature makes it mania by definition.**
 
 **REMEMBER:** *Energy comes back before hope does — watch the patient hardest in the third week.*
 
@@ -379,10 +387,10 @@
 **MUST KNOW:**
 
 - ***"DOUBLE DEPRESSION" — a major depressive episode superimposed on dysthymia — is common and carries a worse prognosis and higher relapse rate.*** Treat with an antidepressant plus psychotherapy; dysthymia responds less completely than acute depression.
-- **Tic disorder facts: ***commonest in SCHOOL-AGE BOYS, peaking at 10–12 years and usually REMITTING BY LATE ADOLESCENCE; strongly comorbid with ADHD AND OCD.*** ***TREAT ONLY IF THE TICS CAUSE DISTRESS OR IMPAIRMENT — first-line is HABIT REVERSAL/comprehensive behavioural intervention; then alpha-2 agonists (clonidine, guanfacine — especially useful when ADHD coexists) and, for severe tics, antipsychotics (risperidone, aripiprazole, haloperidol) or tetrabenazine.***
+- **Tic disorder facts:** *commonest in SCHOOL-AGE BOYS, peaking at 10–12 years and usually REMITTING BY LATE ADOLESCENCE; strongly comorbid with ADHD AND OCD.*** ***TREAT ONLY IF THE TICS CAUSE DISTRESS OR IMPAIRMENT — first-line is HABIT REVERSAL/comprehensive behavioural intervention; then alpha-2 agonists (clonidine, guanfacine — especially useful when ADHD coexists) and, for severe tics, antipsychotics (risperidone, aripiprazole, haloperidol) or tetrabenazine.***
 - ***PROVISIONAL TIC DISORDER lasts <1 YEAR and is common and benign; COPROLALIA occurs in only a MINORITY of Tourette patients despite its fame.***
 - **Distinguish tics from ***stereotypies (rhythmic, fixed, soothing — autism, intellectual disability), chorea (flowing, non-suppressible), myoclonus (no urge), dystonia and compulsions (performed to neutralise an obsession).***
-- **Depression across the lifespan: ***CHILDREN more often present with IRRITABILITY, somatic complaints and school refusal than with sadness; the ELDERLY present with cognitive impairment ("PSEUDODEMENTIA" — the patient complains of memory loss, answers "I don't know", and improves with antidepressant treatment) — a crucial reversible mimic of dementia.***
+- **Depression across the lifespan:** *CHILDREN more often present with IRRITABILITY, somatic complaints and school refusal than with sadness; the ELDERLY present with cognitive impairment ("PSEUDODEMENTIA" — the patient complains of memory loss, answers "I don't know", and improves with antidepressant treatment) — a crucial reversible mimic of dementia.***
 
 **EXAM CONNECTION:** Duration for dysthymia in a child → **1 year**; motor tics alone for over a year in a 9-year-old → **persistent (chronic) motor tic disorder**.
 
@@ -408,6 +416,8 @@
 - **Always assess suicide risk** — psychotic depression carries a substantially higher risk than non-psychotic depression.
 
 **EXAM CONNECTION:** Look for **depression PLUS a delusion whose theme matches the mood**. Delusional disorder and schizophrenia both require the **absence** of a primary mood disorder.
+
+**ALSO KNOW:** *Psychotic depression needs two drugs — or ECT.*
 
 **REMEMBER:** *When the delusion says what the depression feels, the depression is the diagnosis.*
 
@@ -467,27 +477,7 @@
 
 ---
 
-### 24. Hypomania
-
-**PEARL:** Persistently elevated/irritable mood with increased activity/energy lasting **at least 4 days** — same symptoms as mania but **without marked impairment in social/occupational functioning, no hospitalization, and NO psychotic features**. **Any psychotic feature makes it mania by definition.**
-
-**MUST KNOW:** Mania requires **≥7 days** (or any duration if hospitalized). Hypomania + a depressive episode = **BPAD II**; mania (with or without depression) = **BPAD I**.
-
-**REMEMBER:** *4 days, no impairment, no psychosis = hypomania. Psychosis upgrades it to mania.*
-
----
-
-### 25. Rapid Cycling
-
-**PEARL:** **≥4 mood episodes in 12 months**. It is more strongly associated with **BPAD II than BPAD I**.
-
-**MUST KNOW:** Also associated with **female sex, hypothyroidism, and antidepressant use** (which can induce cycling). **Lithium works poorly** in rapid cycling — prefer **valproate/lamotrigine**, and stop the antidepressant.
-
-**REMEMBER:** *4 episodes a year, commoner in BPAD II, lithium disappoints.*
-
----
-
-### 26. Biogenic Amines in Mania
+### 24. Biogenic Amines in Mania
 
 **PEARL:** In mania there is an **increase in norepinephrine and dopamine**.
 
@@ -497,7 +487,7 @@
 
 ---
 
-### 27. Mood-Congruent vs Mood-Incongruent Delusions
+### 25. Mood-Congruent vs Mood-Incongruent Delusions
 
 **PEARL:**
 
@@ -510,41 +500,9 @@
 
 ---
 
-### 28. Psychotic Depression — Treatment
-
-**PEARL:** Depression with psychotic features (e.g. delusion of guilt) is treated with an **antidepressant PLUS an antipsychotic**.
-
-**MUST KNOW:** **ECT** is highly effective and is the treatment of choice when there is **suicidal risk, stupor, or refusal of food** — an antidepressant alone is inadequate.
-
-**REMEMBER:** *Psychotic depression needs two drugs — or ECT.*
-
----
-
-### 29. Atypical Depression
-
-**PEARL:** **Mood reactivity** (mood lifts with positive events) + **hypersomnia + weight gain/hyperphagia + leaden paralysis** (heavy limbs) + rejection sensitivity.
-
-**MUST KNOW:** It is the **reverse vegetative pattern** of melancholia (which has early-morning waking, weight loss, anhedonia, diurnal variation worse in the morning, and **no** mood reactivity). Classically responds well to **MAO inhibitors**; SSRIs are used first-line in practice.
-
-**REMEMBER:** *Atypical = eats more, sleeps more, still reacts to good news.*
-
----
-
-### 30. Suicide in Bipolar Disorder
-
-**PEARL:** Suicide attempts occur in about **15%** of people with bipolar disorder.
-
-**MUST KNOW:** **Lithium is the only psychotropic with a proven anti-suicidal effect.** Risk is highest in **depressive and mixed** episodes, not manic ones.
-
-**REMEMBER:** *15% attempt; lithium is the protective drug.*
-
----
-
----
-
 ## Anxiety, OCD, Trauma and Related Disorders
 
-### 31. Obsessive–Compulsive Disorder
+### 26. Obsessive–Compulsive Disorder
 
 **PEARL:** ***DEPRESSION IS THE COMMONEST COMORBIDITY OF OCD (lifetime prevalence ~67%).*** Its prevalence is about ***2–3% (not 7–10%)***, ***CONTAMINATION IS THE COMMONEST OBSESSION*** (with washing compulsions), and ***SSRIs (at HIGHER doses and for LONGER than in depression) PLUS EXPOSURE AND RESPONSE PREVENTION ARE FIRST-LINE — antipsychotics are only ADJUNCTS in resistant cases.*** ***HOARDING RESPONDS POORLY TO EXPOSURE AND RESPONSE PREVENTION.***
 
@@ -552,10 +510,10 @@
 
 **MUST KNOW:**
 
-- **Definitions: an ***OBSESSION is a recurrent, intrusive, EGO-DYSTONIC thought/image/urge recognised as one's own (unlike thought insertion) and resisted; a COMPULSION is a repetitive behaviour or mental act performed to reduce that distress.*** Symptom patterns in order: ***contamination/washing > pathological doubt/checking > intrusive thoughts (aggressive, sexual, religious) > symmetry/ordering.***
-- **Treatment specifics: ***fluoxetine, fluvoxamine, sertraline, paroxetine or CLOMIPRAMINE (the most effective tricyclic, and historically the gold standard); allow 8–12 WEEKS at high dose before declaring failure; augment with risperidone/aripiprazole; DEEP BRAIN STIMULATION or cingulotomy in severe refractory cases.***
+- **Definitions: an ***OBSESSION is a recurrent, intrusive, EGO-DYSTONIC thought/image/urge recognised as one's own (unlike thought insertion) and resisted; a COMPULSION is a repetitive behaviour or mental act performed to reduce that distress.*** Symptom patterns in order:** *contamination/washing > pathological doubt/checking > intrusive thoughts (aggressive, sexual, religious) > symmetry/ordering.***
+- **Treatment specifics:** *fluoxetine, fluvoxamine, sertraline, paroxetine or CLOMIPRAMINE (the most effective tricyclic, and historically the gold standard); allow 8–12 WEEKS at high dose before declaring failure; augment with risperidone/aripiprazole; DEEP BRAIN STIMULATION or cingulotomy in severe refractory cases.***
 - ***PANDAS*** — paediatric acute-onset OCD/tics after group A streptococcal infection — is the classic paediatric association; also consider OCD in Tourette syndrome (30–40% overlap).
-- **Related "obsessive–compulsive spectrum" disorders: ***BODY DYSMORPHIC DISORDER, hoarding disorder, trichotillomania, excoriation disorder and hypochondriasis.***
+- **Related "obsessive–compulsive spectrum" disorders:** *BODY DYSMORPHIC DISORDER, hoarding disorder, trichotillomania, excoriation disorder and hypochondriasis.***
 - ***DISTINGUISH OBSESSIVE–COMPULSIVE PERSONALITY DISORDER — EGOSYNTONIC perfectionism, rigidity and preoccupation with order and control, WITHOUT true obsessions or compulsions and WITHOUT distress about the traits themselves.***
 
 **EXAM CONNECTION:** True about OCD → **depression is a common comorbidity**; poor response to exposure and response prevention → **hoarding**.
@@ -566,7 +524,7 @@
 
 ---
 
-### 32. Body Dysmorphic Disorder
+### 27. Body Dysmorphic Disorder
 
 **PEARL:** **A patient preoccupied with a ***NON-EXISTENT OR TRIVIAL DEFECT IN APPEARANCE***, checking repeatedly in mirrors and reflective surfaces, demanding cosmetic surgery despite reassurance, has ***BODY DYSMORPHIC DISORDER*** — ***TREAT WITH AN SSRI (fluoxetine, or clomipramine) PLUS COGNITIVE BEHAVIOURAL THERAPY.*** ***COSMETIC SURGERY MUST NOT BE ENDORSED*** — it does not resolve the preoccupation and is usually followed by dissatisfaction or a new focus.
 
@@ -576,11 +534,13 @@
 
 - ***THE RISK IS SUICIDE, NOT SURGERY: BDD carries one of the HIGHEST SUICIDE RATES OF ANY PSYCHIATRIC DISORDER***, along with severe social avoidance, unemployment and being housebound. Always ask directly.
 - **Common foci: skin (blemishes, scars), hair, nose, and — in men — ***MUSCLE DYSMORPHIA ("bigorexia"), often with anabolic steroid misuse.***
-- **The surgeon–psychiatrist interface: ***repeated visits to multiple cosmetic surgeons, dissatisfaction with previous procedures and requests disproportionate to any visible flaw are the red flags*** that should trigger psychiatric referral rather than an operation.
-- **Differentials: ***normal appearance concerns (not distressing or time-consuming), EATING DISORDERS (concern confined to weight and shape), gender dysphoria, and delusional disorder (somatic type) — and OLFACTORY REFERENCE SYNDROME as a related entity.***
+- **The surgeon–psychiatrist interface:** *repeated visits to multiple cosmetic surgeons, dissatisfaction with previous procedures and requests disproportionate to any visible flaw are the red flags*** that should trigger psychiatric referral rather than an operation.
+- **Differentials:** *normal appearance concerns (not distressing or time-consuming), EATING DISORDERS (concern confined to weight and shape), gender dysphoria, and delusional disorder (somatic type) — and OLFACTORY REFERENCE SYNDROME as a related entity.***
 - **Screening for eating disorders uses the ***SCOFF questionnaire — Sick (do you make yourself sick when uncomfortably full?), Control (lost control over eating?), One stone (lost >6.35 kg in 3 months?), Fat (believe yourself fat when others say you are thin?), Food (does food dominate your life?) — TWO OR MORE "YES" ANSWERS SUGGESTS ANOREXIA OR BULIMIA NERVOSA.***
 
 **EXAM CONNECTION:** Patient demanding facial reconstruction for imagined blemishes → **start an SSRI**; SCOFF questionnaire → **eating disorders**.
+
+**ALSO KNOW:** **SSRIs are the drug of choice**, usually with **CBT** — especially when insight is poor or absent. **Surgery is contraindicated** because it does not touch the underlying psychopathology (and patients are typically dissatisfied afterwards). BDD is classified under **obsessive-compulsive and related disorders** in DSM-5 (with hoarding, trichotillomania, excoriation disorder). Requires **higher SSRI doses** and longer trials than depression. High suicide risk. *BDD = OCD-family → SSRI + CBT, never the scalpel.*
 
 **REMEMBER:** *The mirror is the compulsion — operating on it changes nothing.*
 
@@ -588,29 +548,7 @@
 
 ---
 
-### 33. Panic Disorder and the Organic Mimics of Anxiety
-
-**PEARL:** **A panic attack is a ***SUDDEN SURGE OF INTENSE FEAR PEAKING WITHIN MINUTES***, with ≥4 of: palpitations, sweating, trembling, breathlessness, choking sensation, chest pain, nausea, dizziness, chills or flushes, paraesthesiae, ***DEREALISATION/DEPERSONALISATION***, fear of losing control and fear of dying. ***IT DOES NOT REQUIRE A TRIGGER — UNEXPECTED (uncued) ATTACKS ARE THE HALLMARK OF PANIC DISORDER***, though attacks also occur in specific and social phobia and in PTSD, where they are cued. In a young woman with anxiety, tremor and doom, ***THYROID FUNCTION, BLOOD GLUCOSE AND CARDIAC ASSESSMENT ARE USEFUL; UREA AND CREATININE ARE NOT.***
-
-**UNDERSTAND:** Panic attacks feel physical because they ***ARE physical*** — a sudden autonomic discharge. The disorder is maintained by a ***CATASTROPHIC MISINTERPRETATION OF THOSE BODILY SENSATIONS*** ("my heart is racing → I am having a heart attack"), which generates more anxiety and more symptoms in a vicious circle, followed by avoidance and, eventually, ***AGORAPHOBIA.*** That cognitive model is exactly what CBT dismantles — by interoceptive exposure (deliberately inducing the sensations) and by testing the catastrophic prediction.
-
-**MUST KNOW:**
-
-- ***THE ORGANIC DIFFERENTIAL OF ANXIETY: HYPOGLYCAEMIA, HYPERTHYROIDISM, PHAEOCHROMOCYTOMA, arrhythmia and myocardial infarction, MITRAL VALVE PROLAPSE, asthma and pulmonary embolism, temporal lobe epilepsy, and drugs (caffeine, stimulants, salbutamol, thyroxine, steroids) or WITHDRAWAL (alcohol, benzodiazepines).***
-- **Treatment: ***SSRIs (start LOW and go SLOW — an initial jitteriness can be mistaken for worsening) or SNRIs are first-line, PLUS CBT (the treatment with the most durable effect). BENZODIAZEPINES give rapid relief but risk dependence and should be short-term only.***
-- **Definitions to separate: ***PANIC DISORDER (recurrent unexpected attacks + ≥1 month of worry about further attacks or maladaptive change in behaviour); AGORAPHOBIA (fear of situations where escape is difficult); SOCIAL ANXIETY DISORDER (fear of scrutiny and humiliation — beta-blockers are useful for the performance subtype); SPECIFIC PHOBIA (treated by graded exposure/SYSTEMATIC DESENSITISATION); GENERALISED ANXIETY DISORDER (≥6 months of excessive worry about multiple domains).***
-- ***HYPERVENTILATION EXPLAINS THE PARAESTHESIAE AND CARPOPEDAL SPASM — respiratory alkalosis lowers ionised calcium.*** Rebreathing is no longer advised (it is dangerous if the diagnosis is wrong); slow controlled breathing and reassurance are.
-- **In children, anxiety often presents behaviourally: ***SELECTIVE MUTISM (consistent failure to speak in specific social situations — usually school — despite speaking normally at home) IS AN ANXIETY DISORDER, closely related to social anxiety, and is treated with CBT (and SSRIs if severe) — NOT with speech therapy alone.***
-
-**EXAM CONNECTION:** False about panic attacks → **that they occur only in the presence of a trigger**; least useful investigation → **serum urea and creatinine**; a child with selective mutism → **childhood anxiety disorder**.
-
-**REMEMBER:** *An unexpected attack out of a clear sky is the signature of panic disorder.*
-
-`Q10400, Q10312, Q10130`
-
----
-
-### 34. OCD-Related Disorders and Their Classification
+### 28. OCD-Related Disorders and Their Classification
 
 **PEARL:** ***IN DSM-5, THE "OBSESSIVE–COMPULSIVE AND RELATED DISORDERS" ARE: OCD, BODY DYSMORPHIC DISORDER, HOARDING DISORDER, TRICHOTILLOMANIA and EXCORIATION (skin-picking) DISORDER. HYPOCHONDRIASIS IS NOT AMONG THEM — DSM-5 RECLASSIFIED IT AS "ILLNESS ANXIETY DISORDER" UNDER SOMATIC SYMPTOM AND RELATED DISORDERS*** (whereas ***ICD-11 KEEPS HYPOCHONDRIASIS WITHIN THE OCD-RELATED GROUP***). ***TRICHOTILLOMANIA AND EXCORIATION DISORDER ARE THE "BODY-FOCUSED REPETITIVE BEHAVIOUR DISORDERS" IN ICD-11.***
 
@@ -620,7 +558,7 @@
 
 - ***AN OBSESSION IS EGO-DYSTONIC AND RESISTED, AND THE PATIENT RECOGNISES IT AS THEIR OWN THOUGHT.*** That is what separates ***intrusive sexual/aggressive/blasphemous obsessions in OCD (distressing, contrary to the person's values, never acted upon) from the impulsivity of mania or borderline personality disorder, and from thought insertion in schizophrenia.***
 - **The "checking for rabies after seeing a dog" scenario is ***OCD, not a phobia and not illness anxiety disorder***, because the defining features are ***INTRUSIVE THOUGHTS PLUS REPETITIVE CHECKING/REASSURANCE-SEEKING RITUALS*** rather than avoidance of the animal or a general preoccupation with being ill.
-- **Treatment across the group: ***high-dose SSRI (or clomipramine) with an adequate 8–12-week trial, plus ERP; HABIT REVERSAL TRAINING for trichotillomania and excoriation; N-acetylcysteine has some evidence in the body-focused behaviours; antipsychotic augmentation for refractory OCD (especially with tics).***
+- **Treatment across the group:** *high-dose SSRI (or clomipramine) with an adequate 8–12-week trial, plus ERP; HABIT REVERSAL TRAINING for trichotillomania and excoriation; N-acetylcysteine has some evidence in the body-focused behaviours; antipsychotic augmentation for refractory OCD (especially with tics).***
 - ***PSYCHOSURGERY IS RESERVED FOR SEVERE, CHRONIC, TREATMENT-REFRACTORY OCD (and depression) — ANTERIOR CINGULOTOMY (bilateral stereotactic lesions of the anterior cingulate cortex) and SUBCAUDATE TRACTOTOMY/anterior CAPSULOTOMY, with DEEP BRAIN STIMULATION as the reversible modern alternative.*** ***PREFRONTAL LEUCOTOMY, introduced by EGAS MONIZ (Nobel Prize 1949), is of historical interest only.***
 - **Screen for the whole spectrum when one member is found — ***they cluster in individuals and in families, along with tic disorders.***
 
@@ -638,7 +576,7 @@
 
 ---
 
-### 35. Anxiety Disorders — Classification and First-Line Treatment
+### 29. Anxiety Disorders — Classification and First-Line Treatment
 
 **PEARL:** ***POST-TRAUMATIC STRESS DISORDER IS NOT AN ANXIETY DISORDER IN DSM-5 — it sits under "TRAUMA- AND STRESSOR-RELATED DISORDERS"*** (and in ICD-11 under disorders specifically associated with stress). The anxiety disorders proper are ***separation anxiety disorder, SELECTIVE MUTISM, specific phobia, SOCIAL ANXIETY DISORDER, PANIC DISORDER, AGORAPHOBIA, and GENERALISED ANXIETY DISORDER.*** ***SSRIs (e.g. SERTRALINE) PLUS CBT ARE FIRST-LINE FOR GENERALISED ANXIETY DISORDER***, with buspirone second-line and benzodiazepines only for short-term crisis use. ***AGORAPHOBIA = fear of situations from which escape would be difficult*** (crowds, public transport, open spaces).
 
@@ -647,8 +585,8 @@
 **MUST KNOW:**
 
 - ***PTSD: exposure to actual or threatened death/serious injury, followed by (1) INTRUSION — flashbacks and NIGHTMARES, (2) AVOIDANCE of reminders, (3) NEGATIVE alterations in cognition and mood, and (4) HYPERAROUSAL — lasting >1 MONTH.*** ***ACUTE STRESS DISORDER is the same picture lasting 3 DAYS TO 1 MONTH; an ACUTE STRESS REACTION appears within hours and settles in days.*** ***ADJUSTMENT DISORDER follows an ordinary (non-catastrophic) stressor within 3 months and resolves within 6 months of its removal.***
-- **PTSD treatment: ***TRAUMA-FOCUSED CBT AND EMDR ARE FIRST-LINE; SSRIs (sertraline, paroxetine) are the drugs of choice; PRAZOSIN for nightmares.*** ***ROUTINE SINGLE-SESSION "DEBRIEFING" AFTER TRAUMA IS INEFFECTIVE AND MAY BE HARMFUL***, and benzodiazepines are best avoided.
-- **Phobia vocabulary: ***specific phobia is the COMMONEST phobia (and one of the commonest psychiatric disorders); CLAUSTROPHOBIA — enclosed spaces; ACROPHOBIA — heights; AEROPHOBIA — flying; ailurophobia — cats; the treatment of choice for a specific phobia is GRADED EXPOSURE/SYSTEMATIC DESENSITISATION.***
+- **PTSD treatment:** *TRAUMA-FOCUSED CBT AND EMDR ARE FIRST-LINE; SSRIs (sertraline, paroxetine) are the drugs of choice; PRAZOSIN for nightmares.*** ***ROUTINE SINGLE-SESSION "DEBRIEFING" AFTER TRAUMA IS INEFFECTIVE AND MAY BE HARMFUL***, and benzodiazepines are best avoided.
+- **Phobia vocabulary:** *specific phobia is the COMMONEST phobia (and one of the commonest psychiatric disorders); CLAUSTROPHOBIA — enclosed spaces; ACROPHOBIA — heights; AEROPHOBIA — flying; ailurophobia — cats; the treatment of choice for a specific phobia is GRADED EXPOSURE/SYSTEMATIC DESENSITISATION.***
 - ***GLOBALLY, ANXIETY DISORDERS ARE THE COMMONEST PSYCHIATRIC ILLNESS (WHO), with depression the leading single cause of disability***; in India, ***ALCOHOL IS THE COMMONEST SUBSTANCE OF ABUSE, while CANNABIS is the commonest ILLICIT drug worldwide (its principal psychoactive constituent is TETRAHYDROCANNABINOL).***
 - ***ECT IS NOT INDICATED IN PANIC DISORDER OR OTHER ANXIETY DISORDERS, NOR IN PERSONALITY DISORDERS*** — its indications are severe depression (especially psychotic or suicidal), mania, catatonia, acute schizophrenia exacerbation, schizoaffective disorder, neuroleptic malignant syndrome and Parkinson disease with severe motor fluctuations.
 
@@ -660,7 +598,7 @@
 
 ---
 
-### 36. Panic Disorder
+### 30. Panic Disorder
 
 **PEARL:** **Recurrent, abrupt, unexpected surges of intense fear with a feeling of impending doom and autonomic symptoms, followed by ≥ 1 month of worry about further attacks = PANIC DISORDER.**
 
@@ -677,6 +615,8 @@
 
 **EXAM CONNECTION:** The stem's giveaway is the **abrupt, episodic, situationally triggered surge with a sense of impending doom** — episodic distinguishes it from GAD, and the absence of a social/performance focus distinguishes it from social anxiety.
 
+**ALSO KNOW:** **A panic attack is a** SUDDEN SURGE OF INTENSE FEAR PEAKING WITHIN MINUTES**, with ≥4 of: palpitations, sweating, trembling, breathlessness, choking sensation, chest pain, nausea, dizziness, chills or flushes, paraesthesiae,** DEREALISATION/DEPERSONALISATION**, fear of losing control and fear of dying.** IT DOES NOT REQUIRE A TRIGGER — UNEXPECTED (uncued) ATTACKS ARE THE HALLMARK OF PANIC DISORDER**, though attacks also occur in specific and social phobia and in PTSD, where they are cued. In a young woman with anxiety, tremor and doom,** THYROID FUNCTION, BLOOD GLUCOSE AND CARDIAC ASSESSMENT ARE USEFUL; UREA AND CREATININE ARE NOT. **Panic attacks feel physical because they** ARE physical **— a sudden autonomic discharge. The disorder is maintained by a** CATASTROPHIC MISINTERPRETATION OF THOSE BODILY SENSATIONS **("my heart is racing → I am having a heart attack"), which generates more anxiety and more symptoms in a vicious circle, followed by avoidance and, eventually,** AGORAPHOBIA. **That cognitive model is exactly what CBT dismantles — by interoceptive exposure (deliberately inducing the sensations) and by testing the catastrophic prediction.** THE ORGANIC DIFFERENTIAL OF ANXIETY: HYPOGLYCAEMIA, HYPERTHYROIDISM, PHAEOCHROMOCYTOMA, arrhythmia and myocardial infarction, MITRAL VALVE PROLAPSE, asthma and pulmonary embolism, temporal lobe epilepsy, and drugs (caffeine, stimulants, salbutamol, thyroxine, steroids) or WITHDRAWAL (alcohol, benzodiazepines). ****Treatment: **SSRIs (start LOW and go SLOW — an initial jitteriness can be mistaken for worsening) or SNRIs are first-line, PLUS CBT (the treatment with the most durable effect). BENZODIAZEPINES give rapid relief but risk dependence and should be short-term only.** **Definitions to separate:** PANIC DISORDER (recurrent unexpected attacks + ≥1 month of worry about further attacks or maladaptive change in behaviour); AGORAPHOBIA (fear of situations where escape is difficult); SOCIAL ANXIETY DISORDER (fear of scrutiny and humiliation — beta-blockers are useful for the performance subtype); SPECIFIC PHOBIA (treated by graded exposure/SYSTEMATIC DESENSITISATION); GENERALISED ANXIETY DISORDER (≥6 months of excessive worry about multiple domains). ****HYPERVENTILATION EXPLAINS THE PARAESTHESIAE AND CARPOPEDAL SPASM — respiratory alkalosis lowers ionised calcium. **Rebreathing is no longer advised (it is dangerous if the diagnosis is wrong); slow controlled breathing and reassurance are.** In children, anxiety often presents behaviourally: **SELECTIVE MUTISM (consistent failure to speak in specific social situations — usually school — despite speaking normally at home) IS AN ANXIETY DISORDER, closely related to social anxiety, and is treated with CBT (and SSRIs if severe) — NOT with speech therapy alone.**
+
 **REMEMBER:** *It is the fear of the next attack that makes it a disorder.*
 
 **IMAGES:**
@@ -686,17 +626,7 @@
 
 ---
 
-### 37. Body Dysmorphic Disorder
-
-**PEARL:** **SSRIs are the drug of choice**, usually with **CBT** — especially when insight is poor or absent. **Surgery is contraindicated** because it does not touch the underlying psychopathology (and patients are typically dissatisfied afterwards).
-
-**MUST KNOW:** BDD is classified under **obsessive-compulsive and related disorders** in DSM-5 (with hoarding, trichotillomania, excoriation disorder). Requires **higher SSRI doses** and longer trials than depression. High suicide risk.
-
-**REMEMBER:** *BDD = OCD-family → SSRI + CBT, never the scalpel.*
-
----
-
-### 38. Olfactory Reference Disorder
+### 31. Olfactory Reference Disorder
 
 **PEARL:** A **new ICD-11 diagnosis** — persistent preoccupation that one **emits a foul body odour or bad breath**, which others cannot perceive.
 
@@ -706,7 +636,7 @@
 
 ---
 
-### 39. PTSD Classification
+### 32. PTSD Classification
 
 **PEARL:** In **DSM-5**, PTSD is classified under **Trauma- and Stressor-Related Disorders** — it is **no longer an anxiety disorder**.
 
@@ -720,7 +650,7 @@
 
 ## Somatic Symptom Disorders
 
-### 40. Conversion Disorder
+### 33. Conversion Disorder
 
 **PEARL:** **Sudden loss of a neurological function (blindness, paralysis, aphonia, pseudoseizures) ***temporally related to a PSYCHOSOCIAL STRESSOR***, with normal examination and investigations and a striking lack of concern (***LA BELLE INDIFFÉRENCE***) = ***CONVERSION (functional neurological symptom) DISORDER.*** ***IT IS COMMONER IN FEMALES AT ALL AGES — INCLUDING IN CHILDREN*** — and the symptoms are ***NOT intentionally produced.***
 
@@ -730,11 +660,13 @@
 
 - ***DIAGNOSIS IS NOW MADE ON POSITIVE CLINICAL SIGNS OF INTERNAL INCONSISTENCY — NOT BY EXCLUSION ALONE: HOOVER'S SIGN (involuntary hip extension of the "paralysed" leg when the good leg flexes against resistance), a tubular/inconsistent visual field, preserved optokinetic nystagmus in "blindness", "give-way" weakness, and a positive tremor entrainment test.***
 - **Distinguish ***PSEUDOSEIZURES (dissociative/functional seizures) from epilepsy: gradual onset, longer duration, PELVIC THRUSTING, side-to-side head movement, eyes CLOSED and resisting opening, no post-ictal confusion, NORMAL serum PROLACTIN and a NORMAL ictal EEG — video-EEG is definitive.***
-- **Management: ***EXPLAIN THE DIAGNOSIS POSITIVELY AND WITHOUT IMPLYING PRETENCE ("your nervous system is not working properly, though the structure is intact"), PHYSIOTHERAPY AND CBT, treat comorbid depression and anxiety, avoid repeated investigations and avoid confrontation.*** Prognosis is best with acute onset, an identifiable stressor and early treatment.
+- **Management:** *EXPLAIN THE DIAGNOSIS POSITIVELY AND WITHOUT IMPLYING PRETENCE ("your nervous system is not working properly, though the structure is intact"), PHYSIOTHERAPY AND CBT, treat comorbid depression and anxiety, avoid repeated investigations and avoid confrontation.*** Prognosis is best with acute onset, an identifiable stressor and early treatment.
 - ***ABREACTION*** — reliving a repressed traumatic experience with emotional discharge — is the specific technique classically used here (and in dissociative disorders); ***CATHARSIS is the broader term for the release of pent-up emotion.***
-- **Related somatic-symptom disorders: ***SOMATIC SYMPTOM DISORDER (distressing physical symptoms with disproportionate thoughts and behaviours), ILLNESS ANXIETY DISORDER (fear of having a disease with few symptoms), and DISSOCIATIVE disorders (amnesia, fugue, identity disorder) — all managed with regular scheduled review with ONE doctor rather than symptom-driven investigation.***
+- **Related somatic-symptom disorders:** *SOMATIC SYMPTOM DISORDER (distressing physical symptoms with disproportionate thoughts and behaviours), ILLNESS ANXIETY DISORDER (fear of having a disease with few symptoms), and DISSOCIATIVE disorders (amnesia, fugue, identity disorder) — all managed with regular scheduled review with ONE doctor rather than symptom-driven investigation.***
 
 **EXAM CONNECTION:** Sudden blindness with la belle indifférence after bereavement → **conversion disorder, commoner in girls**; emotional release on reliving a repressed experience → **abreaction**.
+
+**ALSO KNOW:** **Conversion disorder = functional neurological symptom disorder** — symptoms affecting **voluntary motor or sensory function** that suggest a neurological condition but are incompatible with it. *Neurology that doesn't obey anatomy, produced unconsciously.*
 
 **REMEMBER:** *Unconscious symptom, unconscious motive — the moment intent appears, the diagnosis changes.*
 
@@ -742,7 +674,7 @@
 
 ---
 
-### 41. Somatic Symptom Disorders
+### 34. Somatic Symptom Disorders
 
 **PEARL:** ***HYPOCHONDRIASIS (illness anxiety disorder) = A PERSISTENT PREOCCUPATION WITH THE FEAR OR BELIEF OF HAVING A SERIOUS DISEASE, based on misinterpretation of bodily sensations, PERSISTING DESPITE NORMAL INVESTIGATIONS AND REASSURANCE, with repeated doctor-shopping.*** ***THE DISCRIMINATOR: IN HYPOCHONDRIASIS THE PATIENT PRESENTS WITH A DIAGNOSIS ("I have cancer"); IN SOMATISATION DISORDER THE PATIENT PRESENTS WITH MULTIPLE SYMPTOMS across several organ systems.***
 
@@ -750,10 +682,10 @@
 
 **MUST KNOW:**
 
-- **The group in DSM-5: ***SOMATIC SYMPTOM DISORDER (distressing physical symptoms plus disproportionate thoughts/feelings/behaviours), ILLNESS ANXIETY DISORDER (fear of illness with FEW or NO symptoms), CONVERSION DISORDER, FACTITIOUS DISORDER, and psychological factors affecting other medical conditions.***
+- **The group in DSM-5:** *SOMATIC SYMPTOM DISORDER (distressing physical symptoms plus disproportionate thoughts/feelings/behaviours), ILLNESS ANXIETY DISORDER (fear of illness with FEW or NO symptoms), CONVERSION DISORDER, FACTITIOUS DISORDER, and psychological factors affecting other medical conditions.***
 - ***DISTINGUISH BY INTENT AND MOTIVE: SOMATIC SYMPTOM/CONVERSION — symptoms UNCONSCIOUSLY produced, no external incentive; FACTITIOUS DISORDER (MUNCHAUSEN) — CONSCIOUSLY produced for the SICK ROLE, no external incentive; MALINGERING — CONSCIOUSLY produced for an EXTERNAL incentive (money, drugs, avoiding work or prosecution) and is NOT a psychiatric diagnosis.*** ***FACTITIOUS DISORDER IMPOSED ON ANOTHER (Munchausen by proxy) IS A FORM OF CHILD ABUSE and must be reported.***
-- **Treatment: ***CBT has the best evidence; ANTIDEPRESSANTS help when depression or anxiety coexists (and SSRIs help illness anxiety directly); AVOID unnecessary tests, procedures and specialist referrals*** — iatrogenic harm is a real risk in this group.
-- **Body-related preoccupations to keep separate: ***BODY DYSMORPHIC DISORDER (appearance), OLFACTORY REFERENCE DISORDER (body odour), and delusional disorder somatic type (held with delusional conviction, e.g. delusional parasitosis).***
+- **Treatment:** *CBT has the best evidence; ANTIDEPRESSANTS help when depression or anxiety coexists (and SSRIs help illness anxiety directly); AVOID unnecessary tests, procedures and specialist referrals*** — iatrogenic harm is a real risk in this group.
+- **Body-related preoccupations to keep separate:** *BODY DYSMORPHIC DISORDER (appearance), OLFACTORY REFERENCE DISORDER (body odour), and delusional disorder somatic type (held with delusional conviction, e.g. delusional parasitosis).***
 - ***BEWARE THE PATIENT LABELLED "FUNCTIONAL" WHOSE SYMPTOMS CHANGE CHARACTER — organic disease and somatic symptom disorder frequently coexist***, and multiple sclerosis, SLE, porphyria, thyroid disease and early malignancy have all been missed this way.
 
 **EXAM CONNECTION:** Persistent belief of rotten intestines with normal investigations and repeated consultations → **hypochondriasis**.
@@ -764,7 +696,7 @@
 
 ---
 
-### 42. Hypochondriasis (Illness Anxiety Disorder)
+### 35. Hypochondriasis (Illness Anxiety Disorder)
 
 **PEARL:** **Persistent preoccupation with the fear or belief of having a serious disease, based on the person's own misinterpretation of bodily functions.**
 
@@ -774,43 +706,9 @@
 
 ---
 
-### 43. Conversion Disorder
-
-**PEARL:** **Conversion disorder = functional neurological symptom disorder** — symptoms affecting **voluntary motor or sensory function** that suggest a neurological condition but are incompatible with it.
-
-**MUST KNOW:** Classic features: **la belle indifférence**, symptoms not intentionally produced (**unconscious**, unlike malingering/factitious), preceded by a psychological stressor, with a **primary gain** (anxiety kept out of awareness). Signs: **Hoover's sign** in functional leg weakness. In **ICD**, it is grouped with the **dissociative** disorders.
-
-**REMEMBER:** *Neurology that doesn't obey anatomy, produced unconsciously.*
-
----
-
----
-
 ## Substance Use Disorders
 
-### 44. Alcohol Withdrawal and Delirium Tremens
-
-**PEARL:** ***DELIRIUM TREMENS IS PRECIPITATED BY SUDDEN (not gradual) WITHDRAWAL, AND IS STRONGLY PREDISPOSED TO BY INTERCURRENT PHYSICAL ILLNESS — ACUTE INFECTION, hepatitis, pancreatitis, trauma or surgery.*** It typically appears ***48–96 hours (often "the third day of admission") after the last drink***, after 5–15 years of heavy drinking. ***TREATMENT IS BENZODIAZEPINES — IV LORAZEPAM or oral CHLORDIAZEPOXIDE, in generous doses, tapered as symptoms settle — PLUS PARENTERAL THIAMINE.***
-
-**UNDERSTAND:** Alcohol is a ***GABA-A AGONIST AND NMDA ANTAGONIST***; chronic use down-regulates GABA receptors and up-regulates NMDA receptors. Sudden abstinence therefore leaves an ***UNOPPOSED GLUTAMATERGIC, SYMPATHETICALLY DRIVEN BRAIN*** — hence tremor, seizures, hallucinations, autonomic storm and delirium. Benzodiazepines work because they replace the missing GABA activity; anything else (antipsychotics alone, restraints) treats the symptom while the neurochemistry keeps escalating. ***THAT IS ALSO WHY DELIRIUM TREMENS CARRIES REAL MORTALITY (5–15% untreated) — it is a medical, not a behavioural, emergency.***
-
-**MUST KNOW:**
-
-- **Withdrawal timeline: ***TREMOR, anxiety and autonomic arousal 6–12 h; ALCOHOLIC HALLUCINOSIS (typically VISUAL or tactile, with CLEAR consciousness) 12–24 h; WITHDRAWAL SEIZURES ("rum fits", generalised) 24–48 h; DELIRIUM TREMENS (clouded consciousness, disorientation, vivid visual hallucinations, tremor, fever, tachycardia and diaphoresis) 48–96 h.***
-- ***GIVE THIAMINE BEFORE ANY GLUCOSE-CONTAINING FLUID*** — a glucose load in a thiamine-deficient patient precipitates WERNICKE ENCEPHALOPATHY. Also replace magnesium, potassium and folate, and monitor for hypoglycaemia.
-- **Regimens: ***symptom-triggered dosing by CIWA-Ar is superior to fixed schedules; use LORAZEPAM, OXAZEPAM or TEMAZEPAM IN LIVER DISEASE (glucuronidation only); PHENOBARBITONE (or propofol) for benzodiazepine-resistant delirium tremens; and ANTIPSYCHOTICS only as an adjunct for hallucinations — they LOWER THE SEIZURE THRESHOLD and do not treat the withdrawal.***
-- **Longer-term: ***NALTREXONE and ACAMPROSATE for craving, DISULFIRAM for aversion in a highly motivated patient, plus psychosocial support*** (see the pharmacology pearl).
-- **Alcohol-related neuropsychiatry to keep together: ***WERNICKE encephalopathy (acute, treatable) → KORSAKOFF psychosis (chronic amnesia), alcoholic hallucinosis, PATHOLOGICAL INTOXICATION, morbid jealousy (OTHELLO SYNDROME), MARCHIAFAVA–BIGNAMI disease (corpus callosum) and CENTRAL PONTINE MYELINOLYSIS after rapid sodium correction.***
-
-**EXAM CONNECTION:** Cause of delirium tremens in an alcoholic → **acute infection** (with sudden, not gradual, withdrawal); drug for withdrawal after admission → **lorazepam**.
-
-**REMEMBER:** *Chronic alcohol turns down GABA and turns up glutamate — stop the alcohol and the brain shouts.*
-
-`Q8901, Q8942`
-
----
-
-### 45. Substance Dependence and the Biology of Mood Disorders
+### 36. Substance Dependence and the Biology of Mood Disorders
 
 **PEARL:** ***TOLERANCE IS A CORE CRITERION FOR DEPENDENCE — "LACK OF TOLERANCE" ARGUES AGAINST IT.*** Dependence requires a cluster of: ***tolerance, WITHDRAWAL, use in larger amounts or longer than intended, unsuccessful efforts to CUT DOWN, great time spent obtaining/using/recovering, CRAVING, neglect of social, occupational and recreational activities, and CONTINUED USE DESPITE HARM.*** In mood disorders: ***CORTISOL IS RAISED IN DEPRESSION*** (with non-suppression on the dexamethasone suppression test), serotonin and noradrenaline function is reduced, and ***NORADRENALINE AND DOPAMINE ARE INCREASED IN MANIA.***
 
@@ -818,10 +716,10 @@
 
 **MUST KNOW:**
 
-- **ICD/DSM shift: ***DSM-5 MERGED "ABUSE" AND "DEPENDENCE" INTO A SINGLE "SUBSTANCE USE DISORDER" GRADED MILD/MODERATE/SEVERE*** by the number of criteria met; craving was added and legal problems removed.
-- **Monoamine facts commonly asked: ***5-HIAA (a serotonin metabolite) is LOW IN CSF IN SUICIDE AND IMPULSIVE VIOLENCE; HOMOVANILLIC ACID (a dopamine metabolite) is raised in schizophrenia; MHPG (a noradrenaline metabolite) is reduced in depression.*** ***THE MONOAMINE HYPOTHESIS IS INCOMPLETE — monoamine levels rise within hours but the clinical effect takes 2–4 weeks, implicating RECEPTOR DOWNREGULATION, BDNF and NEUROPLASTICITY*** (the rationale behind ketamine's rapid antidepressant action).
+- **ICD/DSM shift:** *DSM-5 MERGED "ABUSE" AND "DEPENDENCE" INTO A SINGLE "SUBSTANCE USE DISORDER" GRADED MILD/MODERATE/SEVERE*** by the number of criteria met; craving was added and legal problems removed.
+- **Monoamine facts commonly asked:** *5-HIAA (a serotonin metabolite) is LOW IN CSF IN SUICIDE AND IMPULSIVE VIOLENCE; HOMOVANILLIC ACID (a dopamine metabolite) is raised in schizophrenia; MHPG (a noradrenaline metabolite) is reduced in depression.*** ***THE MONOAMINE HYPOTHESIS IS INCOMPLETE — monoamine levels rise within hours but the clinical effect takes 2–4 weeks, implicating RECEPTOR DOWNREGULATION, BDNF and NEUROPLASTICITY*** (the rationale behind ketamine's rapid antidepressant action).
 - ***SLEEP CHANGES IN DEPRESSION ARE A RELIABLE BIOLOGICAL MARKER: SHORTENED REM LATENCY, INCREASED REM DENSITY, REDUCED SLOW-WAVE SLEEP AND EARLY-MORNING WAKENING.***
-- **Substance epidemiology for Indian exams: ***ALCOHOL is the commonest substance of abuse in India; TOBACCO/nicotine is the commonest overall if included; CANNABIS is the commonest ILLICIT drug worldwide, its main psychoactive constituent being DELTA-9-TETRAHYDROCANNABINOL (cannabidiol is NON-psychoactive and is used therapeutically in epilepsy).***
+- **Substance epidemiology for Indian exams:** *ALCOHOL is the commonest substance of abuse in India; TOBACCO/nicotine is the commonest overall if included; CANNABIS is the commonest ILLICIT drug worldwide, its main psychoactive constituent being DELTA-9-TETRAHYDROCANNABINOL (cannabidiol is NON-psychoactive and is used therapeutically in epilepsy).***
 - ***ANTICHOLINERGIC DRUGS ARE THE COMMONEST MEDICATION CAUSE OF DELIRIUM IN THE ELDERLY*** (antihistamines, tricyclics, oxybutynin, antipsychotics, antiparkinsonian agents) — always review the drug chart before attributing confusion to "old age"; opioids, benzodiazepines and steroids are the other frequent culprits.
 
 **EXAM CONNECTION:** NOT part of alcohol dependence → **lack of tolerance**; increased in depression → **cortisol**; increased in mania → **noradrenaline**; drug class most likely to cause delirium → **anticholinergics**.
@@ -835,7 +733,7 @@
 
 ---
 
-### 46. Alcoholic Hallucinosis vs Delirium Tremens
+### 37. Alcoholic Hallucinosis vs Delirium Tremens
 
 **PEARL:** The discriminator is the **SENSORIUM**. **ALCOHOLIC HALLUCINOSIS occurs in CLEAR CONSCIOUSNESS with PRESERVED ORIENTATION**, and the hallucinations are predominantly **AUDITORY**. **DELIRIUM TREMENS is a DELIRIUM — clouded consciousness, disorientation and fluctuating attention — with predominantly VISUAL hallucinations.**
 
@@ -864,7 +762,7 @@
 
 ---
 
-### 47. Amphetamine Psychosis
+### 38. Amphetamine Psychosis
 
 **PEARL:** Amphetamine abuse produces a picture that **resembles paranoid schizophrenia** — persecutory delusions with a clear sensorium, plus tactile hallucinations (formication).
 
@@ -874,7 +772,7 @@
 
 ---
 
-### 48. Alcohol Withdrawal and Delirium Tremens
+### 39. Alcohol Withdrawal and Delirium Tremens
 
 **PEARL:**
 
@@ -889,6 +787,8 @@
 - **Lorazepam and oxazepam are preferred in liver disease** (glucuronidation only).
 - Always give **thiamine before glucose**.
 
+**ALSO KNOW:** **DELIRIUM TREMENS IS PRECIPITATED BY SUDDEN (not gradual) WITHDRAWAL, AND IS STRONGLY PREDISPOSED TO BY INTERCURRENT PHYSICAL ILLNESS — ACUTE INFECTION, hepatitis, pancreatitis, trauma or surgery.** It typically appears **48–96 hours (often "the third day of admission") after the last drink**, after 5–15 years of heavy drinking. **TREATMENT IS BENZODIAZEPINES — IV LORAZEPAM or oral CHLORDIAZEPOXIDE, in generous doses, tapered as symptoms settle — PLUS PARENTERAL THIAMINE.** Alcohol is a **GABA-A AGONIST AND NMDA ANTAGONIST**; chronic use down-regulates GABA receptors and up-regulates NMDA receptors. Sudden abstinence therefore leaves an **UNOPPOSED GLUTAMATERGIC, SYMPATHETICALLY DRIVEN BRAIN** — hence tremor, seizures, hallucinations, autonomic storm and delirium. Benzodiazepines work because they replace the missing GABA activity; anything else (antipsychotics alone, restraints) treats the symptom while the neurochemistry keeps escalating. **THAT IS ALSO WHY DELIRIUM TREMENS CARRIES REAL MORTALITY (5–15% untreated) — it is a medical, not a behavioural, emergency.** **Withdrawal timeline:** TREMOR, anxiety and autonomic arousal 6–12 h; ALCOHOLIC HALLUCINOSIS (typically VISUAL or tactile, with CLEAR consciousness) 12–24 h; WITHDRAWAL SEIZURES ("rum fits", generalised) 24–48 h; DELIRIUM TREMENS (clouded consciousness, disorientation, vivid visual hallucinations, tremor, fever, tachycardia and diaphoresis) 48–96 h. ****GIVE THIAMINE BEFORE ANY GLUCOSE-CONTAINING FLUID **— a glucose load in a thiamine-deficient patient precipitates WERNICKE ENCEPHALOPATHY. Also replace magnesium, potassium and folate, and monitor for hypoglycaemia.** Regimens: **symptom-triggered dosing by CIWA-Ar is superior to fixed schedules; use LORAZEPAM, OXAZEPAM or TEMAZEPAM IN LIVER DISEASE (glucuronidation only); PHENOBARBITONE (or propofol) for benzodiazepine-resistant delirium tremens; and ANTIPSYCHOTICS only as an adjunct for hallucinations — they LOWER THE SEIZURE THRESHOLD and do not treat the withdrawal.** **Longer-term:** NALTREXONE and ACAMPROSATE for craving, DISULFIRAM for aversion in a highly motivated patient, plus psychosocial support **(see the pharmacology pearl).** Alcohol-related neuropsychiatry to keep together: **WERNICKE encephalopathy (acute, treatable) → KORSAKOFF psychosis (chronic amnesia), alcoholic hallucinosis, PATHOLOGICAL INTOXICATION, morbid jealousy (OTHELLO SYNDROME), MARCHIAFAVA–BIGNAMI disease (corpus callosum) and CENTRAL PONTINE MYELINOLYSIS after rapid sodium correction.** *Chronic alcohol turns down GABA and turns up glutamate — stop the alcohol and the brain shouts.*
+
 **REMEMBER:** *Abrupt stop + infection = DT at day 2–3 → IV lorazepam + thiamine.*
 
 ---
@@ -897,7 +797,7 @@
 
 ## Sleep Disorders
 
-### 49. Sleep Studies and Restless Legs Syndrome
+### 40. Sleep Studies and Restless Legs Syndrome
 
 **PEARL:** ***A HYPNOGRAM IS THE GRAPH OF SLEEP STAGES PLOTTED AGAINST TIME*** — a visual summary of sleep architecture; ***POLYSOMNOGRAPHY IS THE GOLD-STANDARD MULTI-PARAMETER RECORDING*** (EEG, electro-oculography, EMG, ECG, nasal/oral airflow, respiratory effort, oximetry and leg movements). ***RESTLESS LEGS SYNDROME — an irresistible urge to move the legs with a creeping/crawling sensation, WORSE AT REST AND AT NIGHT AND RELIEVED BY MOVEMENT — is now treated FIRST with a GABAPENTINOID (gabapentin, gabapentin enacarbil, pregabalin) rather than a dopamine agonist***, after checking and replacing iron.
 
@@ -905,13 +805,15 @@
 
 **MUST KNOW:**
 
-- **Sleep architecture: ***NREM stages N1 (theta, hypnic jerks), N2 (SLEEP SPINDLES and K COMPLEXES — the largest share of sleep), N3 (SLOW-WAVE/DELTA sleep — growth hormone secretion, and the stage from which SLEEPWALKING, NIGHT TERRORS AND ENURESIS arise) and REM (low-voltage fast EEG with SAWTOOTH waves, muscle ATONIA, dreaming, penile tumescence, and where NIGHTMARES occur).*** ***REM PERIODS LENGTHEN THROUGH THE NIGHT AND SLOW-WAVE SLEEP DOMINATES THE FIRST THIRD.***
+- **Sleep architecture:** *NREM stages N1 (theta, hypnic jerks), N2 (SLEEP SPINDLES and K COMPLEXES — the largest share of sleep), N3 (SLOW-WAVE/DELTA sleep — growth hormone secretion, and the stage from which SLEEPWALKING, NIGHT TERRORS AND ENURESIS arise) and REM (low-voltage fast EEG with SAWTOOTH waves, muscle ATONIA, dreaming, penile tumescence, and where NIGHTMARES occur).*** ***REM PERIODS LENGTHEN THROUGH THE NIGHT AND SLOW-WAVE SLEEP DOMINATES THE FIRST THIRD.***
 - ***DEPRESSION SHORTENS REM LATENCY, INCREASES REM DENSITY AND REDUCES SLOW-WAVE SLEEP***, with early-morning wakening — one of the most reproducible biological findings in psychiatry.
-- **Secondary RLS: ***IRON DEFICIENCY, PREGNANCY, URAEMIA/dialysis, folate and B12 deficiency, peripheral neuropathy, and drugs (antidepressants, antipsychotics, antihistamines).*** ***PERIODIC LIMB MOVEMENTS OF SLEEP*** accompany it in most patients but are a separate polysomnographic finding.
-- **Other sleep disorders: ***OBSTRUCTIVE SLEEP APNOEA (snoring, witnessed apnoeas, daytime sleepiness — EPWORTH scale for screening, polysomnography for diagnosis, CPAP for treatment); NARCOLEPSY (sleep attacks, CATAPLEXY, sleep paralysis, hypnagogic hallucinations — SLEEP-ONSET REM on the multiple sleep latency test, orexin deficiency); REM SLEEP BEHAVIOUR DISORDER (loss of REM atonia, acting out dreams — a PRODROME OF SYNUCLEINOPATHIES such as Parkinson disease and Lewy body dementia).***
+- **Secondary RLS:** *IRON DEFICIENCY, PREGNANCY, URAEMIA/dialysis, folate and B12 deficiency, peripheral neuropathy, and drugs (antidepressants, antipsychotics, antihistamines).*** ***PERIODIC LIMB MOVEMENTS OF SLEEP*** accompany it in most patients but are a separate polysomnographic finding.
+- **Other sleep disorders:** *OBSTRUCTIVE SLEEP APNOEA (snoring, witnessed apnoeas, daytime sleepiness — EPWORTH scale for screening, polysomnography for diagnosis, CPAP for treatment); NARCOLEPSY (sleep attacks, CATAPLEXY, sleep paralysis, hypnagogic hallucinations — SLEEP-ONSET REM on the multiple sleep latency test, orexin deficiency); REM SLEEP BEHAVIOUR DISORDER (loss of REM atonia, acting out dreams — a PRODROME OF SYNUCLEINOPATHIES such as Parkinson disease and Lewy body dementia).***
 - ***SLEEP HYGIENE AND CBT-I (cognitive behavioural therapy for insomnia) ARE FIRST-LINE FOR CHRONIC INSOMNIA — NOT HYPNOTICS***, which are for short-term use only.
 
 **EXAM CONNECTION:** Graph of sleep stages against time → **hypnogram**; treatment of restless legs syndrome → **gabapentin**.
+
+**ALSO KNOW:** REM sleep **follows NREM**; the EEG shows **sawtooth waves**, low-voltage **beta** activity resembling wakefulness, and a **return of alpha** activity. Cycles are ~90 minutes; **REM increases towards morning**, deep NREM (stage 3) dominates the first third. Stage markers: **alpha = relaxed wakefulness**; theta + **vertex sharp waves** = N1; **K complexes and sleep spindles** = N2; **delta** = N3. **Depression: reduced REM latency and increased REM density**; most antidepressants suppress REM.
 
 **REMEMBER:** *Fill the iron stores first; reach for a gabapentinoid, not a dopamine agonist.*
 
@@ -924,7 +826,7 @@
 
 ---
 
-### 50. Parasomnias
+### 41. Parasomnias
 
 **PEARL:** ***NIGHT (SLEEP) TERRORS — screaming, intense fear, autonomic arousal, INCONSOLABILITY and NO MEMORY of the event, occurring in the FIRST THIRD of the night out of STAGE N3 SLOW-WAVE SLEEP*** — are typical of young children and usually benign. ***NIGHTMARES, by contrast, arise from REM SLEEP IN THE LAST THIRD of the night, the child WAKES FULLY, IS CONSOLABLE AND RECALLS THE DREAM VIVIDLY.***
 
@@ -932,10 +834,10 @@
 
 **MUST KNOW:**
 
-- **Management of night terrors: ***REASSURANCE AND SAFETY MEASURES; DO NOT WAKE THE CHILD; ensure adequate sleep and treat precipitants; SCHEDULED AWAKENING 15–30 minutes before the usual episode time can abort a regular nightly pattern.*** Most remit by adolescence. Drugs (low-dose benzodiazepine) are reserved for dangerous or very frequent episodes.
+- **Management of night terrors:** *REASSURANCE AND SAFETY MEASURES; DO NOT WAKE THE CHILD; ensure adequate sleep and treat precipitants; SCHEDULED AWAKENING 15–30 minutes before the usual episode time can abort a regular nightly pattern.*** Most remit by adolescence. Drugs (low-dose benzodiazepine) are reserved for dangerous or very frequent episodes.
 - ***SLEEP TERRORS IN AN ADULT SHOULD PROMPT A SEARCH FOR SLEEP APNOEA, ALCOHOL, DRUGS, POST-TRAUMATIC STRESS DISORDER OR NOCTURNAL SEIZURES*** — nocturnal frontal lobe epilepsy is the key mimic (stereotyped, brief, multiple episodes per night).
 - ***REM SLEEP BEHAVIOUR DISORDER (loss of REM atonia, acting out dreams, injuring self or partner, in older men) IS A PRODROME OF THE SYNUCLEINOPATHIES — Parkinson disease, Lewy body dementia and multiple system atrophy*** — treated with clonazepam or melatonin and a safe bedroom.
-- **Other parasomnias: ***sleep paralysis and hypnagogic hallucinations (REM intrusion — part of the narcolepsy tetrad), bruxism, catathrenia (nocturnal groaning), exploding head syndrome and sleep-related eating disorder.***
+- **Other parasomnias:** *sleep paralysis and hypnagogic hallucinations (REM intrusion — part of the narcolepsy tetrad), bruxism, catathrenia (nocturnal groaning), exploding head syndrome and sleep-related eating disorder.***
 - **In children, always ask about ***OBSTRUCTIVE SLEEP APNOEA (adenotonsillar hypertrophy)*** — it fragments sleep, triggers NREM parasomnias, and presents as inattention and hyperactivity rather than sleepiness.
 
 **EXAM CONNECTION:** Night-time screaming with no recall in a 4-year-old → **night terrors**.
@@ -946,29 +848,7 @@
 
 ---
 
-### 51. Narcolepsy
-
-**PEARL:** **The tetrad is ***EXCESSIVE DAYTIME SLEEPINESS (the cardinal and universal symptom), CATAPLEXY (sudden loss of muscle tone triggered by emotion, with preserved consciousness), SLEEP PARALYSIS, and HYPNAGOGIC/HYPNOPOMPIC HALLUCINATIONS.*** The hallmark investigation finding is ***SHORTENED REM LATENCY with SLEEP-ONSET REM PERIODS on the multiple sleep latency test.*** ***MODAFINIL IS THE DRUG OF CHOICE*** for the sleepiness.
-
-**UNDERSTAND:** Narcolepsy type 1 is caused by ***LOSS OF OREXIN (HYPOCRETIN) NEURONES IN THE LATERAL HYPOTHALAMUS***, probably autoimmune (HLA-DQB1*06:02-associated, sometimes post-infectious). Orexin normally ***STABILISES THE BOUNDARY BETWEEN WAKEFULNESS AND REM SLEEP***, so its loss makes that boundary permeable — and every symptom is simply ***REM PHENOMENA INTRUDING INTO WAKEFULNESS: the atonia of REM appearing while awake is CATAPLEXY or SLEEP PARALYSIS, and REM dreaming at the threshold of sleep is a HYPNAGOGIC HALLUCINATION.*** One lesion, four symptoms.
-
-**MUST KNOW:**
-
-- **Diagnosis: ***polysomnography (to exclude sleep apnoea) FOLLOWED BY a MULTIPLE SLEEP LATENCY TEST showing a mean sleep latency ≤8 minutes with ≥2 SLEEP-ONSET REM PERIODS; low CSF OREXIN confirms type 1.*** ***NARCOLEPSY TYPE 1 HAS CATAPLEXY/low orexin; TYPE 2 DOES NOT.***
-- **Treatment: ***SLEEP HYGIENE WITH SCHEDULED SHORT NAPS (highly effective and often underused), MODAFINIL/armodafinil or solriamfetol/pitolisant for sleepiness, methylphenidate or amphetamines as alternatives; and for CATAPLEXY — SODIUM OXYBATE (also the most effective drug for both symptoms), venlafaxine, or a tricyclic/SSRI.*** ***ABRUPT WITHDRAWAL OF AN ANTICATAPLECTIC DRUG CAN PRECIPITATE STATUS CATAPLECTICUS.***
-- ***CATAPLEXY IS OFTEN MISTAKEN FOR A SEIZURE OR SYNCOPE — the distinguishing features are the EMOTIONAL TRIGGER (laughter, surprise, anger), PRESERVED CONSCIOUSNESS AND RAPID FULL RECOVERY.***
-- **Occupational and safety counselling is essential (driving, machinery); untreated narcolepsy carries a high accident rate and considerable social and educational impairment.**
-- **Differential of excessive daytime sleepiness: ***chronic sleep deprivation (by far the commonest), OBSTRUCTIVE SLEEP APNOEA, shift work and circadian disorders, depression, drugs, restless legs/periodic limb movements, and idiopathic hypersomnia (long unrefreshing sleep WITHOUT REM abnormalities).***
-
-**EXAM CONNECTION:** Daytime sleepiness with sleep paralysis and hypnagogic hallucinations → **modafinil**.
-
-**REMEMBER:** *Lose orexin and REM sleep leaks into the waking day.*
-
-`Q11158`
-
----
-
-### 52. Narcolepsy and Sleep Architecture
+### 42. Narcolepsy and Sleep Architecture
 
 **PEARL:** **Excessive daytime sleepiness + cataplexy + hypnagogic hallucinations + sleep paralysis = narcolepsy.** The hallmark is **reduced REM latency**, and the **drug of choice is MODAFINIL**.
 
@@ -985,6 +865,8 @@
 
 **EXAM CONNECTION:** The tetrad identifies the disease and **modafinil** is the answer. The polysomnogram question is solved by **atonia + eye movements = REM**.
 
+**ALSO KNOW:** **The tetrad is **EXCESSIVE DAYTIME SLEEPINESS (the cardinal and universal symptom), CATAPLEXY (sudden loss of muscle tone triggered by emotion, with preserved consciousness), SLEEP PARALYSIS, and HYPNAGOGIC/HYPNOPOMPIC HALLUCINATIONS.** The hallmark investigation finding is **SHORTENED REM LATENCY with SLEEP-ONSET REM PERIODS on the multiple sleep latency test.** **MODAFINIL IS THE DRUG OF CHOICE** for the sleepiness. Narcolepsy type 1 is caused by **LOSS OF OREXIN (HYPOCRETIN) NEURONES IN THE LATERAL HYPOTHALAMUS**, probably autoimmune (HLA-DQB1*06:02-associated, sometimes post-infectious). Orexin normally **STABILISES THE BOUNDARY BETWEEN WAKEFULNESS AND REM SLEEP**, so its loss makes that boundary permeable — and every symptom is simply **REM PHENOMENA INTRUDING INTO WAKEFULNESS: the atonia of REM appearing while awake is CATAPLEXY or SLEEP PARALYSIS, and REM dreaming at the threshold of sleep is a HYPNAGOGIC HALLUCINATION.** One lesion, four symptoms. **Treatment:** SLEEP HYGIENE WITH SCHEDULED SHORT NAPS (highly effective and often underused), MODAFINIL/armodafinil or solriamfetol/pitolisant for sleepiness, methylphenidate or amphetamines as alternatives; and for CATAPLEXY — SODIUM OXYBATE (also the most effective drug for both symptoms), venlafaxine, or a tricyclic/SSRI.** **ABRUPT WITHDRAWAL OF AN ANTICATAPLECTIC DRUG CAN PRECIPITATE STATUS CATAPLECTICUS.** **CATAPLEXY IS OFTEN MISTAKEN FOR A SEIZURE OR SYNCOPE — the distinguishing features are the EMOTIONAL TRIGGER (laughter, surprise, anger), PRESERVED CONSCIOUSNESS AND RAPID FULL RECOVERY.** **Occupational and safety counselling is essential (driving, machinery); untreated narcolepsy carries a high accident rate and considerable social and educational impairment.** **Differential of excessive daytime sleepiness:** chronic sleep deprivation (by far the commonest), OBSTRUCTIVE SLEEP APNOEA, shift work and circadian disorders, depression, drugs, restless legs/periodic limb movements, and idiopathic hypersomnia (long unrefreshing sleep WITHOUT REM abnormalities).**
+
 **REMEMBER:** *REM sleep leaking into the waking day.*
 
 **IMAGES:**
@@ -996,7 +878,7 @@
 
 ---
 
-### 53. Sleep-Onset Insomnia
+### 43. Sleep-Onset Insomnia
 
 **PEARL:** **Difficulty falling asleep (sleep-onset insomnia) is characteristic of ANXIETY**, not melancholic depression.
 
@@ -1006,22 +888,7 @@
 
 ---
 
-### 54. REM Sleep
-
-**PEARL:** REM sleep **follows NREM**; the EEG shows **sawtooth waves**, low-voltage **beta** activity resembling wakefulness, and a **return of alpha** activity.
-
-**MUST KNOW:**
-
-- REM = **paradoxical sleep**: active brain, **atonic body**, with dreaming, penile tumescence, and irregular pulse/BP.
-- Cycles are ~90 minutes; **REM increases towards morning**, deep NREM (stage 3) dominates the first third.
-- Stage markers: **alpha = relaxed wakefulness**; theta + **vertex sharp waves** = N1; **K complexes and sleep spindles** = N2; **delta** = N3.
-- **Depression: reduced REM latency and increased REM density**; most antidepressants suppress REM.
-
-**REMEMBER:** *REM = sawtooth + beta + paralysis + dreams.*
-
----
-
-### 55. Somniloquy and Catathrenia
+### 44. Somniloquy and Catathrenia
 
 **PEARL:**
 
@@ -1038,7 +905,7 @@
 
 ## Child and Adolescent Psychiatry
 
-### 56. Child and Adolescent Psychiatry — Enuresis, ADHD and Abuse
+### 45. Child and Adolescent Psychiatry — Enuresis, ADHD and Abuse
 
 **PEARL:** ***THE BELL-AND-PAD (alarm) APPARATUS — CLASSICAL CONDITIONING — IS THE MOST EFFECTIVE TREATMENT FOR NOCTURNAL ENURESIS*** (dryness in ~50%), ahead of bladder training; ***DRUGS (DESMOPRESSIN; imipramine or reboxetine) ARE RESERVED FOR FAILURE OF BEHAVIOURAL THERAPY or short-term needs (camps, travel).*** Enuresis is diagnosed only ***AFTER 5 YEARS OF AGE.*** ***ADHD WAS FORMERLY CALLED "MINIMAL BRAIN DYSFUNCTION", AND UNTREATED ADHD MOST OFTEN EVOLVES INTO CONDUCT DISORDER*** (and later antisocial behaviour and substance use). In suspected physical abuse, ***THE FIRST STEP IS A THOROUGH PHYSICAL EXAMINATION.***
 
@@ -1046,13 +913,15 @@
 
 **MUST KNOW:**
 
-- **In suspected child abuse the sequence is: ***a full physical examination (documenting all injuries, including a skeletal survey and fundoscopy for retinal haemorrhages in infants), then a detailed spontaneous history from carers taken PROMPTLY AND SEPARATELY, then a psychiatric interview of the child, then involvement of social services and mandatory reporting.*** ***RED FLAGS: injuries inconsistent with the stated mechanism or the child's developmental stage, DELAY IN SEEKING CARE, changing histories, injuries of DIFFERENT AGES, CIGARETTE BURNS, immersion (glove-and-stocking) scalds, and torn frenulum or posterior rib fractures.***
-- **ADHD: ***inattention and/or hyperactivity–impulsivity, present before age 12, in ≥2 SETTINGS, for ≥6 months, with functional impairment; DOPAMINE and the PREFRONTAL CORTEX are implicated; treat with behavioural intervention plus METHYLPHENIDATE (or atomoxetine/guanfacine).*** ***HYPERACTIVITY OFTEN REMITS WITH AGE WHILE INATTENTION AND IMPULSIVITY PERSIST INTO ADULTHOOD.***
+- **In suspected child abuse the sequence is:** *a full physical examination (documenting all injuries, including a skeletal survey and fundoscopy for retinal haemorrhages in infants), then a detailed spontaneous history from carers taken PROMPTLY AND SEPARATELY, then a psychiatric interview of the child, then involvement of social services and mandatory reporting.*** ***RED FLAGS: injuries inconsistent with the stated mechanism or the child's developmental stage, DELAY IN SEEKING CARE, changing histories, injuries of DIFFERENT AGES, CIGARETTE BURNS, immersion (glove-and-stocking) scalds, and torn frenulum or posterior rib fractures.***
+- **ADHD:** *inattention and/or hyperactivity–impulsivity, present before age 12, in ≥2 SETTINGS, for ≥6 months, with functional impairment; DOPAMINE and the PREFRONTAL CORTEX are implicated; treat with behavioural intervention plus METHYLPHENIDATE (or atomoxetine/guanfacine).*** ***HYPERACTIVITY OFTEN REMITS WITH AGE WHILE INATTENTION AND IMPULSIVITY PERSIST INTO ADULTHOOD.***
 - ***THE PROGRESSION TO WATCH: ODD (oppositional defiant disorder — defiance towards authority) → CONDUCT DISORDER (violation of the rights of others: aggression, destruction, deceit, serious rule-breaking) → ANTISOCIAL PERSONALITY DISORDER (only diagnosable after 18).***
 - **The ***HEADSSS assessment (Home, Education/Employment, Activities, Drugs, Sexuality, Suicide/depression, Safety) IS THE STRUCTURED PSYCHOSOCIAL INTERVIEW FOR ADOLESCENTS***, conducted with attention to confidentiality and to risk and protective factors.
-- **Other childhood conditions to keep in mind: ***separation anxiety disorder, SELECTIVE MUTISM, tic disorders/Tourette, encopresis, and autism spectrum disorder (see the paediatrics pearl).***
+- **Other childhood conditions to keep in mind:** *separation anxiety disorder, SELECTIVE MUTISM, tic disorders/Tourette, encopresis, and autism spectrum disorder (see the paediatrics pearl).***
 
 **EXAM CONNECTION:** Treatment of nocturnal enuresis → **bell-and-pad classical conditioning**; formerly "minimal brain dysfunction" → **ADHD**; untreated ADHD in adolescence → **conduct disorder**; next step in suspected abuse → **thorough physical examination**.
+
+**ALSO KNOW: **First-line drug:** methylphenidate** (also amphetamines); ADRs — appetite suppression, growth slowing, insomnia, tics. **Non-stimulants: atomoxetine** (NE reuptake inhibitor) and the **α2A agonists guanfacine and clonidine**. Symptoms must persist **≥6 months** and be developmentally inappropriate.
 
 **REMEMBER:** *The alarm teaches the bladder; desmopressin only silences it.*
 
@@ -1060,7 +929,7 @@
 
 ---
 
-### 57. Autism Spectrum and Related Childhood Disorders
+### 46. Autism Spectrum and Related Childhood Disorders
 
 **PEARL:** ***ASPERGER SYNDROME = AUTISTIC social impairment and restricted interests WITH NORMAL INTELLIGENCE AND NO DELAY IN LANGUAGE DEVELOPMENT*** ("high-functioning autism"; commoner in boys — now subsumed within autism spectrum disorder in DSM-5). ***RETT SYNDROME (girls, MECP2): NORMAL head circumference AT BIRTH with DECELERATION OF HEAD GROWTH BETWEEN 5 AND 30 MONTHS***, loss of purposeful hand movements with hand-wringing stereotypies, loss of acquired skills, and a poor prognosis. ***HELLER SYNDROME (childhood disintegrative disorder): normal development to age 3–5 followed by RAPID, PROFOUND REGRESSION.***
 
@@ -1069,12 +938,14 @@
 **MUST KNOW:**
 
 - ***ANY LOSS OF PREVIOUSLY ACQUIRED SKILLS AT ANY AGE IS A RED FLAG DEMANDING INVESTIGATION*** for a neurodegenerative or metabolic disorder — regression is never a normal variant.
-- **Intellectual disability by IQ: ***MILD 50–69 (EDUCABLE — schooling to about class 6, independent living, unskilled/semi-skilled work WITHOUT supervision; ~85% of cases); MODERATE 35–49 (TRAINABLE — schooling to about class 2, MENTAL AGE 6–8 YEARS, works UNDER supervision); SEVERE 20–34 (mental age 3–6 years, simple tasks under supervision); PROFOUND <20 (mental age <3 years, CONTINUOUS supervision and care).*** ***DSM-5 NOW GRADES SEVERITY BY ADAPTIVE FUNCTIONING RATHER THAN IQ CUT-OFFS***, and has dropped "borderline intellectual functioning" (IQ 70–90).
+- **Intellectual disability by IQ:** *MILD 50–69 (EDUCABLE — schooling to about class 6, independent living, unskilled/semi-skilled work WITHOUT supervision; ~85% of cases); MODERATE 35–49 (TRAINABLE — schooling to about class 2, MENTAL AGE 6–8 YEARS, works UNDER supervision); SEVERE 20–34 (mental age 3–6 years, simple tasks under supervision); PROFOUND <20 (mental age <3 years, CONTINUOUS supervision and care).*** ***DSM-5 NOW GRADES SEVERITY BY ADAPTIVE FUNCTIONING RATHER THAN IQ CUT-OFFS***, and has dropped "borderline intellectual functioning" (IQ 70–90).
 - **FRAGILE X SYNDROME is the ***commonest INHERITED cause of intellectual disability*** (Down syndrome is the commonest overall): CGG repeat expansion in FMR1, with a long face, large ears, MACRO-ORCHIDISM after puberty, joint laxity, mitral valve prolapse, autism and ADHD; ***females are less severely affected (X-inactivation), and premutation carriers develop FXTAS and primary ovarian insufficiency.***
-- **Autism management: ***EARLY INTENSIVE BEHAVIOURAL AND DEVELOPMENTAL INTERVENTION, speech and occupational therapy, and structured education; RISPERIDONE/ARIPIPRAZOLE only for severe irritability and aggression.*** Always test HEARING and screen for epilepsy and genetic causes.
+- **Autism management:** *EARLY INTENSIVE BEHAVIOURAL AND DEVELOPMENTAL INTERVENTION, speech and occupational therapy, and structured education; RISPERIDONE/ARIPIPRAZOLE only for severe irritability and aggression.*** Always test HEARING and screen for epilepsy and genetic causes.
 - ***EMOTION IS GENERATED AND VALUED BY THE LIMBIC SYSTEM (especially the AMYGDALA) BUT REGULATED BY THE FRONTAL LOBE*** — which is why frontal lesions and immature frontal development produce disinhibition, and why amygdala damage abolishes the recognition of fear in faces and voices.
 
 **EXAM CONNECTION:** Autism with normal intelligence and language → **Asperger syndrome**; NOT true of Rett syndrome → **normal head circumference after 6 months** (head growth decelerates); IQ 40 → **mental age 6–8 years (moderate intellectual disability)**; emotion is regulated by → **the frontal lobe**.
+
+**ALSO KNOW:** ASD frequently shows **inattentiveness, impulsivity and hyperactivity**, overlapping with ADHD — and DSM-5 now permits **both diagnoses together**. Core ASD features are **persistent deficits in social communication/interaction** plus **restricted, repetitive behaviours** with onset in early development. No drug treats the core deficit — **behavioural intervention (ABA) is primary**; **risperidone/aripiprazole** are approved only for **irritability/aggression**. *ASD ≠ ADHD, but they travel together — treat behaviour first.*
 
 **REMEMBER:** *Draw the developmental curve: flat from birth is autism, a fall at one year is Rett, a collapse at four is Heller.*
 
@@ -1086,7 +957,7 @@
 
 ---
 
-### 58. Autism Spectrum Disorder and Its Overlap with ADHD
+### 47. Autism Spectrum Disorder and Its Overlap with ADHD
 
 **PEARL:** **AUTISM SPECTRUM DISORDER is defined by TWO core domains: (1) persistent deficits in SOCIAL COMMUNICATION AND INTERACTION and (2) RESTRICTED, REPETITIVE PATTERNS OF BEHAVIOUR, INTERESTS OR ACTIVITIES (stereotypies, insistence on sameness, narrow intense interests, sensory over- or under-reactivity)** — with onset in the early developmental period. In practice these children are also frequently **INATTENTIVE, IMPULSIVE AND HYPERACTIVE**, and ***DSM-5 NOW ALLOWS ADHD AND AUTISM TO BE DIAGNOSED TOGETHER*** — a co-occurrence seen in a third or more.
 
@@ -1108,7 +979,7 @@
 
 ---
 
-### 59. Tourette Syndrome — Treatment Order
+### 48. Tourette Syndrome — Treatment Order
 
 **PEARL:** In Tourette syndrome, **α2-agonists (CLONIDINE, guanfacine) are tried before antipsychotics**; among antipsychotics, **risperidone, aripiprazole and pimozide work — CLOZAPINE does NOT**.
 
@@ -1131,31 +1002,7 @@
 
 ---
 
-### 60. ADHD
-
-**PEARL:** Formerly called **minimal brain dysfunction** — inattention and/or hyperactivity-impulsivity, requiring symptoms **before age 12** in **≥2 settings** (home + school). Treatment: **stimulants + behavioural therapy**.
-
-**MUST KNOW:**
-
-- First-line drug: **methylphenidate** (also amphetamines); ADRs — appetite suppression, growth slowing, insomnia, tics.
-- **Non-stimulants: atomoxetine** (NE reuptake inhibitor) and the **α2A agonists guanfacine and clonidine**.
-- Symptoms must persist **≥6 months** and be developmentally inappropriate.
-
-**REMEMBER:** *Before 12, in 2 settings, for 6 months.*
-
----
-
-### 61. Autism Spectrum Disorder
-
-**PEARL:** ASD frequently shows **inattentiveness, impulsivity and hyperactivity**, overlapping with ADHD — and DSM-5 now permits **both diagnoses together**.
-
-**MUST KNOW:** Core ASD features are **persistent deficits in social communication/interaction** plus **restricted, repetitive behaviours** with onset in early development. No drug treats the core deficit — **behavioural intervention (ABA) is primary**; **risperidone/aripiprazole** are approved only for **irritability/aggression**.
-
-**REMEMBER:** *ASD ≠ ADHD, but they travel together — treat behaviour first.*
-
----
-
-### 62. Asperger Syndrome
+### 49. Asperger Syndrome
 
 **PEARL:** **Autism WITHOUT delay in language or cognitive development.**
 
@@ -1165,7 +1012,7 @@
 
 ---
 
-### 63. Rett Syndrome
+### 50. Rett Syndrome
 
 **PEARL:** **Normal head circumference at birth** with **deceleration of head growth between 5 and 30 months** — the characteristic feature.
 
@@ -1175,7 +1022,7 @@
 
 ---
 
-### 64. Child Physical Abuse — First Step
+### 51. Child Physical Abuse — First Step
 
 **PEARL:** A child who has been physically abused should first undergo a **thorough physical examination**.
 
@@ -1189,7 +1036,7 @@
 
 ## Personality Disorders
 
-### 65. Personality Disorders
+### 52. Personality Disorders
 
 **PEARL:** ***DIALECTICAL BEHAVIOUR THERAPY IS THE PSYCHOTHERAPY OF CHOICE FOR BORDERLINE PERSONALITY DISORDER*** — recurrent self-harm and suicide attempts, unstable intense relationships, impulsivity, identity disturbance, chronic emptiness, affective instability, inappropriate anger, frantic efforts to avoid abandonment and transient stress-related paranoia. ***SCHIZOID personality (detached, solitary by preference, emotionally cold, anhedonic, living in a private fantasy world) shows LOW NOVELTY SEEKING*** on Cloninger's temperament model — whereas ***CLUSTER B disorders (borderline, histrionic, narcissistic, antisocial) show HIGH novelty seeking.***
 
@@ -1197,7 +1044,7 @@
 
 **MUST KNOW:**
 
-- **The three clusters: ***A "MAD" (odd/eccentric) — PARANOID, SCHIZOID, SCHIZOTYPAL (the last with MAGICAL THINKING, ideas of reference and odd speech — genetically linked to schizophrenia). B "BAD" (dramatic/erratic) — ANTISOCIAL, BORDERLINE, HISTRIONIC, NARCISSISTIC. C "SAD" (anxious/fearful) — AVOIDANT, DEPENDENT, OBSESSIVE–COMPULSIVE PERSONALITY.***
+- **The three clusters:** *A "MAD" (odd/eccentric) — PARANOID, SCHIZOID, SCHIZOTYPAL (the last with MAGICAL THINKING, ideas of reference and odd speech — genetically linked to schizophrenia). B "BAD" (dramatic/erratic) — ANTISOCIAL, BORDERLINE, HISTRIONIC, NARCISSISTIC. C "SAD" (anxious/fearful) — AVOIDANT, DEPENDENT, OBSESSIVE–COMPULSIVE PERSONALITY.***
 - ***DISTINGUISH SCHIZOID (does not WANT relationships — indifferent) from AVOIDANT (WANTS relationships but fears rejection) and from SCHIZOTYPAL (wants none AND is odd/eccentric with perceptual distortions)*** — the single most examined discrimination in personality disorder.
 - **Personality disorder requires ***AN ENDURING, PERVASIVE, INFLEXIBLE PATTERN BEGINNING BY ADOLESCENCE OR EARLY ADULTHOOD, deviating from cultural expectation in cognition, affect, interpersonal function or impulse control, and causing distress or impairment.*** ***IT IS NOT DIAGNOSED UNDER 18 (antisocial personality disorder never before 18 — the childhood equivalent is CONDUCT DISORDER).***
 - **Traits are ***EGOSYNTONIC*** (the patient sees them as "just who I am"), which is why insight and motivation are poor and treatment is long. ***MEDICATION TREATS COMORBIDITY AND TARGET SYMPTOMS ONLY — there is no drug for a personality disorder***; borderline patients in particular accumulate polypharmacy without benefit.
@@ -1211,7 +1058,7 @@
 
 ---
 
-### 66. Antisocial Personality Disorder
+### 53. Antisocial Personality Disorder
 
 **PEARL:** **A charming, plausible man who is pleasant with family but ***REPEATEDLY FIGHTS, DECEIVES AND ACCUMULATES POLICE CASES*** has ***ANTISOCIAL PERSONALITY DISORDER*** — a pervasive pattern of disregard for and violation of the rights of others since age 15, with ***SUPERFICIAL CHARM, deceitfulness, impulsivity, irritability and aggression, reckless disregard for safety, irresponsibility and LACK OF REMORSE.*** ***THE DIAGNOSIS REQUIRES AN AGE OF AT LEAST 18 AND EVIDENCE OF CONDUCT DISORDER BEFORE AGE 15.***
 
@@ -1219,11 +1066,11 @@
 
 **MUST KNOW:**
 
-- **Distinguish within Cluster B: ***ANTISOCIAL (violates others' rights, no remorse, criminality), NARCISSISTIC (grandiosity, need for admiration, entitlement, lack of EMPATHY — but not necessarily lawbreaking), HISTRIONIC (attention-seeking, seductive, shallow rapidly shifting emotion, suggestible), BORDERLINE (instability of relationships, self-image and affect with self-harm).***
-- **Course and outcome: ***symptoms often ATTENUATE AFTER THE FOURTH DECADE ("burn-out"), but mortality from violence, accidents, substance use and suicide is high.*** Comorbid substance misuse is the rule and is the most treatable element.
-- **Management: ***there is no established pharmacotherapy — treat comorbid substance use, depression and impulsivity; structured programmes and firm, consistent boundaries with clear limits; AVOID BENZODIAZEPINES AND OTHER DRUGS OF MISUSE.*** Countertransference (anger, fear, wish to punish, or being charmed into special treatment) must be recognised and managed.
+- **Distinguish within Cluster B:** *ANTISOCIAL (violates others' rights, no remorse, criminality), NARCISSISTIC (grandiosity, need for admiration, entitlement, lack of EMPATHY — but not necessarily lawbreaking), HISTRIONIC (attention-seeking, seductive, shallow rapidly shifting emotion, suggestible), BORDERLINE (instability of relationships, self-image and affect with self-harm).***
+- **Course and outcome:** *symptoms often ATTENUATE AFTER THE FOURTH DECADE ("burn-out"), but mortality from violence, accidents, substance use and suicide is high.*** Comorbid substance misuse is the rule and is the most treatable element.
+- **Management:** *there is no established pharmacotherapy — treat comorbid substance use, depression and impulsivity; structured programmes and firm, consistent boundaries with clear limits; AVOID BENZODIAZEPINES AND OTHER DRUGS OF MISUSE.*** Countertransference (anger, fear, wish to punish, or being charmed into special treatment) must be recognised and managed.
 - ***PSYCHOPATHY (Hare's construct — callousness, shallow affect, lack of remorse, glibness) OVERLAPS WITH BUT IS NOT IDENTICAL TO ANTISOCIAL PERSONALITY DISORDER***, which is defined more behaviourally.
-- **Forensically: ***a personality disorder does NOT ordinarily constitute "unsoundness of mind" for the insanity defence***, and these patients are held legally responsible — an important medico-legal point in Indian examinations.
+- **Forensically:** *a personality disorder does NOT ordinarily constitute "unsoundness of mind" for the insanity defence***, and these patients are held legally responsible — an important medico-legal point in Indian examinations.
 
 **EXAM CONNECTION:** Charming man with repeated fights and police cases → **antisocial personality disorder**.
 
@@ -1233,7 +1080,7 @@
 
 ---
 
-### 67. Schizoid Personality Disorder
+### 54. Schizoid Personality Disorder
 
 **PEARL:** A **loner by choice**, emotionally cold and detached, indifferent to praise or criticism — with **low novelty seeking** (Cloninger's temperament model).
 
@@ -1247,7 +1094,7 @@
 
 ## Eating Disorders
 
-### 68. Anorexia Nervosa — Laboratory Findings
+### 55. Anorexia Nervosa — Laboratory Findings
 
 **PEARL:** In anorexia nervosa expect ***LEUCOPENIA WITH A RELATIVE LYMPHOCYTOSIS, HYPOKALAEMIC METABOLIC ALKALOSIS (with purging), low fasting glucose, RAISED SALIVARY AMYLASE (with vomiting), ST and T-wave changes with BRADYCARDIA AND HYPOTENSION, hypothyroidism (a low-T3 "sick euthyroid" pattern), amenorrhoea and RAISED CORTISOL/CRH*** — and, paradoxically, ***HYPERCHOLESTEROLAEMIA (a HIGH, not low, serum cholesterol).***
 
@@ -1256,9 +1103,9 @@
 **MUST KNOW:**
 
 - ***REFEEDING SYNDROME IS THE MAIN DANGER OF TREATMENT: as insulin rises with refeeding, PHOSPHATE, POTASSIUM AND MAGNESIUM SHIFT INTRACELLULARLY, causing HYPOPHOSPHATAEMIA, arrhythmia, cardiac failure, rhabdomyolysis, seizures and death.*** ***START LOW, GO SLOW, GIVE THIAMINE BEFORE FEEDING AND MONITOR ELECTROLYTES DAILY.***
-- **Physical complications: ***osteoporosis (the most important long-term consequence), lanugo hair, dry skin, carotenaemia, parotid enlargement and dental erosion (vomiting), RUSSELL'S SIGN (knuckle calluses), constipation, prolonged QT and — the reason it matters — the HIGHEST MORTALITY OF ANY PSYCHIATRIC DISORDER (from cardiac complications and suicide).***
-- **Distinguishing anorexia from bulimia: ***ANOREXIA — BMI significantly low (the defining feature), intense fear of weight gain, distorted body image, amenorrhoea, restricting or binge–purge subtypes. BULIMIA — usually NORMAL OR ABOVE-NORMAL WEIGHT, recurrent binges with compensatory behaviours ≥1/week for 3 months, and better insight and help-seeking.***
-- **Treatment: ***NUTRITIONAL REHABILITATION AND WEIGHT RESTORATION COME FIRST — psychological work is ineffective in a starved brain; FAMILY-BASED THERAPY (Maudsley) IS FIRST-LINE IN ADOLESCENTS; CBT-E in adults; FLUOXETINE is helpful in BULIMIA (and BUPROPION IS CONTRAINDICATED in eating disorders because of seizure risk) but no drug reliably treats anorexia itself.***
+- **Physical complications:** *osteoporosis (the most important long-term consequence), lanugo hair, dry skin, carotenaemia, parotid enlargement and dental erosion (vomiting), RUSSELL'S SIGN (knuckle calluses), constipation, prolonged QT and — the reason it matters — the HIGHEST MORTALITY OF ANY PSYCHIATRIC DISORDER (from cardiac complications and suicide).***
+- **Distinguishing anorexia from bulimia:** *ANOREXIA — BMI significantly low (the defining feature), intense fear of weight gain, distorted body image, amenorrhoea, restricting or binge–purge subtypes. BULIMIA — usually NORMAL OR ABOVE-NORMAL WEIGHT, recurrent binges with compensatory behaviours ≥1/week for 3 months, and better insight and help-seeking.***
+- **Treatment:** *NUTRITIONAL REHABILITATION AND WEIGHT RESTORATION COME FIRST — psychological work is ineffective in a starved brain; FAMILY-BASED THERAPY (Maudsley) IS FIRST-LINE IN ADOLESCENTS; CBT-E in adults; FLUOXETINE is helpful in BULIMIA (and BUPROPION IS CONTRAINDICATED in eating disorders because of seizure risk) but no drug reliably treats anorexia itself.***
 - ***ADMIT FOR: BMI <13–14 or rapid weight loss, bradycardia <40, hypotension, hypothermia, electrolyte disturbance, arrhythmia, syncope, or suicide risk.***
 
 **EXAM CONNECTION:** NOT associated with anorexia nervosa → **hypocholesterolaemia** (cholesterol is HIGH).
@@ -1269,7 +1116,7 @@
 
 ---
 
-### 69. SCOFF Questionnaire
+### 56. SCOFF Questionnaire
 
 **PEARL:** A **5-item screening tool for eating disorders** (anorexia and bulimia nervosa): **S**ick (make yourself vomit), **C**ontrol (lost control over eating), **O**ne (lost >One stone/~6 kg in 3 months), **F**at (believe yourself fat when others say thin), **F**ood (does food dominate your life).
 
@@ -1283,7 +1130,7 @@
 
 ## Sexual and Gender Disorders
 
-### 70. Sexual Dysfunction and Gender Development
+### 57. Sexual Dysfunction and Gender Development
 
 **PEARL:** ***PREMATURE EJACULATION (ejaculation within about 1 minute of penetration, with distress) is treated with SSRIs (sertraline, paroxetine, or on-demand dapoxetine) — plus behavioural techniques: the SQUEEZE technique (pressure at the CORONAL RIDGE of the glans) and the STOP–START (SEMANS) technique, with sex therapy for the couple.*** ***GENDER ROLE is built from EXPERIENCE WITH PEOPLE AND EXPLICIT INSTRUCTION FROM OTHERS*** (a learned, public expression), whereas ***chromosomes, external genitalia and secondary sexual characteristics contribute to SEXUAL and GENDER IDENTITY***, which is established by about 2–3 years of age.
 
@@ -1291,9 +1138,9 @@
 
 **MUST KNOW:**
 
-- **The sexual response cycle (Masters and Johnson, as modified): ***DESIRE → EXCITEMENT/AROUSAL → ORGASM → RESOLUTION***, with dysfunctions classified by the phase affected: ***hypoactive sexual desire, erectile disorder and female arousal disorder, orgasmic disorders (premature/delayed ejaculation, anorgasmia), and the pain disorders (genito-pelvic pain/penetration disorder, formerly VAGINISMUS and dyspareunia).***
-- **Erectile dysfunction: ***distinguish ORGANIC (gradual onset, absent nocturnal/morning erections, vascular and diabetic risk factors, drugs — beta-blockers, thiazides, SSRIs, antipsychotics) from PSYCHOGENIC (sudden onset, situational, preserved nocturnal erections).*** Treat with ***PDE5 INHIBITORS (contraindicated with NITRATES), intracavernosal alprostadil, vacuum devices — plus treatment of the underlying cause and couple therapy.*** ***ERECTILE DYSFUNCTION IS AN EARLY MARKER OF ENDOTHELIAL DISEASE — screen for cardiovascular risk.***
-- **Terminology: ***SEX (biological), GENDER IDENTITY (internal sense of self), GENDER ROLE (public expression), SEXUAL ORIENTATION (attraction) — all four are independent dimensions.*** ***GENDER INCONGRUENCE/DYSPHORIA IS NOT A MENTAL ILLNESS IN ICD-11 (moved to a sexual health chapter), and HOMOSEXUALITY WAS REMOVED FROM PSYCHIATRIC CLASSIFICATION DECADES AGO*** — a point Indian exams now test explicitly.
+- **The sexual response cycle (Masters and Johnson, as modified):** *DESIRE → EXCITEMENT/AROUSAL → ORGASM → RESOLUTION***, with dysfunctions classified by the phase affected:** *hypoactive sexual desire, erectile disorder and female arousal disorder, orgasmic disorders (premature/delayed ejaculation, anorgasmia), and the pain disorders (genito-pelvic pain/penetration disorder, formerly VAGINISMUS and dyspareunia).***
+- **Erectile dysfunction:** *distinguish ORGANIC (gradual onset, absent nocturnal/morning erections, vascular and diabetic risk factors, drugs — beta-blockers, thiazides, SSRIs, antipsychotics) from PSYCHOGENIC (sudden onset, situational, preserved nocturnal erections).*** Treat with ***PDE5 INHIBITORS (contraindicated with NITRATES), intracavernosal alprostadil, vacuum devices — plus treatment of the underlying cause and couple therapy.*** ***ERECTILE DYSFUNCTION IS AN EARLY MARKER OF ENDOTHELIAL DISEASE — screen for cardiovascular risk.***
+- **Terminology:** *SEX (biological), GENDER IDENTITY (internal sense of self), GENDER ROLE (public expression), SEXUAL ORIENTATION (attraction) — all four are independent dimensions.*** ***GENDER INCONGRUENCE/DYSPHORIA IS NOT A MENTAL ILLNESS IN ICD-11 (moved to a sexual health chapter), and HOMOSEXUALITY WAS REMOVED FROM PSYCHIATRIC CLASSIFICATION DECADES AGO*** — a point Indian exams now test explicitly.
 - **Paraphilic disorders require ***distress, impairment or a non-consenting victim*** — the paraphilia alone is not a disorder.
 - ***ALWAYS ASK ABOUT MEDICATION IN ANY NEW SEXUAL DYSFUNCTION*** — drug-induced dysfunction is a leading cause of covert antidepressant and antihypertensive non-adherence.
 
@@ -1305,7 +1152,7 @@
 
 ---
 
-### 71. Premature Ejaculation — Behavioural Techniques
+### 58. Premature Ejaculation — Behavioural Techniques
 
 **PEARL:** **Semans' STOP–START technique** and **Masters and Johnson's SQUEEZE technique** are the behavioural treatments for **premature ejaculation**.
 
@@ -1332,7 +1179,7 @@
 
 ## Organic and Neuropsychiatric Disorders
 
-### 72. Disorders of Consciousness and Awareness
+### 59. Disorders of Consciousness and Awareness
 
 **PEARL:** ***STUPOR = AKINESIS AND MUTISM IN A PATIENT WHO APPEARS AWAKE AND ALERT AND IS AWARE OF THE SURROUNDINGS*** — a profound reduction of "relational function" (speech and action) with preserved consciousness. ***TWILIGHT STATE = an ABRUPT episode of IMPAIRED CONSCIOUSNESS with hallucinations and sometimes violent behaviour*** (epilepsy, alcohol, head injury). ***ONEIROID (oneirophrenia) STATE = a DREAM-LIKE derangement of consciousness*** with kaleidoscopic hallucinations merging with reality, associated with catatonia. ***OLIGOPHRENIA = subnormal intelligence; PARANOID IDEATION = ideas of persecution.***
 
@@ -1348,13 +1195,15 @@
 
 **EXAM CONNECTION:** Mutism and akinesis in an aware patient → **stupor**; feature differentiating delirium from Alzheimer dementia → **acuity of onset and impaired consciousness**; NOT a subcortical dementia → **Pick disease**.
 
+**ALSO KNOW:** **STUPOR** — conscious but **mute, immobile and unresponsive** to the environment, though **responsive to pain**. **Akinetic mutism** — mute and immobile but **responsive** to the environment. **Sopor** — abnormally deep sleep, rousable only by strong stimuli. **Coma** — unconscious and unrousable. The states form a graded axis of **arousal versus awareness**. Stupor preserves arousal but abolishes responsiveness; **akinetic mutism preserves awareness but abolishes movement** (typically from bilateral frontal or ARAS/cingulate lesions); coma abolishes both. Distinguishing them at the bedside comes down to **what stimulus, if any, produces a response**. **Oneiroid state** — a dream-like state with profound confusion and immersion in hallucinatory experience. **Immediate memory is tested by the DIGIT SPAN FORWARD test — normally 7 ± 2 digits**; **digit span backward (5 ± 1)** tests working memory; **serial 100−7 subtraction is the best test of CONCENTRATION**; recent memory by 3-object recall at 5 minutes; remote memory by personal and historical events. **Melancholic depression: severe anhedonia, EARLY MORNING (terminal) awakening, weight loss, profound guilt over trivial events, diurnal variation (worse in the morning)**. **Sleep-onset (initial) insomnia belongs to ANXIETY, not melancholia.** *Stupor cannot respond; akinetic mutism will not move.*
+
 **REMEMBER:** *In stupor the lights are on and nobody moves; in delirium the lights themselves are flickering.*
 
 `Q8895, Q8903, Q8904, Q8914`
 
 ---
 
-### 73. Psychiatric Presentations of Endocrine Disease
+### 60. Psychiatric Presentations of Endocrine Disease
 
 **PEARL:** ***ADDISON DISEASE MIMICS DEPRESSION*** — apathy, social withdrawal, fatigue, poor concentration and disturbed sleep. Other pairings: ***HYPERTHYROIDISM — anxiety, panic and mood disorder; HYPOTHYROIDISM — depression, and in severe cases psychosis ("MYXOEDEMA MADNESS"); HYPOPARATHYROIDISM — DELIRIUM; HYPERPARATHYROIDISM — depression, anxiety and paranoid delusions ("psychiatric overtones"); HYPOGLYCAEMIA — anxiety, depersonalisation, derealisation, aggression and amnesia.***
 
@@ -1363,9 +1212,9 @@
 **MUST KNOW:**
 
 - ***AN ADDISONIAN CRISIS (after infection, trauma or surgery in a patient with unrecognised Addison disease) PRESENTS WITH SHOCK AND HYPOGLYCAEMIA AND IS A MEDICAL EMERGENCY*** — hyponatraemia, hyperkalaemia and hyperpigmentation are the diagnostic clues.
-- **Other organic mimics worth screening for: ***B12 and folate deficiency, thyroid disease, HIV and neurosyphilis, Wilson disease (in a young patient with movement and psychiatric symptoms), SLE and autoimmune (NMDA-receptor) encephalitis, temporal lobe epilepsy, frontal and temporal tumours, and normal-pressure hydrocephalus (dementia, gait apraxia and incontinence).***
-- **Drug-induced psychiatric syndromes: ***CORTICOSTEROIDS (mania, depression, psychosis), interferon (depression), isotretinoin, levodopa and dopamine agonists (psychosis, impulse control), anticholinergics (delirium), and withdrawal states.***
-- **Baseline work-up for a new psychiatric presentation: ***full blood count, glucose, electrolytes, calcium, renal and liver function, THYROID FUNCTION, B12/folate, urine drug screen, and neuroimaging where indicated by focal signs, late onset or atypical features.***
+- **Other organic mimics worth screening for:** *B12 and folate deficiency, thyroid disease, HIV and neurosyphilis, Wilson disease (in a young patient with movement and psychiatric symptoms), SLE and autoimmune (NMDA-receptor) encephalitis, temporal lobe epilepsy, frontal and temporal tumours, and normal-pressure hydrocephalus (dementia, gait apraxia and incontinence).***
+- **Drug-induced psychiatric syndromes:** *CORTICOSTEROIDS (mania, depression, psychosis), interferon (depression), isotretinoin, levodopa and dopamine agonists (psychosis, impulse control), anticholinergics (delirium), and withdrawal states.***
+- **Baseline work-up for a new psychiatric presentation:** *full blood count, glucose, electrolytes, calcium, renal and liver function, THYROID FUNCTION, B12/folate, urine drug screen, and neuroimaging where indicated by focal signs, late onset or atypical features.***
 - ***COCAINE AND AMPHETAMINE INTOXICATION CAUSES A PARANOID PSYCHOSIS WITH TACTILE HALLUCINATIONS — "FORMICATION" (MAGNAN'S SYMPTOM, "cocaine bugs"), the sensation of insects crawling under the skin*** — one of the few hallucinations with real diagnostic specificity.
 
 **EXAM CONNECTION:** Addison disease resembles → **depression**; tactile hallucinations in chronic cocaine use → **formication**.
@@ -1376,7 +1225,7 @@
 
 ---
 
-### 74. Frontotemporal Dementia — Genetics
+### 61. Frontotemporal Dementia — Genetics
 
 **PEARL:** **Disinhibition, socially inappropriate behaviour and executive dysfunction with relatively preserved memory in a patient in their 50s–60s = frontotemporal dementia.** The commonest genetic cause is a **HEXANUCLEOTIDE repeat expansion in C9orf72**.
 
@@ -1398,7 +1247,7 @@
 
 ---
 
-### 75. Assessing Delirium — the CAM Algorithm
+### 62. Assessing Delirium — the CAM Algorithm
 
 **PEARL:** **Confusion Assessment Method (CAM): delirium requires features 1 + 2 + (3 or 4)** — **acute onset with fluctuating course** AND **inattention**, PLUS either **disorganised thinking** or **altered level of consciousness**.
 
@@ -1421,43 +1270,7 @@
 
 ---
 
-### 76. Disorders of Consciousness
-
-**PEARL:** **STUPOR** — conscious but **mute, immobile and unresponsive** to the environment, though **responsive to pain**. **Akinetic mutism** — mute and immobile but **responsive** to the environment. **Sopor** — abnormally deep sleep, rousable only by strong stimuli. **Coma** — unconscious and unrousable.
-
-**UNDERSTAND:** The states form a graded axis of **arousal versus awareness**. Stupor preserves arousal but abolishes responsiveness; **akinetic mutism preserves awareness but abolishes movement** (typically from bilateral frontal or ARAS/cingulate lesions); coma abolishes both. Distinguishing them at the bedside comes down to **what stimulus, if any, produces a response**.
-
-**MUST KNOW:**
-
-- **Twilight state** — disturbed consciousness with hallucinations during which acts are performed unconsciously (epilepsy, dissociative states).
-- **Oneiroid state** — a dream-like state with profound confusion and immersion in hallucinatory experience.
-- **Catatonia** — stupor with **waxy flexibility, negativism, posturing, echolalia and echopraxia**; occurs in schizophrenia, mood disorders and organic disease. Treat with **LORAZEPAM first line** and **ECT if refractory** — note that **haloperidol treats delirium but lorazepam treats catatonia**, and antipsychotics can precipitate **neuroleptic malignant syndrome** in a catatonic patient.
-- **Immediate memory is tested by the DIGIT SPAN FORWARD test — normally 7 ± 2 digits**; **digit span backward (5 ± 1)** tests working memory; **serial 100−7 subtraction is the best test of CONCENTRATION**; recent memory by 3-object recall at 5 minutes; remote memory by personal and historical events.
-- **Melancholic depression: severe anhedonia, EARLY MORNING (terminal) awakening, weight loss, profound guilt over trivial events, diurnal variation (worse in the morning)**. **Sleep-onset (initial) insomnia belongs to ANXIETY, not melancholia.**
-
-**EXAM CONNECTION:** Definition matching, and the memory-test question answering **digit span forward**.
-
-**REMEMBER:** *Stupor cannot respond; akinetic mutism will not move.*
-
-`MA3814, MB9204, MC0966`
-
----
-
-### 77. Catatonia
-
-**PEARL:** A neuropsychiatric syndrome with **waxy flexibility, negativism, mutism, posturing and purposeless movements**. **Lorazepam is first-line** for rapid relief; **ECT is the treatment of choice** (especially if lorazepam fails or the patient is malignant/stuporous).
-
-**MUST KNOW:**
-
-- Catatonia is commoner in **mood disorders** than in schizophrenia.
-- **Malignant catatonia** (fever, autonomic instability, rigidity) resembles **neuroleptic malignant syndrome** — **antipsychotics can worsen it**; ECT is life-saving.
-- Other signs: echolalia, echopraxia, **mitgehen**, ambitendency; the **lorazepam challenge test** is both diagnostic and therapeutic.
-
-**REMEMBER:** *Lorazepam first, ECT best; avoid antipsychotics if malignant.*
-
----
-
-### 78. Temporal Lobe Epilepsy — Personality
+### 63. Temporal Lobe Epilepsy — Personality
 
 **PEARL:** **Left** temporal lobe epilepsy may generate preoccupation with **personal destiny and philosophical/religious themes**, with a **humourless** approach to life.
 
@@ -1467,17 +1280,7 @@
 
 ---
 
-### 79. Delirium — EEG
-
-**PEARL:** Delirium shows **generalized slowing of EEG waves** (theta/delta).
-
-**MUST KNOW:** Delirium = **acute onset, fluctuating course, clouded consciousness, impaired attention** with visual hallucinations — versus dementia (insidious, clear consciousness, normal or mildly slowed EEG). **Exception: delirium tremens shows FAST activity**, and hepatic encephalopathy shows **triphasic waves**. Treatment of choice for agitation in delirium is **haloperidol** (benzodiazepines only for alcohol/sedative withdrawal).
-
-**REMEMBER:** *Delirium slows the EEG — except DT, which speeds it up.*
-
----
-
-### 80. Emotion — Neuroanatomy
+### 64. Emotion — Neuroanatomy
 
 **PEARL:** **Generation of emotion and the rating of emotional importance = the limbic system, specifically the AMYGDALA**. **Regulation (control) of emotion = the FRONTAL lobe.**
 
@@ -1491,7 +1294,7 @@
 
 ## Psychopharmacology and Physical Treatments
 
-### 81. Extrapyramidal Side Effects of Antipsychotics
+### 65. Extrapyramidal Side Effects of Antipsychotics
 
 **PEARL:** ***ACUTE DYSTONIA AND DRUG-INDUCED PARKINSONISM ARE TREATED (and, with high-potency typicals like haloperidol, sometimes PREVENTED) WITH AN ANTICHOLINERGIC — BENZTROPINE or trihexyphenidyl.*** ***AKATHISIA (inner restlessness, inability to sit still, appearing within days to weeks) IS TREATED WITH A BETA-BLOCKER — PROPRANOLOL*** (anticholinergics do NOT help it); benzodiazepines are second-line.
 
@@ -1499,9 +1302,9 @@
 
 **MUST KNOW:**
 
-- **Timeline of EPS: ***ACUTE DYSTONIA — hours to days (oculogyric crisis, torticollis, laryngospasm; commonest in YOUNG MALES; treat with IM/IV anticholinergic or promethazine — a medical emergency if laryngeal). PARKINSONISM — days to weeks. AKATHISIA — days to weeks. TARDIVE DYSKINESIA — MONTHS TO YEARS (orofacial choreoathetosis; commonest in elderly women; often IRREVERSIBLE; ANTICHOLINERGICS WORSEN IT — stop them, switch to CLOZAPINE or QUETIAPINE, and consider VMAT2 inhibitors such as valbenazine/tetrabenazine).***
+- **Timeline of EPS:** *ACUTE DYSTONIA — hours to days (oculogyric crisis, torticollis, laryngospasm; commonest in YOUNG MALES; treat with IM/IV anticholinergic or promethazine — a medical emergency if laryngeal). PARKINSONISM — days to weeks. AKATHISIA — days to weeks. TARDIVE DYSKINESIA — MONTHS TO YEARS (orofacial choreoathetosis; commonest in elderly women; often IRREVERSIBLE; ANTICHOLINERGICS WORSEN IT — stop them, switch to CLOZAPINE or QUETIAPINE, and consider VMAT2 inhibitors such as valbenazine/tetrabenazine).***
 - ***NEUROLEPTIC MALIGNANT SYNDROME: hyperthermia, LEAD-PIPE RIGIDITY, altered consciousness, autonomic instability and a very HIGH CREATINE KINASE with leucocytosis — STOP THE ANTIPSYCHOTIC, cool, hydrate, and give DANTROLENE and BROMOCRIPTINE.*** Contrast serotonin syndrome (rapid onset, CLONUS AND HYPERREFLEXIA, diarrhoea, dilated pupils).
-- **Dopamine pathways explain the whole side-effect profile: ***MESOLIMBIC blockade — antipsychotic effect; MESOCORTICAL blockade — worsening NEGATIVE and cognitive symptoms; NIGROSTRIATAL blockade — EPS; TUBEROINFUNDIBULAR blockade — HYPERPROLACTINAEMIA (galactorrhoea, amenorrhoea, gynaecomastia, sexual dysfunction — worst with RISPERIDONE and typicals; least with ARIPIPRAZOLE, a partial agonist).***
+- **Dopamine pathways explain the whole side-effect profile:** *MESOLIMBIC blockade — antipsychotic effect; MESOCORTICAL blockade — worsening NEGATIVE and cognitive symptoms; NIGROSTRIATAL blockade — EPS; TUBEROINFUNDIBULAR blockade — HYPERPROLACTINAEMIA (galactorrhoea, amenorrhoea, gynaecomastia, sexual dysfunction — worst with RISPERIDONE and typicals; least with ARIPIPRAZOLE, a partial agonist).***
 - **Atypicals trade EPS for ***METABOLIC syndrome — weight gain, dyslipidaemia and diabetes (worst with OLANZAPINE and clozapine; least with aripiprazole, lurasidone and ziprasidone) — so monitor weight, waist, glucose, lipids and ECG (QT).***
 - ***ROUTINE PROPHYLACTIC ANTICHOLINERGICS ARE NOT RECOMMENDED WITH ATYPICALS*** — they add anticholinergic burden (delirium, constipation, urinary retention, cognitive impairment) and can worsen tardive dyskinesia.
 
@@ -1513,7 +1316,7 @@
 
 ---
 
-### 82. Lithium Levels and Monitoring
+### 66. Lithium Levels and Monitoring
 
 **PEARL:** ***THERAPEUTIC LITHIUM = 0.6–1.2 mEq/L (prophylaxis 0.6–1.0); TOXICITY BEGINS ABOVE 2.0 mEq/L; HAEMODIALYSIS IS CONSIDERED AT LEVELS ≥4.0 mEq/L*** (or lower with severe symptoms or renal failure). Levels are measured as a ***TROUGH, 12 HOURS AFTER THE LAST DOSE, at least 5 DAYS after starting or changing the dose.***
 
@@ -1522,8 +1325,8 @@
 **MUST KNOW:**
 
 - ***SYMPTOMS TRACK LEVELS: 1.5–2.0 — coarse tremor, nausea, vomiting, diarrhoea, drowsiness; 2.0–2.5 — ataxia, dysarthria, confusion, myoclonus, ECG changes; >2.5 — seizures, coma, renal failure, arrhythmia and death.*** ***CHRONIC toxicity produces neurological damage at LOWER levels than acute overdose*** (which is often better tolerated).
-- **Monitoring schedule: ***levels every 3 MONTHS once stable, plus RENAL AND THYROID FUNCTION AND CALCIUM every 6 MONTHS***; check a level whenever the patient becomes unwell, is dehydrated or starts a new drug.
-- **Long-term adverse effects: ***NEPHROGENIC DIABETES INSIPIDUS (polyuria/polydipsia — treated with amiloride), chronic interstitial nephritis, HYPOTHYROIDISM AND GOITRE, HYPERPARATHYROIDISM with hypercalcaemia, weight gain, fine tremor (treat with propranolol), acne and psoriasis, and leucocytosis.***
+- **Monitoring schedule:** *levels every 3 MONTHS once stable, plus RENAL AND THYROID FUNCTION AND CALCIUM every 6 MONTHS***; check a level whenever the patient becomes unwell, is dehydrated or starts a new drug.
+- **Long-term adverse effects:** *NEPHROGENIC DIABETES INSIPIDUS (polyuria/polydipsia — treated with amiloride), chronic interstitial nephritis, HYPOTHYROIDISM AND GOITRE, HYPERPARATHYROIDISM with hypercalcaemia, weight gain, fine tremor (treat with propranolol), acne and psoriasis, and leucocytosis.***
 - ***MANAGEMENT OF TOXICITY: STOP LITHIUM, GIVE GENEROUS ISOTONIC SALINE, correct electrolytes, and DIALYSE for severe neurological signs, renal failure or very high levels.*** ***ACTIVATED CHARCOAL DOES NOT BIND LITHIUM.***
 - ***"SILENT" IRREVERSIBLE NEUROLOGICAL SEQUELAE (cerebellar ataxia, cognitive impairment) FOLLOW SEVERE OR PROLONGED TOXICITY*** — the reason lithium toxicity is treated aggressively rather than watchfully.
 
@@ -1535,7 +1338,7 @@
 
 ---
 
-### 83. Serotonin Syndrome
+### 67. Serotonin Syndrome
 
 **PEARL:** **A patient given an ***MAO INHIBITOR PLUS A TRICYCLIC (or SSRI) who develops AGITATION, HYPERREFLEXIA, CLONUS, TREMOR, SEIZURES, hyperthermia, diarrhoea and dilated pupils HAS SEROTONIN SYNDROME — TREAT BY STOPPING ALL SEROTONERGIC DRUGS, giving BENZODIAZEPINES and supportive cooling, and using CYPROHEPTADINE (a 5-HT2A antagonist) as the specific antidote.***
 
@@ -1543,11 +1346,11 @@
 
 **MUST KNOW:**
 
-- **Culprit combinations: ***SSRIs/SNRIs + MAO INHIBITORS (the classic and most dangerous — requires a washout of 2 WEEKS, or 5 WEEKS FOR FLUOXETINE), TRAMADOL, PETHIDINE, LINEZOLID, methylene blue, triptans, ondansetron, lithium, St John's wort, dextromethorphan and MDMA/amphetamines.***
+- **Culprit combinations:** *SSRIs/SNRIs + MAO INHIBITORS (the classic and most dangerous — requires a washout of 2 WEEKS, or 5 WEEKS FOR FLUOXETINE), TRAMADOL, PETHIDINE, LINEZOLID, methylene blue, triptans, ondansetron, lithium, St John's wort, dextromethorphan and MDMA/amphetamines.***
 - **Severity is graded by the ***HUNTER CRITERIA (spontaneous clonus, or inducible/ocular clonus with agitation or diaphoresis, or hypertonia with hyperthermia).*** Severe cases need intubation, paralysis and active cooling; ***ANTIPYRETICS DO NOT WORK because the hyperthermia is muscular, not hypothalamic.***
-- **Antipsychotic-related emergencies to keep beside it: ***NEUROLEPTIC MALIGNANT SYNDROME (dopamine blockade — stop the drug, dantrolene, bromocriptine) and MALIGNANT CATATONIA (clinically almost identical — treated with lorazepam and ECT, and made WORSE by antipsychotics).***
-- **Prescribing safety: ***never co-prescribe two strong serotonergic agents without reason, observe washout intervals, and warn patients about over-the-counter dextromethorphan and herbal remedies.***
-- **Anticholinergic toxidrome is the other mimic: ***"mad as a hatter, dry as a bone, red as a beet, hot as a hare, blind as a bat" — DRY skin (versus the SWEATING of serotonin syndrome), with normal reflexes.***
+- **Antipsychotic-related emergencies to keep beside it:** *NEUROLEPTIC MALIGNANT SYNDROME (dopamine blockade — stop the drug, dantrolene, bromocriptine) and MALIGNANT CATATONIA (clinically almost identical — treated with lorazepam and ECT, and made WORSE by antipsychotics).***
+- **Prescribing safety:** *never co-prescribe two strong serotonergic agents without reason, observe washout intervals, and warn patients about over-the-counter dextromethorphan and herbal remedies.***
+- **Anticholinergic toxidrome is the other mimic:** *"mad as a hatter, dry as a bone, red as a beet, hot as a hare, blind as a bat" — DRY skin (versus the SWEATING of serotonin syndrome), with normal reflexes.***
 
 **EXAM CONNECTION:** Agitation, seizures, hyperreflexia and tremor after adding an MAOI and amitriptyline → **cyproheptadine**.
 
@@ -1557,7 +1360,7 @@
 
 ---
 
-### 84. Managing Delirium and Catatonia — Two Different Drugs
+### 68. Managing Delirium and Catatonia — Two Different Drugs
 
 **PEARL:** ***HALOPERIDOL IS FIRST-LINE FOR THE AGITATED, HYPERACTIVE DELIRIUM OF THE POSTOPERATIVE OR MEDICALLY ILL PATIENT.*** ***LORAZEPAM IS FIRST-LINE FOR CATATONIA (waxy flexibility, negativism, posturing, purposeless movements), WITH ECT AS THE DEFINITIVE TREATMENT.*** ***THE TWO ARE OPPOSITES: BENZODIAZEPINES WORSEN DELIRIUM (except in alcohol/sedative withdrawal), AND ANTIPSYCHOTICS WORSEN CATATONIA (risking malignant catatonia/NMS).***
 
@@ -1569,9 +1372,11 @@
 - **Antipsychotics in delirium are used ***ONLY for distressing agitation or psychosis and at the lowest dose for the shortest time***; haloperidol is preferred (least anticholinergic, available parenterally), with ***QUETIAPINE PREFERRED IN PARKINSON DISEASE AND LEWY BODY DEMENTIA, where typical antipsychotics can be catastrophic.*** Monitor the QT.
 - ***DELIRIUM IS A MARKER OF SERIOUS ILLNESS AND OF POOR PROGNOSIS — it predicts longer stay, functional decline, incident dementia and higher mortality*** — and hypoactive delirium (quiet, withdrawn) is commoner, more often missed, and carries the worse outcome.
 - **Catatonia occurs more often in ***MOOD DISORDERS than in schizophrenia***, and also in organic disease (encephalitis, metabolic disturbance) — always investigate a first presentation.
-- **Antipsychotic choice by side-effect profile: ***ZIPRASIDONE (and aripiprazole, lurasidone) cause the LEAST WEIGHT GAIN; OLANZAPINE AND CLOZAPINE THE MOST***, with quetiapine, risperidone and chlorpromazine intermediate — the decisive consideration in an already obese patient. ***CLOZAPINE IS THE ANSWER FOR TREATMENT-RESISTANT SCHIZOPHRENIA (failure of two adequate antipsychotic trials) AND IS THE ONLY ANTIPSYCHOTIC PROVEN TO REDUCE SUICIDE*** — with mandatory blood counts for agranulocytosis.
+- **Antipsychotic choice by side-effect profile:** *ZIPRASIDONE (and aripiprazole, lurasidone) cause the LEAST WEIGHT GAIN; OLANZAPINE AND CLOZAPINE THE MOST***, with quetiapine, risperidone and chlorpromazine intermediate — the decisive consideration in an already obese patient. ***CLOZAPINE IS THE ANSWER FOR TREATMENT-RESISTANT SCHIZOPHRENIA (failure of two adequate antipsychotic trials) AND IS THE ONLY ANTIPSYCHOTIC PROVEN TO REDUCE SUICIDE*** — with mandatory blood counts for agranulocytosis.
 
 **EXAM CONNECTION:** Postoperative acute confusion → **haloperidol**; waxy flexibility with negativism → **lorazepam**; least weight gain → **ziprasidone**; no response to risperidone with a suicide attempt → **start clozapine**.
+
+**ALSO KNOW:** **Malignant catatonia** (fever, autonomic instability, rigidity) resembles **neuroleptic malignant syndrome** — **antipsychotics can worsen it**; ECT is life-saving. Other signs: echolalia, echopraxia, **mitgehen**, ambitendency; the **lorazepam challenge test** is both diagnostic and therapeutic.
 
 **REMEMBER:** *Sedate the catatonic, not the delirious.*
 
@@ -1579,7 +1384,7 @@
 
 ---
 
-### 85. Valproate: Hepatotoxicity and Hyperammonaemia
+### 69. Valproate: Hepatotoxicity and Hyperammonaemia
 
 **PEARL:** Among mood stabilisers, **VALPROATE** causes **hepatotoxicity and HYPERAMMONAEMIC ENCEPHALOPATHY** — the latter can occur **with normal liver function tests and therapeutic valproate levels**. It is **contraindicated in urea cycle disorders and mitochondrial disease (POLG mutations)**.
 
@@ -1602,7 +1407,7 @@
 
 ---
 
-### 86. Electroconvulsive Therapy
+### 70. Electroconvulsive Therapy
 
 **PEARL:** **METHOHEXITAL is the anaesthetic of choice for ECT** — short-acting, and the **only induction agent with NO intrinsic anticonvulsant property**, so it does not shorten the therapeutic seizure.
 
@@ -1625,7 +1430,7 @@
 
 ---
 
-### 87. Antidepressant Discontinuation and Side Effects
+### 71. Antidepressant Discontinuation and Side Effects
 
 **PEARL:** **Abrupt stoppage of VENLAFAXINE causes a severe discontinuation syndrome — agitation, anxiety, insomnia, dizziness and "electric shock" sensations.** **SSRIs cause DRY MOUTH, not sialorrhoea.**
 
@@ -1647,7 +1452,7 @@
 
 ---
 
-### 88. Flupenthixol
+### 72. Flupenthixol
 
 **PEARL:** A **thioxanthene antipsychotic** blocking both **D1 and D2** receptors; the **depot** form is used in schizophrenia, and in **low dose it is used for depression**.
 
@@ -1657,7 +1462,7 @@
 
 ---
 
-### 89. Anterior Cingulotomy
+### 73. Anterior Cingulotomy
 
 **PEARL:** A **neurosurgical treatment for refractory OCD** — bilateral stereotactic lesions in the **anterior cingulate cortex**.
 
@@ -1667,7 +1472,7 @@
 
 ---
 
-### 90. Venlafaxine Discontinuation
+### 74. Venlafaxine Discontinuation
 
 **PEARL:** Abrupt stoppage of **venlafaxine** causes **agitation, anxiety and insomnia** (discontinuation syndrome).
 
@@ -1679,7 +1484,7 @@
 
 ---
 
-### 91. Guanfacine
+### 75. Guanfacine
 
 **PEARL:** An **α2A adrenergic receptor agonist** — useful in ADHD when **stimulants are not tolerated** or when extra help with **emotional regulation/impulsivity** is needed.
 
@@ -1693,7 +1498,7 @@
 
 ## Psychotherapy, Theories and Eponyms
 
-### 92. Psychotherapies and Nicotine Replacement
+### 76. Psychotherapies and Nicotine Replacement
 
 **PEARL:** ***SUPPORTIVE PSYCHOTHERAPY IS FOR PATIENTS WITH LIMITED EGO STRENGTH — severe chronic illness, cognitive decline, acute crisis, poor frustration tolerance — while a patient WITH GOOD MOTIVATION AND GOOD CONTROL OVER FRUSTRATION IS BETTER SUITED TO EXPRESSIVE (insight-oriented) PSYCHOTHERAPY.*** In nicotine replacement, ***ACIDIC DRINKS (coffee, tea, soda, juice) REDUCE ABSORPTION OF NICOTINE GUM, SO A GAP OF AT LEAST 15 MINUTES IS NEEDED*** before and during use.
 
@@ -1701,9 +1506,9 @@
 
 **MUST KNOW:**
 
-- **The main modalities: ***COGNITIVE BEHAVIOURAL THERAPY (identifying and restructuring automatic negative thoughts — first-line for depression, anxiety, OCD, PTSD, insomnia); BEHAVIOURAL (systematic desensitisation, flooding, ERP, aversion, token economy); PSYCHODYNAMIC (transference, free association, dream analysis); INTERPERSONAL therapy (grief, role transition, role dispute, interpersonal deficits); DIALECTICAL BEHAVIOUR THERAPY (the treatment of choice for BORDERLINE personality disorder and self-harm); FAMILY and GROUP therapy; and MOTIVATIONAL INTERVIEWING for substance use.***
-- **Nicotine replacement practicalities: ***gum (chew-and-park; 1–2 per hour, max 24/day), lozenge (gives HIGHER blood levels than gum), patch (steady levels, best adherence — combine a patch with a fast-acting form for breakthrough craving), inhaler and nasal spray; a course of 6–12 weeks with tapering.*** ***THE ORAL/GASTROINTESTINAL ROUTE IS NOT USED — swallowed nicotine undergoes extensive FIRST-PASS METABOLISM.***
-- **Pharmacotherapy alternatives: ***VARENICLINE (alpha-4-beta-2 nicotinic PARTIAL AGONIST — the most effective single agent; its cardiovascular and neuropsychiatric black-box warnings have been REMOVED after the EAGLES trial) and BUPROPION (which also lowers the seizure threshold).***
+- **The main modalities:** *COGNITIVE BEHAVIOURAL THERAPY (identifying and restructuring automatic negative thoughts — first-line for depression, anxiety, OCD, PTSD, insomnia); BEHAVIOURAL (systematic desensitisation, flooding, ERP, aversion, token economy); PSYCHODYNAMIC (transference, free association, dream analysis); INTERPERSONAL therapy (grief, role transition, role dispute, interpersonal deficits); DIALECTICAL BEHAVIOUR THERAPY (the treatment of choice for BORDERLINE personality disorder and self-harm); FAMILY and GROUP therapy; and MOTIVATIONAL INTERVIEWING for substance use.***
+- **Nicotine replacement practicalities:** *gum (chew-and-park; 1–2 per hour, max 24/day), lozenge (gives HIGHER blood levels than gum), patch (steady levels, best adherence — combine a patch with a fast-acting form for breakthrough craving), inhaler and nasal spray; a course of 6–12 weeks with tapering.*** ***THE ORAL/GASTROINTESTINAL ROUTE IS NOT USED — swallowed nicotine undergoes extensive FIRST-PASS METABOLISM.***
+- **Pharmacotherapy alternatives:** *VARENICLINE (alpha-4-beta-2 nicotinic PARTIAL AGONIST — the most effective single agent; its cardiovascular and neuropsychiatric black-box warnings have been REMOVED after the EAGLES trial) and BUPROPION (which also lowers the seizure threshold).***
 - ***COMBINING PHARMACOTHERAPY WITH BEHAVIOURAL SUPPORT ROUGHLY DOUBLES QUIT RATES COMPARED WITH EITHER ALONE***, and the "5 A's" (Ask, Advise, Assess, Assist, Arrange) structure the brief intervention that every clinician should deliver.
 - **The stages-of-change model (precontemplation → contemplation → preparation → action → maintenance → relapse) determines which intervention is appropriate at a given visit.**
 
@@ -1715,7 +1520,7 @@
 
 ---
 
-### 93. Defence Mechanisms and Psychosexual Fixation
+### 77. Defence Mechanisms and Psychosexual Fixation
 
 **PEARL:** ***SUBLIMATION IS A MATURE DEFENCE*** (channelling an unacceptable impulse into a socially valued activity) — alongside ***ANTICIPATION, HUMOUR, ALTRUISM, ASCETICISM and SUPPRESSION.*** ***INTROJECTION, REGRESSION and SOMATIZATION are IMMATURE defences.*** Classic pairings: ***OCD — REACTION FORMATION, UNDOING and ISOLATION OF AFFECT, with fixation at the ANAL stage; DELUSIONS AND HALLUCINATIONS — PROJECTION; HYSTERIA/conversion — REPRESSION, with fixation at the PHALLIC (not genital) stage.***
 
@@ -1723,10 +1528,10 @@
 
 **MUST KNOW:**
 
-- **Definitions worth being exact about: ***REACTION FORMATION (behaving as the OPPOSITE of the unacceptable impulse — the excessively solicitous relative), UNDOING (a ritual that magically cancels the thought — the compulsion of OCD), DISPLACEMENT (redirecting affect onto a safer target), PROJECTION (attributing one's own unacceptable impulse to another — the root of paranoia), IDENTIFICATION WITH THE AGGRESSOR, SPLITTING (all good/all bad — borderline), ISOLATION OF AFFECT, DENIAL, REGRESSION and ACTING OUT.***
-- **Freud's psychosexual stages: ***ORAL (0–1 y — fixation: dependency, addiction, smoking), ANAL (1–3 y — obsessionality, orderliness, stubbornness), PHALLIC/OEDIPAL (3–5 y — hysteria, conversion), LATENCY (5–12 y), GENITAL (from puberty — mature intimacy).***
-- **Erikson's psychosocial stages for contrast: ***trust vs mistrust (infancy), autonomy vs shame (toddler), initiative vs guilt, industry vs inferiority (school age), IDENTITY vs role confusion (adolescence), intimacy vs isolation, generativity vs stagnation, integrity vs despair.*** ***PIAGET: sensorimotor (0–2, object permanence), preoperational (2–7, egocentrism and MAGICAL THINKING), concrete operational (7–11, conservation), formal operational (12+, abstract reasoning).***
-- **Learning theory: ***CLASSICAL (Pavlovian) conditioning pairs a NEUTRAL stimulus with an unconditioned one — food is the UNCONDITIONED STIMULUS, salivation to food the UNCONDITIONED RESPONSE, the BELL/WHISTLE the CONDITIONED STIMULUS, and salivation to the bell the CONDITIONED RESPONSE.*** It governs INVOLUNTARY responses and underlies phobias, systematic desensitisation, the bell-and-pad for enuresis and aversion therapy. ***OPERANT (Skinnerian) conditioning shapes VOLUNTARY behaviour by consequences — reinforcement and punishment, with INTERMITTENT (variable-ratio) REINFORCEMENT producing the most resistant behaviour (the psychology of gambling).***
+- **Definitions worth being exact about:** *REACTION FORMATION (behaving as the OPPOSITE of the unacceptable impulse — the excessively solicitous relative), UNDOING (a ritual that magically cancels the thought — the compulsion of OCD), DISPLACEMENT (redirecting affect onto a safer target), PROJECTION (attributing one's own unacceptable impulse to another — the root of paranoia), IDENTIFICATION WITH THE AGGRESSOR, SPLITTING (all good/all bad — borderline), ISOLATION OF AFFECT, DENIAL, REGRESSION and ACTING OUT.***
+- **Freud's psychosexual stages:** *ORAL (0–1 y — fixation: dependency, addiction, smoking), ANAL (1–3 y — obsessionality, orderliness, stubbornness), PHALLIC/OEDIPAL (3–5 y — hysteria, conversion), LATENCY (5–12 y), GENITAL (from puberty — mature intimacy).***
+- **Erikson's psychosocial stages for contrast:** *trust vs mistrust (infancy), autonomy vs shame (toddler), initiative vs guilt, industry vs inferiority (school age), IDENTITY vs role confusion (adolescence), intimacy vs isolation, generativity vs stagnation, integrity vs despair.*** ***PIAGET: sensorimotor (0–2, object permanence), preoperational (2–7, egocentrism and MAGICAL THINKING), concrete operational (7–11, conservation), formal operational (12+, abstract reasoning).***
+- **Learning theory:** *CLASSICAL (Pavlovian) conditioning pairs a NEUTRAL stimulus with an unconditioned one — food is the UNCONDITIONED STIMULUS, salivation to food the UNCONDITIONED RESPONSE, the BELL/WHISTLE the CONDITIONED STIMULUS, and salivation to the bell the CONDITIONED RESPONSE.*** It governs INVOLUNTARY responses and underlies phobias, systematic desensitisation, the bell-and-pad for enuresis and aversion therapy. ***OPERANT (Skinnerian) conditioning shapes VOLUNTARY behaviour by consequences — reinforcement and punishment, with INTERMITTENT (variable-ratio) REINFORCEMENT producing the most resistant behaviour (the psychology of gambling).***
 - **Defences are not pathological in themselves — ***everyone uses them; it is rigidity and immaturity of the defensive repertoire that defines psychopathology.***
 
 **EXAM CONNECTION:** NOT an immature defence → **sublimation**; incorrectly matched → **genital stage with hysteria** (it is the phallic stage); role of the whistle in Pavlov's experiment → **conditioned stimulus**.
@@ -1741,7 +1546,7 @@
 
 ---
 
-### 94. Freud's Structural Model
+### 78. Freud's Structural Model
 
 **PEARL:** ***THE EGO IDEAL — a component of the SUPEREGO — SETS PERSONAL GOALS, AMBITIONS AND ASPIRATIONS***, while the ***CONSCIENCE (the other superego component) PROHIBITS AND PUNISHES.*** The ***ID*** (present from birth) holds instinctual drives and works on the ***PLEASURE PRINCIPLE***; the ***EGO*** develops in childhood, works on the ***REALITY PRINCIPLE*** and mediates between id, superego and the external world; the ***SUPEREGO*** internalises parental, religious and cultural standards.
 
@@ -1750,10 +1555,10 @@
 **MUST KNOW:**
 
 - **The topographical model (conscious, PRECONSCIOUS, unconscious) preceded the structural one; ***the ID IS ENTIRELY UNCONSCIOUS, while the EGO AND SUPEREGO SPAN ALL THREE LEVELS.***
-- **Key psychoanalytic terms: ***TRANSFERENCE (feelings towards significant past figures displaced onto the therapist — the engine of psychodynamic work), COUNTERTRANSFERENCE (the therapist's reciprocal reaction — a source of information and of error), FREE ASSOCIATION, RESISTANCE, INSIGHT and WORKING THROUGH.***
+- **Key psychoanalytic terms:** *TRANSFERENCE (feelings towards significant past figures displaced onto the therapist — the engine of psychodynamic work), COUNTERTRANSFERENCE (the therapist's reciprocal reaction — a source of information and of error), FREE ASSOCIATION, RESISTANCE, INSIGHT and WORKING THROUGH.***
 - ***DISPLACEMENT — shifting affect from a threatening target to a safer one (the man berated by his boss who shouts at his wife) — IS THE PROTOTYPE DEFENCE FOR PHOBIA*** (fear displaced from the true conflict onto an external object).
 - **Modern relevance: psychodynamic psychotherapy retains an evidence base in ***personality disorders and chronic depression***, but is unsuitable for acutely psychotic, severely cognitively impaired or poorly motivated patients — for whom ***SUPPORTIVE*** therapy is indicated.
-- **Contrast the other schools: ***BEHAVIOURAL (Pavlov, Skinner — learning), COGNITIVE (Beck — automatic thoughts, the COGNITIVE TRIAD of negative views of self, world and future in depression), HUMANISTIC (Rogers — unconditional positive regard) and INTERPERSONAL.***
+- **Contrast the other schools:** *BEHAVIOURAL (Pavlov, Skinner — learning), COGNITIVE (Beck — automatic thoughts, the COGNITIVE TRIAD of negative views of self, world and future in depression), HUMANISTIC (Rogers — unconditional positive regard) and INTERPERSONAL.***
 
 **EXAM CONNECTION:** Sets personal goals and aspirations → **ego ideal**; the frustrated employee who takes it out on his wife → **displacement**.
 
@@ -1763,7 +1568,7 @@
 
 ---
 
-### 95. Abreaction vs Catharsis
+### 79. Abreaction vs Catharsis
 
 **PEARL:** **CATHARSIS** is the general release of strong or repressed emotion. **ABREACTION** is the specific form: **emotional discharge that follows consciously RELIVING a repressed traumatic experience.**
 
@@ -1777,7 +1582,7 @@
 - **CONTINGENCY MANAGEMENT** — systematic **reinforcement of desired behaviour** (never punishment) — is the technique for teaching daily living skills in **intellectual disability**, and is also used in substance use disorders.
 - **Hoarding disorder responds POORLY to exposure and response prevention** — poor insight, low motivation and resistance; it needs a specific CBT model with **decision-making and categorisation training, habituation to discarding, and cognitive restructuring**.
 
-**EXAM CONNECTION:** Definition-matching. Note the precise wording: **"after consciously reliving a repressed painful experience"** = abreaction, not plain catharsis.
+**EXAM CONNECTION: **Definition-matching. Note the precise wording:** "after consciously reliving a repressed painful experience"** = abreaction, not plain catharsis.
 
 **REMEMBER:** *Catharsis releases the emotion; abreaction relives the memory first.*
 
@@ -1785,7 +1590,7 @@
 
 ---
 
-### 96. Who Coined What
+### 80. Who Coined What
 
 **PEARL:** **Eugen Bleuler** coined **"schizophrenia"**; **Emil Kraepelin** coined **"dementia praecox"**.
 
@@ -1795,7 +1600,7 @@
 
 ---
 
-### 97. Aaron Beck's Cognitive Triad
+### 81. Aaron Beck's Cognitive Triad
 
 **PEARL:** Negative views of **(1) oneself, (2) the world/surroundings, and (3) the future**.
 
@@ -1805,7 +1610,7 @@
 
 ---
 
-### 98. Five Stages of Grief
+### 82. Five Stages of Grief
 
 **PEARL:** **Denial → Anger → Bargaining → Depression → Acceptance** (Kübler-Ross).
 
@@ -1815,7 +1620,7 @@
 
 ---
 
-### 99. Repression
+### 83. Repression
 
 **PEARL:** **Repression** = unconsciously excluding anxiety-provoking ideas from awareness — the mechanism in **psychogenic (dissociative) amnesia**. It is **not** the defence used in **OCD**.
 
@@ -1825,11 +1630,11 @@
 
 ---
 
-### 100. Affective Learning
+### 84. Affective Learning
 
 **PEARL:** **Affective learning** involves changes in **feelings, attitudes and values** — e.g. students developing a positive attitude towards health behaviours and willingly promoting them.
 
-**MUST KNOW:** Bloom's three domains: **cognitive (knowledge), affective (attitude), psychomotor (skills)**.
+**MUST KNOW: **Bloom's three domains:** cognitive (knowledge), affective (attitude), psychomotor (skills)**.
 
 **REMEMBER:** *Knows = cognitive; feels = affective; does = psychomotor.*
 
@@ -1838,3 +1643,7 @@
 *Cross-reference: lithium monitoring, mirtazapine, vilazodone and memantine pearls sit in the Pharmacology file.*
 
 ---
+
+## Sources for the 2026 Updates
+
+[^1]: **ICD-11 (WHO), in force from 1 January 2022**, and **DSM-5-TR (American Psychiatric Association, 2022)** — prolonged grief disorder added, schizophrenia subtypes and categorical personality-disorder types removed in ICD-11, gaming disorder and complex PTSD added, gender incongruence moved to the sexual-health chapter. <https://icd.who.int/en>

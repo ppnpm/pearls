@@ -1,13 +1,13 @@
 # Anesthesia — Bookmark-Derived Pearls
 
-*Distilled from bookmarked INI-CET / NEET-PG MCQs. Only high-yield, revisable learning points were kept; points already covered by the existing pearl collection were dropped.*
+*Distilled from bookmarked INI-CET / NEET-PG MCQs. Only high-yield, revisable learning points were kept; duplicate pearls have been merged so that each concept appears once, in the pearl where it belongs. Guideline-dependent content has been updated to the position as of 2026, with footnoted sources listed at the end of the file.*
 
 ---
 
 ## Contents
 
-- [Preoperative Assessment](#preoperative-assessment) — 5 pearls
-- [Airway Management and Intubation](#airway-management-and-intubation) — 13 pearls
+- [Preoperative Assessment](#preoperative-assessment) — 3 pearls
+- [Airway Management and Intubation](#airway-management-and-intubation) — 12 pearls
 - [Intravenous Induction Agents](#intravenous-induction-agents) — 4 pearls
 - [Inhalational Agents](#inhalational-agents) — 6 pearls
 - [Muscle Relaxants and Reversal](#muscle-relaxants-and-reversal) — 6 pearls
@@ -15,7 +15,7 @@
 - [Local Anaesthesia and Pain Management](#local-anaesthesia-and-pain-management) — 3 pearls
 - [Anaesthesia Equipment and Machine](#anaesthesia-equipment-and-machine) — 5 pearls
 - [Monitoring, Fluids and Transfusion](#monitoring-fluids-and-transfusion) — 4 pearls
-- [Oxygen Therapy, Ventilation and Critical Care](#oxygen-therapy-ventilation-and-critical-care) — 8 pearls
+- [Oxygen Therapy, Ventilation and Critical Care](#oxygen-therapy-ventilation-and-critical-care) — 7 pearls
 - [Resuscitation and Cardiac Arrest](#resuscitation-and-cardiac-arrest) — 4 pearls
 - [Complications and Miscellaneous](#complications-and-miscellaneous) — 5 pearls
 
@@ -38,6 +38,10 @@
 - **Elective surgery is deferred for 6 months after an MI** (or at least 60 days); the risk of reinfarction falls sharply thereafter.
 
 **EXAM CONNECTION:** "ASA III best represents" → **severe systemic disease**. Also given as a clinical vignette (recent MI + EF 40% → **ASA 4**).
+
+**ALSO KNOW:** The classification grades **the patient, not the operation**, and it turns on **functional limitation** rather than on the diagnosis itself. Well-controlled hypertension is ASA II; hypertension with a previous stroke and exertional angina is ASA III; unstable angina is ASA IV. That is why "moderate systemic disease" is not a valid ASA category — the scale moves from **mild → severe → life-threatening**, skipping "moderate" entirely, and the exam exploits that gap. It **correlates strongly with perioperative morbidity and mortality**, is simple and reproducible, and is recorded for every anaesthetic — but it was **never designed to predict risk on its own** and takes no account of age or the surgical procedure. **Pregnancy is always at least ASA II**, even in a healthy woman. Other preoperative assessments worth pairing with it: **Mallampati grading and thyromental distance** for the airway; **METS (metabolic equivalents — ≥4 METs, e.g. climbing a flight of stairs, indicates adequate functional capacity)**; the **Revised Cardiac Risk Index**; **NPO/fasting guidelines — 2 hours clear fluids, 4 hours breast milk, 6 hours light meal, 8 hours fatty meal**.
+
+**ALSO KNOW:** **ASA-PS with "E"** denotes an **emergency** — a situation where delay would significantly increase the threat to life or body part. **ASA VE** therefore means a **moribund patient (ASA V) undergoing emergency surgery**.
 
 **REMEMBER:** *2 mild, 3 severe, 4 life-threatening, 5 dying, 6 dead.*
 
@@ -74,28 +78,7 @@
 
 ---
 
-### 3. ASA Physical Status Classification
-
-**PEARL:** **ASA I — normal healthy patient. ASA II — MILD systemic disease with no functional limitation. ASA III — SEVERE systemic disease with some functional limitation. ASA IV — severe systemic disease that is a CONSTANT THREAT TO LIFE. ASA V — moribund, not expected to survive without the operation. ASA VI — brain-dead organ donor.** Add **"E" for an emergency procedure.**
-
-**UNDERSTAND:** The classification grades **the patient, not the operation**, and it turns on **functional limitation** rather than on the diagnosis itself. Well-controlled hypertension is ASA II; hypertension with a previous stroke and exertional angina is ASA III; unstable angina is ASA IV. That is why "moderate systemic disease" is not a valid ASA category — the scale moves from **mild → severe → life-threatening**, skipping "moderate" entirely, and the exam exploits that gap.
-
-**MUST KNOW:**
-
-- Examples: **ASA II — controlled hypertension or diabetes, current smoker, pregnancy, obesity (BMI 30–40), mild lung disease.** **ASA III — poorly controlled diabetes or hypertension, COPD, morbid obesity (BMI ≥40), an MI or stroke MORE than 3 months ago, an implanted pacemaker, dialysis-dependent ESRD.** **ASA IV — an MI/stroke/stent WITHIN 3 months, ongoing cardiac ischaemia, severe valve disease, sepsis, DIC, ESRD not on scheduled dialysis.**
-- It **correlates strongly with perioperative morbidity and mortality**, is simple and reproducible, and is recorded for every anaesthetic — but it was **never designed to predict risk on its own** and takes no account of age or the surgical procedure.
-- **Pregnancy is always at least ASA II**, even in a healthy woman.
-- Other preoperative assessments worth pairing with it: **Mallampati grading and thyromental distance** for the airway; **METS (metabolic equivalents — ≥4 METs, e.g. climbing a flight of stairs, indicates adequate functional capacity)**; the **Revised Cardiac Risk Index**; **NPO/fasting guidelines — 2 hours clear fluids, 4 hours breast milk, 6 hours light meal, 8 hours fatty meal**.
-
-**EXAM CONNECTION:** Recite the ladder and pick the matching phrase. **III = severe systemic disease**; the distractor "moderate systemic disease" does not exist in the scale.
-
-**REMEMBER:** *Mild is two, severe is three, life-threatening is four.*
-
-`Q11046`
-
----
-
-### 4. Perioperative Platelet and Prophylaxis Thresholds
+### 3. Perioperative Platelet and Prophylaxis Thresholds
 
 **PEARL:** **Transfuse to a platelet count > 50,000/mm³ before surgery.** **One unit raises the count by ~10,000/mm³.**
 
@@ -116,23 +99,11 @@
 
 ---
 
-### 5. ASA Physical Status — "E"
-
-**PEARL:** **ASA-PS with "E"** denotes an **emergency** — a situation where delay would significantly increase the threat to life or body part. **ASA VE** therefore means a **moribund patient (ASA V) undergoing emergency surgery**.
-
-**MUST KNOW:** **I** — normal healthy; **II** — mild systemic disease; **III** — severe systemic disease (not incapacitating); **IV** — severe systemic disease that is a **constant threat to life**; **V** — **moribund, not expected to survive 24 hours with or without surgery**; **VI** — **brain-dead organ donor**. The **"E" suffix is added to any class except VI**. ASA grading assesses **physical status, not operative risk or mortality** directly.
-
-**REMEMBER:** *E = emergency suffix; V = moribund; VI = organ donor.*
-
----
-
----
-
 ## Airway Management and Intubation
 
-### 6. Rapid Sequence Induction
+### 4. Rapid Sequence Induction
 
-**PEARL:** For the "full stomach" patient: **preoxygenate with 100% O2 for 3 minutes, give the induction agent and muscle relaxant TOGETHER, NO bag-mask ventilation, and intubate with a cuffed tube** — minimising the interval between loss of consciousness and a secured airway.
+**PEARL: **For the "full stomach" patient:** preoxygenate with 100% O2 for 3 minutes, give the induction agent and muscle relaxant TOGETHER, NO bag-mask ventilation, and intubate with a cuffed tube** — minimising the interval between loss of consciousness and a secured airway.
 
 **UNDERSTAND:** Every element exists to prevent **aspiration**. Preoxygenation buys apnoeic time; avoiding bag-mask ventilation prevents gastric insufflation; giving the drugs together shortens the vulnerable window; the cuff seals the airway.
 
@@ -155,7 +126,7 @@
 
 ---
 
-### 7. Endotracheal Tube Cuff Pressure
+### 5. Endotracheal Tube Cuff Pressure
 
 **PEARL:** Keep the cuff at **20–30 cmH2O (target ~25)**. **Above 30** → tracheal mucosal ischaemia; **below 20** → microaspiration and ventilator-associated pneumonia.
 
@@ -177,7 +148,7 @@
 
 ---
 
-### 8. Post-Intubation Subglottic Stenosis
+### 6. Post-Intubation Subglottic Stenosis
 
 **PEARL:** Stridor after prolonged intubation → **subglottic stenosis**, graded by the **COTTON–MYER classification**: **I <50% · II 51–70% · III 71–99% · IV no detectable lumen**.
 
@@ -203,7 +174,7 @@
 
 ---
 
-### 9. Laryngeal Mask Airways — Which One, When
+### 7. Laryngeal Mask Airways — Which One, When
 
 **PEARL:** **Fastrach (intubating LMA)** is the device of choice for the **anticipated DIFFICULT AIRWAY** — it is designed as a conduit for intubation. **Second-generation devices (ProSeal, Supreme)** have a **gastric drain channel and a higher seal pressure** — used where **aspiration risk** is a concern.
 
@@ -219,6 +190,8 @@
 
 **EXAM CONNECTION:** Vignette-driven — "patient ate breakfast, for laparoscopic cholecystectomy" → **Supreme/ProSeal**; "anticipated difficult intubation" → **Fastrach**.
 
+**ALSO KNOW:** **ASPIRATION RISK HAS A NEW CAUSE: GLP-1 RECEPTOR AGONISTS delay gastric emptying.** The **ASA consensus guidance (2023)** advises **holding WEEKLY injections for one week and DAILY doses on the day of the procedure** before elective surgery, treating an urgent case as a **FULL STOMACH** (and gastric ultrasound where available) — a supraglottic airway does not protect that airway. The same 2023 modular update to the ASA fasting guideline **permits CARBOHYDRATE-CONTAINING CLEAR LIQUIDS, with or without protein, up to 2 hours preoperatively.**[^1]
+
 **REMEMBER:** *Fastrach to intubate; ProSeal/Supreme to protect the stomach; i-gel to insert fast.*
 
 **IMAGES:**
@@ -233,7 +206,7 @@
 
 ---
 
-### 10. Endobronchial Intubation
+### 8. Endobronchial Intubation
 
 **PEARL:** The tube slips into the **RIGHT main bronchus**; the **earliest sign is a sudden RISE in PEAK INSPIRATORY PRESSURE**, then asymmetric chest rise, unilateral breath sounds and desaturation.
 
@@ -249,13 +222,15 @@
 
 **EXAM CONNECTION:** "Early indicator of accidental endobronchial intubation" → **rise in peak inspiratory pressure**.
 
+**ALSO KNOW:** When the endotracheal tube enters a **mainstem bronchus (usually the RIGHT)**, only one lung is ventilated — the reduced volume available causes a **sudden rise in peak inspiratory pressure**. The **right main bronchus is wider, shorter and more vertical**, so a tube advanced too far naturally goes right — leaving the left lung to collapse. Signs: **unilateral chest rise, absent air entry on the left, falling SpO₂, high PIP**. Confirm by **auscultation and tube depth (~21 cm in women, 23 cm in men at the incisors)**; the fix is to **withdraw the tube**, not to increase pressure. Other causes of a sudden PIP rise: **bronchospasm, kinked/blocked tube, pneumothorax, secretions, light anaesthesia/chest wall rigidity**. *High PIP + one-sided chest = pull the tube back.*
+
 **REMEMBER:** *One lung, half the compliance, twice the pressure — and it is always the right side.*
 
 `Q10440`
 
 ---
 
-### 11. Airway ASSESSMENT vs Airway MANOEUVRE
+### 9. Airway ASSESSMENT vs Airway MANOEUVRE
 
 **PEARL:** **Assessment tools:** **Mallampati** (tongue vs pharynx), **Cormack–Lehane** (laryngoscopic view), **Wilson score**. **BURP is NOT an assessment** — it is a **manoeuvre**: **B**ackward, **U**pward, **R**ightward **P**ressure on the thyroid cartilage to improve the view.
 
@@ -282,7 +257,7 @@
 
 ---
 
-### 12. Maxillofacial Trauma — Which Airway Route
+### 10. Maxillofacial Trauma — Which Airway Route
 
 **PEARL:** Use **OROTRACHEAL intubation**. **Nasotracheal intubation is CONTRAINDICATED** with mid-face or base-of-skull fracture — the tube can be forced **intracranially through the cribriform plate**.
 
@@ -304,7 +279,7 @@
 
 ---
 
-### 13. Specialised Endotracheal Tubes
+### 11. Specialised Endotracheal Tubes
 
 **PEARL:** **Armoured (flexometallic/reinforced) tube** — spiral wire in the wall **prevents kinking** → used for **head and neck surgery and the PRONE position**.
 
@@ -329,7 +304,7 @@
 
 ---
 
-### 14. Face Mask — The C–E Grip
+### 12. Face Mask — The C–E Grip
 
 **PEARL:** Thumb and index finger form the **"C"** on the mask body; the **3rd and 4th digits sit on the BODY of the mandible**; the **5th digit sits on the ANGLE of the mandible** to deliver a jaw thrust.
 
@@ -355,7 +330,7 @@
 
 ---
 
-### 15. Nasopharyngeal vs Oropharyngeal Airway
+### 13. Nasopharyngeal vs Oropharyngeal Airway
 
 **PEARL:** The **nasopharyngeal airway is tolerated in the conscious or lightly anaesthetised patient** because it **bypasses the gag reflex**; the oropharyngeal airway is not.
 
@@ -381,7 +356,7 @@
 
 ---
 
-### 16. Confirming Endotracheal Tube Placement
+### 14. Confirming Endotracheal Tube Placement
 
 **PEARL:** **Capnography (sustained end-tidal CO₂ waveform for at least 3 breaths) is the gold standard** for confirming tracheal intubation. Auscultation, chest rise, pulse oximetry and chest X-ray are all inferior.
 
@@ -409,7 +384,7 @@
 
 ---
 
-### 17. Intubating (Fastrach) LMA
+### 15. Intubating (Fastrach) LMA
 
 **PEARL:** The **Fastrach / intubating LMA** is the supraglottic device designed to **allow blind endotracheal intubation through it** — the rescue device of the difficult airway algorithm.
 
@@ -436,23 +411,9 @@
 
 ---
 
-### 18. Endobronchial Intubation
-
-**PEARL:** When the endotracheal tube enters a **mainstem bronchus (usually the RIGHT)**, only one lung is ventilated — the reduced volume available causes a **sudden rise in peak inspiratory pressure**.
-
-**UNDERSTAND:** The **right main bronchus is wider, shorter and more vertical**, so a tube advanced too far naturally goes right — leaving the left lung to collapse.
-
-**MUST KNOW:** Signs: **unilateral chest rise, absent air entry on the left, falling SpO₂, high PIP**. Confirm by **auscultation and tube depth (~21 cm in women, 23 cm in men at the incisors)**; the fix is to **withdraw the tube**, not to increase pressure. Other causes of a sudden PIP rise: **bronchospasm, kinked/blocked tube, pneumothorax, secretions, light anaesthesia/chest wall rigidity**.
-
-**REMEMBER:** *High PIP + one-sided chest = pull the tube back.*
-
----
-
----
-
 ## Intravenous Induction Agents
 
-### 19. Etomidate
+### 16. Etomidate
 
 **PEARL:** The induction agent of choice when **haemodynamic stability** matters — but it causes **ADRENOCORTICAL SUPPRESSION** by inhibiting **11β-hydroxylase**, even after a single dose.
 
@@ -474,7 +435,7 @@
 
 ---
 
-### 20. Ketamine — The Contrarian Induction Agent
+### 17. Ketamine — The Contrarian Induction Agent
 
 **PEARL:** Ketamine is the **only IV induction agent that raises blood pressure, preserves airway reflexes and maintains respiration** — and the **only one that raises ICP**.
 
@@ -499,7 +460,7 @@
 
 ---
 
-### 21. Ketamine — When to Avoid
+### 18. Ketamine — When to Avoid
 
 **PEARL:** Avoid ketamine in patients with a **history of seizures** — it **raises ICP** and causes **emergence delirium and hallucinations**.
 
@@ -514,7 +475,7 @@
 
 ---
 
-### 22. Thiopental in Asthma
+### 19. Thiopental in Asthma
 
 **PEARL:** **Thiopental should be avoided in bronchial asthma** — barbiturates cause **histamine release from mast cells** → bronchoconstriction and wheezing.
 
@@ -532,7 +493,7 @@
 
 ## Inhalational Agents
 
-### 23. MAC — Minimum Alveolar Concentration
+### 20. MAC — Minimum Alveolar Concentration
 
 **PEARL:** **MAC = the alveolar concentration of an agent that prevents movement in 50% of patients** in response to a standard surgical incision. It is the **best index of POTENCY** — and the response it measures is mediated at the **spinal cord**.
 
@@ -555,7 +516,7 @@
 
 ---
 
-### 24. Metabolism of the Volatile Agents
+### 21. Metabolism of the Volatile Agents
 
 **PEARL:** **Methoxyflurane 70% > halothane 25% > sevoflurane ~5% > enflurane 2.5% > isoflurane 0.2% > DESFLURANE 0.02% (least metabolised).**
 
@@ -577,7 +538,7 @@
 
 ---
 
-### 25. Halothane — Two Superlatives
+### 22. Halothane — Two Superlatives
 
 **PEARL:** Halothane is the **most potent BRONCHODILATOR** among the inhalational agents and the **best UTERINE RELAXANT**.
 
@@ -599,7 +560,7 @@
 
 ---
 
-### 26. Diffusion Hypoxia
+### 23. Diffusion Hypoxia
 
 **PEARL:** Occurs at the **END of anaesthesia**: poorly soluble **nitrous oxide floods OUT of the blood into the alveoli**, diluting alveolar oxygen and causing hypoxia. **Prevent it by giving 100% O2 for a few minutes after stopping N2O.**
 
@@ -620,7 +581,7 @@
 
 ---
 
-### 27. Blood–Gas Partition Coefficient vs MAC
+### 24. Blood–Gas Partition Coefficient vs MAC
 
 **PEARL:** **Blood–gas coefficient = solubility = SPEED** (low coefficient → fast induction and recovery). **MAC = POTENCY** (low MAC → more potent). They are **independent properties.**
 
@@ -646,7 +607,7 @@
 
 ---
 
-### 28. Desflurane — Not for Inhalational Induction
+### 25. Desflurane — Not for Inhalational Induction
 
 **PEARL:** **Desflurane must never be used for inhalational induction** — it is intensely **pungent** and causes **laryngospasm, coughing and breath-holding in up to 50%**. **Sevoflurane is the induction agent of choice in children.**
 
@@ -672,7 +633,7 @@
 
 ## Muscle Relaxants and Reversal
 
-### 29. Tetanic Stimulation
+### 26. Tetanic Stimulation
 
 **PEARL:** **50 Hz for 5 seconds.** A **SUSTAINED** response = **depolarising (phase I) block**; **FADE** = **non-depolarising block or a phase II block** after suxamethonium.
 
@@ -694,7 +655,7 @@
 
 ---
 
-### 30. Reversal of Neuromuscular Blockade
+### 27. Reversal of Neuromuscular Blockade
 
 **PEARL:** **Neostigmine** (an anticholinesterase, always given with **glycopyrrolate or atropine**) reverses **non-depolarising** blockers. **Sugammadex** encapsulates the **STEROIDAL** agents — **rocuronium and vecuronium** — and can reverse even a profound block.
 
@@ -716,7 +677,7 @@
 
 ---
 
-### 31. Atracurium — The Organ-Independent Relaxant
+### 28. Atracurium — The Organ-Independent Relaxant
 
 **PEARL:** Atracurium and **cis**-atracurium are cleared by **HOFMANN ELIMINATION** (spontaneous, non-enzymatic degradation at physiological **pH and temperature**) plus ester hydrolysis — so clearance is **independent of liver and kidney**.
 
@@ -738,7 +699,7 @@
 
 ---
 
-### 32. Suxamethonium Apnoea
+### 29. Suxamethonium Apnoea
 
 **PEARL:** **PHASE II block** develops with **>5 mg/kg** (large or repeated doses, or an infusion) — the receptor **desensitises** and the block starts behaving like a non-depolarising one, **with fade**. **Atypical pseudocholinesterase** causes prolonged apnoea after even a **normal** dose.
 
@@ -760,7 +721,7 @@
 
 ---
 
-### 33. Sugammadex
+### 30. Sugammadex
 
 **PEARL:** **Sugammadex reverses rocuronium and vecuronium instantly by encapsulating them 1:1** — it works at **any depth of block**, including the "can't intubate" emergency where neostigmine would be useless.
 
@@ -782,7 +743,7 @@
 
 ---
 
-### 34. Lithium and Non-Depolarizing Muscle Relaxants
+### 31. Lithium and Non-Depolarizing Muscle Relaxants
 
 **PEARL:** **Stop lithium at least 48 hours before** giving non-depolarizing muscle relaxants — it **potentiates** them, risking **prolonged relaxation/paralysis**.
 
@@ -798,7 +759,7 @@
 
 ## Regional and Neuraxial Anaesthesia
 
-### 35. Spinal Hypotension
+### 32. Spinal Hypotension
 
 **PEARL:** Sympathetic blockade → venodilation and pooling → hypotension with nausea and vomiting. Treat with **IV fluids, a vasopressor (EPHEDRINE or phenylephrine), and LEG ELEVATION / head-DOWN tilt.** **Head-UP position is harmful.**
 
@@ -820,7 +781,7 @@
 
 ---
 
-### 36. Bier's Block (IVRA)
+### 33. Bier's Block (IVRA)
 
 **PEARL:** Local anaesthetic injected **intravenously into a tourniquet-occluded limb**, for short (**<90 min**) procedures on the arm or leg.
 
@@ -845,7 +806,7 @@
 
 ---
 
-### 37. Post-Dural Puncture Headache and Needle Design
+### 34. Post-Dural Puncture Headache and Needle Design
 
 **PEARL:** A **postural headache with nausea and vomiting within hours to days of spinal anaesthesia is a POST-DURAL PUNCTURE HEADACHE.** Use a **PENCIL-POINT, DURA-SPLITTING needle (WHITACRE, Sprotte, Pencan)** to prevent it; **QUINCKE and Pitkin needles are CUTTING (bevelled) needles** with a much higher incidence. A **TUOHY needle is for EPIDURAL anaesthesia.**
 
@@ -872,7 +833,7 @@
 
 ---
 
-### 38. Retrobulbar Block
+### 35. Retrobulbar Block
 
 **PEARL:** The commonest complication of a **retrobulbar block is retrobulbar haemorrhage**.
 
@@ -897,7 +858,7 @@
 
 ---
 
-### 39. Contraindications to Spinal Anaesthesia
+### 36. Contraindications to Spinal Anaesthesia
 
 **PEARL:** **Pre-existing neurological deficit (myelopathy, demyelinating disease) is a RELATIVE, not absolute, contraindication** to spinal anaesthesia.
 
@@ -919,7 +880,7 @@
 
 ---
 
-### 40. Chlorhexidine for Neuraxial Blocks
+### 37. Chlorhexidine for Neuraxial Blocks
 
 **PEARL:** **Chlorhexidine (in alcohol) is the preferred skin antiseptic before neuraxial blocks** — broad-spectrum, **rapid onset and persistent (residual) activity**.
 
@@ -929,7 +890,7 @@
 
 ---
 
-### 41. Hypotension After Neuraxial Anaesthesia
+### 38. Hypotension After Neuraxial Anaesthesia
 
 **PEARL:** Managed with **IV fluids and vasopressors such as EPHEDRINE**, which raises systolic and diastolic BP, heart rate and cardiac output through **indirect** adrenergic stimulation.
 
@@ -945,13 +906,13 @@
 
 ---
 
-### 42. Termination of the Spinal Cord in Children
+### 39. Termination of the Spinal Cord in Children
 
 **PEARL:** In children the **spinal cord ends at L3** and **ascends with age** — reaching the adult level of **L1–L2** by about 2 years.
 
 **UNDERSTAND:** The vertebral column grows faster than the cord, so the conus is dragged upward relative to the vertebrae.
 
-**MUST KNOW:** Practical consequence: **lumbar puncture and spinal anaesthesia must be performed LOWER in children — at L4–L5 or L5–S1** (use the intercristal/Tuffier's line, which crosses at L4). The **dural sac ends at S3 in infants** versus **S2 in adults** — another reason for caution with caudal blocks.
+**MUST KNOW: **Practical consequence:** lumbar puncture and spinal anaesthesia must be performed LOWER in children — at L4–L5 or L5–S1** (use the intercristal/Tuffier's line, which crosses at L4). The **dural sac ends at S3 in infants** versus **S2 in adults** — another reason for caution with caudal blocks.
 
 **REMEMBER:** *Child's cord ends at L3 — so go one space lower for the needle.*
 
@@ -961,7 +922,7 @@
 
 ## Local Anaesthesia and Pain Management
 
-### 43. EMLA
+### 40. EMLA
 
 **PEARL:** **Eutectic mixture of 2.5% LIDOCAINE + 2.5% PRILOCAINE.** Apply under an **occlusive dressing 45–60 minutes** before the procedure; it anaesthetises to a depth of ~**5 mm** for 1–2 hours.
 
@@ -986,7 +947,7 @@
 
 ---
 
-### 44. Analgesia for Multiple Rib Fractures
+### 41. Analgesia for Multiple Rib Fractures
 
 **PEARL:** **Thoracic epidural** is the mainstay when simple analgesia fails — it prevents **splinting, hypoventilation, atelectasis and pneumonia**.
 
@@ -1008,7 +969,7 @@
 
 ---
 
-### 45. Coeliac Plexus Block
+### 42. Coeliac Plexus Block
 
 **PEARL:** The commonest complication of a coeliac plexus block is **postural (orthostatic) hypotension** — sympathetic blockade dilates the **splanchnic capacitance vessels**, which hold a large fraction of the blood volume.
 
@@ -1034,7 +995,7 @@
 
 ## Anaesthesia Equipment and Machine
 
-### 46. APL Valve
+### 43. APL Valve
 
 **PEARL:** The **adjustable pressure-limiting (APL) valve opens at 30–40 cmH2O**, venting excess gas from the breathing circuit and protecting the lungs from **barotrauma**.
 
@@ -1059,7 +1020,7 @@
 
 ---
 
-### 47. Cylinder Colour Codes and Heliox
+### 44. Cylinder Colour Codes and Heliox
 
 **PEARL:** **Black body with white shoulder = OXYGEN · Blue = NITROUS OXIDE · BROWN = HELIUM · Grey = carbon dioxide · Black = nitrogen · Violet = ethylene · Orange = cyclopropane · White = medical air (black/white quartered shoulders).**
 
@@ -1081,7 +1042,7 @@
 
 ---
 
-### 48. Soda Lime
+### 45. Soda Lime
 
 **PEARL:** Soda lime is **~80% calcium hydroxide**; it absorbs **~23 L CO₂ per 100 g**; the **final products are CaCO₃ + NaOH** (regenerated) **+ heat + water**.
 
@@ -1103,7 +1064,7 @@
 
 ---
 
-### 49. Anaesthesia Machine Safety Systems
+### 46. Anaesthesia Machine Safety Systems
 
 **PEARL:** **DISS prevents wrong PIPELINE connection. PISS prevents wrong CYLINDER connection.** Hypoxic mixtures are prevented by the **oxygen failure safety device / proportioning system**; pollution by the **scavenging system**.
 
@@ -1129,7 +1090,7 @@
 
 ---
 
-### 50. Mapleson Circuits
+### 47. Mapleson Circuits
 
 **PEARL:** **Mapleson A (Magill's) is the most efficient for SPONTANEOUS ventilation; Mapleson D (Bain) for CONTROLLED ventilation.**
 
@@ -1155,7 +1116,7 @@
 
 ## Monitoring, Fluids and Transfusion
 
-### 51. Core Temperature Monitoring
+### 48. Core Temperature Monitoring
 
 **PEARL:** **Pulmonary artery is the gold standard** but invasive; the **DISTAL OESOPHAGUS is the practical best site** intraoperatively — the site of choice when monitoring **malignant hyperthermia**.
 
@@ -1177,7 +1138,7 @@
 
 ---
 
-### 52. Ringer's Lactate — Composition
+### 49. Ringer's Lactate — Composition
 
 **PEARL:** **Na 130 · Cl 109 · K 4 · Ca 3 · Lactate 28 mEq/L**, osmolality **~273 mOsm/L** — i.e. **slightly HYPOTONIC** relative to plasma.
 
@@ -1199,7 +1160,7 @@
 
 ---
 
-### 53. Pulmonary Artery Catheter — Reading the Waveform
+### 50. Pulmonary Artery Catheter — Reading the Waveform
 
 **PEARL:** Passage from the RV into the **pulmonary artery is marked by a sudden RISE in DIASTOLIC pressure** (systolic stays about the same), with the appearance of a **dicrotic notch**. Advancing further and inflating the balloon gives the flattened **PCWP** trace.
 
@@ -1221,7 +1182,7 @@
 
 ---
 
-### 54. Platelets — Highest Risk of Bacterial Contamination
+### 51. Platelets — Highest Risk of Bacterial Contamination
 
 **PEARL:** **Platelet concentrates are stored at ROOM TEMPERATURE (20–24°C)** with agitation — so they carry the **highest risk of bacterial contamination and transfusion-related sepsis** (~1 in 2000–3000 units).
 
@@ -1248,37 +1209,7 @@
 
 ## Oxygen Therapy, Ventilation and Critical Care
 
-### 55. Oxygen Delivery Devices
-
-**PEARL:** The **non-rebreathing mask gives the highest FiO2 (~0.90–1.00)** of conventional devices — but it is a **LOW-flow** device. The **Venturi mask is HIGH-flow / fixed-performance** yet tops out at **FiO2 0.60**.
-
-**UNDERSTAND:** "High-flow" does **not** mean high FiO2. It means the device delivers gas **faster than the patient's peak inspiratory flow (~30–40 L/min)**, so the patient entrains **no room air** and the FiO2 is **exactly what you set** — regardless of how the patient breathes. Low-flow devices supply less than the patient's demand, so the delivered FiO2 varies with tidal volume and respiratory rate.
-
-**MUST KNOW:**
-
-- **Approximate FiO2:** nasal cannula (1–6 L) **0.24–0.44** · simple face mask (6–10 L) **0.40–0.60** · **non-rebreather (10–15 L) 0.90–1.00** · **Venturi 0.24–0.60**.
-- **Nasal cannula formula: FiO2 ≈ 21% + (4 × flow in L/min)** — so 3 L/min ≈ **33%** (commonly rounded to 30%).
-- The **Venturi mask works on the Bernoulli principle**, entraining a fixed ratio of air through a colour-coded jet — **blue 24%, white 28%, yellow 35%, red 40%, green 60%**.
-- **The Venturi is the device of choice in COPD** with CO2 retention, where the FiO2 must be **controlled and titrated** (target SpO2 **88–92%**) to avoid abolishing hypoxic drive and causing worsening V/Q mismatch and hypercapnia.
-- **Non-rebreather** = reservoir bag + one-way valves; used for **trauma, shock and CARBON MONOXIDE poisoning** (where you want the maximum FiO2 to shorten the COHb half-life).
-
-**EXAM CONNECTION:** "Highest FiO2 in conventional oxygen therapy" → non-rebreather. "Which mask is preferred in COPD?" → Venturi.
-
-**REMEMBER:** *Non-rebreather for the highest FiO2; Venturi for the most PRECISE FiO2.*
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fd3a4d775a1e4e13bedbe85e3254fef5x720x960.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/64092b994c2348d38847b668aba7ad59x1280x1173.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/62d66d08f06a4f8a9edcb457427228a7x1280x1390.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/75aa475d4a604f40a8ef8ebd50cd58aax1280x1280.PNG)
-![question](https://cdn1.dailyrounds.org/uploads/7ff9215818c84e6d855d8f7048e0cadc.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c27b9647869e4422b76221e4ceddc3e4x720x960.JPEG)
-
-`Q8805, Q10156, Q8811, Q10374`
-
----
-
-### 56. When to Start Oxygen — The 90/60 Rule
+### 52. When to Start Oxygen — The 90/60 Rule
 
 **PEARL:** **SpO2 <90% corresponds to PaO2 <60 mmHg** — the point at which tissues become vulnerable and supplemental oxygen is indicated. In **neonates**, the threshold is **SpO2 <88% (PaO2 <50)**.
 
@@ -1299,7 +1230,7 @@
 
 ---
 
-### 57. ARDS — Ventilation Targets
+### 53. ARDS — Ventilation Targets
 
 **PEARL:** **Tidal volume 6 mL/kg PREDICTED body weight** (the only strategy proven to reduce mortality), **plateau pressure <30 cmH2O**, **FiO2 ≤0.6**, target **SpO2 88–95% / PaO2 55–80 mmHg**.
 
@@ -1320,7 +1251,7 @@
 
 ---
 
-### 58. Assist-Control Ventilation and Respiratory Alkalosis
+### 54. Assist-Control Ventilation and Respiratory Alkalosis
 
 **PEARL:** In **ACMV** every patient-triggered breath delivers the **FULL set tidal volume** — so a tachypnoeic, anxious or acidotic patient hyperventilates and develops **respiratory ALKALOSIS**.
 
@@ -1341,7 +1272,7 @@
 
 ---
 
-### 59. Cerebral Blood Flow Thresholds
+### 55. Cerebral Blood Flow Thresholds
 
 **PEARL:** Normal CBF ≈ **50 mL/100 g/min** (grey matter 80, white matter 20). **<20–25 → EEG slowing · 15–20 → flat (isoelectric) EEG · <10 → irreversible infarction.**
 
@@ -1363,7 +1294,7 @@
 
 ---
 
-### 60. Anatomical Dead Space
+### 56. Anatomical Dead Space
 
 **PEARL:** ~**150 mL (2 mL/kg, ~30% of tidal volume)**. **INCREASED by:** neck extension, jaw protrusion, **bronchodilators (atropine)**, old age, IPPV, standing. **DECREASED by: INTUBATION and TRACHEOSTOMY** (they bypass the upper airway) and neck flexion.
 
@@ -1385,7 +1316,7 @@
 
 ---
 
-### 61. Oxygen Delivery Devices and Their FiO₂
+### 57. Oxygen Delivery Devices and Their FiO₂
 
 **PEARL:** **Non-rebreathing mask with reservoir: up to ~90% FiO₂** (the highest of the simple devices). **Venturi mask: 24–60%, and it is the only FIXED-performance device** — the one to use in **COPD with hypercapnic risk**.
 
@@ -1410,6 +1341,8 @@
 
 **EXAM CONNECTION:** Device image → FiO₂ number. Recognise the **reservoir bag with valves (non-rebreathing, ~90%)** and the **coloured Venturi valve (fixed FiO₂, the COPD device)**.
 
+**ALSO KNOW:** "High-flow" does **not** mean high FiO2. It means the device delivers gas **faster than the patient's peak inspiratory flow (~30–40 L/min)**, so the patient entrains **no room air** and the FiO2 is **exactly what you set** — regardless of how the patient breathes. Low-flow devices supply less than the patient's demand, so the delivered FiO2 varies with tidal volume and respiratory rate. **Nasal cannula formula: FiO2 ≈ 21% + (4 × flow in L/min)** — so 3 L/min ≈ **33%** (commonly rounded to 30%). The **Venturi mask works on the Bernoulli principle**, entraining a fixed ratio of air through a colour-coded jet — **blue 24%, white 28%, yellow 35%, red 40%, green 60%**. **The Venturi is the device of choice in COPD** with CO2 retention, where the FiO2 must be **controlled and titrated** (target SpO2 **88–92%**) to avoid abolishing hypoxic drive and causing worsening V/Q mismatch and hypercapnia. **Non-rebreather** = reservoir bag + one-way valves; used for **trauma, shock and CARBON MONOXIDE poisoning** (where you want the maximum FiO2 to shorten the COHb half-life). *Non-rebreather for the highest FiO2; Venturi for the most PRECISE FiO2.*
+
 **REMEMBER:** *Reservoir for the highest concentration; Venturi for the most reliable one.*
 
 **IMAGES:**
@@ -1420,7 +1353,7 @@
 
 ---
 
-### 62. Initial Ventilator Settings
+### 58. Initial Ventilator Settings
 
 **PEARL:** Start with **tidal volume 6 mL/kg of IDEAL body weight** — never actual body weight — RR **12/min**, **FiO₂ 100%** then wean, **PEEP 5 cmH₂O**.
 
@@ -1445,7 +1378,7 @@
 
 ## Resuscitation and Cardiac Arrest
 
-### 63. High-Quality CPR
+### 59. High-Quality CPR
 
 **PEARL:** **Rate 100–120/min · Depth 5–6 cm (adult) · FULL chest recoil · minimal interruptions · lower half of the sternum.** Compression:ventilation **30:2** without an advanced airway; **10 breaths/min continuously** once an advanced airway is in.
 
@@ -1468,7 +1401,7 @@
 
 ---
 
-### 64. Adrenaline in CPR
+### 60. Adrenaline in CPR
 
 **PEARL:** **1 mg IV every 3–5 minutes** — as 1 mL of 1:1000, but preferably **10 mL of 1:10 000** centrally. Alternative routes: **intraosseous**, and **intratracheal at 2–2.5× the dose**.
 
@@ -1490,7 +1423,7 @@
 
 ---
 
-### 65. Paediatric Cardiac Arrest
+### 61. Paediatric Cardiac Arrest
 
 **PEARL:** The commonest cause in children is **ASPHYXIA (respiratory)**, not VF. Compression:ventilation is **30:2 for a SINGLE rescuer but 15:2 with TWO rescuers**; depth = **one-third of the AP chest diameter** (~5 cm in a child, ~4 cm in an infant).
 
@@ -1513,7 +1446,7 @@
 
 ---
 
-### 66. Recovery Position
+### 62. Recovery Position
 
 **PEARL:** An **unresponsive patient who IS breathing and HAS a pulse** goes into the **RECOVERY POSITION** to protect the airway — not chest compressions (there is a pulse) and not left face-down.
 
@@ -1539,7 +1472,7 @@
 
 ## Complications and Miscellaneous
 
-### 67. Malignant Hyperthermia
+### 63. Malignant Hyperthermia
 
 **PEARL:** Triggers are **ALL volatile inhalational agents (halothane, isoflurane, sevoflurane, desflurane) and SUXAMETHONIUM**. **Safe:** propofol, benzodiazepines, opioids, nitrous oxide, non-depolarising relaxants, and all local anaesthetics. **Treatment = DANTROLENE.**
 
@@ -1561,7 +1494,7 @@
 
 ---
 
-### 68. Commonest Sequel of Day-Care Anaesthesia
+### 64. Commonest Sequel of Day-Care Anaesthesia
 
 **PEARL:** **DROWSINESS** is the commonest persisting adverse effect, followed by **sore throat, myalgia, headache, dizziness and PONV**.
 
@@ -1583,7 +1516,7 @@
 
 ---
 
-### 69. Ulnar Nerve — Commonest Perioperative Nerve Injury
+### 65. Ulnar Nerve — Commonest Perioperative Nerve Injury
 
 **PEARL:** The **ULNAR nerve** is the most frequently injured peripheral nerve under anaesthesia. Position the forearm **SUPINATED** — **pronation presses the cubital tunnel against the table**.
 
@@ -1605,7 +1538,7 @@
 
 ---
 
-### 70. Anaesthesia Eponyms and History
+### 66. Anaesthesia Eponyms and History
 
 **PEARL:** **John Lundy** coined "**balanced anaesthesia**" — the use of several agents and techniques to provide the separate components: **analgesia, amnesia (unconsciousness), muscle relaxation, and abolition of autonomic reflexes**.
 
@@ -1625,7 +1558,7 @@
 
 ---
 
-### 71. Venous Air Embolism
+### 67. Venous Air Embolism
 
 **PEARL:** A **sudden fall in EtCO₂** with **hypotension and arrhythmia** during surgery **above the level of the right atrium** = **venous air embolism** until proven otherwise.
 
@@ -1648,3 +1581,7 @@
 ---
 
 ---
+
+## Sources for the 2026 Updates
+
+[^1]: **American Society of Anesthesiologists consensus-based guidance on preoperative management of patients on glucagon-like peptide-1 receptor agonists (2023)**, and the **2023 modular update to the ASA Practice Guidelines for Preoperative Fasting** permitting carbohydrate-containing clear liquids. <https://www.asahq.org/about-asa/newsroom/news-releases/2023/06/american-society-of-anesthesiologists-consensus-based-guidance-on-preoperative>

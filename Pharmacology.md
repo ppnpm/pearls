@@ -1,28 +1,28 @@
 # Pharmacology — Bookmark-Derived Pearls
 
-*Distilled from bookmarked INI-CET / NEET-PG MCQs. Only high-yield, revisable learning points were kept; points already covered by the existing pearl collection were dropped.*
+*Distilled from bookmarked INI-CET / NEET-PG MCQs. Only high-yield, revisable learning points were kept; duplicate pearls have been merged so that each concept appears once, in the pearl where it belongs. Guideline-dependent content has been updated to the position as of 2026, with footnoted sources listed at the end of the file.*
 
 ---
 
 ## Contents
 
-- [General Pharmacology — Pharmacokinetics and Pharmacodynamics](#general-pharmacology--pharmacokinetics-and-pharmacodynamics) — 11 pearls
-- [Drug Metabolism, Interactions and Pharmacogenetics](#drug-metabolism-interactions-and-pharmacogenetics) — 8 pearls
+- [General Pharmacology — Pharmacokinetics and Pharmacodynamics](#general-pharmacology--pharmacokinetics-and-pharmacodynamics) — 10 pearls
+- [Drug Metabolism, Interactions and Pharmacogenetics](#drug-metabolism-interactions-and-pharmacogenetics) — 6 pearls
 - [Autonomic Nervous System](#autonomic-nervous-system) — 10 pearls
 - [Cardiovascular Drugs](#cardiovascular-drugs) — 12 pearls
 - [Diuretics and Renal Pharmacology](#diuretics-and-renal-pharmacology) — 5 pearls
-- [Anticoagulants, Antiplatelets and Haematological Drugs](#anticoagulants-antiplatelets-and-haematological-drugs) — 13 pearls
+- [Anticoagulants, Antiplatelets and Haematological Drugs](#anticoagulants-antiplatelets-and-haematological-drugs) — 12 pearls
 - [Lipid-Lowering Drugs](#lipid-lowering-drugs) — 6 pearls
 - [Respiratory Drugs](#respiratory-drugs) — 6 pearls
-- [Gastrointestinal Drugs](#gastrointestinal-drugs) — 6 pearls
+- [Gastrointestinal Drugs](#gastrointestinal-drugs) — 5 pearls
 - [Antiepileptic Drugs](#antiepileptic-drugs) — 8 pearls
-- [Antiparkinsonian and Neurodegenerative Drugs](#antiparkinsonian-and-neurodegenerative-drugs) — 7 pearls
-- [Psychotropic Drugs](#psychotropic-drugs) — 14 pearls
-- [Analgesics, Opioids, NSAIDs and Antirheumatic Drugs](#analgesics-opioids-nsaids-and-antirheumatic-drugs) — 13 pearls
-- [Endocrine Pharmacology](#endocrine-pharmacology) — 19 pearls
-- [Antibacterial Agents](#antibacterial-agents) — 10 pearls
+- [Antiparkinsonian and Neurodegenerative Drugs](#antiparkinsonian-and-neurodegenerative-drugs) — 6 pearls
+- [Psychotropic Drugs](#psychotropic-drugs) — 11 pearls
+- [Analgesics, Opioids, NSAIDs and Antirheumatic Drugs](#analgesics-opioids-nsaids-and-antirheumatic-drugs) — 12 pearls
+- [Endocrine Pharmacology](#endocrine-pharmacology) — 17 pearls
+- [Antibacterial Agents](#antibacterial-agents) — 8 pearls
 - [Antitubercular, Antifungal, Antiviral and Antiparasitic Agents](#antitubercular-antifungal-antiviral-and-antiparasitic-agents) — 14 pearls
-- [Anticancer Drugs and Immunosuppressants](#anticancer-drugs-and-immunosuppressants) — 12 pearls
+- [Anticancer Drugs and Immunosuppressants](#anticancer-drugs-and-immunosuppressants) — 10 pearls
 - [Autacoids and Eicosanoids](#autacoids-and-eicosanoids) — 7 pearls
 - [Toxicology and Antidotes](#toxicology-and-antidotes) — 4 pearls
 - [Ophthalmic and Dermatological Drugs](#ophthalmic-and-dermatological-drugs) — 6 pearls
@@ -65,7 +65,7 @@
 - **Chlorthalidone is ***LONGER-ACTING AND MORE POTENT THAN HYDROCHLOROTHIAZIDE***, with better outcome data, and ***RETAINS EFFICACY IN ADVANCED CKD (the CLICK trial)*** — a point that has changed practice.
 - **For severe pain in CKD prefer ***FENTANYL, BUPRENORPHINE or (with caution) tramadol; AVOID MORPHINE, CODEINE AND PETHIDINE*** — their active metabolites (morphine-6-glucuronide, norpethidine) accumulate and cause narcosis or seizures.
 - **Other drugs to avoid or adjust in CKD: metformin below eGFR 30, gadolinium contrast (nephrogenic systemic fibrosis), aminoglycosides, ***iodinated CONTRAST (hydrate beforehand)***, and dose-adjust digoxin, LMWH, gabapentinoids and most antimicrobials.
-- **The complete CKD package: ***BP <130/80, ACE inhibitor/ARB for proteinuria, an SGLT2 INHIBITOR (now standard for CKD with albuminuria, diabetic or not), statin, phosphate control and vitamin D analogues for mineral–bone disease, erythropoietin with iron for anaemia, sodium bicarbonate for acidosis, dietary salt and protein moderation, and vaccination (hepatitis B, pneumococcal, influenza).***
+- **The complete CKD package:** *BP <130/80, ACE inhibitor/ARB for proteinuria, an SGLT2 INHIBITOR (now standard for CKD with albuminuria, diabetic or not), statin, phosphate control and vitamin D analogues for mineral–bone disease, erythropoietin with iron for anaemia, sodium bicarbonate for acidosis, dietary salt and protein moderation, and vaccination (hepatitis B, pneumococcal, influenza).***
 - ***HYPERKALAEMIA RISK GOVERNS THE RAS-BLOCKER DOSE*** — use potassium binders (patiromer, sodium zirconium) rather than abandoning a prognostically important drug.
 
 **EXAM CONNECTION:** Postoperative analgesic in CKD → **acetaminophen**; antihypertensive for renal insufficiency with fluid overload and no proteinuria → **chlorthalidone**.
@@ -84,13 +84,15 @@
 
 **MUST KNOW:**
 
-- **Antagonist recognition on a graph: ***COMPETITIVE (reversible) ANTAGONIST — the agonist curve shifts RIGHT (higher EC50) with the SAME maximum (surmountable). NON-COMPETITIVE or IRREVERSIBLE ANTAGONIST — the MAXIMUM IS DEPRESSED (insurmountable).***
-- **Types of antagonism: ***PHARMACOLOGICAL (same receptor — naloxone vs morphine), PHYSIOLOGICAL/functional (different receptors, opposite effects — adrenaline vs histamine in anaphylaxis), CHEMICAL (chelation — desferrioxamine and iron, protamine and heparin) and PHARMACOKINETIC (enzyme induction).***
-- **Related definitions: ***INVERSE AGONIST (produces the OPPOSITE effect by reducing constitutive receptor activity), PARTIAL AGONIST (buprenorphine, pindolol, aripiprazole), THERAPEUTIC INDEX = TD50/ED50 (or LD50/ED50 — the higher the safer), and the CEILING EFFECT of partial agonists.***
+- **Antagonist recognition on a graph:** *COMPETITIVE (reversible) ANTAGONIST — the agonist curve shifts RIGHT (higher EC50) with the SAME maximum (surmountable). NON-COMPETITIVE or IRREVERSIBLE ANTAGONIST — the MAXIMUM IS DEPRESSED (insurmountable).***
+- **Types of antagonism:** *PHARMACOLOGICAL (same receptor — naloxone vs morphine), PHYSIOLOGICAL/functional (different receptors, opposite effects — adrenaline vs histamine in anaphylaxis), CHEMICAL (chelation — desferrioxamine and iron, protamine and heparin) and PHARMACOKINETIC (enzyme induction).***
+- **Related definitions:** *INVERSE AGONIST (produces the OPPOSITE effect by reducing constitutive receptor activity), PARTIAL AGONIST (buprenorphine, pindolol, aripiprazole), THERAPEUTIC INDEX = TD50/ED50 (or LD50/ED50 — the higher the safer), and the CEILING EFFECT of partial agonists.***
 - **The quantal dose–response curve gives ED50, TD50 and LD50 and describes the population; the graded curve describes the individual.**
-- **Clinical illustration: ***FUROSEMIDE has LOWER POTENCY but HIGHER EFFICACY than a thiazide*** — no dose of a thiazide will achieve the diuresis a loop diuretic can. That is the entire practical meaning of the distinction.
+- **Clinical illustration:** *FUROSEMIDE has LOWER POTENCY but HIGHER EFFICACY than a thiazide*** — no dose of a thiazide will achieve the diuresis a loop diuretic can. That is the entire practical meaning of the distinction.
 
 **EXAM CONNECTION:** From the dose–response curves → **drugs A and B are agonists** (equal efficacy at different potencies; the drug that never reaches maximum is a partial agonist).
+
+**ALSO KNOW:** **THERAPEUTIC INDEX = TD50/ED50** (or LD50/ED50); the **CERTAIN SAFETY FACTOR = TD1/ED99** is the stricter measure. **Second messengers are cAMP, cGMP, IP₃, DAG, Ca²⁺ and nitric oxide — GUANYLYL CYCLASE is an ENZYME that MAKES cGMP, not a second messenger** (the classic distractor). Potency asks **how much drug you need** (fixable by raising the dose); efficacy asks **how much effect the drug can ever produce** (a ceiling no dose overcomes) — which is why low-potency, high-efficacy furosemide beats a high-potency thiazide in severe fluid overload. **Never equate ED50 with efficacy.**
 
 **REMEMBER:** *Left–right is potency, up–down is efficacy — and only the second one matters at the bedside.*
 
@@ -109,11 +111,11 @@
 
 **MUST KNOW:**
 
-- **Hereditary angioedema features: ***RECURRENT, NON-PITTING, NON-PRURITIC, NON-URTICARIAL swelling of face, limbs, larynx and GUT (causing severe abdominal pain and vomiting that mimics an acute abdomen)***; attacks are triggered by trauma, dental work, infection, oestrogens and ACE inhibitors. ***LOW C4 IS THE BEST SCREENING TEST*** (low between attacks as well), with C1-INH level and function confirming the type.
+- **Hereditary angioedema features:** *RECURRENT, NON-PITTING, NON-PRURITIC, NON-URTICARIAL swelling of face, limbs, larynx and GUT (causing severe abdominal pain and vomiting that mimics an acute abdomen)***; attacks are triggered by trauma, dental work, infection, oestrogens and ACE inhibitors. ***LOW C4 IS THE BEST SCREENING TEST*** (low between attacks as well), with C1-INH level and function confirming the type.
 - ***SHORT-TERM PROPHYLAXIS BEFORE SURGERY OR DENTAL PROCEDURES*** is essential; danazol/tranexamic acid were the older long-term options.
-- **A useful contrast: ***HISTAMINE-mediated angioedema (allergic) comes with URTICARIA AND ITCH and responds to adrenaline, antihistamines and steroids; BRADYKININ-mediated angioedema does not itch, has no weals and does not respond.***
+- **A useful contrast:** *HISTAMINE-mediated angioedema (allergic) comes with URTICARIA AND ITCH and responds to adrenaline, antihistamines and steroids; BRADYKININ-mediated angioedema does not itch, has no weals and does not respond.***
 - **Bradykinin also explains the ***ACE-INHIBITOR COUGH*** (accumulation in the airway) and part of the hypotensive effect of ACE inhibitors — icatibant blunts captopril's hypotensive action, the experimental proof of that mechanism.
-- **Other "-bant/-mab/-tide" antagonists sometimes asked: ***APREPITANT — NK1 (substance P) for chemotherapy-induced vomiting; BOSENTAN — endothelin receptor; TOLVAPTAN — V2; MIFEPRISTONE — progesterone/glucocorticoid.***
+- **Other "-bant/-mab/-tide" antagonists sometimes asked:** *APREPITANT — NK1 (substance P) for chemotherapy-induced vomiting; BOSENTAN — endothelin receptor; TOLVAPTAN — V2; MIFEPRISTONE — progesterone/glucocorticoid.***
 
 **EXAM CONNECTION:** Bradykinin receptor antagonist → **icatibant**.
 
@@ -132,10 +134,10 @@
 **MUST KNOW:**
 
 - **Varenicline's partial agonism is exactly why it works for ***SMOKING CESSATION***: it provides enough nicotinic stimulation to blunt craving and withdrawal while ***BLOCKING the reward of a smoked cigarette.*** Watch for vivid dreams, nausea and neuropsychiatric effects; alternatives are ***BUPROPION and nicotine replacement therapy.***
-- **Other partial agonists in clinical use: ***BUPRENORPHINE (mu), ARIPIPRAZOLE (D2 — a "dopamine system stabiliser"), PINDOLOL and acebutolol (beta), BUSPIRONE (5-HT1A).***
-- **Terminology to keep straight: ***AFFINITY (how tightly a drug binds) versus INTRINSIC ACTIVITY/EFFICACY (what it does once bound); an ANTAGONIST has affinity but ZERO intrinsic activity; SPARE RECEPTORS explain how a maximal response can occur with less than full occupancy; TACHYPHYLAXIS is rapid tolerance from receptor desensitisation or transmitter depletion; DOWN-REGULATION and UP-REGULATION explain rebound phenomena after stopping a chronic antagonist (e.g. beta-blocker withdrawal).***
+- **Other partial agonists in clinical use:** *BUPRENORPHINE (mu), ARIPIPRAZOLE (D2 — a "dopamine system stabiliser"), PINDOLOL and acebutolol (beta), BUSPIRONE (5-HT1A).***
+- **Terminology to keep straight:** *AFFINITY (how tightly a drug binds) versus INTRINSIC ACTIVITY/EFFICACY (what it does once bound); an ANTAGONIST has affinity but ZERO intrinsic activity; SPARE RECEPTORS explain how a maximal response can occur with less than full occupancy; TACHYPHYLAXIS is rapid tolerance from receptor desensitisation or transmitter depletion; DOWN-REGULATION and UP-REGULATION explain rebound phenomena after stopping a chronic antagonist (e.g. beta-blocker withdrawal).***
 - ***RECEPTOR SUPERSENSITIVITY after chronic dopamine blockade is the leading explanation for TARDIVE DYSKINESIA*** — a direct clinical consequence of up-regulation.
-- **Receptor families: ***LIGAND-GATED ION CHANNELS (nicotinic, GABA-A — milliseconds), GPCRs (muscarinic, adrenergic — seconds), ENZYME-LINKED (insulin, growth factor receptors — minutes) and NUCLEAR receptors (steroids, thyroid hormone, PPARs — hours to days).***
+- **Receptor families:** *LIGAND-GATED ION CHANNELS (nicotinic, GABA-A — milliseconds), GPCRs (muscarinic, adrenergic — seconds), ENZYME-LINKED (insulin, growth factor receptors — minutes) and NUCLEAR receptors (steroids, thyroid hormone, PPARs — hours to days).***
 
 **EXAM CONNECTION:** Drug that does NOT act as an inverse agonist → **varenicline (a partial agonist)**.
 
@@ -174,33 +176,7 @@
 
 ---
 
-### 7. Potency vs Efficacy
-
-**PEARL:** **ED50 measures POTENCY, not efficacy.** On a log dose–response curve, the **position on the X (dose) axis = potency**; the **height of the plateau = efficacy**. **Efficacy matters more clinically.**
-
-**UNDERSTAND:** Potency simply asks **how much drug you need** — a purely practical question answered by adjusting the dose. Efficacy asks **how much effect the drug can ever produce** — a ceiling you cannot overcome by any dose. That is why a low-potency, high-efficacy drug (furosemide) beats a high-potency, low-efficacy one (a thiazide) in severe fluid overload.
-
-**MUST KNOW:**
-
-- **A leftward shift of the curve = greater potency**; a **higher plateau = greater efficacy**.
-- **Therapeutic index = TD50/ED50** (or LD50/ED50); the **certain safety factor = TD1/ED99** is a stricter measure.
-- **Full agonist** — maximal efficacy; **partial agonist** — submaximal efficacy however high the dose, and acts as an **antagonist in the presence of a full agonist**; **inverse agonist** — produces the opposite effect to the agonist at a constitutively active receptor; **antagonist** — zero intrinsic activity.
-- **Competitive antagonism** shifts the curve **right, parallel, with the same maximum (surmountable)**; **non-competitive/irreversible antagonism lowers the maximum (insurmountable)**.
-- **Second messengers: cAMP, cGMP, IP3, DAG, Ca²⁺ and nitric oxide.** **Guanylyl cyclase is an ENZYME that makes cGMP**, not a second messenger itself — the classic distractor.
-
-**EXAM CONNECTION:** "Not true about potency and efficacy" → the statement equating **ED50 with efficacy**. Everything else on the list is correct.
-
-**REMEMBER:** *Potency is the x-axis, efficacy is the y-axis.*
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/12fda29ce9db479e99be322d78892dc3x1280x1196.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/202d58649a0544a9ba61ef918f0a6f03x1280x1167.JPEG)
-
-`MA4515, MA4508`
-
----
-
-### 8. Drug Metabolism — Phase I vs Phase II
+### 7. Drug Metabolism — Phase I vs Phase II
 
 **PEARL:** **Phase I = oxidation, reduction, hydrolysis, cyclisation, deamination** (add or unmask a functional group). **Phase II = CONJUGATION — glucuronidation, sulfation, ACETYLATION, methylation, glycine and glutathione conjugation.**
 
@@ -225,7 +201,7 @@
 
 ---
 
-### 9. Pharmacokinetic Formulas
+### 8. Pharmacokinetic Formulas
 
 **PEARL:**
 
@@ -242,7 +218,7 @@
 
 ---
 
-### 10. Drug–Protein Binding
+### 9. Drug–Protein Binding
 
 **PEARL:** **Albumin** binds **acidic** drugs (phenytoin, NSAIDs, warfarin, sulfonamides). **α1-acid glycoprotein** binds **basic** drugs (lignocaine, disopyramide, quinidine, propranolol, imipramine).
 
@@ -256,7 +232,7 @@
 
 ---
 
-### 11. GIRK-Coupled Receptors
+### 10. GIRK-Coupled Receptors
 
 **PEARL:** These Gi/Go receptors open **G-protein–coupled inwardly rectifying K⁺ channels (GIRK)** → K⁺ efflux → **hyperpolarization/inhibition**: **M2 muscarinic, A1 adenosine, α2 adrenergic, D2 dopamine, 5-HT1, somatostatin, GABA-B, opioid**.
 
@@ -270,7 +246,7 @@
 
 ## Drug Metabolism, Interactions and Pharmacogenetics
 
-### 12. Drug Interactions Worth Memorising
+### 11. Drug Interactions Worth Memorising
 
 **PEARL:** ***ERYTHROMYCIN MUST NOT BE GIVEN WITH THEOPHYLLINE*** — it inhibits **CYP1A2**, reducing theophylline clearance and precipitating toxicity in a drug with a narrow therapeutic index. ***SUCRALFATE MUST BE SEPARATED FROM PHENYTOIN (and digoxin, ketoconazole, cimetidine and fluoroquinolones) BY AT LEAST 2 HOURS (120 MINUTES)***, because its viscous polymer coats the mucosa and blocks their absorption. And ***PHENYTOIN, AS AN ENZYME INDUCER, LOWERS THE LEVELS OF RETIGABINE (ezogabine) — SO THE RETIGABINE DOSE MUST BE INCREASED.***
 
@@ -286,13 +262,15 @@
 
 **EXAM CONNECTION:** Not to be prescribed with theophylline → **erythromycin**; gap between phenytoin and sucralfate → **120 minutes**; adding phenytoin to retigabine → **increase the retigabine dose**.
 
+**ALSO KNOW:** **More CYP pairs worth memorising: VERAPAMIL (CYP3A4 inhibitor) + statins → MYOPATHY/RHABDOMYOLYSIS** (atorvastatin, simvastatin and lovastatin are 3A4-metabolised; rosuvastatin and pravastatin are less so — but **clarithromycin also inhibits OATP1B1/1B3 and raises even those**). **RITONAVIR/LOPINAVIR + ERGOTAMINE → ERGOTISM** (limb ischaemia, gangrene). **CYP2C9 INHIBITORS — amiodarone, azoles, cimetidine, clopidogrel, cotrimoxazole, disulfiram, isoniazid, metronidazole — raise WARFARIN and PHENYTOIN levels.**
+
 **REMEMBER:** *Absorption problems you can space apart; metabolic problems you must dose around.*
 
 `Q9285, Q9293, Q9295`
 
 ---
 
-### 13. Ergotism and CYP3A4 Catastrophes
+### 12. Ergotism and CYP3A4 Catastrophes
 
 **PEARL:** **A patient on ANTIRETROVIRALS (ritonavir/lopinavir — potent CYP3A4 INHIBITORS) who takes ERGOTAMINE for migraine can develop ***ERGOTISM: severe, diffuse, symmetrical vasospasm of the limb arteries with pain, pallor, paraesthesiae and threatened gangrene***, shown as long smooth luminal narrowing on angiography. Ergotamine is a **partial agonist/antagonist at ALPHA-ADRENERGIC, 5-HT1 and 5-HT2 receptors**, producing sustained vasoconstriction.
 
@@ -301,10 +279,10 @@
 **MUST KNOW:**
 
 - ***ERGOT PREPARATIONS ARE CONTRAINDICATED IN: pregnancy, peripheral vascular disease, ischaemic heart disease, uncontrolled hypertension, sepsis, hepatic or renal impairment, and with CYP3A4 inhibitors or triptans (within 24 hours).*** Treatment of ergotism is stopping the drug plus vasodilators (nitroprusside, nifedipine) and anticoagulation.
-- **Migraine pharmacology: ***ACUTE — NSAIDs/paracetamol, TRIPTANS (5-HT1B/1D agonists — contraindicated in ischaemic heart disease, uncontrolled hypertension, and in hemiplegic/basilar migraine), antiemetics, and the newer GEPANTS (CGRP antagonists — rimegepant, ubrogepant) and LASMIDITAN (5-HT1F agonist, safe in vascular disease). PROPHYLAXIS — PROPRANOLOL, TOPIRAMATE, amitriptyline, flunarizine, valproate, and CGRP MONOCLONAL ANTIBODIES (erenumab, fremanezumab); BOTULINUM TOXIN for chronic migraine.***
+- **Migraine pharmacology:** *ACUTE — NSAIDs/paracetamol, TRIPTANS (5-HT1B/1D agonists — contraindicated in ischaemic heart disease, uncontrolled hypertension, and in hemiplegic/basilar migraine), antiemetics, and the newer GEPANTS (CGRP antagonists — rimegepant, ubrogepant) and LASMIDITAN (5-HT1F agonist, safe in vascular disease). PROPHYLAXIS — PROPRANOLOL, TOPIRAMATE, amitriptyline, flunarizine, valproate, and CGRP MONOCLONAL ANTIBODIES (erenumab, fremanezumab); BOTULINUM TOXIN for chronic migraine.***
 - ***MEDICATION-OVERUSE HEADACHE*** is the commonest reason a migraine becomes chronic — especially with ergots, opioids and combination analgesics.
-- **Other ergot uses: ***ERGOMETRINE/METHYLERGOMETRINE for PPH (contraindicated in hypertension and pre-eclampsia), BROMOCRIPTINE and CABERGOLINE (dopamine agonists — hyperprolactinaemia, acromegaly, Parkinson disease; the ergot-derived ones cause CARDIAC VALVE FIBROSIS and retroperitoneal fibrosis).***
-- **Classic CYP3A4 substrate casualties to remember: ***ergots, statins, ciclosporin/tacrolimus, warfarin, midazolam, calcium channel blockers, sildenafil, carbamazepine and many antiarrhythmics.***
+- **Other ergot uses:** *ERGOMETRINE/METHYLERGOMETRINE for PPH (contraindicated in hypertension and pre-eclampsia), BROMOCRIPTINE and CABERGOLINE (dopamine agonists — hyperprolactinaemia, acromegaly, Parkinson disease; the ergot-derived ones cause CARDIAC VALVE FIBROSIS and retroperitoneal fibrosis).***
+- **Classic CYP3A4 substrate casualties to remember:** *ergots, statins, ciclosporin/tacrolimus, warfarin, midazolam, calcium channel blockers, sildenafil, carbamazepine and many antiarrhythmics.***
 
 **EXAM CONNECTION:** Limb ischaemia after ergotamine in a patient on ART → **ergotism**.
 
@@ -317,7 +295,7 @@
 
 ---
 
-### 14. Digoxin and P-Glycoprotein
+### 13. Digoxin and P-Glycoprotein
 
 **PEARL:** ***CLARITHROMYCIN PRECIPITATES DIGOXIN TOXICITY BY INHIBITING P-GLYCOPROTEIN***, the efflux transporter responsible for much of digoxin's elimination. Other P-gp inhibitors that raise digoxin levels: ***AMIODARONE, QUINIDINE, VERAPAMIL, DILTIAZEM, CICLOSPORIN, ITRACONAZOLE, PROPAFENONE and FLECAINIDE.*** Digoxin acts by **inhibiting Na+/K+-ATPase → raised intracellular sodium → reduced calcium extrusion by the Na+/Ca2+ exchanger → increased intracellular calcium and contractility.**
 
@@ -333,13 +311,15 @@
 
 **EXAM CONNECTION:** Drug raising digoxin levels → **clarithromycin (P-glycoprotein inhibition)**.
 
+**ALSO KNOW:** **P-gp is MDR1 (CD243), not MDR2**; besides eliminating digoxin it **limits drug entry at the blood–brain barrier and in the gut**. **Clarithromycin and erythromycin are the classic INHIBITORS (digoxin toxicity); RIFAMPICIN is the INDUCER (subtherapeutic digoxin).**
+
 **REMEMBER:** *Potassium and digoxin fight for the same seat on the pump — lose potassium and digoxin wins.*
 
 `Q9306`
 
 ---
 
-### 15. Enzyme Induction and Contraceptive Failure
+### 14. Enzyme Induction and Contraceptive Failure
 
 **PEARL:** **Valproate is an enzyme INHIBITOR — it does NOT cause oral contraceptive failure.** **Rifampicin, phenytoin, phenobarbitone, carbamazepine and griseofulvin are inducers and do.**
 
@@ -364,7 +344,7 @@
 
 ---
 
-### 16. Food, Enzymes and Contraceptive Failure
+### 15. Food, Enzymes and Contraceptive Failure
 
 **PEARL:** **Griseofulvin absorption is INCREASED by a fatty meal** (it is highly lipophilic). Most other drugs — ampicillin, aspirin, tetracycline, isoniazid, rifampicin, captopril, atenolol — are **reduced or delayed by food**.
 
@@ -387,7 +367,7 @@
 
 ---
 
-### 17. Pharmacogenetics
+### 16. Pharmacogenetics
 
 **PEARL:** Pharmacogenetic reactions are ADRs caused by genetic variation in individuals.
 
@@ -400,44 +380,9 @@
 
 ---
 
-### 18. P-glycoprotein and Digoxin Toxicity
-
-**PEARL:** P-gp (MDR1, **CD243**) is the efflux pump chiefly responsible for digoxin elimination. Inhibiting P-gp → digoxin toxicity. **Clarithromycin/erythromycin** are classic culprits.
-
-**MUST KNOW:**
-
-- Other P-gp inhibitors: **amiodarone, quinidine, verapamil, diltiazem, cyclosporine, itraconazole, propafenone, flecainide**.
-- P-gp inducer: **rifampicin** (lowers digoxin levels).
-- P-gp is MDR**1**, not MDR2; it also limits drug entry at the blood–brain barrier and gut.
-- Digoxin toxicity: nausea, **yellow-green vision (xanthopsia)**, arrhythmia with hypokalemia; antidote = digoxin-specific Fab.
-
-**REMEMBER:** *P-gp inhibitor + digoxin = toxicity; rifampicin does the opposite.*
-
----
-
-### 19. CYP Interactions Worth Memorizing
-
-**PEARL:**
-
-- **Verapamil (CYP3A4 inhibitor) + statins → myopathy/rhabdomyolysis** (atorvastatin, simvastatin, lovastatin are 3A4-metabolized).
-- **Erythromycin (CYP1A2 inhibitor) + theophylline → theophylline toxicity.**
-- **Ritonavir/lopinavir (potent CYP3A4 inhibitors) + ergotamine → ergotism** (limb ischemia, gangrene).
-- **CYP2C9 inhibitors:** amiodarone, azoles, cimetidine, clopidogrel, cotrimoxazole, disulfiram, isoniazid, metronidazole (→ raise warfarin/phenytoin levels).
-
-**MUST KNOW:**
-
-- Statin myopathy is the key toxicity — check CPK; rosuvastatin/pravastatin are less 3A4-dependent.
-- **Clarithromycin also inhibits OATP1B1/1B3**, raising **rosuvastatin and pravastatin** — so no statin is entirely safe with it.
-
-**REMEMBER:** *3A4 inhibitors: statins → muscle, ergot → gangrene.*
-
----
-
----
-
 ## Autonomic Nervous System
 
-### 20. Adrenaline in Anaphylaxis
+### 17. Adrenaline in Anaphylaxis
 
 **PEARL:** ***ANAPHYLAXIS: ADRENALINE 1:1000, 0.5 mL (0.5 mg) INTRAMUSCULARLY into the ANTEROLATERAL THIGH*** (0.01 mg/kg in children), repeated every 5–15 minutes as needed. ***THE IV ROUTE IS RESERVED FOR REFRACTORY SHOCK OR CARDIAC ARREST AND MUST USE THE 1:10,000 DILUTION*** — in cardiac arrest, **1 mg = 10 mL of 1:10,000 IV every 3–5 minutes.** ***IM IS PREFERRED BECAUSE IT IS FASTER IN PRACTICE AND FAR SAFER*** — IV bolus risks severe hypertension, myocardial ischaemia and ventricular arrhythmia.
 
@@ -445,7 +390,7 @@
 
 **MUST KNOW:**
 
-- **Concentration arithmetic worth being fluent in: ***1:1000 = 1 mg/mL; 1:10,000 = 0.1 mg/mL; 1:100,000 = 0.01 mg/mL.*** A 1% solution = 10 mg/mL.
+- **Concentration arithmetic worth being fluent in:** *1:1000 = 1 mg/mL; 1:10,000 = 0.1 mg/mL; 1:100,000 = 0.01 mg/mL.*** A 1% solution = 10 mg/mL.
 - **Adjuncts AFTER adrenaline: high-flow oxygen, ***AGGRESSIVE IV FLUID RESUSCITATION (massive capillary leak)***, positioning supine with legs raised (NOT sitting or standing — sudden upright posture has caused deaths), nebulised salbutamol for bronchospasm, and antihistamines and steroids for skin symptoms and the ***BIPHASIC REACTION that can occur up to 72 hours later*** — hence a period of observation.
 - ***PATIENTS ON BETA-BLOCKERS MAY BE RESISTANT TO ADRENALINE — GIVE GLUCAGON*** (which bypasses the beta receptor to raise cyclic AMP).
 - **Discharge care: an ***ADRENALINE AUTO-INJECTOR WITH TRAINING***, a written emergency plan, allergen identification and referral; measure serum TRYPTASE to confirm the diagnosis retrospectively.
@@ -459,7 +404,7 @@
 
 ---
 
-### 21. Enzyme Inhibition and the Edrophonium Test
+### 18. Enzyme Inhibition and the Edrophonium Test
 
 **PEARL:** ***A SUICIDE (MECHANISM-BASED) INHIBITOR BINDS ONLY AT THE ACTIVE SITE*** — it is a substrate analogue that is chemically inert until the enzyme's own catalytic machinery converts it into a reactive species, which then binds ***IRREVERSIBLY (covalently).*** Hence such inhibitors are **highly enzyme-specific and are a mainstay of rational drug design.** Separately, ***EDROPHONIUM — a very short-acting anticholinesterase — DISTINGUISHES A MYASTHENIC CRISIS (weakness IMPROVES) FROM A CHOLINERGIC CRISIS (weakness worsens or is unchanged).***
 
@@ -467,11 +412,11 @@
 
 **MUST KNOW:**
 
-- **Inhibition types: ***COMPETITIVE — binds the active site, Km INCREASES, Vmax UNCHANGED, overcome by more substrate. NON-COMPETITIVE — binds an allosteric site, Vmax DECREASES, Km unchanged. UNCOMPETITIVE — binds only the enzyme–substrate complex, BOTH Km and Vmax decrease. IRREVERSIBLE/suicide — covalent, and activity returns only with NEW ENZYME SYNTHESIS.***
-- **The therapeutic consequence of irreversibility is duration: ***ASPIRIN'S ANTIPLATELET EFFECT LASTS THE PLATELET'S LIFETIME (7–10 days) AND DISULFIRAM'S EFFECT LASTS UP TO 14 DAYS***, regardless of the drug's own half-life.
+- **Inhibition types:** *COMPETITIVE — binds the active site, Km INCREASES, Vmax UNCHANGED, overcome by more substrate. NON-COMPETITIVE — binds an allosteric site, Vmax DECREASES, Km unchanged. UNCOMPETITIVE — binds only the enzyme–substrate complex, BOTH Km and Vmax decrease. IRREVERSIBLE/suicide — covalent, and activity returns only with NEW ENZYME SYNTHESIS.***
+- **The therapeutic consequence of irreversibility is duration:** *ASPIRIN'S ANTIPLATELET EFFECT LASTS THE PLATELET'S LIFETIME (7–10 days) AND DISULFIRAM'S EFFECT LASTS UP TO 14 DAYS***, regardless of the drug's own half-life.
 - ***THE EDROPHONIUM (TENSILON) TEST: 2 mg IV, then 8 mg more if no response within 45 seconds; improvement is positive for myasthenia gravis.*** ***HAVE ATROPINE AND RESUSCITATION FACILITIES READY — bradycardia and bronchospasm can occur.*** The test has largely been replaced by antibody testing (anti-AChR, anti-MuSK) and repetitive nerve stimulation/single-fibre EMG, but remains a favourite exam item.
-- **Distinguishing the crises clinically: ***CHOLINERGIC crisis has MUSCARINIC EXCESS — miosis, salivation, sweating, bradycardia, diarrhoea and fasciculations; MYASTHENIC crisis has none of these.*** Both need ***AIRWAY ASSESSMENT AND VENTILATORY SUPPORT FIRST.***
-- **Anticholinesterases by duration: ***EDROPHONIUM (minutes, diagnostic), NEOSTIGMINE and PYRIDOSTIGMINE (hours, therapeutic — pyridostigmine longer-acting and used orally), PHYSOSTIGMINE (crosses the blood–brain barrier — used for central anticholinergic syndrome), and ORGANOPHOSPHATES (irreversible after "ageing").***
+- **Distinguishing the crises clinically:** *CHOLINERGIC crisis has MUSCARINIC EXCESS — miosis, salivation, sweating, bradycardia, diarrhoea and fasciculations; MYASTHENIC crisis has none of these.*** Both need ***AIRWAY ASSESSMENT AND VENTILATORY SUPPORT FIRST.***
+- **Anticholinesterases by duration:** *EDROPHONIUM (minutes, diagnostic), NEOSTIGMINE and PYRIDOSTIGMINE (hours, therapeutic — pyridostigmine longer-acting and used orally), PHYSOSTIGMINE (crosses the blood–brain barrier — used for central anticholinergic syndrome), and ORGANOPHOSPHATES (irreversible after "ageing").***
 
 **EXAM CONNECTION:** False about suicide inhibition → **that the inhibitor can bind at any site**; drug distinguishing myasthenic from cholinergic crisis → **edrophonium**.
 
@@ -481,7 +426,7 @@
 
 ---
 
-### 22. Dose-Dependent Effects of Dopamine
+### 19. Dose-Dependent Effects of Dopamine
 
 **PEARL:** ***DOPAMINE'S RECEPTOR ACTION CHANGES WITH DOSE: <2 µg/kg/min — DOPAMINERGIC (D1/D2), dilating renal and mesenteric vessels; 2–10 µg/kg/min — BETA-1, increasing contractility and heart rate; >10 µg/kg/min — ALPHA-1, causing vasoconstriction and a rise in blood pressure.***
 
@@ -491,7 +436,7 @@
 
 - ***NORADRENALINE IS THE FIRST-LINE VASOPRESSOR IN SEPTIC SHOCK*** (dopamine causes more tachyarrhythmias and higher mortality in some subgroups); ***DOBUTAMINE (a beta-1 agonist) is the inotrope for cardiogenic shock and low-output states***; ***ADRENALINE for anaphylaxis and cardiac arrest***; ***VASOPRESSIN as an adjunct to reduce noradrenaline requirement***; ***PHENYLEPHRINE (pure alpha-1) where tachycardia must be avoided.***
 - **Adverse effects of dopamine: tachyarrhythmias, ***SEVERE HYPERTENSION IF GIVEN WITH A NON-SELECTIVE BETA-BLOCKER (unopposed alpha)***, and TISSUE NECROSIS ON EXTRAVASATION — treated with local ***PHENTOLAMINE*** infiltration. Give vasopressors through a central line where possible.
-- **Inotrope mechanisms worth pairing: ***DOBUTAMINE and dopamine act via beta-1/cAMP; MILRINONE is a PHOSPHODIESTERASE-3 INHIBITOR ("inodilator" — raises cAMP without a receptor, so it works even with beta-blockade, but causes hypotension); LEVOSIMENDAN is a CALCIUM SENSITISER; DIGOXIN inhibits the Na+/K+-ATPase.***
+- **Inotrope mechanisms worth pairing:** *DOBUTAMINE and dopamine act via beta-1/cAMP; MILRINONE is a PHOSPHODIESTERASE-3 INHIBITOR ("inodilator" — raises cAMP without a receptor, so it works even with beta-blockade, but causes hypotension); LEVOSIMENDAN is a CALCIUM SENSITISER; DIGOXIN inhibits the Na+/K+-ATPase.***
 - **In cardiogenic shock, ***AN INOTROPE RAISES CARDIAC OUTPUT AT THE COST OF MYOCARDIAL OXYGEN DEMAND AND ARRHYTHMIA*** — hence use the lowest dose for the shortest time and address the cause (revascularisation, mechanical support).
 - **Fenoldopam is a selective D1 agonist used in hypertensive emergency with renal impairment.**
 
@@ -503,7 +448,7 @@
 
 ---
 
-### 23. Botulinum Toxin
+### 20. Botulinum Toxin
 
 **PEARL:** **Botulinum toxin cleaves SNARE proteins and blocks the RELEASE of acetylcholine** from the presynaptic terminal — it does not block the receptor.
 
@@ -528,7 +473,7 @@
 
 ---
 
-### 24. Muscarinic Receptor Subtypes
+### 21. Muscarinic Receptor Subtypes
 
 **PEARL:** M1–M5. Broad effects:
 
@@ -546,7 +491,7 @@
 
 ---
 
-### 25. Presynaptic K⁺ Channel Blockade
+### 22. Presynaptic K⁺ Channel Blockade
 
 **PEARL:** Blocking presynaptic **potassium** channels prolongs depolarization → more **voltage-gated Ca²⁺** channel opening → **increased acetylcholine release** at the NMJ.
 
@@ -556,11 +501,11 @@
 
 ---
 
-### 26. Drugs to Avoid in Myasthenia Gravis
+### 23. Drugs to Avoid in Myasthenia Gravis
 
 **PEARL:** **Aminoglycosides** block Ca²⁺-mediated presynaptic ACh exocytosis and also directly inhibit post-synaptic ACh receptors → worsen MG.
 
-**MUST KNOW:** Other aggravators: **quinolones, macrolides, β-blockers, botulinum toxin, local anaesthetics, magnesium, non-depolarizing muscle relaxants, penicillamine, quinine, phenytoin, chloroquine**.
+**MUST KNOW: **Other aggravators:** quinolones, macrolides, β-blockers, botulinum toxin, local anaesthetics, magnesium, non-depolarizing muscle relaxants, penicillamine, quinine, phenytoin, chloroquine**.
 
 **EXAM CONNECTION:** **Penicillamine** can actually *induce* MG (antibody-mediated); **magnesium** (as in eclampsia therapy) can precipitate a crisis.
 
@@ -568,7 +513,7 @@
 
 ---
 
-### 27. Adrenaline — Doses
+### 24. Adrenaline — Doses
 
 **PEARL:** For anaphylactic shock give **adrenaline 1:1000, 0.5 mL IM** (= 0.5 mg) into the **anterolateral thigh**, repeatable every 5–15 minutes.
 
@@ -582,17 +527,17 @@
 
 ---
 
-### 28. Tamsulosin for Postoperative Urinary Retention
+### 25. Tamsulosin for Postoperative Urinary Retention
 
 **PEARL:** **Tamsulosin** is used for postoperative urinary retention, and is the α-blocker of choice in a **COPD** patient (α1A-selective — no bronchial or significant cardiovascular effect).
 
-**MUST KNOW:** ADRs: **retrograde ejaculation**, dizziness/postural hypotension, and **intraoperative floppy iris syndrome** — always ask before cataract surgery.
+**MUST KNOW: **ADRs:** retrograde ejaculation**, dizziness/postural hypotension, and **intraoperative floppy iris syndrome** — always ask before cataract surgery.
 
 **REMEMBER:** *Tamsulosin = uroselective; think floppy iris.*
 
 ---
 
-### 29. Erection is Muscarinic (Cholinergic)
+### 26. Erection is Muscarinic (Cholinergic)
 
 **PEARL:** Erection is mediated by **muscarinic (parasympathetic)** transmission → NO release; ejaculation is sympathetic.
 
@@ -604,7 +549,7 @@
 
 ## Cardiovascular Drugs
 
-### 30. Antiarrhythmics, QT Prolongation and Anti-anginals
+### 27. Antiarrhythmics, QT Prolongation and Anti-anginals
 
 **PEARL:** ***QUINIDINE (class Ia) PROLONGS THE QT AND CAUSES TORSADES DE POINTES.*** ***AMIODARONE IS CONTRAINDICATED IN INTERSTITIAL LUNG DISEASE*** — its most feared chronic toxicity is **PULMONARY FIBROSIS**, which can be rapidly progressive and fatal. ***RANOLAZINE, an antianginal, works by INHIBITING THE LATE SODIUM CURRENT***, thereby reducing sodium–calcium exchange, intracellular calcium, diastolic wall tension and oxygen demand.
 
@@ -613,9 +558,9 @@
 **MUST KNOW:**
 
 - ***MAGNESIUM SULPHATE IS THE TREATMENT FOR TORSADES DE POINTES***, not a cause of QT prolongation; other causes of a long QT are ***hypokalaemia, hypomagnesaemia, hypocalcaemia, bradycardia, congenital long-QT syndromes, and drugs — class Ia and III antiarrhythmics, macrolides, fluoroquinolones, antipsychotics (haloperidol), methadone, ondansetron, citalopram, antifungals and antimalarials.***
-- **AMIODARONE toxicity list (very examinable): ***PULMONARY FIBROSIS, THYROID dysfunction (both hypo- and hyperthyroidism — it is 37% iodine by weight), CORNEAL MICRODEPOSITS (almost universal, usually harmless), HEPATOTOXICITY, PHOTOSENSITIVITY WITH SLATE-GREY SKIN, peripheral neuropathy, bradycardia and torsades.*** It has an enormous volume of distribution and a half-life of ~50 days, and it raises digoxin and warfarin levels. ***BASELINE AND SERIAL LUNG, THYROID, LIVER AND EYE ASSESSMENT ARE MANDATORY.***
+- **AMIODARONE toxicity list (very examinable):** *PULMONARY FIBROSIS, THYROID dysfunction (both hypo- and hyperthyroidism — it is 37% iodine by weight), CORNEAL MICRODEPOSITS (almost universal, usually harmless), HEPATOTOXICITY, PHOTOSENSITIVITY WITH SLATE-GREY SKIN, peripheral neuropathy, bradycardia and torsades.*** It has an enormous volume of distribution and a half-life of ~50 days, and it raises digoxin and warfarin levels. ***BASELINE AND SERIAL LUNG, THYROID, LIVER AND EYE ASSESSMENT ARE MANDATORY.***
 - ***FLECAINIDE AND OTHER Ic AGENTS ARE CONTRAINDICATED AFTER MYOCARDIAL INFARCTION AND IN STRUCTURAL HEART DISEASE (the CAST trial — INCREASED MORTALITY)*** — one of cardiology's foundational safety lessons.
-- **Other antianginals worth pairing: ***IVABRADINE — funny-current (If) inhibitor in the SA node, slowing rate WITHOUT affecting contractility (side effect: luminous phosphenes); TRIMETAZIDINE — metabolic modulator; NICORANDIL — potassium channel opener plus nitrate (causes ulceration).***
+- **Other antianginals worth pairing:** *IVABRADINE — funny-current (If) inhibitor in the SA node, slowing rate WITHOUT affecting contractility (side effect: luminous phosphenes); TRIMETAZIDINE — metabolic modulator; NICORANDIL — potassium channel opener plus nitrate (causes ulceration).***
 - ***ISOSORBIDE DINITRATE PLUS HYDRALAZINE IS AN EVIDENCE-BASED HEART FAILURE COMBINATION (mortality benefit, particularly in African-American patients and in those intolerant of ACE inhibitors)*** — hydralazine is an arterial dilator that also reduces NITRATE TOLERANCE, while the nitrate provides venodilatation. ***NITRATE-FREE INTERVALS PREVENT TOLERANCE***, and nitrates are ***ABSOLUTELY CONTRAINDICATED WITH PDE5 INHIBITORS (sildenafil) — catastrophic hypotension.***
 
 **EXAM CONNECTION:** Drug causing QT prolongation → **quinidine**; antiarrhythmic contraindicated in interstitial lung disease → **amiodarone**; late sodium current inhibitor → **ranolazine**; combined with isosorbide dinitrate in heart failure → **hydralazine**.
@@ -629,7 +574,7 @@
 
 ---
 
-### 31. Beta-Blocker Subclasses and Antihypertensive Side Effects
+### 28. Beta-Blocker Subclasses and Antihypertensive Side Effects
 
 **PEARL:** ***PINDOLOL — NON-SELECTIVE with INTRINSIC SYMPATHOMIMETIC ACTIVITY (partial agonist). CARVEDILOL — NON-SELECTIVE with alpha-1 blockade and ANTIOXIDANT/anti-inflammatory properties (a heart-failure drug). BETAXOLOL — BETA-1 SELECTIVE with MEMBRANE-STABILISING activity. ACEBUTOLOL — BETA-1 SELECTIVE with INTRINSIC SYMPATHOMIMETIC ACTIVITY.*** Among antihypertensive adverse effects: ***VERAPAMIL — CONSTIPATION (and bradycardia); HYDRALAZINE — DRUG-INDUCED LUPUS (not heart failure — it TREATS heart failure); ALISKIREN — HYPERkalaemia (not hypo).***
 
@@ -638,8 +583,8 @@
 **MUST KNOW:**
 
 - ***THE FOUR BETA-BLOCKERS WITH MORTALITY BENEFIT IN HEART FAILURE ARE BISOPROLOL, CARVEDILOL, METOPROLOL SUCCINATE (extended-release) AND NEBIVOLOL*** (the last also releasing nitric oxide) — start low, go slow, and never during acute decompensation.
-- **Beta-blocker cautions: ***ASTHMA (non-selective agents), severe peripheral vascular disease, second/third-degree heart block, and MASKING OF HYPOGLYCAEMIA IN DIABETICS (sweating is preserved). NEVER STOP ABRUPTLY — REBOUND TACHYCARDIA, HYPERTENSION AND ANGINA/INFARCTION.*** ***IN PHAEOCHROMOCYTOMA AND COCAINE TOXICITY, NEVER BETA-BLOCK BEFORE ALPHA-BLOCKING*** (unopposed alpha stimulation).
-- **Other antihypertensive signatures: ***ACE INHIBITORS — dry COUGH (bradykinin) and ANGIO-OEDEMA, hyperkalaemia, FETAL TOXICITY; ARBs — same without the cough; AMLODIPINE — ANKLE OEDEMA, flushing, gum hypertrophy; THIAZIDES — hypokalaemia, hyponatraemia, hyperuricaemia/gout, hyperglycaemia, hypercalcaemia, erectile dysfunction; SPIRONOLACTONE — hyperkalaemia and GYNAECOMASTIA (use eplerenone); CLONIDINE and methyldopa — sedation and REBOUND HYPERTENSION/positive Coombs test respectively; MINOXIDIL — HIRSUTISM and pericardial effusion.***
+- **Beta-blocker cautions:** *ASTHMA (non-selective agents), severe peripheral vascular disease, second/third-degree heart block, and MASKING OF HYPOGLYCAEMIA IN DIABETICS (sweating is preserved). NEVER STOP ABRUPTLY — REBOUND TACHYCARDIA, HYPERTENSION AND ANGINA/INFARCTION.*** ***IN PHAEOCHROMOCYTOMA AND COCAINE TOXICITY, NEVER BETA-BLOCK BEFORE ALPHA-BLOCKING*** (unopposed alpha stimulation).
+- **Other antihypertensive signatures:** *ACE INHIBITORS — dry COUGH (bradykinin) and ANGIO-OEDEMA, hyperkalaemia, FETAL TOXICITY; ARBs — same without the cough; AMLODIPINE — ANKLE OEDEMA, flushing, gum hypertrophy; THIAZIDES — hypokalaemia, hyponatraemia, hyperuricaemia/gout, hyperglycaemia, hypercalcaemia, erectile dysfunction; SPIRONOLACTONE — hyperkalaemia and GYNAECOMASTIA (use eplerenone); CLONIDINE and methyldopa — sedation and REBOUND HYPERTENSION/positive Coombs test respectively; MINOXIDIL — HIRSUTISM and pericardial effusion.***
 - ***DIURETIC-INDUCED HYPOKALAEMIA IS GREATEST WITH ACETAZOLAMIDE AT EQUINATRIURETIC DOSES*** (it delivers a large bicarbonate-rich sodium load distally, maximising K+ secretion), followed by thiazides then loop diuretics; potassium-sparing agents (triamterene, amiloride, spironolactone) cause hyperkalaemia instead.
 - **In pregnancy the safe antihypertensives are ***LABETALOL, NIFEDIPINE, METHYLDOPA and hydralazine***; ACE inhibitors, ARBs and aliskiren are contraindicated.
 
@@ -651,7 +596,7 @@
 
 ---
 
-### 32. Antiarrhythmic Choices in Toxicity and Transporters
+### 29. Antiarrhythmic Choices in Toxicity and Transporters
 
 **PEARL:** ***LIGNOCAINE IS THE DRUG OF CHOICE FOR DIGOXIN-INDUCED VENTRICULAR TACHYARRHYTHMIAS*** (phenytoin is the alternative) — ***QUINIDINE AND AMIODARONE ARE CONTRAINDICATED because they RAISE digoxin levels further.*** ***DOFETILIDE is a CLASS III (potassium channel blocker) antiarrhythmic.*** And ***CICLOSPORIN CAUSES CHOLESTASIS BY INHIBITING THE MDR1 (P-glycoprotein) CANALICULAR EFFLUX TRANSPORTER.***
 
@@ -659,9 +604,9 @@
 
 **MUST KNOW:**
 
-- **Digoxin toxicity management recap: ***correct potassium and magnesium, atropine for bradyarrhythmia, LIGNOCAINE or PHENYTOIN for ventricular arrhythmia, DIGOXIN-SPECIFIC FAB FRAGMENTS for life-threatening toxicity — and AVOID CALCIUM AND, WHERE POSSIBLE, CARDIOVERSION.***
-- **Hepatobiliary transporters worth naming: ***MDR1/P-glycoprotein (drugs), MRP2 (conjugated bilirubin — defective in DUBIN–JOHNSON SYNDROME), BSEP (bile salts — defective in PFIC2), MDR3 (phospholipids — PFIC3) and OATP1B1/1B3 (hepatic UPTAKE of statins).*** ***DRUG-INDUCED CHOLESTASIS GENERALLY REFLECTS INHIBITION OF THESE CANALICULAR PUMPS*** — the mechanism for ciclosporin, oestrogens, rifampicin and bosentan.
-- **Ciclosporin's other toxicities: ***NEPHROTOXICITY (dose-limiting), hypertension, hyperkalaemia, hypomagnesaemia, hyperuricaemia and gout, tremor, GUM HYPERTROPHY, HIRSUTISM*** — and a long list of CYP3A4 interactions.
+- **Digoxin toxicity management recap:** *correct potassium and magnesium, atropine for bradyarrhythmia, LIGNOCAINE or PHENYTOIN for ventricular arrhythmia, DIGOXIN-SPECIFIC FAB FRAGMENTS for life-threatening toxicity — and AVOID CALCIUM AND, WHERE POSSIBLE, CARDIOVERSION.***
+- **Hepatobiliary transporters worth naming:** *MDR1/P-glycoprotein (drugs), MRP2 (conjugated bilirubin — defective in DUBIN–JOHNSON SYNDROME), BSEP (bile salts — defective in PFIC2), MDR3 (phospholipids — PFIC3) and OATP1B1/1B3 (hepatic UPTAKE of statins).*** ***DRUG-INDUCED CHOLESTASIS GENERALLY REFLECTS INHIBITION OF THESE CANALICULAR PUMPS*** — the mechanism for ciclosporin, oestrogens, rifampicin and bosentan.
+- **Ciclosporin's other toxicities:** *NEPHROTOXICITY (dose-limiting), hypertension, hyperkalaemia, hypomagnesaemia, hyperuricaemia and gout, tremor, GUM HYPERTROPHY, HIRSUTISM*** — and a long list of CYP3A4 interactions.
 - **Class III agents (amiodarone, sotalol, DOFETILIDE, ibutilide, dronedarone) all prolong the QT; ***DOFETILIDE AND SOTALOL MUST BE STARTED IN HOSPITAL WITH ECG MONITORING AND RENAL DOSING***, and sotalol additionally beta-blocks.
 - **For most sustained ventricular arrhythmias in a structurally abnormal heart, ***AMIODARONE (or lignocaine in ischaemia) plus correction of electrolytes and ischaemia*** is standard, and an ***IMPLANTABLE DEFIBRILLATOR — not a drug — is what prolongs life.***
 
@@ -673,7 +618,7 @@
 
 ---
 
-### 33. Antihypertensives and the Lipid Profile
+### 30. Antihypertensives and the Lipid Profile
 
 **PEARL:** **Alpha-1 blockers (prazosin, doxazosin, terazosin) IMPROVE the lipid profile** — they lower LDL and triglycerides and raise HDL. **Thiazides and non-selective beta-blockers worsen it.**
 
@@ -695,7 +640,7 @@
 
 ---
 
-### 34. Clonidine — Rebound Hypertension
+### 31. Clonidine — Rebound Hypertension
 
 **PEARL:** **Abrupt withdrawal of clonidine causes REBOUND HYPERTENSION** — a surge often **above the pre-treatment blood pressure**, with restlessness and sympathetic overactivity. Treat with **phentolamine**.
 
@@ -717,7 +662,7 @@
 
 ---
 
-### 35. Renoprotection in Diabetic Kidney Disease
+### 32. Renoprotection in Diabetic Kidney Disease
 
 **PEARL:** **ACE inhibitors/ARBs, SGLT2 inhibitors and finerenone slow the progression of diabetic kidney disease.** **Thiazides do NOT** — they lower blood pressure but have no specific renoprotective effect (and are ineffective as diuretics once eGFR falls below ~30).
 
@@ -740,7 +685,7 @@
 
 ---
 
-### 36. Enalaprilat and Hypertensive Emergencies
+### 33. Enalaprilat and Hypertensive Emergencies
 
 **PEARL:** **Enalaprilat is the only intravenously available ACE inhibitor** — the active metabolite of enalapril. **All ACE inhibitors are prodrugs EXCEPT captopril and lisinopril.**
 
@@ -761,7 +706,7 @@
 
 ---
 
-### 37. Isosorbide Dinitrate + Hydralazine
+### 34. Isosorbide Dinitrate + Hydralazine
 
 **PEARL:** ISDN with hydralazine is indicated in CHF — particularly in African-American patients and in those who cannot tolerate ACE inhibitors/ARBs.
 
@@ -771,7 +716,7 @@
 
 ---
 
-### 38. Ranolazine and Trimetazidine — Metabolic Antianginals
+### 35. Ranolazine and Trimetazidine — Metabolic Antianginals
 
 **PEARL:**
 
@@ -787,7 +732,7 @@
 
 ---
 
-### 39. Amiodarone — Two Key Toxicities
+### 36. Amiodarone — Two Key Toxicities
 
 **PEARL:**
 
@@ -803,7 +748,7 @@
 
 ---
 
-### 40. Dofetilide
+### 37. Dofetilide
 
 **PEARL:** Dofetilide is a **class III** antiarrhythmic (pure IKr potassium channel blocker) — used for AF conversion/maintenance; requires in-hospital initiation because of **torsades de pointes** risk.
 
@@ -811,7 +756,7 @@
 
 ---
 
-### 41. ACE Inhibitors/ARBs in Proteinuria
+### 38. ACE Inhibitors/ARBs in Proteinuria
 
 **PEARL:** ACE inhibitors or ARBs are **first-line** in proteinuric renal disease — they lower BP, reduce proteinuria, and slow GFR decline; **CCBs may be added** if BP is still uncontrolled.
 
@@ -827,7 +772,7 @@
 
 ## Diuretics and Renal Pharmacology
 
-### 42. Vaptans
+### 39. Vaptans
 
 **PEARL:** ***TOLVAPTAN, a SELECTIVE V2 RECEPTOR ANTAGONIST, IS THE BEST APPROACH FOR CHRONIC SIADH*** — it blocks vasopressin's action in the collecting duct, lowering intracellular cAMP so that AQUAPORIN-2 vesicles are not inserted into the apical membrane. The result is ***INCREASED FREE WATER CLEARANCE with dilute urine*** — and hence the characteristic side effects of **THIRST, DRY MOUTH, dehydration and HYPERNATRAEMIA.** Tolvaptan is also used to **slow progression in ADPKD.**
 
@@ -838,7 +783,7 @@
 - ***CORRECT CHRONIC HYPONATRAEMIA SLOWLY — NO MORE THAN 8–10 mmol/L IN 24 HOURS*** — or risk ***OSMOTIC DEMYELINATION SYNDROME (central pontine myelinolysis)***, with locked-in syndrome days later. Vaptans must therefore be started in hospital with frequent sodium monitoring, and fluid restriction is relaxed while they are given.
 - ***TOLVAPTAN CAUSES DOSE-DEPENDENT HEPATOTOXICITY (a black-box warning, particularly at ADPKD doses) — MONITOR LIVER FUNCTION.***
 - **Other SIADH options: fluid restriction (<500–1000 mL/day), oral salt/urea, loop diuretics, and ***DEMECLOCYCLINE (which induces a nephrogenic diabetes insipidus — slow, nephrotoxic and photosensitising).*** Treat the underlying cause (small cell lung cancer, CNS disease, pneumonia, drugs — carbamazepine, SSRIs, cyclophosphamide, ecstasy).
-- **Diagnosis of SIADH: ***HYPONATRAEMIA with LOW plasma osmolality, INAPPROPRIATELY CONCENTRATED URINE (>100 mOsm/kg), URINE SODIUM >30 mmol/L, EUVOLAEMIA, and NORMAL thyroid, adrenal and renal function.***
+- **Diagnosis of SIADH:** *HYPONATRAEMIA with LOW plasma osmolality, INAPPROPRIATELY CONCENTRATED URINE (>100 mOsm/kg), URINE SODIUM >30 mmol/L, EUVOLAEMIA, and NORMAL thyroid, adrenal and renal function.***
 - **The mirror image, DIABETES INSIPIDUS, is treated with ***DESMOPRESSIN (a V2 AGONIST)*** in the central form and with thiazides, amiloride and low-solute diet in the nephrogenic form (classically lithium-induced).
 - ***CONIVAPTAN is the intravenous, non-selective (V1a/V2) vaptan.***
 
@@ -850,7 +795,7 @@
 
 ---
 
-### 43. Diuretic Sites of Action and Liddle Syndrome
+### 40. Diuretic Sites of Action and Liddle Syndrome
 
 **PEARL:** **Young-onset HYPERTENSION with HYPOKALAEMIA, METABOLIC ALKALOSIS, ***LOW renin and LOW aldosterone*** and a family history, caused by a ***GAIN-OF-FUNCTION MUTATION IN ENaC = LIDDLE SYNDROME — treated with AMILORIDE (or triamterene), which directly BLOCKS the epithelial sodium channel.*** ***SPIRONOLACTONE DOES NOT WORK*** — the channel is constitutively open and does not need aldosterone.
 
@@ -858,10 +803,10 @@
 
 **MUST KNOW:**
 
-- **Diuretic sites: ***ACETAZOLAMIDE — proximal tubule (carbonic anhydrase); MANNITOL — osmotic, thin descending limb; LOOP DIURETICS — NKCC2 in the thick ascending limb (the most potent, "high-ceiling"); THIAZIDES — NCC in the distal convoluted tubule; AMILORIDE/TRIAMTERENE — ENaC in the collecting duct; SPIRONOLACTONE/EPLERENONE — mineralocorticoid receptor; VAPTANS — V2 receptor.***
+- **Diuretic sites:** *ACETAZOLAMIDE — proximal tubule (carbonic anhydrase); MANNITOL — osmotic, thin descending limb; LOOP DIURETICS — NKCC2 in the thick ascending limb (the most potent, "high-ceiling"); THIAZIDES — NCC in the distal convoluted tubule; AMILORIDE/TRIAMTERENE — ENaC in the collecting duct; SPIRONOLACTONE/EPLERENONE — mineralocorticoid receptor; VAPTANS — V2 receptor.***
 - ***HYPOKALAEMIA AT EQUINATRIURETIC DOSES IS GREATEST WITH ACETAZOLAMIDE***, then thiazides, then loop diuretics — because acetazolamide delivers a large, poorly reabsorbable bicarbonate-rich sodium load to the collecting duct, maximising potassium secretion.
-- **Electrolyte signatures: ***LOOP — hypokalaemia, hypocalcaemia (used in hypercalcaemia), hypomagnesaemia, metabolic alkalosis, ototoxicity. THIAZIDE — hypokalaemia, HYPOnatraemia, HYPERcalcaemia (used in calcium stones and nephrogenic DI), hyperuricaemia, hyperglycaemia, hyperlipidaemia. ACETAZOLAMIDE — hyperchloraemic METABOLIC ACIDOSIS. POTASSIUM-SPARING — HYPERkalaemic metabolic acidosis and (spironolactone) gynaecomastia.***
-- **The genetic mimics worth pairing: ***BARTTER SYNDROME resembles a LOOP DIURETIC (NKCC2 defect — hypokalaemic alkalosis, NORMOTENSIVE, hypercalciuria); GITELMAN SYNDROME resembles a THIAZIDE (NCC defect — hypokalaemic alkalosis, hypomagnesaemia, HYPOcalciuria); LIDDLE resembles ALDOSTERONE EXCESS but with low aldosterone.***
+- **Electrolyte signatures:** *LOOP — hypokalaemia, hypocalcaemia (used in hypercalcaemia), hypomagnesaemia, metabolic alkalosis, ototoxicity. THIAZIDE — hypokalaemia, HYPOnatraemia, HYPERcalcaemia (used in calcium stones and nephrogenic DI), hyperuricaemia, hyperglycaemia, hyperlipidaemia. ACETAZOLAMIDE — hyperchloraemic METABOLIC ACIDOSIS. POTASSIUM-SPARING — HYPERkalaemic metabolic acidosis and (spironolactone) gynaecomastia.***
+- **The genetic mimics worth pairing:** *BARTTER SYNDROME resembles a LOOP DIURETIC (NKCC2 defect — hypokalaemic alkalosis, NORMOTENSIVE, hypercalciuria); GITELMAN SYNDROME resembles a THIAZIDE (NCC defect — hypokalaemic alkalosis, hypomagnesaemia, HYPOcalciuria); LIDDLE resembles ALDOSTERONE EXCESS but with low aldosterone.***
 - **In HYPERTENSION with hypokalaemia, check renin and aldosterone: ***BOTH HIGH — renovascular disease or a renin-secreting tumour; ALDOSTERONE HIGH, RENIN LOW — PRIMARY HYPERALDOSTERONISM (Conn); BOTH LOW — Liddle syndrome, apparent mineralocorticoid excess (liquorice), CAH (11-beta or 17-alpha) or exogenous steroid.***
 
 **EXAM CONNECTION:** ENaC mutation with hypertension and hypokalaemic alkalosis → **amiloride**.
@@ -872,7 +817,7 @@
 
 ---
 
-### 44. Finerenone vs Spironolactone
+### 41. Finerenone vs Spironolactone
 
 **PEARL:** **Finerenone is a SELECTIVE NON-STEROIDAL mineralocorticoid receptor antagonist** with a **balanced heart–kidney tissue distribution and NO long-lived active metabolites** — which is why it causes **less severe hyperkalaemia** than spironolactone despite blocking the same receptor.
 
@@ -894,7 +839,7 @@
 
 ---
 
-### 45. Diuretic Choice in Cirrhotic Ascites
+### 42. Diuretic Choice in Cirrhotic Ascites
 
 **PEARL:** **Aldosterone antagonists (spironolactone or eplerenone) are the diuretics of choice in cirrhotic ascites** — not loop diuretics alone.
 
@@ -921,7 +866,7 @@
 
 ---
 
-### 46. Tolvaptan
+### 43. Tolvaptan
 
 **PEARL:** Tolvaptan is a **V2 receptor antagonist**: blocking vasopressin at the collecting duct lowers adenyl cyclase → ↓cAMP → **aquaporin-2 vesicles are not inserted** into the membrane → increased **free water clearance** and reduced urine osmolality.
 
@@ -939,7 +884,7 @@
 
 ## Anticoagulants, Antiplatelets and Haematological Drugs
 
-### 47. Heparins, Antithrombin and Antifibrinolytics
+### 44. Heparins, Antithrombin and Antifibrinolytics
 
 **PEARL:** ***HEPARIN HAS NO ANTICOAGULANT ACTIVITY OF ITS OWN — IT REQUIRES ANTITHROMBIN III***, whose inhibition of thrombin and factor Xa it accelerates about 1000-fold. **Low ATIII is the commonest cause of "HEPARIN RESISTANCE" (failure to reach a therapeutic aPTT despite ≥35,000 units/day).** ***LOW-MOLECULAR-WEIGHT HEPARIN IS THE ANTICOAGULANT OF CHOICE IN CANCER-ASSOCIATED THROMBOEMBOLISM.*** ***TRANEXAMIC ACID IS THE ANTIDOTE TO FIBRINOLYTIC THERAPY*** — a lysine analogue that blocks plasminogen/plasmin binding to fibrin.
 
@@ -965,7 +910,7 @@
 
 ---
 
-### 48. Antiplatelet Drugs
+### 45. Antiplatelet Drugs
 
 **PEARL:** ***CLOPIDOGREL IS A PRODRUG ACTIVATED BY CYP2C19 — LOSS-OF-FUNCTION VARIANTS OR CYP2C19 INHIBITION (especially by OMEPRAZOLE/esomeprazole) CAUSE TREATMENT FAILURE AND RECURRENT THROMBOTIC EVENTS.*** ***PRASUGREL IS ALSO A PRODRUG, but is activated by CYP3A4/CYP2B6 — so it is UNAFFECTED by omeprazole, is about 10 TIMES MORE POTENT than clopidogrel and acts faster.*** Both are **IRREVERSIBLE P2Y12 ANTAGONISTS** (not agonists).
 
@@ -973,7 +918,7 @@
 
 **MUST KNOW:**
 
-- **Antiplatelet mechanisms: ***ASPIRIN — irreversible COX-1 acetylation, abolishing platelet thromboxane A2 for the platelet's 7–10-day life (hence the low dose and the need to stop it a week before major surgery). CLOPIDOGREL/PRASUGREL/TICAGRELOR — P2Y12 ADP receptor blockade. ABCIXIMAB/eptifibatide/tirofiban — GLYCOPROTEIN IIb/IIIa blockade (the final common pathway of aggregation). DIPYRIDAMOLE — phosphodiesterase inhibition and adenosine uptake block. CILOSTAZOL — PDE3 inhibitor, used in intermittent claudication.***
+- **Antiplatelet mechanisms:** *ASPIRIN — irreversible COX-1 acetylation, abolishing platelet thromboxane A2 for the platelet's 7–10-day life (hence the low dose and the need to stop it a week before major surgery). CLOPIDOGREL/PRASUGREL/TICAGRELOR — P2Y12 ADP receptor blockade. ABCIXIMAB/eptifibatide/tirofiban — GLYCOPROTEIN IIb/IIIa blockade (the final common pathway of aggregation). DIPYRIDAMOLE — phosphodiesterase inhibition and adenosine uptake block. CILOSTAZOL — PDE3 inhibitor, used in intermittent claudication.***
 - ***PRASUGREL IS CONTRAINDICATED AFTER STROKE OR TIA*** (intracranial bleeding) and avoided over 75 years or under 60 kg; ***TICAGRELOR causes DYSPNOEA and ventricular pauses (adenosine-mediated) and requires TWICE-DAILY dosing***, and its effect wears off faster after stopping — an advantage before surgery.
 - ***CLOPIDOGREL AND TICLOPIDINE CAN CAUSE THROMBOTIC THROMBOCYTOPENIC PURPURA***; ticlopidine also causes neutropenia and is obsolete.
 - **Dual antiplatelet therapy (aspirin + a P2Y12 inhibitor) is standard after acute coronary syndrome and stenting, with duration balanced against bleeding risk; ***"TRIPLE THERAPY" with an anticoagulant should be as short as possible.***
@@ -987,7 +932,7 @@
 
 ---
 
-### 49. Direct Oral Anticoagulants and Monitoring
+### 46. Direct Oral Anticoagulants and Monitoring
 
 **PEARL:** ***APIXABAN, RIVAROXABAN, EDOXABAN and BETRIXABAN are DIRECT FACTOR Xa INHIBITORS ("-XABANS"); DABIGATRAN IS THE ONLY ORAL DIRECT THROMBIN INHIBITOR; BIVALIRUDIN, ARGATROBAN, LEPIRUDIN and DESIRUDIN are PARENTERAL direct thrombin inhibitors.*** ***ROUTINE COAGULATION MONITORING IS NEEDED FOR LEPIRUDIN (aPTT), BUT NOT FOR ENOXAPARIN, FONDAPARINUX OR DABIGATRAN***, whose response is predictable because they bind neither endothelium nor plasma proteins.
 
@@ -996,7 +941,7 @@
 **MUST KNOW:**
 
 - ***DABIGATRAN IS ~80% RENALLY CLEARED — AVOID IN SIGNIFICANT RENAL IMPAIRMENT***; the -xabans are less renally dependent but still need dose adjustment. ***ALL DOACs ARE CONTRAINDICATED IN MECHANICAL HEART VALVES AND MODERATE-TO-SEVERE MITRAL STENOSIS — WARFARIN IS MANDATORY THERE***, as it is in antiphospholipid syndrome (triple-positive).
-- **Reversal: ***IDARUCIZUMAB for dabigatran; ANDEXANET ALFA for the -xabans; PROTAMINE for unfractionated heparin (partial for LMWH); VITAMIN K PLUS 4-FACTOR PCC for warfarin.*** Dabigatran is also dialysable.
+- **Reversal:** *IDARUCIZUMAB for dabigatran; ANDEXANET ALFA for the -xabans; PROTAMINE for unfractionated heparin (partial for LMWH); VITAMIN K PLUS 4-FACTOR PCC for warfarin.*** Dabigatran is also dialysable.
 - **Warfarin points that persist in exams: it inhibits ***VITAMIN K EPOXIDE REDUCTASE***, depleting factors II, VII, IX, X and proteins C and S; the ***EARLY PROCOAGULANT STATE from the short half-life of PROTEIN C causes WARFARIN-INDUCED SKIN NECROSIS***, hence heparin bridging; it is ***TERATOGENIC (nasal hypoplasia, stippled epiphyses — avoid in the first trimester and near delivery)***; and it interacts with everything (potentiated by metronidazole, cotrimoxazole, fluconazole, amiodarone; antagonised by rifampicin, carbamazepine and vitamin-K-rich foods).
 - **Indications: DOACs are first-line for ***NON-VALVULAR ATRIAL FIBRILLATION (CHA2DS2-VASc scoring, balanced against HAS-BLED) and for VTE treatment and prophylaxis after major orthopaedic surgery.***
 - ***ARGATROBAN AND BIVALIRUDIN ARE THE ANTICOAGULANTS OF CHOICE IN HEPARIN-INDUCED THROMBOCYTOPENIA*** (argatroban is hepatically cleared — useful in renal failure).
@@ -1009,7 +954,7 @@
 
 ---
 
-### 50. Antiplatelet Targets and the Eicosanoid Pathway
+### 47. Antiplatelet Targets and the Eicosanoid Pathway
 
 **PEARL:** ***ASPIRIN'S BLEEDING (occult blood in stool) IS DUE TO INHIBITION OF THROMBOXANE A2*** — irreversible acetylation of platelet COX-1 abolishing TXA2-driven aggregation and vasoconstriction (in addition to loss of gastroprotective PGE2). The other antiplatelet targets: ***EPTIFIBATIDE/tirofiban/abciximab — GLYCOPROTEIN IIb/IIIa; VORAPAXAR — PROTEASE-ACTIVATED RECEPTOR-1 (PAR-1), the thrombin receptor; clopidogrel/prasugrel/ticagrelor — P2Y12.*** ***EICOSANOIDS ARE SYNTHESISED FROM ARACHIDONIC ACID (NOT arginine)***, released from membrane phospholipids by **PHOSPHOLIPASE A2.**
 
@@ -1018,9 +963,9 @@
 **MUST KNOW:**
 
 - **Prostaglandins contain a ***5-CARBON (cyclopentane) RING***; leukotrienes do not. Prostacyclin and thromboxane are the vascular counterweights.
-- **Aspirin dose-dependent effects: ***75–150 mg — antiplatelet; 0.5–2 g — analgesic/antipyretic (with occult GI blood loss); 3–5 g — anti-inflammatory, producing SALICYLISM (tinnitus, vertigo, hyperventilation, reversible hearing loss); overdose — a MIXED RESPIRATORY ALKALOSIS AND HIGH-ANION-GAP METABOLIC ACIDOSIS, treated with URINARY ALKALINISATION and dialysis.*** ***REYE SYNDROME (encephalopathy with fatty liver) contraindicates aspirin in children with viral illness — except in KAWASAKI DISEASE.***
+- **Aspirin dose-dependent effects:** *75–150 mg — antiplatelet; 0.5–2 g — analgesic/antipyretic (with occult GI blood loss); 3–5 g — anti-inflammatory, producing SALICYLISM (tinnitus, vertigo, hyperventilation, reversible hearing loss); overdose — a MIXED RESPIRATORY ALKALOSIS AND HIGH-ANION-GAP METABOLIC ACIDOSIS, treated with URINARY ALKALINISATION and dialysis.*** ***REYE SYNDROME (encephalopathy with fatty liver) contraindicates aspirin in children with viral illness — except in KAWASAKI DISEASE.***
 - **COX-2 selective inhibitors (celecoxib, etoricoxib) spare the stomach but ***REMOVE ENDOTHELIAL PROSTACYCLIN WITHOUT AFFECTING PLATELET THROMBOXANE — hence a PROTHROMBOTIC tendency*** (rofecoxib was withdrawn). Use the lowest dose for the shortest time and avoid in cardiovascular disease.
-- **Aspirin also has an important obstetric role: ***LOW-DOSE ASPIRIN FROM 12–16 WEEKS PREVENTS PRE-ECLAMPSIA IN HIGH-RISK WOMEN.***
+- **Aspirin also has an important obstetric role:** *LOW-DOSE ASPIRIN FROM 12–16 WEEKS PREVENTS PRE-ECLAMPSIA IN HIGH-RISK WOMEN.***
 - **Vorapaxar (PAR-1 antagonist) is added to aspirin ± clopidogrel in prior MI or peripheral arterial disease, but is ***CONTRAINDICATED AFTER STROKE, TIA OR INTRACRANIAL HAEMORRHAGE.***
 
 **EXAM CONNECTION:** Occult GI bleeding on aspirin → **thromboxane inhibition**; false about eicosanoids → **that they are synthesised from arginine**; identifying the antiplatelet targets → **aspirin (COX), eptifibatide (GpIIb/IIIa), vorapaxar (PAR-1)**.
@@ -1036,21 +981,23 @@
 
 ---
 
-### 51. Disease-Modifying Drugs in Sickle Cell Disease
+### 48. Disease-Modifying Drugs in Sickle Cell Disease
 
-**PEARL:** **Drugs used in SICKLE CELL DISEASE: ***HYDROXYUREA (raises HbF — the primary disease-modifying drug, reducing crises, acute chest syndrome, transfusions and mortality), VOXELOTOR (an HbS polymerisation inhibitor that stabilises the oxygenated form), L-GLUTAMINE (reduces oxidative stress) and CRIZANLIZUMAB (anti-P-selectin, reducing vaso-occlusive crises).*** ***BEBTELOVIMAB IS A COVID-19 MONOCLONAL ANTIBODY AND HAS NOTHING TO DO WITH SICKLE CELL DISEASE.***
+**PEARL:** **Drugs used in SICKLE CELL DISEASE:** *HYDROXYUREA (raises HbF — the primary disease-modifying drug, reducing crises, acute chest syndrome, transfusions and mortality), VOXELOTOR (an HbS polymerisation inhibitor that stabilises the oxygenated form), L-GLUTAMINE (reduces oxidative stress) and CRIZANLIZUMAB (anti-P-selectin, reducing vaso-occlusive crises).*** ***BEBTELOVIMAB IS A COVID-19 MONOCLONAL ANTIBODY AND HAS NOTHING TO DO WITH SICKLE CELL DISEASE.***
 
 **UNDERSTAND:** Each drug attacks a different step of the same pathway. **Sickling requires DEOXYGENATED HbS to POLYMERISE; polymerised cells become rigid, adhere to endothelium via P-SELECTIN and occlude microvessels.** So: ***HYDROXYUREA dilutes HbS with HbF (which cannot enter the polymer); VOXELOTOR holds haemoglobin in the oxygenated, non-polymerising state; CRIZANLIZUMAB blocks the adhesion step; L-GLUTAMINE reduces the oxidative injury that stiffens membranes.*** Understanding the cascade makes the drug list self-explanatory.
 
 **MUST KNOW:**
 
 - **Hydroxyurea also inhibits ***RIBONUCLEOTIDE REDUCTASE*** (hence its use in CML, polycythaemia vera and essential thrombocythaemia); its main toxicity is ***MYELOSUPPRESSION (monitor counts)***, plus leg ulcers, hyperpigmentation and possible teratogenicity.
-- **Crisis management: ***HYDRATION, ANALGESIA (opioids — undertreatment of sickle pain is a well-documented failure of care), oxygen if hypoxic, WARMTH, and treatment of the precipitant (infection, dehydration, cold, hypoxia, acidosis).*** ***ACUTE CHEST SYNDROME (fever, chest pain, hypoxia, new infiltrate) NEEDS ANTIBIOTICS, INCENTIVE SPIROMETRY AND URGENT EXCHANGE TRANSFUSION*** — it is the leading cause of death.
-- **Preventive care: ***PENICILLIN PROPHYLAXIS from infancy and pneumococcal/Hib/meningococcal vaccination (functional ASPLENIA from autosplenectomy), FOLIC ACID, TRANSCRANIAL DOPPLER SCREENING IN CHILDREN with chronic transfusion to prevent STROKE, and retinal, renal and pulmonary surveillance.***
-- **Complications to recognise: ***vaso-occlusive/painful crisis, aplastic crisis (PARVOVIRUS B19), splenic sequestration, hyperhaemolytic crisis, dactylitis in infants, AVASCULAR NECROSIS of the femoral head, priapism, leg ulcers, gallstones (pigment), stroke and renal papillary necrosis with hyposthenuria.***
+- **Crisis management:** *HYDRATION, ANALGESIA (opioids — undertreatment of sickle pain is a well-documented failure of care), oxygen if hypoxic, WARMTH, and treatment of the precipitant (infection, dehydration, cold, hypoxia, acidosis).*** ***ACUTE CHEST SYNDROME (fever, chest pain, hypoxia, new infiltrate) NEEDS ANTIBIOTICS, INCENTIVE SPIROMETRY AND URGENT EXCHANGE TRANSFUSION*** — it is the leading cause of death.
+- **Preventive care:** *PENICILLIN PROPHYLAXIS from infancy and pneumococcal/Hib/meningococcal vaccination (functional ASPLENIA from autosplenectomy), FOLIC ACID, TRANSCRANIAL DOPPLER SCREENING IN CHILDREN with chronic transfusion to prevent STROKE, and retinal, renal and pulmonary surveillance.***
+- **Complications to recognise:** *vaso-occlusive/painful crisis, aplastic crisis (PARVOVIRUS B19), splenic sequestration, hyperhaemolytic crisis, dactylitis in infants, AVASCULAR NECROSIS of the femoral head, priapism, leg ulcers, gallstones (pigment), stroke and renal papillary necrosis with hyposthenuria.***
 - ***ALLOGENEIC STEM CELL TRANSPLANTATION IS CURATIVE, AND GENE THERAPY/GENE EDITING (exagamglogene, lovotibeglogene) IS NOW APPROVED*** — the newest exam-worthy development.
 
 **EXAM CONNECTION:** Drug NOT used in sickle cell disease → **bebtelovimab**.
+
+**ALSO KNOW:** **The four disease-modifying drugs, four mechanisms: HYDROXYUREA raises HbF; L-GLUTAMINE is an antioxidant (raises reduced glutathione/NAD in sickle red cells); VOXELOTOR is an HbS POLYMERISATION INHIBITOR that stabilises the oxygenated (R) state; CRIZANLIZUMAB is an anti-P-selectin antibody blocking adhesion.** **G-CSF (filgrastim/pegfilgrastim) MUST BE AVOIDED in sickle cell disease — it can trigger a severe crisis.** **Since December 2023 two one-time GENE THERAPIES are approved: EXAGAMGLOGENE AUTOTEMCEL (Casgevy — the first CRISPR/Cas9 therapy ever approved, which re-induces HbF) and LOVOTIBEGLOGENE AUTOTEMCEL (Lyfgenia); Casgevy now extends down to AGE 2 and also covers TRANSFUSION-DEPENDENT BETA-THALASSAEMIA.**[^1]
 
 **REMEMBER:** *Dilute the HbS, keep it oxygenated, stop it sticking — three drugs, three steps of one polymer.*
 
@@ -1058,7 +1005,7 @@
 
 ---
 
-### 52. Iron Chelation Thresholds
+### 49. Iron Chelation Thresholds
 
 **PEARL:** **IV desferrioxamine (deferoxamine)** is indicated in acute iron poisoning when the **serum iron exceeds ~500 µg/dL**, or when there are severe clinical features (shock, altered consciousness, persistent vomiting, metabolic acidosis) regardless of the level.
 
@@ -1080,7 +1027,7 @@
 
 ---
 
-### 53. Cancer-Associated Thrombosis and Anticoagulant Choice
+### 50. Cancer-Associated Thrombosis and Anticoagulant Choice
 
 **PEARL:** **Low-molecular-weight heparin is the anticoagulant of choice for cancer-associated venous thromboembolism** (CLOT trial); **warfarin is inferior**.
 
@@ -1103,7 +1050,7 @@
 
 ---
 
-### 54. Vorapaxar
+### 51. Vorapaxar
 
 **PEARL:** Vorapaxar is a competitive antagonist of **PAR-1**, the platelet **thrombin** receptor — it blocks thrombin-induced platelet aggregation.
 
@@ -1116,7 +1063,7 @@
 
 ---
 
-### 55. Antiplatelet Mechanisms — Quick Grid
+### 52. Antiplatelet Mechanisms — Quick Grid
 
 **PEARL:**
 
@@ -1130,7 +1077,7 @@
 
 ---
 
-### 56. Anticoagulant Reversal Agents
+### 53. Anticoagulant Reversal Agents
 
 **PEARL:**
 
@@ -1148,7 +1095,7 @@
 
 ---
 
-### 57. Apixaban — New Indication
+### 54. Apixaban — New Indication
 
 **PEARL:** Apixaban is approved to reduce stroke and systemic embolism in **non-valvular atrial fibrillation**.
 
@@ -1158,7 +1105,7 @@
 
 ---
 
-### 58. Tranexamic Acid & ε-Aminocaproic Acid
+### 55. Tranexamic Acid & ε-Aminocaproic Acid
 
 **PEARL:** Both are **lysine analogues** that competitively occupy the lysine-binding sites on plasminogen/plasmin, preventing binding to fibrin → **inhibit fibrinolysis**. They are the **antidote to fibrinolytic (thrombolytic) therapy**.
 
@@ -1172,28 +1119,9 @@
 
 ---
 
-### 59. Sickle Cell Drugs
-
-**PEARL:** Four drugs, four mechanisms:
-
-- **Hydroxyurea** — raises **HbF** (primary drug); also inhibits **ribonucleotide reductase** (hence its use in CML, polycythemia vera, thrombocythemia).
-- **L-glutamine** — antioxidant; increases reduced **glutathione/NAD** in sickle RBCs, lessening oxidative damage.
-- **Voxelotor** — **HbS polymerization inhibitor**, stabilizes the oxygenated (R) state of hemoglobin.
-- **Crizanlizumab** — anti-P-selectin antibody, reduces vaso-occlusive crises.
-
-**MUST KNOW:** Hydroxyurea reduces crises, acute chest syndrome and transfusion need; monitor for myelosuppression.
-
-**EXAM CONNECTION:** **Pegfilgrastim/filgrastim must be avoided in sickle cell disease — G-CSF can trigger a severe sickle crisis.**
-
-**REMEMBER:** *Hydroxyurea = HbF; voxelotor = stops polymerization; glutamine = antioxidant.*
-
----
-
----
-
 ## Lipid-Lowering Drugs
 
-### 60. Statin Interactions
+### 56. Statin Interactions
 
 **PEARL:** ***DO NOT COMBINE STATINS WITH CLARITHROMYCIN.*** Macrolides inhibit **CYP3A4 and the hepatic uptake transporters OATP1B1/1B3**, so statin levels rise — the combination increases hospitalisation for **ACUTE KIDNEY INJURY, HYPERKALAEMIA, RHABDOMYOLYSIS and all-cause mortality.** (Even rosuvastatin and pravastatin, which are only minimally CYP3A4-metabolised, are affected — because they are **OATP substrates.**)
 
@@ -1205,7 +1133,7 @@
 - ***GEMFIBROZIL + STATIN CARRIES THE HIGHEST RHABDOMYOLYSIS RISK OF ANY FIBRATE COMBINATION — USE FENOFIBRATE INSTEAD.***
 - **Statin adverse effects: myalgia (common, usually benign), ***MYOSITIS with raised creatine kinase, and RHABDOMYOLYSIS with myoglobinuric renal failure***; transaminitis; a small increase in new-onset diabetes; and rare immune-mediated necrotising myopathy (anti-HMGCR antibodies) that persists after stopping the drug. ***CHECK CK AND THYROID FUNCTION IN MUSCLE SYMPTOMS — HYPOTHYROIDISM IS A COMMON UNRECOGNISED CONTRIBUTOR.***
 - **Statins are ***CONTRAINDICATED IN PREGNANCY AND LACTATION***; they act by inhibiting HMG-CoA reductase, upregulating hepatic LDL receptors, and have pleiotropic plaque-stabilising and anti-inflammatory effects that explain benefit beyond LDL lowering.
-- **Add-on agents when statins are insufficient or not tolerated: ***EZETIMIBE (NPC1L1 cholesterol absorption inhibitor), PCSK9 INHIBITORS (evolocumab, alirocumab) and INCLISIRAN (siRNA), BEMPEDOIC ACID***; fibrates and omega-3 for hypertriglyceridaemia (and fibrates are the drug of choice when triglycerides threaten pancreatitis).
+- **Add-on agents when statins are insufficient or not tolerated:** *EZETIMIBE (NPC1L1 cholesterol absorption inhibitor), PCSK9 INHIBITORS (evolocumab, alirocumab) and INCLISIRAN (siRNA), BEMPEDOIC ACID***; fibrates and omega-3 for hypertriglyceridaemia (and fibrates are the drug of choice when triglycerides threaten pancreatitis).
 
 **EXAM CONNECTION:** Rosuvastatin should not be combined with → **clarithromycin**.
 
@@ -1215,17 +1143,17 @@
 
 ---
 
-### 61. Fibrates and the Lipid-Lowering Classes
+### 57. Fibrates and the Lipid-Lowering Classes
 
 **PEARL:** ***FIBRATES ACT BY ACTIVATING PPAR-ALPHA***, which upregulates LIPOPROTEIN LIPASE and fatty acid oxidation and suppresses apo C-III — lowering triglycerides and raising HDL. ***ALL FIBRATES INCREASE THE LITHOGENICITY OF BILE AND HENCE CAUSE GALLSTONES.*** For contrast: **STATINS inhibit HMG-CoA reductase; BILE ACID SEQUESTRANTS bind bile acids in the gut; NIACIN inhibits lipolysis in adipose tissue and hepatic VLDL secretion; EZETIMIBE blocks NPC1L1.**
 
-**UNDERSTAND:** The PPAR family is worth holding as a set because it recurs: ***PPAR-ALPHA (fibrates) — lowers TRIGLYCERIDES; PPAR-GAMMA (thiazolidinediones) — INSULIN SENSITISATION; PPAR-DELTA — fatty acid oxidation.*** These are **nuclear receptors that alter gene transcription**, which is why their effects take weeks and why they have broad metabolic consequences rather than a single clean action.
+**UNDERSTAND: **The PPAR family is worth holding as a set because it recurs:** *PPAR-ALPHA (fibrates) — lowers TRIGLYCERIDES; PPAR-GAMMA (thiazolidinediones) — INSULIN SENSITISATION; PPAR-DELTA — fatty acid oxidation.*** These are **nuclear receptors that alter gene transcription**, which is why their effects take weeks and why they have broad metabolic consequences rather than a single clean action.
 
 **MUST KNOW:**
 
-- **Fibrate adverse effects: ***MYOPATHY (greatly increased with statins — GEMFIBROZIL IS THE WORST OFFENDER; use FENOFIBRATE if combination is needed), GALLSTONES, raised transaminases, and a reversible RISE IN CREATININE.***
-- **Which drug for which lipid problem: ***STATIN for high LDL and for cardiovascular risk reduction in general; FIBRATES or high-dose omega-3 (icosapent ethyl) for TRIGLYCERIDES >500 mg/dL to PREVENT PANCREATITIS; ezetimibe/PCSK9 inhibitors as LDL add-ons; niacin is now little used (flushing — reduced by aspirin — hyperglycaemia, hyperuricaemia, and no outcome benefit).***
-- **Statin facts commonly examined: ***THEY SHOULD BE CONTINUED PERIOPERATIVELY AND DURING ACUTE ILLNESS (withdrawal increases events); they slightly RAISE Lp(a) and slightly increase new-onset TYPE 2 DIABETES; and they must NOT be combined with strong CYP3A4 inhibitors such as VERAPAMIL, clarithromycin or azoles.***
+- **Fibrate adverse effects:** *MYOPATHY (greatly increased with statins — GEMFIBROZIL IS THE WORST OFFENDER; use FENOFIBRATE if combination is needed), GALLSTONES, raised transaminases, and a reversible RISE IN CREATININE.***
+- **Which drug for which lipid problem:** *STATIN for high LDL and for cardiovascular risk reduction in general; FIBRATES or high-dose omega-3 (icosapent ethyl) for TRIGLYCERIDES >500 mg/dL to PREVENT PANCREATITIS; ezetimibe/PCSK9 inhibitors as LDL add-ons; niacin is now little used (flushing — reduced by aspirin — hyperglycaemia, hyperuricaemia, and no outcome benefit).***
+- **Statin facts commonly examined:** *THEY SHOULD BE CONTINUED PERIOPERATIVELY AND DURING ACUTE ILLNESS (withdrawal increases events); they slightly RAISE Lp(a) and slightly increase new-onset TYPE 2 DIABETES; and they must NOT be combined with strong CYP3A4 inhibitors such as VERAPAMIL, clarithromycin or azoles.***
 - **BILE ACID SEQUESTRANTS (cholestyramine, colesevelam) are the safest in pregnancy but ***BIND OTHER DRUGS AND FAT-SOLUBLE VITAMINS (separate dosing) and RAISE TRIGLYCERIDES.***
 - **Monitoring: baseline lipids, liver enzymes and CK if symptomatic; lifestyle change (diet, exercise, weight, smoking) underlies all pharmacotherapy.**
 
@@ -1237,7 +1165,7 @@
 
 ---
 
-### 62. Bile Acid Sequestrants
+### 58. Bile Acid Sequestrants
 
 **PEARL:** **COLESTIPOL (with cholestyramine and colesevelam) is a BILE ACID SEQUESTRANT** — it binds bile acids in the gut so they are **excreted in the stool**, forcing the liver to divert cholesterol into new bile acid synthesis and to **upregulate LDL receptors**, thereby lowering LDL.
 
@@ -1258,7 +1186,7 @@
 
 ---
 
-### 63. Lipid-Lowering Drugs by Mechanism
+### 59. Lipid-Lowering Drugs by Mechanism
 
 **PEARL:** **Ezetimibe blocks intestinal cholesterol ABSORPTION** by inhibiting the **NPC1L1 transporter**. **Fibrates activate PPAR-α** and cause **GALLSTONES** by increasing biliary cholesterol saturation.
 
@@ -1281,7 +1209,7 @@
 
 ---
 
-### 64. Lipid Drugs — Specific Niches
+### 60. Lipid Drugs — Specific Niches
 
 **PEARL:** **NIACIN is the only lipid-lowering drug that significantly lowers LIPOPROTEIN(a).** **COLESEVELAM is the only bile acid sequestrant licensed to improve glycaemic control in type 2 diabetes.**
 
@@ -1305,7 +1233,7 @@
 
 ---
 
-### 65. Fenofibrate
+### 61. Fenofibrate
 
 **PEARL:** Fibrates act via **PPAR-α**, stimulating **lipoprotein lipase** → drug of choice for severe hypertriglyceridemia (**>1000 mg/dL**, to prevent pancreatitis).
 
@@ -1323,7 +1251,7 @@
 
 ## Respiratory Drugs
 
-### 66. Beta-2 Agonist Adverse Effects
+### 62. Beta-2 Agonist Adverse Effects
 
 **PEARL:** **Salbutamol's systemic effects come from extrapulmonary beta-2 stimulation: ***MUSCLE TREMOR (the commonest), TACHYCARDIA, HYPOKALAEMIA, restlessness, transient HYPOXAEMIA, lactic acidosis — and HYPERGLYCAEMIA, NOT hypoglycaemia.***
 
@@ -1334,7 +1262,7 @@
 - **Tremor is a beta-2 effect on skeletal muscle spindles; it is dose-related and diminishes with continued use. Tachycardia is partly reflex (vasodilatation) and partly direct beta-1 cross-reactivity at higher doses.**
 - ***MONITOR POTASSIUM DURING REPEATED NEBULISED SALBUTAMOL IN ACUTE SEVERE ASTHMA***, especially with concurrent steroids, diuretics or theophylline — the combination can produce dangerous hypokalaemia and arrhythmia.
 - **Long-acting beta-2 agonists (salmeterol, formoterol) must ***NEVER BE USED AS MONOTHERAPY IN ASTHMA*** (increased asthma deaths) — always combined with an inhaled corticosteroid. Formoterol has a rapid onset, allowing its use in the maintenance-and-reliever regimen.**
-- **Other beta-2 uses: ***TOCOLYSIS in preterm labour (ritodrine, isoxsuprine — watch pulmonary oedema and maternal tachycardia)*** and hyperkalaemia.
+- **Other beta-2 uses:** *TOCOLYSIS in preterm labour (ritodrine, isoxsuprine — watch pulmonary oedema and maternal tachycardia)*** and hyperkalaemia.
 - **In children, high-dose beta-2 agonists can cause lactic acidosis mimicking clinical deterioration; and the reliever inhaler use rate is itself the best marker of asthma control (>2 canisters/month signals poor control and mortality risk).**
 
 **EXAM CONNECTION:** NOT a side effect of salbutamol → **hypoglycaemia** (it causes hyperglycaemia).
@@ -1345,21 +1273,23 @@
 
 ---
 
-### 67. Inhaled Anticholinergics and Prokinetics
+### 63. Inhaled Anticholinergics and Prokinetics
 
 **PEARL:** **PARADOXICAL BRONCHOCONSTRICTION with nebulised IPRATROPIUM is caused by a ***HYPOTONIC nebuliser solution (NOT hypertonic saline)***, by preservatives — ***BENZALKONIUM CHLORIDE and EDTA*** — and by ***PREJUNCTIONAL M2 RECEPTOR BLOCKADE***. Among GI drugs, prokinetics are ***5-HT4 AGONISTS (prucalopride, cisapride), DOPAMINE D2 ANTAGONISTS (metoclopramide, domperidone), MOTILIN and motilin-mimetics (ERYTHROMYCIN)*** — while ***DIPHENYLMETHANE derivatives (BISACODYL) are LAXATIVES, not prokinetics.***
 
-**UNDERSTAND:** The ipratropium paradox is elegant: **prejunctional M2 autoreceptors on airway cholinergic nerves normally provide NEGATIVE FEEDBACK, inhibiting further acetylcholine release. A non-selective antimuscarinic blocks these too, so acetylcholine release INCREASES and can overwhelm the postjunctional M3 blockade.** ***TIOTROPIUM AND THE OTHER LONG-ACTING ANTIMUSCARINICS ARE KINETICALLY SELECTIVE FOR M3 AND M1 AND DO NOT CAUSE THIS.*** Understanding autoreceptors explains the entire phenomenon.
+**UNDERSTAND: **The ipratropium paradox is elegant:** prejunctional M2 autoreceptors on airway cholinergic nerves normally provide NEGATIVE FEEDBACK, inhibiting further acetylcholine release. A non-selective antimuscarinic blocks these too, so acetylcholine release INCREASES and can overwhelm the postjunctional M3 blockade.** ***TIOTROPIUM AND THE OTHER LONG-ACTING ANTIMUSCARINICS ARE KINETICALLY SELECTIVE FOR M3 AND M1 AND DO NOT CAUSE THIS.*** Understanding autoreceptors explains the entire phenomenon.
 
 **MUST KNOW:**
 
 - **Other inhaled antimuscarinic effects: bitter taste, dry mouth, urinary retention in men with prostatic enlargement, and ***PRECIPITATION OF ACUTE ANGLE-CLOSURE GLAUCOMA IF THE NEBULISED DRUG REACHES THE EYES — USE A MOUTHPIECE RATHER THAN A MASK IN SUSCEPTIBLE PATIENTS.***
 - **METOCLOPRAMIDE crosses the blood–brain barrier and causes ***EXTRAPYRAMIDAL REACTIONS, ACUTE DYSTONIA (especially in the young), TARDIVE DYSKINESIA AND HYPERPROLACTINAEMIA***; ***DOMPERIDONE does NOT cross appreciably but PROLONGS THE QT***; ***CISAPRIDE WAS WITHDRAWN FOR TORSADES DE POINTES.*** PRUCALOPRIDE is a selective 5-HT4 agonist for refractory chronic constipation.
-- **Laxative classes: ***BULK (ispaghula), OSMOTIC (lactulose, PEG, magnesium salts), STIMULANT (bisacodyl, senna), SOFTENERS (docusate, liquid paraffin), and newer secretagogues (LUBIPROSTONE, LINACLOTIDE) and the peripheral opioid antagonists (METHYLNALTREXONE, naloxegol) for opioid-induced constipation.*** ***LACTULOSE IS ALSO THE TREATMENT OF HEPATIC ENCEPHALOPATHY*** (acidifies the colon and traps ammonium).
-- **Antitussives: ***CENTRALLY ACTING OPIOID — CODEINE, PHOLCODINE and LEVOPROPOXYPHENE (an opioid antitussive WITHOUT analgesic activity); CENTRAL NON-OPIOID — DEXTROMETHORPHAN (NMDA antagonist; abuse potential), noscapine; PERIPHERAL — demulcents, benzonatate.*** Contrast MUCOLYTICS/expectorants — ***AMBROXOL and BROMHEXINE, acetylcysteine, guaifenesin*** — which loosen secretions in a PRODUCTIVE cough, where a cough suppressant would be harmful. ***DIPHENOXYLATE is an ANTIDIARRHOEAL opioid (with atropine, to deter abuse), not an antitussive.***
+- **Laxative classes:** *BULK (ispaghula), OSMOTIC (lactulose, PEG, magnesium salts), STIMULANT (bisacodyl, senna), SOFTENERS (docusate, liquid paraffin), and newer secretagogues (LUBIPROSTONE, LINACLOTIDE) and the peripheral opioid antagonists (METHYLNALTREXONE, naloxegol) for opioid-induced constipation.*** ***LACTULOSE IS ALSO THE TREATMENT OF HEPATIC ENCEPHALOPATHY*** (acidifies the colon and traps ammonium).
+- **Antitussives:** *CENTRALLY ACTING OPIOID — CODEINE, PHOLCODINE and LEVOPROPOXYPHENE (an opioid antitussive WITHOUT analgesic activity); CENTRAL NON-OPIOID — DEXTROMETHORPHAN (NMDA antagonist; abuse potential), noscapine; PERIPHERAL — demulcents, benzonatate.*** Contrast MUCOLYTICS/expectorants — ***AMBROXOL and BROMHEXINE, acetylcysteine, guaifenesin*** — which loosen secretions in a PRODUCTIVE cough, where a cough suppressant would be harmful. ***DIPHENOXYLATE is an ANTIDIARRHOEAL opioid (with atropine, to deter abuse), not an antitussive.***
 - ***COUGH AND COLD PREPARATIONS ARE CONTRAINDICATED IN CHILDREN UNDER 4–6 YEARS***, and codeine is contraindicated under 12.
 
 **EXAM CONNECTION:** Paradoxical bronchoconstriction with ipratropium is due to all EXCEPT → **hypertonic saline** (it is a HYPOTONIC solution); NOT a prokinetic → **diphenylmethane**; centrally acting opioid antitussive → **levopropoxyphene**.
+
+**ALSO KNOW:** **The prokinetics as a class: D2 ANTAGONISTS (metoclopramide, domperidone — domperidone does not cross the blood–brain barrier), MOTILIN AGONISTS (erythromycin), 5-HT4 AGONISTS (cisapride, PRUCALOPRIDE, velusetrag, naronapride) and others (sincalide, relamorelin).** **PRUCALOPRIDE is the selective 5-HT4 agonist for chronic constipation — safe because it lacks CISAPRIDE'S hERG/QT toxicity, for which cisapride was withdrawn.**
 
 **REMEMBER:** *Block the autoreceptor and the nerve shouts louder — that is the ipratropium paradox.*
 
@@ -1367,7 +1297,7 @@
 
 ---
 
-### 68. Metered-Dose Inhalers and Spacers
+### 64. Metered-Dose Inhalers and Spacers
 
 **PEARL:** The commonest drawback of a metered-dose inhaler is **OROPHARYNGEAL drug deposition** — leading to local side effects and systemic absorption of the swallowed fraction. A **spacer** is the solution.
 
@@ -1396,7 +1326,7 @@
 
 ---
 
-### 69. Ipratropium — Paradoxical Bronchoconstriction
+### 65. Ipratropium — Paradoxical Bronchoconstriction
 
 **PEARL:** Paradoxical bronchoconstriction, especially by **nebulizer**, due to: **hypotonic nebulizer solution**, **preservatives (benzalkonium chloride, EDTA)**, and blockade of **prejunctional M2 autoreceptors** (which normally brake ACh release) → more ACh released.
 
@@ -1404,17 +1334,17 @@
 
 ---
 
-### 70. Salbutamol Causes Hyperglycemia
+### 66. Salbutamol Causes Hyperglycemia
 
 **PEARL:** Salbutamol causes **hyperglycemia**, not hypoglycemia (β2 → glycogenolysis and gluconeogenesis).
 
-**MUST KNOW:** Other β2 effects: **hypokalemia** (K⁺ driven intracellularly — used therapeutically in hyperkalemia), tremor, tachycardia, lactic acidosis.
+**MUST KNOW: **Other β2 effects:** hypokalemia** (K⁺ driven intracellularly — used therapeutically in hyperkalemia), tremor, tachycardia, lactic acidosis.
 
 **REMEMBER:** *β2 agonist: sugar up, potassium down.*
 
 ---
 
-### 71. Theophylline
+### 67. Theophylline
 
 **PEARL:** Metabolized mainly by **CYP1A2**; **erythromycin (and ciprofloxacin, cimetidine)** inhibit CYP1A2 → theophylline toxicity (arrhythmias, seizures).
 
@@ -1428,7 +1358,7 @@
 
 ## Gastrointestinal Drugs
 
-### 72. Antispasmodics in Irritable Bowel Syndrome
+### 68. Antispasmodics in Irritable Bowel Syndrome
 
 **PEARL:** **MEBEVERINE is a DIRECT smooth muscle relaxant** — it acts on the muscle itself, **independently of autonomic receptors**, by blocking **sodium channels** and indirectly reducing calcium influx. **Dicyclomine and hyoscine/scopolamine are ANTICHOLINERGICS** (M-receptor blockers); **racecadotril is an ANTISECRETORY agent** (enkephalinase inhibitor).
 
@@ -1451,7 +1381,7 @@
 
 ---
 
-### 73. Antacids and Milk–Alkali Syndrome
+### 69. Antacids and Milk–Alkali Syndrome
 
 **PEARL:** **Calcium carbonate** causes **milk–alkali syndrome** — the triad of **hypercalcaemia, metabolic alkalosis and renal impairment**.
 
@@ -1473,7 +1403,7 @@
 
 ---
 
-### 74. Sucralfate
+### 70. Sucralfate
 
 **PEARL:** In an acidic environment (**pH < 4**) sucralfate polymerizes into a viscous sticky gel that adheres to the ulcer crater for ~6 hours.
 
@@ -1487,26 +1417,7 @@
 
 ---
 
-### 75. Prokinetics
-
-**PEARL:** Prokinetics increase GI motility:
-
-- **D2 antagonists** — metoclopramide, domperidone
-- **5-HT4 agonists** — cisapride, prucalopride, velusetrag, naronapride
-- **Motilin/motilin-receptor agonists** — erythromycin, camicinal
-- **Others** — sincalide (CCK octapeptide), relamorelin (ghrelin agonist)
-
-**MUST KNOW:**
-
-- **Prucalopride** is a selective 5-HT4 agonist for chronic constipation — safe because it lacks cisapride's hERG/QT toxicity (cisapride was withdrawn).
-- **Domperidone** does not cross the BBB → no extrapyramidal effects, unlike metoclopramide (dystonia, tardive dyskinesia).
-- **Diphenylmethane is NOT a prokinetic** — its derivative **bisacodyl** is a stimulant **laxative**.
-
-**REMEMBER:** *Prokinetic ≠ laxative; bisacodyl (diphenylmethane) is a laxative.*
-
----
-
-### 76. Acute Diarrhea Management
+### 71. Acute Diarrhea Management
 
 **PEARL:** Acute diarrhea in an **afebrile, stable** patient is managed with **ORS alone** — no antibiotics.
 
@@ -1516,7 +1427,7 @@
 
 ---
 
-### 77. Antibiotic-Associated Colitis
+### 72. Antibiotic-Associated Colitis
 
 **PEARL:** *Clostridioides difficile* colitis follows destruction of normal gut flora. **Clindamycin (lincosamides)** carries the highest risk per exposure; **fluoroquinolones, broad-spectrum penicillins and cephalosporins** cause the largest number of cases.
 
@@ -1534,7 +1445,7 @@
 
 ## Antiepileptic Drugs
 
-### 78. Antiepileptic Drugs — Mechanisms and Choices
+### 73. Antiepileptic Drugs — Mechanisms and Choices
 
 **PEARL:** ***ABSENCE SEIZURES ARE TREATED WITH ETHOSUXIMIDE (first-line for uncomplicated typical absence) OR VALPROATE*** — and ***CARBAMAZEPINE, PHENYTOIN, GABAPENTIN, PREGABALIN, VIGABATRIN AND TIAGABINE CAN ALL WORSEN ABSENCE AND MYOCLONIC SEIZURES.*** Ethosuximide works by blocking ***T-TYPE CALCIUM CHANNELS IN THALAMIC NEURONES***, the pacemaker of the 3 Hz spike-and-wave rhythm.
 
@@ -1542,10 +1453,10 @@
 
 **MUST KNOW:**
 
-- **Mechanistic families: ***SODIUM-CHANNEL BLOCKERS — phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide (and partly valproate and topiramate). T-TYPE CALCIUM BLOCKERS — ETHOSUXIMIDE, valproate, zonisamide. GABA ENHANCERS — benzodiazepines (increase FREQUENCY of channel opening), barbiturates (increase DURATION), vigabatrin (irreversible GABA transaminase inhibitor — visual field loss), tiagabine (GAT-1 uptake inhibitor). GLUTAMATE/AMPA BLOCK — perampanel, topiramate, felbamate. SV2A BINDING — LEVETIRACETAM and brivaracetam. ALPHA-2-DELTA CALCIUM SUBUNIT — gabapentin, pregabalin.***
+- **Mechanistic families:** *SODIUM-CHANNEL BLOCKERS — phenytoin, carbamazepine, oxcarbazepine, lamotrigine, lacosamide (and partly valproate and topiramate). T-TYPE CALCIUM BLOCKERS — ETHOSUXIMIDE, valproate, zonisamide. GABA ENHANCERS — benzodiazepines (increase FREQUENCY of channel opening), barbiturates (increase DURATION), vigabatrin (irreversible GABA transaminase inhibitor — visual field loss), tiagabine (GAT-1 uptake inhibitor). GLUTAMATE/AMPA BLOCK — perampanel, topiramate, felbamate. SV2A BINDING — LEVETIRACETAM and brivaracetam. ALPHA-2-DELTA CALCIUM SUBUNIT — gabapentin, pregabalin.***
 - **First-line choices: focal seizures — ***LAMOTRIGINE or LEVETIRACETAM (carbamazepine historically)***; generalised tonic–clonic — valproate (levetiracetam or lamotrigine in women of childbearing age); ***JUVENILE MYOCLONIC EPILEPSY — VALPROATE (levetiracetam in women), and it needs LIFELONG treatment***; absence — ethosuximide; infantile spasms — ACTH/vigabatrin; Lennox–Gastaut — valproate, lamotrigine, rufinamide, cannabidiol.
 - ***VALPROATE IS TERATOGENIC (neural tube defects and impaired neurodevelopment) AND MUST BE AVOIDED IN GIRLS AND WOMEN OF CHILDBEARING POTENTIAL UNLESS THERE IS NO ALTERNATIVE***, with pregnancy prevention. All women on antiepileptics need ***5 mg FOLIC ACID PRECONCEPTIONALLY.***
-- **Toxicity signatures: ***PHENYTOIN — gum hypertrophy, hirsutism, coarse facies, cerebellar ataxia and nystagmus, megaloblastic anaemia, ZERO-ORDER kinetics; CARBAMAZEPINE — hyponatraemia, agranulocytosis, enzyme induction, HLA-B*1502 and SJS; LAMOTRIGINE — rash/SJS on rapid titration; LEVETIRACETAM — irritability and behavioural change; TOPIRAMATE — weight loss, renal stones, word-finding difficulty, acute glaucoma; PHENOBARBITONE — sedation and, in children, hyperactivity.***
+- **Toxicity signatures:** *PHENYTOIN — gum hypertrophy, hirsutism, coarse facies, cerebellar ataxia and nystagmus, megaloblastic anaemia, ZERO-ORDER kinetics; CARBAMAZEPINE — hyponatraemia, agranulocytosis, enzyme induction, HLA-B*1502 and SJS; LAMOTRIGINE — rash/SJS on rapid titration; LEVETIRACETAM — irritability and behavioural change; TOPIRAMATE — weight loss, renal stones, word-finding difficulty, acute glaucoma; PHENOBARBITONE — sedation and, in children, hyperactivity.***
 - **Monotherapy at the lowest effective dose is the aim; measure levels only for phenytoin, toxicity or adherence questions.**
 
 **EXAM CONNECTION:** Drugs used for absence seizures → **valproate and ethosuximide only**.
@@ -1556,7 +1467,7 @@
 
 ---
 
-### 79. Antiepileptics for Neuropathic Pain
+### 74. Antiepileptics for Neuropathic Pain
 
 **PEARL:** ***PREGABALIN, GABAPENTIN and CARBAMAZEPINE are the antiepileptics established for NEUROPATHIC PAIN; LAMOTRIGINE is NOT.*** The gabapentinoids bind the ***ALPHA-2-DELTA SUBUNIT OF VOLTAGE-GATED CALCIUM CHANNELS***, reducing presynaptic calcium entry and glutamate release; ***CARBAMAZEPINE IS THE DRUG OF CHOICE FOR TRIGEMINAL NEURALGIA.***
 
@@ -1565,9 +1476,9 @@
 **MUST KNOW:**
 
 - **First-line agents for painful diabetic neuropathy and postherpetic neuralgia: ***AMITRIPTYLINE (or nortriptyline), DULOXETINE, PREGABALIN or GABAPENTIN*** — with topical lidocaine or capsaicin as adjuncts and tramadol/opioids reserved. In ***TRIGEMINAL NEURALGIA, CARBAMAZEPINE (or oxcarbazepine) is first-line***, with microvascular decompression for refractory cases.
-- **Gabapentinoid practicalities: ***PREGABALIN has LINEAR, predictable absorption while GABAPENTIN's is SATURABLE***; both are ***RENALLY CLEARED (dose-reduce in CKD)***, cause sedation, dizziness, weight gain and peripheral oedema, and are increasingly recognised as ***DRUGS OF MISUSE*** (now controlled in many countries), with respiratory depression when combined with opioids.
+- **Gabapentinoid practicalities:** *PREGABALIN has LINEAR, predictable absorption while GABAPENTIN's is SATURABLE***; both are ***RENALLY CLEARED (dose-reduce in CKD)***, cause sedation, dizziness, weight gain and peripheral oedema, and are increasingly recognised as ***DRUGS OF MISUSE*** (now controlled in many countries), with respiratory depression when combined with opioids.
 - **Duloxetine (an SNRI) also treats depression, generalised anxiety, fibromyalgia and stress incontinence — a useful single agent when depression coexists with neuropathic pain.**
-- **Assessment matters: ***BURNING, SHOOTING, ELECTRIC-SHOCK-LIKE PAIN WITH ALLODYNIA AND NUMBNESS IN A NEUROANATOMICAL DISTRIBUTION*** identifies neuropathic pain; screening tools (DN4, LANSS) formalise it. ***ALWAYS TREAT THE UNDERLYING CAUSE — glycaemic control, B12 replacement, antiviral treatment, decompression.***
+- **Assessment matters:** *BURNING, SHOOTING, ELECTRIC-SHOCK-LIKE PAIN WITH ALLODYNIA AND NUMBNESS IN A NEUROANATOMICAL DISTRIBUTION*** identifies neuropathic pain; screening tools (DN4, LANSS) formalise it. ***ALWAYS TREAT THE UNDERLYING CAUSE — glycaemic control, B12 replacement, antiviral treatment, decompression.***
 - **The WHO analgesic ladder applies to nociceptive pain; ***adjuvants (antidepressants, anticonvulsants, steroids, bisphosphonates) can be introduced at ANY step***, and are the mainstay in neuropathic and cancer pain.
 
 **EXAM CONNECTION:** Antiepileptics also used for neuropathic pain → **pregabalin, carbamazepine and gabapentin** (NOT lamotrigine).
@@ -1578,15 +1489,15 @@
 
 ---
 
-### 80. Topiramate
+### 75. Topiramate
 
-**PEARL:** **TOPIRAMATE is used for ***focal and generalised tonic–clonic seizures, for TONIC-CLONIC SEIZURES IN LENNOX–GASTAUT SYNDROME, and for MIGRAINE PROPHYLAXIS (not acute treatment)*** — with a broad, multi-target mechanism: **blocks voltage-gated sodium currents, activates a hyperpolarising potassium current, enhances GABA-A currents, antagonises AMPA/kainate glutamate receptors, and weakly inhibits CARBONIC ANHYDRASE.**
+**PEARL:** **TOPIRAMATE is used for ***focal and generalised tonic–clonic seizures, for TONIC-CLONIC SEIZURES IN LENNOX–GASTAUT SYNDROME, and for MIGRAINE PROPHYLAXIS (not acute treatment)*** — with a broad, multi-target mechanism:** blocks voltage-gated sodium currents, activates a hyperpolarising potassium current, enhances GABA-A currents, antagonises AMPA/kainate glutamate receptors, and weakly inhibits CARBONIC ANHYDRASE.**
 
 **UNDERSTAND:** The **carbonic anhydrase inhibition, though weak, explains its most examinable adverse effects**: ***RENAL STONES, metabolic acidosis, paraesthesiae, and ACUTE ANGLE-CLOSURE GLAUCOMA WITH MYOPIA (an idiosyncratic ciliochoroidal effusion in the first weeks — an ophthalmic emergency, and NOT treated by iridotomy, but by stopping the drug).*** The multi-target mechanism also explains its breadth of use — and its cognitive burden.
 
 **MUST KNOW:**
 
-- **Other adverse effects: ***WEIGHT LOSS AND ANOREXIA (exploited in the phentermine–topiramate obesity combination), COGNITIVE SLOWING AND WORD-FINDING DIFFICULTY ("dopamax"), paraesthesiae, hypohidrosis with hyperthermia in children, and TERATOGENICITY (oral clefts) — so contraception counselling is needed.***
+- **Other adverse effects:** *WEIGHT LOSS AND ANOREXIA (exploited in the phentermine–topiramate obesity combination), COGNITIVE SLOWING AND WORD-FINDING DIFFICULTY ("dopamax"), paraesthesiae, hypohidrosis with hyperthermia in children, and TERATOGENICITY (oral clefts) — so contraception counselling is needed.***
 - **Pharmacokinetics: only 10–20% protein-bound, largely excreted UNCHANGED IN THE URINE (dose-reduce in renal impairment), half-life ~1 day allowing once/twice daily dosing.**
 - **Lennox–Gastaut syndrome (multiple seizure types, slow spike-and-wave, intellectual disability) is treated with ***VALPROATE, LAMOTRIGINE, TOPIRAMATE, RUFINAMIDE, clobazam, felbamate and CANNABIDIOL***; the ketogenic diet and vagal nerve stimulation are non-pharmacological options.
 - **Migraine prophylaxis is considered when attacks are ***frequent (≥4/month), disabling or poorly responsive to acute treatment***, and is judged over 2–3 months.
@@ -1600,7 +1511,7 @@
 
 ---
 
-### 81. Carbamazepine vs Oxcarbazepine
+### 76. Carbamazepine vs Oxcarbazepine
 
 **PEARL:** **HYPONATRAEMIA is MORE common with OXCARBAZEPINE** than with carbamazepine. Everything else — **rashes/hypersensitivity, blood dyscrasias, hepatotoxicity, enzyme induction** — is **more common with CARBAMAZEPINE**.
 
@@ -1622,7 +1533,7 @@
 
 ---
 
-### 82. Oxcarbazepine and Hyponatremia
+### 77. Oxcarbazepine and Hyponatremia
 
 **PEARL:** **Hyponatremia occurs more often with oxcarbazepine than carbamazepine.**
 
@@ -1632,7 +1543,7 @@
 
 ---
 
-### 83. Carbamazepine — Idiosyncratic Reactions
+### 78. Carbamazepine — Idiosyncratic Reactions
 
 **PEARL:** Idiosyncratic blood dyscrasias include fatal **aplastic anaemia and agranulocytosis**; the **commonest** idiosyncratic reaction is an **erythematous rash**, and rarely **SJS/TEN**.
 
@@ -1646,7 +1557,7 @@
 
 ---
 
-### 84. Retigabine (Ezogabine)
+### 79. Retigabine (Ezogabine)
 
 **PEARL:** A **K⁺ channel opener** (enhances **KCNQ** transmembrane potassium currents) approved as add-on for focal-onset seizures in adults >18 y; **withdrawn** because of **retinal abnormalities and blue-grey pigmentation** of skin/nails/retina.
 
@@ -1656,7 +1567,7 @@
 
 ---
 
-### 85. Sodium Valproate for Refractory Rheumatic Chorea
+### 80. Sodium Valproate for Refractory Rheumatic Chorea
 
 **PEARL:** **Sodium valproate** is the drug used for refractory/intractable rheumatic (Sydenham's) chorea — preferred because it lacks **extrapyramidal** side effects.
 
@@ -1670,7 +1581,7 @@
 
 ## Antiparkinsonian and Neurodegenerative Drugs
 
-### 86. Drugs for Alzheimer Disease
+### 81. Drugs for Alzheimer Disease
 
 **PEARL:** **MEMANTINE is a ***NON-COMPETITIVE NMDA RECEPTOR ANTAGONIST*** that reduces glutamate excitotoxicity and is ***RESERVED FOR MODERATE-TO-SEVERE DISEASE.*** ***IT CAN BE COMBINED WITH CHOLINESTERASE INHIBITORS (it is not restricted to monotherapy), and the usual dose is 5 mg daily titrated to 10 mg TWICE daily (20 mg/day), not 15–30 mg.***
 
@@ -1678,13 +1589,15 @@
 
 **MUST KNOW:**
 
-- **The cholinergic arm: ***DONEPEZIL, RIVASTIGMINE and GALANTAMINE*** are cholinesterase inhibitors for MILD-TO-MODERATE disease; adverse effects are cholinergic (nausea, diarrhoea, bradycardia and syncope, vivid dreams, urinary urgency) — ***CAUTION IN BRADYCARDIA, HEART BLOCK AND PEPTIC ULCER.*** ***RIVASTIGMINE IS THE AGENT WITH BEST EVIDENCE IN PARKINSON DISEASE DEMENTIA AND LEWY BODY DEMENTIA.***
-- ***NEITHER CLASS MODIFIES DISEASE — THEY PRODUCE MODEST SYMPTOMATIC BENEFIT.*** The newer anti-amyloid antibodies (lecanemab, donanemab) slow decline slightly at the cost of ***ARIA (amyloid-related imaging abnormalities — oedema and microhaemorrhage)***, and require APOE genotyping and MRI monitoring.
+- **The cholinergic arm:** *DONEPEZIL, RIVASTIGMINE and GALANTAMINE*** are cholinesterase inhibitors for MILD-TO-MODERATE disease; adverse effects are cholinergic (nausea, diarrhoea, bradycardia and syncope, vivid dreams, urinary urgency) — ***CAUTION IN BRADYCARDIA, HEART BLOCK AND PEPTIC ULCER.*** ***RIVASTIGMINE IS THE AGENT WITH BEST EVIDENCE IN PARKINSON DISEASE DEMENTIA AND LEWY BODY DEMENTIA.***
+- ***NEITHER CLASS MODIFIES DISEASE — THEY PRODUCE MODEST SYMPTOMATIC BENEFIT.*** The newer anti-amyloid antibodies (lecanemab, donanemab)[^3] slow decline slightly at the cost of ***ARIA (amyloid-related imaging abnormalities — oedema and microhaemorrhage)***, and require APOE genotyping and MRI monitoring.
 - ***ANTIPSYCHOTICS FOR BEHAVIOURAL AND PSYCHOLOGICAL SYMPTOMS OF DEMENTIA INCREASE STROKE AND MORTALITY*** and must be a last resort at the lowest dose for the shortest time — with ***EXTREME CAUTION (NEUROLEPTIC SENSITIVITY) IN LEWY BODY DEMENTIA***, where they can cause severe, even fatal, extrapyramidal reactions.
 - **Memantine is ***RENALLY EXCRETED — reduce the dose in renal impairment***; its main side effects are dizziness, headache, confusion and constipation.
 - **Always look for ***REVERSIBLE contributors to cognitive decline: B12 and thyroid deficiency, depression ("pseudodementia"), normal-pressure hydrocephalus, subdural haematoma, neurosyphilis, HIV and — very commonly — ANTICHOLINERGIC DRUG BURDEN.***
 
 **EXAM CONNECTION:** True about memantine → **it acts on NMDA receptors and is reserved for moderate-to-severe disease** (it CAN be combined with cholinesterase inhibitors; the dose is 20 mg/day).
+
+**ALSO KNOW:** **RIVASTIGMINE IS AVAILABLE AS A TRANSDERMAL PATCH — the answer when an elderly patient with dementia cannot take or will not comply with oral medication.** A patch delivers drug at a steady low rate over 24 hours, smoothing the peak concentrations that cause the dose-limiting cholinergic GI effects. **Rivastigmine inhibits BOTH acetyl- and BUTYRYL-cholinesterase and is licensed for Alzheimer AND Parkinson disease dementia; DONEPEZIL is long-acting once-daily central AChE inhibition; GALANTAMINE adds allosteric NICOTINIC modulation.** Other drugs with useful transdermal formulations: **fentanyl, buprenorphine, nitroglycerin, hyoscine, oestradiol, nicotine, clonidine, selegiline, rotigotine.**
 
 **REMEMBER:** *It plugs the leak without blocking the signal — that is why it is tolerated and ketamine is not.*
 
@@ -1692,7 +1605,7 @@
 
 ---
 
-### 87. Levodopa Interactions
+### 82. Levodopa Interactions
 
 **PEARL:** ***PYRIDOXINE (VITAMIN B6) ABOLISHES THE EFFECT OF PLAIN LEVODOPA*** by acting as a cofactor for DOPA DECARBOXYLASE, accelerating its **PERIPHERAL conversion to dopamine so that less crosses the blood–brain barrier.** (This does NOT matter when levodopa is combined with ***CARBIDOPA or BENSERAZIDE***, which block that enzyme peripherally — which is why all modern preparations are combinations.)
 
@@ -1700,8 +1613,8 @@
 
 **MUST KNOW:**
 
-- **Other levodopa interactions: ***PHENOTHIAZINES, HALOPERIDOL and METOCLOPRAMIDE block dopamine receptors and reverse its effect (use DOMPERIDONE, which does not cross the barrier, for nausea); NON-SELECTIVE MAO INHIBITORS cause a HYPERTENSIVE CRISIS; antihypertensives worsen postural hypotension; ANTICHOLINERGICS delay gastric emptying and can reduce absorption; and a HIGH-PROTEIN MEAL COMPETES FOR THE INTESTINAL AND BLOOD–BRAIN LARGE NEUTRAL AMINO ACID TRANSPORTER — so take levodopa 30–60 minutes before food.***
-- **Long-term levodopa problems: ***"WEARING-OFF" AND ON–OFF FLUCTUATIONS, PEAK-DOSE DYSKINESIAS, and dose failures*** — managed with more frequent dosing, COMT inhibitors (entacapone, opicapone), MAO-B inhibitors (selegiline, rasagiline), dopamine agonists, amantadine (for dyskinesia), apomorphine rescue, intestinal levodopa gel or deep brain stimulation.
+- **Other levodopa interactions:** *PHENOTHIAZINES, HALOPERIDOL and METOCLOPRAMIDE block dopamine receptors and reverse its effect (use DOMPERIDONE, which does not cross the barrier, for nausea); NON-SELECTIVE MAO INHIBITORS cause a HYPERTENSIVE CRISIS; antihypertensives worsen postural hypotension; ANTICHOLINERGICS delay gastric emptying and can reduce absorption; and a HIGH-PROTEIN MEAL COMPETES FOR THE INTESTINAL AND BLOOD–BRAIN LARGE NEUTRAL AMINO ACID TRANSPORTER — so take levodopa 30–60 minutes before food.***
+- **Long-term levodopa problems:** *"WEARING-OFF" AND ON–OFF FLUCTUATIONS, PEAK-DOSE DYSKINESIAS, and dose failures*** — managed with more frequent dosing, COMT inhibitors (entacapone, opicapone), MAO-B inhibitors (selegiline, rasagiline), dopamine agonists, amantadine (for dyskinesia), apomorphine rescue, intestinal levodopa gel or deep brain stimulation.
 - **Dopamine agonists (pramipexole, ropinirole) cause ***IMPULSE-CONTROL DISORDERS (gambling, hypersexuality, compulsive shopping), sleep attacks, hallucinations and ankle oedema*** — ask about these explicitly at every visit.
 - ***NEVER STOP DOPAMINERGIC DRUGS ABRUPTLY*** — risk of a neuroleptic-malignant-like syndrome (parkinsonism–hyperpyrexia).
 - **Drug-induced parkinsonism (antipsychotics, metoclopramide, flunarizine) is a common and reversible mimic — always review the drug chart before diagnosing Parkinson disease.**
@@ -1714,33 +1627,7 @@
 
 ---
 
-### 88. Alzheimer Drugs and the Transdermal Route
-
-**PEARL:** **Rivastigmine is available as a TRANSDERMAL PATCH** — the choice when an elderly patient with dementia cannot take or will not comply with oral medication.
-
-**UNDERSTAND:** Cholinesterase inhibitors cause **dose-limiting cholinergic GI effects** because oral dosing produces **sharp peak plasma concentrations**. A patch delivers the drug at a **steady, low rate over 24 hours**, smoothing those peaks and bypassing the gastric mucosa entirely — so the same daily dose is far better tolerated, and a single application replaces multiple tablets in a forgetful patient.
-
-**MUST KNOW:**
-
-- **Rivastigmine inhibits BOTH acetylcholinesterase and butyrylcholinesterase**, and is licensed for **Alzheimer disease AND Parkinson disease dementia**.
-- **Donepezil** — long half-life, once daily, purely central AChE inhibition; **galantamine** — AChE inhibition plus **allosteric nicotinic modulation**.
-- **Memantine** — an **NMDA receptor antagonist** for moderate-to-severe disease; can be combined with a cholinesterase inhibitor.
-- Cholinesterase inhibitor adverse effects: **nausea, vomiting, diarrhoea, anorexia, bradycardia and syncope** — caution with beta-blockers and in sick sinus syndrome.
-- Newer disease-modifying agents: **anti-amyloid monoclonals (lecanemab, donanemab)** — risk of **ARIA (amyloid-related imaging abnormalities)**.
-- Other useful transdermal drugs: **fentanyl, buprenorphine, nitroglycerin, hyoscine, oestradiol, nicotine, clonidine, selegiline, rotigotine**.
-
-**EXAM CONNECTION:** The clue is **non-compliance with oral drugs** — which selects the drug with a patch formulation, not the "best" cholinesterase inhibitor.
-
-**REMEMBER:** *A patch smooths the peaks and needs no swallowing.*
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e5db3b220b5c4a6fb0a82d0c724c68c5x640x784.JPEG)
-
-`MG1026`
-
----
-
-### 89. Memantine
+### 83. Memantine
 
 **PEARL:** Memantine is a **non-competitive (open-channel, low-affinity) NMDA antagonist** that limits glutamate excitotoxicity and slows progression in **moderate-to-severe** Alzheimer's disease.
 
@@ -1754,7 +1641,7 @@
 
 ---
 
-### 90. Piracetam
+### 84. Piracetam
 
 **PEARL:** Piracetam is a **nootropic** (cognition enhancer) used off-label for memory and, importantly, for **myoclonus**.
 
@@ -1762,7 +1649,7 @@
 
 ---
 
-### 91. Edaravone
+### 85. Edaravone
 
 **PEARL:** Edaravone (a free-radical scavenger) is FDA-approved for **amyotrophic lateral sclerosis**.
 
@@ -1772,7 +1659,7 @@
 
 ---
 
-### 92. Trihexyphenidyl
+### 86. Trihexyphenidyl
 
 **PEARL:** **Trihexyphenidyl**, a central anticholinergic, is the **drug of choice for drug-induced parkinsonism**.
 
@@ -1788,7 +1675,7 @@
 
 ## Psychotropic Drugs
 
-### 93. Lithium and the Mood Stabilisers
+### 87. Lithium and the Mood Stabilisers
 
 **PEARL:** ***LITHIUM IS THE MOOD STABILISER WITH A PROVEN ANTI-SUICIDAL EFFECT*** — it reduces suicide and all-cause mortality in mood disorders, an effect **NOT shared by valproate, carbamazepine or lamotrigine** and apparently independent of its mood-stabilising action.
 
@@ -1798,11 +1685,13 @@
 
 - **Adverse effects: fine tremor, polyuria and polydipsia from ***NEPHROGENIC DIABETES INSIPIDUS***, weight gain, acne and psoriasis, ***HYPOTHYROIDISM (and goitre) — check TSH*** — hyperparathyroidism with hypercalcaemia, leucocytosis, chronic interstitial nephritis, and ***EBSTEIN ANOMALY with first-trimester exposure.***
 - ***TOXICITY (>1.5 mmol/L): coarse tremor, ataxia, dysarthria, vomiting and diarrhoea, confusion, seizures and coma — TREAT WITH FLUIDS AND, IN SEVERE CASES, HAEMODIALYSIS*** (lithium's small volume of distribution makes it highly dialysable). Monitor levels 12 hours post-dose, and check renal and thyroid function periodically.
-- **Alternatives and their niches: ***VALPROATE — effective in mania, but TERATOGENIC (neural tube defects, reduced IQ) — AVOID IN WOMEN OF CHILDBEARING POTENTIAL; also causes hepatotoxicity, pancreatitis, weight gain, tremor, hair loss and hyperammonaemia. CARBAMAZEPINE — enzyme INDUCER with many interactions, hyponatraemia/SIADH, agranulocytosis, and SJS/TEN with HLA-B*1502 in Asians. LAMOTRIGINE — best for BIPOLAR DEPRESSION; must be titrated SLOWLY because of rash/SJS risk (and doses halve when combined with valproate).***
+- **Alternatives and their niches:** *VALPROATE — effective in mania, but TERATOGENIC (neural tube defects, reduced IQ) — AVOID IN WOMEN OF CHILDBEARING POTENTIAL; also causes hepatotoxicity, pancreatitis, weight gain, tremor, hair loss and hyperammonaemia. CARBAMAZEPINE — enzyme INDUCER with many interactions, hyponatraemia/SIADH, agranulocytosis, and SJS/TEN with HLA-B*1502 in Asians. LAMOTRIGINE — best for BIPOLAR DEPRESSION; must be titrated SLOWLY because of rash/SJS risk (and doses halve when combined with valproate).***
 - **Antipsychotics (olanzapine, quetiapine, risperidone, aripiprazole) are effective mood stabilisers in acute mania and maintenance, at the cost of metabolic syndrome.**
 - ***ABRUPT DISCONTINUATION OF LITHIUM CAUSES REBOUND MANIA*** — always taper.
 
 **EXAM CONNECTION:** Mood stabiliser with an anti-suicidal role → **lithium**.
+
+**ALSO KNOW:** **Sample serum lithium 10–12 hours after the previous dose (the standard 12-hour trough).** Lithium has a **proven ANTISUICIDAL effect — unique among psychotropics.**
 
 **REMEMBER:** *The kidney treats lithium as sodium — anything that saves salt poisons the patient.*
 
@@ -1810,7 +1699,7 @@
 
 ---
 
-### 94. Antidepressants and Sexual Dysfunction
+### 88. Antidepressants and Sexual Dysfunction
 
 **PEARL:** ***MIRTAZAPINE CAUSES THE LEAST SEXUAL DYSFUNCTION*** of the common antidepressants, because it does not block serotonin reuptake — instead it is a **presynaptic alpha-2 ANTAGONIST that increases noradrenergic and serotonergic transmission while BLOCKING 5-HT2A, 5-HT2C, 5-HT3 and H1 receptors.** SSRIs (fluoxetine), SNRIs (venlafaxine) and tricyclics (imipramine) all commonly cause it. **BUPROPION, VILAZODONE and VORTIOXETINE are the other sexually sparing options.**
 
@@ -1818,7 +1707,7 @@
 
 **MUST KNOW:**
 
-- **Antidepressant side-effect signatures: ***FLUOXETINE — long half-life (no discontinuation syndrome; useful in poor adherence), activating, many CYP interactions. PAROXETINE — most anticholinergic, most weight gain, worst discontinuation syndrome, and the most teratogenic concern (cardiac defects). SERTRALINE — safest in cardiac disease and preferred in pregnancy/lactation. CITALOPRAM/ESCITALOPRAM — QT PROLONGATION (dose limits). VENLAFAXINE — dose-dependent HYPERTENSION and dangerous in overdose. BUPROPION — LOWERS SEIZURE THRESHOLD (avoid in eating disorders and alcohol withdrawal) but no sexual or weight effects; also used for smoking cessation. TRAZODONE — sedation and PRIAPISM. TCAs — anticholinergic effects, postural hypotension, and CARDIOTOXICITY IN OVERDOSE (wide QRS — treat with SODIUM BICARBONATE).***
+- **Antidepressant side-effect signatures:** *FLUOXETINE — long half-life (no discontinuation syndrome; useful in poor adherence), activating, many CYP interactions. PAROXETINE — most anticholinergic, most weight gain, worst discontinuation syndrome, and the most teratogenic concern (cardiac defects). SERTRALINE — safest in cardiac disease and preferred in pregnancy/lactation. CITALOPRAM/ESCITALOPRAM — QT PROLONGATION (dose limits). VENLAFAXINE — dose-dependent HYPERTENSION and dangerous in overdose. BUPROPION — LOWERS SEIZURE THRESHOLD (avoid in eating disorders and alcohol withdrawal) but no sexual or weight effects; also used for smoking cessation. TRAZODONE — sedation and PRIAPISM. TCAs — anticholinergic effects, postural hypotension, and CARDIOTOXICITY IN OVERDOSE (wide QRS — treat with SODIUM BICARBONATE).***
 - ***SSRIs INCREASE BLEEDING RISK (platelet serotonin depletion), CAUSE HYPONATRAEMIA/SIADH (especially in the elderly), and carry a black-box warning for suicidal ideation in those under 25 — FLUOXETINE IS THE ONLY SSRI APPROVED FOR CHILDHOOD DEPRESSION.***
 - **SEROTONIN SYNDROME (SSRI + MAOI, tramadol, linezolid, triptans): ***HYPERTHERMIA, agitation, CLONUS AND HYPERREFLEXIA (lower limbs > upper) with dilated pupils and diarrhoea*** — rapid onset; treat with withdrawal, benzodiazepines and cyproheptadine. Contrast NEUROLEPTIC MALIGNANT SYNDROME (antipsychotics): slower onset, ***LEAD-PIPE RIGIDITY, hyporeflexia, very high creatine kinase*** — treat with dantrolene and bromocriptine.
 - **A washout of ***2 WEEKS (5 WEEKS FOR FLUOXETINE)*** is required before starting an MAO inhibitor.
@@ -1832,7 +1721,7 @@
 
 ---
 
-### 95. Disulfiram and Alcohol De-addiction
+### 89. Disulfiram and Alcohol De-addiction
 
 **PEARL:** **DISULFIRAM is an ***IRREVERSIBLE INHIBITOR OF ALDEHYDE DEHYDROGENASE***, used for AVERSIVE CONDITIONING — it is ***NOT an anticraving drug.*** Drinking on disulfiram raises acetaldehyde and causes **flushing, throbbing headache, nausea and vomiting, chest discomfort, respiratory difficulty, hypotension, drowsiness and even collapse.** ***IT MUST ONLY BE GIVEN TO A HIGHLY MOTIVATED PATIENT, ONLY AFTER AT LEAST 12–24 HOURS OF ABSTINENCE — AND ITS EFFECT PERSISTS UP TO 14 DAYS AFTER THE LAST DOSE*** (not 2–3 days), because the enzyme must be resynthesised.
 
@@ -1842,11 +1731,13 @@
 
 - ***DISULFIRAM-LIKE REACTIONS also occur with METRONIDAZOLE and tinidazole, CHLORPROPAMIDE and other sulfonylureas, CEPHALOSPORINS with a methylthiotetrazole side chain (cefoperazone, cefotetan), griseofulvin, ketoconazole and procarbazine*** — warn patients about alcohol.
 - **Disulfiram is contraindicated in severe cardiac disease, psychosis and pregnancy, and can cause hepatotoxicity, peripheral neuropathy and psychosis; it also inhibits dopamine beta-hydroxylase.**
-- **Alcohol withdrawal management: ***BENZODIAZEPINES (chlordiazepoxide or diazepam; LORAZEPAM in liver disease as it avoids hepatic oxidation) are the drugs of choice***, with symptom-triggered dosing by CIWA-Ar. ***GIVE PARENTERAL THIAMINE BEFORE ANY GLUCOSE*** to prevent WERNICKE ENCEPHALOPATHY (confusion, ophthalmoplegia, ataxia — progressing to KORSAKOFF psychosis with anterograde amnesia and confabulation).
+- **Alcohol withdrawal management:** *BENZODIAZEPINES (chlordiazepoxide or diazepam; LORAZEPAM in liver disease as it avoids hepatic oxidation) are the drugs of choice***, with symptom-triggered dosing by CIWA-Ar. ***GIVE PARENTERAL THIAMINE BEFORE ANY GLUCOSE*** to prevent WERNICKE ENCEPHALOPATHY (confusion, ophthalmoplegia, ataxia — progressing to KORSAKOFF psychosis with anterograde amnesia and confabulation).
 - **Timeline of withdrawal: tremulousness 6–12 h, hallucinosis 12–24 h, ***WITHDRAWAL SEIZURES 24–48 h***, ***DELIRIUM TREMENS 48–96 h (clouded consciousness, autonomic storm, visual hallucinations — a medical emergency with real mortality).***
 - **Brief interventions, motivational interviewing, Alcoholics Anonymous and treatment of comorbid depression are as important as any drug; pharmacotherapy without psychosocial support fails.**
 
 **EXAM CONNECTION:** True about disulfiram → **the reaction with alcohol causes drowsiness, chest discomfort and respiratory difficulty** (it is NOT anticraving, needs a motivated patient, and lasts up to 14 days).
+
+**ALSO KNOW:** **Disulfiram is an IRREVERSIBLE inhibitor of ALDEHYDE DEHYDROGENASE (both cytosolic and mitochondrial), so acetaldehyde accumulates — it works by AVERSIVE CONDITIONING, NOT by reducing craving** (contrast naltrexone and acamprosate, which are anti-craving).
 
 **REMEMBER:** *Disulfiram punishes, naltrexone and acamprosate persuade.*
 
@@ -1854,7 +1745,7 @@
 
 ---
 
-### 96. Choosing a Benzodiazepine in Liver Disease
+### 90. Choosing a Benzodiazepine in Liver Disease
 
 **PEARL:** ***OXAZEPAM, LORAZEPAM AND TEMAZEPAM ("LOT") ARE THE BENZODIAZEPINES OF CHOICE IN LIVER DISEASE AND IN THE ELDERLY*** — they undergo ***ONLY GLUCURONIDATION (phase II conjugation)***, which is well preserved when hepatic oxidation fails, and they have **NO ACTIVE METABOLITES.** ***DIAZEPAM, CHLORDIAZEPOXIDE, MIDAZOLAM AND ALPRAZOLAM require CYP OXIDATION (phase I) and produce long-acting active metabolites (nordazepam)*** that accumulate and precipitate encephalopathy.
 
@@ -1864,7 +1755,7 @@
 
 - **Benzodiazepines act at a distinct site on the ***GABA-A receptor and INCREASE THE FREQUENCY of chloride channel opening; BARBITURATES INCREASE THE DURATION*** (and at high doses open the channel directly, which is why they have no ceiling and are far more lethal in overdose).
 - ***FLUMAZENIL reverses benzodiazepines but CAN PRECIPITATE SEIZURES*** in chronic users and in mixed overdoses (especially with tricyclics) — use cautiously.
-- **Clinical niches: ***LORAZEPAM — status epilepticus and alcohol withdrawal in liver disease; MIDAZOLAM — procedural sedation and buccal/IM seizure control (short-acting, water-soluble); DIAZEPAM — muscle spasm, febrile seizures (rectal); CLONAZEPAM — myoclonus; ALPRAZOLAM — panic disorder (but high dependence potential).***
+- **Clinical niches:** *LORAZEPAM — status epilepticus and alcohol withdrawal in liver disease; MIDAZOLAM — procedural sedation and buccal/IM seizure control (short-acting, water-soluble); DIAZEPAM — muscle spasm, febrile seizures (rectal); CLONAZEPAM — myoclonus; ALPRAZOLAM — panic disorder (but high dependence potential).***
 - ***ALL BENZODIAZEPINES CAUSE TOLERANCE, DEPENDENCE, ANTEROGRADE AMNESIA, FALLS AND FRACTURES IN THE ELDERLY, AND RESPIRATORY DEPRESSION WITH OPIOIDS OR ALCOHOL*** — prescribe for the shortest possible period and taper to stop. Z-drugs (zolpidem, zopiclone) act at the same receptor with similar problems.
 - **In hepatic encephalopathy the therapeutic priorities are ***LACTULOSE and RIFAXIMIN, correction of precipitants (GI bleed, infection, constipation, electrolyte disturbance, sedatives) — and avoiding sedation altogether where possible.***
 
@@ -1876,7 +1767,7 @@
 
 ---
 
-### 97. Paroxetine and Antidepressants in Pregnancy
+### 91. Paroxetine and Antidepressants in Pregnancy
 
 **PEARL:** **Paroxetine is the SSRI associated with fetal cardiac defects** — particularly **VSD and ASD** — and is the one to avoid in a woman planning pregnancy. **Sertraline** is the preferred SSRI in pregnancy and lactation.
 
@@ -1898,7 +1789,7 @@
 
 ---
 
-### 98. Antidepressant Side Effects Mapped to Receptors
+### 92. Antidepressant Side Effects Mapped to Receptors
 
 **PEARL:** **H1 blockade → sedation and weight gain. Muscarinic blockade → dry mouth, constipation, blurred vision, urinary retention. 5-HT reuptake inhibition → sexual dysfunction, nausea, anorgasmia. ALPHA-1 BLOCKADE → POSTURAL HYPOTENSION — NOT hypertension.**
 
@@ -1924,7 +1815,7 @@
 
 ---
 
-### 99. Akathisia: Propranolol, Not Anticholinergics
+### 93. Akathisia: Propranolol, Not Anticholinergics
 
 **PEARL:** **Akathisia** — an inner restlessness with an irresistible urge to move, pacing and inability to sit still after starting an antipsychotic — is treated with **PROPRANOLOL**. **Anticholinergics (benztropine, trihexyphenidyl) do NOT work for akathisia**, though they are the treatment for dystonia and drug-induced parkinsonism.
 
@@ -1951,7 +1842,7 @@
 
 ---
 
-### 100. SSRI-Induced Hyponatraemia in the Elderly
+### 94. SSRI-Induced Hyponatraemia in the Elderly
 
 **PEARL:** **Severe hyponatraemia with confusion, falls and gait instability days to weeks after starting an SSRI (sertraline, fluoxetine, paroxetine, citalopram) in a frail elderly woman = SSRI-INDUCED SIADH.** SSRIs are flagged in the **BEERS criteria** as drugs to use with caution in the elderly for exactly this reason.
 
@@ -1974,7 +1865,7 @@
 
 ---
 
-### 101. Antidepressants — Choosing by Side Effect
+### 95. Antidepressants — Choosing by Side Effect
 
 **PEARL:** **MIRTAZAPINE is the antidepressant of choice when sexual dysfunction must be avoided.** It is also sedating and increases appetite — useful in **depression with insomnia and weight loss**.
 
@@ -1997,30 +1888,7 @@
 
 ---
 
-### 102. Disulfiram
-
-**PEARL:** Disulfiram is an **irreversible inhibitor of aldehyde dehydrogenase** (both cytosolic and mitochondrial) → acetaldehyde accumulates. It works by **aversive conditioning**, **not** anti-craving.
-
-**MUST KNOW:**
-
-- Reaction: flushing, throbbing headache, vomiting, hypotension, palpitations, dread.
-- **Anti-craving** drugs: **naltrexone, acamprosate** (NMDA modulator), topiramate, baclofen.
-- Disulfiram-like reaction also from **metronidazole, tinidazole, cefoperazone, chlorpropamide, griseofulvin**.
-- It also inhibits dopamine β-hydroxylase → can precipitate psychosis.
-
-**REMEMBER:** *Disulfiram = aversion (ALDH); naltrexone/acamprosate = craving.*
-
----
-
-### 103. Oxazepam in Liver Disease
-
-**PEARL:** **Oxazepam** (with lorazepam and temazepam) is safe in hepatic impairment — short-acting and cleared by direct **glucuronidation only**, with no active metabolites and no CYP oxidation.
-
-**REMEMBER:** *"LOT" (Lorazepam, Oxazepam, Temazepam) = liver-friendly benzodiazepines.*
-
----
-
-### 104. Vilazodone
+### 96. Vilazodone
 
 **PEARL:** Vilazodone is a **SPARI** — **S**erotonin **PA**rtial agonist (**5-HT1A**) and **R**euptake **I**nhibitor. It selectively blocks the serotonin transporter (no NE/DA effect) **and** is a 5-HT1A partial agonist.
 
@@ -2033,7 +1901,7 @@
 
 ---
 
-### 105. Mirtazapine
+### 97. Mirtazapine
 
 **PEARL:** Mirtazapine and mianserin block **H1** receptors and are potent antagonists at **5-HT2A, 5-HT2C and 5-HT3**. **Sexual dysfunction is NOT a side effect** of mirtazapine.
 
@@ -2048,28 +1916,9 @@
 
 ---
 
-### 106. Lithium
-
-**PEARL:**
-
-- Serum lithium must be sampled **10–12 hours after the previous dose** (standard **12-hour trough**).
-- Lithium is a mood stabilizer with a **proven antisuicidal effect** — unique among psychotropics.
-
-**MUST KNOW:**
-
-- Therapeutic range 0.6–1.2 mEq/L; narrow index — toxicity with dehydration, **NSAIDs, ACE inhibitors, thiazides**; excretion is **purely renal** and it is reabsorbed with sodium (low Na = high lithium).
-- Chronic: nephrogenic **diabetes insipidus**, hypothyroidism, tremor, weight gain; **Ebstein anomaly** in first-trimester exposure.
-- Severe toxicity → **hemodialysis**.
-
-**REMEMBER:** *12-hour trough; lithium is the antisuicide drug; thiazides and NSAIDs push it up.*
-
----
-
----
-
 ## Analgesics, Opioids, NSAIDs and Antirheumatic Drugs
 
-### 107. Opioid Receptor Pharmacology
+### 98. Opioid Receptor Pharmacology
 
 **PEARL:** ***PENTAZOCINE = PARTIAL AGONIST (or weak antagonist) at MU + FULL AGONIST at KAPPA*** — its analgesia is kappa-mediated. ***BUPRENORPHINE = PARTIAL AGONIST at MU + ANTAGONIST at KAPPA***, with very high mu affinity and a long duration. ***TRAMADOL = weak MU AGONIST + INHIBITOR OF SEROTONIN AND NORADRENALINE REUPTAKE.*** ***FENTANYL, morphine and methadone are FULL MU AGONISTS; NALOXONE and naltrexone are pure ANTAGONISTS.***
 
@@ -2077,9 +1926,9 @@
 
 **MUST KNOW:**
 
-- **Receptor effects: ***MU — analgesia (supraspinal), euphoria, RESPIRATORY DEPRESSION, miosis, constipation, physical dependence. KAPPA — spinal analgesia, DYSPHORIA and sedation, miosis, diuresis. DELTA — analgesia, mood modulation.***
+- **Receptor effects:** *MU — analgesia (supraspinal), euphoria, RESPIRATORY DEPRESSION, miosis, constipation, physical dependence. KAPPA — spinal analgesia, DYSPHORIA and sedation, miosis, diuresis. DELTA — analgesia, mood modulation.***
 - ***TRAMADOL'S NON-OPIOID ACTIONS CAUSE ITS CHARACTERISTIC HAZARDS: SEIZURES (lowered threshold — avoid in epilepsy and with other proconvulsants) and SEROTONIN SYNDROME with SSRIs, SNRIs, MAO inhibitors and linezolid.*** Its analgesia is only partly naloxone-reversible for the same reason. It is a prodrug activated by CYP2D6 — poor metabolisers get little relief.
-- **Morphine metabolites matter: ***MORPHINE-6-GLUCURONIDE IS AN ACTIVE ANALGESIC THAT ACCUMULATES IN RENAL FAILURE***, causing delayed narcosis — use fentanyl, buprenorphine or oxycodone instead. ***PETHIDINE'S metabolite NORPETHIDINE IS PROCONVULSANT***, and pethidine with MAO inhibitors causes a severe excitatory reaction.
+- **Morphine metabolites matter:** *MORPHINE-6-GLUCURONIDE IS AN ACTIVE ANALGESIC THAT ACCUMULATES IN RENAL FAILURE***, causing delayed narcosis — use fentanyl, buprenorphine or oxycodone instead. ***PETHIDINE'S metabolite NORPETHIDINE IS PROCONVULSANT***, and pethidine with MAO inhibitors causes a severe excitatory reaction.
 - **Codeine is a prodrug requiring CYP2D6 → morphine; ***ULTRA-RAPID METABOLISERS AND NURSING MOTHERS HAVE CAUSED INFANT DEATHS***, and codeine is now contraindicated under 12 years and after tonsillectomy.
 - **Opioid overdose: pinpoint pupils, respiratory depression and coma → ***NALOXONE (short half-life — repeat doses or infusion needed, especially after methadone or long-acting agents).*** Constipation is the one effect to which tolerance does NOT develop, so laxatives are prescribed alongside.
 
@@ -2091,7 +1940,7 @@
 
 ---
 
-### 108. Methotrexate and the DMARDs
+### 99. Methotrexate and the DMARDs
 
 **PEARL:** ***METHOTREXATE'S ANTI-INFLAMMATORY ACTION IS MEDIATED BY INCREASED EXTRACELLULAR ADENOSINE.*** By inhibiting **AICAR TRANSFORMYLASE** (as well as dihydrofolate reductase and thymidylate synthase), it causes AICAR to accumulate, which inhibits AMP deaminase; the resulting AMP is released and converted extracellularly to **ADENOSINE — a potent endogenous suppressor of neutrophil, macrophage, dendritic-cell and lymphocyte function.**
 
@@ -2100,11 +1949,13 @@
 **MUST KNOW:**
 
 - ***METHOTREXATE IS GIVEN ONCE WEEKLY — DAILY DOSING HAS KILLED PATIENTS*** (pancytopenia, mucositis). ***ALWAYS PRESCRIBE FOLIC ACID SUPPLEMENTATION*** (on a different day) to reduce toxicity without losing efficacy. Toxicities: myelosuppression, hepatotoxicity and fibrosis, mucositis, ***HYPERSENSITIVITY PNEUMONITIS***, nephrotoxicity at high dose, and ***TERATOGENICITY (contraindicated in pregnancy — it is also used to end ectopic pregnancy).*** Avoid with trimethoprim/cotrimoxazole (additive antifolate) and NSAIDs at high dose (reduced clearance). ***FOLINIC ACID (LEUCOVORIN) IS THE RESCUE AGENT.***
-- **Other DMARD mechanisms: ***LEFLUNOMIDE — dihydro-orotate dehydrogenase inhibition (pyrimidine synthesis); very long half-life, needs cholestyramine washout; teratogenic. SULFASALAZINE — cleaved to 5-ASA and sulfapyridine; safe in pregnancy. HYDROXYCHLOROQUINE — raises lysosomal pH and impairs antigen presentation; the mildest DMARD, with RETINAL TOXICITY requiring annual screening; also used in SLE. AZATHIOPRINE — purine antimetabolite; ***CHECK TPMT/NUDT15 STATUS***, and NEVER combine with ALLOPURINOL without a large dose reduction (xanthine oxidase blockade causes fatal myelosuppression).**
+- **Other DMARD mechanisms:** *LEFLUNOMIDE — dihydro-orotate dehydrogenase inhibition (pyrimidine synthesis); very long half-life, needs cholestyramine washout; teratogenic. SULFASALAZINE — cleaved to 5-ASA and sulfapyridine; safe in pregnancy. HYDROXYCHLOROQUINE — raises lysosomal pH and impairs antigen presentation; the mildest DMARD, with RETINAL TOXICITY requiring annual screening; also used in SLE. AZATHIOPRINE — purine antimetabolite; ***CHECK TPMT/NUDT15 STATUS***, and NEVER combine with ALLOPURINOL without a large dose reduction (xanthine oxidase blockade causes fatal myelosuppression).**
 - **Biologics: TNF inhibitors (infliximab, etanercept, adalimumab) — ***SCREEN FOR LATENT TB AND HEPATITIS B BEFORE STARTING***; rituximab (anti-CD20); tocilizumab (anti-IL-6); abatacept (CTLA4-Ig); and JAK inhibitors (tofacitinib — thrombosis and herpes zoster risk).**
 - **In rheumatoid arthritis, ***METHOTREXATE REMAINS FIRST-LINE AND THE ANCHOR DRUG***, started early to prevent erosions; steroids are a bridge, not a strategy.
 
 **EXAM CONNECTION:** DMARD that increases extracellular adenosine → **methotrexate**.
+
+**ALSO KNOW:** **Methotrexate ADRs: mucositis, marrow suppression, hepatic fibrosis and PNEUMONITIS; it is TERATOGENIC and contraindicated in pregnancy** — rescue with folinic acid, and supplement folic acid routinely.
 
 **REMEMBER:** *Low-dose weekly methotrexate treats inflammation with adenosine, not with antifolate killing.*
 
@@ -2115,7 +1966,7 @@
 
 ---
 
-### 109. Drugs in Gout, in Myasthenia, and Two Signalling Facts
+### 100. Drugs in Gout, in Myasthenia, and Two Signalling Facts
 
 **PEARL:** In GOUT, ***ASPIRIN IS AVOIDED BECAUSE LOW DOSES CAUSE RENAL RETENTION OF URATE*** (it is uricosuric only at high, poorly tolerated doses); **INDOMETHACIN is favoured because it also inhibits urate crystal phagocytosis in addition to COX**, and **DICLOFENAC concentrates in synovial fluid.** In MYASTHENIA GRAVIS, ***AVOID AMINOGLYCOSIDES, QUINOLONES AND MACROLIDES, BETA-BLOCKERS, LOCAL ANAESTHETICS (lidocaine), MAGNESIUM (including magnesium-containing antacids), QUININE, PENICILLAMINE, BOTULINUM TOXIN AND NON-DEPOLARISING MUSCLE RELAXANTS.***
 
@@ -2124,9 +1975,9 @@
 **MUST KNOW:**
 
 - **Acute gout: NSAIDs (indomethacin, naproxen), ***COLCHICINE (inhibits microtubule polymerisation and neutrophil chemotaxis — dose-limited by DIARRHOEA)***, or intra-articular/oral steroids; ***NEVER START OR STOP URATE-LOWERING THERAPY DURING AN ACUTE ATTACK*** (but continue it if already established), and always cover initiation with colchicine or an NSAID for months.
-- **Urate-lowering: ***ALLOPURINOL (xanthine oxidase inhibitor — beware the HYPERSENSITIVITY SYNDROME with HLA-B*5801 in Han Chinese and the fatal interaction with AZATHIOPRINE/6-MP), FEBUXOSTAT (no dose change in mild renal impairment, cardiovascular caution), PROBENECID (uricosuric — avoid if stones or overproduction), and RASBURICASE for tumour lysis.***
-- **Myasthenia treatment: ***PYRIDOSTIGMINE for symptoms, steroids and steroid-sparing immunosuppression, thymectomy (especially with thymoma), and IVIG or PLASMA EXCHANGE for CRISIS.*** In a crisis, the priority is ***AIRWAY AND VITAL CAPACITY MONITORING***, not more anticholinesterase (cholinergic crisis is the differential).
-- **Two mechanistic facts commonly asked: ***ACETYLCHOLINE SLOWS THE HEART BY DELAYING DIASTOLIC (phase 4) DEPOLARISATION IN THE SA NODE*** — vagal M2 receptors open GIRK potassium channels (I-KACh) via the G-protein beta-gamma subunit, hyperpolarising the cell. And ***POTASSIUM-CHANNEL BLOCKERS (AMINOPYRIDINES) INCREASE PRESYNAPTIC ACETYLCHOLINE RELEASE*** by prolonging the action potential and admitting more calcium — hence 3,4-diaminopyridine in ***LAMBERT–EATON MYASTHENIC SYNDROME.***
+- **Urate-lowering:** *ALLOPURINOL (xanthine oxidase inhibitor — beware the HYPERSENSITIVITY SYNDROME with HLA-B*5801 in Han Chinese and the fatal interaction with AZATHIOPRINE/6-MP), FEBUXOSTAT (no dose change in mild renal impairment, cardiovascular caution), PROBENECID (uricosuric — avoid if stones or overproduction), and RASBURICASE for tumour lysis.***
+- **Myasthenia treatment:** *PYRIDOSTIGMINE for symptoms, steroids and steroid-sparing immunosuppression, thymectomy (especially with thymoma), and IVIG or PLASMA EXCHANGE for CRISIS.*** In a crisis, the priority is ***AIRWAY AND VITAL CAPACITY MONITORING***, not more anticholinesterase (cholinergic crisis is the differential).
+- **Two mechanistic facts commonly asked:** *ACETYLCHOLINE SLOWS THE HEART BY DELAYING DIASTOLIC (phase 4) DEPOLARISATION IN THE SA NODE*** — vagal M2 receptors open GIRK potassium channels (I-KACh) via the G-protein beta-gamma subunit, hyperpolarising the cell. And ***POTASSIUM-CHANNEL BLOCKERS (AMINOPYRIDINES) INCREASE PRESYNAPTIC ACETYLCHOLINE RELEASE*** by prolonging the action potential and admitting more calcium — hence 3,4-diaminopyridine in ***LAMBERT–EATON MYASTHENIC SYNDROME.***
 - ***GPCRs THAT OPEN GIRK POTASSIUM CHANNELS: M2 MUSCARINIC, A1 ADENOSINE, ALPHA-2 ADRENERGIC, D2 DOPAMINE, 5-HT1 AND SOMATOSTATIN RECEPTORS — all Gi-coupled. THE ANGIOTENSIN AT1 RECEPTOR IS Gq-COUPLED AND ACTS THROUGH IP3/CALCIUM, NOT POTASSIUM.***
 
 **EXAM CONNECTION:** Correct statements about gout drugs → **aspirin decreases urate excretion, diclofenac concentrates in the joint, indomethacin acts by multiple pathways**; drugs to avoid in myasthenia → **lidocaine and magnesium-containing antacids**; GPCR NOT acting via K+ channels → **angiotensin AT1**.
@@ -2140,7 +1991,7 @@
 
 ---
 
-### 110. Local Anaesthetics and Methaemoglobinaemia
+### 101. Local Anaesthetics and Methaemoglobinaemia
 
 **PEARL:** ***PRILOCAINE (and BENZOCAINE) CAUSE METHAEMOGLOBINAEMIA*** — prilocaine is metabolised to ***o-TOLUIDINE***, an oxidising agent that converts haemoglobin iron from Fe2+ to Fe3+; the risk rises above about 8 mg/kg. ***TREATMENT IS INTRAVENOUS METHYLENE BLUE.***
 
@@ -2148,13 +1999,15 @@
 
 **MUST KNOW:**
 
-- **Other causes of methaemoglobinaemia: ***nitrates/nitrites (including well water in infants), dapsone, primaquine, chloroquine, metoclopramide, sulfonamides, phenazopyridine and aniline dyes.***
-- **Local anaesthetic pharmacology: ***AMIDES (lignocaine, bupivacaine, ropivacaine, prilocaine — "two i's in the name") are HEPATICALLY metabolised; ESTERS (procaine, cocaine, tetracaine, benzocaine, chloroprocaine) are hydrolysed by PLASMA CHOLINESTERASE and cause more ALLERGY (PABA metabolite).*** They block ***VOLTAGE-GATED SODIUM CHANNELS from the INSIDE, preferentially in rapidly firing ("use-dependent") fibres***, blocking small unmyelinated pain fibres before motor fibres.
+- **Other causes of methaemoglobinaemia:** *nitrates/nitrites (including well water in infants), dapsone, primaquine, chloroquine, metoclopramide, sulfonamides, phenazopyridine and aniline dyes.***
+- **Local anaesthetic pharmacology:** *AMIDES (lignocaine, bupivacaine, ropivacaine, prilocaine — "two i's in the name") are HEPATICALLY metabolised; ESTERS (procaine, cocaine, tetracaine, benzocaine, chloroprocaine) are hydrolysed by PLASMA CHOLINESTERASE and cause more ALLERGY (PABA metabolite).*** They block ***VOLTAGE-GATED SODIUM CHANNELS from the INSIDE, preferentially in rapidly firing ("use-dependent") fibres***, blocking small unmyelinated pain fibres before motor fibres.
 - ***THEY WORK POORLY IN INFECTED, ACIDIC TISSUE***, because the ionised fraction rises and less non-ionised drug crosses the membrane — the reason an abscess is drained under a block or general anaesthesia rather than local infiltration.
 - ***LOCAL ANAESTHETIC SYSTEMIC TOXICITY: perioral tingling and metallic taste → tinnitus and visual disturbance → tremor and SEIZURES → coma → CARDIOVASCULAR COLLAPSE. BUPIVACAINE IS THE MOST CARDIOTOXIC (refractory ventricular arrhythmias); ROPIVACAINE and levobupivacaine are safer. TREATMENT IS AIRWAY SUPPORT, BENZODIAZEPINES AND INTRAVENOUS 20% LIPID EMULSION ("lipid rescue").***
-- **Maximum safe doses to know: ***LIGNOCAINE 3–5 mg/kg (7 mg/kg with adrenaline), BUPIVACAINE 2 mg/kg (3 with adrenaline)***; adrenaline prolongs the block and reduces systemic absorption but is ***avoided in end-arteries (classically fingers, toes, nose, penis) in traditional teaching.***
+- **Maximum safe doses to know:** *LIGNOCAINE 3–5 mg/kg (7 mg/kg with adrenaline), BUPIVACAINE 2 mg/kg (3 with adrenaline)***; adrenaline prolongs the block and reduces systemic absorption but is ***avoided in end-arteries (classically fingers, toes, nose, penis) in traditional teaching.***
 
 **EXAM CONNECTION:** Local anaesthetic causing methaemoglobinaemia → **prilocaine**.
+
+**ALSO KNOW:** **ESTER versus AMIDE — count the "i"s BEFORE the "-caine": l-i-docaine has two (amide), procaine has one (ester).** **ALLERGY is essentially an ESTER problem** — the metabolite **PABA** is the allergen; true amide allergy is very rare (usually the **methylparaben** preservative). **Esters are short-acting (rapid plasma hydrolysis) and prolonged in PSEUDOCHOLINESTERASE DEFICIENCY; amides are longer-acting and accumulate in HEPATIC FAILURE and low cardiac output.** **Mechanism: they block voltage-gated sodium channels FROM INSIDE the cell — so the drug must cross the membrane UNIONISED and act IONISED. Onset depends on pKa, potency on lipid solubility, duration on protein binding** — and this is exactly **why local anaesthetics FAIL IN INFECTED, ACIDIC TISSUE**, so never inject into an abscess; use a field or regional block. **Blockade order: autonomic → pain and temperature → touch → pressure → motor.**
 
 **REMEMBER:** *Chocolate blood, cyanosis unresponsive to oxygen, and a pulse oximeter frozen at 85%.*
 
@@ -2162,31 +2015,7 @@
 
 ---
 
-### 111. Local Anaesthetics — Ester vs Amide
-
-**PEARL:** **AMIDES have two "i"s in the name** — l**i**docaine, bup**i**vacaine, pr**i**locaine, rop**i**vacaine, mep**i**vacaine — and are metabolised in the **LIVER**. **ESTERS have one "i"** — cocaine, procaine, chloroprocaine, tetracaine, benzocaine — and are hydrolysed by **plasma pseudocholinesterase** to **PABA**.
-
-**UNDERSTAND:** Count the "i"s **before** the "-caine": **l-i-docaine** has two, **procaine** has one. That single trick predicts metabolism, duration, allergy risk and drug interactions.
-
-**MUST KNOW:**
-
-- **ALLERGY is essentially an ESTER problem** — the metabolite **PABA** is the allergen. True amide allergy is very rare (usually the **methylparaben preservative** is responsible).
-- **Esters are short-acting** (rapid plasma hydrolysis) and are **prolonged in pseudocholinesterase deficiency**; **amides are longer-acting** and **accumulate in hepatic failure and low cardiac output**.
-- **Mechanism:** block **voltage-gated sodium channels from INSIDE the cell** — so the drug must cross the membrane in its **unionised** form and then act in the **ionised** form. **Onset depends on pKa** (closer to pH 7.4 = faster); **potency on lipid solubility**; **duration on protein binding**.
-- **This is why LAs FAIL IN INFECTED/ACIDIC TISSUE** — the low pH keeps the drug ionised so it cannot cross the membrane. Never inject into an abscess: use a **field or regional block** instead.
-- **Fibre blockade order:** **autonomic → pain and temperature → touch → pressure → motor** (small, myelinated fibres first).
-- **Bupivacaine is the most CARDIOTOXIC** (avoid in IVRA); **ropivacaine and levobupivacaine are the safer long-acting alternatives**. **Adrenaline 1:200 000** prolongs the block and reduces systemic absorption — **avoid in end-arteries** (traditional teaching for digits, penis, nose, ear).
-- **Maximum doses:** lignocaine **3 mg/kg** (**7 mg/kg with adrenaline**); bupivacaine **2 mg/kg** (3 with adrenaline). **LAST is treated with 20% lipid emulsion (Intralipid).**
-
-**EXAM CONNECTION:** "Which is NOT an amino ester?" → **lidocaine**. Also asked as the allergy question.
-
-**REMEMBER:** *Two "i"s = amide = liver = safe. One "i" = ester = PABA = allergy.*
-
-`Q9928`
-
----
-
-### 112. Cocaine as a Local Anaesthetic
+### 102. Cocaine as a Local Anaesthetic
 
 **PEARL:** Cocaine is unique among local anaesthetics in being an **ESTER** that also **blocks catecholamine reuptake**, giving it **intrinsic vasoconstriction** — so it provides anaesthesia **and** a bloodless field, which is why it is still used topically in **nasal and ENT surgery**.
 
@@ -2209,7 +2038,7 @@
 
 ---
 
-### 113. Tolerance to Opioids — The Three Exceptions
+### 103. Tolerance to Opioids — The Three Exceptions
 
 **PEARL:** Tolerance develops to **almost every opioid effect EXCEPT the "3 Cs": Constricted pupil (miosis), Constipation and Convulsions.**
 
@@ -2232,7 +2061,7 @@
 
 ---
 
-### 114. Levallorphan
+### 104. Levallorphan
 
 **PEARL:** Levallorphan is an opioid antagonist similar to naloxone — reverses severe opioid-induced **respiratory depression**.
 
@@ -2242,7 +2071,7 @@
 
 ---
 
-### 115. Levopropoxyphene
+### 105. Levopropoxyphene
 
 **PEARL:** Levopropoxyphene is a **centrally acting opioid antitussive** with **no analgesic activity**; dose 50–100 mg every 4 h; may cause sedation.
 
@@ -2252,7 +2081,7 @@
 
 ---
 
-### 116. Tramadol
+### 106. Tramadol
 
 **PEARL:** Tramadol acts at the **µ-opioid receptor AND inhibits serotonin and noradrenaline reuptake**.
 
@@ -2266,7 +2095,7 @@
 
 ---
 
-### 117. Pentazocine
+### 107. Pentazocine
 
 **PEARL:** Pentazocine is a **partial agonist at µ** and a **full agonist at κ** receptors.
 
@@ -2279,7 +2108,7 @@
 
 ---
 
-### 118. Analgesia in CKD
+### 108. Analgesia in CKD
 
 **PEARL:** **Paracetamol (acetaminophen)** is the safest non-narcotic analgesic in CKD; for severe pain use **tramadol or fentanyl**.
 
@@ -2289,7 +2118,7 @@
 
 ---
 
-### 119. Colchicine
+### 109. Colchicine
 
 **PEARL:** Colchicine binds **tubulin** and prevents **microtubule polymerization** → impaired neutrophil chemotaxis, recruitment and release of chemotactic factors.
 
@@ -2307,15 +2136,15 @@
 
 ## Endocrine Pharmacology
 
-### 120. Choosing Drugs in Renal Impairment — the Gliptins
+### 110. Choosing Drugs in Renal Impairment — the Gliptins
 
 **PEARL:** ***LINAGLIPTIN IS THE ONE DPP-4 INHIBITOR THAT NEEDS NO DOSE ADJUSTMENT IN ANY DEGREE OF RENAL IMPAIRMENT, INCLUDING CKD STAGE 5*** — because it is eliminated **HEPATOBILIARY (enterohepatic), largely unchanged in the faeces.** Sitagliptin, vildagliptin, saxagliptin and alogliptin are all **RENALLY excreted and must be dose-reduced.**
 
-**UNDERSTAND:** The rule generalises far beyond gliptins: **a drug's safety in renal failure is decided by its ROUTE OF ELIMINATION, not by its class.** Whenever an exam offers four drugs of one class and asks which is safe in CKD, the answer is **the one with a non-renal escape route** — the same logic gives you **linagliptin among gliptins, atorvastatin/fluvastatin among statins, and the hepatically metabolised agents in every other class.**
+**UNDERSTAND: **The rule generalises far beyond gliptins:** a drug's safety in renal failure is decided by its ROUTE OF ELIMINATION, not by its class.** Whenever an exam offers four drugs of one class and asks which is safe in CKD, the answer is **the one with a non-renal escape route** — the same logic gives you **linagliptin among gliptins, atorvastatin/fluvastatin among statins, and the hepatically metabolised agents in every other class.**
 
 **MUST KNOW:**
 
-- **Diabetes drugs in CKD: ***METFORMIN — stop below eGFR 30 (risk of LACTIC ACIDOSIS), reduce dose at 30–45; SULFONYLUREAS — glibenclamide/glimepiride accumulate and cause PROLONGED HYPOGLYCAEMIA (prefer GLICLAZIDE or glipizide); INSULIN requirements FALL in renal failure (insulin is degraded by the kidney); PIOGLITAZONE needs no renal adjustment but causes fluid retention, heart failure, fractures and bladder cancer risk.***
+- **Diabetes drugs in CKD:** *METFORMIN — stop below eGFR 30 (risk of LACTIC ACIDOSIS), reduce dose at 30–45; SULFONYLUREAS — glibenclamide/glimepiride accumulate and cause PROLONGED HYPOGLYCAEMIA (prefer GLICLAZIDE or glipizide); INSULIN requirements FALL in renal failure (insulin is degraded by the kidney); PIOGLITAZONE needs no renal adjustment but causes fluid retention, heart failure, fractures and bladder cancer risk.***
 - ***SGLT2 INHIBITORS AND GLP-1 AGONISTS NOW HAVE THE STRONGEST EVIDENCE IN DIABETIC KIDNEY DISEASE*** — SGLT2 inhibitors (empagliflozin, dapagliflozin) slow CKD progression and reduce heart-failure admissions independently of glucose lowering (watch genital mycotic infection, volume depletion and EUGLYCAEMIC KETOACIDOSIS); GLP-1 agonists give weight loss and cardiovascular benefit.
 - **Common drugs needing renal dose reduction: aminoglycosides, vancomycin, most beta-lactams, fluconazole, aciclovir, ***DIGOXIN, LITHIUM, METHOTREXATE, LMWH (enoxaparin), gabapentin/pregabalin, allopurinol and dabigatran.*** Drugs to AVOID: NSAIDs, gadolinium (nephrogenic systemic fibrosis), and metformin below eGFR 30.
 - **Drugs safe/unchanged in renal failure: linagliptin, atorvastatin, rifampicin, isoniazid (with pyridoxine), doxycycline, azithromycin, clindamycin, ceftriaxone, warfarin, amiodarone, prednisolone.**
@@ -2329,7 +2158,7 @@
 
 ---
 
-### 121. Drugs Acting on Steroid Synthesis and Receptors
+### 111. Drugs Acting on Steroid Synthesis and Receptors
 
 **PEARL:** ***METYRAPONE INHIBITS 11-BETA-HYDROXYLASE***, blocking the conversion of 11-deoxycortisol to cortisol — hence it lowers cortisol and is used both to **TREAT Cushing syndrome** and to **TEST the hypothalamic–pituitary axis** (a normal axis responds to the fall in cortisol with a surge of ACTH and a rise in 11-deoxycortisol). By contrast, ***MIFEPRISTONE is a GLUCOCORTICOID (and PROGESTERONE) RECEPTOR ANTAGONIST; FLUTAMIDE is an ANDROGEN RECEPTOR antagonist; FINASTERIDE is a 5-ALPHA-REDUCTASE inhibitor.***
 
@@ -2337,9 +2166,9 @@
 
 **MUST KNOW:**
 
-- **Medical therapy of Cushing syndrome: ***STEROIDOGENESIS INHIBITORS — ketoconazole, metyrapone, osilodrostat, etomidate (the only IV option, for crisis), MITOTANE (adrenolytic, used in adrenocortical carcinoma); PITUITARY-DIRECTED — pasireotide, cabergoline; RECEPTOR BLOCKADE — MIFEPRISTONE (useful when hyperglycaemia dominates).*** Definitive treatment is surgical.
+- **Medical therapy of Cushing syndrome:** *STEROIDOGENESIS INHIBITORS — ketoconazole, metyrapone, osilodrostat, etomidate (the only IV option, for crisis), MITOTANE (adrenolytic, used in adrenocortical carcinoma); PITUITARY-DIRECTED — pasireotide, cabergoline; RECEPTOR BLOCKADE — MIFEPRISTONE (useful when hyperglycaemia dominates).*** Definitive treatment is surgical.
 - ***KETOCONAZOLE'S INHIBITION OF STEROID SYNTHESIS EXPLAINS ITS SIDE EFFECTS — GYNAECOMASTIA AND ADRENAL INSUFFICIENCY*** — and is the reason it is no longer used systemically as an antifungal.
-- **Antiandrogens: ***FLUTAMIDE/BICALUTAMIDE (receptor blockers — a "FLARE" occurs if a GnRH agonist is given without antiandrogen cover in prostate cancer), FINASTERIDE/DUTASTERIDE (5-alpha-reductase inhibitors for BPH and androgenetic alopecia — they LOWER PSA by about half, which must be corrected for in screening), SPIRONOLACTONE and CYPROTERONE (used in hirsutism and PCOS), and ABIRATERONE (CYP17 inhibitor — needs steroid cover).***
+- **Antiandrogens:** *FLUTAMIDE/BICALUTAMIDE (receptor blockers — a "FLARE" occurs if a GnRH agonist is given without antiandrogen cover in prostate cancer), FINASTERIDE/DUTASTERIDE (5-alpha-reductase inhibitors for BPH and androgenetic alopecia — they LOWER PSA by about half, which must be corrected for in screening), SPIRONOLACTONE and CYPROTERONE (used in hirsutism and PCOS), and ABIRATERONE (CYP17 inhibitor — needs steroid cover).***
 - **MIFEPRISTONE plus MISOPROSTOL is the standard medical abortion regimen; mifepristone alone is also used in Cushing syndrome and, at low dose, as emergency contraception.**
 - **Adrenal suppression from exogenous steroids is the commonest cause of adrenal insufficiency; ***NEVER STOP LONG-TERM STEROIDS ABRUPTLY, AND INCREASE THE DOSE DURING ILLNESS OR SURGERY.***
 
@@ -2351,7 +2180,7 @@
 
 ---
 
-### 122. Clomiphene Citrate
+### 112. Clomiphene Citrate
 
 **PEARL:** ***CLOMIPHENE CAUSES MULTI-FOLLICULAR, NOT MONOFOLLICULAR, DEVELOPMENT*** (hence a ~8–10% twin rate). It is a **SELECTIVE OESTROGEN RECEPTOR MODULATOR that BLOCKS OESTROGEN'S NEGATIVE FEEDBACK at the hypothalamus**, producing a surge of GnRH → FSH and LH → ovulation. Its **ANTI-OESTROGENIC peripheral actions THICKEN CERVICAL MUCUS AND THIN THE ENDOMETRIUM**, and it can be combined with gonadotropins.
 
@@ -2363,9 +2192,11 @@
 - ***CLOMIPHENE WORKS ONLY IF THE HYPOTHALAMIC–PITUITARY–OVARIAN AXIS IS INTACT AND OESTROGEN LEVELS ARE NORMAL (WHO GROUP II — mainly PCOS). IT IS USELESS IN OVARIAN FAILURE (group III, high FSH) OR HYPOGONADOTROPIC HYPOGONADISM (group I, which needs pulsatile GnRH or gonadotropins).***
 - **Given days 2–5 of the cycle for 5 days; monitor with follicular tracking. ***OVARIAN HYPERSTIMULATION SYNDROME (ascites, pleural effusion, haemoconcentration, thrombosis) is rare with clomiphene but a real risk with gonadotropins***, especially in PCOS.
 - **In PCOS, weight loss of 5–10% alone can restore ovulation; metformin helps insulin resistance and is an adjunct; laparoscopic ovarian drilling is a second-line surgical option.**
-- **Related SERMs: ***TAMOXIFEN — antagonist in breast, AGONIST in ENDOMETRIUM (endometrial carcinoma risk) and bone; RALOXIFENE — agonist in bone (osteoporosis), antagonist in breast and neutral in endometrium; OSPEMIFENE for dyspareunia.***
+- **Related SERMs:** *TAMOXIFEN — antagonist in breast, AGONIST in ENDOMETRIUM (endometrial carcinoma risk) and bone; RALOXIFENE — agonist in bone (osteoporosis), antagonist in breast and neutral in endometrium; OSPEMIFENE for dyspareunia.***
 
 **EXAM CONNECTION:** Incorrect about clomiphene → **that it causes monofollicular development**.
+
+**ALSO KNOW:** **Clomiphene is a mixture of ENCLOMIPHENE and ZUCLOMIPHENE**; it blocks the **negative feedback of oestrogen on the hypothalamus**, causing a surge of **FSH and LH** and hence ovulation — and the continued FSH drive is why **multiple follicular development** is common.
 
 **REMEMBER:** *It fools the hypothalamus and starves the endometrium — many eggs, fewer pregnancies.*
 
@@ -2373,7 +2204,7 @@
 
 ---
 
-### 123. Pharmacotherapy of Osteoporosis
+### 113. Pharmacotherapy of Osteoporosis
 
 **PEARL:** **A postmenopausal woman with a fragility (Colles) fracture and a ***T-SCORE ≤ −2.5 has OSTEOPOROSIS***. ***BISPHOSPHONATES ARE GIVEN FOR 3–5 YEARS (NOT "no more than a year")***, followed by consideration of a drug holiday; ***TERIPARATIDE (an ANABOLIC agent) IS APPROPRIATE BEFORE bisphosphonates in severe disease with an existing fragility fracture***, and must be FOLLOWED by an antiresorptive to preserve the gain. Calcium requirement is **1000–1200 mg/day with vitamin D**.
 
@@ -2381,7 +2212,7 @@
 
 **MUST KNOW:**
 
-- **Bisphosphonates are pyrophosphate analogues that bind hydroxyapatite and induce ***OSTEOCLAST APOPTOSIS***; oral forms must be taken ***FASTING, WITH PLAIN WATER, SITTING UPRIGHT FOR 30 MINUTES*** (oesophagitis). Adverse effects: ***OSTEONECROSIS OF THE JAW (dental clearance first) and ATYPICAL SUBTROCHANTERIC FEMORAL FRACTURES***, acute-phase reaction with IV zoledronate, hypocalcaemia and renal impairment.
+- **Bisphosphonates are pyrophosphate analogues that bind hydroxyapatite and induce ***OSTEOCLAST APOPTOSIS***; oral forms must be taken ***FASTING, WITH PLAIN WATER, SITTING UPRIGHT FOR 30 MINUTES*** (oesophagitis). Adverse effects:** *OSTEONECROSIS OF THE JAW (dental clearance first) and ATYPICAL SUBTROCHANTERIC FEMORAL FRACTURES***, acute-phase reaction with IV zoledronate, hypocalcaemia and renal impairment.
 - ***CORRECT VITAMIN D AND CALCIUM DEFICIENCY BEFORE STARTING ANY POTENT ANTIRESORPTIVE*** or severe hypocalcaemia may follow (especially with denosumab and zoledronate).
 - **TERIPARATIDE (recombinant PTH 1-34): given daily by injection for up to 2 years; ***INTERMITTENT PTH IS ANABOLIC WHILE CONTINUOUS PTH IS CATABOLIC*** — the elegant paradox of the drug. Avoid in Paget disease, prior skeletal irradiation, hypercalcaemia and unexplained raised alkaline phosphatase.
 - **DENOSUMAB (anti-RANKL) is given 6-monthly; ***IT MUST NEVER SIMPLY BE STOPPED — REBOUND VERTEBRAL FRACTURES OCCUR***, so transition to a bisphosphonate. ROMOSOZUMAB (anti-sclerostin) both builds and blocks resorption, but carries a cardiovascular warning.
@@ -2395,7 +2226,7 @@
 
 ---
 
-### 124. SGLT2 Inhibitors
+### 114. SGLT2 Inhibitors
 
 **PEARL:** ***CANAGLIFLOZIN CARRIES AN FDA WARNING FOR INCREASED FRACTURE RISK*** (and, historically, amputation), an effect linked to altered PTH and 1,25-dihydroxyvitamin D handling and to volume depletion/falls. SGLT2 inhibitors block glucose (and sodium) reabsorption in the **PROXIMAL CONVOLUTED TUBULE**, producing **GLYCOSURIA with 2–4 kg weight loss, lower blood pressure, and — most importantly — ***REDUCTION IN CARDIOVASCULAR EVENTS, HEART FAILURE HOSPITALISATION AND CKD PROGRESSION.***
 
@@ -2403,13 +2234,15 @@
 
 **MUST KNOW:**
 
-- **Adverse effects: ***GENITAL MYCOTIC INFECTIONS AND URINARY TRACT INFECTION (from glycosuria), volume depletion and hypotension, and EUGLYCAEMIC DIABETIC KETOACIDOSIS*** — a diagnostic trap, since the glucose may be near-normal. ***HOLD SGLT2 INHIBITORS BEFORE SURGERY, DURING ACUTE ILLNESS AND WHILE FASTING ("SICK DAY RULES").*** Rare FOURNIER'S GANGRENE.
+- **Adverse effects:** *GENITAL MYCOTIC INFECTIONS AND URINARY TRACT INFECTION (from glycosuria), volume depletion and hypotension, and EUGLYCAEMIC DIABETIC KETOACIDOSIS*** — a diagnostic trap, since the glucose may be near-normal. ***HOLD SGLT2 INHIBITORS BEFORE SURGERY, DURING ACUTE ILLNESS AND WHILE FASTING ("SICK DAY RULES").*** Rare FOURNIER'S GANGRENE.
 - **They do NOT cause hypoglycaemia alone (insulin-independent mechanism) but do when combined with insulin or sulfonylureas.**
-- **Other antidiabetic drug hazards worth pairing: ***PIOGLITAZONE (rosiglitazone) — fluid retention, HEART FAILURE, FRACTURES in women, bladder cancer concern; METFORMIN — GI upset, B12 deficiency, lactic acidosis; SULFONYLUREAS — hypoglycaemia and weight gain; GLP-1 AGONISTS — nausea, pancreatitis concern, MEDULLARY THYROID CARCINOMA warning; DPP-4 INHIBITORS — bullous pemphigoid, joint pain; ACARBOSE/VOGLIBOSE — flatulence, and hypoglycaemia must be treated with GLUCOSE, not sucrose.***
-- **Choice logic in type 2 diabetes: ***METFORMIN first; then add an SGLT2 INHIBITOR or GLP-1 AGONIST if there is atherosclerotic disease, heart failure or CKD — regardless of HbA1c.***
+- **Other antidiabetic drug hazards worth pairing:** *PIOGLITAZONE (rosiglitazone) — fluid retention, HEART FAILURE, FRACTURES in women, bladder cancer concern; METFORMIN — GI upset, B12 deficiency, lactic acidosis; SULFONYLUREAS — hypoglycaemia and weight gain; GLP-1 AGONISTS — nausea, pancreatitis concern, MEDULLARY THYROID CARCINOMA warning; DPP-4 INHIBITORS — bullous pemphigoid, joint pain; ACARBOSE/VOGLIBOSE — flatulence, and hypoglycaemia must be treated with GLUCOSE, not sucrose.***
+- **Choice logic in type 2 diabetes:** *METFORMIN first; then add an SGLT2 INHIBITOR or GLP-1 AGONIST if there is atherosclerotic disease, heart failure or CKD — regardless of HbA1c.***
 - **Empagliflozin and canagliflozin have the strongest cardiovascular outcome data; dapagliflozin and empagliflozin are approved across the heart failure spectrum.**
 
 **EXAM CONNECTION:** Antidiabetic associated with increased fracture risk → **canagliflozin**.
+
+**ALSO KNOW:** **The FDA has also warned of an increased FRACTURE risk with SGLT2 inhibitors** (effects on PTH and 1,25-(OH)₂ vitamin D disturbing bone mineral balance), alongside the genital mycotic and lower urinary tract infections from glycosuria and the **EUGLYCAEMIC DKA** that must prompt stopping the drug before surgery or fasting.
 
 **REMEMBER:** *They dump sugar and sodium — the kidney stops hyperfiltering and the heart stops failing.*
 
@@ -2417,7 +2250,7 @@
 
 ---
 
-### 125. Glucocorticoid Replacement and Equivalence
+### 115. Glucocorticoid Replacement and Equivalence
 
 **PEARL:** **The physiological replacement dose in chronic adrenal insufficiency is ***HYDROCORTISONE 15–25 mg/day (typically 20 mg), given in 2–3 DIVIDED DOSES with HALF OR MORE IN THE MORNING*** to mimic the circadian rhythm — plus ***FLUDROCORTISONE 50–200 µg/day in PRIMARY (Addison) disease***, which is NOT needed in secondary (pituitary) insufficiency.
 
@@ -2439,7 +2272,7 @@
 
 ---
 
-### 126. Insulin Preparations
+### 116. Insulin Preparations
 
 **PEARL:** ***LENTE INSULIN = 70% CRYSTALLINE (Ultralente, long-acting) + 30% AMORPHOUS (Semilente, short-acting) — a 7:3 mixture giving an INTERMEDIATE-acting insulin zinc suspension.*** It is ***NOT the same as NPH (isophane)***, which is insulin complexed with PROTAMINE rather than excess zinc.
 
@@ -2447,8 +2280,8 @@
 
 **MUST KNOW:**
 
-- **Onset/peak/duration: ***RAPID analogues — 5–15 min / 1 h / 3–5 h (given AT the meal). REGULAR (soluble) — 30 min / 2–3 h / 6–8 h (given 30 MIN BEFORE the meal; the ONLY insulin that can be given INTRAVENOUSLY, and hence the one used in DKA). NPH — 2 h / 6–10 h / 12–18 h. GLARGINE/DETEMIR — peakless, ~24 h. DEGLUDEC — >40 h.***
-- **Regimens: ***BASAL-BOLUS (basal analogue plus rapid analogue with meals) is the physiological standard; PREMIXED 30/70 twice daily is cheaper and commonly used in India; INSULIN PUMPS and closed-loop systems for selected patients.***
+- **Onset/peak/duration:** *RAPID analogues — 5–15 min / 1 h / 3–5 h (given AT the meal). REGULAR (soluble) — 30 min / 2–3 h / 6–8 h (given 30 MIN BEFORE the meal; the ONLY insulin that can be given INTRAVENOUSLY, and hence the one used in DKA). NPH — 2 h / 6–10 h / 12–18 h. GLARGINE/DETEMIR — peakless, ~24 h. DEGLUDEC — >40 h.***
+- **Regimens:** *BASAL-BOLUS (basal analogue plus rapid analogue with meals) is the physiological standard; PREMIXED 30/70 twice daily is cheaper and commonly used in India; INSULIN PUMPS and closed-loop systems for selected patients.***
 - ***HYPOGLYCAEMIA IS THE LIMITING TOXICITY*** — teach recognition, the "rule of 15", glucagon for severe episodes, and beware ***HYPOGLYCAEMIA UNAWARENESS*** in long-standing diabetes and with beta-blockers. Also: ***LIPOHYPERTROPHY at repeatedly used injection sites causes erratic absorption — ROTATE SITES***; weight gain; and insulin oedema.
 - **Absorption is fastest from the ***ABDOMEN > arm > thigh > buttock***, and is accelerated by exercise, heat and massage.
 - ***SOMOGYI PHENOMENON (nocturnal hypoglycaemia with rebound morning hyperglycaemia — reduce the evening dose) versus the DAWN PHENOMENON (early-morning growth hormone/cortisol surge — increase or shift the evening basal insulin)*** — a classic examined pair.
@@ -2461,7 +2294,7 @@
 
 ---
 
-### 127. GLP-1 Receptor Agonists
+### 117. GLP-1 Receptor Agonists
 
 **PEARL:** ***LIRAGLUTIDE ACTS BY STIMULATING GLUCOSE-DEPENDENT INSULIN RELEASE*** (a GLP-1 receptor agonist — an INCRETIN MIMETIC, ***NOT an amylin analogue***, which is pramlintide). It is ***INJECTED, NOT ORALLY EFFECTIVE (except the oral semaglutide formulation with an absorption enhancer)***, and is used in ***TYPE 2 DIABETES AND OBESITY ONLY — NOT in type 1 diabetes***, since it requires functioning beta cells.
 
@@ -2469,13 +2302,15 @@
 
 **MUST KNOW:**
 
-- **Adverse effects: ***NAUSEA, VOMITING AND DIARRHOEA (dose-related, improve with slow titration), pancreatitis (rare), gallstones with rapid weight loss, injection-site reactions, and a rodent-derived warning for MEDULLARY THYROID CARCINOMA — CONTRAINDICATED IN PERSONAL/FAMILY HISTORY OF MEDULLARY THYROID CANCER OR MEN2.*** ***DELAYED GASTRIC EMPTYING RAISES ASPIRATION RISK AT ANAESTHESIA — hold before elective surgery.***
-- **Members: ***exenatide, LIRAGLUTIDE, dulaglutide, SEMAGLUTIDE (weekly; oral form available; the most effective for weight loss) and TIRZEPATIDE (a dual GIP/GLP-1 agonist).***
+- **Adverse effects:** *NAUSEA, VOMITING AND DIARRHOEA (dose-related, improve with slow titration), pancreatitis (rare), gallstones with rapid weight loss, injection-site reactions, and a rodent-derived warning for MEDULLARY THYROID CARCINOMA — CONTRAINDICATED IN PERSONAL/FAMILY HISTORY OF MEDULLARY THYROID CANCER OR MEN2.*** ***DELAYED GASTRIC EMPTYING RAISES ASPIRATION RISK AT ANAESTHESIA — hold before elective surgery.***
+- **Members:** *exenatide, LIRAGLUTIDE, dulaglutide, SEMAGLUTIDE (weekly; oral form available; the most effective for weight loss) and TIRZEPATIDE (a dual GIP/GLP-1 agonist).***
 - ***CARDIOVASCULAR AND RENAL OUTCOME BENEFIT (liraglutide, semaglutide, dulaglutide) MAKES THEM A PREFERRED ADD-ON IN TYPE 2 DIABETES WITH ATHEROSCLEROTIC DISEASE OR OBESITY***, alongside SGLT2 inhibitors (which are preferred where heart failure or CKD dominates).
 - **Contrast the DPP-4 INHIBITORS, which raise endogenous incretin levels — weight-neutral, weaker, oral; ***SAXAGLIPTIN uniquely requires DOSE REDUCTION WITH STRONG CYP3A4 INHIBITORS such as KETOCONAZOLE***, since it alone is extensively CYP3A4-metabolised, while LINAGLIPTIN needs no adjustment in renal impairment.
 - **PRAMLINTIDE (an amylin analogue) is given with insulin in type 1 and type 2 diabetes, slows gastric emptying and suppresses glucagon — ***it CAN cause severe hypoglycaemia with insulin.***
 
 **EXAM CONNECTION:** True about liraglutide → **it acts by releasing insulin** (it is not an amylin analogue, not oral, and not for type 1 diabetes); DPP-4 inhibitor needing dose reduction with ketoconazole → **saxagliptin**.
+
+**ALSO KNOW:** **ADA Standards of Care 2026 widened the class further: GLP-1 receptor agonists are now supported in adults with TYPE 1 DIABETES AND A BMI >30 (27.5 in Asian Americans) as an adjunct, and are FIRST-LINE in type 2 diabetes with MASLD and liver fibrosis.** **TIRZEPATIDE (dual GIP/GLP-1) is the most effective of the class for weight loss.**[^2]
 
 **REMEMBER:** *Glucose-dependent insulin release — that is why it works without causing hypoglycaemia.*
 
@@ -2483,7 +2318,7 @@
 
 ---
 
-### 128. Chlorpropamide and Drug-Induced Hyponatraemia
+### 118. Chlorpropamide and Drug-Induced Hyponatraemia
 
 **PEARL:** **Chlorpropamide, a first-generation sulfonylurea, causes DILUTIONAL HYPONATRAEMIA** by **potentiating ADH action on the collecting duct** — an SIADH-like picture. It also causes a **disulfiram-like reaction with alcohol**.
 
@@ -2505,21 +2340,7 @@
 
 ---
 
-### 129. SGLT2 Inhibitors — Adverse Effects
-
-**PEARL:** Main ADRs are **genital mycotic infections and lower urinary tract infections** from glycosuria. FDA has also warned of an **increased fracture risk**, with effects on **PTH and 1,25-(OH)2 vitamin D** disturbing bone mineral balance.
-
-**MUST KNOW:**
-
-- **Euglycemic diabetic ketoacidosis** — the high-yield emergency; stop before surgery/fasting.
-- Rare but classic: **Fournier's gangrene**, volume depletion/hypotension.
-- Benefits: proven cardiovascular and **renal** protection, weight and BP reduction.
-
-**REMEMBER:** *Sugar in urine = yeast + UTI; watch euglycemic DKA and bones.*
-
----
-
-### 130. Linagliptin in Renal Failure
+### 119. Linagliptin in Renal Failure
 
 **PEARL:** **Linagliptin needs no dose adjustment in renal impairment** — it is the DPP-4 inhibitor with predominant **biliary/faecal excretion**.
 
@@ -2529,7 +2350,7 @@
 
 ---
 
-### 131. 5α-Reductase Inhibitors
+### 120. 5α-Reductase Inhibitors
 
 **PEARL:** Finasteride/dutasteride competitively inhibit **5α-reductase**, which converts testosterone to the more potent **DHT** → ↓DHT, **↓PSA (roughly halved)**, ↓prostate volume — while **plasma testosterone and LH remain unchanged**.
 
@@ -2543,7 +2364,7 @@
 
 ---
 
-### 132. Teriparatide
+### 121. Teriparatide
 
 **PEARL:** Recombinant **PTH (1-34) analogue** — the **anabolic** osteoporosis drug; **intermittent** dosing stimulates **osteoblasts**, raising BMD and cutting fracture risk in postmenopausal women.
 
@@ -2559,7 +2380,7 @@
 
 ---
 
-### 133. Bisphosphonates
+### 122. Bisphosphonates
 
 **PEARL:** **Pyrophosphate analogues** that bind hydroxyapatite and directly inhibit **osteoclasts** — causing osteoclast apoptosis and preventing hydroxyapatite dissolution.
 
@@ -2573,7 +2394,7 @@
 
 ---
 
-### 134. Hydrocortisone Replacement in Chronic Adrenal Insufficiency
+### 123. Hydrocortisone Replacement in Chronic Adrenal Insufficiency
 
 **PEARL:** Chronic (non-crisis) adrenal insufficiency needs **oral hydrocortisone 15–25 mg/day**, typically **20 mg in 2–3 divided doses (10 + 5 + 5)**, with **half the daily dose in the morning** to mimic the circadian rhythm.
 
@@ -2587,7 +2408,7 @@
 
 ---
 
-### 135. Metyrapone
+### 124. Metyrapone
 
 **PEARL:** Metyrapone **reversibly inhibits steroid 11β-hydroxylase**, blocking cortisol synthesis.
 
@@ -2601,7 +2422,7 @@
 
 ---
 
-### 136. Letrozole
+### 125. Letrozole
 
 **PEARL:** A **non-steroidal, reversible aromatase inhibitor** — blocks conversion of androgens to estrogen. Oral bioavailability ~100%, **t½ ≈ 41 hours**.
 
@@ -2617,21 +2438,7 @@
 
 ---
 
-### 137. Clomiphene
-
-**PEARL:** Clomiphene is a mixture of **enclomiphene and zuclomiphene** — it blocks the **negative feedback of estrogen on the hypothalamus**, causing a surge of **FSH and LH** and hence ovulation; continued FSH drive commonly causes **multiple follicular development**.
-
-**MUST KNOW:**
-
-- Consequence: **multiple pregnancy (~8%)** and risk of ovarian hyperstimulation.
-- Its **anti-estrogenic effect on cervical mucus and endometrium** is why pregnancy rates lag ovulation rates.
-- Requires an intact HPO axis — useless in hypogonadotropic hypogonadism (give gonadotropins) or premature ovarian failure.
-
-**REMEMBER:** *Clomiphene fools the hypothalamus into thinking estrogen is low.*
-
----
-
-### 138. Tocolytics — Best Outcomes
+### 126. Tocolytics — Best Outcomes
 
 **PEARL:** Meta-analysis favours **calcium channel blockers (nifedipine)** and **atosiban** for the best maternal and fetal outcomes among tocolytics.
 
@@ -2649,7 +2456,7 @@
 
 ## Antibacterial Agents
 
-### 139. Antimicrobial Resistance and Combination Therapy
+### 127. Antimicrobial Resistance and Combination Therapy
 
 **PEARL:** ***BETA-LACTAMASES CAUSE RESISTANCE BY DEGRADING (HYDROLYSING) THE BETA-LACTAM RING*** — not by altering the target. The four mechanisms of beta-lactam resistance are: ***(1) ENZYMATIC INACTIVATION by beta-lactamases; (2) MODIFICATION OF THE TARGET PENICILLIN-BINDING PROTEINS (MRSA's mecA/PBP2a, penicillin-resistant pneumococcus); (3) IMPAIRED PENETRATION (porin loss in gram-negatives); (4) EFFLUX PUMPS.*** Antimicrobial COMBINATIONS are standard in **tuberculosis, malaria, HIV and polymicrobial intra-abdominal infection — but ***GONORRHOEA IS NOW TREATED WITH SINGLE-AGENT CEFTRIAXONE*** (500 mg IM), with doxycycline added only as presumptive treatment for chlamydia.
 
@@ -2657,9 +2464,9 @@
 
 **MUST KNOW:**
 
-- **Fluoroquinolone elimination determines dose adjustment: ***HEPATICALLY metabolised — MOXIFLOXACIN, PEFLOXACIN and trovafloxacin (AVOID PEFLOXACIN IN LIVER DISEASE; moxifloxacin needs NO renal adjustment and is therefore useless for UTI); RENALLY excreted — CIPROFLOXACIN, LEVOFLOXACIN, OFLOXACIN, NORFLOXACIN and lomefloxacin.***
-- **Quinolone class toxicities: ***TENDINITIS AND TENDON RUPTURE (especially with steroids and in the elderly), QT prolongation, peripheral neuropathy, CNS effects and seizures, AORTIC ANEURYSM/DISSECTION, dysglycaemia, C. DIFFICILE colitis, and cartilage concerns in children (relative contraindication).***
-- **Beta-lactamase inhibitors extend the spectrum: ***CLAVULANIC ACID, SULBACTAM, TAZOBACTAM, and the newer AVIBACTAM, VABORBACTAM and RELEBACTAM (active against carbapenemases).*** ***ESBL producers are treated with CARBAPENEMS; carbapenem-resistant organisms need colistin, ceftazidime-avibactam or newer agents.***
+- **Fluoroquinolone elimination determines dose adjustment:** *HEPATICALLY metabolised — MOXIFLOXACIN, PEFLOXACIN and trovafloxacin (AVOID PEFLOXACIN IN LIVER DISEASE; moxifloxacin needs NO renal adjustment and is therefore useless for UTI); RENALLY excreted — CIPROFLOXACIN, LEVOFLOXACIN, OFLOXACIN, NORFLOXACIN and lomefloxacin.***
+- **Quinolone class toxicities:** *TENDINITIS AND TENDON RUPTURE (especially with steroids and in the elderly), QT prolongation, peripheral neuropathy, CNS effects and seizures, AORTIC ANEURYSM/DISSECTION, dysglycaemia, C. DIFFICILE colitis, and cartilage concerns in children (relative contraindication).***
+- **Beta-lactamase inhibitors extend the spectrum:** *CLAVULANIC ACID, SULBACTAM, TAZOBACTAM, and the newer AVIBACTAM, VABORBACTAM and RELEBACTAM (active against carbapenemases).*** ***ESBL producers are treated with CARBAPENEMS; carbapenem-resistant organisms need colistin, ceftazidime-avibactam or newer agents.***
 - ***DOXYCYCLINE IS THE DRUG OF CHOICE FOR SCRUB TYPHUS*** (and for rickettsial infections generally), with azithromycin the alternative in pregnancy and children — a favourite Indian exam question in the "acute febrile illness with an ESCHAR" stem.
 - **Antimicrobial stewardship principles: culture before antibiotics, de-escalate once sensitivities are known, use the shortest effective course, and prefer the narrowest agent; ***SCHEDULE H1 IN INDIA EXISTS FOR EXACTLY THIS PURPOSE.***
 
@@ -2671,7 +2478,7 @@
 
 ---
 
-### 140. Linezolid and the Oxazolidinones
+### 128. Linezolid and the Oxazolidinones
 
 **PEARL:** ***LINEZOLID MUST NOT BE USED EMPIRICALLY IN POST-CHEMOTHERAPY FEBRILE NEUTROPENIA*** — it causes **MYELOSUPPRESSION (especially THROMBOCYTOPENIA at 7–10 days, plus anaemia and leucopenia)** and would deepen the existing marrow failure. It is an **oxazolidinone that binds the 50S subunit (P site) and blocks initiation of protein synthesis**, active almost exclusively against ***GRAM-POSITIVE organisms — MRSA, VRE, penicillin-resistant pneumococci*** — with **essentially 100% ORAL BIOAVAILABILITY.** (TEDIZOLID is the newer congener with the same spectrum, poor activity against gram-negatives and anaerobes.)
 
@@ -2682,10 +2489,12 @@
 - **Empirical therapy for FEBRILE NEUTROPENIA is an ***ANTIPSEUDOMONAL BETA-LACTAM — PIPERACILLIN-TAZOBACTAM, CEFEPIME or a CARBAPENEM (meropenem) — within 1 HOUR***; glycopeptide cover (vancomycin) is added for suspected line infection, skin/soft tissue infection, haemodynamic instability or known MRSA colonisation.
 - **Its excellent oral bioavailability and lung penetration make linezolid useful for ***MRSA PNEUMONIA and skin/soft-tissue infection, and it is a core drug in MDR/XDR TUBERCULOSIS regimens (BPaL)*** — where neuropathy and marrow toxicity are dose-limiting.
 - **Other antibiotics with characteristic haematological toxicity: ***CHLORAMPHENICOL (dose-related marrow suppression AND idiosyncratic APLASTIC ANAEMIA; GREY BABY SYNDROME in neonates), COTRIMOXAZOLE (megaloblastic change, neutropenia), and beta-lactams at high dose (neutropenia).***
-- **Gram-positive alternatives: ***VANCOMYCIN (nephro/ototoxicity, red-man syndrome — an infusion-rate histamine reaction, not allergy), DAPTOMYCIN (INACTIVATED BY PULMONARY SURFACTANT — never for pneumonia; causes myopathy, monitor CK), TIGECYCLINE, and CEFTAROLINE (the anti-MRSA cephalosporin).***
+- **Gram-positive alternatives:** *VANCOMYCIN (nephro/ototoxicity, red-man syndrome — an infusion-rate histamine reaction, not allergy), DAPTOMYCIN (INACTIVATED BY PULMONARY SURFACTANT — never for pneumonia; causes myopathy, monitor CK), TIGECYCLINE, and CEFTAROLINE (the anti-MRSA cephalosporin).***
 - ***VANCOMYCIN-RESISTANT ENTEROCOCCUS: linezolid and daptomycin are the mainstays.***
 
 **EXAM CONNECTION:** Antibiotic NOT to use empirically in post-chemotherapy neutropenia → **linezolid**.
+
+**ALSO KNOW:** **Linezolid binds the 50S subunit at the P site of the 23S rRNA and PREVENTS FORMATION OF THE 70S INITIATION COMPLEX** — the very first step of translation, whereas macrolides, chloramphenicol and clindamycin act during ELONGATION. That is why there is **NO CROSS-RESISTANCE** with any other protein-synthesis inhibitor. **Spectrum: Gram-positives only — MRSA, VRE, penicillin-resistant pneumococcus — plus MDR TUBERCULOSIS (a WHO Group A drug) and *Nocardia*; oral bioavailability ~100%, so oral and IV doses are identical.** **MYELOSUPPRESSION — usually THROMBOCYTOPENIA at 7–10 days, reversible on stopping** — is the dose-limiting toxicity. **TEDIZOLID** is the newer once-daily oxazolidinone with less myelosuppression. **Methicillin resistance is via mecA → PBP2a, not beta-lactamase** — hence all beta-lactams fail except **CEFTAROLINE**; other MRSA options are vancomycin, **daptomycin (INACTIVATED BY PULMONARY SURFACTANT — never for pneumonia)**, teicoplanin, tigecycline, cotrimoxazole and clindamycin.
 
 **REMEMBER:** *It poisons bacterial and mitochondrial ribosomes alike — marrow, nerve and optic nerve pay the price.*
 
@@ -2693,7 +2502,7 @@
 
 ---
 
-### 141. Antibiotic Pharmacodynamics
+### 129. Antibiotic Pharmacodynamics
 
 **PEARL:** ***TIME-DEPENDENT KILLING — the effect depends on the TIME the concentration stays above the MIC (T>MIC): BETA-LACTAMS (penicillins, cephalosporins, carbapenems), MACROLIDES, clindamycin, linezolid and VANCOMYCIN. Give them FREQUENTLY or by EXTENDED/CONTINUOUS INFUSION.*** ***CONCENTRATION-DEPENDENT KILLING — the effect depends on the PEAK:MIC ratio: AMINOGLYCOSIDES and FLUOROQUINOLONES (AUC:MIC). Give them as LARGE, INFREQUENT DOSES.***
 
@@ -2702,10 +2511,10 @@
 **MUST KNOW:**
 
 - ***MONITOR AMINOGLYCOSIDE TROUGHS (for toxicity) AND VANCOMYCIN AUC/TROUGH (for both efficacy and nephrotoxicity).***
-- **Bactericidal versus bacteriostatic: ***CIDAL — beta-lactams, aminoglycosides, fluoroquinolones, vancomycin, metronidazole, rifampicin, isoniazid, daptomycin. STATIC — tetracyclines, macrolides (mostly), clindamycin, sulfonamides, chloramphenicol, linezolid, ethambutol.*** ***BACTERICIDAL AGENTS ARE PREFERRED IN ENDOCARDITIS, MENINGITIS, OSTEOMYELITIS AND NEUTROPENIA*** — sites and hosts where the immune system cannot finish the job.
+- **Bactericidal versus bacteriostatic:** *CIDAL — beta-lactams, aminoglycosides, fluoroquinolones, vancomycin, metronidazole, rifampicin, isoniazid, daptomycin. STATIC — tetracyclines, macrolides (mostly), clindamycin, sulfonamides, chloramphenicol, linezolid, ethambutol.*** ***BACTERICIDAL AGENTS ARE PREFERRED IN ENDOCARDITIS, MENINGITIS, OSTEOMYELITIS AND NEUTROPENIA*** — sites and hosts where the immune system cannot finish the job.
 - ***HETERORESISTANCE*** — a subpopulation is resistant while the population as a whole tests SUSCEPTIBLE, because the resistant subset lies below the assay detection limit; described in ***STAPHYLOCOCCI, *M. TUBERCULOSIS*, *Candida albicans* and *Cryptococcus* (fluconazole)*** and a recognised cause of unexplained treatment failure. The viral equivalent is the resistant ***QUASI-SPECIES*** that defeats antiretroviral therapy.
-- **Other resistance concepts: ***INTRINSIC vs ACQUIRED, CROSS-RESISTANCE (within a class), MULTIDRUG resistance, TOLERANCE (killed slowly but still inhibited), PERSISTERS (metabolically dormant survivors — the basis of relapse), and BIOFILM-associated resistance on prosthetic material.***
-- **Malaria chemoprophylaxis (a directly asked application): ***travel <6 WEEKS — DOXYCYCLINE 100 mg daily, started 2 DAYS before and continued 4 WEEKS after; travel >6 WEEKS — MEFLOQUINE 250 mg weekly, started 2 WEEKS before and continued 4 weeks after*** (mefloquine is avoided in psychiatric illness and epilepsy). ***PRIMAQUINE/tafenoquine is needed for radical cure of the liver hypnozoites of *P. vivax* and *P. ovale* — check G6PD first.***
+- **Other resistance concepts:** *INTRINSIC vs ACQUIRED, CROSS-RESISTANCE (within a class), MULTIDRUG resistance, TOLERANCE (killed slowly but still inhibited), PERSISTERS (metabolically dormant survivors — the basis of relapse), and BIOFILM-associated resistance on prosthetic material.***
+- **Malaria chemoprophylaxis (a directly asked application):** *travel <6 WEEKS — DOXYCYCLINE 100 mg daily, started 2 DAYS before and continued 4 WEEKS after; travel >6 WEEKS — MEFLOQUINE 250 mg weekly, started 2 WEEKS before and continued 4 weeks after*** (mefloquine is avoided in psychiatric illness and epilepsy). ***PRIMAQUINE/tafenoquine is needed for radical cure of the liver hypnozoites of *P. vivax* and *P. ovale* — check G6PD first.***
 
 **EXAM CONNECTION:** Graph showing time-dependent killing → **penicillin**; subset resistance undetected on testing → **heteroresistance**; prophylaxis for a 5-week trip to a malaria-endemic area → **doxycycline**.
 
@@ -2720,29 +2529,7 @@
 
 ---
 
-### 142. Linezolid
-
-**PEARL:** **Linezolid binds the 50S subunit (at the P site of the 23S rRNA) and prevents formation of the initiation complex** — a uniquely early step, which is why there is **no cross-resistance** with any other protein-synthesis inhibitor.
-
-**UNDERSTAND:** Most 50S drugs (macrolides, chloramphenicol, clindamycin) act during **elongation**, after translation has begun. Linezolid blocks the **very first step — assembly of the 70S initiation complex** — so ribosomal modifications that confer macrolide resistance do not protect the organism. That single mechanistic difference explains its role as a reserve drug for **MRSA and VRE**.
-
-**MUST KNOW:**
-
-- Spectrum: **Gram-positives only** — **MRSA, VRE, penicillin-resistant pneumococcus**, plus **MDR tuberculosis** (a Group A drug in the current WHO regimens) and **Nocardia**. **Excellent oral bioavailability (~100%)** — oral and IV doses are identical, allowing early switch.
-- Adverse effects: **thrombocytopenia is the commonest** (dose- and duration-related, >2 weeks), myelosuppression, **peripheral and optic neuropathy** with prolonged use, **lactic acidosis**, and **serotonin syndrome** — linezolid is a **weak MAO inhibitor**, so beware SSRIs, tramadol, pethidine and tyramine-rich foods.
-- Resistance in *S. aureus* to methicillin is via **mecA → PBP2a** (an altered penicillin-binding protein), not beta-lactamase — which is why all beta-lactams fail, but **ceftaroline** (a 5th-generation cephalosporin with PBP2a affinity) works.
-- Other MRSA options: vancomycin (check trough/AUC), daptomycin (**inactivated by pulmonary surfactant — never for pneumonia**), teicoplanin, tigecycline, co-trimoxazole and clindamycin for skin infections.
-- **Tedizolid** is the newer oxazolidinone — once daily, less myelosuppression.
-
-**EXAM CONNECTION:** Mechanism matching (50S, initiation complex) and the adverse-effect question (**thrombocytopenia**, serotonin syndrome).
-
-**REMEMBER:** *Linezolid stops translation before it starts — and drops the platelets.*
-
-`Q10846`
-
----
-
-### 143. Antimicrobial Choices — Cotrimoxazole and Tafenoquine
+### 130. Antimicrobial Choices — Cotrimoxazole and Tafenoquine
 
 **PEARL:** **Cotrimoxazole is NOT used for chancroid** (treat with **ceftriaxone, azithromycin, erythromycin or ciprofloxacin**). It IS used for **urinary tract infection, prostatitis, nocardiosis and Pneumocystis**.
 
@@ -2764,7 +2551,7 @@
 
 ---
 
-### 144. Ceftriaxone for Gonorrhea
+### 131. Ceftriaxone for Gonorrhea
 
 **PEARL:** **Single dose ceftriaxone 500 mg IM** is the current treatment for gonorrhea. Dual therapy with azithromycin is **no longer routinely recommended**.
 
@@ -2774,7 +2561,7 @@
 
 ---
 
-### 145. Doxycycline for Scrub Typhus
+### 132. Doxycycline for Scrub Typhus
 
 **PEARL:** **Doxycycline** is the drug of choice for scrub typhus (*Orientia tsutsugamushi*).
 
@@ -2784,7 +2571,7 @@
 
 ---
 
-### 146. Chloramphenicol — Gray Baby Syndrome
+### 133. Chloramphenicol — Gray Baby Syndrome
 
 **PEARL:** Occurs in neonates (especially **premature**) given high doses (~100 mg/kg), often prophylactically.
 
@@ -2796,30 +2583,14 @@
 
 ---
 
-### 147. Linezolid and Tedizolid
-
-**PEARL:**
-
-- **Linezolid** causes **myelosuppression** — most commonly **thrombocytopenia**, appearing **7–10 days** after starting, and reversible on stopping.
-- **Tedizolid** is a newer oxazolidinone, active against **gram-positives** only (poor against gram-negatives and anaerobes), binding the **P site of the 50S** subunit to block protein synthesis.
-
-**MUST KNOW:**
-
-- Other linezolid ADRs: peripheral and **optic neuropathy** (prolonged use), lactic acidosis, and **serotonin syndrome** (it is a weak MAO inhibitor — caution with SSRIs).
-- Excellent oral bioavailability (~100%) — IV to oral switch without dose change; covers MRSA and VRE.
-
-**REMEMBER:** *Linezolid: platelets down at day 7–10, MAOI effect, 100% oral.*
-
----
-
-### 148. Quinolone Metabolism
+### 134. Quinolone Metabolism
 
 **PEARL:**
 
 - **Hepatic:** moxifloxacin, pefloxacin, trovafloxacin (withdrawn for hepatotoxicity) → avoid in liver disease; **not** useful for UTI.
 - **Renal:** ciprofloxacin, levofloxacin, norfloxacin, lomefloxacin, ofloxacin → dose-adjust in renal failure.
 
-**MUST KNOW:** Class ADRs: **tendinitis/tendon rupture** (Achilles, elderly + steroids), **QT prolongation** (moxifloxacin most), aortic aneurysm/dissection, peripheral neuropathy, dysglycemia, cartilage concerns in children.
+**MUST KNOW: **Class ADRs:** tendinitis/tendon rupture** (Achilles, elderly + steroids), **QT prolongation** (moxifloxacin most), aortic aneurysm/dissection, peripheral neuropathy, dysglycemia, cartilage concerns in children.
 
 **REMEMBER:** *Moxifloxacin = liver = no UTI; the rest = kidney.*
 
@@ -2829,7 +2600,7 @@
 
 ## Antitubercular, Antifungal, Antiviral and Antiparasitic Agents
 
-### 149. Antiretroviral Toxicities
+### 135. Antiretroviral Toxicities
 
 **PEARL:** **A patient on antiretroviral therapy who develops ***NEPHROLITHIASIS plus CENTRAL OBESITY, HYPERLIPIDAEMIA AND INSULIN RESISTANCE has PROTEASE-INHIBITOR toxicity — classically INDINAVIR***, whose crystalluria causes stones and whose class effect is **HIV/HAART-ASSOCIATED LIPODYSTROPHY**, typically after 6–12 months.
 
@@ -2837,10 +2608,10 @@
 
 **MUST KNOW:**
 
-- **Class-defining toxicities: ***ZIDOVUDINE (NRTI) — ANAEMIA AND MYELOSUPPRESSION, myopathy. STAVUDINE/DIDANOSINE — LACTIC ACIDOSIS AND PERIPHERAL NEUROPATHY from MITOCHONDRIAL TOXICITY, pancreatitis, lipoatrophy. TENOFOVIR (TDF) — RENAL TUBULAR DYSFUNCTION (FANCONI SYNDROME) AND REDUCED BONE DENSITY. ABACAVIR — HYPERSENSITIVITY REACTION, requiring HLA-B*57:01 TESTING BEFORE USE. EFAVIRENZ (NNRTI) — VIVID DREAMS, dizziness, depression and false-positive cannabis screens. NEVIRAPINE — HEPATOTOXICITY AND STEVENS–JOHNSON SYNDROME. PROTEASE INHIBITORS — lipodystrophy, dyslipidaemia, diabetes, and MANY CYP3A4 INTERACTIONS (ritonavir is used deliberately as a "booster"). INTEGRASE INHIBITORS (dolutegravir) — weight gain, insomnia; now first-line worldwide.***
+- **Class-defining toxicities:** *ZIDOVUDINE (NRTI) — ANAEMIA AND MYELOSUPPRESSION, myopathy. STAVUDINE/DIDANOSINE — LACTIC ACIDOSIS AND PERIPHERAL NEUROPATHY from MITOCHONDRIAL TOXICITY, pancreatitis, lipoatrophy. TENOFOVIR (TDF) — RENAL TUBULAR DYSFUNCTION (FANCONI SYNDROME) AND REDUCED BONE DENSITY. ABACAVIR — HYPERSENSITIVITY REACTION, requiring HLA-B*57:01 TESTING BEFORE USE. EFAVIRENZ (NNRTI) — VIVID DREAMS, dizziness, depression and false-positive cannabis screens. NEVIRAPINE — HEPATOTOXICITY AND STEVENS–JOHNSON SYNDROME. PROTEASE INHIBITORS — lipodystrophy, dyslipidaemia, diabetes, and MANY CYP3A4 INTERACTIONS (ritonavir is used deliberately as a "booster"). INTEGRASE INHIBITORS (dolutegravir) — weight gain, insomnia; now first-line worldwide.***
 - **Current first-line ART in most programmes is ***TENOFOVIR + LAMIVUDINE + DOLUTEGRAVIR (TLD)*** — fewer toxicities, high barrier to resistance and a single daily tablet.
 - ***IMMUNE RECONSTITUTION INFLAMMATORY SYNDROME (IRIS)*** occurs weeks after starting ART as CD4 counts recover, most dangerously with tuberculosis and cryptococcal meningitis — which is why ***ART IS DELAYED (2–8 WEEKS) AFTER STARTING TREATMENT FOR THOSE INFECTIONS, AND LONGER IN CRYPTOCOCCAL MENINGITIS.***
-- **Drug interactions worth knowing: ***RIFAMPICIN induces CYP3A4 and slashes protease-inhibitor levels — use RIFABUTIN or adjusted dolutegravir dosing***; and PPIs impair atazanavir absorption.
+- **Drug interactions worth knowing:** *RIFAMPICIN induces CYP3A4 and slashes protease-inhibitor levels — use RIFABUTIN or adjusted dolutegravir dosing***; and PPIs impair atazanavir absorption.
 - **Cotrimoxazole prophylaxis (for *Pneumocystis* and toxoplasmosis) is given at CD4 <200 and to all HIV-exposed infants.**
 
 **EXAM CONNECTION:** Nephrolithiasis with central obesity, hyperlipidaemia and insulin resistance on ART → **indinavir**.
@@ -2851,7 +2622,7 @@
 
 ---
 
-### 150. Ethionamide and Antitubercular Hypothyroidism
+### 136. Ethionamide and Antitubercular Hypothyroidism
 
 **PEARL:** **ETHIONAMIDE (and PAS) cause HYPOTHYROIDISM with goitre** in patients on MDR-TB regimens. Treat with **thyroxine replacement — do NOT change the TB regimen**; thyroid function recovers within ~2 months of completing therapy.
 
@@ -2871,7 +2642,7 @@
 
 ---
 
-### 151. Tipranavir and Intracranial Haemorrhage
+### 137. Tipranavir and Intracranial Haemorrhage
 
 **PEARL:** **TIPRANAVIR** — a protease inhibitor reserved for **multi-PI-resistant HIV** — carries a black-box warning for **INTRACRANIAL HAEMORRHAGE and hepatotoxicity**. Avoid it in **bleeding diatheses such as haemophilia** and in head trauma.
 
@@ -2895,7 +2666,7 @@
 
 ---
 
-### 152. Antitubercular Drug Toxicities
+### 138. Antitubercular Drug Toxicities
 
 **PEARL:** **ETHAMBUTOL causes dose-dependent optic neuritis** — reduced acuity and **loss of red–green discrimination**, with a **relative afferent pupillary defect (Marcus Gunn pupil)**. Check **visual acuity and colour vision before and during therapy**.
 
@@ -2909,7 +2680,7 @@
 - **Rifampicin is avoided with HIV protease inhibitors** — it induces CYP3A4 and causes ART failure. **Use RIFABUTIN**, which is the weakest inducer: **rifampicin > rifapentine > rifabutin**.
 - Enzyme inducers (**CRAP GPS**): Carbamazepine, Rifampicin, Alcohol (chronic), Phenytoin, Griseofulvin, Phenobarbitone, Sulfonylureas. Inhibitors (**RED VICK**): Ritonavir, Erythromycin, Diltiazem, Verapamil/Valproate, Itraconazole, Clarithromycin/Cimetidine, Ketoconazole.
 
-**EXAM CONNECTION:** Two questions from one drug list: **optic neuritis → ethambutol**, and **avoid with protease inhibitors → rifampicin**.
+**EXAM CONNECTION: **Two questions from one drug list:** optic neuritis → ethambutol**, and **avoid with protease inhibitors → rifampicin**.
 
 **REMEMBER:** *Ethambutol takes the eyes; rifampicin takes the other drugs.*
 
@@ -2917,7 +2688,7 @@
 
 ---
 
-### 153. Antifungal Mechanisms
+### 139. Antifungal Mechanisms
 
 **PEARL:** **Azoles (imidazoles and triazoles) inhibit ERGOSTEROL SYNTHESIS** by blocking the fungal **CYP450 enzyme 14-α-sterol demethylase**, preventing conversion of lanosterol to ergosterol.
 
@@ -2942,7 +2713,7 @@
 
 ---
 
-### 154. Rifampicin
+### 140. Rifampicin
 
 **PEARL:** Rifampicin binds the **β subunit of DNA-dependent RNA polymerase (rpoB)** → suppresses RNA chain formation.
 
@@ -2952,17 +2723,17 @@
 
 ---
 
-### 155. Isoniazid
+### 141. Isoniazid
 
 **PEARL:** INH is a prodrug activated by mycobacterial **KatG**; its reactive metabolite forms an adduct with **NAD** that inhibits **InhA and KasA**, blocking **mycolic acid** synthesis.
 
-**MUST KNOW:** Resistance: **katG** (high-level) and **inhA** (low-level, cross-resistance with ethionamide). ADRs: **peripheral neuropathy** (pyridoxine-responsive, worse in slow acetylators), hepatitis (age-related), lupus-like syndrome, and it is a **CYP inhibitor**.
+**MUST KNOW: **Resistance:** katG** (high-level) and **inhA** (low-level, cross-resistance with ethionamide). ADRs: **peripheral neuropathy** (pyridoxine-responsive, worse in slow acetylators), hepatitis (age-related), lupus-like syndrome, and it is a **CYP inhibitor**.
 
 **REMEMBER:** *KatG activates it, InhA/KasA are the targets, mycolic acid the casualty.*
 
 ---
 
-### 156. Ethambutol
+### 142. Ethambutol
 
 **PEARL:** Inhibits **arabinosyl transferase III** → ↓arabinogalactan → defective mycobacterial cell wall. Key toxicity: **optic (retrobulbar) neuritis** with reduced acuity and **loss of red–green discrimination**.
 
@@ -2972,27 +2743,27 @@
 
 ---
 
-### 157. Pyrazinamide
+### 143. Pyrazinamide
 
 **PEARL:** A **prodrug** converted by pyrazinamidase (**pncA**) to **pyrazinoic acid**, which acidifies the intracellular environment and **collapses the proton motive force** — killing dormant intracellular bacilli in acidic caseous foci.
 
-**MUST KNOW:** ADRs: **hyperuricemia/gout** (inhibits urate excretion) and **hepatotoxicity** (the most hepatotoxic first-line drug). Its sterilizing action is why short-course therapy is 6 months.
+**MUST KNOW: **ADRs:** hyperuricemia/gout** (inhibits urate excretion) and **hepatotoxicity** (the most hepatotoxic first-line drug). Its sterilizing action is why short-course therapy is 6 months.
 
 **REMEMBER:** *PZA works only in acid, gives hyperuricemia and hepatitis.*
 
 ---
 
-### 158. Dapsone
+### 144. Dapsone
 
 **PEARL:** Dapsone inhibits **folic acid synthesis** (dihydropteroate synthase — a sulfone acting like a sulfonamide).
 
-**MUST KNOW:** ADRs: **hemolysis (dose-related, severe in G6PD deficiency)**, **methemoglobinemia**, agranulocytosis, and the **dapsone hypersensitivity syndrome**. Uses beyond leprosy: dermatitis herpetiformis, PCP prophylaxis, linear IgA disease.
+**MUST KNOW: **ADRs:** hemolysis (dose-related, severe in G6PD deficiency)**, **methemoglobinemia**, agranulocytosis, and the **dapsone hypersensitivity syndrome**. Uses beyond leprosy: dermatitis herpetiformis, PCP prophylaxis, linear IgA disease.
 
 **REMEMBER:** *Dapsone = folate blocker → hemolysis + methemoglobinemia; check G6PD.*
 
 ---
 
-### 159. Flucytosine
+### 145. Flucytosine
 
 **PEARL:** Flucytosine inhibits **fungal DNA synthesis** (converted by cytosine deaminase into 5-FU → thymidylate synthase inhibition). Clinically useful in the **"3 C's": Cryptococcus, Candida, Chromoblastomycosis**.
 
@@ -3002,7 +2773,7 @@
 
 ---
 
-### 160. Indinavir
+### 146. Indinavir
 
 **PEARL:** Indinavir, a protease inhibitor, classically causes **nephrolithiasis (crystalluria)**, plus the class effects — **central obesity, hyperlipidemia, insulin resistance** (lipodystrophy syndrome).
 
@@ -3012,7 +2783,7 @@
 
 ---
 
-### 161. Favipiravir
+### 147. Favipiravir
 
 **PEARL:** Favipiravir (**viral RNA polymerase inhibitor**) was the first **oral** drug approved in India under restricted emergency use for **mild-to-moderate COVID-19** — **not** for severe disease.
 
@@ -3020,7 +2791,7 @@
 
 ---
 
-### 162. Bebtelovimab
+### 148. Bebtelovimab
 
 **PEARL:** A monoclonal antibody for COVID-19 that binds the **spike protein**, reducing hospitalization/death — notable because it **retains activity against the Omicron variant** (unlike earlier mAb cocktails).
 
@@ -3034,7 +2805,7 @@
 
 ## Anticancer Drugs and Immunosuppressants
 
-### 163. Thalidomide
+### 149. Thalidomide
 
 **PEARL:** **Thalidomide is ***NOT an antimetabolite*** — it is an IMMUNOMODULATORY AND ANTIANGIOGENIC agent that inhibits **TNF-alpha and IL-6, blocks NF-κB signalling, reduces angiogenesis and enhances T-cell IL-2 and interferon-gamma production.** It is used for ***ERYTHEMA NODOSUM LEPROSUM (type 2 lepra reaction) and for RELAPSED/REFRACTORY MULTIPLE MYELOMA***, and is ***SEVERELY TERATOGENIC (PHOCOMELIA/dysmelia).***
 
@@ -3056,7 +2827,7 @@
 
 ---
 
-### 164. Biological Immunosuppressants
+### 150. Biological Immunosuppressants
 
 **PEARL:** ***BASILIXIMAB IS AN ANTI-CD25 MONOCLONAL ANTIBODY — AN IL-2 RECEPTOR ANTAGONIST*** used for **INDUCTION at transplantation to prevent acute rejection**, with a plasma half-life of about a week; its risks are anaphylaxis and opportunistic infection.
 
@@ -3064,9 +2835,9 @@
 
 **MUST KNOW:**
 
-- **Match the biologic to its target: ***BASILIXIMAB — CD25/IL-2R. MUROMONAB (OKT3) — CD3 (obsolete; caused cytokine storm). RITUXIMAB — CD20 (B cells). ANTI-THYMOCYTE GLOBULIN — polyclonal lymphocyte depletion. ANAKINRA — IL-1 receptor antagonist. TOCILIZUMAB — IL-6 receptor. INFLIXIMAB/adalimumab/etanercept — TNF-alpha. USTEKINUMAB — IL-12/23. SECUKINUMAB — IL-17. VEDOLIZUMAB — alpha-4-beta-7 integrin (gut-selective). NATALIZUMAB — alpha-4 integrin (risk of PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY with JC virus). ABATACEPT — CTLA4-Ig (costimulation blockade). ECULIZUMAB — C5 (needs MENINGOCOCCAL VACCINATION). OMALIZUMAB — IgE. DENOSUMAB — RANKL.***
-- **Small-molecule immunosuppressants: ***CICLOSPORIN and TACROLIMUS — CALCINEURIN inhibitors blocking IL-2 TRANSCRIPTION (nephrotoxicity, hypertension, tremor; ciclosporin causes GUM HYPERTROPHY and HIRSUTISM, tacrolimus causes DIABETES and alopecia). SIROLIMUS/EVEROLIMUS — mTOR inhibitors (impaired wound healing, hyperlipidaemia, pneumonitis). MYCOPHENOLATE — IMPDH inhibitor, lymphocyte-selective (GI toxicity, TERATOGENIC). AZATHIOPRINE — purine antimetabolite (TPMT testing; fatal interaction with allopurinol).***
-- **Naming convention worth knowing: ***"-ximab" chimeric, "-zumab" humanised, "-umab" fully human, "-cept" receptor fusion protein.***
+- **Match the biologic to its target:** *BASILIXIMAB — CD25/IL-2R. MUROMONAB (OKT3) — CD3 (obsolete; caused cytokine storm). RITUXIMAB — CD20 (B cells). ANTI-THYMOCYTE GLOBULIN — polyclonal lymphocyte depletion. ANAKINRA — IL-1 receptor antagonist. TOCILIZUMAB — IL-6 receptor. INFLIXIMAB/adalimumab/etanercept — TNF-alpha. USTEKINUMAB — IL-12/23. SECUKINUMAB — IL-17. VEDOLIZUMAB — alpha-4-beta-7 integrin (gut-selective). NATALIZUMAB — alpha-4 integrin (risk of PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY with JC virus). ABATACEPT — CTLA4-Ig (costimulation blockade). ECULIZUMAB — C5 (needs MENINGOCOCCAL VACCINATION). OMALIZUMAB — IgE. DENOSUMAB — RANKL.***
+- **Small-molecule immunosuppressants:** *CICLOSPORIN and TACROLIMUS — CALCINEURIN inhibitors blocking IL-2 TRANSCRIPTION (nephrotoxicity, hypertension, tremor; ciclosporin causes GUM HYPERTROPHY and HIRSUTISM, tacrolimus causes DIABETES and alopecia). SIROLIMUS/EVEROLIMUS — mTOR inhibitors (impaired wound healing, hyperlipidaemia, pneumonitis). MYCOPHENOLATE — IMPDH inhibitor, lymphocyte-selective (GI toxicity, TERATOGENIC). AZATHIOPRINE — purine antimetabolite (TPMT testing; fatal interaction with allopurinol).***
+- **Naming convention worth knowing:** *"-ximab" chimeric, "-zumab" humanised, "-umab" fully human, "-cept" receptor fusion protein.***
 - **All potent immunosuppression demands ***SCREENING FOR LATENT TB, HEPATITIS B AND C AND HIV, VACCINATION BEFORE STARTING (live vaccines are then contraindicated), and vigilance for opportunistic infection and malignancy.***
 - **Checkpoint INHIBITORS work in the opposite direction — ***IPILIMUMAB (anti-CTLA-4) and NIVOLUMAB/PEMBROLIZUMAB (anti-PD-1) RELEASE the immune brake to treat cancer, causing autoimmune "IMMUNE-RELATED ADVERSE EVENTS" (colitis, hypophysitis, thyroiditis, pneumonitis, hepatitis) treated with STEROIDS.*** ***THE 2018 NOBEL PRIZE (Allison and Honjo) WAS AWARDED FOR EXACTLY THIS — "cancer therapy by inhibition of negative immune regulation".***
 
@@ -3078,7 +2849,7 @@
 
 ---
 
-### 165. Granulocyte Colony-Stimulating Factor
+### 151. Granulocyte Colony-Stimulating Factor
 
 **PEARL:** **FILGRASTIM is recombinant human G-CSF; PEGFILGRASTIM is the pegylated, ***LONGER-ACTING*** form (one injection per chemotherapy cycle instead of daily). It is given **subcutaneously or by slow IV infusion — never orally** — for **severe neutropenia after chemotherapy or stem cell transplantation, severe congenital neutropenia and zidovudine-related neutropenia.** ***IT SHOULD BE AVOIDED IN SICKLE CELL DISEASE — IT CAN PRECIPITATE A SEVERE VASO-OCCLUSIVE CRISIS.***
 
@@ -3086,9 +2857,9 @@
 
 **MUST KNOW:**
 
-- **Common adverse effects: ***BONE PAIN (from marrow expansion — the most characteristic), fever, splenic enlargement and rare SPLENIC RUPTURE, capillary leak and acute respiratory distress syndrome, and cutaneous vasculitis/SWEET SYNDROME.***
+- **Common adverse effects:** *BONE PAIN (from marrow expansion — the most characteristic), fever, splenic enlargement and rare SPLENIC RUPTURE, capillary leak and acute respiratory distress syndrome, and cutaneous vasculitis/SWEET SYNDROME.***
 - **Indications for PRIMARY prophylaxis: chemotherapy regimens with a ***≥20% RISK OF FEBRILE NEUTROPENIA***, or 10–20% risk with patient risk factors (age, comorbidity, prior neutropenia). ***G-CSF IS NOT ROUTINELY USED TO TREAT ESTABLISHED FEBRILE NEUTROPENIA*** — the priority there is ***EMPIRICAL BROAD-SPECTRUM ANTIBIOTICS WITHIN AN HOUR (piperacillin-tazobactam or a carbapenem, with vancomycin if a line infection or MRSA is suspected).***
-- **Related growth factors: ***ERYTHROPOIETIN/darbepoetin for anaemia of CKD (target Hb 10–11.5 g/dL — over-correction increases stroke and death; ensure iron sufficiency first); ROMIPLOSTIM and ELTROMBOPAG (thrombopoietin receptor agonists) for ITP and aplastic anaemia; GM-CSF (sargramostim).***
+- **Related growth factors:** *ERYTHROPOIETIN/darbepoetin for anaemia of CKD (target Hb 10–11.5 g/dL — over-correction increases stroke and death; ensure iron sufficiency first); ROMIPLOSTIM and ELTROMBOPAG (thrombopoietin receptor agonists) for ITP and aplastic anaemia; GM-CSF (sargramostim).***
 - ***PLERIXAFOR (a CXCR4 antagonist) IS ADDED TO G-CSF FOR STEM CELL MOBILISATION*** when G-CSF alone fails.
 - **Neutropenia definition: absolute neutrophil count <1500/µL; ***SEVERE below 500, with profound infection risk below 100.***
 
@@ -3100,7 +2871,7 @@
 
 ---
 
-### 166. Anticancer Monoclonals and Checkpoint Inhibitors
+### 152. Anticancer Monoclonals and Checkpoint Inhibitors
 
 **PEARL:** **Nivolumab and pembrolizumab block PD-1**; **atezolizumab/durvalumab block PD-L1**; **ipilimumab blocks CTLA-4**. They **release the brakes on cytotoxic T cells** — so their toxicity is **autoimmune (immune-related adverse events)**, not myelosuppressive.
 
@@ -3115,6 +2886,8 @@
 
 **EXAM CONNECTION:** All four statements may be individually true; pick the one that answers the **class named in the stem** (checkpoint inhibitor → **nivolumab, PD-1**).
 
+**ALSO KNOW:** **PEMBROLIZUMAB is approved TISSUE-AGNOSTICALLY for any solid tumour with MMR DEFICIENCY / MSI-HIGH — the first site-independent cancer approval.** **NIVOLUMAB** is approved as adjuvant therapy in completely resected oesophageal/gastro-oesophageal junction cancer with residual disease after neoadjuvant chemoradiation.
+
 **REMEMBER:** *Checkpoint inhibitors take the brakes off — expect autoimmunity, treat with steroids.*
 
 **IMAGES:**
@@ -3124,7 +2897,7 @@
 
 ---
 
-### 167. Hormonal Therapy in Breast Cancer
+### 153. Hormonal Therapy in Breast Cancer
 
 **PEARL:** **Aromatase inhibitors — letrozole, anastrozole (reversible) and EXEMESTANE (irreversible, steroidal) — are used in POSTMENOPAUSAL women.** **Tamoxifen (a SERM)** is used in premenopausal women.
 
@@ -3146,7 +2919,7 @@
 
 ---
 
-### 168. Anticancer Drug Classes
+### 154. Anticancer Drug Classes
 
 **PEARL:** **5-Fluorouracil is an ANTIMETABOLITE (pyrimidine analogue), not an alkylating agent.** Alkylating agents include **nitrogen mustards (cyclophosphamide, melphalan, chlorambucil), nitrosoureas (carmustine, lomustine), busulfan and the triazenes**.
 
@@ -3172,7 +2945,7 @@
 
 ---
 
-### 169. Cyclophosphamide
+### 155. Cyclophosphamide
 
 **PEARL:** An **alkylating agent** with antitumour and immunosuppressant use; key toxicities are **hemorrhagic cystitis due to the metabolite acrolein** and later **bladder carcinoma**.
 
@@ -3186,21 +2959,7 @@
 
 ---
 
-### 170. Methotrexate
-
-**PEARL:** As a DMARD, methotrexate works mainly by **increasing extracellular adenosine** (anti-inflammatory); its antiproliferative action is via inhibition of **AICAR transformylase** and **thymidylate synthetase** (and dihydrofolate reductase).
-
-**MUST KNOW:**
-
-- Anchor DMARD in RA; weekly dosing + **folic acid** to reduce toxicity.
-- ADRs: mucositis, marrow suppression, hepatic fibrosis, pneumonitis; **teratogenic** (contraindicated in pregnancy).
-- Rescue for high-dose therapy = **leucovorin (folinic acid)**; avoid with NSAIDs/sulfonamides (displacement + reduced renal clearance).
-
-**REMEMBER:** *Adenosine = anti-inflammatory action; folate block = toxicity.*
-
----
-
-### 171. Filgrastim
+### 156. Filgrastim
 
 **PEARL:** Filgrastim is recombinant human **G-CSF**; **pegfilgrastim** and **lipegfilgrastim** are the long-acting pegylated forms. Given **subcutaneously or by slow IV infusion only**.
 
@@ -3214,22 +2973,7 @@
 
 ---
 
-### 172. Checkpoint Inhibitors — PD-1
-
-**PEARL:** **Nivolumab** (fully human **IgG4** monoclonal antibody) and **pembrolizumab** both block **PD-1** binding to its ligands, restoring T-cell anti-tumour activity.
-
-**MUST KNOW:**
-
-- **Pembrolizumab** is approved **tissue-agnostically** for any solid tumour with **MMR deficiency / MSI-high** — the first site-independent cancer approval.
-- **Nivolumab** is approved as adjuvant therapy in completely resected **esophageal/gastroesophageal junction cancer** with residual disease after neoadjuvant chemoradiation.
-- Class toxicity = **immune-related adverse events**: colitis, hypophysitis/thyroiditis, pneumonitis, hepatitis — treated with **corticosteroids**.
-- **Ipilimumab** targets **CTLA-4**; atezolizumab/durvalumab target **PD-L1**.
-
-**REMEMBER:** *PD-1 = nivo/pembro; CTLA-4 = ipilimumab; irAEs = give steroids.*
-
----
-
-### 173. Dabrafenib + Trametinib
+### 157. Dabrafenib + Trametinib
 
 **PEARL:** **Dabrafenib (BRAF inhibitor)** and **trametinib (MEK inhibitor)** are each active as monotherapy in **BRAF V600E/K melanoma**, and the **combination** is approved for unresectable/metastatic **anaplastic thyroid carcinoma**.
 
@@ -3239,7 +2983,7 @@
 
 ---
 
-### 174. Basiliximab
+### 158. Basiliximab
 
 **PEARL:** Basiliximab is an **anti-CD25 (IL-2 receptor α chain)** monoclonal antibody with high affinity for the IL-2 receptor — used for **induction immunosuppression** in renal transplantation.
 
@@ -3253,7 +2997,7 @@
 
 ## Autacoids and Eicosanoids
 
-### 175. Prostaglandins in Obstetrics
+### 159. Prostaglandins in Obstetrics
 
 **PEARL:** ***CARBOPROST is the 15-METHYL SYNTHETIC PGF2-ALPHA analogue*** used as an ABORTIFACIENT and for ***REFRACTORY POSTPARTUM HAEMORRHAGE.*** For contrast: ***DINOPROST = natural PGF2-alpha; DINOPROSTONE = natural PGE2 (cervical ripening); MISOPROSTOL and GEMEPROST = synthetic PGE1 analogues.***
 
@@ -3263,8 +3007,8 @@
 
 - ***THE STEPWISE MANAGEMENT OF PPH: OXYTOCIN first-line → ERGOMETRINE (CONTRAINDICATED IN HYPERTENSION AND PRE-ECLAMPSIA) → CARBOPROST (CONTRAINDICATED IN ASTHMA) → MISOPROSTOL (rectal/sublingual; causes fever and shivering) → TRANEXAMIC ACID → mechanical measures (bimanual compression, balloon tamponade, B-Lynch suture, uterine/internal iliac artery ligation) → hysterectomy.*** ***ACTIVE MANAGEMENT OF THE THIRD STAGE WITH PROPHYLACTIC OXYTOCIN PREVENTS MOST PPH.***
 - **MISOPROSTOL (PGE1) also protects against NSAID-induced peptic ulcers (it replaces the mucosal prostaglandins the NSAID removes) — and is therefore ***CONTRAINDICATED IN PREGNANCY, where it causes abortion and MÖBIUS SEQUENCE if the pregnancy continues.***
-- **Medical abortion: ***MIFEPRISTONE followed 24–48 hours later by MISOPROSTOL***, legal in India under the MTP Act up to 24 weeks in defined circumstances.
-- **Other therapeutic prostaglandins: ***ALPROSTADIL (PGE1) to keep the ductus arteriosus open and for erectile dysfunction; EPOPROSTENOL/iloprost (PGI2) for pulmonary arterial hypertension; LATANOPROST (PGF2-alpha analogue) for glaucoma.***
+- **Medical abortion:** *MIFEPRISTONE followed 24–48 hours later by MISOPROSTOL***, legal in India under the MTP Act up to 24 weeks in defined circumstances.
+- **Other therapeutic prostaglandins:** *ALPROSTADIL (PGE1) to keep the ductus arteriosus open and for erectile dysfunction; EPOPROSTENOL/iloprost (PGI2) for pulmonary arterial hypertension; LATANOPROST (PGF2-alpha analogue) for glaucoma.***
 - **NSAIDs cause their entire adverse-effect profile by removing physiological prostaglandins: gastric mucosal injury (PGE2), renal vasoconstriction and sodium retention (PGE2/PGI2), delayed labour and ***CLOSURE OF THE DUCTUS ARTERIOSUS (which is why INDOMETHACIN/ibuprofen is used to close a PDA).***
 
 **EXAM CONNECTION:** Synthetic PGF2-alpha derivative used as an abortifacient → **carboprost**.
@@ -3275,7 +3019,7 @@
 
 ---
 
-### 176. Triptans and Coronary Vasoconstriction
+### 160. Triptans and Coronary Vasoconstriction
 
 **PEARL:** **Triptans are 5-HT1B/1D AGONISTS** — they relieve migraine by constricting dilated cranial vessels, but the same action **constricts coronary arteries**, so they are **contraindicated in ischaemic heart disease, uncontrolled hypertension, and after stroke**.
 
@@ -3300,7 +3044,7 @@
 
 ---
 
-### 177. Prostaglandins and the Ductus Arteriosus
+### 161. Prostaglandins and the Ductus Arteriosus
 
 **PEARL:** **PGE1 (alprostadil) KEEPS the ductus arteriosus OPEN**; **indomethacin/ibuprofen (COX inhibitors) CLOSE it.**
 
@@ -3322,7 +3066,7 @@
 
 ---
 
-### 178. Sumatriptan Worsens Angina
+### 162. Sumatriptan Worsens Angina
 
 **PEARL:** Sumatriptan is a **5-HT1B/1D agonist** — it constricts cranial vessels to abort migraine, but also causes **coronary vasoconstriction** → contraindicated in ischemic heart disease, Prinzmetal angina, uncontrolled hypertension.
 
@@ -3332,7 +3076,7 @@
 
 ---
 
-### 179. Ergotamine
+### 163. Ergotamine
 
 **PEARL:** Ergotamine is a **partial agonist/antagonist at α-adrenergic, 5-HT1 and 5-HT2 receptors** → sustained vasoconstriction, vasomotor centre depression, visceral smooth muscle contraction.
 
@@ -3346,7 +3090,7 @@
 
 ---
 
-### 180. Arachidonic Acid Pathway Inhibitors
+### 164. Arachidonic Acid Pathway Inhibitors
 
 **PEARL:**
 
@@ -3358,7 +3102,7 @@
 
 ---
 
-### 181. Eicosanoids
+### 165. Eicosanoids
 
 **PEARL:** Eicosanoids (prostaglandins, thromboxanes, leukotrienes) are the most **universally distributed autacoids** — nearly every cell makes one or more. **Platelets mainly make thromboxane (TXA2)**; **endothelium mainly makes PGI2 (prostacyclin)**.
 
@@ -3370,7 +3114,7 @@
 
 ## Toxicology and Antidotes
 
-### 182. Organophosphate Poisoning — Atropine and Pralidoxime
+### 166. Organophosphate Poisoning — Atropine and Pralidoxime
 
 **PEARL:** **ATROPINE reverses the MUSCARINIC effects of organophosphate poisoning** (salivation, lacrimation, urination, defaecation, bronchorrhoea, bronchospasm, bradycardia, miosis) — and is **titrated to DRYING OF SECRETIONS AND CLEAR LUNGS, not to pupil size or heart rate.** **PRALIDOXIME (2-PAM) is the specific antidote that REACTIVATES the phosphorylated ACETYLCHOLINESTERASE**, and is the only agent that helps the ***NICOTINIC*** features — fasciculations, muscle weakness and **RESPIRATORY MUSCLE PARALYSIS**, which is what actually kills.
 
@@ -3392,7 +3136,7 @@
 
 ---
 
-### 183. Paracetamol Poisoning and N-Acetylcysteine
+### 167. Paracetamol Poisoning and N-Acetylcysteine
 
 **PEARL:** **NAC crosses the placenta and is SAFE — indeed essential — in pregnancy.** It works by **replenishing glutathione and directly conjugating NAPQI**, preventing **HEPATIC** (not renal) necrosis, and is **most effective within 8 hours** of ingestion.
 
@@ -3415,7 +3159,7 @@
 
 ---
 
-### 184. Tricyclic Antidepressant Overdose
+### 168. Tricyclic Antidepressant Overdose
 
 **PEARL:** TCA toxicity produces **arrhythmias (wide QRS, prolonged QT), seizures, coma, and an ANTICHOLINERGIC syndrome — mydriasis, dry hot skin, urinary retention, confusion and HYPERTHERMIA. HYPOTHERMIA is NOT a feature.**
 
@@ -3438,7 +3182,7 @@
 
 ---
 
-### 185. Phenylephrine vs Naloxone in Opioid Miosis
+### 169. Phenylephrine vs Naloxone in Opioid Miosis
 
 **PEARL:** Phenylephrine (α1 agonist) causes mydriasis by contracting the dilator pupillae, but it will **not reverse opioid-induced miosis**, which is centrally driven (Edinger–Westphal nucleus disinhibition).
 
@@ -3452,7 +3196,7 @@
 
 ## Ophthalmic and Dermatological Drugs
 
-### 186. Antiglaucoma Drugs
+### 170. Antiglaucoma Drugs
 
 **PEARL:** ***PROSTAGLANDIN ANALOGUES (latanoprost, bimatoprost, travoprost) SHOULD BE THE LAST CHOICE IN A PATIENT WITH MACULAR OEDEMA (or uveitis, or aphakia) — THEY CAUSE AND WORSEN CYSTOID MACULAR OEDEMA.*** Their other effects: **IRIS AND PERIOCULAR SKIN HYPERPIGMENTATION (heterochromia), EYELASH HYPERTRICHOSIS, PERIORBITAL FAT ATROPHY (deepening of the upper lid sulcus) and conjunctival hyperaemia** — cosmetic, but the reason they are otherwise the first-line agent is a **powerful once-daily pressure reduction with no systemic effects.**
 
@@ -3460,7 +3204,7 @@
 
 **MUST KNOW:**
 
-- **Class-by-class: ***TIMOLOL (beta-blocker) — reduces production; CONTRAINDICATED IN ASTHMA/COPD, bradycardia and heart block (systemic absorption through the nasolacrimal duct — teach punctal occlusion). BRIMONIDINE (alpha-2 agonist) — reduces production and increases uveoscleral outflow; causes allergic conjunctivitis and, IN INFANTS, APNOEA AND CNS DEPRESSION (contraindicated under 2 years). DORZOLAMIDE/acetazolamide (carbonic anhydrase inhibitors) — reduce production; systemic acetazolamide causes paraesthesiae, hypokalaemia, metabolic acidosis, renal stones and is a SULFONAMIDE. PILOCARPINE (muscarinic agonist) — increases trabecular outflow; causes MIOSIS, brow ache, dim vision and accommodative spasm — most useful in ANGLE-CLOSURE.***
+- **Class-by-class:** *TIMOLOL (beta-blocker) — reduces production; CONTRAINDICATED IN ASTHMA/COPD, bradycardia and heart block (systemic absorption through the nasolacrimal duct — teach punctal occlusion). BRIMONIDINE (alpha-2 agonist) — reduces production and increases uveoscleral outflow; causes allergic conjunctivitis and, IN INFANTS, APNOEA AND CNS DEPRESSION (contraindicated under 2 years). DORZOLAMIDE/acetazolamide (carbonic anhydrase inhibitors) — reduce production; systemic acetazolamide causes paraesthesiae, hypokalaemia, metabolic acidosis, renal stones and is a SULFONAMIDE. PILOCARPINE (muscarinic agonist) — increases trabecular outflow; causes MIOSIS, brow ache, dim vision and accommodative spasm — most useful in ANGLE-CLOSURE.***
 - ***IN ACUTE ANGLE-CLOSURE GLAUCOMA: IV/oral ACETAZOLAMIDE, topical beta-blocker, pilocarpine (after the pressure begins to fall), hyperosmotics (mannitol), steroids for inflammation — followed by DEFINITIVE LASER PERIPHERAL IRIDOTOMY IN BOTH EYES.***
 - ***AVOID MYDRIATICS AND ANTICHOLINERGICS IN NARROW ANGLES*** (atropine, antihistamines, tricyclics, nebulised ipratropium sprayed into the eye) — they can precipitate angle closure.
 - **Latanoprost must be refrigerated; all topical drops are more effective if the patient occludes the punctum for 2 minutes, which also reduces systemic absorption.**
@@ -3474,7 +3218,7 @@
 
 ---
 
-### 187. Glaucoma Drugs by Mechanism of Outflow
+### 171. Glaucoma Drugs by Mechanism of Outflow
 
 **PEARL:** ***NETARSUDIL, a RHO-KINASE INHIBITOR, INCREASES TRABECULAR OUTFLOW*** by relaxing the trabecular meshwork (and also reduces aqueous production and episcleral venous pressure); its side effects are **conjunctival hyperaemia and CORNEAL VERTICILLATA.** ***LATANOPROST (a PGF2-alpha analogue) IS THE DRUG OF CHOICE IN OPEN-ANGLE GLAUCOMA WITH ASTHMA*** — it increases UVEOSCLERAL outflow and has **no systemic effects**, whereas ***TIMOLOL CAN CAUSE LIFE-THREATENING BRONCHOSPASM.***
 
@@ -3483,7 +3227,7 @@
 **MUST KNOW:**
 
 - ***PROSTAGLANDIN ANALOGUES ARE FIRST-LINE FOR PRIMARY OPEN-ANGLE GLAUCOMA*** — best efficacy, once daily, no systemic effects — but AVOID in uveitis, aphakia and macular oedema (they can cause cystoid macular oedema), and warn about iris darkening, lash growth and periorbital fat atrophy.
-- **Systemic contraindications to remember: ***TIMOLOL — asthma, COPD, bradycardia, heart block, and it masks hypoglycaemia in diabetics; BRIMONIDINE — infants and young children (apnoea, CNS depression) and with MAO inhibitors; ACETAZOLAMIDE — sulfa allergy, renal stones, hypokalaemia, metabolic acidosis, and it is a teratogen.***
+- **Systemic contraindications to remember:** *TIMOLOL — asthma, COPD, bradycardia, heart block, and it masks hypoglycaemia in diabetics; BRIMONIDINE — infants and young children (apnoea, CNS depression) and with MAO inhibitors; ACETAZOLAMIDE — sulfa allergy, renal stones, hypokalaemia, metabolic acidosis, and it is a teratogen.***
 - **New fixed combinations (netarsudil–latanoprost) and ***LATANOPROSTENE BUNOD (a nitric-oxide-donating prostaglandin acting on BOTH pathways)*** reflect the same production/outflow logic.
 - ***DEFINITIVE MANAGEMENT OPTIONS: SELECTIVE LASER TRABECULOPLASTY (now often used as FIRST-LINE), trabeculectomy with antimetabolites, glaucoma drainage devices and MIGS.***
 - **Glaucoma is an ***OPTIC NEUROPATHY — intraocular pressure is the only modifiable risk factor, and NORMAL-TENSION GLAUCOMA exists***; management is judged by visual fields and OCT of the retinal nerve fibre layer, not pressure alone.
@@ -3496,7 +3240,7 @@
 
 ---
 
-### 188. Drug-Induced Ocular Toxicity
+### 172. Drug-Induced Ocular Toxicity
 
 **PEARL:** **Chloroquine deposits in the cornea (cornea verticillata / vortex keratopathy) and causes pigmentary "bull's-eye" retinopathy.** **Hydroxychloroquine is far less ocularly toxic.**
 
@@ -3517,7 +3261,7 @@
 
 ---
 
-### 189. Timolol in Glaucoma
+### 173. Timolol in Glaucoma
 
 **PEARL:** Timolol is a **non-selective β-blocker** that lowers IOP by **reducing aqueous humour production** at the ciliary epithelium.
 
@@ -3531,7 +3275,7 @@
 
 ---
 
-### 190. Prostaglandin Analogues in Glaucoma
+### 174. Prostaglandin Analogues in Glaucoma
 
 **PEARL:** PG analogues (latanoprost etc.) are best avoided/last-line when **macular edema** is a concern — cystoid macular oedema is a known side effect.
 
@@ -3541,7 +3285,7 @@
 
 ---
 
-### 191. Brimonidine in Infants
+### 175. Brimonidine in Infants
 
 **PEARL:** Brimonidine (α2 agonist) **crosses the blood–brain barrier** → CNS depression and **apnoea** in neonates. **Contraindicated below 2 years of age.**
 
@@ -3553,7 +3297,7 @@
 
 ## Drug Regulation and Miscellaneous
 
-### 192. Spurious, Adulterated and Misbranded Drugs
+### 176. Spurious, Adulterated and Misbranded Drugs
 
 **PEARL:** Under the **DRUGS AND COSMETICS ACT (1940, amended)**, a **MISBRANDED drug is one whose LABEL OR CONTAINER MAKES A FALSE OR MISLEADING CLAIM, is not labelled in the prescribed manner, or whose appearance has been altered to conceal damage or imply greater value** — so **a tablet labelled 500 mg of paracetamol that contains only 200 mg is MISBRANDED.** A **SPURIOUS drug is IMPORTED/SOLD UNDER ANOTHER DRUG'S NAME, IMITATES another drug with intent to deceive, or has a FALSELY CLAIMED MANUFACTURER (counterfeit).** An **ADULTERATED drug CONTAINS FILTHY, PUTRID OR DECOMPOSED SUBSTANCE, is prepared or stored in insanitary conditions, or contains a harmful contaminant or unsafe colour.**
 
@@ -3562,9 +3306,9 @@
 **MUST KNOW:**
 
 - **NOT OF STANDARD QUALITY ("substandard") is a fourth category — the drug fails to meet pharmacopoeial specifications (potency, dissolution, sterility) without necessarily being mislabelled.**
-- **Regulatory framework in India: ***CDSCO under the Drugs Controller General of India (DCGI)*** is the central authority, with state licensing authorities and Drug Inspectors; the ***DRUGS AND MAGIC REMEDIES (OBJECTIONABLE ADVERTISEMENTS) ACT 1954*** bars advertising cures for listed diseases; the ***NDPS ACT 1985*** governs narcotics; the ***DRUG PRICE CONTROL ORDER*** under NPPA caps prices of essential medicines.
-- **Prescription schedules: ***SCHEDULE H and H1 — prescription-only (H1 covering third-generation antibiotics, antitubercular and anti-anxiety drugs, with a separate register kept for 3 years — an antimicrobial-stewardship measure); SCHEDULE X — narcotic and psychotropic drugs needing a duplicate prescription retained for 2 years; SCHEDULE M — Good Manufacturing Practice; SCHEDULE Y — clinical trial and new drug requirements.***
-- **Clinical trial phases: ***PHASE 0/I — safety and pharmacokinetics in a few healthy volunteers; PHASE II — efficacy and dose-finding in patients; PHASE III — comparison with standard therapy in large numbers (the basis of approval); PHASE IV — post-marketing surveillance/PHARMACOVIGILANCE, which detects RARE and DELAYED adverse effects that trials cannot.***
+- **Regulatory framework in India:** *CDSCO under the Drugs Controller General of India (DCGI)*** is the central authority, with state licensing authorities and Drug Inspectors; the ***DRUGS AND MAGIC REMEDIES (OBJECTIONABLE ADVERTISEMENTS) ACT 1954*** bars advertising cures for listed diseases; the ***NDPS ACT 1985*** governs narcotics; the ***DRUG PRICE CONTROL ORDER*** under NPPA caps prices of essential medicines.
+- **Prescription schedules:** *SCHEDULE H and H1 — prescription-only (H1 covering third-generation antibiotics, antitubercular and anti-anxiety drugs, with a separate register kept for 3 years — an antimicrobial-stewardship measure); SCHEDULE X — narcotic and psychotropic drugs needing a duplicate prescription retained for 2 years; SCHEDULE M — Good Manufacturing Practice; SCHEDULE Y — clinical trial and new drug requirements.***
+- **Clinical trial phases:** *PHASE 0/I — safety and pharmacokinetics in a few healthy volunteers; PHASE II — efficacy and dose-finding in patients; PHASE III — comparison with standard therapy in large numbers (the basis of approval); PHASE IV — post-marketing surveillance/PHARMACOVIGILANCE, which detects RARE and DELAYED adverse effects that trials cannot.***
 - **PHARMACOVIGILANCE PROGRAMME OF INDIA collects ADR reports; ***the WHO-UMC and Naranjo scales grade causality***, and adverse events are classified as Type A (augmented, dose-related, predictable) and Type B (bizarre, idiosyncratic) among others.
 
 **EXAM CONNECTION:** Tablet labelled 500 mg containing 200 mg → **misbranded drug**.
@@ -3575,7 +3319,7 @@
 
 ---
 
-### 193. Barbiturates and Acute Intermittent Porphyria
+### 177. Barbiturates and Acute Intermittent Porphyria
 
 **PEARL:** **Barbiturates are absolutely contraindicated in acute intermittent porphyria** — they induce **ALA synthase** and precipitate an attack.
 
@@ -3597,7 +3341,7 @@
 
 ---
 
-### 194. New Drug Application Timing
+### 178. New Drug Application Timing
 
 **PEARL:** The NDA is filed **after phase 3**. Phase 3 is also called the **multisite/multicentric trial**.
 
@@ -3610,17 +3354,17 @@
 
 ---
 
-### 195. Drugs Causing Hyperkalemia
+### 179. Drugs Causing Hyperkalemia
 
 **PEARL:** **Triamterene, atenolol (β-blockers), and potassium chloride** cause hyperkalemia.
 
-**MUST KNOW:** Full list: **K⁺-sparing diuretics** (amiloride, triamterene, spironolactone, eplerenone), **ACE inhibitors/ARBs**, NSAIDs, heparin, digoxin toxicity, **succinylcholine**, trimethoprim, cyclosporine/tacrolimus, non-selective β-blockers (block β2-driven cellular K⁺ uptake).
+**MUST KNOW: **Full list:** K⁺-sparing diuretics** (amiloride, triamterene, spironolactone, eplerenone), **ACE inhibitors/ARBs**, NSAIDs, heparin, digoxin toxicity, **succinylcholine**, trimethoprim, cyclosporine/tacrolimus, non-selective β-blockers (block β2-driven cellular K⁺ uptake).
 
 **REMEMBER:** *Anything that blocks aldosterone or β2 raises potassium.*
 
 ---
 
-### 196. Propranolol for Infantile Hemangioma
+### 180. Propranolol for Infantile Hemangioma
 
 **PEARL:** **Propranolol** is the drug of choice for infantile hemangioma that is **ulcerated, symptomatic, or function-threatening** — acting by **vasoconstriction, induction of apoptosis, and inhibition of angiogenesis** (downregulating VEGF/bFGF).
 
@@ -3630,19 +3374,19 @@
 
 ---
 
-### 197. Acitretin and Pregnancy
+### 181. Acitretin and Pregnancy
 
 **PEARL:** Women must avoid conception for **3 years** after stopping **acitretin** (retinoid embryopathy).
 
 **UNDERSTAND:** Acitretin is re-esterified to **etretinate**, which is highly lipophilic and stored in fat with a very long half-life — especially if alcohol is consumed. Hence the extraordinarily long wait.
 
-**MUST KNOW:** Contrast: **isotretinoin — 1 month** before pregnancy is safe. Also avoid **blood donation** during and for a period after therapy.
+**MUST KNOW: **Contrast:** isotretinoin — 1 month** before pregnancy is safe. Also avoid **blood donation** during and for a period after therapy.
 
 **REMEMBER:** *Isotretinoin = 1 month; acitretin = 3 years (alcohol makes etretinate).*
 
 ---
 
-### 198. Langerhans Cell Histiocytosis — Skeletal Signs
+### 182. Langerhans Cell Histiocytosis — Skeletal Signs
 
 **PEARL:** LCH bone lesions:
 
@@ -3657,3 +3401,13 @@
 ---
 
 ---
+
+## Sources for the 2026 Updates
+
+*Footnotes below support the guideline- and approval-dependent points flagged in the pearls above.*
+
+[^1]: **FDA approvals of CASGEVY (exagamglogene autotemcel) and LYFGENIA (lovotibeglogene autotemcel), 8 December 2023**, for sickle cell disease with recurrent vaso-occlusive crises — Casgevy being the first CRISPR/Cas9 gene therapy ever approved; its indication was later extended down to age 2 and to transfusion-dependent beta-thalassaemia. <https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease>
+
+[^2]: **American Diabetes Association, Standards of Care in Diabetes — 2026**, *Diabetes Care* 49 (Supplement 1) — CGM eligibility widened to essentially all insulin-treated and many non-insulin-treated adults, prerequisites for automated insulin delivery removed, GLP-1 receptor agonists supported as an adjunct in type 1 diabetes with BMI >30 (27.5 in Asian Americans) and first-line in type 2 diabetes with MASLD and fibrosis. <https://diabetesjournals.org/care/article/49/Supplement_1/S6/163930/Summary-of-Revisions-Standards-of-Care-in-Diabetes>
+
+[^3]: **Anti-amyloid monoclonal antibodies in Alzheimer disease (lecanemab, donanemab)** — modest slowing of decline at the cost of ARIA (amyloid-related imaging abnormalities), requiring APOE genotyping and MRI monitoring; neither cholinesterase inhibitors nor memantine modify the disease. <https://www.fda.gov/drugs/news-events-human-drugs/fda-converts-novel-alzheimers-disease-treatment-traditional-approval>

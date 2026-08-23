@@ -1,22 +1,22 @@
 # Ophthalmology — Bookmark-Derived Pearls
 
-*Distilled from bookmarked INI-CET / NEET-PG MCQs. Only high-yield, revisable learning points were kept; points already covered by the existing pearl collection were dropped.*
+*Distilled from bookmarked INI-CET / NEET-PG MCQs. Only high-yield, revisable learning points were kept; duplicate pearls have been merged so that each concept appears once, in the pearl where it belongs. Guideline-dependent content has been updated to the position as of 2026, with footnoted sources listed at the end of the file.*
 
 ---
 
 ## Contents
 
 - [Optics, Refraction and Refractive Surgery](#optics-refraction-and-refractive-surgery) — 9 pearls
-- [Eyelid, Lacrimal Apparatus and Orbit](#eyelid-lacrimal-apparatus-and-orbit) — 9 pearls
-- [Conjunctiva](#conjunctiva) — 8 pearls
+- [Eyelid, Lacrimal Apparatus and Orbit](#eyelid-lacrimal-apparatus-and-orbit) — 7 pearls
+- [Conjunctiva](#conjunctiva) — 5 pearls
 - [Cornea](#cornea) — 6 pearls
-- [Sclera and Uvea](#sclera-and-uvea) — 11 pearls
+- [Sclera and Uvea](#sclera-and-uvea) — 10 pearls
 - [Lens and Cataract Surgery](#lens-and-cataract-surgery) — 4 pearls
-- [Glaucoma](#glaucoma) — 7 pearls
-- [Vitreous and Retina](#vitreous-and-retina) — 23 pearls
+- [Glaucoma](#glaucoma) — 6 pearls
+- [Vitreous and Retina](#vitreous-and-retina) — 20 pearls
 - [Neuro-Ophthalmology and Visual Pathway](#neuro-ophthalmology-and-visual-pathway) — 14 pearls
 - [Squint and Ocular Motility](#squint-and-ocular-motility) — 5 pearls
-- [Ocular Trauma](#ocular-trauma) — 4 pearls
+- [Ocular Trauma](#ocular-trauma) — 3 pearls
 - [Ocular Tumours](#ocular-tumours) — 3 pearls
 - [Ocular Pharmacology](#ocular-pharmacology) — 5 pearls
 - [Systemic Associations and Miscellaneous](#systemic-associations-and-miscellaneous) — 3 pearls
@@ -236,7 +236,7 @@
 
 **UNDERSTAND:** Raised IOP weakens ciliary muscle function/accommodation, so the near add keeps needing revision. The swollen (intumescent) lens becomes more convex → **index/lenticular myopia** ("second sight") → the *distance* prescription drifts.
 
-**MUST KNOW:** Other early OAG symptoms: **delayed dark adaptation, mild headache/brow ache, and haloes** — but it is essentially **asymptomatic until advanced**, with **arcuate (Bjerrum) field defects** and cupping preceding any visual complaint.
+**MUST KNOW: **Other early OAG symptoms:** delayed dark adaptation, mild headache/brow ache, and haloes** — but it is essentially **asymptomatic until advanced**, with **arcuate (Bjerrum) field defects** and cupping preceding any visual complaint.
 
 **REMEMBER:** *Near glasses keep changing → glaucoma. Distance glasses keep changing → cataract.*
 
@@ -285,6 +285,10 @@
 - **The differential of proptosis: orbital cellulitis (painful, febrile, unilateral — an emergency), ORBITAL PSEUDOTUMOUR (painful, steroid-responsive), orbital lymphoma (painless, elderly, superolateral mass), cavernous haemangioma (the commonest benign adult orbital tumour), and in children RHABDOMYOSARCOMA (rapidly progressive) and capillary haemangioma.**
 
 **EXAM CONNECTION:** Bilateral proptosis in a EUTHYROID adult → **thyroid ophthalmopathy**.
+
+**ALSO KNOW:** The commonest ocular motility defect in Graves' disease is **restriction of ELEVATION**, caused by **fibrosis of the INFERIOR rectus**. **Beta-blockers do nothing for the orbitopathy** — they treat the systemic thyrotoxicosis only. Thyroid eye disease is a **restrictive, not paralytic**, myopathy: the enlarged and fibrosed muscle **cannot relax**. Since a muscle limits movement in the direction *away* from its own action, a fibrosed **inferior rectus limits UPGAZE**. The **muscle belly is involved with sparing of the tendon** — the imaging feature that distinguishes it from orbital myositis. **NO SPECS** classification: **N**o signs, **O**nly signs (lid retraction), **S**oft tissue involvement, **P**roptosis, **E**xtraocular muscle involvement, **C**orneal involvement, **S**ight loss (optic neuropathy). Treatment: **systemic corticosteroids are the mainstay** (IV methylprednisolone pulses for active moderate–severe disease), **orbital triamcinolone**, **orbital radiotherapy**, **teprotumumab (IGF-1R inhibitor)** for steroid-resistant disease, and **orbital decompression** for **compressive optic neuropathy or corneal exposure**. Order of surgery when needed: **decompression → squint surgery → lid surgery** — never the reverse. *A tethered inferior rectus stops the eye looking up.*
+
+**ALSO KNOW: **Muscle involvement order:** "I'M SLow"** — **I**nferior rectus > **M**edial > **S**uperior > **L**ateral.
 
 **REMEMBER:** *Muscle bellies swell and tendons are spared — the inferior rectus goes first and the eye cannot look up.*
 
@@ -366,49 +370,7 @@
 
 ---
 
-### 15. Thyroid Eye Disease — Motility and Treatment
-
-**PEARL:** The commonest ocular motility defect in Graves' disease is **restriction of ELEVATION**, caused by **fibrosis of the INFERIOR rectus**. **Beta-blockers do nothing for the orbitopathy** — they treat the systemic thyrotoxicosis only.
-
-**UNDERSTAND:** Thyroid eye disease is a **restrictive, not paralytic**, myopathy: the enlarged and fibrosed muscle **cannot relax**. Since a muscle limits movement in the direction *away* from its own action, a fibrosed **inferior rectus limits UPGAZE**. The **muscle belly is involved with sparing of the tendon** — the imaging feature that distinguishes it from orbital myositis.
-
-**MUST KNOW:**
-
-- Order of involvement (**"I'M SLow"**): **Inferior rectus > Medial rectus > Superior rectus > Lateral rectus** — hence elevation defect, then abduction defect, then depression, then adduction.
-- **NO SPECS** classification: **N**o signs, **O**nly signs (lid retraction), **S**oft tissue involvement, **P**roptosis, **E**xtraocular muscle involvement, **C**orneal involvement, **S**ight loss (optic neuropathy).
-- Treatment: **systemic corticosteroids are the mainstay** (IV methylprednisolone pulses for active moderate–severe disease), **orbital triamcinolone**, **orbital radiotherapy**, **teprotumumab (IGF-1R inhibitor)** for steroid-resistant disease, and **orbital decompression** for **compressive optic neuropathy or corneal exposure**.
-- Order of surgery when needed: **decompression → squint surgery → lid surgery** — never the reverse.
-- **Smoking is the strongest modifiable risk factor**; **radioiodine can worsen** the orbitopathy (cover with steroids).
-- **Lid signs:** von Graefe (lid lag), Dalrymple (lid retraction), Stellwag (infrequent blinking), Mobius (convergence failure), Joffroy (absent forehead wrinkling on upgaze).
-
-**EXAM CONNECTION:** Two versions: "commonest motility defect" (**elevation restriction**) and "not a treatment" (**beta-blockers**).
-
-**REMEMBER:** *A tethered inferior rectus stops the eye looking up.*
-
-**IMAGES:**
-![question](https://dhmbxeygs57ff.cloudfront.net/uploads/f194da62645140e1bc56cf4a3811fe8ax640x418.JPEG)
-
-`MB9055, MB9056`
-
----
-
-### 16. Thyroid Eye Disease
-
-**PEARL:** The **commonest cause of BOTH unilateral and bilateral proptosis in adults** — and it occurs even in the **euthyroid** state. Features: **lid retraction, proptosis, periorbital oedema, chemosis, and restrictive myopathy**.
-
-**MUST KNOW:**
-
-- CT/MRI: **enlargement of extraocular muscle BELLIES with sparing of the tendons** (the tendons are involved in orbital myositis — the distinguishing sign).
-- Muscle involvement order: **"I'M SLow"** — **I**nferior rectus > **M**edial > **S**uperior > **L**ateral.
-- Signs: **von Graefe** (lid lag), Dalrymple, Stellwag, Mobius.
-- Sight-threatening complications: **exposure keratopathy** and **compressive optic neuropathy** → IV steroids, orbital decompression, teprotumumab.
-- Smoking markedly worsens it; **radioiodine can worsen the eye disease**.
-
-**REMEMBER:** *Bellies swollen, tendons spared; inferior rectus first; smoking makes it worse.*
-
----
-
-### 17. Lacrimal Gland Tumour
+### 15. Lacrimal Gland Tumour
 
 **PEARL:** **Pleomorphic adenoma (benign mixed tumour)** is the **commonest lacrimal gland tumour and the commonest epithelial tumour** of the gland.
 
@@ -418,7 +380,7 @@
 
 ---
 
-### 18. Rhino-Orbital-Cerebral Mucormycosis
+### 16. Rhino-Orbital-Cerebral Mucormycosis
 
 **PEARL:** The **commonest form of mucormycosis** — rhinitis, **eye/facial pain and facial numbness**, then conjunctival suffusion, swelling and blurred vision.
 
@@ -437,7 +399,7 @@
 
 ## Conjunctiva
 
-### 19. Ophthalmia Neonatorum
+### 17. Ophthalmia Neonatorum
 
 **PEARL:** **Conjunctivitis in an infant within the first 30 DAYS of life = OPHTHALMIA NEONATORUM.** In **DEVELOPED countries the commonest cause is now *CHLAMYDIA TRACHOMATIS* (serotypes D–K)** — gonococcal disease having been largely eliminated by prophylaxis. **Timing is the clue: CHEMICAL (silver nitrate) within 24 HOURS; GONOCOCCAL at 2–5 DAYS; CHLAMYDIAL at 5–14 DAYS; HERPES SIMPLEX at 1–2 WEEKS.**
 
@@ -463,7 +425,7 @@
 
 ---
 
-### 20. Pterygium
+### 18. Pterygium
 
 **PEARL:** A **PTERYGIUM is a triangular, wing-shaped FIBROVASCULAR ingrowth of degenerative bulbar conjunctiva onto the CORNEA**, almost always on the **NASAL side of the interpalpebral fissure**, caused by chronic **ULTRAVIOLET exposure, dry heat, wind and dust.** Its parts are the **CAP (an avascular halo of infiltrate ahead of the head), HEAD (on cornea), NECK (at the limbus) and BODY.** **Recurrence after simple bare-sclera excision is high (~30–80%), NOT 95%.**
 
@@ -489,7 +451,7 @@
 
 ---
 
-### 21. Membranous and Angular Conjunctivitis
+### 19. Membranous and Angular Conjunctivitis
 
 **PEARL:** A **GREYISH-WHITE MEMBRANE over the palpebral and bulbar conjunctiva that BLEEDS ON PEELING, in an UNIMMUNISED child, is MEMBRANOUS CONJUNCTIVITIS — classically *CORYNEBACTERIUM DIPHTHERIAE*** (also beta-haemolytic streptococci, *S. pneumoniae* and gonococcus). **ANGULAR CONJUNCTIVITIS — redness confined to the INTERMARGINAL STRIP at the CANTHI with EXCORIATION of the adjacent skin and foamy discharge — is caused by *MORAXELLA LACUNATA*, a Gram-negative DIPLOBACILLUS, and IS associated with BLEPHARITIS in chronic cases.**
 
@@ -515,7 +477,7 @@
 
 ---
 
-### 22. Trachoma
+### 20. Trachoma
 
 **PEARL:** **HERBERT'S PITS — shallow depressions at the LIMBUS, the scars of resolved limbal follicles — are PATHOGNOMONIC of TRACHOMA** (*Chlamydia trachomatis* serovars **A, B, Ba and C**). Other signs: **conjunctival FOLLICLES containing LEBER CELLS (multinucleated macrophages), PANNUS beginning SUPERIORLY, ARLT'S LINE (a horizontal linear scar in the upper tarsal conjunctiva), and CONCRETIONS.**
 
@@ -544,7 +506,7 @@
 
 ---
 
-### 23. WHO Simplified Grading of Trachoma
+### 21. WHO Simplified Grading of Trachoma
 
 **PEARL:** **ARLT's LINE (a linear scar in the sulcus subtarsalis of the upper tarsal conjunctiva) and HERBERT's PITS (pitted scars at the superior limbus, left by healed limbal follicles) are CICATRICIAL signs = TS (Trachomatous Scarring)** — even when there are no follicles, no trichiasis and no corneal opacity.
 
@@ -573,41 +535,9 @@
 
 ---
 
-### 24. Angular Conjunctivitis
-
-**PEARL:** A **chronic** conjunctivitis caused by ***Moraxella lacunata*** — a **gram-negative diplobacillus**.
-
-**MUST KNOW:** Involves the **outer and inner canthi** with maceration of the adjacent skin, foamy discharge and excoriation. Treatment: **zinc** drops/ointment (zinc inhibits the organism's proteolytic enzyme) or tetracycline ointment.
-
-**REMEMBER:** *Corners of the eye + Moraxella = angular conjunctivitis → zinc.*
-
----
-
-### 25. Ophthalmia Neonatorum
-
-**PEARL:** ***Chlamydia trachomatis* is currently the commonest cause in developed countries.**
-
-**MUST KNOW:** Timing separates the causes — **chemical (silver nitrate) day 1**, **gonococcal days 2–5** (hyperacute, copious purulent, can **perforate the cornea** — a true emergency), **chlamydial days 5–14** (mucopurulent, with the risk of later **pneumonitis**), herpes simplex 1–2 weeks. Chlamydial disease needs **systemic erythromycin/azithromycin** (topical alone won't clear the nasopharynx); gonococcal needs **systemic ceftriaxone**.
-
-**REMEMBER:** *Day 1 chemical, day 2–5 gonococcus, day 5–14 chlamydia.*
-
----
-
-### 26. Trachoma — SAFE Strategy
-
-**PEARL:** **Oral azithromycin is the drug of choice** — **1 g single dose for adults**, **20 mg/kg for children**.
-
-**MUST KNOW:** **SAFE** = **S**urgery (for trichiasis — bilamellar tarsal rotation), **A**ntibiotics, **F**acial cleanliness, **E**nvironmental improvement. *Chlamydia trachomatis* serotypes **A, B, Ba, C**; **WHO FISTO grading** — **F**ollicles, **I**ntense inflammation, **S**carring (Arlt's line), **T**richiasis, **O**pacity. Blindness results from trichiasis → corneal scarring. **Herbert's pits** are pathognomonic healed limbal follicles.
-
-**REMEMBER:** *SAFE — azithromycin 1 g stat; blindness comes from the lashes, not the bug.*
-
----
-
----
-
 ## Cornea
 
-### 27. Fungal Corneal Ulcer
+### 22. Fungal Corneal Ulcer
 
 **PEARL:** **SATELLITE LESIONS around the main ulcer are characteristic of a FUNGAL keratitis**, along with **DRY, RAISED, greyish-white slough with FEATHERY/serrated margins, an IMMUNE (WESSELEY) RING, a THICK IMMOBILE HYPOPYON, and endothelial plaques.** History of **TRAUMA WITH VEGETABLE MATTER** is the classic clue.
 
@@ -629,7 +559,7 @@
 
 ---
 
-### 28. Grades of Corneal Opacity
+### 23. Grades of Corneal Opacity
 
 **PEARL:** **NEBULAR corneal opacity — a faint haze; the IRIS DETAILS ARE STILL VISIBLE through it. MACULAR opacity — denser; iris details are OBSCURED but the PUPILLARY MARGIN IS STILL VISIBLE. LEUCOMATOUS opacity — dense white; NEITHER the iris NOR the pupillary margin can be seen.** **ADHERENT LEUCOMA** is a leucoma with iris incarcerated in it after perforation.
 
@@ -652,7 +582,7 @@
 
 ---
 
-### 29. Fortified Antibiotics in Bacterial Keratitis
+### 24. Fortified Antibiotics in Bacterial Keratitis
 
 **PEARL:** For **bacterial corneal ulcer not responding to standard drops, use FORTIFIED antibiotic eye drops: CEPHAZOLIN 5% (50 mg/mL) and VANCOMYCIN 5% for GRAM-POSITIVES, with TOBRAMYCIN/GENTAMICIN 1.3% (13.6 mg/mL) or fortified ceftazidime for GRAM-NEGATIVES** — plus a **CYCLOPLEGIC (1% atropine)** and oral analgesia.
 
@@ -678,7 +608,7 @@
 
 ---
 
-### 30. Herpes Simplex Keratitis
+### 25. Herpes Simplex Keratitis
 
 **PEARL:** A painful red eye with an **irregular (dendritic/geographic) ulcer on fluorescein staining** and **markedly REDUCED corneal sensation** = **herpes simplex keratitis** → **topical acyclovir 3% ointment five times daily**. **Topical steroids are contraindicated in epithelial disease** — they cause a geographic ulcer and corneal melt.
 
@@ -703,7 +633,7 @@
 
 ---
 
-### 31. Keratoconus
+### 26. Keratoconus
 
 **PEARL:** **Intacs (intrastromal corneal ring segments) are placed for KERATOCONUS** — a non-inflammatory **axial thinning with apical protrusion** of the cornea.
 
@@ -733,7 +663,7 @@
 
 ---
 
-### 32. Khodadoust Line
+### 27. Khodadoust Line
 
 **PEARL:** A **Khodadoust line** after **penetrating keratoplasty** indicates **ENDOTHELIAL graft rejection** — an advancing line of leucocytes on the endothelial surface.
 
@@ -747,7 +677,7 @@
 
 ## Sclera and Uvea
 
-### 33. Acute Anterior Uveitis
+### 28. Acute Anterior Uveitis
 
 **PEARL:** **Acute pain, photophobia, blurred vision, CIRCUMCORNEAL (ciliary) CONGESTION, a SMALL IRREGULAR pupil (posterior synechiae), KERATIC PRECIPITATES on the corneal endothelium, and AQUEOUS FLARE AND CELLS = ACUTE ANTERIOR UVEITIS (IRIDOCYCLITIS).** Treatment is **TOPICAL STEROIDS plus a CYCLOPLEGIC (atropine/homatropine).**
 
@@ -764,6 +694,8 @@
 
 **EXAM CONNECTION:** Circumcorneal congestion + irregular pupil + KPs → **acute anterior uveitis**.
 
+**ALSO KNOW: **Signs:** keratic precipitates** (mutton-fat KPs in granulomatous disease such as sarcoid/TB), **aqueous cells and flare**, miosed sluggish pupil, **posterior synechiae**, and low IOP (or high in some).
+
 **REMEMBER:** *Dilate the pupil and calm the ciliary body — steroids and atropine together, always.*
 
 **IMAGES:**
@@ -774,7 +706,7 @@
 
 ---
 
-### 34. Iris Nodules and Ocular Leprosy
+### 29. Iris Nodules and Ocular Leprosy
 
 **PEARL:** **IRIS PEARLS — small chalky-white glistening nodules on the iris — are PATHOGNOMONIC OF LEPROSY** (*Mycobacterium leprae*, lepromatous type). Distinguish them from **BRUSHFIELD SPOTS (white speckles in a concentric ring on the peripheral iris — DOWN SYNDROME, and normal in some blue irides), LISCH NODULES (melanocytic hamartomas — NEUROFIBROMATOSIS 1), and KOEPPE (pupillary margin) and BUSACCA (stromal) NODULES of GRANULOMATOUS UVEITIS.**
 
@@ -803,9 +735,9 @@
 
 ---
 
-### 35. Sclera — Anatomy, Scleritis and Staphyloma
+### 30. Sclera — Anatomy, Scleritis and Staphyloma
 
-**PEARL:** The sclera has three layers from outside in: **EPISCLERA → SCLERA PROPER → LAMINA FUSCA (the innermost, facing the choroid).** It is **THINNEST JUST BEHIND THE INSERTIONS OF THE RECTUS MUSCLES (~0.3 mm)** and thickest around the optic nerve (~1 mm) — which is why **traumatic globe rupture occurs at the limbus, at the rectus insertions, or at the equator OPPOSITE the site of impact, and rarely at the point of impact itself.** **SCLEROMALACIA PERFORANS is NECROTISING SCLERITIS WITHOUT INFLAMMATION, in elderly women with long-standing RHEUMATOID ARTHRITIS.**
+**PEARL: **The sclera has three layers from outside in:** EPISCLERA → SCLERA PROPER → LAMINA FUSCA (the innermost, facing the choroid).** It is **THINNEST JUST BEHIND THE INSERTIONS OF THE RECTUS MUSCLES (~0.3 mm)** and thickest around the optic nerve (~1 mm) — which is why **traumatic globe rupture occurs at the limbus, at the rectus insertions, or at the equator OPPOSITE the site of impact, and rarely at the point of impact itself.** **SCLEROMALACIA PERFORANS is NECROTISING SCLERITIS WITHOUT INFLAMMATION, in elderly women with long-standing RHEUMATOID ARTHRITIS.**
 
 **UNDERSTAND:** Blunt trauma **compresses the globe antero-posteriorly and expands it equatorially**, so it bursts where the coats are weakest — the thin sclera behind muscle insertions and the limbus — and the **shock wave propagates AWAY from the point of impact**, which is why the rupture is typically contrecoup. **Scleromalacia perforans is painless and quiet precisely because it is an OBLITERATIVE VASCULITIS of the deep episcleral vessels** — there is no inflammation left to hurt, only progressive melting with the blue-black uvea showing through.
 
@@ -833,7 +765,7 @@
 
 ---
 
-### 36. Ocular Toxoplasmosis
+### 31. Ocular Toxoplasmosis
 
 **PEARL:** A **focus of fluffy WHITE RETINITIS adjacent to an OLD PIGMENTED CHORIORETINAL SCAR, seen through a hazy vitreous — the "HEADLIGHT IN THE FOG" appearance — is OCULAR TOXOPLASMOSIS**, the commonest cause of **POSTERIOR UVEITIS in immunocompetent people (20–60%).** Reactivation at the edge of an old congenital scar ("satellite lesion") is the rule.
 
@@ -858,7 +790,7 @@
 
 ---
 
-### 37. Ciliary Body — The Numbers That Get Asked
+### 32. Ciliary Body — The Numbers That Get Asked
 
 **PEARL:** **60–70 ciliary processes**, all located on the **PARS PLICATA**. The **pars plana lies 3.5–4.5 mm behind the limbus** — the safe surgical entry into the vitreous cavity.
 
@@ -883,7 +815,7 @@
 
 ---
 
-### 38. Toxoplasma Chorioretinitis
+### 33. Toxoplasma Chorioretinitis
 
 **PEARL:** **Dense vitritis obscuring the fundus, with a focal creamy-white retinitis adjacent to an old pigmented chorioretinal scar** = **toxoplasma chorioretinitis** — the classic **"headlight in the fog"** appearance.
 
@@ -908,7 +840,7 @@
 
 ---
 
-### 39. Sympathetic Ophthalmia
+### 34. Sympathetic Ophthalmia
 
 **PEARL:** **Sympathetic ophthalmia follows PENETRATING trauma** (or intraocular surgery) — a **bilateral granulomatous panuveitis** presenting **2 weeks to 3 months** after the injury.
 
@@ -935,7 +867,7 @@
 
 ---
 
-### 40. Ocular Sarcoidosis
+### 35. Ocular Sarcoidosis
 
 **PEARL:** **"Candle-wax dripping" (taches de bougie) — segmental perivenous sheathing on fundoscopy — is characteristic of sarcoid posterior uveitis.** **Anterior uveitis is the commonest ocular manifestation overall.**
 
@@ -964,21 +896,7 @@
 
 ---
 
-### 41. Anterior Uveitis
-
-**PEARL:** Presents with **circumciliary (ciliary) congestion, photophobia and pain**, and is often associated with autoimmune disease such as **sarcoidosis**.
-
-**MUST KNOW:**
-
-- Signs: **keratic precipitates** (mutton-fat KPs in granulomatous disease such as sarcoid/TB), **aqueous cells and flare**, miosed sluggish pupil, **posterior synechiae**, and low IOP (or high in some).
-- Treatment: **topical steroids + cycloplegics (atropine/homatropine)** — cycloplegia relieves ciliary spasm pain **and prevents synechiae**.
-- **HLA-B27** associations: ankylosing spondylitis, reactive arthritis, IBD, psoriatic arthritis (acute, unilateral, recurrent, alternating).
-
-**REMEMBER:** *Circumciliary redness + photophobia = anterior uveitis → steroid + cycloplegic.*
-
----
-
-### 42. Scleromalacia Perforans
+### 36. Scleromalacia Perforans
 
 **PEARL:** Progressive **scleral thinning WITHOUT inflammation** (necrotizing anterior scleritis without inflammation) — a **painless, white-eyed** condition revealing blue-black uvea beneath.
 
@@ -988,7 +906,7 @@
 
 ---
 
-### 43. Birdshot Retinochoroidopathy
+### 37. Birdshot Retinochoroidopathy
 
 **PEARL:** Idiopathic **bilateral chorioretinitis** with **creamy-yellow spots of chorioretinal hypopigmentation** scattered like a birdshot pattern; typically **middle-aged women** who are **HLA-A29 positive**.
 
@@ -1002,7 +920,7 @@
 
 ## Lens and Cataract Surgery
 
-### 44. Viscoelastics and Intraocular Lenses
+### 38. Viscoelastics and Intraocular Lenses
 
 **PEARL:** **OPHTHALMIC VISCOSURGICAL DEVICES (viscoelastics) MAINTAIN THE ANTERIOR CHAMBER during capsulorhexis and IOL implantation and PROTECT THE CORNEAL ENDOTHELIUM** — they do not injure it. The commonest are **SODIUM HYALURONATE and HYDROXYPROPYL METHYLCELLULOSE (HPMC).** **They MUST BE REMOVED at the end of surgery** — retained viscoelastic causes a **postoperative IOP SPIKE.** **RIGID IOLs are made of PMMA; FOLDABLE IOLs of silicone, acrylic, hydrogel or Collamer.**
 
@@ -1025,7 +943,7 @@
 
 ---
 
-### 45. Congenital Cataract and Leukocoria
+### 39. Congenital Cataract and Leukocoria
 
 **PEARL:** A **visually significant CONGENITAL/INFANTILE CATARACT requires SURGERY AS EARLY AS POSSIBLE — ideally by 6 WEEKS for a UNILATERAL and by 8–10 WEEKS for BILATERAL cataracts** — because delay causes **irreversible DEPRIVATION AMBLYOPIA and nystagmus.** **LEUKOCORIA must always be investigated to exclude RETINOBLASTOMA.**
 
@@ -1050,7 +968,7 @@
 
 ---
 
-### 46. Post-Operative Endophthalmitis
+### 40. Post-Operative Endophthalmitis
 
 **PEARL:** **Diminished vision with pain, ANTERIOR CHAMBER CELLS/HYPOPYON and VITREOUS HAZE obscuring the fundus, within DAYS TO 6 WEEKS of cataract surgery = ACUTE POSTOPERATIVE ENDOPHTHALMITIS**, most often caused by ***STAPHYLOCOCCUS EPIDERMIDIS* (coagulase-negative staphylococci — the commonest), *S. aureus*, streptococci and Gram-negatives** — organisms from the **patient's own lids and conjunctiva.**
 
@@ -1073,7 +991,7 @@
 
 ---
 
-### 47. Congenital Cataract Morphology
+### 41. Congenital Cataract Morphology
 
 **PEARL:** **Bilateral leukocoria with a zone of opacity surrounding the fetal nucleus and radial "spokes of a wheel" (RIDERS) extending toward the periphery = LAMELLAR (zonular) cataract** — the **commonest visually significant congenital cataract**.
 
@@ -1105,7 +1023,7 @@
 
 ## Glaucoma
 
-### 48. Primary Open-Angle Glaucoma
+### 42. Primary Open-Angle Glaucoma
 
 **PEARL:** In POAG, **gonioscopy shows a NORMAL, WIDE OPEN angle with all structures visible — the trabecular abnormality is microscopic and CANNOT be seen; pupil DILATATION does NOT raise the IOP (that is ANGLE-CLOSURE); the risk to FIRST-DEGREE RELATIVES is high (~10% in siblings, 4% in children); family members are more likely to be STEROID RESPONDERS; and VISUAL FIELD DEFECTS CAN EXIST WITH A NORMAL CUP-DISC RATIO.**
 
@@ -1128,9 +1046,9 @@
 
 ---
 
-### 49. Glaucomatous Visual Field Progression
+### 43. Glaucomatous Visual Field Progression
 
-**PEARL:** Glaucoma field loss follows a sequence: **EARLY NON-SPECIFIC — isopter contraction and BARING OF THE BLIND SPOT. EARLY SIGNIFICANT — a PARACENTRAL SCOTOMA in BJERRUM'S AREA (10–20° from fixation), SEIDEL'S SCOTOMA (a paracentral scotoma joining the blind spot), and a peripheral NASAL STEP. LATE — ARCUATE (BJERRUM) SCOTOMA, RING/double arcuate scotoma, and RÖNNE'S CENTRAL NASAL STEP. ADVANCED — TUBULAR VISION with a preserved TEMPORAL ISLAND, then no perception of light.** **RÖNNE'S NASAL STEP IS A FIELD DEFECT, NOT A DISC SIGN.**
+**PEARL: **Glaucoma field loss follows a sequence:** EARLY NON-SPECIFIC — isopter contraction and BARING OF THE BLIND SPOT. EARLY SIGNIFICANT — a PARACENTRAL SCOTOMA in BJERRUM'S AREA (10–20° from fixation), SEIDEL'S SCOTOMA (a paracentral scotoma joining the blind spot), and a peripheral NASAL STEP. LATE — ARCUATE (BJERRUM) SCOTOMA, RING/double arcuate scotoma, and RÖNNE'S CENTRAL NASAL STEP. ADVANCED — TUBULAR VISION with a preserved TEMPORAL ISLAND, then no perception of light.** **RÖNNE'S NASAL STEP IS A FIELD DEFECT, NOT A DISC SIGN.**
 
 **UNDERSTAND:** Every one of these shapes is dictated by the **anatomy of the retinal nerve fibre layer.** The arcuate fibres from the temporal retina **sweep in arcs around the macula and respect the HORIZONTAL RAPHE** — so damage produces an **arcuate scotoma**, and because the superior and inferior arcuate bundles are damaged unequally, the two defects meet at the horizontal meridian as a **STEP** in the nasal field. Central vision is served by the papillomacular bundle, which is spared until the very end — hence a patient with a tubular field can still read 6/6.
 
@@ -1154,7 +1072,7 @@
 
 ---
 
-### 50. Gonioscopy
+### 44. Gonioscopy
 
 **PEARL:** **DIRECT gonioscopes (KOEPPE, Barkan, Swan–Jacob, Richardson) give a DIRECT, upright view of the angle** and are used supine, often under anaesthesia in children. **INDIRECT gonioprisms (GOLDMANN, ZEISS, Posner, Sussman) use mirrors and show a MIRROR IMAGE OF THE OPPOSITE angle** at the slit lamp. The **angle structures, from front (cornea) to back (iris), are: SCHWALBE'S LINE → TRABECULAR MESHWORK → SCLERAL SPUR → CILIARY BODY BAND → IRIS ROOT.**
 
@@ -1180,7 +1098,7 @@
 
 ---
 
-### 51. Lens-Induced Glaucomas
+### 45. Lens-Induced Glaucomas
 
 **PEARL:** **PHACOLYTIC GLAUCOMA — an elderly patient with a HYPERMATURE/MORGAGNIAN cataract, acute pain, high IOP, a DEEP anterior chamber with flare and white protein particles (PSEUDOHYPOPYON), and an OPEN angle on gonioscopy.** Contrast **PHACOMORPHIC glaucoma — an INTUMESCENT (swollen) cataract pushing the iris forward, giving a SHALLOW anterior chamber and a CLOSED angle.**
 
@@ -1202,7 +1120,7 @@
 
 ---
 
-### 52. Ocular Hypertension
+### 46. Ocular Hypertension
 
 **PEARL:** **Raised IOP (>21 mmHg) with a NORMAL optic disc, NORMAL visual fields and an OPEN angle = OCULAR HYPERTENSION, not glaucoma.** Risk factors for CONVERSION to POAG (from the OHTS study): **higher IOP, INCREASING AGE (older people are MORE at risk, not younger), a larger vertical CUP-DISC RATIO, THIN CENTRAL CORNEA, greater pattern standard deviation on fields, African ancestry and a positive family history.** **Lowering the IOP by 20% roughly HALVES the rate of conversion.**
 
@@ -1224,7 +1142,7 @@
 
 ---
 
-### 53. Vogt's Triad After Acute Angle-Closure
+### 47. Vogt's Triad After Acute Angle-Closure
 
 **PEARL:** **Vogt's triad = glaukomflecken + patchy iris atrophy + a fixed, slightly dilated pupil** — the residual signs of a **past acute angle-closure attack**.
 
@@ -1249,24 +1167,9 @@
 
 ---
 
-### 54. Gonioscopy Lenses
-
-**PEARL:**
-
-- **DIRECT gonioprism** — gives a **direct view** of the angle: **Koeppe, Barkan, Swan–Jacob, Richardson, Medical Workshop**.
-- **INDIRECT gonioprism** — gives a **mirror image of the OPPOSITE angle**: **Goldmann, Zeiss, Posner**.
-
-**MUST KNOW:** Direct lenses need the patient **supine** (used in **examination under anaesthesia** and in **congenital glaucoma**, and for goniotomy); indirect lenses are used at the **slit lamp** in the clinic, sitting up. **Zeiss/Posner (4-mirror)** allow **indentation gonioscopy** to distinguish appositional from synechial angle closure.
-
-**REMEMBER:** *Direct = supine, real image (Koeppe, Swan-Jacob); Indirect = slit lamp, mirror image (Goldmann, Zeiss, Posner).*
-
----
-
----
-
 ## Vitreous and Retina
 
-### 55. Diabetic Retinopathy
+### 48. Diabetic Retinopathy
 
 **PEARL:** **NEOVASCULARISATION — at the disc (NVD) or elsewhere (NVE) — DEFINES PROLIFERATIVE diabetic retinopathy** and is what separates it from any grade of NPDR. **NPDR shows microaneurysms, dot-and-blot haemorrhages, hard exudates, cotton-wool spots, venous beading and IRMA — but NO new vessels.**
 
@@ -1283,6 +1186,8 @@
 
 **EXAM CONNECTION:** New vessels on FFA → **proliferative diabetic retinopathy**.
 
+**ALSO KNOW: **Fundus features:** Haemorrhages** — superficial **flame-shaped** and deep **dot-and-blot** **Hard exudates** — yellow, waxy **lipoprotein and lipid-laden macrophages**, in clumps or **circinate** rings **IRMA** — intraretinal **arteriovenous shunts** **Venous beading, looping and dilatation** *Microaneurysm first (pericytes die); IRMA and beading mean PDR is near.*
+
 **REMEMBER:** *Ischaemia makes VEGF, VEGF makes vessels — burn the ischaemic retina and the vessels regress.*
 
 **IMAGES:**
@@ -1294,7 +1199,7 @@
 
 ---
 
-### 56. Retinal Layers and Phototransduction
+### 49. Retinal Layers and Phototransduction
 
 **PEARL:** The retina has **10 LAYERS**, from inner (vitreous side) outward: **INTERNAL LIMITING MEMBRANE → nerve fibre layer → ganglion cell layer → INNER PLEXIFORM layer (the 4th) → inner nuclear layer → OUTER PLEXIFORM layer → outer nuclear layer → external limiting membrane → photoreceptors → RETINAL PIGMENT EPITHELIUM.** **LIGHT causes HYPERPOLARISATION of photoreceptors with DECREASED glutamate release.**
 
@@ -1323,7 +1228,7 @@
 
 ---
 
-### 57. Drusen and Age-Related Macular Degeneration
+### 50. Drusen and Age-Related Macular Degeneration
 
 **PEARL:** **DRUSEN are extracellular eosinophilic deposits BETWEEN THE RPE AND BRUCH'S MEMBRANE**, composed of lipids, complement factors and cellular debris — the hallmark of **DRY (non-exudative, ~90%) AGE-RELATED MACULAR DEGENERATION.** **WET (exudative) ARMD is defined by CHOROIDAL NEOVASCULARISATION.**
 
@@ -1340,6 +1245,10 @@
 
 **EXAM CONNECTION:** Histology showing deposits between RPE and Bruch's membrane → **drusen**.
 
+**ALSO KNOW:** The hallmark of **age-related macular degeneration**: **hard drusen** (small, discrete) are relatively benign; **soft, large, confluent drusen** predict progression to **wet (neovascular) AMD**. Dry AMD → geographic atrophy; wet AMD → **choroidal neovascularization**, treated with **anti-VEGF (ranibizumab, bevacizumab, aflibercept)**. **Optic disc drusen** are a different entity (calcified deposits causing pseudopapilloedema). *Drusen sit between RPE and Bruch's — soft and big means wet AMD is coming.*
+
+**ALSO KNOW:** **GEOGRAPHIC ATROPHY — the late "dry" form — is no longer untreatable: the COMPLEMENT C3 INHIBITOR PEGCETACOPLAN (2023) and the C5 INHIBITOR AVACINCAPTAD PEGOL (2023) are approved intravitreal treatments that SLOW the rate of lesion growth without restoring vision**, at the cost of a small increase in conversion to neovascular AMD. **In WET AMD the anti-VEGF menu now includes FARICIMAB (a bispecific anti-VEGF-A/anti-Ang-2 antibody) and high-dose aflibercept, both allowing longer dosing intervals** alongside ranibizumab, aflibercept and bevacizumab. **AREDS-2 supplementation (lutein and zeaxanthin replacing beta-carotene, which raised lung cancer risk in smokers) remains the intervention for intermediate dry AMD.**[^1]
+
 **REMEMBER:** *Drusen are the RPE's rubbish — pile it up and the choroid grows through.*
 
 **IMAGES:**
@@ -1354,11 +1263,11 @@
 
 ---
 
-### 58. Cystoid Macular Oedema
+### 51. Cystoid Macular Oedema
 
 **PEARL:** A **"FLOWER-PETAL" (petalloid) pattern of late hyperfluorescence on fundus fluorescein angiography = CYSTOID MACULAR OEDEMA** — fluid accumulating in cystoid spaces of the **OUTER PLEXIFORM (HENLE'S) LAYER and inner nuclear layer** after a breakdown of the blood–retinal barrier. On OCT there is **loss of the foveal depression with intraretinal cystoid spaces.**
 
-**UNDERSTAND:** The petal pattern is anatomy made visible: **Henle's fibres radiate OBLIQUELY AND RADIALLY from the fovea**, so fluid pooling between them forms **radially arranged cystoid spaces** that fill with dye in a flower-petal arrangement. This is unique to the fovea — elsewhere the oedema is diffuse.
+**UNDERSTAND: **The petal pattern is anatomy made visible:** Henle's fibres radiate OBLIQUELY AND RADIALLY from the fovea**, so fluid pooling between them forms **radially arranged cystoid spaces** that fill with dye in a flower-petal arrangement. This is unique to the fovea — elsewhere the oedema is diffuse.
 
 **MUST KNOW:**
 
@@ -1384,7 +1293,7 @@
 
 ---
 
-### 59. Chloroquine and Hydroxychloroquine Retinopathy
+### 52. Chloroquine and Hydroxychloroquine Retinopathy
 
 **PEARL:** A patient on **long-term chloroquine/hydroxychloroquine for rheumatoid arthritis or SLE with declining vision and a "BULL'S-EYE MACULOPATHY"** (a ring of RPE depigmentation sparing the very centre) has **ANTIMALARIAL RETINAL TOXICITY.** Safe daily doses: **CHLOROQUINE ≤2.3 mg/kg (older texts 6 mg/kg) and HYDROXYCHLOROQUINE ≤5 mg/kg of REAL body weight** — hydroxychloroquine is much safer.
 
@@ -1410,7 +1319,7 @@
 
 ---
 
-### 60. Roth Spots
+### 53. Roth Spots
 
 **PEARL:** **ROTH SPOTS are retinal HAEMORRHAGES WITH A WHITE/PALE CENTRE** — the white centre is a **fibrin–platelet plug (or leucocytes/septic material)** surrounded by a red rim of haemorrhage. Causes: **LEUKAEMIA (especially acute), SUBACUTE BACTERIAL ENDOCARDITIS, DIABETES, hypertensive retinopathy, SLE, HIV retinopathy, sickle cell disease, severe anaemia and multiple myeloma.**
 
@@ -1436,7 +1345,7 @@
 
 ---
 
-### 61. Central Retinal Vein Occlusion and "100-Day Glaucoma"
+### 54. Central Retinal Vein Occlusion and "100-Day Glaucoma"
 
 **PEARL:** **"100-DAY (or THREE-MONTH) GLAUCOMA" is NEOVASCULAR GLAUCOMA following ISCHAEMIC CENTRAL RETINAL VEIN OCCLUSION**, appearing about 3 months after the event. Ischaemic CRVO presents with **sudden severe visual loss, an RAPD, and a fundus of massive venous dilatation and tortuosity with widespread haemorrhages in all four quadrants — the "BLOOD AND THUNDER" or "SPLASHED TOMATO" fundus** — plus cotton-wool spots and disc oedema.
 
@@ -1463,7 +1372,7 @@
 
 ---
 
-### 62. The Cherry-Red Spot
+### 55. The Cherry-Red Spot
 
 **PEARL:** A **MACULAR CHERRY-RED SPOT** occurs when the **surrounding retina becomes opaque/white while the FOVEA — which has no inner retinal layers and is nourished by the CHOROID — retains its normal red colour.** Causes: **CENTRAL RETINAL ARTERY OCCLUSION (the commonest), TAY–SACHS DISEASE, NIEMANN–PICK disease, SANDHOFF, GM1 gangliosidosis, sialidosis, METACHROMATIC LEUKODYSTROPHY, Farber disease, quinine toxicity and commotio retinae (Berlin's oedema).**
 
@@ -1488,7 +1397,7 @@
 
 ---
 
-### 63. Sudden Painless Loss of Vision
+### 56. Sudden Painless Loss of Vision
 
 **PEARL:** **BILATERAL SUDDEN PAINLESS visual loss occurs in ADVANCED DIABETIC RETINOPATHY** (vitreous haemorrhage, tractional detachment, macular oedema) — a bilateral disease. The other causes of **SUDDEN PAINLESS loss: CENTRAL RETINAL ARTERY or VEIN OCCLUSION, VITREOUS HAEMORRHAGE, RETINAL DETACHMENT, ischaemic optic neuropathy, and — with pain on eye movement — optic neuritis.** **PAINFUL sudden loss: ACUTE ANGLE-CLOSURE GLAUCOMA, acute IRIDOCYCLITIS, keratitis, endophthalmitis and trauma.**
 
@@ -1510,7 +1419,7 @@
 
 ---
 
-### 64. Retinitis Pigmentosa
+### 57. Retinitis Pigmentosa
 
 **PEARL:** **NIGHT BLINDNESS (nyctalopia) is an EARLY — usually the FIRST — symptom of RETINITIS PIGMENTOSA**, because **RODS degenerate before cones.** The triad on fundoscopy is **BONE-SPICULE PIGMENTATION in the mid-periphery, ATTENUATED ARTERIOLES, and a WAXY PALE OPTIC DISC.** The **ERG shows REDUCED AMPLITUDE OF BOTH a AND b WAVES (subnormal or extinguished) — and is abnormal LONG BEFORE symptoms**, making it the diagnostic test of choice.
 
@@ -1536,7 +1445,7 @@
 
 ---
 
-### 65. Macular Dystrophies and the Electrodiagnostic Tests
+### 58. Macular Dystrophies and the Electrodiagnostic Tests
 
 **PEARL:** A young patient with **BILATERAL CENTRAL VISION LOSS, a family history, and NORMAL ERG AND EOG (early) = STARGARDT DISEASE (fundus flavimaculatus)** — autosomal recessive, **ABCA4 gene**, with **yellow "PISCIFORM" FLECKS at the level of the RPE, a "BEATEN-BRONZE" macula, and a "DARK/SILENT CHOROID" on fluorescein angiography.** Contrast **BEST'S VITELLIFORM DYSTROPHY: autosomal DOMINANT, BEST1 gene, an "EGG-YOLK" macular lesion, NORMAL ERG but a MARKEDLY ABNORMAL (reduced) EOG with an Arden ratio <1.5.**
 
@@ -1563,7 +1472,7 @@
 
 ---
 
-### 66. Asteroid Hyalosis
+### 59. Asteroid Hyalosis
 
 **PEARL:** **Numerous tiny yellow-white spherical opacities suspended in the vitreous that MOVE WITH EYE MOVEMENT BUT DO NOT SETTLE when the eye is still = ASTEROID HYALOSIS** — CALCIUM-CONTAINING (calcium pyrophosphate/soap) particles bound to the vitreous collagen framework. It is **UNILATERAL IN ~75%, RARELY SYMPTOMATIC, commoner in MEN and with AGE, DIABETES, hypertension and hyperlipidaemia — and it is NOT associated with MYOPIA.**
 
@@ -1579,6 +1488,8 @@
 
 **EXAM CONNECTION:** "All true EXCEPT" → **common in myopes** (it is not).
 
+**ALSO KNOW:** Usually **unilateral, asymptomatic, in the elderly/diabetics** — needs **no treatment**; it mainly obscures the surgeon's/examiner's view of the fundus. Contrast **synchysis scintillans (cholesterolosis bulbi)** — **cholesterol crystals, often bilateral, in previously injured/diseased eyes, which DO settle inferiorly** when the eye is at rest. *Asteroids float and stay suspended; synchysis crystals sink.*
+
 **REMEMBER:** *Asteroids are tethered and never fall; synchysis scintillans is free and sinks.*
 
 **IMAGES:**
@@ -1588,7 +1499,7 @@
 
 ---
 
-### 67. The Photostress Test
+### 60. The Photostress Test
 
 **PEARL:** In the **PHOTOSTRESS (macular dazzle) TEST**, the patient reads the smallest legible line, is dazzled with a bright light for 10–15 seconds, and the **PHOTOSTRESS RECOVERY TIME** to read that line again is measured (normal <50 seconds, and within 1.5× the fellow eye). **RECOVERY IS PROLONGED IN MACULAR DISEASE and NORMAL IN OPTIC NERVE DISEASE.**
 
@@ -1610,7 +1521,7 @@
 
 ---
 
-### 68. Pan-Retinal Photocoagulation: Why It Works
+### 61. Pan-Retinal Photocoagulation: Why It Works
 
 **PEARL:** Pan-retinal photocoagulation in **proliferative diabetic retinopathy** works by **destroying areas of ISCHAEMIC PERIPHERAL RETINA** — removing the source of VEGF — not by sealing leaking vessels or ablating the new vessels themselves.
 
@@ -1636,7 +1547,7 @@
 
 ---
 
-### 69. Branch Retinal Vein Occlusion
+### 62. Branch Retinal Vein Occlusion
 
 **PEARL:** **Loss of only a SECTOR of the visual field** (here, the superior field) is a **BRANCH** occlusion — the deficit maps to one vascular territory. Because the retinal image is inverted, a **SUPERIOR field defect corresponds to an INFERIOR retinal branch occlusion**. Sudden **total** monocular loss would indicate a **central** occlusion.
 
@@ -1658,7 +1569,7 @@
 
 ---
 
-### 70. Hypertensive vs Diabetic Retinopathy
+### 63. Hypertensive vs Diabetic Retinopathy
 
 **PEARL:** **IRMA (intraretinal microvascular abnormalities) belong to DIABETIC retinopathy, not hypertensive retinopathy.** Hypertension gives **arteriolar narrowing, AV nicking, cotton-wool spots, flame haemorrhages, hard exudates and papilloedema**.
 
@@ -1684,7 +1595,7 @@
 
 ---
 
-### 71. Punched-Out Chorioretinal Lesions
+### 64. Punched-Out Chorioretinal Lesions
 
 **PEARL:** **Bilateral healed "punched-out" macular chorioretinal scars = TOXOPLASMOSIS**, usually congenital.
 
@@ -1709,7 +1620,7 @@
 
 ---
 
-### 72. Zonular Spaces and the Anterior Vitreous
+### 65. Zonular Spaces and the Anterior Vitreous
 
 **PEARL:** The **canal of Petit** is the **capsulohyaloid space** — between the anterior hyaloid membrane behind and the ciliary body/zonule in front.
 
@@ -1737,7 +1648,7 @@
 
 ---
 
-### 73. Central Retinal Artery Occlusion
+### 66. Central Retinal Artery Occlusion
 
 **PEARL:** **Sudden painless monocular vision loss** with a **pale retina and cherry-red spot** in a patient with cardiovascular disease. Immediate measures to lower IOP: **ocular massage, anterior chamber paracentesis, IV acetazolamide**. **Hollenhorst plaques** (bright cholesterol emboli at bifurcations, from the carotid) point to the source.
 
@@ -1754,44 +1665,7 @@
 
 ---
 
-### 74. Drusen
-
-**PEARL:** **Extracellular eosinophilic deposits between the retinal pigment epithelium and Bruch's membrane.**
-
-**MUST KNOW:** The hallmark of **age-related macular degeneration**: **hard drusen** (small, discrete) are relatively benign; **soft, large, confluent drusen** predict progression to **wet (neovascular) AMD**. Dry AMD → geographic atrophy; wet AMD → **choroidal neovascularization**, treated with **anti-VEGF (ranibizumab, bevacizumab, aflibercept)**. **Optic disc drusen** are a different entity (calcified deposits causing pseudopapilloedema).
-
-**REMEMBER:** *Drusen sit between RPE and Bruch's — soft and big means wet AMD is coming.*
-
----
-
-### 75. Asteroid Hyalosis
-
-**PEARL:** **Calcium pyrophosphate particles in the vitreous gel** — numerous tiny round **yellow-white opacities** that **move with the vitreous but do NOT sediment inferiorly** when the eye is still.
-
-**MUST KNOW:** Usually **unilateral, asymptomatic, in the elderly/diabetics** — needs **no treatment**; it mainly obscures the surgeon's/examiner's view of the fundus. Contrast **synchysis scintillans (cholesterolosis bulbi)** — **cholesterol crystals, often bilateral, in previously injured/diseased eyes, which DO settle inferiorly** when the eye is at rest.
-
-**REMEMBER:** *Asteroids float and stay suspended; synchysis crystals sink.*
-
----
-
-### 76. Non-Proliferative Diabetic Retinopathy
-
-**PEARL:** Fundus features:
-
-- **Microaneurysms** — the earliest sign, from **loss of pericytes**
-- **Haemorrhages** — superficial **flame-shaped** and deep **dot-and-blot**
-- **Hard exudates** — yellow, waxy **lipoprotein and lipid-laden macrophages**, in clumps or **circinate** rings
-- **Cotton-wool spots** — fluffy white **nerve fibre layer infarcts**
-- **IRMA** — intraretinal **arteriovenous shunts**
-- **Venous beading, looping and dilatation**
-
-**MUST KNOW:** **IRMA and venous beading are the strongest predictors of progression to proliferative retinopathy** ("4-2-1 rule" for severe NPDR). **Neovascularization defines PDR** → panretinal photocoagulation. **Macular oedema is the commonest cause of visual loss** in diabetes → anti-VEGF. **Vision may be normal despite severe retinopathy — hence screening.**
-
-**REMEMBER:** *Microaneurysm first (pericytes die); IRMA and beading mean PDR is near.*
-
----
-
-### 77. Stargardt Disease
+### 67. Stargardt Disease
 
 **PEARL:** **The commonest macular dystrophy** (also called fundus flavimaculatus) — **autosomal recessive**, due to mutation in the photoreceptor-specific **ATP-binding cassette gene ABCA4**.
 
@@ -1805,7 +1679,7 @@
 
 ## Neuro-Ophthalmology and Visual Pathway
 
-### 78. Oculomotor Nerve — Nucleus, Palsy and the Pupil Rule
+### 68. Oculomotor Nerve — Nucleus, Palsy and the Pupil Rule
 
 **PEARL:** The **OCULOMOTOR (III) NUCLEUS lies in the midbrain at the level of the SUPERIOR COLLICULUS; the TROCHLEAR (IV) nucleus at the INFERIOR COLLICULUS; and the ABDUCENS (VI) nucleus in the pons at the FACIAL COLLICULUS.** A complete third nerve palsy gives an eye that is **"DOWN AND OUT" with PTOSIS, a DILATED unreactive PUPIL and loss of accommodation.** **DIABETIC (ischaemic) third nerve palsy is PUPIL-SPARING and presents with PTOSIS and diplopia; a COMPRESSIVE lesion (POSTERIOR COMMUNICATING ARTERY ANEURYSM, uncal herniation) involves the PUPIL EARLY.**
 
@@ -1837,7 +1711,7 @@
 
 ---
 
-### 79. Neuromyelitis Optica
+### 69. Neuromyelitis Optica
 
 **PEARL:** **SEVERE optic neuritis (often BILATERAL, with profound visual loss) plus TRANSVERSE MYELITIS, relapsing and steroid-responsive, = NEUROMYELITIS OPTICA (DEVIC'S DISEASE)** — an autoimmune ASTROCYTOPATHY with **antibodies against AQUAPORIN-4 (AQP4-IgG)**, the water channel on astrocyte foot processes.
 
@@ -1859,7 +1733,7 @@
 
 ---
 
-### 80. Relative Afferent Pupillary Defect
+### 70. Relative Afferent Pupillary Defect
 
 **PEARL:** In the **SWINGING FLASHLIGHT TEST**, when the light is swung to the affected eye **BOTH PUPILS PARADOXICALLY DILATE** — a **RELATIVE AFFERENT PUPILLARY DEFECT (MARCUS GUNN PUPIL)**, the earliest and most reliable objective sign of **UNILATERAL/ASYMMETRIC OPTIC NERVE DISEASE.** The RAPD is in the eye with the **worse afferent input**; both pupils are otherwise equal in size.
 
@@ -1886,7 +1760,7 @@
 
 ---
 
-### 81. An Enlarged Blind Spot
+### 71. An Enlarged Blind Spot
 
 **PEARL:** The **physiological blind spot is an absolute scotoma corresponding to the optic disc (no photoreceptors).** It is **ENLARGED in PAPILLOEDEMA, PRIMARY OPEN-ANGLE GLAUCOMA, MEDULLATED (myelinated) NERVE FIBRES, optic disc DRUSEN, optic disc COLOBOMA and MYOPIC DISC with a crescent.** **OPTIC DISC HYPOPLASIA does NOT enlarge it** — the disc is SMALL (with the "DOUBLE-RING SIGN").
 
@@ -1908,7 +1782,7 @@
 
 ---
 
-### 82. The Vestibulo-Ocular Reflex and Doll's Eye Testing
+### 72. The Vestibulo-Ocular Reflex and Doll's Eye Testing
 
 **PEARL:** The **OCULOCEPHALIC ("DOLL'S EYE") REFLEX tests cranial nerves VIII (afferent), III and VI (efferent) and their brainstem connections.** In an unconscious patient with an INTACT brainstem, turning the head makes the **eyes move CONJUGATELY IN THE OPPOSITE DIRECTION.** The **GAIN of the vestibulo-ocular reflex is 1** — eye velocity equals head velocity, in the opposite direction.
 
@@ -1930,9 +1804,9 @@
 
 ---
 
-### 83. Optic Neuritis — Types, Treatment and the ONTT
+### 73. Optic Neuritis — Types, Treatment and the ONTT
 
-**PEARL:** Optic neuritis has three anatomical forms: **RETROBULBAR NEURITIS — a completely NORMAL FUNDUS with NO disc oedema (the commonest form in adults: "the patient sees nothing and the doctor sees nothing"); PAPILLITIS — a swollen hyperaemic disc (commonest in children); and NEURORETINITIS — disc swelling PLUS a MACULAR STAR (think CAT-SCRATCH DISEASE, syphilis, Lyme — and NOT multiple sclerosis).** **Optic neuritis is the PRESENTING feature of MS in ~20–30% (not 70%), and occurs at some point in ~50%.**
+**PEARL: **Optic neuritis has three anatomical forms:** RETROBULBAR NEURITIS — a completely NORMAL FUNDUS with NO disc oedema (the commonest form in adults: "the patient sees nothing and the doctor sees nothing"); PAPILLITIS — a swollen hyperaemic disc (commonest in children); and NEURORETINITIS — disc swelling PLUS a MACULAR STAR (think CAT-SCRATCH DISEASE, syphilis, Lyme — and NOT multiple sclerosis).** **Optic neuritis is the PRESENTING feature of MS in ~20–30% (not 70%), and occurs at some point in ~50%.**
 
 **UNDERSTAND:** The hallmark of optic nerve disease is that **COLOUR VISION AND CONTRAST SENSITIVITY ARE AFFECTED OUT OF PROPORTION to the Snellen acuity** — because the small-calibre parvocellular fibres carrying colour and fine contrast are damaged preferentially. A patient with 6/9 acuity may be unable to see red at all ("RED DESATURATION"). Expecting the colour loss to be proportional is the classic error.
 
@@ -1955,7 +1829,7 @@
 
 ---
 
-### 84. The Visual Pathway — Neuron Order
+### 74. The Visual Pathway — Neuron Order
 
 **PEARL:** In the visual pathway, **PHOTORECEPTORS (rods and cones) are the FIRST-order neurons, BIPOLAR cells the SECOND-order, and GANGLION CELLS the THIRD-order neurons** — whose axons form the nerve fibre layer, optic nerve, chiasma and tract, synapsing in the **LATERAL GENICULATE BODY (the fourth-order neuron)**, which projects via the optic radiation to the **primary visual cortex (area 17) in the occipital lobe.**
 
@@ -1977,7 +1851,7 @@
 
 ---
 
-### 85. Types of Optic Atrophy
+### 75. Types of Optic Atrophy
 
 **PEARL:** **GLAUCOMATOUS optic atrophy = deep CUPPING with thinning/notching of the neuroretinal rim, NASAL SHIFTING of vessels and bayonetting.** **PRIMARY optic atrophy — a chalky-WHITE disc with SHARPLY DEFINED margins and a visible lamina cribrosa (retrobulbar neuritis, optic nerve compression/tumour, trauma, tabes, toxic/nutritional).** **SECONDARY optic atrophy — a dirty-grey disc with BLURRED, indistinct margins and gliosis, following papilloedema or papillitis.** **CONSECUTIVE optic atrophy — a waxy pale disc with ATTENUATED ARTERIOLES, following RETINAL disease (retinitis pigmentosa, extensive photocoagulation, CRAO).**
 
@@ -2002,7 +1876,7 @@
 
 ---
 
-### 86. Optic Chiasma — Blood Supply
+### 76. Optic Chiasma — Blood Supply
 
 **PEARL:** Supplied by the **anterior cerebral (dorsal surface), anterior communicating, internal carotid and superior hypophyseal arteries**. The **middle cerebral artery does NOT supply the chiasma**.
 
@@ -2027,7 +1901,7 @@
 
 ---
 
-### 87. Idiopathic Intracranial Hypertension
+### 77. Idiopathic Intracranial Hypertension
 
 **PEARL:** Headache and transient visual obscurations in a young **obese woman** with **bilateral papilloedema**, a **normal neurological examination except a VI nerve palsy**, **normal imaging** and a **raised opening pressure (>25 cm H₂O) with normal CSF composition** = **idiopathic intracranial hypertension (pseudotumour cerebri)**.
 
@@ -2053,7 +1927,7 @@
 
 ---
 
-### 88. Aberrant Regeneration of the Third Nerve
+### 78. Aberrant Regeneration of the Third Nerve
 
 **PEARL:** **Involuntary elevation of the eyelid on attempted adduction or downgaze, months after a traumatic or compressive third nerve palsy, is the PSEUDO-VON GRAEFE SIGN** — a feature of **aberrant regeneration (oculomotor synkinesis)**.
 
@@ -2075,7 +1949,7 @@
 
 ---
 
-### 89. Pupillary Light Reflex Pathway
+### 79. Pupillary Light Reflex Pathway
 
 **PEARL:** The pupillary light reflex **bypasses the lateral geniculate body**: retinal ganglion cells → **optic nerve/tract → pretectal nucleus → BOTH Edinger–Westphal nuclei → ciliary ganglion → short ciliary nerves → sphincter pupillae**.
 
@@ -2101,7 +1975,7 @@
 
 ---
 
-### 90. Localising Visual Field Defects
+### 80. Localising Visual Field Defects
 
 **PEARL:** **Right homonymous hemianopia = LEFT-sided lesion** behind the chiasma. "Loss of the right half of both visual fields" means loss of the **left eye's nasal and right eye's temporal** fields → **left optic tract, radiation or cortex**.
 
@@ -2127,7 +2001,7 @@
 
 ---
 
-### 91. Ptosis in Myasthenia Gravis
+### 81. Ptosis in Myasthenia Gravis
 
 **PEARL:** **Ptosis is the commonest ocular finding in myasthenia gravis** — more common than diplopia — and it is **insidious, bilateral and asymmetrical**, worsening through the day.
 
@@ -2155,7 +2029,7 @@
 
 ## Squint and Ocular Motility
 
-### 92. The Parks–Bielschowsky Three-Step Test
+### 82. The Parks–Bielschowsky Three-Step Test
 
 **PEARL:** For a **VERTICAL deviation, work through three steps: (1) WHICH EYE is hyper- or hypotropic in primary gaze; (2) does the deviation WORSEN ON RIGHT OR LEFT GAZE; (3) does it WORSEN ON RIGHT OR LEFT HEAD TILT (BIELSCHOWSKY).** Each step halves the four candidate muscles until one remains. **A superior oblique palsy — by far the commonest — worsens on OPPOSITE gaze and SAME-SIDE head tilt.**
 
@@ -2178,7 +2052,7 @@
 
 ---
 
-### 93. The Worth Four-Dot Test
+### 83. The Worth Four-Dot Test
 
 **PEARL:** In **WORTH'S FOUR-DOT TEST** the patient wears a **RED lens over the RIGHT eye and a GREEN lens over the LEFT** and views **4 lights (1 red, 2 green, 1 white)**. **ALL 4 SEEN = normal binocular single vision (or abnormal retinal correspondence if a manifest squint is present). 2 RED LIGHTS = LEFT suppression. 3 GREEN LIGHTS = RIGHT suppression. 5 LIGHTS (2 red + 3 green) = DIPLOPIA.**
 
@@ -2204,7 +2078,7 @@
 
 ---
 
-### 94. Superior Oblique and Third Nerve Palsy
+### 84. Superior Oblique and Third Nerve Palsy
 
 **PEARL:** The **SUPERIOR OBLIQUE (CN IV) INTORTS, DEPRESSES and ABDUCTS** the eye — it does **NOT adduct**. In a complete **THIRD nerve palsy** the eye rests **"DOWN AND OUT"** with **ptosis and a fixed dilated pupil**, because the only surviving muscles are the **lateral rectus (VI) and superior oblique (IV)** — so **"lateral and upward gaze" is impossible** and is the false statement.
 
@@ -2230,7 +2104,7 @@
 
 ---
 
-### 95. Yoke Muscles
+### 85. Yoke Muscles
 
 **PEARL:** Yoke muscles are **contralateral synergists** — one from each eye, contracting together in a version movement. **Right superior oblique pairs with left inferior rectus** (levodepression).
 
@@ -2255,7 +2129,7 @@
 
 ---
 
-### 96. Managing Squint in a Child
+### 86. Managing Squint in a Child
 
 **PEARL:** The order is **ROOP: Refractive correction → Orthoptics/Occlusion (amblyopia therapy) → Operative correction → Prisms**. **Never operate before treating amblyopia.**
 
@@ -2293,7 +2167,7 @@
 
 ## Ocular Trauma
 
-### 97. Penetrating Ocular Injury
+### 87. Penetrating Ocular Injury
 
 **PEARL:** In a **PENETRATING eye injury with a retained foreign body, DO NOT REMOVE THE FOREIGN BODY IN THE EMERGENCY DEPARTMENT.** The correct initial sequence is: **PRIMARY SURVEY of the patient, DOCUMENT VISUAL ACUITY in both eyes, SHIELD (never patch or pad) the eye, give TETANUS PROPHYLAXIS and PROPHYLACTIC ANTIBIOTICS, KEEP THE PATIENT NIL BY MOUTH, and obtain a CT SCAN to localise the foreign body** — removal is done under controlled conditions in theatre.
 
@@ -2319,7 +2193,7 @@
 
 ---
 
-### 98. Blunt Ocular Trauma — The Named Signs
+### 88. Blunt Ocular Trauma — The Named Signs
 
 **PEARL:** Blunt trauma produces **Vossius ring** (a ring of pigment imprinted on the anterior lens capsule by the contracted pupillary margin), **rosette cataract** (the typical concussion cataract), and **commotio retinae / Berlin's oedema** (milky white posterior pole with a **cherry-red fovea**).
 
@@ -2340,7 +2214,7 @@
 
 ---
 
-### 99. Orbital Blowout Fracture
+### 89. Orbital Blowout Fracture
 
 **PEARL:** A blowout fracture **protects the globe — severe ocular damage is RARE**. Expect **infraorbital nerve anaesthesia**, **double diplopia** (in both up- and down-gaze), and **enophthalmos appearing only after ~10 days** as the oedema settles.
 
@@ -2363,21 +2237,9 @@
 
 ---
 
-### 100. Penetrating Injury with Foreign Body
-
-**PEARL:** In penetrating injury, the foreign body is **removed only after localizing it with a CT scan**.
-
-**MUST KNOW:** **CT is the imaging of choice; MRI is contraindicated if the foreign body may be metallic/magnetic.** Never remove a protruding foreign body in casualty (it may be tamponading) — protect with a **rigid shield (not a pad)**, give tetanus prophylaxis and systemic antibiotics, and repair in theatre. Retained **iron → siderosis bulbi**, **copper → chalcosis/sunflower cataract**.
-
-**REMEMBER:** *Image before you pull; shield, don't pad; no MRI if metal.*
-
----
-
----
-
 ## Ocular Tumours
 
-### 101. Choroidal Melanoma
+### 90. Choroidal Melanoma
 
 **PEARL:** A **solitary elevated grey-brown dome-shaped SUBRETINAL mass with orange PIGMENT (lipofuscin) over it**, causing painless visual loss and metamorphopsia, is a **CHOROIDAL MELANOMA — the commonest PRIMARY intraocular malignancy in ADULTS.** On **ANGIOGRAPHY it shows "DOUBLE CIRCULATION"** (the tumour's own vessels plus the overlying retinal vessels); on **B-SCAN ULTRASOUND it shows the pathognomonic "COLLAR-STUD/MUSHROOM" shape** with **LOW INTERNAL REFLECTIVITY and choroidal excavation.**
 
@@ -2405,7 +2267,7 @@
 
 ---
 
-### 102. Retinoblastoma — Spread and Chemotherapy
+### 91. Retinoblastoma — Spread and Chemotherapy
 
 **PEARL:** **DIRECT (contiguous) INVASION is the commonest route of spread of retinoblastoma** — into the vitreous (ENDOPHYTIC, with vitreous seeding), into the subretinal space (EXOPHYTIC, causing retinal detachment), and along the **OPTIC NERVE to the brain**, which is the most important route for mortality. The standard **CHEMOREDUCTION regimen is VINCRISTINE + CARBOPLATIN + ETOPOSIDE (VEC).**
 
@@ -2428,7 +2290,7 @@
 
 ---
 
-### 103. Orbital Rhabdomyosarcoma
+### 92. Orbital Rhabdomyosarcoma
 
 **PEARL:** **Rapidly progressive proptosis in a child + small round blue cells + DESMIN positivity = rhabdomyosarcoma** — the **commonest primary orbital malignancy of childhood**.
 
@@ -2455,7 +2317,7 @@
 
 ## Ocular Pharmacology
 
-### 104. Antiglaucoma Drugs — Mechanisms and Contraindications
+### 93. Antiglaucoma Drugs — Mechanisms and Contraindications
 
 **PEARL:** **LATANOPROST (a prostaglandin analogue) lowers IOP by INCREASING UVEOSCLERAL OUTFLOW** — but it must be **AVOIDED IN ACTIVE UVEITIS, cystoid macular oedema and herpetic keratitis**, because it is pro-inflammatory. **ATROPINE (and any mydriatic) is CONTRAINDICATED IN ACUTE ANGLE-CLOSURE ("congestive") GLAUCOMA**, where it precipitates or worsens the attack — yet atropine is a *treatment* in corneal ulcer, anterior uveitis and MALIGNANT glaucoma. **AMITRIPTYLINE and other ANTICHOLINERGICS must be avoided in angle-closure glaucoma.**
 
@@ -2478,7 +2340,7 @@
 
 ---
 
-### 105. Antiglaucoma Drugs — Mechanism Groups
+### 94. Antiglaucoma Drugs — Mechanism Groups
 
 **PEARL:** **Latanoprost and the prostaglandin analogues increase UVEOSCLERAL outflow.** **Pilocarpine increases TRABECULAR outflow.** **Beta-blockers and carbonic anhydrase inhibitors REDUCE aqueous production.**
 
@@ -2505,7 +2367,7 @@
 
 ---
 
-### 106. Acetazolamide
+### 95. Acetazolamide
 
 **PEARL:** A **carbonic anhydrase inhibitor** that lowers IOP by **reducing aqueous formation** at the ciliary epithelium. Common adverse effect: a **bitter/metallic taste**; **contraindicated in sulfonamide allergy**.
 
@@ -2515,7 +2377,7 @@
 
 ---
 
-### 107. Brimonidine
+### 96. Brimonidine
 
 **PEARL:** A **selective α2 agonist** — **decreases aqueous production AND increases uveoscleral outflow**. It **crosses the blood–brain barrier**, causing **drowsiness and CNS depression** — **contraindicated in infants and children (<2 years)**, in whom it can cause apnoea.
 
@@ -2525,7 +2387,7 @@
 
 ---
 
-### 108. Netarsudil
+### 97. Netarsudil
 
 **PEARL:** A **Rho-kinase (ROCK) inhibitor** that lowers IOP by **relaxing the trabecular meshwork → increased conventional outflow**, and also reduces aqueous production (and episcleral venous pressure).
 
@@ -2539,7 +2401,7 @@
 
 ## Systemic Associations and Miscellaneous
 
-### 109. Sturge–Weber Syndrome and the Phakomatoses
+### 98. Sturge–Weber Syndrome and the Phakomatoses
 
 **PEARL:** A **PORT-WINE STAIN (naevus flammeus) in the trigeminal (especially V1) distribution + LEPTOMENINGEAL ANGIOMA + SEIZURES = STURGE–WEBER SYNDROME**, and its **COMMONEST OCULAR MANIFESTATION IS GLAUCOMA** (in ~30–70%, ipsilateral to the naevus). Presenting in infancy it causes **BUPHTHALMOS.**
 
@@ -2565,7 +2427,7 @@
 
 ---
 
-### 110. Goldenhar Syndrome
+### 99. Goldenhar Syndrome
 
 **PEARL:** **GOLDENHAR (oculo-auriculo-vertebral) SYNDROME — a first- and second-BRANCHIAL-ARCH developmental disorder: facial asymmetry with HYPOPLASIA of the malar, maxillary and mandibular regions, MACROSTOMIA, MICROTIA with PREAURICULAR SKIN TAGS, HEMIVERTEBRAE (usually cervical), and CARDIAC, RENAL and CNS anomalies.** Ocular features: **LIMBAL (epibulbar) DERMOID, upper lid COLOBOMA/notching, MICROPHTHALMOS and DISC COLOBOMA.** **LUNG HYPOPLASIA is NOT a feature.**
 
@@ -2587,7 +2449,7 @@
 
 ---
 
-### 111. Reboxetine in ADHD *(pharmacology pearl, filed here in the source)*
+### 100. Reboxetine in ADHD *(pharmacology pearl, filed here in the source)*
 
 **PEARL:** **Reboxetine** is the noradrenaline reuptake inhibitor used (off-label) in **ADHD**.
 
@@ -2598,3 +2460,7 @@
 ---
 
 ---
+
+## Sources for the 2026 Updates
+
+[^1]: **FDA approvals of pegcetacoplan (SYFOVRE, February 2023) and avacincaptad pegol (IZERVAY, August 2023) for geographic atrophy secondary to age-related macular degeneration**, and of **faricimab (VABYSMO)** for neovascular AMD and diabetic macular oedema; **AREDS-2** formulation guidance. <https://www.fda.gov/drugs/news-events-human-drugs>

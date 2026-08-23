@@ -1,25 +1,25 @@
 # Forensic Medicine — Bookmark-Derived Pearls
 
-*Distilled from bookmarked INI-CET / NEET-PG MCQs. Only high-yield, revisable learning points were kept; points already covered by the existing pearl collection were dropped.*
+*Distilled from bookmarked INI-CET / NEET-PG MCQs. Only high-yield, revisable learning points were kept; duplicate pearls have been merged so that each concept appears once, in the pearl where it belongs. Guideline-dependent content has been updated to the position as of 2026, with footnoted sources listed at the end of the file.*
 
 ---
 
 ## Contents
 
 - [Legal Procedure, Medical Jurisprudence and Negligence](#legal-procedure-medical-jurisprudence-and-negligence) — 7 pearls
-- [Identification](#identification) — 8 pearls
-- [Death, Post-Mortem Changes and Autopsy](#death-post-mortem-changes-and-autopsy) — 13 pearls
-- [Mechanical Injuries and Wounds](#mechanical-injuries-and-wounds) — 8 pearls
+- [Identification](#identification) — 7 pearls
+- [Death, Post-Mortem Changes and Autopsy](#death-post-mortem-changes-and-autopsy) — 12 pearls
+- [Mechanical Injuries and Wounds](#mechanical-injuries-and-wounds) — 7 pearls
 - [Head Injury](#head-injury) — 5 pearls
 - [Asphyxial Deaths and Drowning](#asphyxial-deaths-and-drowning) — 5 pearls
 - [Sexual Offences](#sexual-offences) — 3 pearls
-- [Infanticide and Fetal Age](#infanticide-and-fetal-age) — 5 pearls
-- [Forensic Laboratory and Evidence](#forensic-laboratory-and-evidence) — 4 pearls
-- [General Toxicology and Management](#general-toxicology-and-management) — 4 pearls
-- [Agrochemical, Plant and Animal Poisons](#agrochemical-plant-and-animal-poisons) — 6 pearls
-- [Metals and Metallic Poisons](#metals-and-metallic-poisons) — 7 pearls
+- [Infanticide and Fetal Age](#infanticide-and-fetal-age) — 4 pearls
+- [Forensic Laboratory and Evidence](#forensic-laboratory-and-evidence) — 3 pearls
+- [General Toxicology and Management](#general-toxicology-and-management) — 3 pearls
+- [Agrochemical, Plant and Animal Poisons](#agrochemical-plant-and-animal-poisons) — 4 pearls
+- [Metals and Metallic Poisons](#metals-and-metallic-poisons) — 5 pearls
 - [Alcohols, Gases and Chemical Poisons](#alcohols-gases-and-chemical-poisons) — 3 pearls
-- [Drugs of Abuse](#drugs-of-abuse) — 3 pearls
+- [Drugs of Abuse](#drugs-of-abuse) — 2 pearls
 - [Miscellaneous](#miscellaneous) — 2 pearls
 
 ---
@@ -64,6 +64,8 @@
 
 **EXAM CONNECTION:** "Leading questions are NOT allowed in all EXCEPT" → **cross-examination**.
 
+**ALSO KNOW:** **THE THREE CRIMINAL LAWS WERE REPLACED ON 1 JULY 2024: the INDIAN PENAL CODE 1860 → BHARATIYA NYAYA SANHITA (BNS) 2023; the CrPC 1973 → BHARATIYA NAGARIK SURAKSHA SANHITA (BNSS) 2023; the INDIAN EVIDENCE ACT 1872 → BHARATIYA SAKSHYA ADHINIYAM (BSA) 2023.** Questions may quote either numbering, so learn the pairs: **murder — definition IPC 300 → BNS 101, punishment IPC 302 → BNS 103 (BNS 103(2) newly covers MOB LYNCHING); culpable homicide not amounting to murder IPC 304 → BNS 105; causing death by negligence IPC 304A → BNS 106 (with a specific, higher-penalty clause for hit-and-run, and a separate lower provision for registered medical practitioners); grievous hurt IPC 320 → BNS 117; rape IPC 375/376 → BNS 63/64; perjury IPC 193 → BNS 229; insanity IPC 84 → BNS 22; consent IPC 87–90 → BNS 25–28.**[^1]
+
 **REMEMBER:** *You may lead only your opponent's witness — never your own.*
 
 `Q9924, Q10397`
@@ -98,7 +100,7 @@
 
 ### 4. POCSO Act
 
-**PEARL:** Under the **Protection of Children from Sexual Offences (POCSO) Act 2012**, an assault becomes **AGGRAVATED** when committed by **a person in a position of trust or authority — including a POLICE OFFICER, armed forces personnel, public servant, doctor, teacher, jail/hospital/institution staff, or a relative** — as well as when it causes grievous harm, involves a child under 12, or is gang assault or repeated.
+**PEARL:** Under the **Protection of Children from Sexual Offences (POCSO) Act 2012**[^2], an assault becomes **AGGRAVATED** when committed by **a person in a position of trust or authority — including a POLICE OFFICER, armed forces personnel, public servant, doctor, teacher, jail/hospital/institution staff, or a relative** — as well as when it causes grievous harm, involves a child under 12, or is gang assault or repeated.
 
 **UNDERSTAND:** The Act's whole architecture is **child-centred**: it defines a **child as anyone under 18**, is **gender-neutral**, and treats **abuse of a position of trust as an aggravating factor**, because the offender's authority both facilitates the crime and deepens the harm.
 
@@ -146,7 +148,7 @@
 
 **PEARL:** **Atkins' rule** assesses criminal responsibility by the defendant's **capacity to control his actions** because of mental disease — similar to the **irresistible impulse test**.
 
-**MUST KNOW:** Compare: **McNaughten's rule** (the Indian standard, incorporated into **Section 84 IPC / BNS equivalent**) — tests whether the accused **knew the nature of the act or that it was wrong** (a **cognitive** test, not a volitional one). The **Durham rule** ("product of mental disease") and the **Currens rule** are the other American tests.
+**MUST KNOW: **Compare:** McNaughten's rule** (the Indian standard, incorporated into **Section 84 IPC / BNS equivalent**) — tests whether the accused **knew the nature of the act or that it was wrong** (a **cognitive** test, not a volitional one). The **Durham rule** ("product of mental disease") and the **Currens rule** are the other American tests.
 
 **REMEMBER:** *McNaughten = did he KNOW? Atkins/irresistible impulse = could he STOP?*
 
@@ -180,6 +182,8 @@
 - **Other identification methods to rank:** **DNA profiling (most definitive), fingerprints, dental records/odontology, superimposition, anthropometry (Bertillon's, obsolete), scars, tattoos and moles.**
 
 **EXAM CONNECTION:** "Least common pattern" → **composite**; "most common" → **loops**.
+
+**ALSO KNOW: ****Dactylography (Galton system)**; **no two individuals, including monozygotic twins, have identical fingerprints** — the key point separating fingerprints from DNA. **Poroscopy** (sweat pore study, Locard) and **ridgeoscopy** are used when the print is fragmentary. Patterns: **loops (~65%, commonest), whorls (~25%), arches (~7%), composite**. Permanently destroyed only by damage to the **dermis** (deep burns, leprosy, some chemicals).
 
 **REMEMBER:** *Loops dominate, composites are rare — and the pattern is fixed by 24 weeks in the womb and never changes.*
 
@@ -293,17 +297,7 @@
 
 ---
 
-### 13. Fingerprints
-
-**PEARL:** Fingerprints **start developing at 12–16 weeks** of intrauterine life and are **complete by 24 weeks**; they are **unique and unchanged for life**.
-
-**MUST KNOW:** **Dactylography (Galton system)**; **no two individuals, including monozygotic twins, have identical fingerprints** — the key point separating fingerprints from DNA. **Poroscopy** (sweat pore study, Locard) and **ridgeoscopy** are used when the print is fragmentary. Patterns: **loops (~65%, commonest), whorls (~25%), arches (~7%), composite**. Permanently destroyed only by damage to the **dermis** (deep burns, leprosy, some chemicals).
-
-**REMEMBER:** *Formed by 24 weeks, unique even in identical twins, lost only if the dermis dies.*
-
----
-
-### 14. Racial Dental Features
+### 13. Racial Dental Features
 
 **PEARL:** In **Mongoloid** races the **molar cusps are wide and deep** and the **incisors are shovel-shaped**.
 
@@ -313,7 +307,7 @@
 
 ---
 
-### 15. Corporobasal Index
+### 14. Corporobasal Index
 
 **PEARL:** **Corporobasal index = (breadth of the body of the first sacral vertebra × 100) / breadth of the base of the sacrum.** It is the **only index that is HIGHER in males**.
 
@@ -329,7 +323,7 @@
 
 ## Death, Post-Mortem Changes and Autopsy
 
-### 16. Rigor Mortis — Nysten's Rule
+### 15. Rigor Mortis — Nysten's Rule
 
 **PEARL:** Rigor appears in **PROXIMO-DISTAL, cranio-caudal order: heart (left ventricle) → EYELIDS (orbicularis oculi) → muscles of the neck and lower jaw → face → thorax → UPPER LIMB → abdomen → lower limb → fingers and toes.** It **disappears in the SAME order** in which it appeared.
 
@@ -351,7 +345,7 @@
 
 ---
 
-### 17. Putrefaction and Marbling
+### 16. Putrefaction and Marbling
 
 **PEARL:** **MARBLING** — greenish-brown to purplish-red **linear branching staining along superficial veins** of the root of the limbs, thighs, flanks and shoulders — is an **EXTERNAL SIGN OF PUTREFACTION**, prominent at **36–48 hours**. It is caused by **sulph-haemoglobin** formed as haemolysed blood reacts with hydrogen sulphide from bacteria.
 
@@ -376,7 +370,7 @@
 
 ---
 
-### 18. Brain Death — Harvard Criteria
+### 17. Brain Death — Harvard Criteria
 
 **PEARL:** **Harvard criteria: (1) unreceptivity and UNRESPONSIVENESS to painful stimuli, (2) NO spontaneous movements or breathing (APNOEA), (3) ABSENCE of all elicitable reflexes, and (4) an ISOELECTRIC (flat) EEG as CONFIRMATORY** — all repeated and unchanged after **24 hours**. **It is EEG, not ECG.**
 
@@ -399,7 +393,7 @@
 
 ---
 
-### 19. Autopsy Techniques
+### 18. Autopsy Techniques
 
 **PEARL:** **LETULLE — EN MASSE removal** (cervical, thoracic, abdominal and pelvic organs taken out as a **single block, "tongue to prostate"**, then dissected). **GHON — EN BLOC** (organs removed as **several separate blocks**: cervical-thoracic, abdominal, urogenital). **VIRCHOW — organ by organ, removed and examined individually.** **ROKITANSKY — IN SITU dissection with minimal removal.**
 
@@ -421,7 +415,7 @@
 
 ---
 
-### 20. Postmortem Cooling — Algor Mortis
+### 19. Postmortem Cooling — Algor Mortis
 
 **PEARL:** The **body cooling curve is SIGMOID (S-shaped)** — an initial **plateau ("temperature plateau" of 0.5–3 hours) with little fall**, then a **steady, roughly linear fall**, then a **flattening as the body approaches ambient temperature**.
 
@@ -444,7 +438,7 @@
 
 ---
 
-### 21. Order of Putrefaction of Organs
+### 20. Order of Putrefaction of Organs
 
 **PEARL:** **Earliest to putrefy: LARYNX AND TRACHEA → stomach, intestines → LIVER and LUNGS → BRAIN → HEART → KIDNEY → bladder, uterus (non-gravid) and PROSTATE → skin, muscle, tendons → BONES and TEETH (last).** Mnemonic for the sequence of the commonly asked organs: **"L-B-H-K"** — **L**iver/**L**ungs, **B**rain, **H**eart, **K**idney.
 
@@ -466,7 +460,7 @@
 
 ---
 
-### 22. Cadaveric Spasm
+### 21. Cadaveric Spasm
 
 **PEARL:** **Cadaveric spasm (instantaneous rigor)** is an **instantaneous, localised stiffening of the muscles that were contracting at the moment of death**, occurring **without any preceding period of primary flaccidity** — it is seen in **drowning, firearm suicide, electrocution and brain injury**, but **NOT in traumatic asphyxia**, where death is too sudden and passive for a voluntary contraction to be locked in.
 
@@ -483,15 +477,17 @@
 
 **EXAM CONNECTION:** The question asks where cadaveric spasm is **not** seen — pick the mechanism with **no voluntary muscular activity at death** (traumatic asphyxia, or sudden cardiac death).
 
+**ALSO KNOW:** **Cadaveric spasm does NOT indicate time since death — it indicates the MANNER of death. Rigor mortis indicates the time since death.** Rigor is **accelerated** by strychnine, tetanus, high temperature and exertion before death.
+
 **REMEMBER:** *It freezes the last thing the hand was doing — so there must have been something being done.*
 
 `Q10974`
 
 ---
 
-### 23. Timing of Post-Mortem Changes
+### 22. Timing of Post-Mortem Changes
 
-**PEARL:** Approximate timings: **algor mortis begins immediately (~1 °C fall per hour); post-mortem LIVIDITY begins 1–3 hours and is FIXED by 6–12 hours; RIGOR MORTIS 1–2 hours, complete at 12, passes off at 36 (the "12-12-12 rule"); RELAXATION OF SPHINCTERS ~24 hours; PUTREFACTION (greenish discoloration of the right iliac fossa) 24–48 hours; ADIPOCERE FORMATION 8–10 days (up to weeks); MUMMIFICATION 3 months.**
+**PEARL: **Approximate timings:** algor mortis begins immediately (~1 °C fall per hour); post-mortem LIVIDITY begins 1–3 hours and is FIXED by 6–12 hours; RIGOR MORTIS 1–2 hours, complete at 12, passes off at 36 (the "12-12-12 rule"); RELAXATION OF SPHINCTERS ~24 hours; PUTREFACTION (greenish discoloration of the right iliac fossa) 24–48 hours; ADIPOCERE FORMATION 8–10 days (up to weeks); MUMMIFICATION 3 months.**
 
 **UNDERSTAND:** Each change has a **rate-limiting process**, which is why the intervals are so different. **Rigor tracks ATP depletion** (hours). **Putrefaction tracks bacterial proliferation from the gut**, which is why it begins in the **caecal region** and is accelerated by heat, humidity and sepsis. **Adipocere requires the HYDROLYSIS AND HYDROGENATION of body fat into a waxy soap** — a slow chemical conversion needing **moisture and a warm, anaerobic environment** (a body in water, damp soil or a sealed coffin), hence weeks rather than hours. **Mummification is the opposite** — it needs a **dry, hot, moving air** environment that desiccates the tissue faster than bacteria can rot it.
 
@@ -514,7 +510,7 @@
 
 ---
 
-### 24. Adipocere
+### 23. Adipocere
 
 **PEARL:** In adipocere the **facial features ARE well preserved**, which actually **helps identification** — a key exam trap, since every other modification of putrefaction destroys identity.
 
@@ -537,7 +533,7 @@
 
 ---
 
-### 25. Putrefaction — The First Signs
+### 24. Putrefaction — The First Signs
 
 **PEARL:** The **first EXTERNAL sign of putrefaction is greenish discoloration of the skin over the RIGHT ILIAC FOSSA (caecum)**. The **first INTERNAL sign is reddish-brown discoloration of the intima of the great vessels**, especially the aorta.
 
@@ -550,7 +546,7 @@
 - **Order of putrefaction (fastest first):** larynx and trachea, stomach, intestine, spleen, liver, brain of infants → then heart, lungs, kidneys → **last: uterus (non-gravid) and prostate**, which resist longest and are used for identification.
 - **Postmortem caloricity** — body temperature *rises* for the first 2 hours after death — occurs in **sunstroke, pontine haemorrhage, tetanus, strychnine poisoning, septicaemia and cholera**. **Cyanide poisoning does NOT cause it.**
 
-**EXAM CONNECTION:** Two separate one-liners: **first external sign (green over caecum)** and **first internal sign (vessel intima)**. The postmortem caloricity list is asked as an "all except" — the odd one out is usually **cyanide**.
+**EXAM CONNECTION: **Two separate one-liners:** first external sign (green over caecum)** and **first internal sign (vessel intima)**. The postmortem caloricity list is asked as an "all except" — the odd one out is usually **cyanide**.
 
 **REMEMBER:** *Green starts where the bacteria live.*
 
@@ -558,7 +554,7 @@
 
 ---
 
-### 26. Bruise vs Postmortem Hypostasis — The Incision Test
+### 25. Bruise vs Postmortem Hypostasis — The Incision Test
 
 **PEARL:** The **incision test** distinguishes a **contusion (bruise)** from **postmortem hypostasis (lividity)**: cut the area and see whether the blood is **inside vessels (hypostasis)** or **infiltrating the tissues (bruise)**.
 
@@ -583,9 +579,9 @@
 
 ---
 
-### 27. Postmortem Lividity — Synonyms
+### 26. Postmortem Lividity — Synonyms
 
-**PEARL:** All the same thing: **hypostasis, livor mortis, suggillation, vibices, postmortem lividity, cadaveric lividity, "darkening of death"**.
+**PEARL: **All the same thing:** hypostasis, livor mortis, suggillation, vibices, postmortem lividity, cadaveric lividity, "darkening of death"**.
 
 **MUST KNOW:**
 
@@ -597,25 +593,9 @@
 
 ---
 
-### 28. Cadaveric Spasm vs Rigor Mortis
-
-**PEARL:** **Cadaveric spasm does NOT indicate time since death — it indicates the MANNER of death. Rigor mortis indicates the time since death.**
-
-**MUST KNOW:**
-
-- **Cadaveric spasm** (instantaneous rigor): occurs **immediately at death, with no preceding primary flaccidity**, affects only a **group of muscles** (usually the hand), and **cannot be reproduced after death** — so it is powerful evidence of **suicide (weapon clutched), drowning (weeds grasped), or a struggle**.
-- **Rigor mortis**: starts **1–2 h**, complete by **12 h**, persists **12 h**, passes off by **36 h** ("12–12–12 rule" in temperate climate); follows **Nysten's rule** (head/face downwards) and is due to **ATP depletion**.
-- Rigor is **accelerated** by strychnine, tetanus, high temperature and exertion before death.
-
-**REMEMBER:** *Cadaveric spasm tells you HOW; rigor tells you WHEN.*
-
----
-
----
-
 ## Mechanical Injuries and Wounds
 
-### 29. Firearm Wounds — Range and Direction
+### 27. Firearm Wounds — Range and Direction
 
 **PEARL:** **Range is determined from the ENTRY wound:** **CONTACT — largest, STELLATE (blast effect), muzzle imprint, singeing, blackening inside the track.** **CLOSE (2.5–7.5 cm) — bullet-sized, circular, with BLACKENING (soot), SINGEING and TATTOOING.** **NEAR (30–60 cm) — TATTOOING only, no blackening.** **DISTANT (>60 cm) — circular, smallest, only the ABRASION and GREASE COLLAR.**
 
@@ -642,7 +622,7 @@
 
 ---
 
-### 30. Blast Injuries
+### 28. Blast Injuries
 
 **PEARL:** **PRIMARY — the blast WAVE on gas-containing organs** (middle ear, LUNG, GI tract), with **NO external injury**. **SECONDARY — flying SHRAPNEL and debris — the commonest cause of casualties, and the source of MARSHALL'S TRIAD (punctate lacerations, bruises and abrasions).** **TERTIARY — the blast WIND throwing the body against objects.** **QUATERNARY — everything else: flash burns, crush injury, toxic gas/dust inhalation.**
 
@@ -665,7 +645,7 @@
 
 ---
 
-### 31. Burns vs Scalds
+### 29. Burns vs Scalds
 
 **PEARL:** **BURN = DRY heat** (flame, hot metal) — **SINGEING of hair PRESENT, deep, at or ABOVE the site of contact, heals slowly with a thick scar and CONTRACTURES**. **SCALD = MOIST heat** (boiling water, milk, oil, steam) — **NO singeing of hair, more superficial, at or BELOW the site of contact, heals faster with a thin scar and few contractures**.
 
@@ -690,7 +670,7 @@
 
 ---
 
-### 32. Laceration vs Incised Wound
+### 30. Laceration vs Incised Wound
 
 **PEARL:** A **LACERATION is caused by BLUNT force CRUSHING the tissue between the weapon and the underlying BONE** — not by cutting. Hence its features: **IRREGULAR, RAGGED, BRUISED and ABRADED margins, with TISSUE BRIDGES (intact nerves, vessels and fibrous strands) crossing the depth of the wound**, and hair bulbs crushed.
 
@@ -717,7 +697,7 @@
 
 ---
 
-### 33. Seat Belt Injury
+### 31. Seat Belt Injury
 
 **PEARL:** In seat belt injuries the **most commonly injured structures are the HOLLOW VISCERA — bowel, mesentery and omentum**. The combination is called **"SEAT BELT SYNDROME"**, and it is heralded by the **"SEAT BELT SIGN"** — a transverse abrasion/contusion across the abdomen.
 
@@ -739,7 +719,7 @@
 
 ---
 
-### 34. Back Spatter (Blowback Phenomenon)
+### 32. Back Spatter (Blowback Phenomenon)
 
 **PEARL:** **Back spatter (blowback)** — blood and tissue driven **backwards into the muzzle and onto the shooter's hand** — is most likely in a **CONTACT wound of the HEAD from a LARGE-CALIBRE weapon**.
 
@@ -760,7 +740,7 @@
 
 ---
 
-### 35. Defence Wounds vs Hesitation Cuts
+### 33. Defence Wounds vs Hesitation Cuts
 
 **PEARL:** **Defence wounds** are on the **ULNAR/extensor side** of the forearm, wrist and hands — they indicate **homicide**. **Tentative/hesitation cuts** are **superficial, parallel, on the RADIAL side or the front of the wrist/neck** — they indicate **suicide**.
 
@@ -773,7 +753,7 @@
 - **Self-inflicted wounds** are typically on **accessible sites**, spare vital and sensitive areas (**eyes, nipples, genitals**), are **parallel and of uniform depth**, with **clothing usually undamaged**.
 - **Fabricated (fictitious) wounds** are self-inflicted to make a false accusation — same features, plus an implausible history.
 
-**EXAM CONNECTION:** The location word is decisive: **ulnar border → defence**; **radial/flexor with parallel superficial cuts → hesitation**.
+**EXAM CONNECTION: **The location word is decisive:** ulnar border → defence**; **radial/flexor with parallel superficial cuts → hesitation**.
 
 **REMEMBER:** *You defend with the outer edge and cut yourself on the inner one.*
 
@@ -781,21 +761,9 @@
 
 ---
 
-### 36. Seat Belt Syndrome
-
-**PEARL:** Maximum damage occurs to the **mesentery, omentum and bowel** — so the **most commonly injured organ in seat belt injury is the HOLLOW VISCUS**.
-
-**MUST KNOW:** Look for the **seat belt sign** (transverse abdominal wall bruise) — its presence markedly raises the probability of intra-abdominal injury, and is associated with **Chance fracture** (transverse flexion-distraction fracture of a lumbar vertebra). Belts still save lives overall — these are the price of deceleration restraint.
-
-**REMEMBER:** *Belt bruise → hollow viscus + mesentery + Chance fracture.*
-
----
-
----
-
 ## Head Injury
 
-### 37. Skull Fractures — The Named Patterns
+### 34. Skull Fractures — The Named Patterns
 
 **PEARL:** **"MOTORCYCLIST'S FRACTURE" = a HINGE fracture of the base of the skull** — a transverse fracture across the middle cranial fossa (through the petrous temporal bones and sella) dividing the base into **two halves that move independently like a hinge**. **RING fracture** — around the **foramen magnum**, from a fall from a height **onto the feet or the vertex** (force transmitted up the spine).
 
@@ -824,7 +792,7 @@
 
 ---
 
-### 38. Skull Fractures and Their Mechanisms
+### 35. Skull Fractures and Their Mechanisms
 
 **PEARL:** **FISSURED (linear) fracture — a thin crack, the COMMONEST skull fracture, caused by impact against a BROAD surface (a fall on the ground, RTA).** **DEPRESSED ("SIGNATURE") fracture — a heavy object with a SMALL surface area (hammer), taking the SHAPE OF THE WEAPON.** **PING-PONG/indented (pond) fracture — infants.** **GUTTER fracture — a bullet grazing the skull.** **DIASTATIC/sutural fracture — separation of the sutures.**
 
@@ -851,7 +819,7 @@
 
 ---
 
-### 39. Contrecoup Injuries
+### 36. Contrecoup Injuries
 
 **PEARL:** A **fall on the OCCIPUT produces frontal/temporal contrecoup**, but a **fall on the FRONT does NOT produce an occipital contrecoup** — because the floor of the **posterior cranial fossa is smooth** while the anterior and middle fossae are **rough and ridged**.
 
@@ -878,7 +846,7 @@
 
 ---
 
-### 40. Heat Hematoma
+### 37. Heat Hematoma
 
 **PEARL:** An **extradural collection produced by intense heat/burns** charring the skull — with a **honeycomb appearance from steam bubbles**, a **soft, friable clot**, coloured **"light chocolate" to pink** (pink if carbon monoxide is present).
 
@@ -890,7 +858,7 @@
 
 ---
 
-### 41. Retraction Balls
+### 38. Retraction Balls
 
 **PEARL:** **Bulbous, clubbed axonal swellings** at the sites of axonal injury. Their number begins to **decrease 2–3 weeks after injury**, followed by **microglial clusters, astrocytosis and demyelination**.
 
@@ -904,7 +872,7 @@
 
 ## Asphyxial Deaths and Drowning
 
-### 42. Throttling vs Hanging vs Strangulation
+### 39. Throttling vs Hanging vs Strangulation
 
 **PEARL:** **BRUISING AND ABRASIONS AROUND THE NECK + FRACTURED THYROID CARTILAGE = THROTTLING (manual strangulation)** — bare hands compressing the neck. It is **always HOMICIDAL**.
 
@@ -927,7 +895,7 @@
 
 ---
 
-### 43. Fresh Water vs Sea Water Drowning
+### 40. Fresh Water vs Sea Water Drowning
 
 **PEARL:** **FRESH WATER (hypotonic) → rapid absorption from alveoli → HAEMODILUTION, HYPONATRAEMIA, HAEMOLYSIS with HYPERkalaemia → ARRHYTHMIA (ventricular fibrillation).** **SEA WATER (hypertonic) → fluid drawn INTO the alveoli → PULMONARY OEDEMA, haemoconcentration and hypovolaemia.**
 
@@ -950,7 +918,7 @@
 
 ---
 
-### 44. Signs of Ante-Mortem Drowning
+### 41. Signs of Ante-Mortem Drowning
 
 **PEARL:** **WASHERWOMAN'S HANDS AND FEET (bleached, sodden, wrinkled skin) prove only IMMERSION, not drowning** — they develop whether the person was alive or dead when they entered the water. Signs indicating **ante-mortem** drowning are **fine white leathery FOAM/froth at the mouth and nostrils, water and weeds in the STOMACH and airways, and a POSITIVE DIATOM TEST in distant organs.**
 
@@ -976,7 +944,7 @@
 
 ---
 
-### 45. Drowning — No Sign Is Conclusive
+### 42. Drowning — No Sign Is Conclusive
 
 **PEARL:** **There is NO conclusive postmortem sign of drowning.** The **diatom test is only an indicative aid**, not legal proof; drowning remains largely a **diagnosis of exclusion supported by circumstances**.
 
@@ -1002,7 +970,7 @@
 
 ---
 
-### 46. Hydrocution
+### 43. Hydrocution
 
 **PEARL:** **Hydrocution = immersion syndrome = death from sudden immersion in COLD water.**
 
@@ -1018,7 +986,7 @@
 
 ## Sexual Offences
 
-### 47. Identifying Semen and Human Origin
+### 44. Identifying Semen and Human Origin
 
 **PEARL:** **ACID PHOSPHATASE test identifies SEMINAL stains** (prostatic acid phosphatase, expressed in **Bodansky units**), detectable in the vagina for up to **36 hours**. **The ABSOLUTE PROOF of semen is finding at least ONE INTACT SPERMATOZOON** (or LDH-X/PSA detection). **The PRECIPITIN test determines SPECIES — i.e. whether blood, semen, tissue or BONE is HUMAN.**
 
@@ -1043,7 +1011,7 @@
 
 ---
 
-### 48. Piquerism
+### 45. Piquerism
 
 **PEARL:** A **paraphilia** in which sexual pleasure is derived from **penetrating another person's skin with sharp objects** (pins, needles, razors) — sometimes severe enough to cause death. From the French *piquer*, "to prick".
 
@@ -1051,7 +1019,7 @@
 
 ---
 
-### 49. Superfecundation vs Superfetation
+### 46. Superfecundation vs Superfetation
 
 **PEARL:**
 
@@ -1066,7 +1034,7 @@
 
 ## Infanticide and Fetal Age
 
-### 50. Tests for Live Birth
+### 47. Tests for Live Birth
 
 **PEARL:** **WREDIN'S test — the MIDDLE EAR.** Before birth the middle ear contains only **gelatinous embryonic connective tissue**; after respiration the eustachian tube opens and it is replaced by **air**, so opening the tympanic cavity **under water** releases a bubble. **FODERE'S test — WEIGHT of the lungs** (unrespired 30–40 g → respired 60–66 g). **PLOUCQUET'S test — RATIO of lung weight to body weight (1:70 unrespired → 1:35 respired).** **BRESLAU'S SECOND life test — air in the STOMACH and INTESTINE.**
 
@@ -1088,7 +1056,7 @@
 
 ---
 
-### 51. Estimating Fetal Age — Haase's Rule
+### 48. Estimating Fetal Age — Haase's Rule
 
 **PEARL:** **HAASE'S RULE:** for **crown–heel length ≤25 cm (first 5 months): age in months = SQUARE ROOT of the length in cm.** For **crown–heel length >25 cm (last 5 months): age in months = length ÷ 5.** **Crown–heel length = crown–rump length + length of the lower limb.**
 
@@ -1110,7 +1078,7 @@
 
 ---
 
-### 52. Radiological Signs of Intrauterine Fetal Death
+### 49. Radiological Signs of Intrauterine Fetal Death
 
 **PEARL:** **SPALDING'S SIGN — OVERLAPPING of the fetal SKULL bones** (from brain liquefaction and shrinkage), appearing ~**7 days** after death. **ROBERT'S SIGN — GAS in the fetal heart and great vessels**, at **12 hours–2 days**. **BOHR'S SIGN — ANECHOIC AREAS in the fetal brain parenchyma on ULTRASOUND**, from liquefaction, at **24–48 hours**. **HYPERFLEXION of the spine (Ball's sign) — loss of muscle tone.**
 
@@ -1132,7 +1100,7 @@
 
 ---
 
-### 53. Breslau's Second Life Test
+### 50. Breslau's Second Life Test
 
 **PEARL:** **Breslau's second (stomach-bowel) test** examines the **STOMACH and DUODENUM** for **swallowed air** to prove live birth. **Breslau's first test = the lungs (hydrostatic test).**
 
@@ -1154,21 +1122,9 @@
 
 ---
 
-### 54. Bohr Sign (Intrauterine Fetal Death)
-
-**PEARL:** **Anechoic areas in the fetal brain parenchyma from liquefaction**, appearing **~24–48 hours after fetal death** — a reliable ultrasound marker of **intrauterine demise**.
-
-**MUST KNOW:** Other signs of IUD: **Spalding's sign** (overlapping skull bones, after ~7 days), **Robert's sign** (gas in the great vessels/heart), **Deuel's halo sign** (scalp oedema), hyperflexion of the spine, and **loss of cardiac activity — the definitive real-time diagnosis**.
-
-**REMEMBER:** *Bohr = 24–48 h liquefaction; Spalding = a week later, bones overlap.*
-
----
-
----
-
 ## Forensic Laboratory and Evidence
 
-### 55. Preserving Biological Evidence
+### 51. Preserving Biological Evidence
 
 **PEARL:** Blood-stained articles must be **AIR-DRIED IN THE SHADE and preserved in a PAPER ENVELOPE OR BAG — NEVER in a plastic bag or airtight container.** Each article is packed **separately** and sealed.
 
@@ -1190,7 +1146,7 @@
 
 ---
 
-### 56. Vacutainer Tubes and Toxicological Samples
+### 52. Vacutainer Tubes and Toxicological Samples
 
 **PEARL:** **GREY top (sodium FLUORIDE + potassium oxalate) is the tube for ALCOHOL and toxicology** — fluoride **inhibits glycolysis and prevents post-collection metabolism of alcohols**, oxalate anticoagulates. **LIGHT BLUE (3.2% sodium CITRATE) is for coagulation studies, including LUPUS ANTICOAGULANT/antiphospholipid testing.**
 
@@ -1227,7 +1183,7 @@
 
 ---
 
-### 57. Precipitin Test
+### 53. Precipitin Test
 
 **PEARL:** The **precipitin (Uhlenhuth) test** distinguishes **human from animal** origin — a precipitate on adding **anti-human serum** to the sample extract indicates human tissue.
 
@@ -1237,21 +1193,9 @@
 
 ---
 
-### 58. Preserving Blood-Stained Evidence
-
-**PEARL:** Preserve blood-stained items in a **paper envelope or paper bag** (allowing air circulation) and dry stains **in the shade/by air-drying** — **avoid plastic bags, direct sunlight and heat**, which denature DNA.
-
-**UNDERSTAND:** Plastic traps moisture → bacterial and fungal growth → DNA degradation; heat and UV break the DNA directly.
-
-**REMEMBER:** *Paper, shade, dry — never plastic, never sun.*
-
----
-
----
-
 ## General Toxicology and Management
 
-### 59. Colour of the Gastric Mucosa at Autopsy
+### 54. Colour of the Gastric Mucosa at Autopsy
 
 **PEARL:** **ARSENIC — RED VELVETY.** **Sulphuric acid — brown/black, carbonised with perforation.** **Nitric acid — YELLOW.** **Carbolic acid (phenol) — GREY, leathery, thickened.** **Hydrocyanic acid — PINK (and bitter almond smell).** **Potassium cyanide — BRICK RED to brown.** **Phosphorus — yellow/grey-white (and LUMINOUS, garlicky vomitus).** **Copper sulphate and SODIUM AMYTAL — BLUE.**
 
@@ -1273,7 +1217,7 @@
 
 ---
 
-### 60. Pupils in Poisoning — Miosis vs Mydriasis
+### 55. Pupils in Poisoning — Miosis vs Mydriasis
 
 **PEARL:** **MIOSIS (pinpoint): OPIUM/morphine (with coma and respiratory depression — the classic triad), ORGANOPHOSPHATES, carbolic acid, barbiturates, pontine haemorrhage, pethidine, clonidine.** **MYDRIASIS: DATURA/atropine, cocaine, amphetamine, cyanide, nux vomica (strychnine), ether, antihistamines, TCAs.**
 
@@ -1289,34 +1233,15 @@
 
 **EXAM CONNECTION:** "Pinpoint pupils — most likely substance" → **opium**.
 
+**ALSO KNOW:** Pupil size is a tug-of-war between **parasympathetic constriction (CN III, the sphincter pupillae)** and **sympathetic dilatation (the dilator pupillae)**. Anything that **stimulates the parasympathetic system or suppresses the sympathetic** constricts — which is why **cholinergic** agents (organophosphates) and **opioids** (which act on the Edinger–Westphal nucleus) give pinpoint pupils. Anything **anticholinergic** (datura) or **sympathomimetic** (cocaine, amphetamine) dilates. Reading the pupil therefore reads the autonomic effect of the poison. **The opioid triad: COMA + RESPIRATORY DEPRESSION + PINPOINT PUPILS**, with hypotension, bradycardia and hypothermia. **Antidote: NALOXONE** — a pure competitive antagonist, short-acting (repeat doses or an infusion may be needed as it is shorter-acting than most opioids). **Naloxone reverses everything except sedation** in some formulations, and is **avoided in neonates of opioid-dependent mothers — it precipitates acute withdrawal and seizures.** **Organophosphate poisoning: the muscarinic "DUMBBELS" (Diarrhoea, Urination, Miosis, Bronchorrhoea/Bronchospasm, Bradycardia, Emesis, Lacrimation, Salivation)** plus nicotinic fasciculations and CNS effects; **garlicky odour; low RBC/plasma cholinesterase; treat with ATROPINE titrated to drying of secretions (not to pupil size) + PRALIDOXIME (reactivates the enzyme before "ageing") + diazepam.** Beware the **intermediate syndrome** at 24–96 hours and delayed neuropathy. **Datura (dhatura) — "the poison of thieves"**: anticholinergic delirium, **dry hot flushed skin, dilated pupils, urinary retention, hyperthermia**; the classic Indian medicolegal agent used for **stupefying** travellers before robbery. **Antidotes to keep together: opioids → naloxone; benzodiazepines → flumazenil; organophosphates → atropine + pralidoxime; paracetamol → N-acetylcysteine; methanol/ethylene glycol → fomepizole or ethanol; cyanide → hydroxocobalamin/sodium thiosulphate; iron → desferrioxamine; lead → EDTA/DMSA; arsenic and mercury → BAL/dimercaprol; warfarin → vitamin K; heparin → protamine; TCAs → sodium bicarbonate; methaemoglobinaemia → methylene blue; digoxin → digoxin-specific Fab.** *Parasympathetic poisons pin the pupil; anticholinergic and stimulant poisons blow it wide.*
+
 **REMEMBER:** *Cholinergic and opioid make them small; anticholinergic and sympathomimetic make them big.*
 
 `Q10395`
 
 ---
 
-### 61. Miosis vs Mydriasis in Poisoning
-
-**PEARL:** **PINPOINT PUPILS (MIOSIS): OPIUM/morphine, ORGANOPHOSPHATES, carbolic acid (phenol), barbiturates, pethidine, nicotine, clonidine, and PONTINE HAEMORRHAGE.** **DILATED PUPILS (MYDRIASIS): DATURA/atropine, COCAINE, amphetamines, cyanide, ether, nux vomica (strychnine), viper venom, TCAs, and alcohol withdrawal.**
-
-**UNDERSTAND:** Pupil size is a tug-of-war between **parasympathetic constriction (CN III, the sphincter pupillae)** and **sympathetic dilatation (the dilator pupillae)**. Anything that **stimulates the parasympathetic system or suppresses the sympathetic** constricts — which is why **cholinergic** agents (organophosphates) and **opioids** (which act on the Edinger–Westphal nucleus) give pinpoint pupils. Anything **anticholinergic** (datura) or **sympathomimetic** (cocaine, amphetamine) dilates. Reading the pupil therefore reads the autonomic effect of the poison.
-
-**MUST KNOW:**
-
-- **The opioid triad: COMA + RESPIRATORY DEPRESSION + PINPOINT PUPILS**, with hypotension, bradycardia and hypothermia. **Antidote: NALOXONE** — a pure competitive antagonist, short-acting (repeat doses or an infusion may be needed as it is shorter-acting than most opioids). **Naloxone reverses everything except sedation** in some formulations, and is **avoided in neonates of opioid-dependent mothers — it precipitates acute withdrawal and seizures.**
-- **Organophosphate poisoning: the muscarinic "DUMBBELS" (Diarrhoea, Urination, Miosis, Bronchorrhoea/Bronchospasm, Bradycardia, Emesis, Lacrimation, Salivation)** plus nicotinic fasciculations and CNS effects; **garlicky odour; low RBC/plasma cholinesterase; treat with ATROPINE titrated to drying of secretions (not to pupil size) + PRALIDOXIME (reactivates the enzyme before "ageing") + diazepam.** Beware the **intermediate syndrome** at 24–96 hours and delayed neuropathy.
-- **Datura (dhatura) — "the poison of thieves"**: anticholinergic delirium, **dry hot flushed skin, dilated pupils, urinary retention, hyperthermia**; the classic Indian medicolegal agent used for **stupefying** travellers before robbery.
-- **Antidotes to keep together: opioids → naloxone; benzodiazepines → flumazenil; organophosphates → atropine + pralidoxime; paracetamol → N-acetylcysteine; methanol/ethylene glycol → fomepizole or ethanol; cyanide → hydroxocobalamin/sodium thiosulphate; iron → desferrioxamine; lead → EDTA/DMSA; arsenic and mercury → BAL/dimercaprol; warfarin → vitamin K; heparin → protamine; TCAs → sodium bicarbonate; methaemoglobinaemia → methylene blue; digoxin → digoxin-specific Fab.**
-
-**EXAM CONNECTION:** The pupil is the whole clue. **Pinpoint → opioid or organophosphate** (distinguish by secretions and fasciculations); **dilated → datura or cocaine**.
-
-**REMEMBER:** *Parasympathetic poisons pin the pupil; anticholinergic and stimulant poisons blow it wide.*
-
-`Q11044`
-
----
-
-### 62. Gastric Lavage — Contraindications and the Carbolic Acid Exception
+### 56. Gastric Lavage — Contraindications and the Carbolic Acid Exception
 
 **PEARL:** Gastric lavage is **contraindicated in corrosive poisoning — EXCEPT carbolic acid (phenol)**, which is the one corrosive where lavage is allowed.
 
@@ -1342,7 +1267,7 @@
 
 ## Agrochemical, Plant and Animal Poisons
 
-### 63. Organophosphate Poisoning — Atropine vs Oximes
+### 57. Organophosphate Poisoning — Atropine vs Oximes
 
 **PEARL:** **ATROPINE reverses only the MUSCARINIC effects** — bradycardia, hypotension, bronchorrhoea, salivation, lacrimation, urination, defaecation, miosis. **It does NOT touch the NICOTINIC effects — muscle fasciculations, cramps, weakness and respiratory muscle paralysis — for which OXIMES (pralidoxime) are required.**
 
@@ -1359,13 +1284,15 @@
 
 **EXAM CONNECTION:** "All improve with atropine EXCEPT" → **muscle cramps** (a nicotinic effect).
 
+**ALSO KNOW:** Carbamates **do NOT undergo ageing** (the carbamyl–enzyme bond hydrolyses spontaneously within hours), have **less CNS toxicity**, and **pralidoxime is CONTRAINDICATED** — but they **can still cause the intermediate syndrome**. Organophosphates form a **covalent phosphorylated enzyme** that loses an alkyl group over time — **"ageing"** — making the bond irreversible, which is why oximes must be given *early*. **Carbamylation is inherently reversible**, so the enzyme regenerates on its own; adding an oxime is pointless and its own **transient cholinesterase inhibition** can worsen things. **Ageing time varies:** very fast for **dimethyl compounds and the nerve agent soman (minutes)**, slower for diethyl compounds. Carbamates **penetrate the CNS poorly in adults** — so less coma and seizures; children are less protected. *Carbamates let go by themselves — no ageing, no oxime.*
+
 **REMEMBER:** *Atropine dries the secretions; only oximes rescue the muscles — and only before the enzyme ages.*
 
 `Q10295`
 
 ---
 
-### 64. Aconite and Nux Vomica
+### 58. Aconite and Nux Vomica
 
 **PEARL:** **ACONITE (*Aconitum napellus*, "monkshood", Himalayan) — the root resembles HORSE-RADISH (mooli) and tastes SWEET then produces TINGLING AND NUMBNESS of the tongue and skin, with HIPPUS (alternating miosis and mydriasis)**, ending in cardiovascular or respiratory collapse. Active principle: **aconitine**. **NUX VOMICA (*Strychnos nux-vomica*) — an UNCRUSHED seed swallowed whole has NO poisonous action** and passes intact in the faeces.
 
@@ -1381,6 +1308,8 @@
 
 **EXAM CONNECTION:** Himalayan trek + horse-radish-like root + numbness + hippus → **aconite**. Uncrushed nux vomica seed → **no poisonous action**.
 
+**ALSO KNOW:** Aconitine holds **sodium channels open** → persistent depolarization → **refractory ventricular arrhythmias** (the actual cause of death), with tingling/burning of the mouth and throat as the earliest symptom. It is called the **"queen of poisons"** and is a known **arrow/cattle poison**; often used in **Indian criminal poisoning**. There is no specific antidote — treat with **atropine, antiarrhythmics (amiodarone/flecainide), and supportive care**.
+
 **REMEMBER:** *Aconite numbs then kills; strychnine convulses with a clear mind — but only if the seed was crushed.*
 
 **IMAGES:**
@@ -1390,7 +1319,7 @@
 
 ---
 
-### 65. Cardiotoxic Plants of India
+### 59. Cardiotoxic Plants of India
 
 **PEARL:** ***THEVETIA PERUVIANA* (yellow oleander) — YELLOW BELL-SHAPED flowers.** ***NERIUM ODORUM/OLEANDER* (white/pink oleander, "kaner") — flowers NOT bell-shaped.** ***CERBERA ODOLLAM* ("SUICIDE TREE") — white flowers with a MANGO-LIKE fruit.** ***ACONITUM* (monkshood) — HOOD-shaped flowers.** ***ERYTHROXYLUM COCA*** — the source of cocaine, with a leaf showing **two curved longitudinal lines flanking the midrib** and **red berries**.
 
@@ -1425,7 +1354,7 @@
 
 ---
 
-### 66. Snakebite Management in India
+### 60. Snakebite Management in India
 
 **PEARL:** **ANTI-SNAKE VENOM (ASV) is the mainstay** — Indian polyvalent ASV covers the **"BIG FOUR": cobra, krait, Russell's viper and saw-scaled viper**. **NEOSTIGMINE WITH ATROPINE is useful in COBRA (post-synaptic) bites but is characteristically INEFFECTIVE in KRAIT (pre-synaptic) envenomation.**
 
@@ -1447,43 +1376,9 @@
 
 ---
 
-### 67. Carbamate vs Organophosphate Poisoning
-
-**PEARL:** Carbamates **do NOT undergo ageing** (the carbamyl–enzyme bond hydrolyses spontaneously within hours), have **less CNS toxicity**, and **pralidoxime is CONTRAINDICATED** — but they **can still cause the intermediate syndrome**.
-
-**UNDERSTAND:** Organophosphates form a **covalent phosphorylated enzyme** that loses an alkyl group over time — **"ageing"** — making the bond irreversible, which is why oximes must be given *early*. **Carbamylation is inherently reversible**, so the enzyme regenerates on its own; adding an oxime is pointless and its own **transient cholinesterase inhibition** can worsen things.
-
-**MUST KNOW:**
-
-- **Both** produce the same acute cholinergic crisis: **DUMBBELS** (Diarrhoea, Urination, Miosis, Bronchorrhoea/Bronchospasm, Bradycardia, Emesis, Lacrimation, Salivation) plus nicotinic fasciculations.
-- **Atropine is the mainstay for BOTH** — titrated to drying of secretions, not to pupil size. **Pralidoxime for OP only**, given before ageing.
-- **Ageing time varies:** very fast for **dimethyl compounds and the nerve agent soman (minutes)**, slower for diethyl compounds.
-- Three OP syndromes: **acute cholinergic crisis**, **intermediate syndrome (24–96 h — proximal muscle, neck flexor and respiratory weakness)**, and **OPIDN (organophosphate-induced delayed neuropathy, 2–3 weeks, distal sensorimotor, from neuropathy target esterase inhibition)**.
-- Carbamates **penetrate the CNS poorly in adults** — so less coma and seizures; children are less protected.
-
-**EXAM CONNECTION:** "True about carbamate compared to OP" → **it can also cause intermediate syndrome**. The three distractors each state the *opposite* of a real carbamate property.
-
-**REMEMBER:** *Carbamates let go by themselves — no ageing, no oxime.*
-
-`MB0960`
-
----
-
-### 68. Aconite
-
-**PEARL:** Grows in the **Himalayas**; the **root resembles horse-radish and tastes sweet** (hence accidental poisoning). Causes **numbness then tingling**, **hippus (alternating miosis and mydriasis)**, and death from **cardiovascular or respiratory collapse**. Active principle: the alkaloid **aconitine**.
-
-**MUST KNOW:** Aconitine holds **sodium channels open** → persistent depolarization → **refractory ventricular arrhythmias** (the actual cause of death), with tingling/burning of the mouth and throat as the earliest symptom. It is called the **"queen of poisons"** and is a known **arrow/cattle poison**; often used in **Indian criminal poisoning**. There is no specific antidote — treat with **atropine, antiarrhythmics (amiodarone/flecainide), and supportive care**.
-
-**REMEMBER:** *Sweet Himalayan root → tingling mouth, hippus, fatal arrhythmia.*
-
----
-
----
-
 ## Metals and Metallic Poisons
 
-### 69. Iron Poisoning — The Five Stages
+### 61. Iron Poisoning — The Five Stages
 
 **PEARL:** **(1) GASTROINTESTINAL phase (0–6 h) — vomiting, haematemesis and GI BLEEDING** → **(2) LATENT/ASYMPTOMATIC phase (6–24 h) — deceptive apparent recovery** → **(3) SHOCK and metabolic acidosis with HEPATIC FAILURE and HYPOGLYCAEMIA (12–48 h)** → **(4) hepatic necrosis** → **(5) LATE: PYLORIC STRICTURE and gastric outlet obstruction at 2–6 weeks.**
 
@@ -1509,9 +1404,9 @@
 
 ---
 
-### 70. Cadmium — Itai-Itai Disease
+### 62. Cadmium — Itai-Itai Disease
 
-**PEARL:** **Chronic cadmium toxicity ("ITAI-ITAI" — "ouch-ouch" disease)**: **OSTEOMALACIA and OSTEOPOROSIS with multiple fractures and bone pain, RENAL TUBULAR dysfunction (proteinuria), ANAEMIA, and YELLOW-BROWN DISCOLORATION OF THE TEETH ("cadmium ring") WITHOUT necrosis.** Exposure: **batteries, pigments, electroplating, welding and PYROTECHNICS**.
+**PEARL: ****Chronic cadmium toxicity ("ITAI-ITAI" — "ouch-ouch" disease)**: **OSTEOMALACIA and OSTEOPOROSIS with multiple fractures and bone pain, RENAL TUBULAR dysfunction (proteinuria), ANAEMIA, and YELLOW-BROWN DISCOLORATION OF THE TEETH ("cadmium ring") WITHOUT necrosis.** Exposure: **batteries, pigments, electroplating, welding and PYROTECHNICS**.
 
 **UNDERSTAND:** Cadmium is filtered and then **reabsorbed and retained in the proximal tubule bound to metallothionein**, where it destroys tubular function. The resulting **loss of phosphate and impaired vitamin D activation** produces **osteomalacia** — so the bone disease is a *consequence* of the renal lesion, not a direct bone effect.
 
@@ -1525,6 +1420,8 @@
 
 **EXAM CONNECTION:** Pyrotechnic worker + fractures + renal dysfunction + **brown teeth WITHOUT necrosis** → **cadmium**.
 
+**ALSO KNOW:** Renal damage is **proximal tubular** → **low-molecular-weight proteinuria (β2-microglobulin)**, glycosuria, aminoaciduria (**Fanconi-like**) and phosphate wasting — which is what causes the osteomalacia. Acute inhalation causes **chemical pneumonitis/metal fume fever**. **Chelation is relatively ineffective** — BAL/EDTA can worsen renal injury.
+
 **REMEMBER:** *Cadmium stains the teeth and softens the bones through the kidney; phosphorus rots the jaw.*
 
 **IMAGES:**
@@ -1534,7 +1431,7 @@
 
 ---
 
-### 71. Mercury — Acrodynia
+### 63. Mercury — Acrodynia
 
 **PEARL:** **ACRODYNIA (PINK DISEASE)** — chronic **MERCURY** poisoning in infants and young children: a **PINK, painful, swollen, desquamating rash of the hands and feet**, with photophobia, irritability, insomnia, excessive sweating and hypertension. It is a **hypersensitivity reaction to mercury**.
 
@@ -1550,13 +1447,15 @@
 
 **EXAM CONNECTION:** "Acrodynia is associated with" → **mercury**.
 
+**ALSO KNOW:** **Chronic mercury poisoning in infants/young children** — a **pinkish rash beginning at the extremities**, painful swelling of hands and feet, and **desquamation**; a **hypersensitivity reaction** to mercury. Treatment: **remove the source + chelation**.
+
 **REMEMBER:** *Pink painful peeling hands and feet in a toddler — mercury. Mad hatter tremor and blue gum line in the adult.*
 
 `Q12000`
 
 ---
 
-### 72. Thallium Poisoning
+### 64. Thallium Poisoning
 
 **PEARL:** **Alopecia + loss of the OUTER THIRD of the eyebrows + Mees' lines + peripheral neuropathy and behavioural change = thallium** poisoning. Treat with **Prussian blue**.
 
@@ -1584,7 +1483,7 @@
 
 ---
 
-### 73. Lead Poisoning
+### 65. Lead Poisoning
 
 **PEARL:** Lead primarily inhibits **ALA dehydratase (ALAD)** — disrupting haem synthesis and accumulating precursors.
 
@@ -1599,31 +1498,9 @@
 
 ---
 
-### 74. Mercury — Acrodynia (Pink Disease)
-
-**PEARL:** **Chronic mercury poisoning in infants/young children** — a **pinkish rash beginning at the extremities**, painful swelling of hands and feet, and **desquamation**; a **hypersensitivity reaction** to mercury. Treatment: **remove the source + chelation**.
-
-**MUST KNOW:** Other mercury syndromes: **erethism** (shyness, insomnia, memory loss, emotional lability — the "mad hatter"), **intention tremor**, gingivitis and salivation; **Minamata disease** = methylmercury from contaminated fish, causing congenital cerebral palsy-like disease. Chelators: **BAL, DMSA, penicillamine** — *not* EDTA.
-
-**REMEMBER:** *Pink painful peeling extremities in a child = mercury (acrodynia).*
-
----
-
-### 75. Cadmium — Itai-Itai Disease
-
-**PEARL:** Chronic cadmium toxicity: **osteomalacia and osteoporosis with multiple fractures ("ouch-ouch" disease), renal tubular dysfunction, anaemia, and brown discolouration of teeth** — from industrial exposure (**batteries, pigments, electroplating, pyrotechnics**).
-
-**MUST KNOW:** Renal damage is **proximal tubular** → **low-molecular-weight proteinuria (β2-microglobulin)**, glycosuria, aminoaciduria (**Fanconi-like**) and phosphate wasting — which is what causes the osteomalacia. Acute inhalation causes **chemical pneumonitis/metal fume fever**. **Chelation is relatively ineffective** — BAL/EDTA can worsen renal injury.
-
-**REMEMBER:** *Cadmium = painful bones + leaky tubules + yellow-brown teeth.*
-
----
-
----
-
 ## Alcohols, Gases and Chemical Poisons
 
-### 76. Toxic Alcohols — Methanol and Ethylene Glycol
+### 66. Toxic Alcohols — Methanol and Ethylene Glycol
 
 **PEARL:** Both are **relatively non-toxic themselves — the METABOLITES kill**. **METHANOL → formaldehyde → FORMIC ACID → OPTIC NERVE damage and blindness.** **ETHYLENE GLYCOL → glycoaldehyde → glycolic and OXALIC acid → CALCIUM OXALATE crystalluria, HYPOCALCAEMIA and RENAL FAILURE.** Both give a **severe HIGH ANION GAP metabolic acidosis with a raised OSMOLAR GAP**. Treatment for both: **FOMEPIZOLE (4-methylpyrazole) or ethanol** to block **ALCOHOL DEHYDROGENASE**.
 
@@ -1645,7 +1522,7 @@
 
 ---
 
-### 77. Methanol Poisoning and Hooch Tragedies
+### 67. Methanol Poisoning and Hooch Tragedies
 
 **PEARL:** Methanol poisoning causes **visual disturbance, metabolic acidosis and NORMAL calcium** — distinguishing it from **ethylene glycol**, which causes **HYPOcalcaemia**. **Hooch tragedies** are mass poisonings from illicitly brewed liquor contaminated with methanol.
 
@@ -1661,7 +1538,7 @@
 
 ---
 
-### 78. Carbon Monoxide Poisoning
+### 68. Carbon Monoxide Poisoning
 
 **PEARL:** Death in CO poisoning is due to **ANAEMIC hypoxia** (also called histotoxic-anaemic in later stages).
 
@@ -1681,7 +1558,7 @@
 
 ## Drugs of Abuse
 
-### 79. Nicotine vs Cocaine — Reading the Stem
+### 69. Nicotine vs Cocaine — Reading the Stem
 
 **PEARL:** **NICOTINE ("TOBACCO HEART") — irregular heart action with EXTRASYSTOLES and anginal chest pain, plus TOBACCO AMBLYOPIA with NARROWING OF THE VISUAL FIELDS.** **COCAINE — tachycardia, hypertension, **coronary vasoconstriction with MI**, arrhythmias, aortic dissection; ocular effects are **madarosis, corneal ulceration and CRAO**.
 
@@ -1697,13 +1574,15 @@
 
 **EXAM CONNECTION:** This identical stem has been keyed as **nicotine (AIIMS 2017)** and as **cocaine (repeat paper)** — know both and read the qualifiers.
 
+**ALSO KNOW:** Mechanism: blocks **reuptake of dopamine, noradrenaline and serotonin** (and is a local anaesthetic — the only one that is a vasoconstrictor). Emergencies: **myocardial infarction with normal coronaries**, aortic dissection, intracerebral haemorrhage, hyperthermia, seizures. Chronic use: **nasal septal perforation**, **formication ("cocaine bugs")**, **Magnan's symptom**.
+
 **REMEMBER:** *Extrasystoles plus shrinking visual fields is tobacco heart; MI and a perforated septum is cocaine.*
 
 `Q8740, Q11988`
 
 ---
 
-### 80. Opioid Withdrawal and Dependence
+### 70. Opioid Withdrawal and Dependence
 
 **PEARL:** **Yawning, lacrimation, rhinorrhoea, sweating, piloerection, MYDRIASIS, myalgia, vomiting and diarrhoea = opioid WITHDRAWAL** — the mirror image of overdose. **Heroin causes the most physical dependence**; **hallucinogens (LSD, PCP, ketamine) cause NO physical dependence**.
 
@@ -1726,26 +1605,9 @@
 
 ---
 
-### 81. Cocaine
-
-**PEARL:** A **sympathomimetic** — CNS and cardiovascular stimulation with **tachycardia, palpitations, arrhythmias**, and occasionally **visual field defects from vasoconstriction and ischaemia**.
-
-**MUST KNOW:**
-
-- Mechanism: blocks **reuptake of dopamine, noradrenaline and serotonin** (and is a local anaesthetic — the only one that is a vasoconstrictor).
-- Emergencies: **myocardial infarction with normal coronaries**, aortic dissection, intracerebral haemorrhage, hyperthermia, seizures.
-- **Avoid β-blockers** (unopposed α-stimulation worsens vasospasm) — give **benzodiazepines first**, plus nitrates/phentolamine.
-- Chronic use: **nasal septal perforation**, **formication ("cocaine bugs")**, **Magnan's symptom**.
-
-**REMEMBER:** *Cocaine chest pain = benzodiazepines and nitrates, never a beta-blocker.*
-
----
-
----
-
 ## Miscellaneous
 
-### 82. Beau's Lines
+### 71. Beau's Lines
 
 **PEARL:** **Transverse grooves across the nail** (full or partial thickness), appearing **weeks after a systemic insult** — MI, measles, mumps, pneumonia, severe illness, chemotherapy.
 
@@ -1757,7 +1619,7 @@
 
 ---
 
-### 83. Nitric Oxide Synthesis *(biochemistry pearl, filed here in the source)*
+### 72. Nitric Oxide Synthesis *(biochemistry pearl, filed here in the source)*
 
 **PEARL:** **NOS converts L-arginine → nitric oxide + L-CITRULLINE**; citrulline is recycled back to arginine via the **citrulline–NO cycle**, sustaining continuous NO production.
 
@@ -1768,3 +1630,11 @@
 ---
 
 ---
+
+## Sources for the 2026 Updates
+
+*Footnotes below support the legal and guideline changes flagged in the pearls above.*
+
+[^1]: **Bharatiya Nyaya Sanhita 2023, Bharatiya Nagarik Suraksha Sanhita 2023 and Bharatiya Sakshya Adhiniyam 2023**, all in force from **1 July 2024**, replacing the Indian Penal Code 1860, the Code of Criminal Procedure 1973 and the Indian Evidence Act 1872 respectively. <https://www.indiacode.nic.in/handle/123456789/20062>
+
+[^2]: **Medical Termination of Pregnancy (Amendment) Act 2021**, **POCSO Act 2012** (mandatory reporting) and the **Transplantation of Human Organs and Tissues Act (as amended)** remain the governing statutes and were not superseded by the 2023 codes. <https://www.indiacode.nic.in/>

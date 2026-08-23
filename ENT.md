@@ -1,19 +1,19 @@
 # ENT — Bookmark-Derived Pearls
 
-*Distilled from bookmarked INI-CET / NEET-PG MCQs. Only high-yield, revisable learning points were kept; points already covered by the existing pearl collection were dropped.*
+*Distilled from bookmarked INI-CET / NEET-PG MCQs. Only high-yield, revisable learning points were kept; duplicate pearls have been merged so that each concept appears once, in the pearl where it belongs. Guideline-dependent content has been updated to the position as of 2026, with footnoted sources listed at the end of the file.*
 
 ---
 
 ## Contents
 
 - [Ear — Anatomy and Physiology](#ear--anatomy-and-physiology) — 8 pearls
-- [Hearing Assessment and Audiology](#hearing-assessment-and-audiology) — 8 pearls
+- [Hearing Assessment and Audiology](#hearing-assessment-and-audiology) — 6 pearls
 - [Diseases of the Ear](#diseases-of-the-ear) — 8 pearls
 - [Vestibular Disorders](#vestibular-disorders) — 6 pearls
 - [Nose, Paranasal Sinuses and Face](#nose-paranasal-sinuses-and-face) — 12 pearls
-- [Oral Cavity, Pharynx and Oesophagus](#oral-cavity-pharynx-and-oesophagus) — 5 pearls
+- [Oral Cavity, Pharynx and Oesophagus](#oral-cavity-pharynx-and-oesophagus) — 3 pearls
 - [Larynx, Airway and Tracheostomy](#larynx-airway-and-tracheostomy) — 8 pearls
-- [Head and Neck Tumours and Spaces](#head-and-neck-tumours-and-spaces) — 8 pearls
+- [Head and Neck Tumours and Spaces](#head-and-neck-tumours-and-spaces) — 7 pearls
 
 ---
 
@@ -282,30 +282,7 @@
 
 ---
 
-### 11. Rinne and Weber Tests
-
-**PEARL:** **Rinne POSITIVE = AC > BC = NORMAL hearing OR sensorineural loss.** **Rinne NEGATIVE = BC > AC = CONDUCTIVE deafness.** In conductive loss, **bone conduction exceeds air conduction** — the defining abnormality.
-
-**UNDERSTAND:** Air conduction must traverse the **entire mechanism — canal, drum, ossicles, cochlea**; bone conduction **bypasses the outer and middle ear and vibrates the skull directly into the cochlea**. So blocking or stiffening the conducting apparatus reduces AC while leaving BC intact (indeed BC seems relatively better, because ambient masking noise is also excluded — the **occlusion effect**). A cochlear or nerve lesion damages the **common final pathway**, degrading both routes equally, so the **normal AC > BC relationship is preserved** — which is why a sensorineural ear is still "Rinne positive", just quieter.
-
-**MUST KNOW:**
-
-- Use a **512 Hz** tuning fork (256 Hz is too easily felt as vibration; 1024 Hz decays too fast).
-- **Weber test** — fork on the vertex: **lateralises TO the deaf ear in conductive loss**, and **AWAY from the deaf ear (to the better ear) in sensorineural loss**. Together, Rinne and Weber localise the lesion.
-- **FALSE-NEGATIVE RINNE** — the crucial trap: in **severe unilateral sensorineural (dead ear) loss**, the patient hears the bone-conducted sound **through the skull in the opposite, normal cochlea**, so BC appears greater than AC and mimics a conductive loss. **Prevent it by masking the good ear (Barany noise box)**; the Weber (lateralising away) exposes the true picture.
-- **Absolute bone conduction (ABC) test** compares the patient's BC with the examiner's — **reduced ABC = sensorineural loss**; normal ABC with a negative Rinne = conductive.
-- **Rinne becomes negative when the air–bone gap exceeds about 15–20 dB**; the degree of gap can be estimated: negative at 256 Hz only ≈ 20–30 dB gap; negative at 256 and 512 ≈ 30–45 dB; negative at all three ≈ >45 dB.
-- **Pure tone audiometry** quantifies what the tuning forks screen for; an **air–bone gap** is the audiometric signature of conductive loss.
-
-**EXAM CONNECTION:** Multi-statement true/false. The false statement is nearly always "**AC > BC in conductive loss**" — that relationship is exactly what is reversed.
-
-**REMEMBER:** *Negative Rinne is the abnormal one — and it means the sound is stuck in the middle ear.*
-
-`Q10902`
-
----
-
-### 12. WHO Grades of Hearing Impairment
+### 11. WHO Grades of Hearing Impairment
 
 **PEARL:** A patient who can hear **only when words are SHOUTED into the better ear** has **SEVERE hearing loss — 61–80 dB (WHO grade 3)**. Normal conversational speech is about **60 dB**, so needing a shout means the threshold has passed that level.
 
@@ -329,13 +306,15 @@
 
 **EXAM CONNECTION:** Convert the functional description into decibels. **Shout = 61–80 dB = severe.** Note that the option "severe hearing loss >70%" uses loose wording — match on "severe/shouted".
 
+**ALSO KNOW:** **The WHO grades were revised in the World Report on Hearing (2021) and are now stated in the current form: NORMAL <20 dB; MILD 20–34; MODERATE 35–49; MODERATELY SEVERE 50–64; SEVERE 65–79; PROFOUND 80–94; COMPLETE/TOTAL ≥95 dB — replacing the older 26/41/61/81 dB cut-offs.** **Cochlear implantation criteria have also widened: it is now offered for SEVERE-TO-PROFOUND sensorineural loss with limited benefit from hearing aids, from as young as 9–12 MONTHS (earlier with meningitis-related ossification), and single-sided deafness is an accepted indication.**[^1]
+
 **REMEMBER:** *Whisper 25, conversation 60, shout 80 — a shout means severe.*
 
 `Q10995`
 
 ---
 
-### 13. Audiogram Shapes
+### 12. Audiogram Shapes
 
 **PEARL:** A **RISING (ascending) audiogram — LOW frequencies affected first — is the audiogram of early MÉNIÈRE DISEASE (endolymphatic hydrops)**. A **DOWNSLOPING high-frequency loss** is seen in **presbycusis and ototoxicity**; a **4000 Hz "notch" with recovery at 8000 Hz** is the signature of **noise-induced hearing loss**.
 
@@ -364,11 +343,11 @@
 
 ---
 
-### 14. Interpreting Rinne and Weber Together
+### 13. Interpreting Rinne and Weber Together
 
 **PEARL:** **Rinne POSITIVE (AC > BC) in BOTH ears + Weber LATERALISING TO THE RIGHT = SENSORINEURAL hearing loss in the LEFT ear.** Neither test alone is sufficient — Rinne establishes that neither ear has a conductive defect, and Weber then identifies which ear is the abnormal one.
 
-**UNDERSTAND:** Weber lateralises by one of two rules: **toward the ear with CONDUCTIVE loss** (ambient masking noise is excluded, so bone-conducted sound seems louder there) or **away from the ear with SENSORINEURAL loss** (that cochlea simply hears less). Since both Rinnes are positive, conduction is intact bilaterally — so the lateralisation must obey the second rule, and the sound going **to the right means the LEFT cochlea is the deaf one**.
+**UNDERSTAND: **Weber lateralises by one of two rules:** toward the ear with CONDUCTIVE loss** (ambient masking noise is excluded, so bone-conducted sound seems louder there) or **away from the ear with SENSORINEURAL loss** (that cochlea simply hears less). Since both Rinnes are positive, conduction is intact bilaterally — so the lateralisation must obey the second rule, and the sound going **to the right means the LEFT cochlea is the deaf one**.
 
 **MUST KNOW:**
 
@@ -387,6 +366,8 @@
 
 **EXAM CONNECTION:** Work through the two tests in order — **Rinne first (is there a conductive component?), then Weber (which side?)** — and apply the "away from" rule for sensorineural loss.
 
+**ALSO KNOW:** Air conduction must traverse the **entire mechanism — canal, drum, ossicles, cochlea**; bone conduction **bypasses the outer and middle ear and vibrates the skull directly into the cochlea**. So blocking or stiffening the conducting apparatus reduces AC while leaving BC intact (indeed BC seems relatively better, because ambient masking noise is also excluded — the **occlusion effect**). A cochlear or nerve lesion damages the **common final pathway**, degrading both routes equally, so the **normal AC > BC relationship is preserved** — which is why a sensorineural ear is still "Rinne positive", just quieter. Use a **512 Hz** tuning fork (256 Hz is too easily felt as vibration; 1024 Hz decays too fast). **Rinne becomes negative when the air–bone gap exceeds about 15–20 dB**; the degree of gap can be estimated: negative at 256 Hz only ≈ 20–30 dB gap; negative at 256 and 512 ≈ 30–45 dB; negative at all three ≈ >45 dB. **Pure tone audiometry** quantifies what the tuning forks screen for; an **air–bone gap** is the audiometric signature of conductive loss.
+
 **REMEMBER:** *Both Rinnes normal means the problem is the nerve — and Weber runs away from the bad cochlea.*
 
 **IMAGES:**
@@ -396,7 +377,7 @@
 
 ---
 
-### 15. Objective vs Subjective Hearing Tests
+### 14. Objective vs Subjective Hearing Tests
 
 **PEARL:** **Objective (no patient response needed): BERA, OAE, tympanometry/impedance audiometry, acoustic reflex.** **Subjective: pure-tone audiometry, speech audiometry, tuning fork tests, free-field audiometry.**
 
@@ -429,27 +410,9 @@
 
 ---
 
-### 16. Rinne Test and Air–Bone Gap
-
-**PEARL:** Using 256, 512 and 1024 Hz tuning forks:
-
-- **Rinne negative at 256 Hz only** → air–bone gap **20–30 dB**
-- **Rinne negative at 256 and 512 Hz** → gap **30–45 dB**
-- **Rinne negative at all three (256, 512, 1024 Hz)** → gap **45–60 dB**
-
-**UNDERSTAND:** The higher the frequency at which bone conduction still beats air conduction, the bigger the conductive block — so recruiting more forks means a wider gap.
-
-**MUST KNOW:** **Rinne negative = BC > AC = conductive loss**; Rinne positive = normal or sensorineural. Watch for the **false-negative Rinne** in severe unilateral SNHL (the sound crosses to the other cochlea) — confirm with the **Weber test** (lateralizes **to** the deaf ear in conductive loss, **away** in sensorineural) and the **absolute bone conduction test**.
-
-**REMEMBER:** *More forks negative = bigger gap; 256 alone ≈ 25 dB, all three ≈ 50 dB+.*
-
----
-
----
-
 ## Diseases of the Ear
 
-### 17. Otitic Barotrauma
+### 15. Otitic Barotrauma
 
 **PEARL:** Failure of the **eustachian tube to equalise middle-ear pressure**, classically on **DESCENT** (when ambient pressure rises and the collapsed tube resists opening). Prevent with a **VASOCONSTRICTOR NASAL SPRAY (oxymetazoline) half an hour before descent**, repeated swallowing, and intermittent **Valsalva**. **Sleeping through the descent and occlusive earplugs are both harmful.**
 
@@ -472,7 +435,7 @@
 
 ---
 
-### 18. Glue Ear and Adenoids
+### 16. Glue Ear and Adenoids
 
 **PEARL:** A child with **recurrent URTI, adenoid facies (high-arched palate, open mouth, elongated face), poor growth and hearing loss**, with a **TYPE B (flat) tympanogram**, has **otitis media with effusion secondary to ADENOID HYPERTROPHY**. The correct management is **ADENOIDECTOMY WITH GROMMET INSERTION** — treat both the cause and the effect.
 
@@ -498,7 +461,7 @@
 
 ---
 
-### 19. Malignant (Necrotising) Otitis Externa
+### 17. Malignant (Necrotising) Otitis Externa
 
 **PEARL:** **NOT a malignancy — it is an INFECTIVE, locally invasive OSTEOMYELITIS of the temporal bone**, almost always due to ***PSEUDOMONAS AERUGINOSA***, in **elderly DIABETICS and the immunocompromised**. It presents with **severe, deep, unremitting ear pain (worse at night), otorrhoea and GRANULATION TISSUE AT THE BONY–CARTILAGINOUS JUNCTION** of the canal.
 
@@ -521,7 +484,7 @@
 
 ---
 
-### 20. Gradenigo Syndrome (Petrous Apicitis)
+### 18. Gradenigo Syndrome (Petrous Apicitis)
 
 **PEARL:** The triad of **(1) persistent ear discharge, (2) deep-seated retro-orbital or temporal pain (trigeminal, V1) and (3) SIXTH NERVE PALSY with failure of abduction and diplopia** = **GRADENIGO SYNDROME from PETROUS APICITIS** — spread of chronic middle ear infection into the petrous apex.
 
@@ -546,7 +509,7 @@
 
 ---
 
-### 21. Congenital Cholesteatoma — Levenson's Criteria
+### 19. Congenital Cholesteatoma — Levenson's Criteria
 
 **PEARL:** A **white pearly mass behind an INTACT tympanic membrane** in the **anterosuperior quadrant** of a child = **congenital cholesteatoma**, diagnosed by **Levenson's criteria**.
 
@@ -571,7 +534,7 @@
 
 ---
 
-### 22. Otosclerosis — Site of Predilection/preference
+### 20. Otosclerosis — Site of Predilection/preference
 
 **PEARL:** In **stapedial otosclerosis**, the commonest site is the **fissula ante fenestram** — lying **just in front of the oval window**.
 
@@ -587,7 +550,7 @@
 
 ---
 
-### 23. Ossicular Discontinuity
+### 21. Ossicular Discontinuity
 
 **PEARL:** **Malleus–incus discontinuity WITH AN INTACT tympanic membrane causes the MAXIMUM conductive hearing loss (~50–60 dB).**
 
@@ -599,7 +562,7 @@
 
 ---
 
-### 24. Phelps Sign
+### 22. Phelps Sign
 
 **PEARL:** The **Phelps sign on CECT (not otoscopy)** — **erosion of the spine of the caroticojugular crest** — indicates **glomus JUGULARE**; the crest is **intact in glomus TYMPANICUM**.
 
@@ -617,7 +580,7 @@
 
 ## Vestibular Disorders
 
-### 25. BPPV — Dix-Hallpike and Epley
+### 23. BPPV — Dix-Hallpike and Epley
 
 **PEARL:** **Brief (<1 minute) episodic vertigo triggered by head position, with NO hearing loss.** **DIAGNOSTIC manoeuvre = DIX-HALLPIKE** (the gold standard). **THERAPEUTIC manoeuvre = EPLEY (canalith repositioning).**
 
@@ -643,7 +606,7 @@
 
 ---
 
-### 26. The Caloric Test
+### 24. The Caloric Test
 
 **PEARL:** **COLD water irrigation produces nystagmus with the FAST phase beating TOWARD THE OPPOSITE (contralateral) ear; WARM water beats toward the SAME side** — the mnemonic **COWS: Cold Opposite, Warm Same** (referring to the fast phase).
 
@@ -668,7 +631,7 @@
 
 ---
 
-### 27. Superior Semicircular Canal Dehiscence Syndrome
+### 25. Superior Semicircular Canal Dehiscence Syndrome
 
 **PEARL:** Superior semicircular canal dehiscence causes a **CONDUCTIVE hearing loss with NORMAL middle ear function — not sensorineural loss.** The classic features are **TULLIO's phenomenon (sound-induced vertigo/nystagmus), a POSITIVE FISTULA TEST (pressure-induced vertigo — Hennebert's sign), autophony, pulsatile tinnitus, and gaze-evoked/oscillopsia**.
 
@@ -693,7 +656,7 @@
 
 ---
 
-### 28. Benign Paroxysmal Positional Vertigo and the Epley Manoeuvre
+### 26. Benign Paroxysmal Positional Vertigo and the Epley Manoeuvre
 
 **PEARL:** **Brief (<1 minute) positional vertigo triggered by turning over in bed, with NO hearing loss or tinnitus and a positive DIX–HALLPIKE test = BPPV of the POSTERIOR semicircular canal.** The **EPLEY (canalith repositioning) manoeuvre** cures it by moving the otoconia **FROM the POSTERIOR SEMICIRCULAR CANAL BACK INTO THE UTRICLE**.
 
@@ -718,7 +681,7 @@
 
 ---
 
-### 29. Reading Vestibular Nystagmus
+### 27. Reading Vestibular Nystagmus
 
 **PEARL:** In peripheral vestibular disease the **FAST phase beats AWAY from the hypoactive (diseased) labyrinth**. Horizontal nystagmus with the **slow phase to the left** means the fast phase is to the **right** → **left hypoactive labyrinth**.
 
@@ -741,7 +704,7 @@
 
 ---
 
-### 30. Ménière's Disease — The Treatment Ladder
+### 28. Ménière's Disease — The Treatment Ladder
 
 **PEARL:** **Labyrinthectomy is the definitive treatment for intractable vertigo** in Ménière's — the **highest vertigo-control rate (> 95%)** — but it **destroys all hearing** in that ear.
 
@@ -755,7 +718,7 @@
 - **Recruitment is positive** (cochlear pathology); **glycerol test** and **electrocochleography (raised SP/AP ratio)** support the diagnosis.
 - **Lermoyez syndrome** (hearing improves as vertigo starts) and **Tumarkin's otolithic crisis** (drop attacks) are Ménière's variants.
 
-**EXAM CONNECTION:** Read the qualifier: **"definitive"** → labyrinthectomy; **"first-line"** → salt restriction and diuretics; **"hearing-preserving surgery"** → vestibular neurectomy.
+**EXAM CONNECTION: **Read the qualifier:** "definitive"** → labyrinthectomy; **"first-line"** → salt restriction and diuretics; **"hearing-preserving surgery"** → vestibular neurectomy.
 
 **REMEMBER:** *Take out the labyrinth and the vertigo has nothing left to come from.*
 
@@ -767,7 +730,7 @@
 
 ## Nose, Paranasal Sinuses and Face
 
-### 31. Paranasal Sinus Mucocele
+### 29. Paranasal Sinus Mucocele
 
 **PEARL:** A **slow-growing, mucus-filled, epithelium-lined expansile cyst** from **chronic obstruction of the sinus ostium** — often **years after trauma or surgery**. The **FRONTAL sinus is the commonest site** (frontal > ethmoid > maxillary > sphenoid), presenting with **headache, NON-AXIAL PROPTOSIS, diplopia** and a **cystic swelling with EGGSHELL CRACKLING**.
 
@@ -794,7 +757,7 @@
 
 ---
 
-### 32. Samter's Triad
+### 30. Samter's Triad
 
 **PEARL:** **NASAL POLYPOSIS + ASTHMA + ASPIRIN (NSAID) INTOLERANCE** — also called **aspirin-exacerbated respiratory disease (AERD)**. **Allergic rhinitis is NOT part of it.**
 
@@ -817,7 +780,7 @@
 
 ---
 
-### 33. Epistaxis — The Stepwise Approach
+### 31. Epistaxis — The Stepwise Approach
 
 **PEARL:** **Trotter's method first** (sit up, lean **forward**, pinch the soft part of the nose for 5–10 minutes, spit out blood, breathe through the mouth). If bleeding continues: **cautery of the bleeding point**, then **anterior nasal packing — MEROCEL is the first-line packing material**, then posterior packing/balloon, then surgical or endovascular intervention.
 
@@ -844,7 +807,7 @@
 
 ---
 
-### 34. Septoplasty vs Submucous Resection
+### 32. Septoplasty vs Submucous Resection
 
 **PEARL:** **SEPTOPLASTY is CONSERVATIVE** — **FREER'S incision**, a **mucoperichondrial flap raised on ONE SIDE only**, retaining as much cartilage as possible, and it **can be done in children**. **SUBMUCOUS RESECTION (SMR)** — **KILLIAN'S incision**, flaps raised on **BOTH sides**, extensive cartilage removal, **not done under 18 years**.
 
@@ -866,7 +829,7 @@
 
 ---
 
-### 35. Radiographic Views of the Paranasal Sinuses
+### 33. Radiographic Views of the Paranasal Sinuses
 
 **PEARL:** **WATER'S (occipitomental, nose-chin) — best for the MAXILLARY sinus.** **CALDWELL'S (occipitofrontal, nose-forehead) — best for the FRONTAL and ETHMOID sinuses.** **SUBMENTOVERTICAL (basal) — SPHENOID sinus, zygomatic arches and skull base.** **TOWNE'S — occipital bone, foramen magnum and mandibular condyles.**
 
@@ -895,7 +858,7 @@
 
 ---
 
-### 36. Le Fort Fractures
+### 34. Le Fort Fractures
 
 **PEARL:** **Le Fort I — a transverse fracture above the alveolus ("floating palate").** **Le Fort II — pyramidal, through the nasofrontal suture, the INFERIOR ORBITAL RIM and FLOOR, and the maxilla ("floating maxilla").** **Le Fort III — CRANIOFACIAL DISJUNCTION: through the nasofrontal suture, ethmofrontal junction, MEDIAL and LATERAL orbital walls, superior orbital fissure and zygomatic arch — but NOT the inferior orbital wall/floor.**
 
@@ -918,7 +881,7 @@
 
 ---
 
-### 37. Onodi Cells and FESS Complications
+### 35. Onodi Cells and FESS Complications
 
 **PEARL:** **Onodi cells** are the **posterior-most ethmoidal cells that pneumatise laterally/superiorly around the sphenoid** — the **optic nerve runs in their lateral wall**, so operating on them risks **blindness**.
 
@@ -933,7 +896,7 @@
 - Other FESS complications: **CSF leak** (thin **lateral lamella of the cribriform plate**, graded by **Keros classification**), **orbital haematoma** and **medial rectus injury** (lamina papyracea breach), **internal carotid injury** in the sphenoid.
 - **Pott's puffy tumour** = **subperiosteal abscess of the FRONTAL bone** from frontal sinusitis with osteomyelitis; a doughy forehead swelling. Adults only — infants have no frontal sinus. **CT** is the investigation; needs **drainage plus prolonged antibiotics** because of the risk of **subdural/epidural abscess and dural sinus thrombosis**.
 
-**EXAM CONNECTION:** Match the cell to its complication: **Onodi → optic nerve/blindness; Haller → maxillary sinusitis; Agger nasi → frontal sinusitis**.
+**EXAM CONNECTION: **Match the cell to its complication:** Onodi → optic nerve/blindness; Haller → maxillary sinusitis; Agger nasi → frontal sinusitis**.
 
 **REMEMBER:** *Onodi hides the optic nerve; Haller blocks the maxilla.*
 
@@ -946,7 +909,7 @@
 
 ---
 
-### 38. Atrophic Rhinitis (Ozaena)
+### 36. Atrophic Rhinitis (Ozaena)
 
 **PEARL:** **Roomy nasal cavity + greenish-grey foul crusts + MERCIFUL ANOSMIA** = atrophic rhinitis. The patient cannot smell their own stench.
 
@@ -972,7 +935,7 @@
 
 ---
 
-### 39. Allergic Rhinitis — The Named Signs
+### 37. Allergic Rhinitis — The Named Signs
 
 **PEARL:** **Allergic shiners, allergic salute (transverse nasal crease) and Dennie–Morgan lines** are signs of allergic rhinitis. **Otto Veraguth's fold** is a sign of **depression**, not allergy.
 
@@ -997,7 +960,7 @@
 
 ---
 
-### 40. Choanal Atresia and CHARGE
+### 38. Choanal Atresia and CHARGE
 
 **PEARL:** **Choanal atresia** results from persistence of the **bucconasal membrane** and is the "**A**" of **CHARGE syndrome**. **Renal angiomyolipoma is NOT part of CHARGE** — that belongs to **tuberous sclerosis**.
 
@@ -1022,21 +985,21 @@
 
 ---
 
-### 41. Epistaxis — Nasal Packing
+### 39. Epistaxis — Nasal Packing
 
 **PEARL:** **Merocel** (an expanding compressed-sponge pack) is the **first-line agent for nasal packing**, used as the next step when **Trotter's method** fails.
 
-**MUST KNOW:** Sequence in anterior epistaxis: **first aid (Trotter's — sit up, lean forward, pinch the cartilaginous part for 10 min, breathe through the mouth)** → topical vasoconstrictor → **cautery of the bleeding point (Little's area/Kiesselbach plexus)** → **anterior packing (Merocel or ribbon gauze)** → **posterior packing/balloon** → **arterial ligation or embolization (sphenopalatine artery)**. Anterior epistaxis in the young comes from **Little's area**; posterior epistaxis in the elderly/hypertensive from the **Woodruff plexus**.
+**MUST KNOW: **Sequence in anterior epistaxis:** first aid (Trotter's — sit up, lean forward, pinch the cartilaginous part for 10 min, breathe through the mouth)** → topical vasoconstrictor → **cautery of the bleeding point (Little's area/Kiesselbach plexus)** → **anterior packing (Merocel or ribbon gauze)** → **posterior packing/balloon** → **arterial ligation or embolization (sphenopalatine artery)**. Anterior epistaxis in the young comes from **Little's area**; posterior epistaxis in the elderly/hypertensive from the **Woodruff plexus**.
 
 **REMEMBER:** *Pinch → cauterize → Merocel → posterior pack → ligate.*
 
 ---
 
-### 42. Water's View
+### 40. Water's View
 
 **PEARL:** The **occipitomental view = Water's view** — the standard view for the **maxillary sinuses** (and orbital floor/facial fractures). **Water's view with an open mouth = Pierre's view**, which additionally shows the **sphenoid sinus**.
 
-**MUST KNOW:** Other radiographic views: **Caldwell (occipitofrontal)** — frontal and ethmoid sinuses; **lateral** — sphenoid, frontal and adenoids; **submentovertical (basal)** — sphenoid and posterior ethmoids, zygomatic arches. Water's view is the classic way to see an **antral fluid level** in sinusitis and the **teardrop sign** of a blowout fracture — though **CT is now the investigation of choice**.
+**MUST KNOW: **Other radiographic views:** Caldwell (occipitofrontal)** — frontal and ethmoid sinuses; **lateral** — sphenoid, frontal and adenoids; **submentovertical (basal)** — sphenoid and posterior ethmoids, zygomatic arches. Water's view is the classic way to see an **antral fluid level** in sinusitis and the **teardrop sign** of a blowout fracture — though **CT is now the investigation of choice**.
 
 **REMEMBER:** *Water's = maxillary antrum; open the mouth (Pierre's) and you see the sphenoid.*
 
@@ -1046,7 +1009,7 @@
 
 ## Oral Cavity, Pharynx and Oesophagus
 
-### 43. Peritonsillar Abscess (Quinsy)
+### 41. Peritonsillar Abscess (Quinsy)
 
 **PEARL:** Pus collects in the **peritonsillar space — between the TONSILLAR CAPSULE and the SUPERIOR CONSTRICTOR muscle**. It is **almost always UNILATERAL**, with **severe odynophagia, drooling, trismus, a "HOT POTATO" muffled voice**, and **uvular deviation to the opposite side**. It **does not involve the floor of the mouth**.
 
@@ -1072,7 +1035,7 @@
 
 ---
 
-### 44. Membrane Over the Tonsil — Vincent's Angina vs Diphtheria
+### 42. Membrane Over the Tonsil — Vincent's Angina vs Diphtheria
 
 **PEARL:** **VINCENT'S ANGINA — the membrane is EASILY REMOVED, revealing an IRREGULAR ULCER**, with low-grade fever and relatively little systemic upset. Caused by **fusiform bacilli (*Fusobacterium*) + spirochaetes (*Borrelia vincentii*)** — a **fusospirochaetal** symbiosis. **DIPHTHERIA — the membrane is ADHERENT, and removal leaves a BLEEDING surface**; it is **dirty grey, EXTENDS BEYOND THE TONSIL onto the soft palate/uvula**, with **marked toxaemia out of proportion to the local findings**.
 
@@ -1096,7 +1059,7 @@
 
 ---
 
-### 45. Plummer–Vinson Syndrome and Post-Cricoid Carcinoma
+### 43. Plummer–Vinson Syndrome and Post-Cricoid Carcinoma
 
 **PEARL:** **Triad: IRON DEFICIENCY ANAEMIA + upper OESOPHAGEAL WEB + DYSPHAGIA** (also called Paterson–Brown–Kelly syndrome). It is a **PREMALIGNANT condition**, and the cancer it predisposes to is **POST-CRICOID CARCINOMA — characteristically in WOMEN**.
 
@@ -1122,36 +1085,9 @@
 
 ---
 
-### 46. Vincent's Angina
-
-**PEARL:** Low-grade fever with an **easily removable membrane over the tonsil revealing irregular ulcers** = **Vincent's angina**.
-
-**MUST KNOW:**
-
-- Caused by a **fusospirochaetal** synergy — ***Fusobacterium (Bacillus) fusiformis* + *Borrelia vincentii***; associated with poor oral hygiene, malnutrition and immunosuppression. Foul breath is typical.
-- Contrast **diphtheria**, where the membrane is **greyish-white, ADHERENT, and BLEEDS on removal**, with marked toxaemia and bull-neck.
-- Contrast **infectious mononucleosis** — membranous tonsillitis with generalized lymphadenopathy, splenomegaly, atypical lymphocytes and a positive **Paul–Bunnell/monospot** test (and a rash if given ampicillin).
-- Treatment: **penicillin/metronidazole + oral hygiene**.
-
-**REMEMBER:** *Membrane wipes off easily = Vincent's; sticks and bleeds = diphtheria.*
-
----
-
-### 47. Post-cricoid Carcinoma
-
-**PEARL:** The **post-cricoid region** — the anterior wall of the laryngopharynx between the upper and lower borders of the **cricoid lamina** — is a common site of carcinoma in **women with Plummer–Vinson syndrome**.
-
-**MUST KNOW:** Plummer–Vinson (Paterson–Brown Kelly) = **dysphagia + iron deficiency anaemia + post-cricoid web**, and is **premalignant**. Hypopharyngeal subsites: **pyriform fossa (commonest overall), post-cricoid, and posterior pharyngeal wall**. Post-cricoid tumours present late with dysphagia and hoarseness, and carry a poor prognosis.
-
-**REMEMBER:** *Iron-deficient woman + web = watch the post-cricoid region.*
-
----
-
----
-
 ## Larynx, Airway and Tracheostomy
 
-### 48. Stridor — Read the Phase, Find the Level
+### 44. Stridor — Read the Phase, Find the Level
 
 **PEARL:** **INSPIRATORY stridor → SUPRAGLOTTIS/pharynx** (laryngomalacia, retropharyngeal abscess, epiglottitis). **BIPHASIC stridor → GLOTTIS, SUBGLOTTIS and cervical trachea** (vocal cord palsy, subglottic stenosis, laryngeal papilloma, croup). **EXPIRATORY stridor → thoracic trachea and bronchi** (bronchial foreign body, tracheal stenosis, tracheomalacia).
 
@@ -1176,7 +1112,7 @@
 
 ---
 
-### 49. Thyroplasty — The Four Types
+### 45. Thyroplasty — The Four Types
 
 **PEARL:** **Type I — MEDIALISATION** (for vocal cord palsy/glottic incompetence). **Type II — LATERALISATION** (for adductor spasmodic dysphonia and bilateral palsy). **Type III — SHORTENING/relaxation → LOWERS pitch** (female-to-male voice). **Type IV — LENGTHENING/tightening → RAISES pitch** (male-to-female voice). Mnemonic: **"MLSL"**.
 
@@ -1198,7 +1134,7 @@
 
 ---
 
-### 50. Tracheostomy — High, Mid and Low
+### 46. Tracheostomy — High, Mid and Low
 
 **PEARL:** **HIGH tracheostomy — at the 1st tracheal ring — is performed ONLY for CARCINOMA OF THE LARYNX** (where the larynx will be removed anyway). **MID (normal) — 2nd/3rd rings — for all routine indications.** **LOW — 3rd/4th rings — for laryngotracheal stenosis and crush injury to the larynx.**
 
@@ -1220,7 +1156,7 @@
 
 ---
 
-### 51. Intrinsic Laryngeal Muscles — The Two Exceptions
+### 47. Intrinsic Laryngeal Muscles — The Two Exceptions
 
 **PEARL:** **CRICOTHYROID is the only TENSOR of the vocal cord and the only muscle supplied by the EXTERNAL LARYNGEAL nerve.** **POSTERIOR CRICOARYTENOID is the only ABDUCTOR** — the "safety muscle of the larynx". Everything else is adductor and supplied by the recurrent laryngeal nerve.
 
@@ -1246,7 +1182,7 @@
 
 ---
 
-### 52. Laryngomalacia
+### 48. Laryngomalacia
 
 **PEARL:** **Low-pitched INSPIRATORY stridor from the first weeks of life, worse on crying and supine, RELIEVED BY PRONE positioning**, with an **omega (Ω)-shaped epiglottis** on laryngoscopy = **laryngomalacia**. Management is **expectant observation** — it resolves spontaneously by ~2 years.
 
@@ -1272,7 +1208,7 @@
 
 ---
 
-### 53. Reinke Oedema
+### 49. Reinke Oedema
 
 **PEARL:** **Bilateral, diffuse, translucent "bag-like" or fusiform swelling of the whole membranous vocal cords** in a **middle-aged smoker with progressive DEEPENING of the voice and hoarseness** = **REINKE OEDEMA (polypoid chorditis)**. After failed voice therapy and smoking cessation, the treatment is **DECORTICATION (microflap removal of a strip of epithelium with evacuation of the oedema), done as a STAGED procedure — one cord at a time.**
 
@@ -1297,7 +1233,7 @@
 
 ---
 
-### 54. Recurrent Respiratory Papillomatosis
+### 50. Recurrent Respiratory Papillomatosis
 
 **PEARL:** **Grape-like/verrucous pink projections on the vocal cords = laryngeal papillomatosis**, caused by **HPV 6 and 11**, with a **high recurrence rate and low malignant potential**.
 
@@ -1325,7 +1261,7 @@
 
 ---
 
-### 55. Laryngeal Nerves — Which Injury Causes What
+### 51. Laryngeal Nerves — Which Injury Causes What
 
 **PEARL:** **Internal laryngeal nerve = sensation ABOVE the cords → its injury abolishes the cough reflex and causes aspiration, with a NORMAL voice.** **Bilateral recurrent laryngeal nerve injury → stridor and failed extubation**, needing emergency tracheostomy.
 
@@ -1359,7 +1295,7 @@
 
 ## Head and Neck Tumours and Spaces
 
-### 56. Glomus Tumour of the Middle Ear
+### 52. Glomus Tumour of the Middle Ear
 
 **PEARL:** **Pulsatile tinnitus + conductive hearing loss + an audible bruit over the mastoid** = **GLOMUS TUMOUR (paraganglioma)** — the commonest benign neoplasm of the middle ear, arising from **neural-crest-derived paraganglionic cells**. Otoscopic signs: **RISING SUN sign** (red mass behind an intact drum), **BROWN'S SIGN / PULSATION SIGN** (blanches on raising canal pressure with a Siegle's speculum). **PHELPS' SIGN is a CT finding, not otoscopic.**
 
@@ -1375,6 +1311,8 @@
 
 **EXAM CONNECTION:** "All can be seen on OTOSCOPY except" → **Phelps' sign** (that is CT).
 
+**ALSO KNOW:** **Aquino's sign** — blanching on carotid compression. **Angiography shows a vascular blush** and allows preoperative embolization. **Never biopsy in the OPD — torrential bleeding.**
+
 **REMEMBER:** *Red mass rising behind the drum that pulsates then blanches — never biopsy it.*
 
 **IMAGES:**
@@ -1384,7 +1322,7 @@
 
 ---
 
-### 57. Occupational Sinonasal Malignancy
+### 53. Occupational Sinonasal Malignancy
 
 **PEARL:** **WOODWORKERS and furniture-industry workers develop ADENOCARCINOMA**, typically of the **ETHMOID sinus and upper nasal cavity**. **NICKEL refiners develop SQUAMOUS CELL and ANAPLASTIC carcinoma.**
 
@@ -1406,7 +1344,7 @@
 
 ---
 
-### 58. Juvenile Nasopharyngeal Angiofibroma
+### 54. Juvenile Nasopharyngeal Angiofibroma
 
 **PEARL:** An **adolescent MALE with recurrent profuse EPISTAXIS and progressive nasal obstruction**. **Radkowski staging: IA — nose/nasopharyngeal vault only · IB — extension into ≥1 SINUS · IIA — minimal pterygopalatine fossa · IIB — full pterygopalatine fossa ± orbital bone erosion · IIC — infratemporal fossa · IIIA/B — skull base erosion with intracranial extension.**
 
@@ -1430,7 +1368,7 @@
 
 ---
 
-### 59. Nasopharyngeal Carcinoma
+### 55. Nasopharyngeal Carcinoma
 
 **PEARL:** The commonest site of origin is the **FOSSA OF ROSENMÜLLER** (the lateral pharyngeal recess). Classic presentation: a **PAINLESS UPPER NECK LUMP** (often the first sign), **unilateral serous otitis media in an adult**, nasal obstruction and **blood-stained nasal discharge**.
 
@@ -1456,7 +1394,7 @@
 
 ---
 
-### 60. Parapharyngeal Space — Pre-Styloid vs Post-Styloid
+### 56. Parapharyngeal Space — Pre-Styloid vs Post-Styloid
 
 **PEARL:** **Trismus belongs to the PRE-styloid compartment** (medial pterygoid spasm). The **post-styloid** compartment gives **cranial nerve IX–XII palsies, Horner's syndrome and torticollis** — but **no trismus**.
 
@@ -1480,7 +1418,7 @@
 
 ---
 
-### 61. Ohngren's Line
+### 57. Ohngren's Line
 
 **PEARL:** **Ohngren's line** runs from the **medial canthus to the angle of the mandible** and divides maxillary carcinoma into **suprastructure (above — poor prognosis)** and **infrastructure (below — better prognosis)**.
 
@@ -1507,22 +1445,7 @@
 
 ---
 
-### 62. Glomus Tumour — Anatomy and Presentation
-
-**PEARL:** **Glomus (paraganglionic) bodies** lie in the **dome of the jugular bulb** and on the **promontory along the tympanic branch of the IX nerve (Jacobson's nerve)**. Clinically: **progressive conductive hearing loss, pulsatile tinnitus, and an audible bruit over the mastoid**.
-
-**MUST KNOW:**
-
-- **Rising sun sign** — a red pulsatile mass behind the intact tympanic membrane; **Brown's sign** — it blanches on raising ear-canal pressure with a Siegel's speculum.
-- **Aquino's sign** — blanching on carotid compression.
-- Commonest tumour of the middle ear; commoner in **women**; may secrete catecholamines (screen if symptomatic).
-- **Angiography shows a vascular blush** and allows preoperative embolization. **Never biopsy in the OPD — torrential bleeding.**
-
-**REMEMBER:** *Pulsatile tinnitus + red mass + bruit = glomus; don't biopsy it.*
-
----
-
-### 63. Bilateral Vestibular Schwannoma
+### 58. Bilateral Vestibular Schwannoma
 
 **PEARL:** **Bilateral vestibular (acoustic) schwannomas are diagnostic of NEUROFIBROMATOSIS TYPE 2.**
 
@@ -1533,3 +1456,7 @@
 ---
 
 ---
+
+## Sources for the 2026 Updates
+
+[^1]: **WHO World Report on Hearing (2021)** — revised grades of hearing impairment (normal <20 dB, mild 20–34, moderate 35–49, moderately severe 50–64, severe 65–79, profound 80–94, complete ≥95 dB) and the recommendation of early cochlear implantation. <https://www.who.int/publications/i/item/9789240020481>

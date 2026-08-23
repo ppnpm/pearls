@@ -1,28 +1,28 @@
 # Dermatology — Bookmark-Derived Pearls
 
-*Distilled from bookmarked INI-CET / NEET-PG MCQs. Only high-yield, revisable learning points were kept; points already covered by the existing pearl collection were dropped.*
+*Distilled from bookmarked INI-CET / NEET-PG MCQs. Only high-yield, revisable learning points were kept; duplicate pearls have been merged so that each concept appears once, in the pearl where it belongs. Guideline-dependent content has been updated to the position as of 2026, with footnoted sources listed at the end of the file.*
 
 ---
 
 ## Contents
 
 - [Structure, Function and Morphology of Skin](#structure-function-and-morphology-of-skin) — 8 pearls
-- [Papulosquamous Disorders and Eczema](#papulosquamous-disorders-and-eczema) — 8 pearls
-- [Vesiculobullous and Immunobullous Diseases](#vesiculobullous-and-immunobullous-diseases) — 6 pearls
-- [Bacterial Infections](#bacterial-infections) — 4 pearls
-- [Viral Infections](#viral-infections) — 5 pearls
+- [Papulosquamous Disorders and Eczema](#papulosquamous-disorders-and-eczema) — 7 pearls
+- [Vesiculobullous and Immunobullous Diseases](#vesiculobullous-and-immunobullous-diseases) — 5 pearls
+- [Bacterial Infections](#bacterial-infections) — 3 pearls
+- [Viral Infections](#viral-infections) — 4 pearls
 - [Fungal Infections](#fungal-infections) — 2 pearls
 - [Leprosy](#leprosy) — 6 pearls
 - [Parasitic Infections and Infestations](#parasitic-infections-and-infestations) — 4 pearls
 - [Sexually Transmitted Infections](#sexually-transmitted-infections) — 3 pearls
 - [Disorders of Pigmentation](#disorders-of-pigmentation) — 8 pearls
-- [Hair and Nail Disorders](#hair-and-nail-disorders) — 11 pearls
-- [Genodermatoses, Ichthyoses and Neurocutaneous Syndromes](#genodermatoses-ichthyoses-and-neurocutaneous-syndromes) — 17 pearls
-- [Connective Tissue and Autoimmune Disorders](#connective-tissue-and-autoimmune-disorders) — 8 pearls
-- [Urticaria, Angioedema and Drug Reactions](#urticaria-angioedema-and-drug-reactions) — 10 pearls
-- [Skin Tumours, Naevi and Vascular Lesions](#skin-tumours-naevi-and-vascular-lesions) — 8 pearls
+- [Hair and Nail Disorders](#hair-and-nail-disorders) — 10 pearls
+- [Genodermatoses, Ichthyoses and Neurocutaneous Syndromes](#genodermatoses-ichthyoses-and-neurocutaneous-syndromes) — 13 pearls
+- [Connective Tissue and Autoimmune Disorders](#connective-tissue-and-autoimmune-disorders) — 7 pearls
+- [Urticaria, Angioedema and Drug Reactions](#urticaria-angioedema-and-drug-reactions) — 6 pearls
+- [Skin Tumours, Naevi and Vascular Lesions](#skin-tumours-naevi-and-vascular-lesions) — 7 pearls
 - [Acne, Sebaceous and Sweat Gland Disorders](#acne-sebaceous-and-sweat-gland-disorders) — 3 pearls
-- [Skin in Systemic Disease and Miscellaneous](#skin-in-systemic-disease-and-miscellaneous) — 9 pearls
+- [Skin in Systemic Disease and Miscellaneous](#skin-in-systemic-disease-and-miscellaneous) — 7 pearls
 - [Investigations and Therapeutics](#investigations-and-therapeutics) — 5 pearls
 
 ---
@@ -115,7 +115,7 @@
 
 **PEARL:** **Epidermis is ECTODERMAL; the DERMIS is MESODERMAL.** The dermis is **type I collagen (~80–85%) with type III (~10–15%)**. Skin is the largest organ, ~**15% of body weight**.
 
-**UNDERSTAND:** The dual origin explains a lot of dermatology: **epidermal appendages (hair, nails, sebaceous and sweat glands) are ectodermal**, so they fail together in the **ectodermal dysplasias**; while **melanocytes, Merkel cells and cutaneous nerves are NEURAL CREST**, and Langerhans cells come from the **bone marrow (mesoderm)**.
+**UNDERSTAND: **The dual origin explains a lot of dermatology:** epidermal appendages (hair, nails, sebaceous and sweat glands) are ectodermal**, so they fail together in the **ectodermal dysplasias**; while **melanocytes, Merkel cells and cutaneous nerves are NEURAL CREST**, and Langerhans cells come from the **bone marrow (mesoderm)**.
 
 **MUST KNOW:**
 
@@ -246,6 +246,8 @@
 
 **EXAM CONNECTION:** Image of orange palmoplantar keratoderma + histology of ortho/parakeratosis → **PRP**.
 
+**ALSO KNOW: **Histology:** alternating ortho- and parakeratosis in a checkerboard pattern**, follicular plugging with a **"shoulder" of parakeratosis**, **dilated but non-tortuous** dermal capillaries, sparse lymphocytic infiltrate, focal acantholysis.
+
 **REMEMBER:** *Orange skin with islands of normal in a sea of red — pityriasis rubra pilaris.*
 
 **IMAGES:**
@@ -308,6 +310,8 @@
 - **Never give systemic corticosteroids for plaque psoriasis** — withdrawal triggers generalised pustular (von Zumbusch) or erythrodermic psoriasis.
 
 **EXAM CONNECTION:** "Which is NOT true?" — the false statement inverts the immunology (**"deficient" Th1/Th17**). Every immune-mediated inflammatory disease question rewards knowing the direction of the cytokine change.
+
+**ALSO KNOW:** **Modern systemic therapy is target-driven: for PSORIASIS, IL-23 inhibitors (risankizumab, guselkumab, tildrakizumab) and IL-17 inhibitors (secukinumab, ixekizumab, bimekizumab) alongside TNF inhibitors and the oral TYK2 inhibitor DEUCRAVACITINIB; for ATOPIC DERMATITIS, DUPILUMAB (anti-IL-4Rα), TRALOKINUMAB and LEBRIKIZUMAB (anti-IL-13), and the oral JAK inhibitors upadacitinib and abrocitinib; for ALOPECIA AREATA, BARICITINIB, RITLECITINIB and deuruxolitinib; and for NON-SEGMENTAL VITILIGO, TOPICAL RUXOLITINIB CREAM — the first approved repigmenting therapy.** **All JAK inhibitors carry a boxed warning for thrombosis, major cardiovascular events, malignancy and serious infection.**[^2]
 
 **REMEMBER:** *Too much IL-17, not too little — the epidermis is running a sprint.*
 
@@ -393,27 +397,9 @@
 
 ---
 
-### 16. Pityriasis Rubra Pilaris (PRP)
-
-**PEARL:** Salmon/orange-red scaly plaques that coalesce, leaving classic **"islands of sparing"**; commonest site is the trunk. Elbows/wrists show **nutmeg-grater** follicular papules, and there is thick orange-yellow palmoplantar keratoderma ("**keratotic sandal**"). Nails are thickened and distally discoloured with splinter hemorrhages.
-
-**MUST KNOW:**
-
-- Histology: **alternating ortho- and parakeratosis in a checkerboard pattern**, follicular plugging with a **"shoulder" of parakeratosis**, **dilated but non-tortuous** dermal capillaries, sparse lymphocytic infiltrate, focal acantholysis.
-- Type I (classic adult) is commonest and often resolves in 1–3 years; type VI is HIV-associated.
-- Treatment: **oral retinoids** (first line), methotrexate.
-
-**EXAM CONNECTION:** Psoriasis vs PRP — psoriasis has **tortuous dilated** capillaries, confluent parakeratosis, Munro microabscesses, and **no** islands of sparing; PRP nails **do not pit**.
-
-**REMEMBER:** *Islands of sparing + nutmeg grater + orange sandal keratoderma = PRP.*
-
----
-
----
-
 ## Vesiculobullous and Immunobullous Diseases
 
-### 17. Immunobullous Diseases — The Split Level Decides Everything
+### 16. Immunobullous Diseases — The Split Level Decides Everything
 
 **PEARL:** **PEMPHIGUS VULGARIS — SUPRABASAL split, "ROW OF TOMBSTONES", FLACCID bullae, mucosa involved, Nikolsky POSITIVE, DIF "FISH-NET"/chicken-wire intercellular IgG.** **BULLOUS PEMPHIGOID — SUBEPIDERMAL split with eosinophils, TENSE bullae, mucosa usually spared, Nikolsky NEGATIVE, DIF LINEAR IgG and C3 at the basement membrane.**
 
@@ -448,7 +434,7 @@
 
 ---
 
-### 18. Dermatitis Herpetiformis vs Linear IgA Disease
+### 17. Dermatitis Herpetiformis vs Linear IgA Disease
 
 **PEARL:** **DERMATITIS HERPETIFORMIS — intensely itchy grouped vesicles on EXTENSOR surfaces (elbows, knees, buttocks, scalp), DIF shows GRANULAR IgA in the DERMAL PAPILLAE**, antigen **epidermal transglutaminase-3**, associated with **COELIAC DISEASE**. **LINEAR IgA DISEASE / CHRONIC BULLOUS DISORDER OF CHILDHOOD — DIF shows LINEAR IgA at the dermo-epidermal junction**, antigen **BP180 (BPAg2)**, with tense blisters in a **"STRING OF PEARLS / CLUSTER OF JEWELS"** annular arrangement.
 
@@ -463,6 +449,8 @@
 - **Microabscess map:** **neutrophils in papillary tips → DH**; **neutrophils in stratum corneum (Munro) and Kogoj pustules → PSORIASIS**; **lymphocytes (Pautrier) → MYCOSIS FUNGOIDES**; **eosinophils → PEMPHIGUS VEGETANS**. *(**M**unro in **P**soriasis, **P**autrier in **M**ycosis fungoides.)*
 
 **EXAM CONNECTION:** The DIF description in the stem is the answer — **granular = DH, linear = linear IgA**.
+
+**ALSO KNOW:** Almost all have (usually silent) **celiac disease**; gluten-free diet is the definitive treatment. **Dapsone** gives dramatic itch relief within 24–48 h (does not treat gut disease). Also linked to autoimmune thyroid disease and intestinal lymphoma.
 
 **REMEMBER:** *Granular in the papillae means gluten; linear at the junction means the string of pearls.*
 
@@ -479,7 +467,7 @@
 
 ---
 
-### 19. Pemphigoid Gestationis
+### 18. Pemphigoid Gestationis
 
 **PEARL:** **Pemphigoid (herpes) gestationis begins in the PERIUMBILICAL region** in the **2nd or 3rd trimester**, then spreads over the abdomen and trunk. It is an **autoimmune subepidermal blistering disease (anti-BP180)**, not a herpes infection.
 
@@ -504,7 +492,7 @@
 
 ---
 
-### 20. Bullous Pemphigoid vs Pemphigus Vulgaris
+### 19. Bullous Pemphigoid vs Pemphigus Vulgaris
 
 **PEARL:** **Elderly patient + intensely ITCHY, TENSE bullae on the limbs and flexures with intact mucosa = BULLOUS PEMPHIGOID** (subepidermal, anti-hemidesmosome). **Flaccid bullae that rupture early, with painful ORAL erosions, = PEMPHIGUS VULGARIS** (intraepidermal, anti-desmoglein).
 
@@ -540,24 +528,7 @@
 
 ---
 
-### 21. Dermatitis Herpetiformis (Duhring's Disease)
-
-**PEARL:** Intensely itchy grouped vesicles on **extensor elbows and knees**; DIF shows **granular IgA deposits in the dermal papillae**. Antigen = **epidermal transglutaminase (TG3)**; associated HLA **DQ2/DQ8**.
-
-**MUST KNOW:**
-
-- Histology: **neutrophilic microabscesses at dermal papillary tips**, subepidermal split.
-- Almost all have (usually silent) **celiac disease**; gluten-free diet is the definitive treatment.
-- **Dapsone** gives dramatic itch relief within 24–48 h (does not treat gut disease).
-- Also linked to autoimmune thyroid disease and intestinal lymphoma.
-
-**EXAM CONNECTION:** **Granular** IgA in papillae = DH. **Linear** IgA along BMZ = linear IgA disease/chronic bullous disease of childhood (and drug-induced by **vancomycin**).
-
-**REMEMBER:** *DH = itchy extensor vesicles + granular IgA + gluten + dapsone.*
-
----
-
-### 22. Chronic Bullous Disease of Childhood
+### 20. Chronic Bullous Disease of Childhood
 
 **PEARL:** Presents with bullae in a **"string of pearls" / cluster of jewels** arrangement (new blisters ringing an old lesion), classically perioral and perineal.
 
@@ -575,7 +546,7 @@
 
 ## Bacterial Infections
 
-### 23. Lupus Vulgaris
+### 21. Lupus Vulgaris
 
 **PEARL:** The **commonest form of cutaneous tuberculosis in India** — an **annular/serpiginous plaque with an active advancing edge and CENTRAL ATROPHY and SCARRING**, classically on the face and buttocks. **Diascopy shows "APPLE-JELLY" NODULES.** Treated with **standard anti-tubercular therapy**.
 
@@ -603,7 +574,7 @@
 
 ---
 
-### 24. Pitted Keratolysis
+### 22. Pitted Keratolysis
 
 **PEARL:** **Numerous small, shallow, punched-out CRATERS on the PRESSURE-BEARING areas of the soles**, with **malodour and maceration**, caused by ***Corynebacterium*** (and *Kytococcus sedentarius*) whose **SERINE PROTEASES digest keratin** in the horny layer. It is associated with **HYPERHIDROSIS — not anhidrosis**.
 
@@ -619,6 +590,8 @@
 
 **EXAM CONNECTION:** "Incorrect statement" → "**usually associated with anhidrosis**" — it is **hyper**hidrosis.
 
+**ALSO KNOW:** Caused most commonly by ***Corynebacterium*** species, also *Kytococcus sedentarius* (and *Dermatophilus congolensis*). Protease digestion of the stratum corneum creates the pits. Treatment: topical **clindamycin/erythromycin** or benzoyl peroxide + control of sweating (aluminium chloride).
+
 **REMEMBER:** *Sweaty smelly feet with punched-out pits — corynebacterial proteases eating keratin. Dry the foot to cure it.*
 
 **IMAGES:**
@@ -628,7 +601,7 @@
 
 ---
 
-### 25. Erythrasma
+### 23. Erythrasma
 
 **PEARL:** **Erythrasma = Corynebacterium minutissimum**, showing **coral-pink/red fluorescence** under Wood's lamp due to **coproporphyrin III**.
 
@@ -653,29 +626,9 @@
 
 ---
 
-### 26. Pitted Keratolysis
-
-![figure](images/2026-08-15-11-13-14-4585-Pitted_keratolysis-1296x728-body-3759526281.jpg)
-
-**PEARL:** Caused most commonly by ***Corynebacterium*** species, also *Kytococcus sedentarius* (and *Dermatophilus congolensis*).
-
-**MUST KNOW:**
-
-- Crater-like pits on **pressure-bearing soles** with hyperhidrosis and **malodour** (sulphur compounds); occlusive footwear is the trigger.
-- Protease digestion of the stratum corneum creates the pits.
-- Treatment: topical **clindamycin/erythromycin** or benzoyl peroxide + control of sweating (aluminium chloride).
-
-**EXAM CONNECTION:** Other *Corynebacterium* skin diseases — **erythrasma** (coral-red Wood's lamp) and trichomycosis axillaris. Erythrasma fluoresces; pitted keratolysis does not.
-
-**REMEMBER:** *Smelly sweaty pitted soles = Corynebacterium.*
-
----
-
----
-
 ## Viral Infections
 
-### 27. Herpes Zoster
+### 24. Herpes Zoster
 
 **PEARL:** Reactivation of latent VZV from the **dorsal root ganglion**, giving **unilateral grouped vesicles in a single dermatome that DO NOT CROSS THE MIDLINE**. **Mucous membranes within the affected dermatome ARE involved**, and the **POSTERIOR (sensory) nerve roots and ganglia** show the inflammatory changes.
 
@@ -702,7 +655,7 @@
 
 ---
 
-### 28. Roseola Infantum
+### 25. Roseola Infantum
 
 **PEARL:** **High fever for 3–5 days in an infant, and the RASH APPEARS AS THE FEVER FALLS** — a non-pruritic rose-pink morbilliform eruption starting on the trunk. **NAGAYAMA SPOTS = ulcers/papules at the uvulopalatoglossal junction.** Cause: **HHV-6 (and 6B, 7)**.
 
@@ -718,6 +671,8 @@
 
 **EXAM CONNECTION:** Infant + fever that breaks as the rash appears + oral ulcers at the uvulopalatoglossal junction → **roseola infantum**.
 
+**ALSO KNOW:** Commonest cause of **febrile seizures** in this age group; also causes a bulging fontanelle. Rash appears **after** defervescence — the key clue (in measles, rash appears **with** peak fever and Koplik spots precede it).
+
 **REMEMBER:** *Fever first, rash when the fever breaks, Nagayama spots in the mouth — and it is why babies fit.*
 
 **IMAGES:**
@@ -731,7 +686,7 @@
 
 ---
 
-### 29. Eczema Herpeticum (Kaposi Varicelliform Eruption)
+### 26. Eczema Herpeticum (Kaposi Varicelliform Eruption)
 
 **PEARL:** **Eczema herpeticum occurs in an IMMUNOCOMPETENT host with pre-existing skin disease** — most often **atopic dermatitis** — and is usually due to **HSV-1**. It has nothing to do with Kaposi sarcoma or HHV-8.
 
@@ -756,7 +711,7 @@
 
 ---
 
-### 30. Kyasanur Forest Disease
+### 27. Kyasanur Forest Disease
 
 **PEARL:** Tick-borne hemorrhagic fever of **Karnataka** — abrupt fever, headache, conjunctivitis, myalgia, severe prostration, with **petechial** skin lesions and **NO eschar**.
 
@@ -772,27 +727,9 @@
 
 ---
 
-### 31. Roseola Infantum aka 6th disease & Nagayama Spots
-
-**PEARL:** High fever, then a **rose-coloured morbilliform rash on the trunk** as fever breaks, with ulcers/erythematous papules at the **uvulopalatoglossal junction (Nagayama spots)** — roseola infantum.
-
-![figure](images/2026-08-15-11-12-50-rash-exanthem-approach-to-exanthem-maculopapular-exanthem-Exanthem-seminar-Fever.webp)
-
-**MUST KNOW:**
-
-- **HHV-6** (also HHV-7); infants 6 months–2 years.
-- Commonest cause of **febrile seizures** in this age group; also causes a bulging fontanelle.
-- Rash appears **after** defervescence — the key clue (in measles, rash appears **with** peak fever and Koplik spots precede it).
-
-**REMEMBER:** *Fever falls, rash appears = roseola; Nagayama spots on the palate.*
-
----
-
----
-
 ## Fungal Infections
 
-### 32. Tinea Capitis and Kerion
+### 28. Tinea Capitis and Kerion
 
 **PEARL:** **KERION** = a **boggy, tender inflammatory mass with thick crusting, matted hair, pus and sinuses** — the **severe inflammatory form of tinea capitis**, typically caused by a **ZOOPHILIC dermatophyte** (from a pet dog/cat, e.g. *Microsporum canis*).
 
@@ -823,7 +760,7 @@
 
 ---
 
-### 33. Chromoblastomycosis — Copper Penny Bodies
+### 29. Chromoblastomycosis — Copper Penny Bodies
 
 **PEARL:** **Cauliflower-like verrucous plaque on the foot of a barefoot farmer + "copper penny" (sclerotic/Medlar) bodies = chromoblastomycosis**, caused by **dematiaceous (pigmented) fungi**, usually **Fonsecaea pedrosoi**.
 
@@ -862,7 +799,7 @@
 
 ## Leprosy
 
-### 34. Leprosy — Nerves, Biopsy and Prophylaxis
+### 30. Leprosy — Nerves, Biopsy and Prophylaxis
 
 **PEARL:** **Superficial (sensory) branch of the RADIAL nerve at the wrist is the nerve of choice for biopsy in PURE NEURITIC leprosy** — a **sensory** nerve is chosen, never a mixed trunk. The **most commonly affected peripheral nerve is the ULNAR**; the **most commonly affected CRANIAL nerve is the FACIAL (VII)**.
 
@@ -878,6 +815,8 @@
 
 **EXAM CONNECTION:** "Nerve biopsied in pure neuritic leprosy" → **superficial radial** (ulnar is the trap). "Commonest cranial nerve" → **facial**.
 
+**ALSO KNOW:** **LEPROSY TREATMENT CHANGED IN INDIA FROM 1 APRIL 2025: PAUCIBACILLARY disease now receives the SAME THREE DRUGS as multibacillary — RIFAMPICIN, CLOFAZIMINE AND DAPSONE — for 6 months (MB remains 12 months)**, replacing the old two-drug PB regimen. **SINGLE-DOSE RIFAMPICIN POST-EXPOSURE PROPHYLAXIS (SDR-PEP) is given to contacts**, and the national goal is **zero transmission by 2027**.[^1]
+
 **REMEMBER:** *Ulnar is most affected, but you biopsy the superficial radial — take sensation, never motor.*
 
 **IMAGES:**
@@ -888,7 +827,7 @@
 
 ---
 
-### 35. Tuberculoid Leprosy and the Lepromin Test
+### 31. Tuberculoid Leprosy and the Lepromin Test
 
 **PEARL:** **TUBERCULOID (TT) leprosy — few well-defined anaesthetic lesions, thickened nerves, WELL-FORMED EPITHELIOID GRANULOMAS with giant cells that ERODE THE GRENZ ZONE up to the epidermis, scanty bacilli, and a STRONGLY POSITIVE LEPROMIN (Mitsuda) test.** **LEPROMATOUS (LL) — the exact opposite: lepromin NEGATIVE.**
 
@@ -915,7 +854,7 @@
 
 ---
 
-### 36. Trophic (Neuropathic) Ulcer in Treated Leprosy
+### 32. Trophic (Neuropathic) Ulcer in Treated Leprosy
 
 **PEARL:** A **painless, punched-out ulcer with regular margins and HYPERKERATOTIC/CALLOUS borders on a weight-bearing area** of an anaesthetic foot is a **TROPHIC ULCER**. Management is **REST, NON-WEIGHT-BEARING SPLINTS/footwear and foot care** — **NOT restarting MDT, not aggressive debridement, and certainly not amputation**.
 
@@ -941,7 +880,7 @@
 
 ---
 
-### 37. Borderline (BB) Leprosy — Swiss Cheese Plaques
+### 33. Borderline (BB) Leprosy — Swiss Cheese Plaques
 
 **PEARL:** **Borderline leprosy** shows **annular plaques with sharply "PUNCHED-OUT" INNER MARGINS and sloping outer margins**, often with islands of normal skin inside, giving a **"SWISS CHEESE" appearance**, and **moderately diminished sensation**. It is the **most immunologically unstable** part of the spectrum.
 
@@ -974,7 +913,7 @@
 
 ---
 
-### 38. Grenz Zone in Leprosy
+### 34. Grenz Zone in Leprosy
 
 **PEARL:** The Grenz zone (a narrow band of uninvolved papillary dermis just beneath the epidermis) is most prominent in **lepromatous leprosy**, because granulomas are scarce and do not fill that space. Also seen across the borderline spectrum.
 
@@ -990,7 +929,7 @@
 
 ---
 
-### 39. Leprosy — Nerve Involvement
+### 35. Leprosy — Nerve Involvement
 
 **PEARL:** Caused by *Mycobacterium leprae*; the most commonly affected peripheral nerve is the **posterior tibial**, then **ulnar**, median, and lateral popliteal. The commonest **cranial** nerve involved is the **facial** nerve. Incubation 2–12 years.
 
@@ -1011,7 +950,7 @@
 
 ## Parasitic Infections and Infestations
 
-### 40. Post-Kala-Azar Dermal Leishmaniasis
+### 36. Post-Kala-Azar Dermal Leishmaniasis
 
 **PEARL:** In a patient **from Bihar/eastern India with a history of prolonged fever in childhood**, presenting with **NORMO-ANAESTHETIC (sensation intact) hypopigmented macules and NO thickened nerves**, the diagnosis is **PKDL — not leprosy**.
 
@@ -1037,7 +976,7 @@
 
 ---
 
-### 41. Cutaneous Larva Migrans vs Larva Currens
+### 37. Cutaneous Larva Migrans vs Larva Currens
 
 **PEARL:** **CUTANEOUS LARVA MIGRANS ("creeping eruption") is caused by NON-HUMAN hookworms — *Ancylostoma braziliense* and *A. caninum*** — from skin contact with soil contaminated by **dog or cat faeces**. The **human hookworms *Ancylostoma duodenale* and *Necator americanus* do NOT cause it.**
 
@@ -1062,7 +1001,7 @@
 
 ---
 
-### 42. Pediculosis Corporis — Vagabond's Disease
+### 38. Pediculosis Corporis — Vagabond's Disease
 
 **PEARL:** **Body lice (*Pediculus humanus corporis*) live and lay eggs IN THE SEAMS OF CLOTHING, not on the body** — so the diagnosis is made by **examining the clothes**. Chronic scratching produces the pigmented, lichenified back of **"VAGABOND'S DISEASE"**. It is a **LOUSE, not a tick.**
 
@@ -1087,7 +1026,7 @@
 
 ---
 
-### 43. Maculae Ceruleae — Pediculosis Pubis
+### 39. Maculae Ceruleae — Pediculosis Pubis
 
 **PEARL:** **Maculae ceruleae** — slate-blue/grey non-blanching macules on the **chest, abdomen and thighs** — are pathognomonic of **Pediculosis pubis** (*Pthirus pubis*, the crab louse).
 
@@ -1115,7 +1054,7 @@
 
 ## Sexually Transmitted Infections
 
-### 44. Disseminated Gonococcal Infection
+### 40. Disseminated Gonococcal Infection
 
 **PEARL:** The classic triad is **TENOSYNOVITIS + DERMATITIS + MIGRATORY ASYMMETRIC POLYARTHRALGIA**. The skin lesions are **few (5–50), small, tender, pustular or vesiculopustular on a haemorrhagic/necrotic base**, sited **peripherally near the affected joints**, including **palms and soles**.
 
@@ -1131,6 +1070,8 @@
 
 **EXAM CONNECTION:** The triad is the question — memorise it as a unit.
 
+**ALSO KNOW:** **Reiter (reactive arthritis):** arthritis + conjunctivitis + non-specific urethritis — follows *Chlamydia*, *Campylobacter*, *Salmonella*, *Shigella*, *Yersinia*. Behçet: **pathergy test** positive; HLA-**B51**; oral ulcers are the required criterion; Silk Route distribution. *Behçet = mouth+genital+eye (B51); Reiter = joint+eye+urethra (B27); DGI = tendon+skin+joint.*
+
 **REMEMBER:** *Tenosynovitis, pustules and flitting joint pains in a young adult — culture every orifice and give ceftriaxone.*
 
 **IMAGES:**
@@ -1140,7 +1081,7 @@
 
 ---
 
-### 45. Genital Ulcers — Read Pain and Tenderness
+### 41. Genital Ulcers — Read Pain and Tenderness
 
 **PEARL:** **Painless ulcer + painless (non-tender) lymphadenopathy = primary syphilis.** Pain in either the ulcer or the node points elsewhere.
 
@@ -1173,7 +1114,7 @@
 
 ---
 
-### 46. Granuloma Inguinale (Donovanosis)
+### 42. Granuloma Inguinale (Donovanosis)
 
 **PEARL:** STI caused by *Klebsiella (Calymmatobacterium) granulomatis*; incubation **8–80 days, average ~50**.
 
@@ -1194,7 +1135,7 @@
 
 ## Disorders of Pigmentation
 
-### 47. Chemical (Contact) Leukoderma
+### 43. Chemical (Contact) Leukoderma
 
 **PEARL:** **Bindi leukoderma → PARA-TERTIARY BUTYLPHENOL (PTBP)** in adhesive bindis. **Rubber/footwear/condoms → MONOBENZYL ETHER OF HYDROQUINONE (MBEH)**. **Hair dye → PARAPHENYLENEDIAMINE (PPD)**. **Alta (red foot dye) → azo dyes (Crocein Scarlet MOO, Solvent Yellow 3)**.
 
@@ -1222,7 +1163,7 @@
 
 ---
 
-### 48. Segmental Vitiligo
+### 44. Segmental Vitiligo
 
 **PEARL:** **SEGMENTAL vitiligo** — **unilateral depigmented macules in a band/segmental (often dermatomal-like, Blaschkoid) distribution that do NOT cross the midline**, with **early LEUKOTRICHIA (white hair)**, typically in **children and young people**.
 
@@ -1250,7 +1191,7 @@
 
 ---
 
-### 49. Reticulate Pigmentary Disorders
+### 45. Reticulate Pigmentary Disorders
 
 **PEARL:** **DOWLING–DEGOS DISEASE — reticulate (lacy/net-like) hyperpigmentation of the FLEXURES, with comedo-like "dark dot" follicles and PITTED ACNEIFORM SCARS NEAR THE ANGLE OF THE MOUTH.** **RETICULATE ACROPIGMENTATION OF KITAMURA — hyperpigmented ATROPHIC macules on the DORSA OF THE HANDS with palmar PITS and breaks in the dermatoglyphics.**
 
@@ -1272,11 +1213,11 @@
 
 ---
 
-### 50. Lentigo vs Freckle vs Naevus
+### 46. Lentigo vs Freckle vs Naevus
 
 **PEARL:** **LENTIGO SIMPLEX is due to an INCREASE IN THE NUMBER OF MELANOCYTES at the dermo-epidermal junction.** **An EPHELIS (freckle) has a NORMAL number of melanocytes but increased MELANIN production**, and **darkens with sun exposure**. **A junctional naevus has melanocytes in NESTS.**
 
-**UNDERSTAND:** The three-way distinction is: **more pigment (freckle) → more melanocytes, singly (lentigo) → melanocytes in clusters (naevus)**. It is a progression of melanocytic organisation, and it explains the clinical behaviour: **freckles fade in winter; lentigines do NOT fade** because the cells themselves have increased.
+**UNDERSTAND: **The three-way distinction is:** more pigment (freckle) → more melanocytes, singly (lentigo) → melanocytes in clusters (naevus)**. It is a progression of melanocytic organisation, and it explains the clinical behaviour: **freckles fade in winter; lentigines do NOT fade** because the cells themselves have increased.
 
 **MUST KNOW:**
 
@@ -1297,7 +1238,7 @@
 
 ---
 
-### 51. Nevus Anemicus — The "Pharmacological" Nevus
+### 47. Nevus Anemicus — The "Pharmacological" Nevus
 
 **PEARL:** Nevus anemicus is due to localized vasoconstriction (hypersensitivity of vessels to catecholamines), not pigment loss. On diascopy, the lesion becomes indistinguishable from surrounding blanched skin. In vitiligo, melanin is lost, so the lesion stays paler.
 
@@ -1315,7 +1256,7 @@
 
 ---
 
-### 52. Dowling–Degos Disease
+### 48. Dowling–Degos Disease
 
 ![figure](images/2026-08-15-08-55-40-IDOJ-10-587-g004-724529427.jpg)
 
@@ -1334,7 +1275,7 @@
 
 ---
 
-### 53. Vitiligo — Definition and Types
+### 49. Vitiligo — Definition and Types
 
 **PEARL:** Acquired depigmentation from **autoimmune destruction of dopa-positive melanocytes** in the basal layer → milky-white, sharply demarcated macules.
 
@@ -1351,7 +1292,7 @@
 
 ---
 
-### 54. Berloque Dermatitis
+### 50. Berloque Dermatitis
 
 **PEARL:** Acute **phototoxic** reaction to perfume — **5-methoxypsoralen (bergapten)** in bergamot oil potentiates UVA-stimulated melanogenesis → drip-shaped hyperpigmentation on the neck/behind the ears.
 
@@ -1368,11 +1309,11 @@
 
 ## Hair and Nail Disorders
 
-### 55. Hair Shaft Disorders — Read the Microscope
+### 51. Hair Shaft Disorders — Read the Microscope
 
 **PEARL:** **TRICHOTHIODYSTROPHY — "TIGER TAIL" alternating light and dark banding on POLARISED microscopy** (sulphur-deficient brittle hair). **TRICHORRHEXIS NODOSA — "two paintbrushes pushed together"** (nodes and fractures). **TRICHORRHEXIS INVAGINATA — "BAMBOO HAIR" / ball-and-socket**, in **Netherton syndrome**. **MONILETHRIX — regular beading** (elliptical nodes with constrictions).
 
-**UNDERSTAND:** Each pattern reflects a different structural failure: **trichothiodystrophy lacks the sulphur-rich cysteine cross-links** that give keratin its strength; **trichorrhexis invaginata is a soft, incompletely keratinised shaft telescoping into itself**; monilethrix is a periodic defect in shaft diameter.
+**UNDERSTAND: **Each pattern reflects a different structural failure:** trichothiodystrophy lacks the sulphur-rich cysteine cross-links** that give keratin its strength; **trichorrhexis invaginata is a soft, incompletely keratinised shaft telescoping into itself**; monilethrix is a periodic defect in shaft diameter.
 
 **MUST KNOW:**
 
@@ -1396,7 +1337,7 @@
 
 ---
 
-### 56. Nail Signs
+### 52. Nail Signs
 
 **PEARL:** **BEAU'S LINES — transverse GROOVES** (temporary arrest of nail growth after a systemic insult). **MEES' LINES — transverse WHITE bands (true leukonychia)**, classically **ARSENIC**, also thallium, chemotherapy and renal failure. **LINDSAY'S "HALF-AND-HALF" NAIL — proximal WHITE, distal PINK/BROWN, specific for CHRONIC KIDNEY DISEASE.** **TERRY'S NAIL — proximal white with a narrow distal pink band, in CIRRHOSIS and hypoalbuminaemia.**
 
@@ -1412,6 +1353,8 @@
 - **AMOROLFINE is the only MORPHOLINE antifungal** and is used as a **nail lacquer** for onychomycosis (ciclopirox is a hydroxypyridone; the "-azoles" are imidazoles).
 
 **EXAM CONNECTION:** Nail image after recent major surgery/illness → **Beau's lines**; white transverse bands → **Mees'**; half-and-half → **renal failure**.
+
+**ALSO KNOW:** Each sign localises to **which part of the nail unit is diseased**. Disease of the **nail MATRIX** (where the plate is made) produces **surface defects — pitting, trachyonychia, Beau's lines**, and if the matrix is destroyed and scarred, the proximal nail fold fuses to the bed as a **pterygium**. Disease of the **nail BED** (beneath the plate) produces **colour and adhesion changes — the salmon patch, onycholysis and subungual hyperkeratosis**. So the site of the abnormality tells you where in the nail unit to look for the pathology. **Psoriatic nail signs: irregular, deep, coarse PITTING (matrix), SALMON PATCH/oil-drop discoloration (bed), ONYCHOLYSIS with an erythematous border, SUBUNGUAL HYPERKERATOSIS, and SPLINTER HAEMORRHAGES.** **Nail involvement strongly predicts PSORIATIC ARTHRITIS, especially the DIP pattern** — because the nail matrix, DIP joint and extensor enthesis are one functional unit. **AUSPITZ SIGN** — pinpoint bleeding after scraping the scale, from **thinned suprapapillary plates over dilated dermal papillary capillaries**; preceded by the **candle-grease (grattage) sign**. Both are elicited in the video-based version of this question. **Lichen planus nails: longitudinal ridging, thinning, and DORSAL PTERYGIUM from scarring of the matrix (permanent) — plus the skin 5 Ps and WICKHAM STRIAE.** *Matrix disease roughens the surface; bed disease colours it — the oil drop is psoriasis' signature.*
 
 **REMEMBER:** *Grooves = Beau (growth arrest). White bands = Mees (arsenic). Half-and-half = kidneys. Terry's = liver.*
 
@@ -1434,7 +1377,7 @@
 
 ---
 
-### 57. Trichotillomania
+### 53. Trichotillomania
 
 **PEARL:** **NON-SCARRING alopecia, typically at the VERTEX/frontoparietal region, with hairs of DIFFERENT LENGTHS and an irregular, bizarre outline.** Histology: **hair loss with HAEMORRHAGE into the follicles, empty follicles, TRICHOMALACIA (distorted, damaged shafts) and pigment casts**, with only a mild inflammatory infiltrate.
 
@@ -1459,7 +1402,7 @@
 
 ---
 
-### 58. Alopecia Areata — The Terminology
+### 54. Alopecia Areata — The Terminology
 
 **PEARL:** **ALOPECIA TOTALIS = loss of ALL SCALP hair.** **ALOPECIA UNIVERSALIS = loss of ALL BODY hair.** **OPHIASIS = a band of hair loss along the OCCIPUT/back of the scalp extending toward both ears** (Greek *ophis*, snake). **Spontaneous remission occurs in ~80%** of limited patchy disease of <1 year.
 
@@ -1482,29 +1425,7 @@
 
 ---
 
-### 59. Nail Signs in Skin Disease
-
-**PEARL:** In **psoriasis**, **PITTING is the COMMONEST nail sign but the SALMON PATCH ("OIL-DROP" sign) is the MOST SPECIFIC.** **Dorsal nail PTERYGIUM → LICHEN PLANUS. TRACHYONYCHIA (rough, sandpaper nails) → alopecia areata (twenty-nail dystrophy). BEAU'S LINES → any severe systemic illness that arrests nail growth.**
-
-**UNDERSTAND:** Each sign localises to **which part of the nail unit is diseased**. Disease of the **nail MATRIX** (where the plate is made) produces **surface defects — pitting, trachyonychia, Beau's lines**, and if the matrix is destroyed and scarred, the proximal nail fold fuses to the bed as a **pterygium**. Disease of the **nail BED** (beneath the plate) produces **colour and adhesion changes — the salmon patch, onycholysis and subungual hyperkeratosis**. So the site of the abnormality tells you where in the nail unit to look for the pathology.
-
-**MUST KNOW:**
-
-- **Psoriatic nail signs: irregular, deep, coarse PITTING (matrix), SALMON PATCH/oil-drop discoloration (bed), ONYCHOLYSIS with an erythematous border, SUBUNGUAL HYPERKERATOSIS, and SPLINTER HAEMORRHAGES.** **Nail involvement strongly predicts PSORIATIC ARTHRITIS, especially the DIP pattern** — because the nail matrix, DIP joint and extensor enthesis are one functional unit.
-- **AUSPITZ SIGN** — pinpoint bleeding after scraping the scale, from **thinned suprapapillary plates over dilated dermal papillary capillaries**; preceded by the **candle-grease (grattage) sign**. Both are elicited in the video-based version of this question.
-- **Lichen planus nails: longitudinal ridging, thinning, and DORSAL PTERYGIUM from scarring of the matrix (permanent) — plus the skin 5 Ps and WICKHAM STRIAE.**
-- **Alopecia areata: fine, regular, geometric ("thimble") pitting and trachyonychia** — contrast the coarse irregular pits of psoriasis.
-- **Systemic nail signs: KOILONYCHIA (spoon nails) — iron deficiency; CLUBBING — lung, cardiac, hepatic and IBD; LEUKONYCHIA (Muehrcke lines, Terry nails) — hypoalbuminaemia and cirrhosis; HALF-AND-HALF (Lindsay) nails — chronic kidney disease; MEES lines — arsenic; SPLINTER HAEMORRHAGES — trauma, endocarditis, vasculitis; BEAU'S LINES — dated by their distance from the cuticle (nails grow ~0.1 mm/day), so they time the illness; ONYCHOMYCOSIS — distal subungual thickening and discoloration, confirmed by KOH/culture before starting months of terbinafine.**
-
-**EXAM CONNECTION:** The question usually asks for the **most CHARACTERISTIC/specific** sign, not the commonest — for psoriasis that is the **oil-drop/salmon patch**.
-
-**REMEMBER:** *Matrix disease roughens the surface; bed disease colours it — the oil drop is psoriasis' signature.*
-
-`Q11796`
-
----
-
-### 60. The Hair Cycle
+### 55. The Hair Cycle
 
 **PEARL:** **80–90% of scalp hairs are in ANAGEN** at any time. Anagen duration determines **final hair length**.
 
@@ -1529,7 +1450,7 @@
 
 ---
 
-### 61. Trichothiodystrophy
+### 56. Trichothiodystrophy
 
 **PEARL:** Polarizing microscopy of hair shows **"tiger-tail" alternating light and dark bands**.
 
@@ -1543,7 +1464,7 @@
 
 ---
 
-### 62. Uncombable Hair Syndrome
+### 57. Uncombable Hair Syndrome
 
 **PEARL:** Hair has a **triangular cross-section with a longitudinal groove** along one side, making it stiff and unmanageable ("spun glass" hair).
 
@@ -1556,7 +1477,7 @@
 
 ---
 
-### 63. Menkes Kinky Hair Syndrome
+### 58. Menkes Kinky Hair Syndrome
 
 ![figure](images/2026-08-15-10-33-21-2-4264421792.jpg)
 
@@ -1574,7 +1495,7 @@
 
 ---
 
-### 64. Trichorrhexis Nodosa
+### 59. Trichorrhexis Nodosa
 
 ![figure](images/2026-08-15-10-32-18-Trichorrhexis-shaft-node-1400679466.webp)
 
@@ -1589,7 +1510,7 @@
 
 ---
 
-### 65. Netherton Syndrome — Bamboo Hair
+### 60. Netherton Syndrome — Bamboo Hair
 
 ![figure](images/2026-08-15-10-31-57-The-bamboo-shape-Hair-shaft-anomaly-in-Netherton-syndrome-with-light-microscopy_.jpg)
 
@@ -1609,7 +1530,7 @@
 
 ## Genodermatoses, Ichthyoses and Neurocutaneous Syndromes
 
-### 66. Epidermolysis Bullosa and the Collodion Baby
+### 61. Epidermolysis Bullosa and the Collodion Baby
 
 **PEARL:** **EB SIMPLEX — keratin 5/14 (intra-epidermal, basal cell)** · **JUNCTIONAL EB — LAMININ-332 (within the lamina lucida)** · **DYSTROPHIC EB — COLLAGEN VII, the anchoring fibrils (below the lamina densa)**. Blisters appear at **sites of friction and mechanical trauma**.
 
@@ -1626,6 +1547,8 @@
 
 **EXAM CONNECTION:** Neonatal blistering with a dead sibling → **epidermolysis bullosa**. Collodion baby → "unlikely diagnosis" → **ichthyosis vulgaris**.
 
+**ALSO KNOW:** Diagnosis: skin biopsy with immunofluorescence antigen mapping / EM (defines the level of split).
+
 **REMEMBER:** *Simplex heals clean (keratin, high); dystrophic scars and turns malignant (collagen VII, deep).*
 
 **IMAGES:**
@@ -1637,7 +1560,7 @@
 
 ---
 
-### 67. Carney Complex — NAME and LAMB
+### 62. Carney Complex — NAME and LAMB
 
 **PEARL:** **NAME = Nevi, Atrial myxoma, Myxoid neurofibroma, Ephelides.** **LAMB = Lentigines, Atrial myxoma, Blue naevi.** Both are subsets of **CARNEY COMPLEX** — autosomal dominant, **PRKAR1A** mutation. **Ebstein anomaly is NOT part of it.**
 
@@ -1652,6 +1575,8 @@
 
 **EXAM CONNECTION:** "All are part of NAME syndrome EXCEPT" → **Ebstein anomaly** (a cardiac lesion inserted to catch you).
 
+**ALSO KNOW: **Gene:** PRKAR1A** (17q). **Atrial myxoma** is the lethal component — echo screening is mandatory.
+
 **REMEMBER:** *Myxomas plus spotty pigmentation plus endocrine overactivity — and always echo the heart.*
 
 **IMAGES:**
@@ -1661,7 +1586,7 @@
 
 ---
 
-### 68. Tuberous Sclerosis — Major vs Minor Criteria
+### 63. Tuberous Sclerosis — Major vs Minor Criteria
 
 **PEARL:** **DEFINITE TSC = 2 major, or 1 major + 2 minor. PROBABLE = 1 major + 1 minor. POSSIBLE = 1 major, OR 2 or more minor.** So **gingival fibromas + bone cysts + pitted dental enamel (three MINOR features) = POSSIBLE TSC.**
 
@@ -1684,7 +1609,7 @@
 
 ---
 
-### 69. The Buttonhole Sign
+### 64. The Buttonhole Sign
 
 **PEARL:** The **BUTTONHOLE (invagination) SIGN** — a soft lesion that can be **invaginated into the subcutis with the fingertip and springs back on release** — is seen in **NEUROFIBROMAS (von Recklinghausen's disease), ANETODERMA and DERMATOFIBROMA**. It is **NOT a feature of bullous pemphigoid**.
 
@@ -1700,13 +1625,15 @@
 
 **EXAM CONNECTION:** "Buttonhole sign is seen in all EXCEPT" → **bullous pemphigoid** (a blistering disease, not a dermal defect).
 
+**ALSO KNOW:** NF1 diagnostic criteria: ≥6 café-au-lait macules, ≥2 neurofibromas or 1 plexiform, axillary/inguinal **freckling (Crowe's sign)**, **Lisch nodules**, optic glioma, bony dysplasia, first-degree relative. Gene: **NF1** on **17q** (neurofibromin, a Ras-GAP). NF2 = **22q**, bilateral acoustic schwannomas.
+
 **REMEMBER:** *You can push it in and it pops back — neurofibroma, anetoderma, dermatofibroma. Blisters do not buttonhole.*
 
 `Q10379`
 
 ---
 
-### 70. Harlequin Ichthyosis
+### 65. Harlequin Ichthyosis
 
 **PEARL:** The most severe autosomal recessive congenital ichthyosis — **ABCA12 mutation** — presenting at birth with **thick ARMOUR-LIKE truncal plates separated by deep fissures**, **severe bilateral ECTROPION and ECLABIUM**, and flattened ears and nose. **Respiratory failure from restricted chest movement is the leading cause of death.**
 
@@ -1722,6 +1649,8 @@
 
 **EXAM CONNECTION:** Neonatal photograph of thick fissured plates with ectropion → **harlequin ichthyosis**.
 
+**ALSO KNOW: **Main cause of death:** respiratory failure** (restricted chest wall, alveolar collapse); also sepsis, dehydration, hypernatremia. Treatment: intensive supportive care + early **oral retinoids** (acitretin/etretinate) markedly improve survival.
+
 **REMEMBER:** *ABCA12, no lamellar bodies, armour plates — and the baby dies of not being able to expand the chest.*
 
 **IMAGES:**
@@ -1731,7 +1660,7 @@
 
 ---
 
-### 71. Lisch Nodules and the Neurocutaneous Syndromes
+### 66. Lisch Nodules and the Neurocutaneous Syndromes
 
 **PEARL:** **LISCH NODULES — dome-shaped, pigmented MELANOCYTIC HAMARTOMAS OF THE IRIS, best seen on SLIT LAMP, causing NO visual disturbance — belong to NEUROFIBROMATOSIS TYPE 1, NOT to tuberous sclerosis. FACIAL ANGIOFIBROMAS (adenoma sebaceum) belong to TUBEROUS SCLEROSIS.** Confusing the two is the intended trap.
 
@@ -1740,7 +1669,7 @@
 **MUST KNOW:**
 
 - **NF1 (NF1 gene, chromosome 17, neurofibromin — a RAS-GAP): diagnosis needs 2 or more of — ***≥6 CAFÉ-AU-LAIT MACULES (>5 mm prepubertal, >15 mm postpubertal), ≥2 neurofibromas or 1 plexiform neurofibroma, AXILLARY OR INGUINAL FRECKLING (CROWE'S SIGN), OPTIC GLIOMA, ≥2 LISCH NODULES, a distinctive bony lesion (sphenoid dysplasia, tibial pseudarthrosis) and an affected first-degree relative.*** Complications: learning difficulties, scoliosis, hypertension (renal artery stenosis, PHAEOCHROMOCYTOMA), and malignant peripheral nerve sheath tumours.
-- **NF2 (chromosome 22, merlin): ***BILATERAL VESTIBULAR SCHWANNOMAS***, meningiomas, ependymomas, juvenile POSTERIOR SUBCAPSULAR CATARACT — and few skin lesions.**
+- **NF2 (chromosome 22, merlin):** *BILATERAL VESTIBULAR SCHWANNOMAS***, meningiomas, ependymomas, juvenile POSTERIOR SUBCAPSULAR CATARACT — and few skin lesions.**
 - **TUBEROUS SCLEROSIS (TSC1 hamartin/TSC2 tuberin, driving mTOR): ***ASH-LEAF (hypomelanotic) MACULES seen with a WOOD'S LAMP — the EARLIEST sign***, facial angiofibromas, SHAGREEN PATCH, periungual (Koenen) fibromas, cortical tubers and subependymal giant cell astrocytoma, INFANTILE SPASMS, intellectual disability and autism, cardiac rhabdomyoma (often antenatal, regresses), renal angiomyolipoma and lymphangioleiomyomatosis; RETINAL ASTROCYTIC HAMARTOMAS in the eye. mTOR inhibitors (everolimus, sirolimus) treat SEGAs and angiomyolipomas, and VIGABATRIN is first-line for the spasms.**
 - **STURGE–WEBER (port-wine stain, leptomeningeal angioma, glaucoma, seizures) and VON HIPPEL–LINDAU (retinal and CNS HAEMANGIOBLASTOMAS, renal cell carcinoma, phaeochromocytoma, pancreatic cysts) complete the classic list of phakomatoses.**
 - **Eye lesion by syndrome — a reliable one-line discriminator: LISCH NODULE → NF1; RETINAL ASTROCYTIC HAMARTOMA → tuberous sclerosis; RETINAL HAEMANGIOBLASTOMA → von Hippel–Lindau; GLAUCOMA/choroidal haemangioma → Sturge–Weber; POSTERIOR SUBCAPSULAR CATARACT → NF2.**
@@ -1757,7 +1686,7 @@
 
 ---
 
-### 72. Ataxia–Telangiectasia (Louis–Bar Syndrome)
+### 67. Ataxia–Telangiectasia (Louis–Bar Syndrome)
 
 **PEARL:** In ataxia–telangiectasia the **FIRST clinical manifestation is progressive cerebellar ataxia, around age 1** — the **telangiectasia appears later** (age 3–6), starting on the **conjunctiva**.
 
@@ -1782,7 +1711,7 @@
 
 ---
 
-### 73. Autosomal Recessive Congenital Ichthyosis (ARCI) Spectrum
+### 68. Autosomal Recessive Congenital Ichthyosis (ARCI) Spectrum
 
 **PEARL:** ARCI includes Harlequin ichthyosis, Bathing-suit ichthyosis, Lamellar ichthyosis, Congenital ichthyosiform erythroderma (CIE), Self-improving congenital ichthyosis, and the transient **collodion baby**.
 
@@ -1796,7 +1725,7 @@
 
 ---
 
-### 74. Lamellar Ichthyosis
+### 69. Lamellar Ichthyosis
 
 ![figure](images/2026-08-15-08-40-35-Riehl_Zumbusch_Tafel_LXV_-3-.jpg)
 
@@ -1812,7 +1741,7 @@
 
 ---
 
-### 75. Bathing Suit Ichthyosis
+### 70. Bathing Suit Ichthyosis
 
 ![figure](images/2026-08-15-08-43-01-ms9-87-4628-g001-1743952597.jpg)
 
@@ -1824,24 +1753,7 @@
 
 ---
 
-### 76. Harlequin Ichthyosis
-
-![figure](images/2026-08-15-08-45-18-CRIDM2025-7982066.002-570567873.jpg)
-
-**PEARL:** The most severe ARCI — **ABCA12** mutation → armor-like thick truncal plates with deep fissures.
-
-**MUST KNOW:**
-
-- ABCA12 = lipid transporter for **lamellar body** formation in the stratum granulosum; defective lamellar bodies on EM are **pathognomonic**.
-- Bilateral **ectropion + eclabium**, absent/rudimentary ears.
-- Main cause of death: **respiratory failure** (restricted chest wall, alveolar collapse); also sepsis, dehydration, hypernatremia.
-- Treatment: intensive supportive care + early **oral retinoids** (acitretin/etretinate) markedly improve survival.
-
-**REMEMBER:** *Harlequin = ABCA12 + armor plates + ectropion/eclabium; dies of breathing, not skin.*
-
----
-
-### 77. Ichthyosis Vulgaris
+### 71. Ichthyosis Vulgaris
 
 **PEARL:** The **commonest** ichthyosis — autosomal dominant, **filaggrin (FLG)** mutation. Not present at birth; appears in the first months of life.
 
@@ -1858,7 +1770,7 @@
 
 ---
 
-### 78. Genodermatoses with Defective DNA Repair + Photosensitivity
+### 72. Genodermatoses with Defective DNA Repair + Photosensitivity
 
 **PEARL:** Rothmund–Thomson syndrome and Cockayne syndrome are DNA-repair genodermatoses with photosensitivity.
 
@@ -1875,21 +1787,7 @@
 
 ---
 
-### 79. Buttonhole Sign — NF1
-
-**PEARL:** In von Recklinghausen's disease (NF1), a neurofibroma can be invaginated into the subcutis with the fingertip and pops back out on release — the **buttonhole sign**.
-
-**MUST KNOW:**
-
-- Due to dermal defect/soft lax tumour; also seen in anetoderma.
-- NF1 diagnostic criteria: ≥6 café-au-lait macules, ≥2 neurofibromas or 1 plexiform, axillary/inguinal **freckling (Crowe's sign)**, **Lisch nodules**, optic glioma, bony dysplasia, first-degree relative.
-- Gene: **NF1** on **17q** (neurofibromin, a Ras-GAP). NF2 = **22q**, bilateral acoustic schwannomas.
-
-**REMEMBER:** *Buttonhole neurofibroma + Crowe's sign + Lisch nodules = NF1 (17q).*
-
----
-
-### 80. Darier's Disease (Keratosis Follicularis)
+### 73. Darier's Disease (Keratosis Follicularis)
 
 **PEARL:** Autosomal dominant, **ATP2A2** mutation affecting the **SERCA2** calcium pump → greasy, warty hyperkeratotic papules in **seborrheic areas**. Neuropsychiatric features (depression, psychosis, intellectual disability) may occur.
 
@@ -1906,47 +1804,9 @@
 
 ---
 
-### 81. LAMB and NAME — Carney Complex
-
-**PEARL:**
-
-- **LAMB** = Lentigines, Atrial myxoma, Mucocutaneous myxomas, Blue nevi.
-- **NAME** = Nevi, Atrial myxoma, Myxoid neurofibroma, Ephelides. Both are subsets of **Carney complex** — autosomal dominant, multiple neoplasms + pigmentary abnormalities.
-
-**MUST KNOW:**
-
-- Gene: **PRKAR1A** (17q).
-- Endocrine: primary pigmented nodular adrenocortical disease (Cushing), GH-secreting pituitary adenoma, testicular large-cell calcifying Sertoli cell tumour.
-- **Atrial myxoma** is the lethal component — echo screening is mandatory.
-
-**EXAM CONNECTION:** Lentigines syndromes — Carney (myxomas), **Peutz–Jeghers** (perioral, GI polyps), **LEOPARD/Noonan with lentigines** (PTPN11), Laugier–Hunziker (acquired, benign).
-
-**REMEMBER:** *Spotty skin + atrial myxoma + Cushing = Carney (PRKAR1A).*
-
----
-
-### 82. Epidermolysis Bullosa
-
-**PEARL:** A neonate blistering at sites of **friction**, with a family history and a sibling who died early → epidermolysis bullosa (genetically fragile skin blistering with minimal trauma).
-
-**MUST KNOW:**
-
-- **Simplex** — split within basal keratinocytes (KRT5/14), AD, heals **without scarring**.
-- **Junctional** — split in lamina lucida (**laminin-332**); Herlitz type is lethal, with perioral granulation tissue.
-- **Dystrophic** — split below lamina densa (**COL7A1**, anchoring fibrils); scarring, milia, mitten deformity, SCC risk.
-- Diagnosis: skin biopsy with immunofluorescence antigen mapping / EM (defines the level of split).
-
-**EXAM CONNECTION:** Level of blister determines scarring — the deeper the split, the more scarring. Acquired counterpart, **EB acquisita**, has autoantibodies to COL7.
-
-**REMEMBER:** *Simplex = intraepidermal/no scar; Junctional = laminin-332/lethal; Dystrophic = COL7/scars.*
-
----
-
----
-
 ## Connective Tissue and Autoimmune Disorders
 
-### 83. Scleredema vs Scleroderma
+### 74. Scleredema vs Scleroderma
 
 **PEARL:** **SCLEREDEMA** — the dermis is **3–4× thicker than normal** with **erythema and a peau d'orange appearance**, typically over the **upper back, neck and shoulders**, with the **HANDS AND FEET CHARACTERISTICALLY SPARED**. **It has NO sclerodactyly, NO Raynaud phenomenon, NO nailfold capillary changes and NO autoantibodies** — that is the whole distinction from systemic sclerosis.
 
@@ -1971,7 +1831,7 @@
 
 ---
 
-### 84. Morphoea and the "Box Sign"
+### 75. Morphoea and the "Box Sign"
 
 **PEARL:** **MORPHOEA (localised scleroderma)** — well-demarcated indurated sclerotic plaques. The **"BOX SIGN"** is the **squared-off, boxy appearance of the biopsy** caused by **sclerosis of collagen throughout the full-thickness reticular dermis extending into the subcutaneous septa**.
 
@@ -1999,7 +1859,7 @@
 
 ---
 
-### 85. Dermatomyositis
+### 76. Dermatomyositis
 
 **PEARL:** **HELIOTROPE RASH** (violaceous periorbital oedema), **GOTTRON PAPULES** (flat-topped papules over the **knuckles/PIP and DIP joints**), **SHAWL and V SIGNS** (photodistributed macular erythema), **nailfold changes with dilated capillary loops and ragged cuticles**, plus **PROXIMAL MUSCLE WEAKNESS with a RAISED CK**. **MUSCLE TENDERNESS IS UNCOMMON.**
 
@@ -2016,6 +1876,8 @@
 
 **EXAM CONNECTION:** "Which is NOT true?" → **"muscle tenderness is common"**. Also image-based: **V sign / heliotrope → dermatomyositis**.
 
+**ALSO KNOW:** Dermatomyositis is a **complement-mediated microangiopathy**: antibodies and **C5b-9 membrane attack complex** deposit on **endomysial capillaries**, causing ischaemic **perifascicular atrophy**. The muscle fibres die from ischaemia rather than from an acute inflammatory invasion of the fibre itself, so the process is **insidious and painless**. That is the mirror image of polymyositis (direct **CD8 T-cell invasion of non-necrotic fibres**) and of viral or drug myositis, which are genuinely painful. **Antibodies:** **anti-Mi-2 → classic skin disease, good prognosis, steroid-responsive**; **anti-Jo-1 (anti-synthetase) → mechanic's hands, arthritis, Raynaud, INTERSTITIAL LUNG DISEASE, fever**; **anti-MDA5 → clinically amyopathic DM with rapidly progressive ILD** (poor prognosis); **anti-TIF1-γ and anti-NXP2 → strongest MALIGNANCY association**.
+
 **REMEMBER:** *Weak but not sore, purple eyelids, papules ON the knuckles — and in an adult, go looking for a cancer.*
 
 **IMAGES:**
@@ -2026,33 +1888,7 @@
 
 ---
 
-### 86. Dermatomyositis
-
-**PEARL:** **Heliotrope rash** (violaceous periorbital erythema), **shawl sign**, **Gottron papules** and raised CPK = **dermatomyositis** — in which the weakness is **painless**; **muscle tenderness is UNCOMMON**, and its presence should suggest something else.
-
-**UNDERSTAND:** Dermatomyositis is a **complement-mediated microangiopathy**: antibodies and **C5b-9 membrane attack complex** deposit on **endomysial capillaries**, causing ischaemic **perifascicular atrophy**. The muscle fibres die from ischaemia rather than from an acute inflammatory invasion of the fibre itself, so the process is **insidious and painless**. That is the mirror image of polymyositis (direct **CD8 T-cell invasion of non-necrotic fibres**) and of viral or drug myositis, which are genuinely painful.
-
-**MUST KNOW:**
-
-- Skin: **heliotrope rash with periorbital oedema**, **Gottron papules** (violaceous papules over MCP/PIP knuckles — over the joints, unlike SLE which spares them), **shawl sign** (upper back/shoulders) and **V sign** (anterior chest), **mechanic's hands** (hyperkeratotic fissured fingertips), **dilated nailfold capillary loops with dropout**, **poikiloderma**, calcinosis cutis (especially in juvenile DM).
-- Muscle: **symmetrical PROXIMAL weakness** — difficulty rising from a chair, climbing stairs, combing hair; dysphagia from pharyngeal involvement predicts aspiration.
-- **Antibodies:** **anti-Mi-2 → classic skin disease, good prognosis, steroid-responsive**; **anti-Jo-1 (anti-synthetase) → mechanic's hands, arthritis, Raynaud, INTERSTITIAL LUNG DISEASE, fever**; **anti-MDA5 → clinically amyopathic DM with rapidly progressive ILD** (poor prognosis); **anti-TIF1-γ and anti-NXP2 → strongest MALIGNANCY association**.
-- **Adult dermatomyositis is a paraneoplastic marker** — screen for **ovarian, lung, gastric, colorectal, pancreatic and nasopharyngeal cancer** at diagnosis and for ~3 years.
-- Investigations: **CPK (also aldolase, LDH, AST)**, **EMG** (short-duration, low-amplitude polyphasic units with fibrillations), **MRI** to guide biopsy, **muscle biopsy — perifascicular atrophy is diagnostic**.
-- Treatment: **high-dose corticosteroids** first-line + steroid-sparing agent (methotrexate, azathioprine, mycophenolate), IVIG for refractory/dysphagia, **rigorous photoprotection** and hydroxychloroquine for the rash.
-
-**EXAM CONNECTION:** "Identify the FALSE statement" — the false one is **muscle tenderness**. Every other listed feature (nailfold capillaries, mechanic's hands, anti-Mi-2) is true.
-
-**REMEMBER:** *Weak but not sore — and look for a hidden cancer.*
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture27.jpg)
-
-`Q10873`
-
----
-
-### 87. Cutaneous Manifestations of SLE
+### 77. Cutaneous Manifestations of SLE
 
 **PEARL:** The **commonest cutaneous manifestation of SLE is PHOTOSENSITIVITY** — not the malar rash.
 
@@ -2078,7 +1914,7 @@
 
 ---
 
-### 88. Systemic Sclerosis — Autoantibodies
+### 78. Systemic Sclerosis — Autoantibodies
 
 **PEARL:**
 
@@ -2097,7 +1933,7 @@
 
 ---
 
-### 89. Systemic Sclerosis — Cutaneous Features
+### 79. Systemic Sclerosis — Cutaneous Features
 
 **PEARL:** Thickened, indurated skin (scleroderma) is the hallmark of systemic sclerosis; F:M = 4:1.
 
@@ -2115,7 +1951,7 @@
 
 ---
 
-### 90. Morphea and the "Box Sign"
+### 80. Morphea and the "Box Sign"
 
 **PEARL:** Morphea (localized scleroderma) shows the **"box sign"** — biopsy with squared-off edges ("boxed dermis") from dense collagen sclerosis extending through the reticular dermis into the subcutaneous septa.
 
@@ -2138,7 +1974,7 @@
 
 ## Urticaria, Angioedema and Drug Reactions
 
-### 91. Erythema Multiforme
+### 81. Erythema Multiforme
 
 **PEARL:** The commonest trigger is **INFECTION — above all HERPES SIMPLEX VIRUS** (then *Mycoplasma pneumoniae*, especially in children). Drugs are a much less common cause of true EM.
 
@@ -2154,6 +1990,8 @@
 
 **EXAM CONNECTION:** Image of target lesions → "most common triggering factor" → **infection** (not drugs — the intuitive wrong answer).
 
+**ALSO KNOW:** Recurrent EM → suppressive **acyclovir**. **SJS/TEN is drug-induced** and pathogenetically distinct — dusky atypical targets, truncal onset, extensive mucosal involvement.
+
 **REMEMBER:** *EM is a virus (herpes) with true 3-zone targets; SJS/TEN is a drug with flat targets and dying mucosa.*
 
 **IMAGES:**
@@ -2164,7 +2002,7 @@
 
 ---
 
-### 92. Fixed Drug Eruption
+### 82. Fixed Drug Eruption
 
 **PEARL:** **FDE = sharply demarcated, dull red to violaceous/brown round plaques that RECUR AT EXACTLY THE SAME SITE** on re-exposure, leaving **post-inflammatory hyperpigmentation**. In the amoebiasis context the drug is **METRONIDAZOLE**; overall, **NSAIDs/paracetamol, co-trimoxazole and tetracyclines** are commonest.
 
@@ -2189,7 +2027,7 @@
 
 ---
 
-### 93. Bleomycin — Flagellate Dermatitis
+### 83. Bleomycin — Flagellate Dermatitis
 
 **PEARL:** **FLAGELLATE (whiplash-like) linear bands of pruritic erythema on the trunk and limbs, healing with persistent linear HYPERPIGMENTATION** — virtually pathognomonic of **BLEOMYCIN**.
 
@@ -2205,6 +2043,8 @@
 
 **EXAM CONNECTION:** Image of linear whip-like pigmented streaks → name the drug → **bleomycin**.
 
+**ALSO KNOW:** Appears in scratched/pressure areas, dose-independent, may occur weeks after therapy. Other bleomycin skin toxicity: Raynaud's, digital gangrene, and its dose-limiting **pulmonary fibrosis**.
+
 **REMEMBER:** *Whip marks that were never whipped — bleomycin, and remember its lungs.*
 
 **IMAGES:**
@@ -2214,7 +2054,7 @@
 
 ---
 
-### 94. Dermographism
+### 84. Dermographism
 
 **PEARL:** **SIMPLE dermographism — the TRIPLE RESPONSE** (erythema → oedema/weal → surrounding flare). **WHITE dermographism — capillary VASOCONSTRICTION on light stroking, pronounced in ATOPIC ECZEMA.** **BLACK dermographism — skin discoloration after pressure from a METALLIC object.** **CHOLINERGIC dermographism — an erythematous line studded with PUNCTATE WEALS.**
 
@@ -2241,7 +2081,7 @@
 
 ---
 
-### 95. Hereditary Angioedema
+### 85. Hereditary Angioedema
 
 **PEARL:** **HAE is AUTOSOMAL DOMINANT**, caused by mutations of the **SERPING1** gene encoding **C1 INHIBITOR** (types I and II). **Type III** is associated with a **GAIN-of-function F12 mutation**. It is aggravated by **OESTROGENS (OCPs, HRT) — NOT by NSAIDs**.
 
@@ -2257,13 +2097,15 @@
 
 **EXAM CONNECTION:** "All statements are false EXCEPT" → **associated with mutations of SERPING1**.
 
+**ALSO KNOW: **Type III (normal C1-INH):** gain-of-function F12** mutation in ~20%; oestrogen-dependent, female-predominant. *HAE = bradykinin, low C4, oestrogen worsens, antihistamines useless.*
+
 **REMEMBER:** *Bradykinin, not histamine — no itch, no weals, no response to adrenaline, and never an ACE inhibitor.*
 
 `Q9988`
 
 ---
 
-### 96. Darier's Sign and Urticaria Pigmentosa
+### 86. Darier's Sign and Urticaria Pigmentosa
 
 **PEARL:** **DARIER'S SIGN = urtication and erythema of a lesion after rubbing or stroking it** — characteristic of **URTICARIA PIGMENTOSA (cutaneous mastocytosis)**. Do **not** confuse it with **Darier's DISEASE** (keratosis follicularis), which is a different condition entirely.
 
@@ -2288,78 +2130,9 @@
 
 ---
 
-### 97. Hereditary Angioedema (HAE) — Genetics & Triggers
-
-**PEARL:**
-
-- Types I & II: **SERPING1** (C1-inhibitor) mutation, autosomal dominant, chromosome **11q12.1**.
-- Type III (normal C1-INH): **gain-of-function F12** mutation in ~20%; oestrogen-dependent, female-predominant.
-- All types are **aggravated by oestrogen** (OCPs, HRT) — **not** by NSAIDs.
-
-**MUST KNOW:**
-
-- Type I = low C1-INH level (85%); Type II = normal level, low function (15%).
-- **C4 is low in all attacks** → best screening test; C1q low only in *acquired* angioedema (lymphoproliferative disease).
-- **Bradykinin**-mediated → non-pruritic, non-urticarial swelling; **no response to antihistamines/steroids/adrenaline**.
-- Acute treatment: C1-INH concentrate, icatibant (B2 blocker), ecallantide. Prophylaxis: danazol, tranexamic acid, lanadelumab.
-
-**EXAM CONNECTION:** ACE inhibitor angioedema is also bradykinin-mediated — same non-response to antihistamines. NSAID/aspirin aggravation is a feature of **chronic urticaria**, not HAE.
-
-**REMEMBER:** *HAE = bradykinin, low C4, oestrogen worsens, antihistamines useless.*
-
----
-
-### 98. Types of Dermographism
-
-**PEARL:**
-
-- **Simple:** triple response — erythema → wheal → axon-reflex flare after stroking.
-- **White:** vasoconstrictive white line on light stroking — pronounced in **atopic eczema**.
-- **Black:** black streak from metallic (silver/gold) object deposit — not a true vascular reaction.
-- **Cholinergic:** erythematous line studded with **punctate wheals** — in cholinergic urticaria.
-
-**EXAM CONNECTION:** White dermographism is the atopy marker; symptomatic (red, itchy) dermographism is the commonest physical urticaria, treated with antihistamines.
-
-**REMEMBER:** *White = atopic eczema; punctate wheals = cholinergic; black = metal rub.*
-
----
-
-### 99. Erythema Multiforme — Commonest Trigger
-
-**PEARL:** Target lesions (including palms) — the commonest trigger is **infection, especially herpes simplex virus**.
-
-**MUST KNOW:**
-
-- Typical target = 3 zones, acral/extensor distribution, mucosa may be involved (EM major).
-- *Mycoplasma pneumoniae* is the leading cause in **children**.
-- Recurrent EM → suppressive **acyclovir**.
-- **SJS/TEN is drug-induced** and pathogenetically distinct — dusky atypical targets, truncal onset, extensive mucosal involvement.
-
-**REMEMBER:** *EM = HSV; SJS/TEN = drugs.*
-
----
-
-### 100. Flagellate Dermatitis
-
-![figure](images/2026-08-15-11-11-07-1-Figure1-1-2308142669.png)
-
-**PEARL:** Linear "whiplash" streaks of hyperpigmentation — caused by **bleomycin**.
-
-**MUST KNOW:**
-
-- Appears in scratched/pressure areas, dose-independent, may occur weeks after therapy.
-- Other bleomycin skin toxicity: Raynaud's, digital gangrene, and its dose-limiting **pulmonary fibrosis**.
-- Non-drug mimic: **shiitake mushroom** dermatitis.
-
-**REMEMBER:** *Whiplash pigmentation = bleomycin (or shiitake).*
-
----
-
----
-
 ## Skin Tumours, Naevi and Vascular Lesions
 
-### 101. Syringoma
+### 87. Syringoma
 
 **PEARL:** **Multiple small, skin-coloured to yellowish, FLAT-TOPPED papules**, classically on the **LOWER EYELIDS**, also neck, chest, axillae and vulva/thighs — a **benign tumour of the ECCRINE SWEAT DUCT**. Appears around **puberty**, commoner in **women**.
 
@@ -2375,6 +2148,8 @@
 
 **EXAM CONNECTION:** "Site of origin of the tumour shown" → **sweat DUCTS**.
 
+**ALSO KNOW:** Increased frequency in **Down syndrome**.
+
 **REMEMBER:** *Flat papules under the eyes with tadpole-tailed ducts on histology — syringoma, from the sweat DUCT.*
 
 **IMAGES:**
@@ -2385,7 +2160,7 @@
 
 ---
 
-### 102. Bowen's Disease
+### 88. Bowen's Disease
 
 **PEARL:** **Squamous cell carcinoma IN SITU** — a persistent, slowly enlarging, **flat red scaly or crusted plaque with a well-defined irregular border**, showing **FULL-THICKNESS epidermal dysplasia** on histology. Its potential for **invasive** malignancy is **LOW (~3–5%)**, and it may even undergo **partial spontaneous resolution**.
 
@@ -2411,7 +2186,7 @@
 
 ---
 
-### 103. Vascular Birthmarks — Salmon Patch, Port-Wine Stain and Haemangioma
+### 89. Vascular Birthmarks — Salmon Patch, Port-Wine Stain and Haemangioma
 
 **PEARL:** The **SALMON PATCH (naevus simplex, "STORK BITE" on the NAPE OF THE NECK, "ANGEL'S KISS" on the glabella and eyelids) is a very common CAPILLARY VASCULAR MALFORMATION of newborns — flat, pink, blanching, deepening when the baby cries — and NEEDS NO TREATMENT: facial lesions fade within 1–2 years and the nuchal one often persists harmlessly under the hairline.** It is a **capillary MALFORMATION, not a true haemangioma (which is a proliferative tumour).**
 
@@ -2436,7 +2211,7 @@
 
 ---
 
-### 104. Basal Cell Carcinoma: The Rodent Ulcer
+### 90. Basal Cell Carcinoma: The Rodent Ulcer
 
 **PEARL:** A slowly enlarging ulcer with a **pearly, rolled, "rolled-out" beaded edge**, central depression and **telangiectasia over the surface**, on the **face above a line from the angle of the mouth to the ear lobe**, is a **basal cell carcinoma (rodent ulcer)**.
 
@@ -2463,7 +2238,7 @@
 
 ---
 
-### 105. Mycosis Fungoides — Extracorporeal Photopheresis
+### 91. Mycosis Fungoides — Extracorporeal Photopheresis
 
 **PEARL:** **Extracorporeal photopheresis** is a systemic therapy for **mycosis fungoides / Sézary syndrome** (cutaneous T-cell lymphoma) — leukapheresis, **psoralen + UVA activation ex vivo**, then reinfusion of the buffy coat.
 
@@ -2487,7 +2262,7 @@
 
 ---
 
-### 106. Melanoma Susceptibility Gene
+### 92. Melanoma Susceptibility Gene
 
 **PEARL:** CDKN2A on chromosome 9p21 is the best-established high-risk locus for melanoma susceptibility.
 
@@ -2501,25 +2276,7 @@
 
 ---
 
-### 107. Syringoma
-
-![Syringoma — Skin Hub - Expert Skin Blemish Removal in Basingstoke](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F66f5619a69539e29062a17e9%2F8e0a8e0e-7bef-43c2-b052-3f6ab5e47329%2FSyringoma.jpg&f=1&nofb=1&ipt=8ab98bc817ea24cb80f95d1db74acc2230254275c75991b6c11c2266a1dfd664)
-
-**PEARL:** Multiple skin/tan-colored, flat-topped papules — a benign tumor of eccrine sweat **ducts**.
-
-**MUST KNOW:**
-
-- Classic site: **lower eyelids** in young women; eruptive form on chest/thighs/vulva.
-- Histology: **tadpole/comma-shaped** ducts in a sclerotic stroma.
-- Increased frequency in **Down syndrome**.
-
-**EXAM CONNECTION:** Don't confuse with **syringocystadenoma papilliferum** (verrucous plaque on scalp, arises in nevus sebaceus) — different entity despite similar names.
-
-**REMEMBER:** *Syringoma = eyelid papules + tadpole ducts + Down syndrome.*
-
----
-
-### 108. Muir–Torre Syndrome
+### 93. Muir–Torre Syndrome
 
 **PEARL:** Autosomal dominant **DNA mismatch repair** defect (MSH2 > MLH1, MSH6) = **sebaceous neoplasms + keratoacanthomas** with internal GI and genitourinary malignancy.
 
@@ -2537,11 +2294,11 @@
 
 ## Acne, Sebaceous and Sweat Gland Disorders
 
-### 109. Isotretinoin in Acne
+### 94. Isotretinoin in Acne
 
 **PEARL:** **Systemic ISOTRETINOIN is the single most effective treatment for acne** — the only agent that targets **ALL FOUR pathogenic factors**: it shrinks sebaceous glands (↓sebum), normalises follicular keratinisation, reduces ***Cutibacterium acnes***, and is anti-inflammatory.
 
-**UNDERSTAND:** Every other treatment attacks one or two factors: **antibiotics** hit bacteria and inflammation; **topical retinoids** hit keratinisation; **hormonal therapy** hits sebum. Only isotretinoin does all four — which is why it can produce **prolonged remission after a finite course**, unlike everything else.
+**UNDERSTAND: **Every other treatment attacks one or two factors:** antibiotics** hit bacteria and inflammation; **topical retinoids** hit keratinisation; **hormonal therapy** hits sebum. Only isotretinoin does all four — which is why it can produce **prolonged remission after a finite course**, unlike everything else.
 
 **MUST KNOW:**
 
@@ -2563,7 +2320,7 @@
 
 ---
 
-### 110. Treatment-Resistant Acne in a Woman
+### 95. Treatment-Resistant Acne in a Woman
 
 **PEARL:** Acne that **fails isotretinoin and antibiotics in a female** → **evaluate for hyperandrogenism (PCOS, CAH, androgen-secreting tumour)**.
 
@@ -2588,7 +2345,7 @@
 
 ---
 
-### 111. Miliaria — Blocked Eccrine Ducts
+### 96. Miliaria — Blocked Eccrine Ducts
 
 **PEARL:** **Miliaria is a disorder of ECCRINE sweat ducts.** The level of the block defines the type: **crystallina — stratum corneum; rubra — mid-epidermis (Malpighian); profunda — dermoepidermal junction**.
 
@@ -2619,7 +2376,7 @@
 
 ## Skin in Systemic Disease and Miscellaneous
 
-### 112. The Eschar — What Causes It
+### 97. The Eschar — What Causes It
 
 **PEARL:** A black necrotic **ESCHAR** should trigger a short differential: **SCRUB TYPHUS, CUTANEOUS ANTHRAX, spider bite (brown recluse), rickettsial spotted fevers, and mucormycosis.** **Kyasanur Forest Disease does NOT cause an eschar** — it causes a **petechial/haemorrhagic** rash.
 
@@ -2645,7 +2402,7 @@
 
 ---
 
-### 113. Phrynoderma
+### 98. Phrynoderma
 
 **PEARL:** **"Toad skin"** — groups of **follicular keratotic papules with a central horny plug**, classically on the **elbows and knees (extensor surfaces)**, associated with **VITAMIN A deficiency** — the child with **night blindness**.
 
@@ -2674,7 +2431,7 @@
 
 ---
 
-### 114. Cutis Marmorata
+### 99. Cutis Marmorata
 
 **PEARL:** **Cutis marmorata** is a **physiological, reversible pink-blue mottled/marbled skin pattern in infants on exposure to COLD**, caused by simultaneous **dilatation of capillaries and constriction of venules**. It **resolves completely on rewarming** and needs no treatment.
 
@@ -2698,11 +2455,11 @@
 
 ---
 
-### 115. Dermatitis Artefacta
+### 100. Dermatitis Artefacta
 
 **PEARL:** **Self-inflicted skin lesions** with **bizarre, angular, geometric or linear shapes and clear-cut borders, surrounded by entirely normal skin**, appearing **fully formed with no prodrome**, in **accessible areas** — and accompanied by a **"hollow history"** (the patient cannot describe how they evolved).
 
-**UNDERSTAND:** The morphology is the diagnosis: **no natural dermatosis produces straight lines and sharp geometric angles**, because disease follows biology, not the hand. Lesions also **spare areas the patient cannot reach** (classically the mid-upper back).
+**UNDERSTAND: **The morphology is the diagnosis:** no natural dermatosis produces straight lines and sharp geometric angles**, because disease follows biology, not the hand. Lesions also **spare areas the patient cannot reach** (classically the mid-upper back).
 
 **MUST KNOW:**
 
@@ -2723,9 +2480,9 @@
 
 ---
 
-### 116. Malakoplakia
+### 101. Malakoplakia
 
-**PEARL:** **Soft yellow-brown plaques/nodules in an IMMUNOSUPPRESSED patient (classically post-transplant)**, most often **urinary tract**, and cutaneously in the **PERIANAL and genital region**. Histology: **sheets of foamy macrophages (von Hansemann cells) containing MICHAELIS–GUTMANN BODIES** — laminated, targetoid, calcified intracytoplasmic inclusions.
+**PEARL: ****Soft yellow-brown plaques/nodules in an IMMUNOSUPPRESSED patient (classically post-transplant)**, most often **urinary tract**, and cutaneously in the **PERIANAL and genital region**. Histology: **sheets of foamy macrophages (von Hansemann cells) containing MICHAELIS–GUTMANN BODIES** — laminated, targetoid, calcified intracytoplasmic inclusions.
 
 **UNDERSTAND:** The lesion results from a **defect in macrophage phagolysosomal function** — bacteria (usually ***E. coli*** or *Proteus*) are ingested but **not digested**. The undigested bacterial debris becomes mineralised with **calcium and iron**, forming the Michaelis–Gutmann bodies — which is why they stain with **von Kossa (calcium) and Perls' Prussian blue (iron)** as well as PAS.
 
@@ -2739,6 +2496,8 @@
 
 **EXAM CONNECTION:** Transplant patient + perianal/scalp plaques + targetoid intracytoplasmic inclusions → **malakoplakia**.
 
+**ALSO KNOW: **Commonest organism:** E. coli** (also Proteus); commonest site overall = **urinary tract**; cutaneous form favours perianal/genital skin. Classic setting: **renal transplant**/immunosuppression.
+
 **REMEMBER:** *Macrophages that swallow but cannot digest — and the debris calcifies into Michaelis–Gutmann bodies.*
 
 **IMAGES:**
@@ -2750,7 +2509,7 @@
 
 ---
 
-### 117. Acanthosis Nigricans
+### 102. Acanthosis Nigricans
 
 **PEARL:** **Velvety, symmetrical, hyperpigmented thickening of flexural skin — axillae, neck, groin, submammary folds.** The **commonest association is OBESITY** (and it **regresses with weight loss**).
 
@@ -2775,7 +2534,7 @@
 
 ---
 
-### 118. Diabetic Skin Markers
+### 103. Diabetic Skin Markers
 
 **PEARL:** **DIABETIC DERMOPATHY ("shin spots", Binkley's spots)** — asymptomatic **oval dull-red papules on the SHINS** that evolve into **atrophic hyperpigmented scars**. It is the **commonest** cutaneous marker of diabetes and correlates with **microvascular complications (retinopathy, nephropathy, neuropathy)**.
 
@@ -2802,48 +2561,9 @@
 
 ---
 
-### 119. Cutaneous Malakoplakia
-
-**PEARL:** Painless, progressive nodular/ulcerated yellow-erythematous plaques in an **immunosuppressed** patient, with **Michaelis–Gutmann bodies** on histology.
-
-![figure](images/2026-08-15-09-09-24-600px-Michaelis-Gutmann_bodies_-_very_high_mag_-_cropped-2234518474.jpg)
-
-**UNDERSTAND:** Defective macrophage phagolysosomal killing (low cGMP) means ingested bacteria are not digested; calcium and iron deposit on the residue → laminated basophilic targetoid inclusions.
-
-**MUST KNOW:**
-
-- Commonest organism: **E. coli** (also Proteus); commonest site overall = **urinary tract**; cutaneous form favours perianal/genital skin.
-- Classic setting: **renal transplant**/immunosuppression.
-- Michaelis–Gutmann bodies: **PAS+, von Kossa+ (calcium), Perls+ (iron)**.
-- "Malakoplakia" = soft plaque. Cells = von Hansemann histiocytes.
-
-**REMEMBER:** *Soft yellow plaque + E. coli + targetoid Michaelis–Gutmann bodies = malakoplakia.*
-
----
-
-### 120. Classic Triads — Behçet, Reiter, Disseminated Gonococcal
-
-**PEARL:**
-
-- **Behçet:** recurrent oral aphthae + genital ulcers + uveitis.
-- **Reiter (reactive arthritis):** arthritis + conjunctivitis + non-specific urethritis — follows *Chlamydia*, *Campylobacter*, *Salmonella*, *Shigella*, *Yersinia*.
-- **Disseminated gonococcal infection:** tenosynovitis + dermatitis + migratory asymmetric polyarthralgia.
-
-**MUST KNOW:**
-
-- Behçet: **pathergy test** positive; HLA-**B51**; oral ulcers are the required criterion; Silk Route distribution.
-- Reiter: HLA-**B27**; keratoderma blennorrhagicum (soles), circinate balanitis; "can't see, can't pee, can't climb a tree".
-- DGI: few **pustular/hemorrhagic** skin lesions on distal limbs; blood cultures often negative — culture all mucosal sites; treat with ceftriaxone.
-
-**REMEMBER:** *Behçet = mouth+genital+eye (B51); Reiter = joint+eye+urethra (B27); DGI = tendon+skin+joint.*
-
----
-
----
-
 ## Investigations and Therapeutics
 
-### 121. Wood's Lamp Fluorescence
+### 104. Wood's Lamp Fluorescence
 
 **PEARL:** **ERYTHRASMA — CORAL RED.** **Pityriasis versicolor — YELLOW / golden.** **Tinea capitis (*Microsporum*) — BLUE-GREEN.** **VITILIGO — chalky/MILKY WHITE with sharp accentuation.** **Pseudomonas — green.** **Porphyria cutanea tarda urine — pink-orange.**
 
@@ -2865,7 +2585,7 @@
 
 ---
 
-### 122. Anti-Psoriatic Drugs — Matching the Toxicity
+### 105. Anti-Psoriatic Drugs — Matching the Toxicity
 
 **PEARL:** **PUVA → long-term risk of NON-MELANOMA SKIN CANCER.** **Ciclosporin → highly effective but NEPHROTOXIC.** **Methotrexate → ABORTIFACIENT/teratogenic, hepatotoxic, myelosuppressive.** **Acitretin → MUCOSITIS, hyperlipidaemia, and TERATOGENIC.**
 
@@ -2888,7 +2608,7 @@
 
 ---
 
-### 123. Patch Testing
+### 106. Patch Testing
 
 **PEARL:** In patch testing for **ALLERGIC CONTACT DERMATITIS (a type IV delayed hypersensitivity reaction)**, the patches are applied to the back under occlusion and **REMOVED AT 48 HOURS** for the first reading. **A further reading at 72–96 hours** is essential for confirmation.
 
@@ -2914,7 +2634,7 @@
 
 ---
 
-### 124. Tzanck Smear
+### 107. Tzanck Smear
 
 **PEARL:** Scrapings from a **herpetic (HSV or VZV) vesicle** show **BOTH acantholytic (Tzanck) cells AND MULTINUCLEATE GIANT CELLS** with moulded nuclei and margination of chromatin.
 
@@ -2942,7 +2662,7 @@
 
 ---
 
-### 125. Munro vs Pautrier
+### 108. Munro vs Pautrier
 
 **PEARL:** **M**unro microabscess → **P**soriasis; **P**autrier microabscess → **M**ycosis fungoides. (Cross the letters.)
 
@@ -2956,3 +2676,9 @@
 ---
 
 ---
+
+## Sources for the 2026 Updates
+
+[^1]: **National Leprosy Eradication Programme — revised treatment guidelines**: three-drug multidrug therapy (rifampicin, clofazimine, dapsone) for paucibacillary leprosy in India with effect from 1 April 2025, single-dose rifampicin post-exposure prophylaxis for contacts, and a national goal of zero transmission by 2027. <https://dghs.mohfw.gov.in/national-leprosy-eradication-programme.php>
+
+[^2]: **Recent approvals in inflammatory skin disease** — deucravacitinib and bimekizumab for psoriasis; tralokinumab and lebrikizumab for atopic dermatitis; baricitinib, ritlecitinib and deuruxolitinib for alopecia areata; topical ruxolitinib for non-segmental vitiligo, the first approved repigmenting therapy — all JAK inhibitors carrying the class boxed warning. <https://www.fda.gov/drugs/news-events-human-drugs>
