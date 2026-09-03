@@ -7,5 +7,6 @@
   "showViewHeader": false,
   "showRibbon": false,
   "nativeMenus": false,
-  "cssTheme": "Sanctum"
+  "cssTheme": "Sanctum",
+  "enabledCssSnippets": []
 }

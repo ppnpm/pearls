@@ -27,7 +27,7 @@
 
 **PEARL:** **ST elevation in V1–V4 = ANTEROSEPTAL MI**, from occlusion of the **LEFT ANTERIOR DESCENDING artery**. **Reciprocal ST DEPRESSION in the inferior leads (II, III, aVF)** may accompany it.
 
-**UNDERSTAND:** ECG territories map directly onto coronary anatomy: each lead group "looks at" the myocardium supplied by one vessel. Learning the map once removes the need to memorise individual patterns.
+**UNDERSTAND:** ECG territories map directly onto coronary anatomy: each lead group “looks at” the myocardium supplied by one vessel. Learning the map once removes the need to memorise individual patterns.
 
 **MUST KNOW:**
 
@@ -53,7 +53,7 @@
 
 **PEARL:** **SUBCLINICAL acute myocarditis = the typical syndrome WITHOUT cardiac symptoms**, but with **elevated biomarkers (troponin, proBNP), an abnormal ECG, regional wall motion abnormalities and a reduced LVEF on echo.** **PROBABLE acute myocarditis adds CARDIAC SYMPTOMS (palpitations, chest pain, dyspnoea).** **DEFINITE myocarditis requires HISTOLOGICAL evidence on ENDOMYOCARDIAL BIOPSY.**
 
-**UNDERSTAND:** The classification is layered by **certainty of evidence**, not by severity — moving from "the tests are abnormal" (subclinical) → "the patient has symptoms too" (probable) → "we have seen the inflammation" (definite). This is why **palpitations exclude the subclinical category** — the whole point of "subclinical" is the absence of cardiac symptoms.
+**UNDERSTAND:** The classification is layered by **certainty of evidence**, not by severity — moving from “the tests are abnormal” (subclinical) → “the patient has symptoms too” (probable) → “we have seen the inflammation” (definite). This is why **palpitations exclude the subclinical category** — the whole point of “subclinical” is the absence of cardiac symptoms.
 
 **MUST KNOW:**
 
@@ -64,9 +64,9 @@
 - **Management: supportive heart failure therapy (ACE inhibitor, beta-blocker, diuretics), arrhythmia management, mechanical support for fulminant cases (which paradoxically have a GOOD long-term prognosis if they survive), and AVOID NSAIDs.**
 - **Myopericarditis/perimyocarditis** = features of both, with pericarditic chest pain plus troponin rise.
 
-**EXAM CONNECTION:** Multi-select — **palpitations** is the item that must be excluded from "subclinical".
+**EXAM CONNECTION:** Multi-select — **palpitations** is the item that must be excluded from “subclinical”.
 
-**REMEMBER:** *Subclinical means the tests are abnormal but the patient feels nothing — the moment they get symptoms, it is "probable".*
+**REMEMBER:** *Subclinical means the tests are abnormal but the patient feels nothing — the moment they get symptoms, it is “probable”.*
 
 `Q10021, Q10022`
 
@@ -81,13 +81,13 @@
 **MUST KNOW:**
 
 - **The triad is highly SPECIFIC but poorly SENSITIVE** — its absence never excludes tamponade, which remains a **CLINICAL diagnosis confirmed by echocardiography**.
-- **BECK'S TRIAD (clinical): HYPOTENSION + RAISED JVP + MUFFLED HEART SOUNDS**, with **PULSUS PARADOXUS (an inspiratory fall in systolic BP >10 mmHg)** and **absent Y descent in the JVP**.
+- **BECK’S TRIAD (clinical): HYPOTENSION + RAISED JVP + MUFFLED HEART SOUNDS**, with **PULSUS PARADOXUS (an inspiratory fall in systolic BP >10 mmHg)** and **absent Y descent in the JVP**.
 - **Understand pulsus paradoxus:** inspiration increases right ventricular filling, and because the pericardium is fixed, the **interventricular septum bulges leftward**, reducing LV filling and stroke volume — **ventricular interdependence**. It also occurs in **severe asthma, COPD and constrictive pericarditis**.
-- **Contrast CONSTRICTIVE PERICARDITIS: KUSSMAUL'S SIGN (JVP RISES on inspiration) and a PROMINENT Y DESCENT with a pericardial knock** — the opposite JVP pattern to tamponade.
+- **Contrast CONSTRICTIVE PERICARDITIS: KUSSMAUL’S SIGN (JVP RISES on inspiration) and a PROMINENT Y DESCENT with a pericardial knock** — the opposite JVP pattern to tamponade.
 - **Echo findings: diastolic collapse of the right atrium and right ventricle, a dilated non-collapsing IVC, and marked respiratory variation in mitral/tricuspid inflow.**
 - **Treatment is URGENT PERICARDIOCENTESIS. Give FLUIDS and AVOID diuretics, vasodilators and positive-pressure ventilation** — all reduce preload in a preload-dependent state.
 
-**EXAM CONNECTION:** "Not a component of the classical ECG triad" → **prolonged ST segment**.
+**EXAM CONNECTION:** “Not a component of the classical ECG triad” → **prolonged ST segment**.
 
 **REMEMBER:** *Fast, small and swinging — tachycardia, low voltage, electrical alternans.*
 
@@ -108,7 +108,7 @@
 
 - **NYHA class III vs IV is the commonest confusion: III is symptomatic on minimal exertion but COMFORTABLE AT REST; IV has symptoms AT REST.** Going to the bathroom is exertion, so it is **class III**.
 - **mMRC scale: 0 — breathless only on strenuous exercise · 1 — hurrying or walking up a slight hill · 2 — walks slower than peers or stops for breath on the level · 3 — stops after ~100 m or a few minutes on the level · 4 — too breathless to leave the house or breathless on dressing.**
-- **mMRC ≥2 defines "more symptoms" in the GOLD ABE grouping** of COPD and is a component of the **BODE index** (BMI, Obstruction/FEV1, Dyspnoea/mMRC, Exercise/6-minute walk) which predicts mortality in COPD.
+- **mMRC ≥2 defines “more symptoms” in the GOLD ABE grouping** of COPD and is a component of the **BODE index** (BMI, Obstruction/FEV1, Dyspnoea/mMRC, Exercise/6-minute walk) which predicts mortality in COPD.
 - **NYHA class is dynamic** — it can improve with treatment, and it drives decisions such as **ICD/CRT implantation (typically NYHA II–III with EF ≤35%)** and transplant referral.
 - **Other cardiac grading systems: the Canadian Cardiovascular Society (CCS) classification for ANGINA**, and **Killip class for acute MI**.
 
@@ -128,13 +128,13 @@
 
 **MUST KNOW:**
 
-- **JVP waveform logic: "a" wave — atrial contraction (ABSENT in ATRIAL FIBRILLATION; CANNON a waves in complete heart block, VT and junctional rhythm; GIANT a waves in tricuspid stenosis and pulmonary hypertension). "v" wave — atrial filling (GIANT "cv" waves in TRICUSPID REGURGITATION). "x" descent — atrial relaxation (prominent in TAMPONADE). "y" descent — early ventricular filling (ABSENT in TAMPONADE, PROMINENT and steep in CONSTRICTIVE PERICARDITIS and severe TR).**
-- **KUSSMAUL'S SIGN (a paradoxical RISE in JVP on inspiration) occurs in CONSTRICTIVE PERICARDITIS, restrictive cardiomyopathy, RV infarction and massive PE — but classically NOT in tamponade.**
+- **JVP waveform logic: “a” wave — atrial contraction (ABSENT in ATRIAL FIBRILLATION; CANNON a waves in complete heart block, VT and junctional rhythm; GIANT a waves in tricuspid stenosis and pulmonary hypertension). “v” wave — atrial filling (GIANT “cv” waves in TRICUSPID REGURGITATION). “x” descent — atrial relaxation (prominent in TAMPONADE). “y” descent — early ventricular filling (ABSENT in TAMPONADE, PROMINENT and steep in CONSTRICTIVE PERICARDITIS and severe TR).**
+- **KUSSMAUL’S SIGN (a paradoxical RISE in JVP on inspiration) occurs in CONSTRICTIVE PERICARDITIS, restrictive cardiomyopathy, RV infarction and massive PE — but classically NOT in tamponade.**
 - **ORTHOPNOEA occurs within 1–2 minutes of lying flat** (redistribution of fluid from the abdomen and legs into the chest, plus reduced lung compliance); **PAROXYSMAL NOCTURNAL DYSPNOEA occurs 2–3 hours after going to bed** and takes ~30 minutes to relieve on sitting up — the time course distinguishes them.
-- **Right hypochondrial pain in heart failure is from HEPATIC CONGESTION (stretched Glisson's capsule)**, with tender hepatomegaly and **hepatojugular reflux**.
+- **Right hypochondrial pain in heart failure is from HEPATIC CONGESTION (stretched Glisson’s capsule)**, with tender hepatomegaly and **hepatojugular reflux**.
 - **A raised JVP with tender hepatomegaly, ascites and pedal oedema is right heart failure** — and **the commonest cause of right heart failure is LEFT heart failure**.
 
-**EXAM CONNECTION:** "Not seen in cardiac failure" → **non-pulsatile elevated JVP**.
+**EXAM CONNECTION:** “Not seen in cardiac failure” → **non-pulsatile elevated JVP**.
 
 **REMEMBER:** *A high JVP that does not move belongs to tamponade or SVC obstruction, not to heart failure.*
 
@@ -147,20 +147,20 @@
 
 ### 6. P Pulmonale and P Mitrale
 
-**PEARL:** **TALL, PEAKED P WAVES (≥2.5 mm) in the inferior leads = "P PULMONALE" = RIGHT ATRIAL ENLARGEMENT** — caused by **TRICUSPID STENOSIS**, pulmonary hypertension, COPD/cor pulmonale and pulmonary stenosis. **BROAD, BIFID ("M-shaped") P waves ≥120 ms = "P MITRALE" = LEFT atrial enlargement**, from **MITRAL STENOSIS** or mitral regurgitation.
+**PEARL:** **TALL, PEAKED P WAVES (≥2.5 mm) in the inferior leads = “P PULMONALE” = RIGHT ATRIAL ENLARGEMENT** — caused by **TRICUSPID STENOSIS**, pulmonary hypertension, COPD/cor pulmonale and pulmonary stenosis. **BROAD, BIFID (“M-shaped”) P waves ≥120 ms = “P MITRALE” = LEFT atrial enlargement**, from **MITRAL STENOSIS** or mitral regurgitation.
 
 **UNDERSTAND:** The **right atrium depolarises FIRST and the left atrium second**, and together they form the single P wave. **Right atrial hypertrophy increases the AMPLITUDE of the first half → a tall peaked P.** **Left atrial enlargement DELAYS the second half → a wide, notched P.** Height means right, width means left.
 
 **MUST KNOW:**
 
 - **In V1 the two are even clearer: P pulmonale gives a tall initial POSITIVE deflection; P mitrale gives a deep, wide terminal NEGATIVE deflection.**
-- **TRICUSPID STENOSIS: giant "a" wave with a SLOW y descent in the JVP, a mid-diastolic murmur at the LEFT LOWER STERNAL EDGE that INCREASES ON INSPIRATION (Carvallo's sign), with systemic venous congestion — hepatomegaly, ascites and oedema — but CLEAR LUNGS.** It is almost always rheumatic and accompanies mitral stenosis.
-- **A patient with mitral stenosis whose "pulmonary oedema improves" as tricuspid stenosis develops is a classic teaching point** — the failing right ventricle can no longer flood the lungs.
-- **MITRAL STENOSIS: loud S1, opening snap, mid-diastolic rumble with PRESYSTOLIC ACCENTUATION, and a tapping apex.** **The presystolic accentuation and S4 DISAPPEAR when ATRIAL FIBRILLATION supervenes**, because the atrial kick is lost — along with the "a" wave in the JVP and the P wave on ECG.
+- **TRICUSPID STENOSIS: giant “a” wave with a SLOW y descent in the JVP, a mid-diastolic murmur at the LEFT LOWER STERNAL EDGE that INCREASES ON INSPIRATION (Carvallo’s sign), with systemic venous congestion — hepatomegaly, ascites and oedema — but CLEAR LUNGS.** It is almost always rheumatic and accompanies mitral stenosis.
+- **A patient with mitral stenosis whose “pulmonary oedema improves” as tricuspid stenosis develops is a classic teaching point** — the failing right ventricle can no longer flood the lungs.
+- **MITRAL STENOSIS: loud S1, opening snap, mid-diastolic rumble with PRESYSTOLIC ACCENTUATION, and a tapping apex.** **The presystolic accentuation and S4 DISAPPEAR when ATRIAL FIBRILLATION supervenes**, because the atrial kick is lost — along with the “a” wave in the JVP and the P wave on ECG.
 - **A LOUD S1 in mitral stenosis indicates a MOBILE, PLIABLE valve (mild/early disease); S1 becomes SOFT with a CALCIFIED valve, a LONG PR interval, associated AORTIC REGURGITATION and LV dysfunction.** **S1 intensity does NOT indicate severity.**
 - **Severity of MS is judged by the length of the diastolic murmur and the S2–OPENING SNAP INTERVAL — a SHORTER interval means MORE SEVERE stenosis** (higher left atrial pressure opens the valve earlier).
 
-**EXAM CONNECTION:** "Tall P waves" → **tricuspid stenosis** (mitral stenosis gives broad, bifid P waves).
+**EXAM CONNECTION:** “Tall P waves” → **tricuspid stenosis** (mitral stenosis gives broad, bifid P waves).
 
 **REMEMBER:** *Tall P is the right atrium, wide P is the left — and atrial fibrillation abolishes the presystolic accentuation of mitral stenosis.*
 
@@ -215,7 +215,7 @@
 - **A wide-complex tachycardia should be assumed to be VT until proven otherwise, especially with a history of structural heart disease or previous MI** — treating VT as SVT with verapamil can be fatal.
 - **Features favouring VT over SVT with aberrancy: AV DISSOCIATION, CAPTURE and FUSION beats, QRS >140 ms, extreme axis deviation, and concordance across the precordial leads (BRUGADA criteria).** AV dissociation is the most specific.
 - **POLYMORPHIC VT with a long QT = TORSADES DE POINTES → IV MAGNESIUM SULPHATE**, correct potassium, stop the offending drug, and overdrive pace. **Polymorphic VT with a NORMAL QT usually means ISCHAEMIA** — treat that.
-- **VT lasting ≥30 s or requiring intervention is "SUSTAINED".** Post-MI scar-related re-entry is the commonest substrate.
+- **VT lasting ≥30 s or requiring intervention is “SUSTAINED”.** Post-MI scar-related re-entry is the commonest substrate.
 - **Long-term: an ICD reduces mortality after sustained VT/VF or with LVEF ≤35% post-MI**; amiodarone and ablation reduce recurrence but not mortality.
 - **SYNCHRONISATION matters: the shock is timed to the R wave so it cannot land on the T wave (the vulnerable period) and precipitate VF — so SYNCHRONISE for any organised rhythm with a pulse and DEFIBRILLATE (unsynchronised) only for VF and pulseless VT.** Sedate the conscious patient if time allows. **Biphasic energies: narrow-complex regular (SVT/flutter) 70–120 J; AF 120–150 J; VT with a pulse 120–150 J**, escalating; if three shocks fail, **amiodarone 300 mg IV over 10–20 minutes, then repeat the shock**, correcting the 4 Hs and 4 Ts.
 - **STABLE narrow-complex regular tachycardia → vagal manoeuvres (modified Valsalva) → ADENOSINE 6 mg rapid IV push, then 12 mg** (transient sense of doom; **contraindicated in asthma, potentiated by dipyridamole, blocked by theophylline/caffeine**); it also **unmasks atrial flutter** by transiently blocking the AV node.
@@ -238,7 +238,7 @@
 
 **PEARL:** In **established atherosclerotic cardiovascular disease (post-MI), give a HIGH-INTENSITY STATIN IRRESPECTIVE OF LIPID LEVELS** — **atorvastatin 40–80 mg or rosuvastatin 20–40 mg**. **Fibrates are NOT added unless triglycerides exceed ~500 mg/dL** (where the indication is preventing pancreatitis, not preventing cardiovascular events).
 
-**UNDERSTAND:** Statins in secondary prevention are not "lipid-lowering agents" so much as **plaque-stabilising agents** — they reduce inflammation, improve endothelial function and stabilise the fibrous cap (**pleiotropic effects**). That is why the indication is the *diagnosis*, not the *number*, and why waiting for a high LDL before treating is wrong.
+**UNDERSTAND:** Statins in secondary prevention are not “lipid-lowering agents” so much as **plaque-stabilising agents** — they reduce inflammation, improve endothelial function and stabilise the fibrous cap (**pleiotropic effects**). That is why the indication is the *diagnosis*, not the *number*, and why waiting for a high LDL before treating is wrong.
 
 **MUST KNOW:**
 
@@ -265,7 +265,7 @@
 
 **PEARL:** ECG of **dextrocardia**: **inverted P, QRS and T in lead I**, **positive (upright) complexes in aVR**, and **reversed/decreasing R wave progression across the chest leads (R gets smaller from V1 to V6)**.
 
-**UNDERSTAND:** In dextrocardia the heart's electrical axis points to the **right and posteriorly**, so every vector that normally travels toward lead I now travels away from it, inverting the whole complex — and the vector that normally moves away from aVR now points toward it, making aVR upright. Chest leads placed in the standard left-sided positions get progressively **further** from the right-sided heart, so voltage falls instead of rising.
+**UNDERSTAND:** In dextrocardia the heart’s electrical axis points to the **right and posteriorly**, so every vector that normally travels toward lead I now travels away from it, inverting the whole complex — and the vector that normally moves away from aVR now points toward it, making aVR upright. Chest leads placed in the standard left-sided positions get progressively **further** from the right-sided heart, so voltage falls instead of rising.
 
 **MUST KNOW:**
 
@@ -306,7 +306,7 @@
 
 - Other causes of raised troponin with normal coronaries (**MINOCA**): myocarditis, pulmonary embolism, sepsis, coronary spasm or dissection, renal failure.
 
-**EXAM CONNECTION:** The stem always states **"CAG was normal"** after a STEMI picture in a stressed patient. The answer describes the **apical ballooning**.
+**EXAM CONNECTION:** The stem always states **“CAG was normal”** after a STEMI picture in a stressed patient. The answer describes the **apical ballooning**.
 
 **REMEMBER:** *Broken heart: the apex stops, the base squeezes, the arteries are clean.*
 
@@ -318,7 +318,7 @@
 
 **PEARL:** Hypertensive **emergency** (very high BP **with acute end-organ damage** — here, retinal cotton-wool spots and neurological symptoms) is treated with **IV LABETALOL** — reduce the mean arterial pressure by **no more than 20–25% in the first hour**.
 
-**UNDERSTAND:** Chronic hypertension shifts the **cerebral autoregulation curve to the right**, so the brain is perfused normally at high pressures but becomes **ischaemic at "normal" ones**. Dropping the pressure to 120/80 in an hour causes watershed infarction, blindness and acute kidney injury. Labetalol is favoured because it is a **combined alpha-1 and beta blocker given as titratable boluses or infusion**, lowering resistance without reflex tachycardia and **without raising intracranial pressure** (unlike direct vasodilators such as nitroprusside).
+**UNDERSTAND:** Chronic hypertension shifts the **cerebral autoregulation curve to the right**, so the brain is perfused normally at high pressures but becomes **ischaemic at “normal” ones**. Dropping the pressure to 120/80 in an hour causes watershed infarction, blindness and acute kidney injury. Labetalol is favoured because it is a **combined alpha-1 and beta blocker given as titratable boluses or infusion**, lowering resistance without reflex tachycardia and **without raising intracranial pressure** (unlike direct vasodilators such as nitroprusside).
 
 **MUST KNOW:**
 
@@ -344,14 +344,14 @@
 
 **MUST KNOW:**
 
-- **Echo: "granular sparkling" appearance of thickened walls, biatrial enlargement, small ventricular cavities, restrictive mitral inflow pattern, and reduced strain with APICAL SPARING ("cherry on top")** — highly specific.
-- **Types: AL amyloidosis (light chain — from a plasma cell dyscrasia; check serum free light chains and immunofixation)** and **ATTR (transthyretin — wild-type "senile" in elderly men, or hereditary)**. **Transthyretin is the major protein in senile cardiac amyloid.** **⁹⁹ᵐTc-PYP/DPD scintigraphy** diagnoses ATTR non-invasively.
+- **Echo: “granular sparkling” appearance of thickened walls, biatrial enlargement, small ventricular cavities, restrictive mitral inflow pattern, and reduced strain with APICAL SPARING (“cherry on top”)** — highly specific.
+- **Types: AL amyloidosis (light chain — from a plasma cell dyscrasia; check serum free light chains and immunofixation)** and **ATTR (transthyretin — wild-type “senile” in elderly men, or hereditary)**. **Transthyretin is the major protein in senile cardiac amyloid.** **⁹⁹ᵐTc-PYP/DPD scintigraphy** diagnoses ATTR non-invasively.
 - **AVOID digoxin and calcium channel blockers** — they bind avidly to amyloid fibrils and cause toxicity/heart block. Cautious diuretics; these patients are **preload-dependent**.
 - **Treatment: tafamidis (TTR stabiliser) for ATTR; chemotherapy/autologous stem cell transplant for AL.**
-- **Restrictive cardiomyopathy vs constrictive pericarditis** — both cause **Kussmaul's sign and a square-root/dip-and-plateau pressure trace**. Constriction has a **pericardial knock, calcified pericardium, and DISCORDANT ventricular pressures on respiration**; restriction has **thick walls and raised BNP**. **Pericardiectomy cures constriction**, so the distinction matters.
+- **Restrictive cardiomyopathy vs constrictive pericarditis** — both cause **Kussmaul’s sign and a square-root/dip-and-plateau pressure trace**. Constriction has a **pericardial knock, calcified pericardium, and DISCORDANT ventricular pressures on respiration**; restriction has **thick walls and raised BNP**. **Pericardiectomy cures constriction**, so the distinction matters.
 - Other causes of restriction: **endomyocardial fibrosis (common in tropical countries), Löffler endocarditis (hypereosinophilia), haemochromatosis, sarcoidosis, radiation, storage diseases**.
 
-**EXAM CONNECTION:** The biopsy image or the phrase "hyaline eosinophilic deposits" fixes amyloid; the physiology it produces is **restrictive**, not dilated or hypertrophic.
+**EXAM CONNECTION:** The biopsy image or the phrase “hyaline eosinophilic deposits” fixes amyloid; the physiology it produces is **restrictive**, not dilated or hypertrophic.
 
 **REMEMBER:** *Thick walls with small voltages — the muscle is padded, not grown.*
 
@@ -364,7 +364,7 @@
 
 ### 14. Brugada Syndrome
 
-**PEARL:** **Coved ("shark-fin") ST elevation ≥2 mm with a descending ST segment and an inverted T wave in V1–V3 (type 1 pattern)**, plus **syncope or nocturnal agonal respiration/sudden death in a young man**, is **BRUGADA SYNDROME** — a **SCN5A sodium channelopathy**. Treatment is an **implantable cardioverter-defibrillator**; no drug prevents sudden death.
+**PEARL:** **Coved (“shark-fin”) ST elevation ≥2 mm with a descending ST segment and an inverted T wave in V1–V3 (type 1 pattern)**, plus **syncope or nocturnal agonal respiration/sudden death in a young man**, is **BRUGADA SYNDROME** — a **SCN5A sodium channelopathy**. Treatment is an **implantable cardioverter-defibrillator**; no drug prevents sudden death.
 
 **UNDERSTAND:** The loss-of-function sodium channel reduces the inward current in **phase 0 and 1**, most severely in the **right ventricular OUTFLOW TRACT epicardium**, where the transient outward K⁺ current (Ito) is strongest. That creates a **voltage gradient between epicardium and endocardium** — seen on the ECG as ST elevation in the right precordial leads — and a substrate for **phase 2 re-entry → polymorphic VT/VF**. Because vagal tone and slow heart rates accentuate this gradient, events occur characteristically **at night, at rest, or with fever**.
 
@@ -372,7 +372,7 @@
 
 - **FEVER is a major trigger** — treat fever promptly with **paracetamol** in any known or suspected case.
 - **Avoid: class I antiarrhythmics (flecainide, propafenone, procainamide), tricyclic antidepressants, lithium, cocaine, and excess alcohol** — see brugadadrugs.org. Paradoxically, **a sodium-channel blocker (ajmaline/flecainide) challenge is used to UNMASK the diagnosis** when the ECG is equivocal.
-- **Autosomal dominant, SCN5A in ~20–30%; commonest in South-East Asian males** (the *"bangungot"/sudden unexplained nocturnal death syndrome"*); presents around age 40.
+- **Autosomal dominant, SCN5A in ~20–30%; commonest in South-East Asian males** (the *“bangungot” / sudden unexplained nocturnal death syndrome*); presents around age 40.
 - **Type 1 (coved) is the only diagnostic pattern**; types 2 and 3 (saddleback) are suggestive and need provocation testing. Placing leads V1–V2 in **higher intercostal spaces** increases sensitivity.
 - Management: **ICD for aborted cardiac arrest or documented VT/syncope**; **quinidine** (blocks Ito) reduces recurrent shocks; catheter ablation of the RVOT epicardium is emerging.
 - Differentials for ST elevation in V1–V3: **anterior STEMI, early repolarisation, left bundle branch block, arrhythmogenic right ventricular cardiomyopathy (epsilon waves, T inversion V1–V3), acute pericarditis, hyperkalaemia**.
@@ -396,13 +396,13 @@
 
 **MUST KNOW:**
 
-- **Mortality-reducing ("the four pillars") in HFrEF: (1) ACE inhibitor / ARB / ARNI (sacubitril–valsartan); (2) BETA-BLOCKER (bisoprolol, carvedilol, metoprolol succinate, nebivolol — start low, go slow, only when euvolaemic); (3) MINERALOCORTICOID RECEPTOR ANTAGONIST (spironolactone, eplerenone); (4) SGLT2 INHIBITOR (dapagliflozin, empagliflozin).** Add **ivabradine** if the sinus rate stays ≥70, **hydralazine + nitrate** (especially in Black patients or if ACE inhibitors are contraindicated), and device therapy (**ICD, CRT**). **All four pillars are started EARLY AND TOGETHER at low dose rather than sequentially up-titrated, and SGLT2 INHIBITORS ARE NOW RECOMMENDED ACROSS THE WHOLE EJECTION-FRACTION RANGE — including HFmrEF and HFpEF**, where they are the only class with clear benefit.[^3]
+- **Mortality-reducing (“the four pillars”) in HFrEF: (1) ACE inhibitor / ARB / ARNI (sacubitril–valsartan); (2) BETA-BLOCKER (bisoprolol, carvedilol, metoprolol succinate, nebivolol — start low, go slow, only when euvolaemic); (3) MINERALOCORTICOID RECEPTOR ANTAGONIST (spironolactone, eplerenone); (4) SGLT2 INHIBITOR (dapagliflozin, empagliflozin).** Add **ivabradine** if the sinus rate stays ≥70, **hydralazine + nitrate** (especially in Black patients or if ACE inhibitors are contraindicated), and device therapy (**ICD, CRT**). **All four pillars are started EARLY AND TOGETHER at low dose rather than sequentially up-titrated, and SGLT2 INHIBITORS ARE NOW RECOMMENDED ACROSS THE WHOLE EJECTION-FRACTION RANGE — including HFmrEF and HFpEF**, where they are the only class with clear benefit.[^3]
 - **Symptomatic only: loop diuretics (the fastest relief of congestion) and DIGOXIN** — digoxin reduces hospitalisations, improves symptoms, is useful in **AF with heart failure**, and has a **narrow therapeutic index** (nausea, xanthopsia/yellow vision, arrhythmia; toxicity worsened by hypokalaemia).
 - **Contraindicated/harmful in HFrEF: NSAIDs, most calcium channel blockers (verapamil, diltiazem — negative inotropes), thiazolidinediones, and class I antiarrhythmics.**
 - **ACE inhibitor adverse effects: dry COUGH (bradykinin — switch to an ARB), hyperkalaemia, angioedema, first-dose hypotension, and acute kidney injury in BILATERAL RENAL ARTERY STENOSIS; contraindicated in PREGNANCY.** A creatinine rise of up to 30% is acceptable.
 - **HFpEF (preserved EF):** until recently no drug improved mortality; **SGLT2 inhibitors now do**, alongside diuretics for congestion and treatment of hypertension and AF.
 
-**EXAM CONNECTION:** The stem asks what **"delays progression"** or **"improves survival"** — not what relieves breathlessness. Diuretic options are always the trap.
+**EXAM CONNECTION:** The stem asks what **“delays progression”** or **“improves survival”** — not what relieves breathlessness. Diuretic options are always the trap.
 
 **REMEMBER:** *Diuretics dry the patient; ACE inhibitors and beta-blockers keep them alive.*
 
@@ -412,16 +412,16 @@
 
 ### 16. Cardiac Tamponade vs Constrictive Pericarditis
 
-**PEARL:** Both share **diastolic equalisation of intracardiac pressures, exaggerated respiratory variation in ventricular inflow, raised JVP and a small stroke volume.** The **SMALL, COMPRESSED RIGHT VENTRICULAR CAVITY with diastolic RV collapse and a "swinging heart" belongs to TAMPONADE only.** The **JVP waveform separates them: tamponade — prominent X descent with an ABSENT Y descent; constriction — prominent X AND Y (the "M/W" pattern, Friedreich's sign).**
+**PEARL:** Both share **diastolic equalisation of intracardiac pressures, exaggerated respiratory variation in ventricular inflow, raised JVP and a small stroke volume.** The **SMALL, COMPRESSED RIGHT VENTRICULAR CAVITY with diastolic RV collapse and a “swinging heart” belongs to TAMPONADE only.** The **JVP waveform separates them: tamponade — prominent X descent with an ABSENT Y descent; constriction — prominent X AND Y (the “M/W” pattern, Friedreich’s sign).**
 
-**UNDERSTAND:** The y descent reflects **early diastolic ventricular filling**. In **tamponade** the pericardial fluid presses on the heart **throughout diastole**, so filling is impeded from the very start — the **y descent disappears**. In **constriction** the rigid pericardium is a fixed shell: **early filling is rapid and unimpeded** (a steep y descent and a **pericardial KNOCK**) and then stops abruptly when the ventricle hits the shell — the **"dip and plateau"/square-root sign**. One is continuous compression, the other is a sudden stop.
+**UNDERSTAND:** The y descent reflects **early diastolic ventricular filling**. In **tamponade** the pericardial fluid presses on the heart **throughout diastole**, so filling is impeded from the very start — the **y descent disappears**. In **constriction** the rigid pericardium is a fixed shell: **early filling is rapid and unimpeded** (a steep y descent and a **pericardial KNOCK**) and then stops abruptly when the ventricle hits the shell — the **“dip and plateau”/square-root sign**. One is continuous compression, the other is a sudden stop.
 
 **MUST KNOW:**
 
 |                  | **Tamponade**                                                                          | **Constrictive pericarditis**                                         |
 | ---------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | Onset            | Acute (trauma, rupture, procedure, malignancy)                                         | Chronic (TB, post-surgical, radiation, viral)                         |
-| JVP              | **Absent Y descent**; **BECK'S TRIAD — hypotension, raised JVP, muffled heart sounds** | **Prominent X and Y**; **KUSSMAUL'S SIGN (JVP rises on inspiration)** |
+| JVP              | **Absent Y descent**; **BECK’S TRIAD — hypotension, raised JVP, muffled heart sounds** | **Prominent X and Y**; **KUSSMAUL’S SIGN (JVP rises on inspiration)** |
 | Pulsus paradoxus | **Marked (>10 mmHg)**                                                                  | Usually absent/mild                                                   |
 | Echo             | **Effusion, RA/RV diastolic collapse, IVC plethora, swinging heart, SMALL RV**         | Thickened/calcified pericardium, septal bounce, normal-sized RV       |
 | Extra sound      | None                                                                                   | **Pericardial KNOCK**                                                 |
@@ -432,7 +432,7 @@
 - **Electrical alternans and low-voltage QRS** on ECG suggest a large effusion with tamponade.
 - **Distinguish both from RESTRICTIVE cardiomyopathy** (thick walls, raised BNP, discordant respiratory pressure changes absent) — the practical importance is that only **constriction is surgically curable**.
 
-**EXAM CONNECTION:** "Not common to both" — the answer is the **echocardiographic chamber finding**, since the haemodynamic features overlap almost completely.
+**EXAM CONNECTION:** “Not common to both” — the answer is the **echocardiographic chamber finding**, since the haemodynamic features overlap almost completely.
 
 **REMEMBER:** *Fluid squeezes all through diastole (no y descent); a shell lets it fill fast then slams shut.*
 
@@ -476,12 +476,12 @@
 **MUST KNOW:**
 
 - **Central cyanosis:** affects **both mucous membranes and skin**, warm extremities. Causes: **high altitude, severe lung disease, right-to-left shunts, pulmonary AV fistula, methaemoglobinaemia and sulfhaemoglobinaemia**.
-- **Peripheral cyanosis:** **oral mucosa and tongue are SPARED**, extremities cold. Causes: **cold exposure/hypothermia, shock, low cardiac output, arterial or venous obstruction, Raynaud's**.
+- **Peripheral cyanosis:** **oral mucosa and tongue are SPARED**, extremities cold. Causes: **cold exposure/hypothermia, shock, low cardiac output, arterial or venous obstruction, Raynaud’s**.
 - **Methaemoglobinaemia** — **chocolate-brown blood**, cyanosis **unresponsive to oxygen**, a **saturation gap** between pulse oximetry (~85%) and a normal PaO₂ on ABG; treat with **methylene blue** (and ascorbic acid; avoid methylene blue in **G6PD deficiency**).
 - **Differential cyanosis** (lower limbs blue, upper pink) → **PDA with reversed shunt/Eisenmenger**; **reverse differential cyanosis** → **transposition with PDA and coarctation**.
 - Peripheral cyanosis **warms away**; central cyanosis does not.
 
-**EXAM CONNECTION:** "Not a cause of central cyanosis" → **hypothermia**. Methaemoglobinaemia is included to check you know abnormal haemoglobins count as *central*.
+**EXAM CONNECTION:** “Not a cause of central cyanosis” → **hypothermia**. Methaemoglobinaemia is included to check you know abnormal haemoglobins count as *central*.
 
 **REMEMBER:** *If the tongue is blue, it is central.*
 
@@ -504,7 +504,7 @@
 - **D-dimer is very sensitive** but non-specific — a normal value makes dissection unlikely.
 - Beware: **thrombolysis for a presumed MI in an unrecognised dissection is catastrophic** — this is why the pulse examination matters.
 
-**EXAM CONNECTION:** "Next best investigation" pivots on the word **unstable**. If the stem said stable, the answer would be **CT angiography**.
+**EXAM CONNECTION:** “Next best investigation” pivots on the word **unstable**. If the stem said stable, the answer would be **CT angiography**.
 
 **REMEMBER:** *Unstable stays in the room — use the probe, not the scanner.*
 
@@ -554,7 +554,7 @@
 **MUST KNOW:**
 
 - Definition: **altered RV structure or function secondary to pulmonary hypertension caused by lung disease** — by convention it excludes RV failure due to left heart disease.
-- Signs: **dyspnoea (commonest symptom)**, raised JVP with **prominent v waves**, **pulsatile tender hepatomegaly**, ascites, pedal oedema, **left parasternal heave**, **loud P2**, right-sided **S3**, and a **tricuspid regurgitation murmur that increases on inspiration (Carvallo's sign)**.
+- Signs: **dyspnoea (commonest symptom)**, raised JVP with **prominent v waves**, **pulsatile tender hepatomegaly**, ascites, pedal oedema, **left parasternal heave**, **loud P2**, right-sided **S3**, and a **tricuspid regurgitation murmur that increases on inspiration (Carvallo’s sign)**.
 - ECG: **P pulmonale (tall peaked P in II)**, **right axis deviation**, **RVH with dominant R in V1**, RBBB.
 - Causes: **COPD (commonest)**, interstitial lung disease, obstructive sleep apnoea, kyphoscoliosis, chronic thromboembolic disease, high altitude.
 - Treatment is of the **underlying lung disease** — **long-term oxygen therapy is the only measure shown to improve survival in COPD-related cor pulmonale**; diuretics cautiously (the RV is preload-dependent).
@@ -575,7 +575,7 @@
 
 **PEARL:** **Extensive anterior MI = ST elevation in I, aVL and V1–V6** (proximal LAD). Learn the lead territories as a map.
 
-**UNDERSTAND:** Each lead "looks at" a wall of the left ventricle, and each wall has its artery. The **extent** of ST elevation therefore tells you **how proximal the occlusion is** — an occlusion before the first diagonal and septal branches denervates everything the LAD supplies, giving both septal (V1–V2) and lateral (I, aVL) elevation at once.
+**UNDERSTAND:** Each lead “looks at” a wall of the left ventricle, and each wall has its artery. The **extent** of ST elevation therefore tells you **how proximal the occlusion is** — an occlusion before the first diagonal and septal branches denervates everything the LAD supplies, giving both septal (V1–V2) and lateral (I, aVL) elevation at once.
 
 **MUST KNOW:**
 
@@ -619,7 +619,7 @@
 
 **PEARL:** TS produces **tall, peaked P waves** — persistently raised right atrial pressure → **right atrial enlargement (P pulmonale)**.
 
-**MUST KNOW:** **P pulmonale** = tall peaked P **>2.5 mm** in lead II (RA enlargement). **P mitrale** = broad, notched, bifid P **>0.12 s** in lead II (LA enlargement, seen in **mitral stenosis**). TS is almost always **rheumatic and accompanies mitral stenosis**; clinically it gives a prominent **"a" wave** in the JVP and a mid-diastolic murmur that **increases with inspiration**.
+**MUST KNOW:** **P pulmonale** = tall peaked P **>2.5 mm** in lead II (RA enlargement). **P mitrale** = broad, notched, bifid P **>0.12 s** in lead II (LA enlargement, seen in **mitral stenosis**). TS is almost always **rheumatic and accompanies mitral stenosis**; clinically it gives a prominent **“a” wave** in the JVP and a mid-diastolic murmur that **increases with inspiration**.
 
 **REMEMBER:** *Tall P = right atrium (tricuspid); wide notched P = left atrium (mitral).*
 
@@ -649,7 +649,7 @@
 
 - **ICU patients accumulate effusions readily: prolonged recumbency, positive-pressure ventilation, hypoalbuminaemia with low oncotic pressure, fluid overload, atelectasis and pneumonia.**
 - **ULTRASOUND is the standard of care for pleural procedures** — it reduces pneumothorax and dry taps, identifies loculations, and can be done at the bedside in the supine ventilated patient (in whom the radiograph is unreliable, as fluid layers posteriorly and merely produces a diffuse haze).
-- **LIGHT'S CRITERIA (an EXUDATE if ANY one is met): pleural/serum PROTEIN >0.5, pleural/serum LDH >0.6, or pleural LDH >2/3 the upper limit of normal serum LDH.**
+- **LIGHT’S CRITERIA (an EXUDATE if ANY one is met): pleural/serum PROTEIN >0.5, pleural/serum LDH >0.6, or pleural LDH >2/3 the upper limit of normal serum LDH.**
 - **Indications for CHEST TUBE drainage of a parapneumonic effusion: FRANK PUS, positive Gram stain or culture, pH <7.2, glucose <60 mg/dL, or LOCULATION.** Add **intrapleural tPA + DNase** for loculated empyema; surgery (VATS/decortication) if that fails.
 - **Very low pleural GLUCOSE is characteristic of EMPYEMA and RHEUMATOID effusion** (the lowest of all); **raised ADA and lymphocytosis suggest TUBERCULOSIS** (the commonest cause of exudative lymphocytic effusion in India); **chylothorax** has triglycerides >110 mg/dL.
 - **A massive effusion causing respiratory compromise should be drained therapeutically — but remove no more than ~1–1.5 L at a time** to avoid **re-expansion pulmonary oedema**.
@@ -670,7 +670,7 @@
 
 **PEARL:** Management is **ANTIBIOTICS + SYSTEMIC STEROIDS + NEBULISED BRONCHODILATORS** (short-acting β2-agonist ± ipratropium), plus **CONTROLLED oxygen** and **NIV** where indicated. **Antivirals are NOT part of routine management.**
 
-**UNDERSTAND:** Give **CONTROLLED oxygen targeting SpO2 88–92%**, using a **VENTURI mask**. Excessive oxygen in a CO2-retainer worsens hypercapnia — mainly by **increasing V/Q mismatch (releasing hypoxic pulmonary vasoconstriction) and the Haldane effect**, rather than by simply "abolishing hypoxic drive". The patient in the stem (**SpO2 87%, pCO2 60**) is exactly this situation.
+**UNDERSTAND:** Give **CONTROLLED oxygen targeting SpO2 88–92%**, using a **VENTURI mask**. Excessive oxygen in a CO2-retainer worsens hypercapnia — mainly by **increasing V/Q mismatch (releasing hypoxic pulmonary vasoconstriction) and the Haldane effect**, rather than by simply “abolishing hypoxic drive”. The patient in the stem (**SpO2 87%, pCO2 60**) is exactly this situation.
 
 **MUST KNOW:**
 
@@ -694,7 +694,7 @@
 
 ### 27. Idiopathic Pulmonary Fibrosis
 
-**PEARL:** Progressive exertional dyspnoea and a **DRY cough** with **FINE, END-INSPIRATORY "VELCRO" CRACKLES at the BASES** (not coarse crackles), **clubbing**, and an HRCT showing the **UIP pattern — SUBPLEURAL, BASAL reticulation with HONEYCOMBING and traction bronchiectasis, and NO significant ground-glass.**
+**PEARL:** Progressive exertional dyspnoea and a **DRY cough** with **FINE, END-INSPIRATORY “VELCRO” CRACKLES at the BASES** (not coarse crackles), **clubbing**, and an HRCT showing the **UIP pattern — SUBPLEURAL, BASAL reticulation with HONEYCOMBING and traction bronchiectasis, and NO significant ground-glass.**
 
 **UNDERSTAND:** The crackles are **fine and late-inspiratory** because they are produced by the **sudden opening of small fibrotic airways and alveoli at high inflating pressure**. **COARSE crackles come from secretions in larger airways** (bronchiectasis, pneumonia, pulmonary oedema) — so the character of the crackle localises the pathology.
 
@@ -709,7 +709,7 @@
 - **Acute exacerbations of IPF carry very high mortality**; complications include **pulmonary hypertension and a markedly increased risk of LUNG CANCER**.
 - **Contrast NSIP: more ground-glass, LESS honeycombing, younger patients, associated with connective tissue disease, and it DOES respond to steroids** — hence a much better prognosis.
 
-**EXAM CONNECTION:** "All true EXCEPT" → **end-inspiratory COARSE crackles** (they are fine).
+**EXAM CONNECTION:** “All true EXCEPT” → **end-inspiratory COARSE crackles** (they are fine).
 
 **REMEMBER:** *Fine Velcro crackles at the bases, honeycombing on HRCT — and never give steroids for IPF.*
 
@@ -729,11 +729,11 @@
 
 **PEARL:** A patient on a **short-acting bronchodilator alone with frequent NOCTURNAL symptoms** has uncontrolled asthma and must be **stepped up to an INHALED CORTICOSTEROID (with a LABA)** — not given more short-acting bronchodilator, and not given oral steroids or montelukast in preference.
 
-**UNDERSTAND:** Asthma is fundamentally an **inflammatory** disease; bronchodilators treat only the symptom. **Nocturnal waking is a cardinal marker of poor control and of ongoing airway inflammation**, and relying on relievers alone is associated with **increased exacerbations and asthma death**. Hence GINA's central principle: **every adult and adolescent with asthma should receive ICS-containing therapy — SABA-only treatment is no longer recommended.**
+**UNDERSTAND:** Asthma is fundamentally an **inflammatory** disease; bronchodilators treat only the symptom. **Nocturnal waking is a cardinal marker of poor control and of ongoing airway inflammation**, and relying on relievers alone is associated with **increased exacerbations and asthma death**. Hence GINA’s central principle: **every adult and adolescent with asthma should receive ICS-containing therapy — SABA-only treatment is no longer recommended.**
 
 **MUST KNOW:**
 
-- **GINA TRACK 1 — ICS–FORMOTEROL as the preferred RELIEVER at every step ("ANTI-INFLAMMATORY RELIEVER", AIR)**, replacing SABA-only rescue; the same inhaler is used for maintenance and relief (**MART regimen**). **As-needed ICS–formoterol cuts severe exacerbations by ~60–65% against SABA-only relief.**
+- **GINA TRACK 1 — ICS–FORMOTEROL as the preferred RELIEVER at every step (“ANTI-INFLAMMATORY RELIEVER”, AIR)**, replacing SABA-only rescue; the same inhaler is used for maintenance and relief (**MART regimen**). **As-needed ICS–formoterol cuts severe exacerbations by ~60–65% against SABA-only relief.**
 - **GINA 2026: SABA MONOTHERAPY IS NOT SUPPORTED AT ANY STEP — every patient, including mild intermittent asthma, gets ICS-containing therapy. TRACK 2 (ICS–SABA anti-inflammatory reliever) is now formally an option at STEP 1** for adults and adolescents where ICS–formoterol is unavailable.[^2]
 - **Assess control by: daytime symptoms >2/week, ANY night waking due to asthma, reliever use >2/week, and any activity limitation.**
 - **Before stepping up, ALWAYS check inhaler technique, adherence, and trigger/comorbidity control (rhinitis, GERD, obesity, smoking)** — poor technique is the commonest reason for apparent treatment failure.
@@ -764,12 +764,12 @@
 - **Pneumatoceles usually RESOLVE SPONTANEOUSLY over weeks to months and do NOT require drainage** — intervention only for tension or infection. This is an important management point.
 - **Other organisms causing pneumatoceles: *S. pneumoniae*, *H. influenzae*, *Klebsiella*, group A streptococcus, *E. coli*, and *Pneumocystis*.**
 - **PVL (Panton–Valentine leucocidin)-producing community-acquired MRSA causes severe necrotising pneumonia in previously healthy children and young adults** — with haemoptysis, leucopenia and very high mortality; treat with **vancomycin/linezolid plus clindamycin** (to suppress toxin production).
-- **Other radiological–organism pairings worth carrying: "BULGING FISSURE" with red-currant-jelly sputum in an alcoholic/diabetic → *KLEBSIELLA*; upper lobe cavitation → TB; round pneumonia in a child → pneumococcus; interstitial/ground-glass with a dry cough in HIV → *Pneumocystis*.**
+- **Other radiological–organism pairings worth carrying: “BULGING FISSURE” with red-currant-jelly sputum in an alcoholic/diabetic → *KLEBSIELLA*; upper lobe cavitation → TB; round pneumonia in a child → pneumococcus; interstitial/ground-glass with a dry cough in HIV → *Pneumocystis*.**
 - **Empyema requires drainage — antibiotics alone are insufficient.**
 
 **EXAM CONNECTION:** Infant + pneumonia + **pneumatoceles on X-ray** → ***S. aureus***.
 
-**REMEMBER:** *Air cysts in an infant's pneumonia mean staph — and they usually resolve on their own.*
+**REMEMBER:** *Air cysts in an infant’s pneumonia mean staph — and they usually resolve on their own.*
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/bc9666b426664523819231c585391200.JPEG)
@@ -783,19 +783,19 @@
 
 ### 30. Mycoplasma Pneumonia
 
-**PEARL:** ***Mycoplasma pneumoniae* HAS NO CELL WALL — so ALL BETA-LACTAMS (amoxicillin, amoxiclav, cephalosporins) and vancomycin are USELESS.** Treat with a **MACROLIDE (azithromycin — drug of choice), a TETRACYCLINE (doxycycline), or a respiratory FLUOROQUINOLONE.** It is the **smallest free-living organism**, grows on **cell-free PPLO agar** giving a **"FRIED EGG" colony**, and has **CHOLESTEROL in its membrane**.
+**PEARL:** ***Mycoplasma pneumoniae* HAS NO CELL WALL — so ALL BETA-LACTAMS (amoxicillin, amoxiclav, cephalosporins) and vancomycin are USELESS.** Treat with a **MACROLIDE (azithromycin — drug of choice), a TETRACYCLINE (doxycycline), or a respiratory FLUOROQUINOLONE.** It is the **smallest free-living organism**, grows on **cell-free PPLO agar** giving a **“FRIED EGG” colony**, and has **CHOLESTEROL in its membrane**.
 
-**UNDERSTAND:** Every antibiotic decision here follows from one structural fact. **No peptidoglycan means no target for cell-wall agents** — and it also means the organism is **pleomorphic and NOT VISIBLE ON GRAM STAIN**, which is why "atypical" pneumonia is diagnosed serologically or by PCR rather than by sputum microscopy. Drugs that work are those hitting the **ribosome (macrolides, tetracyclines) or DNA gyrase (quinolones)**.
+**UNDERSTAND:** Every antibiotic decision here follows from one structural fact. **No peptidoglycan means no target for cell-wall agents** — and it also means the organism is **pleomorphic and NOT VISIBLE ON GRAM STAIN**, which is why “atypical” pneumonia is diagnosed serologically or by PCR rather than by sputum microscopy. Drugs that work are those hitting the **ribosome (macrolides, tetracyclines) or DNA gyrase (quinolones)**.
 
 **MUST KNOW:**
 
-- **"WALKING PNEUMONIA": a young patient, insidious onset, prominent DRY COUGH, headache and malaise, with X-RAY FINDINGS FAR WORSE THAN THE EXAMINATION (bilateral peribronchial and interstitial infiltrates) — the classic radiological–clinical dissociation.**
+- **“WALKING PNEUMONIA”: a young patient, insidious onset, prominent DRY COUGH, headache and malaise, with X-RAY FINDINGS FAR WORSE THAN THE EXAMINATION (bilateral peribronchial and interstitial infiltrates) — the classic radiological–clinical dissociation.**
 - **COLD AGGLUTININS (IgM against the RBC I antigen) cause AUTOIMMUNE HAEMOLYTIC ANAEMIA** and are a traditional clue; PCR of respiratory secretions is now the best test, with paired IgM/IgG serology as support.
 - **Extrapulmonary manifestations are heavily examined: ERYTHEMA MULTIFORME and STEVENS–JOHNSON SYNDROME (Mycoplasma is the commonest infectious trigger in children), BULLOUS MYRINGITIS, GUILLAIN–BARRÉ SYNDROME, encephalitis, transverse myelitis, myocarditis and arthralgia.**
 - **The atypical pneumonia group: *Mycoplasma*, *Chlamydophila pneumoniae* and *psittaci*, *Legionella*, and *Coxiella burnetii*.** ***LEGIONELLA* has its own signature: HYPONATRAEMIA, diarrhoea, confusion, raised transaminases, relative bradycardia, exposure to air-conditioning/water systems, growth on BCYE agar with cysteine and iron, and a URINARY ANTIGEN test.**
 - **The other cell-wall-deficient/atypical exceptions to beta-lactams: *Chlamydia*, *Rickettsia*, *Legionella* (intracellular) and mycobacteria** — all treated with intracellular-penetrating agents.
 
-**EXAM CONNECTION:** "False about Mycoplasma" → **responds to amoxiclav**.
+**EXAM CONNECTION:** “False about Mycoplasma” → **responds to amoxiclav**.
 
 **REMEMBER:** *No cell wall, no beta-lactam — a macrolide for the fried-egg colony.*
 
@@ -829,7 +829,7 @@
 
 **PEARL:** **FEV1/FVC <70% = OBSTRUCTIVE** (asthma, COPD, **bronchiectasis**). A **preserved or raised FEV1/FVC with a reduced FVC and TLC = RESTRICTIVE** (pulmonary fibrosis, sarcoidosis, neuromuscular and chest-wall disease).
 
-**UNDERSTAND:** The ratio, not the absolute values, makes the diagnosis. In obstruction the airway narrows, so **FEV1 falls far more than FVC** and the ratio drops. In restriction the lung cannot expand, so **FEV1 and FVC fall together** — the ratio is preserved or even **increased**, because a stiff lung has increased elastic recoil and empties briskly. The flow–volume loop shows this visually: a **scooped, concave expiratory limb** in obstruction; a **narrow, tall, "witch's hat" loop shifted right** in restriction.
+**UNDERSTAND:** The ratio, not the absolute values, makes the diagnosis. In obstruction the airway narrows, so **FEV1 falls far more than FVC** and the ratio drops. In restriction the lung cannot expand, so **FEV1 and FVC fall together** — the ratio is preserved or even **increased**, because a stiff lung has increased elastic recoil and empties briskly. The flow–volume loop shows this visually: a **scooped, concave expiratory limb** in obstruction; a **narrow, tall, “witch’s hat” loop shifted right** in restriction.
 
 **MUST KNOW:**
 
@@ -839,7 +839,7 @@
 - **TLC is the definitive measure of restriction** and requires **body plethysmography or helium dilution** — spirometry alone can only suggest it.
 - **Upper airway obstruction** patterns on the flow–volume loop: **fixed (tracheal stenosis) → flattening of both limbs**; **variable extrathoracic (vocal cord palsy) → flattened inspiratory limb**; **variable intrathoracic → flattened expiratory limb**.
 - ![[F1.large-1837232933.jpg]]
-- **Bronchiectasis** — chronic productive cough with copious sputum, **"tram-track" and "signet-ring" signs on HRCT** (the diagnostic test), causes include post-infective (TB, measles, pertussis), **cystic fibrosis, ABPA, ciliary dyskinesia, hypogammaglobulinaemia**.
+- **Bronchiectasis** — chronic productive cough with copious sputum, **“tram-track” and “signet-ring” signs on HRCT** (the diagnostic test), causes include post-infective (TB, measles, pertussis), **cystic fibrosis, ABPA, ciliary dyskinesia, hypogammaglobulinaemia**.
 
 **EXAM CONNECTION:** Look for the ratio in the stem or the shape of the curve. If **FEV1/FVC <70%**, only the obstructive option can be right — here, bronchiectasis among three fibrotic/restrictive distractors.
 
@@ -864,7 +864,7 @@
 - **CRB-65** omits urea and is used in primary care where blood tests are unavailable.
 - **Empirical therapy:** outpatient — **amoxicillin (or a macrolide/doxycycline)**; inpatient non-ICU — **beta-lactam + macrolide, or a respiratory fluoroquinolone (levofloxacin, moxifloxacin) alone**; **ICU — IV beta-lactam PLUS either a macrolide or a respiratory fluoroquinolone** (never fluoroquinolone monotherapy in severe disease by most guidelines, though it is the answer in several Indian exam keys).
 - **Atypical cover matters:** *Mycoplasma, Chlamydophila, Legionella* — think **Legionella** with hyponatraemia, diarrhoea, confusion and deranged LFTs (urinary antigen test).
-- **Commonest cause of CAP overall: *Streptococcus pneumoniae***; post-influenza — **S. aureus**; alcoholics — **Klebsiella ("currant jelly" sputum, upper-lobe bulging fissure)**; COPD — *H. influenzae, Moraxella*; aspiration — anaerobes and Gram-negatives.
+- **Commonest cause of CAP overall: *Streptococcus pneumoniae***; post-influenza — **S. aureus**; alcoholics — **Klebsiella (“currant jelly” sputum, upper-lobe bulging fissure)**; COPD — *H. influenzae, Moraxella*; aspiration — anaerobes and Gram-negatives.
 - **PSI/PORT score** is the more elaborate alternative; **IDSA/ATS minor criteria** (≥3) also define severe CAP.
 - Do not forget **blood cultures, sputum culture, and a chest X-ray**, and **assess oxygenation** — hypoxia is itself an admission criterion regardless of score.
 
@@ -914,7 +914,7 @@
 - Differential for bronchiectasis with sinusitis: **cystic fibrosis** (sweat chloride), **Young syndrome**, **hypogammaglobulinaemia**, ABPA.
 - Situs inversus totalis alone is benign; **dextrocardia on ECG** shows **inverted P and QRS in lead I with reverse R-wave progression**.
 
-**EXAM CONNECTION:** "Not a component of the triad" → **male infertility**. Note the careful wording — it is a feature of the *disease*, just not of the *triad*.
+**EXAM CONNECTION:** “Not a component of the triad” → **male infertility**. Note the careful wording — it is a feature of the *disease*, just not of the *triad*.
 
 **REMEMBER:** *Cilia clear mucus, set sidedness and swim sperm — but the triad only names three.*
 
@@ -942,14 +942,14 @@
 
 **MUST KNOW:**
 
-- **The classical exam giveaway is BRISK REFLEXES IN A WASTED LIMB.** Also look for **tongue fasciculations and wasting** (bulbar onset), and **preserved eye movements and sphincter function** — motor neurons of the oculomotor nuclei and Onuf's nucleus are spared.
+- **The classical exam giveaway is BRISK REFLEXES IN A WASTED LIMB.** Also look for **tongue fasciculations and wasting** (bulbar onset), and **preserved eye movements and sphincter function** — motor neurons of the oculomotor nuclei and Onuf’s nucleus are spared.
 - **What is NOT affected: sensation, bowel and bladder, eye movements, and (usually) cognition** — although up to 15% have **frontotemporal dementia** overlap (both are **TDP-43** proteinopathies).
 - **Differentiate the mimics:** **SPINAL MUSCULAR ATROPHY** — pure LMN, genetic (SMN1), no UMN signs; **MULTIFOCAL MOTOR NEUROPATHY** — pure LMN, **asymmetrical with CONDUCTION BLOCK, anti-GM1 antibodies, and it RESPONDS TO IVIG** (so it must not be missed); **cervical spondylotic myelopathy** — the great structural mimic (image the cervical spine in everyone); **Kennedy disease**; **Becker muscular dystrophy** — a pure myopathy with no fasciculations.
 - **Diagnosis is clinical (El Escorial/Awaji criteria) supported by EMG showing acute and chronic denervation in multiple regions**; there is no confirmatory test.
 - **Treatment: RILUZOLE (a glutamate antagonist — extends survival by ~3 months) and edaravone; NON-INVASIVE VENTILATION improves survival and quality of life most**; plus multidisciplinary care, riluzole, and PEG feeding.
 - **Median survival 3–5 years**, usually from respiratory failure.
 
-**EXAM CONNECTION:** "Fasciculations + hypertonia + intact sensation" → **ALS**.
+**EXAM CONNECTION:** “Fasciculations + hypertonia + intact sensation” → **ALS**.
 
 **REMEMBER:** *Wasted and fasciculating, yet spastic and hyperreflexic, with normal sensation — only ALS does both.*
 
@@ -959,21 +959,21 @@
 
 ### 38. Normal Pressure Hydrocephalus vs Binswanger Disease
 
-**PEARL:** **NPH — the triad of GAIT APRAXIA ("magnetic", small shuffling steps), URINARY INCONTINENCE and DEMENTIA ("wet, wacky and wobbly")**, with **VENTRICULOMEGALY WITHOUT sulcal enlargement**. The incontinence results from **STRETCHING OF THE PERIVENTRICULAR DESCENDING FRONTAL FIBRES that normally inhibit the micturition reflex.** **BINSWANGER disease** — the same clinical triad but from **chronic HYPERTENSIVE small-vessel ischaemia**, with **DIFFUSE PERIVENTRICULAR WHITE MATTER CHANGES and UMN signs**.
+**PEARL:** **NPH — the triad of GAIT APRAXIA (“magnetic”, small shuffling steps), URINARY INCONTINENCE and DEMENTIA (“wet, wacky and wobbly”)**, with **VENTRICULOMEGALY WITHOUT sulcal enlargement**. The incontinence results from **STRETCHING OF THE PERIVENTRICULAR DESCENDING FRONTAL FIBRES that normally inhibit the micturition reflex.** **BINSWANGER disease** — the same clinical triad but from **chronic HYPERTENSIVE small-vessel ischaemia**, with **DIFFUSE PERIVENTRICULAR WHITE MATTER CHANGES and UMN signs**.
 
 **UNDERSTAND:** The **sacral micturition centre and the detrusor are normal in NPH** — the problem is **loss of descending cortical INHIBITION**, producing detrusor overactivity, urgency and then incontinence. The same periventricular stretching affects the **leg fibres of the corticospinal tract (which lie most medially)**, which is precisely why the **gait goes first and the arms are spared**.
 
 **MUST KNOW:**
 
 - **GAIT DISTURBANCE APPEARS FIRST AND RESPONDS BEST TO SHUNTING**; dementia is the last to appear and the least reversible — so **early diagnosis matters**.
-- **NPH is one of the few TREATABLE dementias** — **ventriculoperitoneal shunt**. Predict response with a **large-volume LUMBAR PUNCTURE ("tap test") or extended lumbar drainage** showing objective gait improvement.
+- **NPH is one of the few TREATABLE dementias** — **ventriculoperitoneal shunt**. Predict response with a **large-volume LUMBAR PUNCTURE (“tap test”) or extended lumbar drainage** showing objective gait improvement.
 - **Imaging distinction:** NPH — **ventriculomegaly OUT OF PROPORTION to atrophy, with tight high-convexity sulci (DESH sign/disproportionately enlarged subarachnoidspace hydrocephalus) and an increased Evans index >0.3**. Cerebral atrophy — ventriculomegaly **WITH** widened sulci (*hydrocephalus ex vacuo*).
 - ![[{3C33FF91-4124-40E8-A0D3-DC4E5D54F3CE}.png]]
 - ![[23147c5a43c62ab951f0c4fac93cb2c1824e32261e4aed99f0b474345aeeb452_big_gallery.jpeg]]
-- **Binswanger's = subcortical vascular dementia**: **stepwise or progressive decline, prominent executive dysfunction and psychomotor slowing, pseudobulbar affect, UMN signs, and a hypertensive/vasculopathic history**. Management is **vascular risk factor control**, not shunting.
+- **Binswanger’s = subcortical vascular dementia**: **stepwise or progressive decline, prominent executive dysfunction and psychomotor slowing, pseudobulbar affect, UMN signs, and a hypertensive/vasculopathic history**. Management is **vascular risk factor control**, not shunting.
 - **Compare the dementias in one line each:** **Alzheimer** — early **memory** loss, β-amyloid plaques + tau tangles; **Lewy body** — **visual hallucinations, fluctuating cognition, parkinsonism, neuroleptic sensitivity**, α-synuclein; **frontotemporal** — see below; **vascular** — stepwise, focal signs; **CJD** — rapid with myoclonus and periodic sharp waves.
 
-**EXAM CONNECTION:** "Underlying cause of the incontinence" in NPH → **stretching of descending cortical fibres**. And triad + **hypertension with white matter change** → **Binswanger**.
+**EXAM CONNECTION:** “Underlying cause of the incontinence” in NPH → **stretching of descending cortical fibres**. And triad + **hypertension with white matter change** → **Binswanger**.
 
 **REMEMBER:** *Wet, wacky and wobbly — but shunt them for the gait, and only if the ventricles are big without the sulci.*
 
@@ -983,7 +983,7 @@
 
 ### 39. Frontotemporal Dementia
 
-**PEARL:** **Early PERSONALITY and BEHAVIOURAL change — disinhibition, social inappropriateness, apathy, loss of empathy, poor judgement and HYPERORALITY (a new "sweet tooth")** — in a **relatively young patient (50s–60s) with PRESERVED MEMORY early on**. Pathology: **PICK BODIES — intracellular aggregates of HYPERPHOSPHORYLATED TAU**, with frontal and anterior temporal atrophy.
+**PEARL:** **Early PERSONALITY and BEHAVIOURAL change — disinhibition, social inappropriateness, apathy, loss of empathy, poor judgement and HYPERORALITY (a new “sweet tooth”)** — in a **relatively young patient (50s–60s) with PRESERVED MEMORY early on**. Pathology: **PICK BODIES — intracellular aggregates of HYPERPHOSPHORYLATED TAU**, with frontal and anterior temporal atrophy.
 
 **UNDERSTAND:** The **frontal lobes are the seat of social behaviour, judgement and inhibition** — so degeneration there presents to the **employer and the spouse, not the neurologist**. Patients are typically brought in after being **dismissed from work or after uncharacteristic social conduct**, and are **strikingly indifferent to the distress they cause** — a feature that distinguishes it from depression.
 
@@ -991,9 +991,9 @@
 
 - **In FTD, memory and visuospatial function are relatively PRESERVED early** — the reverse of Alzheimer disease. That single contrast answers most questions.
 - **Three clinical variants: behavioural variant (commonest), semantic dementia, and progressive non-fluent aphasia.**
-- **Neuropathology by protein — a clean comparison: Alzheimer = extracellular β-AMYLOID plaques + intracellular TAU tangles; FTD/Pick = TAU (or TDP-43); Lewy body dementia and Parkinson's = α-SYNUCLEIN; prion disease = spongiform change with PrP; Huntington's = polyglutamine.**
+- **Neuropathology by protein — a clean comparison: Alzheimer = extracellular β-AMYLOID plaques + intracellular TAU tangles; FTD/Pick = TAU (or TDP-43); Lewy body dementia and Parkinson’s = α-SYNUCLEIN; prion disease = spongiform change with PrP; Huntington’s = polyglutamine.**
 - **Overlap with ALS** (both TDP-43) — ask about weakness and fasciculations.
-- **Imaging: focal FRONTAL and ANTERIOR TEMPORAL atrophy ("knife-edge" gyri)** — very different from the medial temporal/hippocampal atrophy of Alzheimer disease.
+- **Imaging: focal FRONTAL and ANTERIOR TEMPORAL atrophy (“knife-edge” gyri)** — very different from the medial temporal/hippocampal atrophy of Alzheimer disease.
 - **No disease-modifying treatment; SSRIs help the behavioural symptoms; AVOID cholinesterase inhibitors (they may worsen behaviour) and antipsychotics where possible.**
 
 **EXAM CONNECTION:** Behavioural change + hyperorality + preserved memory → **hyperphosphorylated tau (Pick bodies)**.
@@ -1035,14 +1035,14 @@
 
 **MUST KNOW:**
 
-- **Cluster headache clinical picture: EXCRUCIATING strictly UNILATERAL peri-orbital/temporal pain, with IPSILATERAL AUTONOMIC features — lacrimation, conjunctival injection, rhinorrhoea, nasal congestion, ptosis and miosis (partial Horner)** — and, characteristically, the patient is **RESTLESS AND PACING** (whereas the migraineur lies still in a dark room). **Male predominance, attacks at the same time each night ("alarm-clock headache"), triggered by alcohol.**
-- **Note the oxygen detail: 100% at 10–15 L/min — "6 L/min" is a deliberately wrong option.**
-- **Tension-type headache: BILATERAL, pressing/tightening ("tight band or cap"), mild–moderate, NOT aggravated by routine activity, and WITHOUT nausea, photophobia or phonophobia** — that last clause is what excludes migraine.
+- **Cluster headache clinical picture: EXCRUCIATING strictly UNILATERAL peri-orbital/temporal pain, with IPSILATERAL AUTONOMIC features — lacrimation, conjunctival injection, rhinorrhoea, nasal congestion, ptosis and miosis (partial Horner)** — and, characteristically, the patient is **RESTLESS AND PACING** (whereas the migraineur lies still in a dark room). **Male predominance, attacks at the same time each night (“alarm-clock headache”), triggered by alcohol.**
+- **Note the oxygen detail: 100% at 10–15 L/min — “6 L/min” is a deliberately wrong option.**
+- **Tension-type headache: BILATERAL, pressing/tightening (“tight band or cap”), mild–moderate, NOT aggravated by routine activity, and WITHOUT nausea, photophobia or phonophobia** — that last clause is what excludes migraine.
 - **Migraine for contrast: unilateral, pulsatile, moderate–severe, aggravated by activity, WITH nausea/photophobia/phonophobia, ± aura.** Acute: **triptans, NSAIDs**; prophylaxis: **propranolol, topiramate, valproate, amitriptyline, flunarizine, and CGRP monoclonals**.
-- **Red flags demanding imaging (SNOOP): Systemic symptoms, Neurological signs, Onset sudden ("thunderclap"), Older age >50, Pattern change/Positional/Papilloedema.**
+- **Red flags demanding imaging (SNOOP): Systemic symptoms, Neurological signs, Onset sudden (“thunderclap”), Older age >50, Pattern change/Positional/Papilloedema.**
 - **Amitriptyline works in tension-type headache INDEPENDENTLY of its antidepressant effect** (low dose, at night); ADRs that limit it are **anticholinergic effects, sedation, weight gain, postural hypotension and cardiotoxicity in overdose**. Always exclude **MEDICATION-OVERUSE HEADACHE** — the common reason chronic headache fails to improve.
 
-**EXAM CONNECTION:** "Treatment of choice for an ACUTE attack of cluster headache" → **subcutaneous sumatriptan**. And "all can be used EXCEPT" in episodic tension headache → **amitriptyline**.
+**EXAM CONNECTION:** “Treatment of choice for an ACUTE attack of cluster headache” → **subcutaneous sumatriptan**. And “all can be used EXCEPT” in episodic tension headache → **amitriptyline**.
 
 **REMEMBER:** *Cluster attacks are too fast for a tablet — inject or give high-flow oxygen; and amitriptyline only prevents, never aborts.*
 
@@ -1064,7 +1064,7 @@
 - **Medication-overuse headache** is the trap in chronic migraine — suspect it with analgesic use on **≥10–15 days/month**.
 - **Avoid valproate and topiramate in women of childbearing age** without effective contraception (teratogenicity); **propranolol is contraindicated in asthma**.
 
-**EXAM CONNECTION:** Multi-statement question — only "**used in the acute management of migraine**" is true.
+**EXAM CONNECTION:** Multi-statement question — only “**used in the acute management of migraine**” is true.
 
 **REMEMBER:** *Gepants block CGRP without squeezing arteries — which is why the cardiac patient can have one and a triptan is off-limits.*
 
@@ -1080,13 +1080,13 @@
 
 **MUST KNOW:**
 
-- **GIANT CELL ARTERITIS is the diagnosis behind "age >50 + temporal tenderness":** new headache, **scalp tenderness, JAW CLAUDICATION (the most specific symptom), visual loss, polymyalgia rheumatica**, and a **markedly raised ESR/CRP**. **START HIGH-DOSE STEROIDS IMMEDIATELY ON SUSPICION — do NOT wait for the temporal artery biopsy** (which stays positive for 1–2 weeks); the risk is **irreversible blindness from anterior ischaemic optic neuropathy**. Biopsy shows **granulomatous inflammation with giant cells and SKIP LESIONS** (hence take a long segment).
+- **GIANT CELL ARTERITIS is the diagnosis behind “age >50 + temporal tenderness”:** new headache, **scalp tenderness, JAW CLAUDICATION (the most specific symptom), visual loss, polymyalgia rheumatica**, and a **markedly raised ESR/CRP**. **START HIGH-DOSE STEROIDS IMMEDIATELY ON SUSPICION — do NOT wait for the temporal artery biopsy** (which stays positive for 1–2 weeks); the risk is **irreversible blindness from anterior ischaemic optic neuropathy**. Biopsy shows **granulomatous inflammation with giant cells and SKIP LESIONS** (hence take a long segment).
 - **THUNDERCLAP headache = maximal within 1 minute** → **non-contrast CT immediately; if negative and >6 hours have elapsed, do an LP looking for XANTHOCHROMIA.** Differential includes SAH, **cerebral venous sinus thrombosis, RCVS, arterial dissection and pituitary apoplexy**.
 - **Positional headache: worse on standing → LOW CSF PRESSURE (post-LP or spontaneous intracranial hypotension); worse on LYING DOWN or on waking, with vomiting → RAISED ICP/tumour.**
 - **Headache with papilloedema in a young obese woman → idiopathic intracranial hypertension.**
 - **Immunocompromised or cancer patient with new headache → image, always.**
 
-**EXAM CONNECTION:** "Which is NOT indicative of serious pathology?" → **chronic cocaine use**.
+**EXAM CONNECTION:** “Which is NOT indicative of serious pathology?” → **chronic cocaine use**.
 
 **REMEMBER:** *SNOOP. And in anyone over 50 with a tender temple, give steroids before you biopsy.*
 
@@ -1096,7 +1096,7 @@
 
 ### 44. Subarachnoid Haemorrhage
 
-**PEARL:** **Sudden ("thunderclap") severe headache + vomiting + NECK STIFFNESS, with HYDROCEPHALUS on CT** = **subarachnoid haemorrhage**, usually from a ruptured **berry aneurysm**.
+**PEARL:** **Sudden (“thunderclap”) severe headache + vomiting + NECK STIFFNESS, with HYDROCEPHALUS on CT** = **subarachnoid haemorrhage**, usually from a ruptured **berry aneurysm**.
 
 **UNDERSTAND:** Blood in the subarachnoid space does two things at once: it **irritates the meninges** (producing neck stiffness and photophobia that mimic meningitis) and it **blocks CSF reabsorption at the arachnoid granulations and obstructs the ventricular outflow**, causing **acute hydrocephalus and a further rise in ICP**. That is why hydrocephalus in a young patient with sudden headache points to SAH rather than infection.
 
@@ -1120,7 +1120,7 @@
 
 ---
 
-### 45. Guillain–Barré Syndrome and it's Miller–Fisher Variant
+### 45. Guillain–Barré Syndrome and it’s Miller–Fisher Variant
 
 **PEARL:** **MILLER–FISHER SYNDROME — the triad of OPHTHALMOPLEGIA, ATAXIA and AREFLEXIA, with ANTI-GQ1b ANTIBODIES.** It is a **DEMYELINATING** variant, **not axonal** (the axonal variants are **AMAN and AMSAN**). **In GBS, BOTH IVIG and PLASMAPHERESIS are effective and equivalent** — IVIG is first-line for convenience.
 
@@ -1130,13 +1130,13 @@
 
 - **GBS core features: ACUTE ASCENDING SYMMETRICAL FLACCID WEAKNESS with AREFLEXIA and relatively PRESERVED SENSATION**, often after ***Campylobacter jejuni*** (also CMV, EBV, *Mycoplasma*, Zika, and vaccines rarely). **Molecular mimicry** between bacterial lipo-oligosaccharide and peripheral nerve gangliosides.
 - **CSF: ALBUMINOCYTOLOGICAL DISSOCIATION — high protein with NORMAL cell count** (may be normal in the first week).
-- **The clinical priority is RESPIRATORY monitoring: serial FVC (not ABG or SpO2 — they fall too late).** Intubate at **FVC <20 mL/kg** or by the **"20/30/40 rule"**. **Autonomic instability** (arrhythmias, labile BP) is the other cause of death.
+- **The clinical priority is RESPIRATORY monitoring: serial FVC (not ABG or SpO2 — they fall too late).** Intubate at **FVC <20 mL/kg** or by the **“20/30/40 rule”**. **Autonomic instability** (arrhythmias, labile BP) is the other cause of death.
 - **STEROIDS ARE INEFFECTIVE AND ARE NOT USED in GBS** — a key negative and a classic exam trap (contrast with CIDP/Chronic inflammatory demyelinating polyneuropathy, where they work).
 - **Do NOT combine IVIG and plasmapheresis** — no added benefit.
 - **IVIG cautions: check IgA levels (anaphylaxis in IgA deficiency), and watch for thrombosis, renal failure and aseptic meningitis.**
 - **AMAN** is common in northern China and India, follows *Campylobacter*, and is associated with **anti-GM1**.
 
-**EXAM CONNECTION:** "All true about Miller–Fisher EXCEPT" → "**a type of axonal neuropathy**". And "false about GBS" → "**plasmapheresis is not effective**".
+**EXAM CONNECTION:** “All true about Miller–Fisher EXCEPT” → “**a type of axonal neuropathy**”. And “false about GBS” → “**plasmapheresis is not effective**”.
 
 **REMEMBER:** *GQ1b sits in the eye-movement nerves — hence ophthalmoplegia, ataxia and areflexia, and it is demyelinating.*
 
@@ -1148,24 +1148,24 @@
 
 **PEARL:** The **commonest PRESENTING symptom of MS is SENSORY disturbance** (numbness, paraesthesiae). **Optic neuritis occurs in ~50% at some point.** **Acute relapses are treated with IV METHYLPREDNISOLONE, not oral steroids.** **OCRELIZUMAB (anti-CD20) is the only agent proven to slow PRIMARY PROGRESSIVE MS.**
 
-**UNDERSTAND:** Most disease-modifying therapies target **inflammatory relapses** — so they work in relapsing–remitting disease and fail in primary progressive MS, where **neurodegeneration rather than relapse drives disability**. **Ocrelizumab's B-cell depletion** was the first strategy to alter that course, which is why it stands alone for PPMS.
+**UNDERSTAND:** Most disease-modifying therapies target **inflammatory relapses** — so they work in relapsing–remitting disease and fail in primary progressive MS, where **neurodegeneration rather than relapse drives disability**. **Ocrelizumab’s B-cell depletion** was the first strategy to alter that course, which is why it stands alone for PPMS.
 
 **MUST KNOW:**
 
-- **OPTIC NEURITIS: subacute unilateral visual loss with PAIN ON EYE MOVEMENT; COLOUR VISION (red desaturation) is affected EARLIEST and DISPROPORTIONATELY to acuity; a RELATIVE AFFERENT PUPILLARY DEFECT (Marcus Gunn pupil) is present; and the FUNDUS IS NORMAL in two-thirds ("the patient sees nothing and the doctor sees nothing" — retrobulbar neuritis).**
-- **UHTHOFF'S PHENOMENON** — symptoms worsen with heat/exercise; **LHERMITTE'S SIGN** — electric shock down the spine on neck flexion. Both are classic.
-- **Diagnosis: MCDONALD CRITERIA — dissemination in SPACE and TIME**, supported by **MRI (periventricular "Dawson's fingers", juxtacortical, infratentorial and spinal cord lesions)** and **CSF OLIGOCLONAL BANDS (present in CSF but NOT serum)**.
+- **OPTIC NEURITIS: subacute unilateral visual loss with PAIN ON EYE MOVEMENT; COLOUR VISION (red desaturation) is affected EARLIEST and DISPROPORTIONATELY to acuity; a RELATIVE AFFERENT PUPILLARY DEFECT (Marcus Gunn pupil) is present; and the FUNDUS IS NORMAL in two-thirds (“the patient sees nothing and the doctor sees nothing” — retrobulbar neuritis).**
+- **UHTHOFF’S PHENOMENON** — symptoms worsen with heat/exercise; **LHERMITTE’S SIGN** — electric shock down the spine on neck flexion. Both are classic.
+- **Diagnosis: MCDONALD CRITERIA — dissemination in SPACE and TIME**, supported by **MRI (periventricular “Dawson’s fingers”, juxtacortical, infratentorial and spinal cord lesions)** and **CSF OLIGOCLONAL BANDS (present in CSF but NOT serum)**.
 - ![[OIP-1454697470.jpg]]
 - ![[Imaging-of-spinal-cord-acute-myelopathies-20-2048-1582698017.webp]]
 - ![[OIP-2613620837.jpg]]
 - **Relapse treatment: IV methylprednisolone 1 g for 3–5 days** (shortens the relapse but does not change long-term outcome); **plasma exchange** for steroid-refractory severe relapses.
 - **DMTs: interferon-β and glatiramer (safe, modest), dimethyl fumarate, teriflunomide, fingolimod (first-dose bradycardia), NATALIZUMAB (highly effective but risks PML — check JC virus antibody), alemtuzumab (secondary autoimmunity), and ocrelizumab.**
 - **Distinguish NEUROMYELITIS OPTICA (anti-AQP4)** — longitudinally extensive transverse myelitis and severe bilateral optic neuritis; **interferons and natalizumab WORSEN it**, so the distinction matters therapeutically.
-- **DAWSON'S FINGERS are periventricular ovoid lesions oriented PERPENDICULAR to the ventricles on FLAIR** — perpendicular because demyelination begins as **perivenular inflammation around the deep medullary veins**, which radiate outward from the ventricles. **Oligoclonal bands mean INTRATHECAL IgG synthesis and must be ABSENT from a paired serum sample**; **CSF-specific bands can substitute for dissemination in time** under the McDonald criteria.
+- **DAWSON’S FINGERS are periventricular ovoid lesions oriented PERPENDICULAR to the ventricles on FLAIR** — perpendicular because demyelination begins as **perivenular inflammation around the deep medullary veins**, which radiate outward from the ventricles. **Oligoclonal bands mean INTRATHECAL IgG synthesis and must be ABSENT from a paired serum sample**; **CSF-specific bands can substitute for dissemination in time** under the McDonald criteria.
 - **INTERNUCLEAR OPHTHALMOPLEGIA (medial longitudinal fasciculus) — BILATERAL INO in a young person is MS until proven otherwise.** Also trigeminal neuralgia in a young patient, cerebellar signs, spasticity with **CLONUS (≥3 sustained beats — an UMN sign from unopposed stretch reflex)** and bladder dysfunction. Symptomatic care: **baclofen for spasticity, anticholinergics for bladder, amantadine/modafinil for fatigue.**
 - **NMO is usually OLIGOCLONAL-BAND NEGATIVE** with **longitudinally extensive myelitis over ≥3 vertebral segments**; other differentials tested are **NEUROSARCOIDOSIS (raised ACE, hilar nodes), SLE/antiphospholipid syndrome, B12 deficiency and ADEM (monophasic, post-infectious, in children).**
 
-**EXAM CONNECTION:** "Incorrect statements" — the false ones are **70% get optic neuritis (it is ~50%), ORAL steroids first-line (it is IV), and colour loss proportional to acuity (it is disproportionate)**.
+**EXAM CONNECTION:** “Incorrect statements” — the false ones are **70% get optic neuritis (it is ~50%), ORAL steroids first-line (it is IV), and colour loss proportional to acuity (it is disproportionate)**.
 
 **REMEMBER:** *Sensory symptoms come first, colour vision goes out of proportion, steroids go in the vein — and only ocrelizumab touches primary progressive disease.*
 
@@ -1181,18 +1181,18 @@
 
 **PEARL:** Compressive myelopathy is an **UPPER motor neuron lesion** — expect **hypertonia, hyperreflexia, clonus and a positive Babinski sign BELOW the level**, with **LMN signs and lost reflexes AT the level**. **HYPOTONIA does NOT exclude it** — in the acute phase, **SPINAL SHOCK** produces **flaccidity and areflexia** for days to weeks before spasticity develops.
 
-**UNDERSTAND:** Spinal shock is the **temporary loss of all cord function below the lesion** from sudden withdrawal of descending facilitation. Reflex arcs are intact but unexcitable. As the cord "reawakens" over days to weeks, **reflexes return and then become exaggerated** — so the same patient looks LMN early and UMN later. Recognising this prevents the classic error of excluding cord compression because the legs are floppy.
+**UNDERSTAND:** Spinal shock is the **temporary loss of all cord function below the lesion** from sudden withdrawal of descending facilitation. Reflex arcs are intact but unexcitable. As the cord “reawakens” over days to weeks, **reflexes return and then become exaggerated** — so the same patient looks LMN early and UMN later. Recognising this prevents the classic error of excluding cord compression because the legs are floppy.
 
 **MUST KNOW:**
 
 - **The BULBOCAVERNOSUS REFLEX is the FIRST to return and marks the END of spinal shock** — only then can a complete injury be declared complete and a prognosis given.
 - **Segmental (level-localising) signs: loss of a reflex or a band of LMN wasting AT the level**, with a **SENSORY LEVEL** — the single most useful sign for localisation.
 - **Red flags demanding urgent MRI: progressive weakness, a sensory level, sphincter disturbance, saddle anaesthesia, and back pain worse at night or on lying down.** **MRI WHOLE SPINE is the investigation of choice.**
-- **Causes in India: POTT'S SPINE (tuberculosis — the commonest cause of compressive myelopathy here), metastases (breast, lung, prostate, kidney, thyroid), disc prolapse, cervical spondylotic myelopathy, epidural abscess and haematoma.**
+- **Causes in India: POTT’S SPINE (tuberculosis — the commonest cause of compressive myelopathy here), metastases (breast, lung, prostate, kidney, thyroid), disc prolapse, cervical spondylotic myelopathy, epidural abscess and haematoma.**
 - **Malignant cord compression is an EMERGENCY: high-dose DEXAMETHASONE immediately, then urgent MRI and radiotherapy or surgical decompression** — outcome is determined by the neurological status at the time of treatment, so hours matter.
 - **CAUDA EQUINA SYNDROME (below L2) is LMN** — flaccid, areflexic, with saddle anaesthesia and early retention — versus **CONUS MEDULLARIS** (mixed UMN/LMN, early symmetrical sphincter loss).
 
-**EXAM CONNECTION:** "Which would NOT support compressive myelopathy?" → the intended answer is **hypotonia**, but note that it can occur in spinal shock — the examiners want the classic UMN picture.
+**EXAM CONNECTION:** “Which would NOT support compressive myelopathy?” → the intended answer is **hypotonia**, but note that it can occur in spinal shock — the examiners want the classic UMN picture.
 
 **REMEMBER:** *Floppy early, spastic later — spinal shock hides the upper motor neuron lesion for a fortnight.*
 
@@ -1204,19 +1204,19 @@
 
 **PEARL:** **ALLODYNIA = PAIN from a stimulus that is normally NOT painful** (lukewarm water on sunburnt skin, bedsheets on a neuropathic foot). **HYPERALGESIA = EXAGGERATED pain from a stimulus that IS painful.** Lukewarm water activates **innocuous thermal receptors** — so sunburn pain from a 40°C shower is **allodynia**.
 
-**UNDERSTAND:** After tissue injury, inflammatory mediators (**prostaglandins, bradykinin, substance P, histamine, H⁺ — the "inflammatory soup"**) **lower the threshold of nociceptors (peripheral sensitisation)** and increase the excitability of dorsal horn neurons (**central sensitisation, involving NMDA receptors and wind-up**). The pain system is recalibrated so that **normal input is read as damage**.
+**UNDERSTAND:** After tissue injury, inflammatory mediators (**prostaglandins, bradykinin, substance P, histamine, H⁺ — the “inflammatory soup”**) **lower the threshold of nociceptors (peripheral sensitisation)** and increase the excitability of dorsal horn neurons (**central sensitisation, involving NMDA receptors and wind-up**). The pain system is recalibrated so that **normal input is read as damage**.
 
 **MUST KNOW:**
 
 - **Primary hyperalgesia occurs AT the injured site (peripheral sensitisation); SECONDARY hyperalgesia extends into surrounding UNINJURED skin (central sensitisation)** — the latter proves that the change is in the cord, not the skin.
-- **Nerve fibre types: Aδ — thinly myelinated, FAST, "FIRST/sharp, well-localised pain"; C — unmyelinated, SLOW, "SECOND/dull, burning, poorly localised pain".** Mechanical nociceptors respond to **sharp, localised, high-threshold force — NOT to diffuse blunt pressure, however strong**.
+- **Nerve fibre types: Aδ — thinly myelinated, FAST, “FIRST/sharp, well-localised pain”; C — unmyelinated, SLOW, “SECOND/dull, burning, poorly localised pain”.** Mechanical nociceptors respond to **sharp, localised, high-threshold force — NOT to diffuse blunt pressure, however strong**.
 - **Neuropathic pain features: burning, shooting, electric-shock quality with allodynia and hyperalgesia** — treated with **gabapentinoids, TCAs, SNRIs (duloxetine) and topical lidocaine/capsaicin — NOT with NSAIDs or opioids as first-line.**
 - **The GATE CONTROL THEORY (Melzack and Wall)** explains why rubbing a painful area helps: **large Aβ fibre activity inhibits transmission of nociceptive input in the dorsal horn** — the physiological basis of **TENS(Transcutaneous electrical nerve stimulation)**.
 - **Descending modulation** from the **periaqueductal grey → rostral ventromedial medulla → dorsal horn**, using **endogenous opioids, serotonin and noradrenaline**, is where opioids and SNRIs act.
 
 **EXAM CONNECTION:** The stem gives the **stimulus intensity** — a normally innocuous stimulus causing pain is **allodynia**, mediated by **innocuous (not noxious) receptors**.
 
-**REMEMBER:** *If it shouldn't hurt but does, that is allodynia; if it should hurt and hurts far too much, that is hyperalgesia.*
+**REMEMBER:** *If it shouldn’t hurt but does, that is allodynia; if it should hurt and hurts far too much, that is hyperalgesia.*
 
 **IMAGES:**
 ![question](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/questions_image/01KMYPG5DBESW216K4P9VNNAFJ.jpg)
@@ -1233,16 +1233,16 @@
 
 **MUST KNOW:**
 
-- **Delirium vs dementia — the classic table: ONSET acute vs insidious; COURSE fluctuating (worse at night, "sundowning") vs progressive; CONSCIOUSNESS impaired vs clear until late; ATTENTION grossly impaired vs relatively preserved early; HALLUCINATIONS common and VISUAL vs uncommon; REVERSIBILITY usually reversible vs irreversible; EEG slowed vs normal.**
+- **Delirium vs dementia — the classic table: ONSET acute vs insidious; COURSE fluctuating (worse at night, “sundowning”) vs progressive; CONSCIOUSNESS impaired vs clear until late; ATTENTION grossly impaired vs relatively preserved early; HALLUCINATIONS common and VISUAL vs uncommon; REVERSIBILITY usually reversible vs irreversible; EEG slowed vs normal.**
 - **Three motor subtypes: HYPERACTIVE, HYPOACTIVE (commonest and most often MISSED — the quiet, drowsy, withdrawn patient), and mixed.** Hypoactive delirium has the **worse prognosis** precisely because it is overlooked.
 - **Causes — think systemically: infection (UTI, pneumonia), DRUGS (anticholinergics, opioids, benzodiazepines, steroids) and WITHDRAWAL (alcohol, benzodiazepines), metabolic (hyponatraemia, hypoglycaemia, uraemia, hepatic failure, hypoxia), hypoperfusion, intracranial causes, urinary retention and constipation, and pain.**
-- **Management: TREAT THE CAUSE + non-pharmacological measures first** (reorientation, familiar faces, daylight, sleep hygiene, mobilisation, correcting glasses and hearing aids, avoiding restraints and catheters). **Antipsychotics (haloperidol, low-dose) ONLY for severe agitation or distress** — and **NEVER haloperidol in Parkinson's disease or Lewy body dementia (use quetiapine)**, and **benzodiazepines only for ALCOHOL/BENZODIAZEPINE WITHDRAWAL**, where they are first-line.
+- **Management: TREAT THE CAUSE + non-pharmacological measures first** (reorientation, familiar faces, daylight, sleep hygiene, mobilisation, correcting glasses and hearing aids, avoiding restraints and catheters). **Antipsychotics (haloperidol, low-dose) ONLY for severe agitation or distress** — and **NEVER haloperidol in Parkinson’s disease or Lewy body dementia (use quetiapine)**, and **benzodiazepines only for ALCOHOL/BENZODIAZEPINE WITHDRAWAL**, where they are first-line.
 - **Delirium is a marker of poor prognosis** — increased mortality, length of stay and subsequent dementia.
 - **Assessment tools: CAM (Confusion Assessment Method) and 4AT.**
 
-**EXAM CONNECTION:** Multi-select — the false item is always "**normal EEG**".
+**EXAM CONNECTION:** Multi-select — the false item is always “**normal EEG**”.
 
-**REMEMBER:** *Fluctuating attention, reversed sleep, picking at the sheets, and a slow EEG — find the cause, don't sedate first.*
+**REMEMBER:** *Fluctuating attention, reversed sleep, picking at the sheets, and a slow EEG — find the cause, don’t sedate first.*
 
 `Q9501`
 
@@ -1256,11 +1256,11 @@
 
 **MUST KNOW:**
 
-- **NCCT's job is to EXCLUDE HAEMORRHAGE**, not to show the infarct (which is often invisible for hours). **Early signs: hyperdense MCA sign, loss of grey–white differentiation, insular ribbon sign, sulcal effacement.** **ASPECTS score** quantifies early ischaemic change. An ASPECTS score ≤7 predicts a worse functional outcome at 3 months as well as symptomatic hemorrhage.
+- **NCCT’s job is to EXCLUDE HAEMORRHAGE**, not to show the infarct (which is often invisible for hours). **Early signs: hyperdense MCA sign, loss of grey–white differentiation, insular ribbon sign, sulcal effacement.** **ASPECTS score** quantifies early ischaemic change. An ASPECTS score ≤7 predicts a worse functional outcome at 3 months as well as symptomatic hemorrhage.
 - **BLOOD PRESSURE: do NOT lower it aggressively in acute ischaemic stroke — treat only if >220/120**, because perfusion of the penumbra is pressure-dependent. **But if thrombolysing, BP must be <185/110.** In **haemorrhagic** stroke, lower to **<140 systolic**.
-- **Thrombolysis contraindications: haemorrhage on CT, recent surgery or trauma, previous ICH, BP >185/110, platelets <100 000, INR >1.7, glucose <50, or an unknown time of onset** (though **MRI DWI–FLAIR mismatch** can now select "wake-up" strokes).
+- **Thrombolysis contraindications: haemorrhage on CT, recent surgery or trauma, previous ICH, BP >185/110, platelets <100 000, INR >1.7, glucose <50, or an unknown time of onset** (though **MRI DWI–FLAIR mismatch** can now select “wake-up” strokes).
 - **Late-window thrombectomy (6–24 h) is selected by PERFUSION IMAGING (CT perfusion or MRI) showing a small core with a large penumbra** — the DAWN and DEFUSE-3 trials.
-- **Always check the GLUCOSE first** — hypoglycaemia is the great stroke mimic; others are seizure with Todd's paresis, migraine with aura, and functional stroke.
+- **Always check the GLUCOSE first** — hypoglycaemia is the great stroke mimic; others are seizure with Todd’s paresis, migraine with aura, and functional stroke.
 - **Aspirin 300 mg** within 48 hours once haemorrhage is excluded (delayed 24 hours after thrombolysis).
 
 **EXAM CONNECTION:** Clear NCCT + hemiparesis with aphasia (i.e. a large cortical syndrome) → **CT angiography** to look for LVO.
@@ -1301,11 +1301,11 @@
 
 **PEARL:** **CORE features: (1) FLUCTUATING cognition with variations in attention and alertness, (2) recurrent VISUAL HALLUCINATIONS (well-formed and detailed), (3) REM SLEEP BEHAVIOUR DISORDER, and (4) PARKINSONISM.** **ORTHOSTATIC HYPOTENSION is a SUPPORTIVE, not core, feature.**
 
-**UNDERSTAND:** DLB is a **synucleinopathy** — α-synuclein aggregates (Lewy bodies) deposit in the **cortex as well as the substantia nigra**, which is why the patient has **both dementia and parkinsonism**. The autonomic features (orthostatic hypotension, constipation, erectile dysfunction) come from **peripheral autonomic ganglia involvement** and are common but non-specific — hence "supportive".
+**UNDERSTAND:** DLB is a **synucleinopathy** — α-synuclein aggregates (Lewy bodies) deposit in the **cortex as well as the substantia nigra**, which is why the patient has **both dementia and parkinsonism**. The autonomic features (orthostatic hypotension, constipation, erectile dysfunction) come from **peripheral autonomic ganglia involvement** and are common but non-specific — hence “supportive”.
 
 **MUST KNOW:**
 
-- **The "1-YEAR RULE" distinguishes DLB from Parkinson's disease dementia: if dementia precedes or begins WITHIN 1 YEAR of parkinsonism → DLB; if it appears in established Parkinson's disease after >1 year → PDD.** Same pathology, arbitrary but examinable distinction.
+- **The “1-YEAR RULE” distinguishes DLB from Parkinson’s disease dementia: if dementia precedes or begins WITHIN 1 YEAR of parkinsonism → DLB; if it appears in established Parkinson’s disease after >1 year → PDD.** Same pathology, arbitrary but examinable distinction.
 - **SEVERE NEUROLEPTIC SENSITIVITY is the single most important clinical fact** — typical antipsychotics (haloperidol) can cause **irreversible worsening of parkinsonism, sedation and even a neuroleptic malignant-like syndrome, with increased mortality**. **Use QUETIAPINE or CLOZAPINE if antipsychotics are unavoidable; PIMAVANSERIN for psychosis.**
 - **Cholinesterase inhibitors (RIVASTIGMINE, donepezil) work particularly well in DLB** — better than in Alzheimer disease — improving cognition and reducing hallucinations, because the cholinergic deficit is profound.
 - **REM sleep behaviour disorder (acting out dreams, without the normal atonia) may PRECEDE the dementia by DECADES** and is a strong predictor of future synucleinopathy.
@@ -1314,7 +1314,7 @@
 - **The visual hallucinations are typically of people or animals, are detailed, and are often not distressing** — quite unlike the frightening hallucinations of delirium.
 - **Parkinsonism in DLB is often SYMMETRICAL, with less tremor and a POORER LEVODOPA RESPONSE — and levodopa may worsen the hallucinations.** Supportive features include **repeated falls, syncope, autonomic dysfunction, depression and systematised delusions.**
 
-**EXAM CONNECTION:** "All are core features EXCEPT" → **orthostatic hypotension**.
+**EXAM CONNECTION:** “All are core features EXCEPT” → **orthostatic hypotension**.
 
 **REMEMBER:** *Fluctuating, hallucinating, dream-enacting and parkinsonian — and never give haloperidol.*
 
@@ -1332,12 +1332,12 @@
 
 - **The exam trap is the thresholds: age must be ≥60 (not <60), BP ≥140/90 (not 130/80), and duration ≥10 minutes (not >5).** Diabetes is the unambiguous scoring item.
 - **A TIA carries the highest stroke risk in the FIRST 48 HOURS to 7 DAYS** — which is why current practice has largely moved beyond ABCD2 to **urgent assessment of ALL TIAs within 24 hours**, regardless of score. The score is still examined but no longer used to defer investigation.
-- **Definition update: TIA is now defined TISSUE-BASED — transient symptoms WITHOUT infarction on imaging** — rather than by the old "<24 hours" time-based rule.
+- **Definition update: TIA is now defined TISSUE-BASED — transient symptoms WITHOUT infarction on imaging** — rather than by the old “<24 hours” time-based rule.
 - **Urgent workup: brain imaging, CAROTID DOPPLER (or CTA/MRA), ECG and prolonged rhythm monitoring for ATRIAL FIBRILLATION, echocardiography, glucose and lipids.**
 - **Secondary prevention: dual antiplatelet therapy (aspirin + clopidogrel) for 21 days then single agent** in high-risk TIA/minor stroke (CHANCE and POINT trials); **high-intensity statin; BP control; and CAROTID ENDARTERECTOMY within 2 weeks for symptomatic stenosis of 70–99%** (and considered for 50–69%).
 - **If AF is found, anticoagulate** (DOAC preferred) rather than using antiplatelets.
 
-**EXAM CONNECTION:** "Which factor suggests risk?" → **diabetes** — the other options all misstate the thresholds.
+**EXAM CONNECTION:** “Which factor suggests risk?” → **diabetes** — the other options all misstate the thresholds.
 
 **REMEMBER:** *Age 60, BP 140/90, weakness scores double, an hour scores double, and diabetes counts.*
 
@@ -1360,7 +1360,7 @@
 - **Drugs that worsen myasthenia: AMINOGLYCOSIDES, macrolides, fluoroquinolones, beta-blockers, magnesium, phenytoin, and neuromuscular blockers.**
 - **The ICE PACK TEST** improves ptosis in MG (cooling inhibits acetylcholinesterase).
 
-**EXAM CONNECTION:** "NOT correct about LEMS" → **incremental response at 2–3 Hz** (it is decremental at low frequency, incremental at high).
+**EXAM CONNECTION:** “NOT correct about LEMS” → **incremental response at 2–3 Hz** (it is decremental at low frequency, incremental at high).
 
 **REMEMBER:** *LEMS gets stronger with use because calcium builds up — the exact opposite of myasthenia.*
 
@@ -1396,23 +1396,23 @@
 
 ### 56. The Substantia Nigra — Image Question
 
-**PEARL:** On a transverse brainstem section **at the level of the SUPERIOR COLLICULUS**, the **dark pigmented band in the cerebral peduncle is the SUBSTANTIA NIGRA** — degeneration of which causes **PARKINSON'S DISEASE (paralysis agitans)**. Its **pigment is NEUROMELANIN**, a by-product of dopamine synthesis, and it is **DEPIGMENTED** in Parkinson's.
+**PEARL:** On a transverse brainstem section **at the level of the SUPERIOR COLLICULUS**, the **dark pigmented band in the cerebral peduncle is the SUBSTANTIA NIGRA** — degeneration of which causes **PARKINSON’S DISEASE (paralysis agitans)**. Its **pigment is NEUROMELANIN**, a by-product of dopamine synthesis, and it is **DEPIGMENTED** in Parkinson’s.
 
 **UNDERSTAND:** The substantia nigra **pars compacta** supplies dopamine to the striatum. Losing it **removes the facilitation of the direct pathway and the inhibition of the indirect pathway**, so the net output of the basal ganglia becomes excessively inhibitory to the thalamus — producing **poverty of movement (bradykinesia and rigidity)**. Symptoms appear only after **~60–80% of neurons are lost**, which is why the disease is advanced at presentation.
 
 **MUST KNOW:**
 
-- **The cardinal features: BRADYKINESIA (obligatory) plus RESTING "PILL-ROLLING" TREMOR (4–6 Hz, decreases with movement), COGWHEEL RIGIDITY, and later POSTURAL INSTABILITY.** Onset is **asymmetric** — a key diagnostic clue.
+- **The cardinal features: BRADYKINESIA (obligatory) plus RESTING “PILL-ROLLING” TREMOR (4–6 Hz, decreases with movement), COGWHEEL RIGIDITY, and later POSTURAL INSTABILITY.** Onset is **asymmetric** — a key diagnostic clue.
 - **The pathological hallmark is the LEWY BODY — an intracytoplasmic eosinophilic inclusion of α-SYNUCLEIN.**
 - **Non-motor features often PRECEDE the motor disease by years: REM SLEEP BEHAVIOUR DISORDER, ANOSMIA, constipation and depression.**
-- **Localise the other movement disorders by structure: HUNTINGTON'S → STRIATUM (caudate atrophy, "boxcar ventricles", CAG repeat in HTT, autosomal dominant with ANTICIPATION). HEMIBALLISMUS → contralateral SUBTHALAMIC NUCLEUS. WILSON'S → putamen ("face of the giant panda" in the midbrain). Alzheimer's → ENTORHINAL CORTEX and hippocampus first.**
+- **Localise the other movement disorders by structure: HUNTINGTON’S → STRIATUM (caudate atrophy, “boxcar ventricles”, CAG repeat in HTT, autosomal dominant with ANTICIPATION). HEMIBALLISMUS → contralateral SUBTHALAMIC NUCLEUS. WILSON’S → putamen (“face of the giant panda” in the midbrain). Alzheimer’s → ENTORHINAL CORTEX and hippocampus first.**
 - **Treatment: LEVODOPA + CARBIDOPA is most effective (peripheral decarboxylase inhibition prevents nausea and increases CNS delivery); dopamine agonists, MAO-B inhibitors (selegiline, rasagiline), COMT inhibitors (entacapone), amantadine for dyskinesia, and DEEP BRAIN STIMULATION of the SUBTHALAMIC NUCLEUS or globus pallidus interna for motor fluctuations.**
-- **Long-term levodopa brings the "ON–OFF" phenomenon, wearing-off, and peak-dose dyskinesias** — which is why treatment is often delayed in young patients.
-- **Drug-induced parkinsonism (antipsychotics, metoclopramide) is SYMMETRICAL and reversible** — always ask about drugs before diagnosing Parkinson's disease.
+- **Long-term levodopa brings the “ON–OFF” phenomenon, wearing-off, and peak-dose dyskinesias** — which is why treatment is often delayed in young patients.
+- **Drug-induced parkinsonism (antipsychotics, metoclopramide) is SYMMETRICAL and reversible** — always ask about drugs before diagnosing Parkinson’s disease.
 
-**EXAM CONNECTION:** A labelled brainstem section with an arrow on the dark band → **Parkinson's disease**.
+**EXAM CONNECTION:** A labelled brainstem section with an arrow on the dark band → **Parkinson’s disease**.
 
-**REMEMBER:** *The black stripe in the midbrain turns pale in Parkinson's — that pigment is dopamine's shadow.*
+**REMEMBER:** *The black stripe in the midbrain turns pale in Parkinson’s — that pigment is dopamine’s shadow.*
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/71be37076f91458cbdb3a43fada1746f.JPEG)
@@ -1426,19 +1426,19 @@
 
 **PEARL:** Acute hemiparesis of **1 hour** with a **NORMAL CT** is an **ischaemic stroke within the window** → give **IV THROMBOLYSIS within 4.5 HOURS of onset — EITHER TENECTEPLASE 0.25 mg/kg (max 25 mg) as a SINGLE 5–10 SECOND BOLUS, OR ALTEPLASE 0.9 mg/kg (max 90 mg; 10% bolus then the rest over 60 minutes). The 2026 AHA/ASA guideline gives the two an EQUAL CLASS 1 recommendation**, and tenecteplase is practically preferred because it is one bolus rather than an hour-long infusion.[^1] A normal CT does not exclude stroke — **it excludes HAEMORRHAGE**, which is exactly what you needed to know before thrombolysing.
 
-**UNDERSTAND:** Infarction takes **6–24 hours to become visible on non-contrast CT**, so an early normal scan is the *expected* finding and is precisely what permits treatment. The scan's job in hyperacute stroke is **not to diagnose the infarct but to rule out the bleed**. Treating a haemorrhage with alteplase is catastrophic; treating an infarct is time-critical — **"TIME IS BRAIN": ~1.9 million neurons die per minute.**
+**UNDERSTAND:** Infarction takes **6–24 hours to become visible on non-contrast CT**, so an early normal scan is the *expected* finding and is precisely what permits treatment. The scan’s job in hyperacute stroke is **not to diagnose the infarct but to rule out the bleed**. Treating a haemorrhage with alteplase is catastrophic; treating an infarct is time-critical — **“TIME IS BRAIN”: ~1.9 million neurons die per minute.**
 
 **MUST KNOW:**
 
-- **Blood pressure must be <185/110 BEFORE thrombolysis and kept <180/105 for 24 hours after** (labetalol/nicardipine). This stem's 160/100 is acceptable.
+- **Blood pressure must be <185/110 BEFORE thrombolysis and kept <180/105 for 24 hours after** (labetalol/nicardipine). This stem’s 160/100 is acceptable.
 - **Major contraindications: any intracranial haemorrhage, stroke or head trauma within 3 months, recent major surgery, active internal bleeding, platelets <100,000, INR >1.7, heparin with a raised aPTT, DOAC use within 48 h, blood glucose <50 mg/dL (correct it and reassess), and known intracranial neoplasm/AVM/aneurysm.**
 - **MECHANICAL THROMBECTOMY for LARGE VESSEL OCCLUSION (ICA, proximal MCA) is indicated up to 24 HOURS with favourable perfusion imaging (DAWN, DEFUSE-3), and is given IN ADDITION to thrombolysis when eligible** — do not withhold alteplase while arranging it. **Give thrombolysis first where eligible; do not withhold it while arranging thrombectomy.**
 - **ASPIRIN IS DELAYED FOR 24 HOURS after thrombolysis; otherwise give it within 48 hours.** **DUAL antiplatelet therapy (aspirin + clopidogrel) for 21 days is for MINOR stroke and HIGH-RISK TIA** (CHANCE, POINT), then single agent.
-- **In "wake-up" stroke or unknown onset, use DWI–FLAIR MISMATCH** — a lesion visible on DWI but not yet on FLAIR implies onset within ~4.5 hours.
+- **In “wake-up” stroke or unknown onset, use DWI–FLAIR MISMATCH** — a lesion visible on DWI but not yet on FLAIR implies onset within ~4.5 hours.
 - **The commonest complication is SYMPTOMATIC INTRACRANIAL HAEMORRHAGE (~6%)** — deterioration during infusion means stop, scan, and give cryoprecipitate.
 - **MRI (DWI) is the most sensitive test for early infarction; non-contrast CT is chosen simply because it is fast and reliably shows blood.**
 
-**EXAM CONNECTION:** Acute deficit + normal CT + within window → **IV thrombolysis** (never "nothing, since CT was normal").
+**EXAM CONNECTION:** Acute deficit + normal CT + within window → **IV thrombolysis** (never “nothing, since CT was normal”).
 
 **REMEMBER:** *An early normal CT is permission to thrombolyse, not a reason to reassure.*
 
@@ -1454,8 +1454,8 @@
 
 **MUST KNOW:**
 
-- **The clinical tetrad: RAPIDLY progressive dementia (weeks to months, not years), MYOCLONUS (often startle-induced), cerebellar/visual disturbance, and AKINETIC MUTISM terminally.** Speed of decline is the single best clue — Alzheimer's takes years.
-- **Types: SPORADIC (85–90%, elderly, cortical ribbon sign); VARIANT (bovine spongiform encephalopathy, younger patients, psychiatric onset and painful sensory symptoms, PULVINAR "HOCKEY-STICK" SIGN); FAMILIAL (~10%, PRNP mutation); IATROGENIC (dura mater grafts, corneal transplants, cadaveric growth hormone, contaminated neurosurgical instruments).** **KURU** was transmitted by ritual cannibalism in Papua New Guinea.
+- **The clinical tetrad: RAPIDLY progressive dementia (weeks to months, not years), MYOCLONUS (often startle-induced), cerebellar/visual disturbance, and AKINETIC MUTISM terminally.** Speed of decline is the single best clue — Alzheimer’s takes years.
+- **Types: SPORADIC (85–90%, elderly, cortical ribbon sign); VARIANT (bovine spongiform encephalopathy, younger patients, psychiatric onset and painful sensory symptoms, PULVINAR “HOCKEY-STICK” SIGN); FAMILIAL (~10%, PRNP mutation); IATROGENIC (dura mater grafts, corneal transplants, cadaveric growth hormone, contaminated neurosurgical instruments).** **KURU** was transmitted by ritual cannibalism in Papua New Guinea.
 - **Prions RESIST standard sterilisation — formalin, alcohol, boiling and routine autoclaving.** Decontamination requires **1N NaOH or sodium hypochlorite plus extended autoclaving at 134 °C**; single-use instruments are preferred.
 - **Read the other EEG patterns: TRIPHASIC WAVES → HEPATIC ENCEPHALOPATHY (also uraemia, Hashimoto encephalopathy, CO2 narcosis). PERIODIC LATERALISED EPILEPTIFORM DISCHARGES (PLEDs) over the TEMPORAL lobe → HSV ENCEPHALITIS. 3 Hz SPIKE-AND-WAVE → ABSENCE seizures. HYPSARRHYTHMIA → WEST SYNDROME. BURST SUPPRESSION → deep anaesthesia or severe hypoxic brain injury.**
 - **Definitive diagnosis is by brain biopsy or autopsy; there is no treatment** — management is supportive and the disease is notifiable.
@@ -1473,7 +1473,7 @@
 
 ### 59. Tigroid White Matter — Pelizaeus–Merzbacher Disease
 
-**PEARL:** A **"TIGROID" or "leopard-skin" pattern of white matter on MRI** (patchy islands of preserved myelin within unmyelinated white matter) is characteristic of **PELIZAEUS–MERZBACHER DISEASE** — an **X-LINKED RECESSIVE DYSMYELINATING disorder of the PLP1 (proteolipid protein) gene**, presenting in infancy with **PENDULAR NYSTAGMUS**, developmental delay, hypotonia progressing to spasticity, stridor and ataxia.
+**PEARL:** A **“TIGROID” or “leopard-skin” pattern of white matter on MRI** (patchy islands of preserved myelin within unmyelinated white matter) is characteristic of **PELIZAEUS–MERZBACHER DISEASE** — an **X-LINKED RECESSIVE DYSMYELINATING disorder of the PLP1 (proteolipid protein) gene**, presenting in infancy with **PENDULAR NYSTAGMUS**, developmental delay, hypotonia progressing to spasticity, stridor and ataxia.
 
 **UNDERSTAND:** The crucial distinction is **DYSMYELINATION versus DEMYELINATION**. In PMD, **oligodendrocytes NEVER MANAGE to make normal myelin** — the mutant proteolipid protein misfolds and kills the oligodendrocyte. In metachromatic leukodystrophy and adrenoleukodystrophy, **myelin IS formed normally and is then destroyed.** Hence PMD presents from birth or early infancy with a child who never acquires milestones, while the destructive leukodystrophies show regression after a normal period.
 
@@ -1486,7 +1486,7 @@
 - **The pattern of white matter involved localises the disease: FRONTAL → Alexander; PARIETO-OCCIPITAL → adrenoleukodystrophy; PERIVENTRICULAR/diffuse → metachromatic.**
 - **Diagnosis is genetic; treatment is supportive** (stem cell transplant helps only in selected early presymptomatic cases of some leukodystrophies).
 
-**EXAM CONNECTION:** "Tigroid white matter" → **Pelizaeus–Merzbacher disease**.
+**EXAM CONNECTION:** “Tigroid white matter” → **Pelizaeus–Merzbacher disease**.
 
 **REMEMBER:** *Tiger stripes mean the myelin was never made — dysmyelination, not demyelination.*
 
@@ -1496,20 +1496,20 @@
 
 ### 60. Lateral Medullary (Wallenberg) Syndrome
 
-**PEARL:** **Vertigo, hoarseness and dysphagia, IPSILATERAL HORNER'S SYNDROME, IPSILATERAL FACIAL numbness with CONTRALATERAL LIMB loss of pain and temperature, and ipsilateral ataxia — with NO limb weakness — is LATERAL MEDULLARY SYNDROME, from occlusion of the POSTERIOR INFERIOR CEREBELLAR ARTERY (PICA)** or, more often, the **vertebral artery**.
+**PEARL:** **Vertigo, hoarseness and dysphagia, IPSILATERAL HORNER’S SYNDROME, IPSILATERAL FACIAL numbness with CONTRALATERAL LIMB loss of pain and temperature, and ipsilateral ataxia — with NO limb weakness — is LATERAL MEDULLARY SYNDROME, from occlusion of the POSTERIOR INFERIOR CEREBELLAR ARTERY (PICA)** or, more often, the **vertebral artery**.
 
 **UNDERSTAND:** The **CROSSED sensory pattern is the signature** and follows directly from anatomy: the **spinal tract and nucleus of CN V carries face sensation and has NOT yet crossed at the medulla (ipsilateral), while the LATERAL SPINOTHALAMIC tract carries body sensation and crossed in the spinal cord (contralateral).** **The absence of weakness is equally diagnostic** — the pyramidal tract lies **medially** and is spared, which is what separates lateral from medial medullary syndrome.
 
 **MUST KNOW:**
 
-- **Structure-by-structure: nucleus AMBIGUUS → hoarseness, dysphagia, absent gag (this is what makes it "lateral medullary" rather than any other lateral brainstem syndrome). VESTIBULAR nuclei → vertigo, nystagmus, vomiting. Descending SYMPATHETIC fibres → HORNER'S. INFERIOR CEREBELLAR PEDUNCLE → ipsilateral ataxia and lateropulsion. Spinal V → facial sensory loss. Spinothalamic → contralateral body sensory loss. Solitary nucleus → loss of taste.**
-- **MEDIAL MEDULLARY SYNDROME (anterior spinal artery) is the mirror image: contralateral HEMIPARESIS (pyramid), contralateral loss of proprioception/vibration (medial lemniscus), and IPSILATERAL TONGUE deviation (CN XII) — remember the medial structures as the "4 Ms": Motor pathway, Medial lemniscus, MLF, Motor nucleus (XII).**
+- **Structure-by-structure: nucleus AMBIGUUS → hoarseness, dysphagia, absent gag (this is what makes it “lateral medullary” rather than any other lateral brainstem syndrome). VESTIBULAR nuclei → vertigo, nystagmus, vomiting. Descending SYMPATHETIC fibres → HORNER’S. INFERIOR CEREBELLAR PEDUNCLE → ipsilateral ataxia and lateropulsion. Spinal V → facial sensory loss. Spinothalamic → contralateral body sensory loss. Solitary nucleus → loss of taste.**
+- **MEDIAL MEDULLARY SYNDROME (anterior spinal artery) is the mirror image: contralateral HEMIPARESIS (pyramid), contralateral loss of proprioception/vibration (medial lemniscus), and IPSILATERAL TONGUE deviation (CN XII) — remember the medial structures as the “4 Ms”: Motor pathway, Medial lemniscus, MLF, Motor nucleus (XII).**
 - **The general brainstem rule: CRANIAL NERVE signs are IPSILATERAL, LONG TRACT signs are CONTRALATERAL — and the cranial nerve involved gives the LEVEL (III/IV = midbrain, V–VIII = pons, IX–XII = medulla).**
-- **Wallenberg's syndrome causes severe DYSPHAGIA with a high aspiration risk** — swallow assessment before feeding is essential, and it is the main determinant of early morbidity.
+- **Wallenberg’s syndrome causes severe DYSPHAGIA with a high aspiration risk** — swallow assessment before feeding is essential, and it is the main determinant of early morbidity.
 - **In a young patient, consider VERTEBRAL ARTERY DISSECTION** — after neck trauma, chiropractic manipulation, or even trivial hyperextension; it presents with neck/occipital pain.
 - **AICA occlusion adds IPSILATERAL DEAFNESS and FACIAL WEAKNESS (CN VII, VIII in the pons)** — the presence of deafness distinguishes it from PICA.
 
-**EXAM CONNECTION:** Crossed sensory loss + Horner's + hoarseness → **PICA**.
+**EXAM CONNECTION:** Crossed sensory loss + Horner’s + hoarseness → **PICA**.
 
 **REMEMBER:** *Face here, body there, hoarse voice and a droopy lid — but the arm still moves: PICA.*
 
@@ -1532,10 +1532,10 @@
 - The lesion level is best defined by the **band of segmental LMN signs** and by the upper limit of the **contralateral** pain/temperature loss (allowing for the 1–2 segment lag).
 - Causes: **penetrating trauma (stab)**, lateral cord compression by tumour, **multiple sclerosis** (the commonest medical cause), disc herniation, haematomyelia, radiation myelopathy. Pure hemisection is rare — most cases are partial.
 - **Best prognosis of all incomplete cord syndromes** — most patients regain ambulation.
-- Contrast: **anterior cord syndrome** (motor + pain/temperature lost, dorsal columns spared — worst prognosis); **central cord syndrome** (elderly, hyperextension injury, **arms worse than legs**, "cape" sensory loss); **syringomyelia** (dissociated, suspended cape-like loss of pain and temperature with preserved touch); **posterior cord syndrome** (dorsal columns — sensory ataxia).
+- Contrast: **anterior cord syndrome** (motor + pain/temperature lost, dorsal columns spared — worst prognosis); **central cord syndrome** (elderly, hyperextension injury, **arms worse than legs**, “cape” sensory loss); **syringomyelia** (dissociated, suspended cape-like loss of pain and temperature with preserved touch); **posterior cord syndrome** (dorsal columns — sensory ataxia).
 
 **EXAM CONNECTION: **Options mix the sides and modalities. Check two things:** pain/ temperature must be CONTRALATERAL**, everything else **IPSILATERAL** — and the LMN band is **at** the level, on the same side.
- **REMEMBER:** *Same side moves badly and feels position; the other side can't feel pain.*
+ **REMEMBER:** *Same side moves badly and feels position; the other side can’t feel pain.*
 `Q10875`
 
 ---
@@ -1544,12 +1544,12 @@
 
 **PEARL:** Progressive headache with nausea and vomiting in an adult, with a ring-enhancing tumour crossing the corpus callosum, is **glioblastoma** — histology shows **pseudopalisading tumour cells around serpiginous necrosis** with **microvascular (glomeruloid) proliferation** and marked pleomorphism.
 
-**UNDERSTAND:** Glioblastoma grows faster than it can build a blood supply, so the tumour core outstrips its perfusion and infarcts. Cells at the rim of the dying zone **migrate away from the hypoxia and pile up in a picket-fence line** — that migration is the "pseudopalisade". The same hypoxia drives **VEGF**, producing the glomeruloid vascular tufts and the intense ring enhancement seen on MRI. One mechanism, three findings.
+**UNDERSTAND:** Glioblastoma grows faster than it can build a blood supply, so the tumour core outstrips its perfusion and infarcts. Cells at the rim of the dying zone **migrate away from the hypoxia and pile up in a picket-fence line** — that migration is the “pseudopalisade”. The same hypoxia drives **VEGF**, producing the glomeruloid vascular tufts and the intense ring enhancement seen on MRI. One mechanism, three findings.
 
 **MUST KNOW:**
 
-- **Histology-to-tumour matching (the exact discrimination this stem tests):** - **Pseudopalisading necrosis + microvascular proliferation → GLIOBLASTOMA** (WHO grade 4). - **Antoni A (hypercellular, spindle, Verocay bodies) and Antoni B (hypocellular, loose) → SCHWANNOMA** (S100 positive; vestibular schwannoma → **NF2**). - **Whorls of spindle cells + psammoma bodies → MENINGIOMA** (EMA positive, dural tail, arises from arachnoid cap cells). - **"Fried-egg" cells with clear cytoplasm + "chicken-wire" capillaries → OLIGODENDROGLIOMA** (**1p/19q co-deletion**, calcification, seizures, best prognosis, chemosensitive to PCV).
-- Glioblastoma: commonest **primary malignant** brain tumour in adults; **"butterfly" spread across the corpus callosum**; **IDH-wildtype** (primary, elderly, poor prognosis) vs **IDH-mutant astrocytoma grade 4** (younger, better); **MGMT promoter methylation predicts temozolomide response**.
+- **Histology-to-tumour matching (the exact discrimination this stem tests):** **Pseudopalisading necrosis + microvascular proliferation → GLIOBLASTOMA** (WHO grade 4). **Antoni A (hypercellular, spindle, Verocay bodies) and Antoni B (hypocellular, loose) → SCHWANNOMA** (S100 positive; vestibular schwannoma → **NF2**). **Whorls of spindle cells + psammoma bodies → MENINGIOMA** (EMA positive, dural tail, arises from arachnoid cap cells). **“Fried-egg” cells with clear cytoplasm + “chicken-wire” capillaries → OLIGODENDROGLIOMA** (**1p/19q co-deletion**, calcification, seizures, best prognosis, chemosensitive to PCV).
+- Glioblastoma: commonest **primary malignant** brain tumour in adults; **“butterfly” spread across the corpus callosum**; **IDH-wildtype** (primary, elderly, poor prognosis) vs **IDH-mutant astrocytoma grade 4** (younger, better); **MGMT promoter methylation predicts temozolomide response**.
 - Treatment: maximal safe resection + **radiotherapy with concurrent and adjuvant temozolomide (Stupp protocol)**; median survival ~15 months.
 - Raised ICP features: **morning headache worse on coughing/bending, vomiting, papilloedema, Cushing reflex (hypertension, bradycardia, irregular respiration)**.
 
@@ -1591,9 +1591,9 @@
 
 ### 64. Visual Agnosia
 
-**PEARL:** Inability to **name or recognise an object by sight**, while recognising it immediately **by touch, sound or description**, is **ASSOCIATIVE VISUAL AGNOSIA** — a lesion of the **occipito-temporal junction / INFERIOR TEMPORAL lobe** (the ventral "what" stream).
+**PEARL:** Inability to **name or recognise an object by sight**, while recognising it immediately **by touch, sound or description**, is **ASSOCIATIVE VISUAL AGNOSIA** — a lesion of the **occipito-temporal junction / INFERIOR TEMPORAL lobe** (the ventral “what” stream).
 
-**UNDERSTAND:** Vision is processed along two anatomically separate streams. The **ventral ("what") stream** runs occipital → **inferior temporal** and handles **object identity**; the **dorsal ("where/how") stream** runs occipital → **parietal** and handles spatial location and visually guided action. Because the deficit here is of **identity with intact perception and intact recognition by other senses**, the lesion must be in the ventral stream *beyond* the primary visual cortex — which is why the patient sees the object perfectly and can copy it, yet cannot say what it is.
+**UNDERSTAND:** Vision is processed along two anatomically separate streams. The **ventral (“what”) stream** runs occipital → **inferior temporal** and handles **object identity**; the **dorsal (“where/how”) stream** runs occipital → **parietal** and handles spatial location and visually guided action. Because the deficit here is of **identity with intact perception and intact recognition by other senses**, the lesion must be in the ventral stream *beyond* the primary visual cortex — which is why the patient sees the object perfectly and can copy it, yet cannot say what it is.
 
 **MUST KNOW:**
 
@@ -1604,7 +1604,7 @@
 - **Dorsal stream lesions: BÁLINT SYNDROME** (bilateral parieto-occipital) — **optic ataxia, oculomotor apraxia and simultanagnosia**; **hemispatial neglect** with right (non-dominant) parietal lesions; **Gerstmann syndrome** (dominant angular gyrus) — **agraphia, acalculia, finger agnosia, left–right disorientation**.
 - Other agnosias: **astereognosis** (tactile — contralateral parietal), **auditory agnosia**, **anosognosia** (denial of deficit), **autotopagnosia**.
 
-**EXAM CONNECTION:** The give-away is **"recognises the object by another modality"** — which localises to the visual association cortex, not to the sensory pathway or the language areas.
+**EXAM CONNECTION:** The give-away is **“recognises the object by another modality”** — which localises to the visual association cortex, not to the sensory pathway or the language areas.
 
 **REMEMBER:** *The ventral stream tells you WHAT — lose it and you see without knowing.*
 
@@ -1614,15 +1614,15 @@
 
 ### 65. Cortical vs Subcortical Dementia
 
-**PEARL:** **PICK's DISEASE (frontotemporal dementia) is a CORTICAL dementia.** The **SUBCORTICAL** dementias are those of **PARKINSON's disease, HUNTINGTON's disease, WILSON's disease, progressive supranuclear palsy, HIV, normal pressure hydrocephalus and vascular (lacunar) dementia**.
+**PEARL:** **PICK’s DISEASE (frontotemporal dementia) is a CORTICAL dementia.** The **SUBCORTICAL** dementias are those of **PARKINSON’s disease, HUNTINGTON’s disease, WILSON’s disease, progressive supranuclear palsy, HIV, normal pressure hydrocephalus and vascular (lacunar) dementia**.
 
-**UNDERSTAND:** The distinction predicts the **clinical signature**. **Cortical dementias destroy the "instrument" of cognition** — so they produce **aphasia, apraxia, agnosia and amnesia** with normal movement early on. **Subcortical dementias damage the basal ganglia, thalamus and white matter — the "wiring"** — so cognition is **slowed rather than lost** (bradyphrenia), and the striking features are **movement disorder, apathy, depression and impaired executive function with relatively preserved language and recognition**.
+**UNDERSTAND:** The distinction predicts the **clinical signature**. **Cortical dementias destroy the “instrument” of cognition** — so they produce **aphasia, apraxia, agnosia and amnesia** with normal movement early on. **Subcortical dementias damage the basal ganglia, thalamus and white matter — the “wiring”** — so cognition is **slowed rather than lost** (bradyphrenia), and the striking features are **movement disorder, apathy, depression and impaired executive function with relatively preserved language and recognition**.
 
 **MUST KNOW:**
 
 | | **Cortical** | **Subcortical** |
 | --- | --- | --- |
-| Examples | **Alzheimer disease, PICK's/FTD, Creutzfeldt–Jakob disease, Lewy body dementia (mixed)** | **Parkinson, Huntington, Wilson, PSP, HIV, NPH, vascular** |
+| Examples | **Alzheimer disease, PICK’s/FTD, Creutzfeldt–Jakob disease, Lewy body dementia (mixed)** | **Parkinson, Huntington, Wilson, PSP, HIV, NPH, vascular** |
 | Memory | Severe **amnesia**, poor recognition | **Retrieval deficit — improves with cues** |
 | Language | **Aphasia** | Preserved; speech may be dysarthric/hypophonic |
 | Praxis/gnosis | **Apraxia, agnosia** | Normal |
@@ -1630,12 +1630,12 @@
 | Movement | Normal until late | **Abnormal early — tremor, chorea, rigidity, gait disorder** |
 | Mood | Less prominent | **Apathy and DEPRESSION prominent** |
 
-- **Pick's disease/FTD: early PERSONALITY and BEHAVIOURAL change, disinhibition, hyperorality and loss of social conduct with MEMORY RELATIVELY PRESERVED EARLY**, in a younger patient (45–65); **frontotemporal atrophy ("knife-edge" gyri)** with **PICK BODIES (tau-positive)**. Contrast Alzheimer, where **memory fails first**.
+- **Pick’s disease/FTD: early PERSONALITY and BEHAVIOURAL change, disinhibition, hyperorality and loss of social conduct with MEMORY RELATIVELY PRESERVED EARLY**, in a younger patient (45–65); **frontotemporal atrophy (“knife-edge” gyri)** with **PICK BODIES (tau-positive)**. Contrast Alzheimer, where **memory fails first**.
 
-- **Reversible causes to exclude in any dementia: hypothyroidism, B12 deficiency, neurosyphilis, HIV, NORMAL PRESSURE HYDROCEPHALUS (the triad — "wet, wobbly, wacky": gait apraxia, urinary incontinence, dementia; treat with a shunt), subdural haematoma, depression ("pseudodementia" — the patient complains of memory loss and answers "I don't know").**
+- **Reversible causes to exclude in any dementia: hypothyroidism, B12 deficiency, neurosyphilis, HIV, NORMAL PRESSURE HYDROCEPHALUS (the triad — “wet, wobbly, wacky”: gait apraxia, urinary incontinence, dementia; treat with a shunt), subdural haematoma, depression (“pseudodementia” — the patient complains of memory loss and answers “I don’t know”).**
 - **Wilson disease** — the young patient with a movement disorder plus psychiatric or cognitive change: **Kayser–Fleischer rings, low caeruloplasmin, high urinary copper**; treat with **penicillamine/trientine and zinc**.
 
-**EXAM CONNECTION:** "Which is NOT subcortical?" — the answer is the **frontal/cortical degeneration (Pick's)**. Any dementia listed with a **movement disorder** is subcortical.
+**EXAM CONNECTION:** “Which is NOT subcortical?” — the answer is the **frontal/cortical degeneration (Pick’s)**. Any dementia listed with a **movement disorder** is subcortical.
 
 **REMEMBER:** *Cortex loses words and skills; subcortex loses speed and movement.*
 
@@ -1654,9 +1654,9 @@
 
 **MUST KNOW:**
 
-- **NF1 diagnostic criteria (2 or more): ≥6 CAFÉ-AU-LAIT macules (>5 mm prepubertal, >15 mm postpubertal); ≥2 neurofibromas or 1 PLEXIFORM neurofibroma; AXILLARY or INGUINAL FRECKLING (Crowe sign); OPTIC GLIOMA; ≥2 LISCH NODULES (iris hamartomas); a distinctive bony lesion (sphenoid wing dysplasia, PSEUDARTHROSIS of the tibia); and a first-degree relative with NF1.** **Autosomal dominant, chromosome 17** ("**NF1 — seventeen letters in von Recklinghausen**").
-- **Complications: MALIGNANT PERIPHERAL NERVE SHEATH TUMOUR arising in a plexiform neurofibroma (sudden growth or new pain — the reason for the exam's "slowly enlarging" wording), optic glioma, scoliosis, learning difficulties, epilepsy, PHAEOCHROMOCYTOMA and RENAL ARTERY STENOSIS causing hypertension.**
-- **NF2 (chromosome 22, "22 = 2 ears"): BILATERAL VESTIBULAR SCHWANNOMAS**, meningiomas, ependymomas, juvenile cataract — few skin lesions.
+- **NF1 diagnostic criteria (2 or more): ≥6 CAFÉ-AU-LAIT macules (>5 mm prepubertal, >15 mm postpubertal); ≥2 neurofibromas or 1 PLEXIFORM neurofibroma; AXILLARY or INGUINAL FRECKLING (Crowe sign); OPTIC GLIOMA; ≥2 LISCH NODULES (iris hamartomas); a distinctive bony lesion (sphenoid wing dysplasia, PSEUDARTHROSIS of the tibia); and a first-degree relative with NF1.** **Autosomal dominant, chromosome 17** (“**NF1 — seventeen letters in von Recklinghausen**”).
+- **Complications: MALIGNANT PERIPHERAL NERVE SHEATH TUMOUR arising in a plexiform neurofibroma (sudden growth or new pain — the reason for the exam’s “slowly enlarging” wording), optic glioma, scoliosis, learning difficulties, epilepsy, PHAEOCHROMOCYTOMA and RENAL ARTERY STENOSIS causing hypertension.**
+- **NF2 (chromosome 22, “22 = 2 ears”): BILATERAL VESTIBULAR SCHWANNOMAS**, meningiomas, ependymomas, juvenile cataract — few skin lesions.
 - Differential for a paediatric neck lump: **cystic hygroma (soft, TRANSILLUMINANT, posterior triangle, infancy); branchial cyst (upper third of sternomastoid); thyroglossal cyst (midline, moves with tongue protrusion); lymphadenopathy (commonest overall); chemodectoma/carotid body tumour (pulsatile, at the carotid bifurcation, mobile side-to-side but not vertically — POTATO tumour).**
 - **Neurofibromas are NOT encapsulated and involve the nerve (so excision sacrifices it); SCHWANNOMAS are encapsulated and can be shelled out preserving the nerve.**
 
@@ -1675,7 +1675,7 @@
 
 **PEARL:** Antiepileptic withdrawal is considered only after **≥ 2 years seizure-free**, plus **normal neurological exam and intelligence, normal EEG and MRI, a single seizure type, and no family history of epilepsy**. Then taper slowly over **2–3 months** — never stop abruptly.
 
-**UNDERSTAND:** Two years is the interval at which relapse risk falls to an acceptable level; a shorter seizure-free period simply has not tested the brain's stability. Abrupt cessation risks **withdrawal seizures and status epilepticus**, because the drug has been chronically suppressing an epileptogenic network that rebounds when the suppression is lifted at once.
+**UNDERSTAND:** Two years is the interval at which relapse risk falls to an acceptable level; a shorter seizure-free period simply has not tested the brain’s stability. Abrupt cessation risks **withdrawal seizures and status epilepticus**, because the drug has been chronically suppressing an epileptogenic network that rebounds when the suppression is lifted at once.
 
 **MUST KNOW:**
 
@@ -1702,13 +1702,13 @@
 **MUST KNOW:**
 
 - Rupture risk rises with: **size > 7 mm**, **posterior circulation location (basilar tip, PCoM origin)**, previous SAH, irregular shape/daughter sac, smoking and hypertension.
-- **PCoM aneurysm → painful third nerve palsy with a DILATED pupil** (the parasympathetic fibres run superficially and are compressed first) — the classic "surgical" third nerve palsy.
+- **PCoM aneurysm → painful third nerve palsy with a DILATED pupil** (the parasympathetic fibres run superficially and are compressed first) — the classic “surgical” third nerve palsy.
 - **ACoM aneurysm** → bifrontal signs, abulia, **diabetes insipidus** after rupture.
 - **MCA bifurcation** aneurysms are the third common site and often present with intracerebral haematoma.
 - Associations: **autosomal dominant polycystic kidney disease**, **coarctation**, Ehlers–Danlos type IV, fibromuscular dysplasia, family history.
 - SAH: **thunderclap headache**, non-contrast **CT within 6 h is ~100% sensitive**; if negative and suspicion persists → **LP for xanthochromia at 12 h**. Give **nimodipine** for vasospasm.
 
-**EXAM CONNECTION:** Read whether the stem asks **"most common location"** (ACoM) or **"highest risk of rupture"** (PCoM origin/basilar tip). Both appear, and the answers differ.
+**EXAM CONNECTION:** Read whether the stem asks **“most common location”** (ACoM) or **“highest risk of rupture”** (PCoM origin/basilar tip). Both appear, and the answers differ.
 
 **REMEMBER:** *Anterior communicating is commonest; posterior communicating is deadliest.*
 
@@ -1731,7 +1731,7 @@
 - Also called **Willis–Ekbom disease**; associated with **periodic limb movements of sleep**.
 - Distinguish from **akathisia** (drug-induced, whole-body, no circadian pattern, not relieved by rest position), **nocturnal cramps** (painful, palpable contraction) and **neuropathy** (constant, not relieved by movement).
 
-**EXAM CONNECTION:** "All EXCEPT" → the option saying symptoms **begin or worsen with activity**. Every criterion is about rest and relief with movement.
+**EXAM CONNECTION:** “All EXCEPT” → the option saying symptoms **begin or worsen with activity**. Every criterion is about rest and relief with movement.
 
 **REMEMBER:** *Rest provokes it, movement relieves it, night amplifies it.*
 
@@ -1753,7 +1753,7 @@
 - **Motor neuron disease (ALS)** is the classic **mixed** UMN + LMN picture with **no sensory loss**.
 - Reflex roots worth memorising: **ankle S1–S2, knee L3–L4, biceps C5–C6, supinator C6, triceps C7**.
 
-**EXAM CONNECTION:** Image of an **ankle jerk** being elicited + "what lesion exaggerates it" → **upper motor neuron**. Every other option is a form of LMN disease.
+**EXAM CONNECTION:** Image of an **ankle jerk** being elicited + “what lesion exaggerates it” → **upper motor neuron**. Every other option is a form of LMN disease.
 
 **REMEMBER:** *Cut the brake and the reflex runs wild; cut the arc and it stops.*
 
@@ -1769,7 +1769,7 @@
 
 **PEARL:** **LMN signs in the upper limbs and trunk, UMN signs in the lower limbs**, with **bladder and bowel involvement**.
 
-**UNDERSTAND:** The central cord damage hits the **anterior horn cells** locally (→ LMN, arms) and the **medially placed** corticospinal fibres for the arms, while the **laterally placed leg fibres** are relatively spared but still interrupted above their exit (→ UMN, legs). Sacral fibres are outermost — hence **"sacral sparing"** in incomplete lesions.
+**UNDERSTAND:** The central cord damage hits the **anterior horn cells** locally (→ LMN, arms) and the **medially placed** corticospinal fibres for the arms, while the **laterally placed leg fibres** are relatively spared but still interrupted above their exit (→ UMN, legs). Sacral fibres are outermost — hence **“sacral sparing”** in incomplete lesions.
 
 **MUST KNOW: **Classic setting:** hyperextension injury in an elderly person with cervical spondylosis**, often without fracture; also **syringomyelia** (with **cape-like dissociated sensory loss** — pain and temperature lost, dorsal column preserved). It is the **commonest incomplete cord syndrome**, and has the **best prognosis** among them.
 
@@ -1779,7 +1779,7 @@
 
 ### 72. Opsoclonus–Myoclonus Syndrome
 
-**PEARL:** A **paraneoplastic** syndrome associated with **neuroblastoma** in children ("dancing eyes, dancing feet").
+**PEARL:** A **paraneoplastic** syndrome associated with **neuroblastoma** in children (“dancing eyes, dancing feet”).
 
 **MUST KNOW:** Chaotic multidirectional conjugate eye movements + myoclonus + ataxia + irritability. Occurs in ~2–3% of neuroblastomas, and these tumours paradoxically have a **better oncological prognosis** but leave **neurological/developmental sequelae**. In adults, it is associated with **small-cell lung and breast cancer** (anti-Ri). Treatment: remove the tumour + steroids/IVIG/ACTH.
 
@@ -1826,7 +1826,7 @@
 
 **PEARL:** **ANTI-HBs appears AFTER HBsAg disappears and indicates RECOVERY AND IMMUNITY (it is also the ONLY marker after VACCINATION).** The interval between the loss of HBsAg and the appearance of anti-HBs is the **WINDOW PERIOD — during which ONLY ANTI-HBc IgM is detectable**, and the diagnosis would otherwise be missed.
 
-**UNDERSTAND: **Each marker answers a different question:** HBsAg = "is the virus present?"** · **anti-HBs = "am I protected?"** · **anti-HBc = "have I ever been infected?"** (it is **never produced by vaccination**, since the core antigen is not in the vaccine) · **HBeAg/HBV DNA = "how infectious am I?"**.
+**UNDERSTAND: **Each marker answers a different question:** HBsAg = “is the virus present?”** · **anti-HBs = “am I protected?”** · **anti-HBc = “have I ever been infected?”** (it is **never produced by vaccination**, since the core antigen is not in the vaccine) · **HBeAg/HBV DNA = “how infectious am I?”**.
 
 **MUST KNOW:**
 
@@ -1835,7 +1835,7 @@
 - **PRECORE MUTANT: HBeAg-NEGATIVE but with HIGH HBV DNA and active disease** — so **HBV DNA, not HBeAg, is the true measure of replication**.
 - **HBcAg is NOT detectable in serum** (it is enclosed within the HBsAg coat) — a favourite negative fact.
 - **Perinatal prophylaxis: HEPATITIS B IMMUNOGLOBULIN + the FIRST VACCINE DOSE within 12 HOURS of birth**, plus maternal tenofovir if the viral load is high.
-- **Post-exposure in a needlestick: check the recipient's anti-HBs; give HBIG + vaccine if non-immune.**
+- **Post-exposure in a needlestick: check the recipient’s anti-HBs; give HBIG + vaccine if non-immune.**
 - **Chronic hepatitis B treatment: TENOFOVIR or ENTECAVIR** (high barrier to resistance); screen for **hepatocellular carcinoma** (HBV causes HCC even **without cirrhosis**, because it integrates into the host genome).
 
 **EXAM CONNECTION:** Serological curve with an antibody appearing weeks after recovery → **anti-HBs**.
@@ -1852,20 +1852,20 @@
 
 ### 77. Severity Scores in Acute Pancreatitis
 
-**PEARL:** The **HARMLESS ACUTE PANCREATITIS SCORE (HAPS)** has just **three components: ABSENCE of rebound tenderness/guarding, NORMAL haematocrit, and NORMAL serum creatinine.** **Serum calcium is NOT part of it** (calcium belongs to Ranson's criteria).
+**PEARL:** The **HARMLESS ACUTE PANCREATITIS SCORE (HAPS)** has just **three components: ABSENCE of rebound tenderness/guarding, NORMAL haematocrit, and NORMAL serum creatinine.** **Serum calcium is NOT part of it** (calcium belongs to Ranson’s criteria).
 
 **UNDERSTAND:** HAPS is designed to be applied **within 30 minutes of admission** to identify — with ~98% accuracy — the patients who will have a **NON-severe course** and can be managed conservatively. It is a **rule-OUT tool**, which is why it uses only three quick bedside/basic parameters.
 
 **MUST KNOW:**
 
-- **RANSON'S criteria (the classic, but needs 48 hours to complete — a major limitation):** **on admission — GA LAW: Glucose >200, Age >55, LDH >350, AST >250, WBC >16 000**; **at 48 hours — C HOBBS: Calcium <8, Haematocrit fall >10%, pO2 <60, BUN rise >5, Base deficit >4, Sequestration of fluid >6 L.**
+- **RANSON’S criteria (the classic, but needs 48 hours to complete — a major limitation):** **on admission — GA LAW: Glucose >200, Age >55, LDH >350, AST >250, WBC >16 000**; **at 48 hours — C HOBBS: Calcium <8, Haematocrit fall >10%, pO2 <60, BUN rise >5, Base deficit >4, Sequestration of fluid >6 L.**
 - **BISAP (calculated in the first 24 hours): BUN >25, Impaired mental status, SIRS, Age >60, Pleural effusion.**
 - **The REVISED ATLANTA CLASSIFICATION is the current standard: MILD (no organ failure, no complications), MODERATELY SEVERE (transient organ failure <48 h or local complications), SEVERE (PERSISTENT organ failure >48 h)** — and it defines the local complications (acute peripancreatic fluid collection, pseudocyst, acute necrotic collection, walled-off necrosis).
 - **PERSISTENT ORGAN FAILURE is the single strongest determinant of mortality** — not the amylase level, which correlates poorly with severity and may be normal in **alcoholic and hypertriglyceridaemic** pancreatitis.
-- **Management essentials: AGGRESSIVE FLUID RESUSCITATION (lactated Ringer's is preferred over saline), analgesia, EARLY ENTERAL nutrition (not NBM — enteral feeding preserves gut barrier and reduces infection), and NO PROPHYLACTIC ANTIBIOTICS.** ERCP only for **cholangitis or persistent biliary obstruction**.
+- **Management essentials: AGGRESSIVE FLUID RESUSCITATION (lactated Ringer’s is preferred over saline), analgesia, EARLY ENTERAL nutrition (not NBM — enteral feeding preserves gut barrier and reduces infection), and NO PROPHYLACTIC ANTIBIOTICS.** ERCP only for **cholangitis or persistent biliary obstruction**.
 - **CECT is best delayed 72 hours** to assess necrosis (earlier scans underestimate it).
 
-**EXAM CONNECTION:** "All are components of HAPS EXCEPT" → **normal serum calcium**.
+**EXAM CONNECTION:** “All are components of HAPS EXCEPT” → **normal serum calcium**.
 
 **REMEMBER:** *HAPS is three things — no rebound, normal haematocrit, normal creatinine. Calcium belongs to Ranson.*
 
@@ -1926,13 +1926,13 @@
 
 **PEARL:** **ALT is the MOST SPECIFIC indicator of hepatocyte injury** (AST is also in heart, muscle, kidney and RBC). **ALBUMIN reflects CHRONIC liver disease (half-life 18–20 days).** **PROTHROMBIN TIME reflects ACUTE synthetic function** (short half-life factors) and measures **factors II, V, VII and X — NOT factor VIII**, which is made by endothelium, not the liver.
 
-**UNDERSTAND: **The panel splits into three questions:** "Are cells dying?" (ALT/AST) · "Is bile flow blocked?" (ALP, GGT, 5'-nucleotidase) · "Is the liver still working?" (albumin, PT/INR, bilirubin).** Only the third group measures **function** — the first two are markers of injury and are poor guides to severity.
+**UNDERSTAND: **The panel splits into three questions:** “Are cells dying?” (ALT/AST) · “Is bile flow blocked?” (ALP, GGT, 5’-nucleotidase) · “Is the liver still working?” (albumin, PT/INR, bilirubin).** Only the third group measures **function** — the first two are markers of injury and are poor guides to severity.
 
 **MUST KNOW:**
 
 - **A PROLONGED PT THAT DOES NOT CORRECT WITH VITAMIN K indicates hepatocellular failure and a POOR PROGNOSIS in both acute and chronic liver disease** — if it does correct, the problem was cholestasis/vitamin K deficiency, not synthetic failure.
 - **FACTOR VIII IS NORMAL OR RAISED IN LIVER DISEASE (endothelial origin) — this distinguishes hepatic coagulopathy from DIC**, where factor VIII is consumed and low. A genuinely useful discriminator.
-- **ISOLATED GGT ELEVATION with normal ALP does NOT mean cholestasis** — GGT is a **microsomal enzyme induced by ENZYME INDUCERS: barbiturates, phenytoin, carbamazepine, rifampicin, griseofulvin and ALCOHOL. Penicillin does NOT induce it.** GGT's real value is confirming that a raised ALP is hepatic rather than bony.
+- **ISOLATED GGT ELEVATION with normal ALP does NOT mean cholestasis** — GGT is a **microsomal enzyme induced by ENZYME INDUCERS: barbiturates, phenytoin, carbamazepine, rifampicin, griseofulvin and ALCOHOL. Penicillin does NOT induce it.** GGT’s real value is confirming that a raised ALP is hepatic rather than bony.
 - **HYPERGAMMAGLOBULINAEMIA (POLYCLONAL) is characteristic of chronic liver disease** — the failing reticuloendothelial system cannot clear gut-derived bacterial antigens, so B cells are chronically stimulated. Marked elevation suggests **autoimmune hepatitis**; the liver makes all other globulins but not gamma globulin.
 - **Fibrosis markers: HYALURONIC ACID, PROCOLLAGEN PEPTIDE III (PIIINP) and TIMP-1** (the ELF panel), FibroTest, and **TRANSIENT ELASTOGRAPHY (FibroScan)**. **TELOPEPTIDE is a marker of BONE resorption, not liver fibrosis.**
 - **TRANSJUGULAR liver biopsy is used when the percutaneous route is contraindicated — PROLONGED INR/coagulopathy, SIGNIFICANT ASCITES, morbid obesity, or difficult access** (bleeding then drains back into the hepatic vein). **SPLENOMEGALY is NOT an indication** — a percutaneous biopsy is perfectly safe.
@@ -1956,13 +1956,13 @@
 
 - **ALWAYS CHECK TOTAL IgA ALONGSIDE tTG-IgA** — **selective IgA deficiency is 10–15 times commoner in coeliac disease** and causes a **false-negative serology**; then use **IgG-based tests (IgG-DGP or IgG-tTG)**.
 - **Anti-ENDOMYSIAL antibody is the most SPECIFIC; tTG is the most SENSITIVE and is the practical screen.** Anti-gliadin antibodies are obsolete.
-- **The four clinical types: CLASSIC (diarrhoea, steatorrhoea, malabsorption) · ATYPICAL (POSITIVE serology with extraintestinal features — IRON DEFICIENCY ANAEMIA, osteopenia, ataxia, peripheral neuropathy, infertility, raised transaminases, dermatitis herpetiformis) · SILENT (positive serology and biopsy, no symptoms) · LATENT (HLA DQ2/DQ8 positive, currently normal biopsy).** **Atypical disease has POSITIVE, not negative, serology** — that is the exam's trap.
+- **The four clinical types: CLASSIC (diarrhoea, steatorrhoea, malabsorption) · ATYPICAL (POSITIVE serology with extraintestinal features — IRON DEFICIENCY ANAEMIA, osteopenia, ataxia, peripheral neuropathy, infertility, raised transaminases, dermatitis herpetiformis) · SILENT (positive serology and biopsy, no symptoms) · LATENT (HLA DQ2/DQ8 positive, currently normal biopsy).** **Atypical disease has POSITIVE, not negative, serology** — that is the exam’s trap.
 - **Site: PROXIMAL small intestine (duodenum/jejunum) predominance** — hence iron and folate deficiency (proximally absorbed) rather than B12 deficiency.
 - **Complications: ENTEROPATHY-ASSOCIATED T-CELL LYMPHOMA (EATL) and small bowel adenocarcinoma, ULCERATIVE JEJUNOILEITIS, COLLAGENOUS SPRUE, refractory sprue, and osteoporosis. PANCREATIC INSUFFICIENCY is NOT a complication.**
 - **HLA DQ2/DQ8 has a high NEGATIVE predictive value — a negative result virtually excludes coeliac disease**, which is its main use.
 - **TROPICAL SPRUE is the key Indian differential — clinically, endoscopically and histologically similar but with NEGATIVE coeliac serology, PANINTESTINAL involvement, and B12/folate deficiency; treat with tetracycline and folate.**
 
-**EXAM CONNECTION:** Positive tTG → "next best step" → **intestinal biopsy** (not "start gluten-free diet").
+**EXAM CONNECTION:** Positive tTG → “next best step” → **intestinal biopsy** (not “start gluten-free diet”).
 
 **REMEMBER:** *Serology screens, biopsy confirms, diet comes last — and always check the IgA level.*
 
@@ -1973,15 +1973,15 @@
 
 ---
 
-### 82. Whipple's Disease
+### 82. Whipple’s Disease
 
 **PEARL:** ***Tropheryma whipplei*** — chronic **diarrhoea, weight loss, ARTHRALGIA (often preceding the gut symptoms by years) and fever**, with duodenal biopsy showing **PAS-POSITIVE FOAMY MACROPHAGES in the lamina propria**. **Treatment: INDUCTION with ceftriaxone (or meropenem/penicillin G + streptomycin) for 2 weeks, then MAINTENANCE with CO-TRIMOXAZOLE for 1 YEAR.**
 
-**UNDERSTAND:** **Co-trimoxazole is chosen for maintenance specifically because it PENETRATES THE CNS** — relapse in Whipple's disease characteristically occurs in the **brain**, where most antibiotics do not reach, and CNS relapse is often **fatal and irreversible**. The entire treatment strategy is designed around that sanctuary site.
+**UNDERSTAND:** **Co-trimoxazole is chosen for maintenance specifically because it PENETRATES THE CNS** — relapse in Whipple’s disease characteristically occurs in the **brain**, where most antibiotics do not reach, and CNS relapse is often **fatal and irreversible**. The entire treatment strategy is designed around that sanctuary site.
 
 **MUST KNOW:**
 
-- **CNS manifestations: PROGRESSIVE DEMENTIA is the COMMONEST**, plus personality change, **progressive supranuclear ophthalmoplegia**, and the **PATHOGNOMONIC "OCULOMASTICATORY MYORRHYTHMIA"** — rhythmic convergent eye movements synchronised with jaw contractions (also oculo-facial-skeletal myorrhythmia). **These are pathognomonic and appear in no other disease.**
+- **CNS manifestations: PROGRESSIVE DEMENTIA is the COMMONEST**, plus personality change, **progressive supranuclear ophthalmoplegia**, and the **PATHOGNOMONIC “OCULOMASTICATORY MYORRHYTHMIA”** — rhythmic convergent eye movements synchronised with jaw contractions (also oculo-facial-skeletal myorrhythmia). **These are pathognomonic and appear in no other disease.**
 - **CARDIOVASCULAR: CULTURE-NEGATIVE ENDOCARDITIS is the commonest cardiac manifestation** — an important cause to remember alongside Coxiella, Bartonella and HACEK.
 - **A middle-aged MAN with seronegative arthritis, weight loss and diarrhoea should prompt this diagnosis** — the arthralgia frequently precedes everything else by **5–10 years**, and patients are often treated as seronegative arthritis (and given immunosuppression, which is catastrophic).
 - **Site: PROXIMAL small intestine more than distal.** Compare with **tropical sprue — PANINTESTINAL** and **coeliac — PROXIMAL predominance**.
@@ -2004,19 +2004,19 @@
 
 **PEARL:** **SMALL BOWEL (right-sided): LARGE-VOLUME, watery stools, a MODEST increase in frequency, periumbilical cramping — with NO urgency, NO tenesmus, NO mucus and NO blood.** **LARGE BOWEL (left-sided/colonic): SMALL-VOLUME stools, a LARGE increase in frequency, with URGENCY, TENESMUS, MUCUS and BLOOD.**
 
-**UNDERSTAND:** The difference is **reservoir capacity**. The colon's job is storage; when it is inflamed, its capacity and compliance collapse, so even small volumes trigger the urge to defaecate — producing **frequency, urgency and tenesmus**. The small bowel has no storage role, so disease there produces **volume**, and the intact colon still allows the stool to be held.
+**UNDERSTAND:** The difference is **reservoir capacity**. The colon’s job is storage; when it is inflamed, its capacity and compliance collapse, so even small volumes trigger the urge to defaecate — producing **frequency, urgency and tenesmus**. The small bowel has no storage role, so disease there produces **volume**, and the intact colon still allows the stool to be held.
 
 **MUST KNOW:**
 
 - **The presence of BLOOD, MUCUS and TENESMUS localises disease to the COLON and points to an INVASIVE/INFLAMMATORY cause: *Shigella*, *Campylobacter*, EIEC/EHEC, *Entamoeba histolytica*, *C. difficile*, and inflammatory bowel disease.** Proctosigmoidoscopy is usually abnormal.
 - **Large-volume watery diarrhoea without blood points to the small bowel and to SECRETORY or OSMOTIC mechanisms: cholera and ETEC (secretory), viral gastroenteritis, giardiasis, coeliac disease and lactose intolerance.**
 - **Classify diarrhoea mechanistically:** **OSMOTIC — stops with fasting, high stool osmotic gap** (lactose intolerance, magnesium, lactulose); **SECRETORY — persists with FASTING and at NIGHT, normal osmotic gap** (cholera, VIPoma, carcinoid, bile salts); **INFLAMMATORY — blood, pus, fever, raised faecal calprotectin**; **motility-related** (IBS, thyrotoxicosis, diabetic autonomic neuropathy).
-- **"Persists with fasting" is the single most useful bedside discriminator** for secretory diarrhoea.
+- **“Persists with fasting” is the single most useful bedside discriminator** for secretory diarrhoea.
 - **STEATORRHOEA (pale, bulky, greasy, offensive, floating stools) means fat malabsorption** — pancreatic insufficiency, coeliac disease, bacterial overgrowth or bile salt deficiency.
 - **SHORT BOWEL SYNDROME: the commonest cause in ADULTS is MESENTERIC VASCULAR OCCLUSION; in CHILDREN it is NECROTISING ENTEROCOLITIS.**
 - **Protein malabsorption is rare and essentially limited to pancreatic insufficiency plus three genetic transport defects: ENTEROKINASE deficiency, HARTNUP disease and CYSTINURIA. Homocystinuria is a METABOLIC disorder, not a malabsorption one.**
 
-**EXAM CONNECTION:** "Large bowel diarrhoea is associated with all EXCEPT" → **large volume stool**.
+**EXAM CONNECTION:** “Large bowel diarrhoea is associated with all EXCEPT” → **large volume stool**.
 
 **REMEMBER:** *Small bowel gives you volume; large bowel gives you urgency, mucus and blood.*
 
@@ -2026,19 +2026,19 @@
 
 ### 84. Ulcerative Colitis — Imaging and Pattern
 
-**PEARL:** UC involves the **RECTUM and extends PROXIMALLY and CONTINUOUSLY**. Imaging shows **LOSS OF HAUSTRATIONS producing the "LEAD PIPE" colon**, with mucosal granularity, **pseudopolyps**, and engorged mesenteric vessels (the "**comb sign**" is more typical of Crohn's).
+**PEARL:** UC involves the **RECTUM and extends PROXIMALLY and CONTINUOUSLY**. Imaging shows **LOSS OF HAUSTRATIONS producing the “LEAD PIPE” colon**, with mucosal granularity, **pseudopolyps**, and engorged mesenteric vessels (the “**comb sign**” is more typical of Crohn’s).
 
-**UNDERSTAND:** UC is a **MUCOSAL** disease of the colon only, spreading **continuously** from the rectum — so chronic inflammation destroys the muscularis mucosae and haustral folds uniformly, leaving a **smooth, shortened, tubular colon**. Crohn's is **transmural and patchy**, which is why it produces **skip lesions, strictures, fistulae and cobblestoning** instead.
+**UNDERSTAND:** UC is a **MUCOSAL** disease of the colon only, spreading **continuously** from the rectum — so chronic inflammation destroys the muscularis mucosae and haustral folds uniformly, leaving a **smooth, shortened, tubular colon**. Crohn’s is **transmural and patchy**, which is why it produces **skip lesions, strictures, fistulae and cobblestoning** instead.
 
 **MUST KNOW:**
 
-- **UC vs CROHN'S — the discriminating table: UC — rectum ALWAYS involved, continuous, MUCOSAL only, colon only, CRYPT ABSCESSES with goblet cell depletion, NO granulomas, bloody diarrhoea with tenesmus, p-ANCA positive, SMOKING is PROTECTIVE, and colectomy is CURATIVE.** **CROHN'S — mouth to anus (terminal ileum commonest), SKIP lesions, TRANSMURAL, NON-CASEATING GRANULOMAS, fistulae/strictures/perianal disease, ASCA positive, SMOKING WORSENS it, and surgery is never curative.**
+- **UC vs CROHN’S — the discriminating table: UC — rectum ALWAYS involved, continuous, MUCOSAL only, colon only, CRYPT ABSCESSES with goblet cell depletion, NO granulomas, bloody diarrhoea with tenesmus, p-ANCA positive, SMOKING is PROTECTIVE, and colectomy is CURATIVE.** **CROHN’S — mouth to anus (terminal ileum commonest), SKIP lesions, TRANSMURAL, NON-CASEATING GRANULOMAS, fistulae/strictures/perianal disease, ASCA positive, SMOKING WORSENS it, and surgery is never curative.**
 - **TOXIC MEGACOLON is the acute emergency: transverse colon >6 cm with systemic toxicity** — **AVOID antidiarrhoeals, opioids and anticholinergics**, and do not perform colonoscopy or barium enema (risk of perforation).
 - **Colorectal cancer surveillance from 8–10 years after diagnosis** of extensive colitis — risk rises with duration, extent and **primary sclerosing cholangitis** (which mandates annual surveillance from diagnosis).
 - **Extraintestinal manifestations: those that PARALLEL disease activity — peripheral arthritis, erythema nodosum, episcleritis; and those that DO NOT — ankylosing spondylitis, PYODERMA GANGRENOSUM, uveitis, and PRIMARY SCLEROSING CHOLANGITIS (strongly UC-associated).**
 - **Treatment ladder: 5-ASA (mesalamine) → steroids for flares → azathioprine/6-MP → biologics (anti-TNF, vedolizumab, ustekinumab) or JAK inhibitors.**
 
-**EXAM CONNECTION:** CT showing an **ahaustral ("lead pipe") colon** with chronic diarrhoea → **ulcerative colitis**.
+**EXAM CONNECTION:** CT showing an **ahaustral (“lead pipe”) colon** with chronic diarrhoea → **ulcerative colitis**.
 
 **REMEMBER:** *Continuous from the rectum, mucosal only, and the colon ends up a smooth lead pipe.*
 
@@ -2060,10 +2060,10 @@
 - **PEUTZ–JEGHERS: autosomal dominant, MUCOCUTANEOUS PIGMENTATION (perioral, buccal mucosa, fingers) plus HAMARTOMATOUS polyps throughout the gut** — which characteristically cause **INTUSSUSCEPTION and obstruction in childhood/adolescence**, and **bleeding**. The polyps themselves are hamartomas with an **arborising smooth muscle core**, and are not the main malignant precursor — the risk is of cancer at many sites (breast, ovary — **SEX CORD TUMOUR WITH ANNULAR TUBULES**, testis, pancreas, colon).
 - **The other polyposis syndromes: FAP (APC, >100 adenomas, 100% colon cancer by 40 — prophylactic colectomy; GARDNER = FAP + osteomas + desmoids + epidermoid cysts; TURCOT = FAP + CNS tumours). JUVENILE POLYPOSIS (SMAD4/BMPR1A). COWDEN (PTEN — trichilemmomas, breast and thyroid cancer). LYNCH/HNPCC (mismatch repair — right-sided colon, endometrial, ovarian, gastric, urothelial; Amsterdam and Bethesda criteria).**
 - **Other pancreatic cancer risk factors: SMOKING (the strongest modifiable factor), chronic pancreatitis, obesity, and NEW-ONSET DIABETES in an elderly, thin patient with weight loss and no family history** — which is a red flag for occult pancreatic cancer rather than ordinary type 2 diabetes.
-- **Pancreatic adenocarcinoma is commonest in the HEAD, presents with PAINLESS OBSTRUCTIVE JAUNDICE and a palpable gallbladder (COURVOISIER'S LAW), and its marker is CA 19-9** (which is falsely low in Lewis-antigen-negative individuals).
-- **TROUSSEAU'S SIGN OF MALIGNANCY — migratory thrombophlebitis — is classically associated with pancreatic cancer.**
+- **Pancreatic adenocarcinoma is commonest in the HEAD, presents with PAINLESS OBSTRUCTIVE JAUNDICE and a palpable gallbladder (COURVOISIER’S LAW), and its marker is CA 19-9** (which is falsely low in Lewis-antigen-negative individuals).
+- **TROUSSEAU’S SIGN OF MALIGNANCY — migratory thrombophlebitis — is classically associated with pancreatic cancer.**
 
-**EXAM CONNECTION:** "Highest association with pancreatic cancer" → **Peutz–Jeghers syndrome**.
+**EXAM CONNECTION:** “Highest association with pancreatic cancer” → **Peutz–Jeghers syndrome**.
 
 **REMEMBER:** *Freckled lips and gut hamartomas carry the steepest pancreatic cancer risk of any syndrome.*
 
@@ -2075,7 +2075,7 @@
 
 **PEARL:** **FIBROTEST is a validated non-invasive blood panel that DETECTS hepatic fibrosis** — combining **haptoglobin, bilirubin, GGT, apolipoprotein A-I and α2-macroglobulin**. The **APRI (AST/platelet ratio index) and the FORNS index estimate RISK** rather than confirming fibrosis, and **TRANSIENT ELASTOGRAPHY (FibroScan)** measures liver stiffness directly.
 
-**UNDERSTAND:** These panels work because **fibrosis changes the liver's synthetic and clearance functions before it changes the enzymes** — α2-macroglobulin rises as stellate cells activate, haptoglobin and apolipoprotein A-I fall with reduced hepatocyte synthesis. Combining several such shifts outperforms any single test, which is why the score is a panel rather than one marker.
+**UNDERSTAND:** These panels work because **fibrosis changes the liver’s synthetic and clearance functions before it changes the enzymes** — α2-macroglobulin rises as stellate cells activate, haptoglobin and apolipoprotein A-I fall with reduced hepatocyte synthesis. Combining several such shifts outperforms any single test, which is why the score is a panel rather than one marker.
 
 **MUST KNOW:**
 
@@ -2086,7 +2086,7 @@
 - **These tools matter clinically because FIBROSIS STAGE — not the degree of steatosis or the transaminase level — is the strongest predictor of liver-related mortality in NAFLD.**
 - **NAFLD is now the commonest chronic liver disease worldwide**; management is weight loss (7–10% reverses steatohepatitis), control of diabetes and lipids, plus pioglitazone/vitamin E in selected patients.
 
-**EXAM CONNECTION:** "Non-invasive test to DETECT hepatic fibrosis" → **FibroTest**.
+**EXAM CONNECTION:** “Non-invasive test to DETECT hepatic fibrosis” → **FibroTest**.
 
 **REMEMBER:** *Platelets fall and stiffness rises long before the biopsy is taken.*
 
@@ -2102,11 +2102,11 @@
 
 **MUST KNOW:**
 
-- **The logic in one line: ABNORMAL D-xylose → MUCOSAL disease (coeliac, tropical sprue, Whipple's, lymphangiectasia, bacterial overgrowth). NORMAL D-xylose with steatorrhoea → DIGESTIVE failure (chronic pancreatitis, cystic fibrosis, bile salt deficiency) or ILEAL disease.**
+- **The logic in one line: ABNORMAL D-xylose → MUCOSAL disease (coeliac, tropical sprue, Whipple’s, lymphangiectasia, bacterial overgrowth). NORMAL D-xylose with steatorrhoea → DIGESTIVE failure (chronic pancreatitis, cystic fibrosis, bile salt deficiency) or ILEAL disease.**
 - **An abnormal D-xylose test that CORRECTS after antibiotics indicates SMALL INTESTINAL BACTERIAL OVERGROWTH** (the bacteria metabolise the xylose).
-- **PANCREATIC EXOCRINE INSUFFICIENCY needs ~90% of the gland to be lost before steatorrhoea appears** — an enormous functional reserve. Modern tests are **FAECAL ELASTASE-1 (low) and faecal fat**; treat with **PANCREATIC ENZYME REPLACEMENT plus FAT-SOLUBLE VITAMINS (A, D, E, K)**. Chronic pancreatitis on imaging shows **calcification and a dilated, beaded "chain of lakes" duct**.
+- **PANCREATIC EXOCRINE INSUFFICIENCY needs ~90% of the gland to be lost before steatorrhoea appears** — an enormous functional reserve. Modern tests are **FAECAL ELASTASE-1 (low) and faecal fat**; treat with **PANCREATIC ENZYME REPLACEMENT plus FAT-SOLUBLE VITAMINS (A, D, E, K)**. Chronic pancreatitis on imaging shows **calcification and a dilated, beaded “chain of lakes” duct**.
 - **Coeliac disease: anti-tTG IgA (with total IgA), duodenal biopsy showing VILLOUS ATROPHY, CRYPT HYPERPLASIA and INTRAEPITHELIAL LYMPHOCYTOSIS (Marsh grading); HLA-DQ2/DQ8; associated DERMATITIS HERPETIFORMIS, and a risk of ENTEROPATHY-ASSOCIATED T-CELL LYMPHOMA.**
-- **Terminal ileal disease (Crohn's, resection, TB) causes B12 deficiency AND bile-salt diarrhoea AND gallstones AND oxalate renal stones** — the four consequences worth remembering together.
+- **Terminal ileal disease (Crohn’s, resection, TB) causes B12 deficiency AND bile-salt diarrhoea AND gallstones AND oxalate renal stones** — the four consequences worth remembering together.
 
 **EXAM CONNECTION:** Read the three tests as a filter — mucosa (xylose), histology (biopsy), ileum/pancreas (Schilling).
 
@@ -2118,27 +2118,27 @@
 
 ### 88. The Kayser–Fleischer Ring
 
-**PEARL:** The KF ring is **copper deposited in DESCEMET'S MEMBRANE**, appearing **FIRST at the SUPERIOR pole, then the INFERIOR, and finally becoming circumferential.** It is present in **~95% of Wilson's disease with NEUROLOGICAL involvement but only ~65% with HEPATIC presentation** — so **its absence never excludes hepatic Wilson's disease**. It **disappears with CHELATION (D-PENICILLAMINE — not desferrioxamine, which chelates iron).**
+**PEARL:** The KF ring is **copper deposited in DESCEMET’S MEMBRANE**, appearing **FIRST at the SUPERIOR pole, then the INFERIOR, and finally becoming circumferential.** It is present in **~95% of Wilson’s disease with NEUROLOGICAL involvement but only ~65% with HEPATIC presentation** — so **its absence never excludes hepatic Wilson’s disease**. It **disappears with CHELATION (D-PENICILLAMINE — not desferrioxamine, which chelates iron).**
 
-**UNDERSTAND:** Neurological Wilson's disease occurs only after the **liver's storage capacity is exhausted and copper spills into the circulation** — so by the time the brain is involved, copper has been deposited everywhere, including the cornea. **Hepatic disease can present earlier, while copper is still largely confined to the liver** — which is exactly why the ring may be absent. The ring's presence is a marker of **systemic overflow**, not of severity.
+**UNDERSTAND:** Neurological Wilson’s disease occurs only after the **liver’s storage capacity is exhausted and copper spills into the circulation** — so by the time the brain is involved, copper has been deposited everywhere, including the cornea. **Hepatic disease can present earlier, while copper is still largely confined to the liver** — which is exactly why the ring may be absent. The ring’s presence is a marker of **systemic overflow**, not of severity.
 
 **MUST KNOW:**
 
-- **KF rings are NOT unique to Wilson's disease** — they also occur in **PRIMARY BILIARY CHOLANGITIS, PRIMARY SCLEROSING CHOLANGITIS and other chronic CHOLESTASIS**, because biliary excretion is the only route for copper. This is the commonest trap in the question.
+- **KF rings are NOT unique to Wilson’s disease** — they also occur in **PRIMARY BILIARY CHOLANGITIS, PRIMARY SCLEROSING CHOLANGITIS and other chronic CHOLESTASIS**, because biliary excretion is the only route for copper. This is the commonest trap in the question.
 - **They are best seen on SLIT-LAMP examination** (gonioscopy may be needed early); they are golden-brown to greenish-brown.
-- **Wilson's disease: autosomal recessive, ATP7B on CHROMOSOME 13 — a copper-transporting ATPase needed both to excrete copper into bile and to load it onto caeruloplasmin.**
+- **Wilson’s disease: autosomal recessive, ATP7B on CHROMOSOME 13 — a copper-transporting ATPase needed both to excrete copper into bile and to load it onto caeruloplasmin.**
 - **Biochemistry: LOW serum CAERULOPLASMIN, LOW total serum copper but HIGH FREE copper, HIGH 24-HOUR URINARY COPPER (the most useful screening test), and a raised HEPATIC COPPER on biopsy (the gold standard, >250 µg/g dry weight).**
-- **Neurological features: tremor (classically "WING-BEATING"), dysarthria, dystonia, parkinsonism, and prominent PSYCHIATRIC/behavioural change. MRI shows the "FACE OF THE GIANT PANDA" in the midbrain.** **Every young person with a movement disorder, unexplained liver disease, or new psychiatric illness needs Wilson's excluded.**
+- **Neurological features: tremor (classically “WING-BEATING”), dysarthria, dystonia, parkinsonism, and prominent PSYCHIATRIC/behavioural change. MRI shows the “FACE OF THE GIANT PANDA” in the midbrain.** **Every young person with a movement disorder, unexplained liver disease, or new psychiatric illness needs Wilson’s excluded.**
 
 ![[OIP-1254309618.jpg]]
 
-- **Suspect Wilson's in FULMINANT HEPATIC FAILURE with COOMBS-NEGATIVE HAEMOLYTIC ANAEMIA and a LOW alkaline phosphatase** (an ALP:bilirubin ratio <4 is highly suggestive) — this presentation needs urgent transplantation.
+- **Suspect Wilson’s in FULMINANT HEPATIC FAILURE with COOMBS-NEGATIVE HAEMOLYTIC ANAEMIA and a LOW alkaline phosphatase** (an ALP:bilirubin ratio <4 is highly suggestive) — this presentation needs urgent transplantation.
 - **Treatment: chelation with D-PENICILLAMINE (give PYRIDOXINE with it; beware initial neurological worsening, nephrotic syndrome, lupus-like reactions and marrow suppression) or TRIENTINE; ZINC blocks intestinal absorption by inducing metallothionein and is used for maintenance and in presymptomatic patients. Treatment is LIFELONG; liver transplant is curative.**
 - **SUNFLOWER CATARACT is the other ocular sign, and also reverses with chelation.**
 
-**EXAM CONNECTION:** Multi-statement question → true statements are **"seen in nearly all with neurological involvement"** and **"superior and inferior pole of Descemet's membrane"**.
+**EXAM CONNECTION:** Multi-statement question → true statements are **“seen in nearly all with neurological involvement”** and **“superior and inferior pole of Descemet’s membrane”**.
 
-**REMEMBER:** *Copper in Descemet's, superior pole first — nearly always with neurology, only two-thirds with liver disease.*
+**REMEMBER:** *Copper in Descemet’s, superior pole first — nearly always with neurology, only two-thirds with liver disease.*
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/af5e1b00249b45648917b1cc46d266bfx720x632.PNG)
@@ -2156,14 +2156,14 @@
 **MUST KNOW:**
 
 - Diagnosis requires **fasting gastrin raised WITH gastric pH <2** (an acidic stomach proves the gastrin is inappropriate). **Stop PPIs for a week** before testing — they are the commonest cause of a falsely raised gastrin. A fasting gastrin **>1000 pg/mL with acid pH is diagnostic** without a secretin test.
-- **Localisation:** **CT + endoscopic ultrasound**, then **somatostatin receptor scintigraphy or ⁶⁸Ga-DOTATATE PET** (most sensitive). Most gastrinomas lie in the **"gastrinoma triangle"** (junctions of cystic/CBD, 2nd–3rd duodenum, neck/body of pancreas); **duodenal primaries are commonest** and are often tiny and multiple.
+- **Localisation:** **CT + endoscopic ultrasound**, then **somatostatin receptor scintigraphy or ⁶⁸Ga-DOTATATE PET** (most sensitive). Most gastrinomas lie in the **“gastrinoma triangle”** (junctions of cystic/CBD, 2nd–3rd duodenum, neck/body of pancreas); **duodenal primaries are commonest** and are often tiny and multiple.
 - **20–25% are part of MEN-1** — check **serum calcium/PTH and prolactin**; in MEN-1 the tumours are multiple and the **hyperparathyroidism is treated first** (parathyroidectomy lowers gastrin).
 - Clinical clues: severe **diarrhoea and steatorrhoea** (acid inactivates pancreatic lipase), reflux, and ulcers **distal to the duodenal bulb**.
 - Treatment: **high-dose PPI** for symptoms + **surgical resection** for sporadic localised disease.
 
-**EXAM CONNECTION:** The question is almost always "next best investigation" after a raised gastrin — the answer is the **secretin test**, not imaging and not biopsy.
+**EXAM CONNECTION:** The question is almost always “next best investigation” after a raised gastrin — the answer is the **secretin test**, not imaging and not biopsy.
 
-**REMEMBER:** *Secretin should switch gastrin OFF — if it goes up, it's a gastrinoma.*
+**REMEMBER:** *Secretin should switch gastrin OFF — if it goes up, it’s a gastrinoma.*
 
 `Q10834`
 
@@ -2179,7 +2179,7 @@
 
 - **Weight-loss targets: 3–5% reverses steatosis; 7–10% improves NECROINFLAMMATION and fibrosis.** Mediterranean diet, exercise, avoid fructose and alcohol; treat diabetes, dyslipidaemia and hypertension. **Statins are SAFE and indicated** in NAFLD despite the raised transaminases.
 - **Vitamin E 800 IU/day** improves histology in **non-diabetic, biopsy-proven NASH**; long-term concerns include prostate cancer and haemorrhagic stroke. **Pioglitazone** improves NASH histology (used off-label, especially in type 2 diabetes) but causes weight gain, oedema and fracture risk. **GLP-1 agonists (semaglutide) and resmetirom** are the emerging therapies.
-- **AST:ALT ratio <1 in NAFLD; >2:1 suggests ALCOHOLIC liver disease** ("**A**ST = **A**lcohol). A rising ratio in NAFLD suggests advanced fibrosis.
+- **AST:ALT ratio <1 in NAFLD; >2:1 suggests ALCOHOLIC liver disease** (“**A**ST = **A**lcohol”). A rising ratio in NAFLD suggests advanced fibrosis.
 - Non-invasive fibrosis assessment: **FIB-4 and NAFLD fibrosis score**, then **transient elastography (FibroScan)**; **biopsy remains the gold standard** for diagnosing NASH.
 - **NAFLD is now the commonest cause of chronic liver disease worldwide** and a rising indication for transplantation; it causes **HCC even without cirrhosis**. The commonest cause of death in NAFLD is **cardiovascular disease**, not liver disease.
 - Exclude other causes of steatosis: alcohol, **hepatitis C genotype 3**, Wilson disease, drugs (**amiodarone, tamoxifen, methotrexate, steroids, valproate, antiretrovirals**), and rapid weight loss/TPN.
@@ -2206,7 +2206,7 @@
 - **Gastrinoma (ZES):** high gastrin **with acid pH** and a **paradoxical rise after SECRETIN**; **BAO/MAO ratio >0.6**.
 - Achlorhydria also causes **iron malabsorption** (acid is needed to reduce Fe³⁺ to Fe²⁺) and **bacterial overgrowth** — the same reason long-term **PPIs** increase the risk of *C. difficile* and enteric infections.
 
-**EXAM CONNECTION:** "Which will NOT secrete acid after pentagastrin?" — the answer is the condition with **no parietal cells**. Every other option has an intact or hyperactive parietal cell mass.
+**EXAM CONNECTION:** “Which will NOT secrete acid after pentagastrin?” — the answer is the condition with **no parietal cells**. Every other option has an intact or hyperactive parietal cell mass.
 
 **REMEMBER:** *You cannot stimulate cells that are no longer there.*
 
@@ -2233,7 +2233,7 @@
 | Serology      | **ASCA positive**                                                                                                                     | **p-ANCA positive**                                          |
 | Surgery       | **Not curative** — recurs at the anastomosis; resect conservatively                                                                   | **Colectomy is CURATIVE**                                    |
 
-- **Shared extra-intestinal features: erythema nodosum, pyoderma gangrenosum, anterior uveitis/episcleritis, arthritis, and PRIMARY SCLEROSING CHOLANGITIS (strongly linked to UC — "beading" on MRCP, and a marker for cholangiocarcinoma and colorectal cancer).**
+- **Shared extra-intestinal features: erythema nodosum, pyoderma gangrenosum, anterior uveitis/episcleritis, arthritis, and PRIMARY SCLEROSING CHOLANGITIS (strongly linked to UC — “beading” on MRCP, and a marker for cholangiocarcinoma and colorectal cancer).**
 - **Cancer surveillance colonoscopy from 8–10 years after the onset of extensive colitis.**
 - **Medical management: 5-ASA (mesalazine — mainstay in UC, little use in Crohn), corticosteroids for flares, AZATHIOPRINE/6-MP and methotrexate for maintenance, and ANTI-TNF (infliximab, adalimumab), vedolizumab or ustekinumab in refractory disease.** **Anti-TNF agents are particularly effective for FISTULISING Crohn disease.**
 - **Toxic megacolon: transverse colon >6 cm with systemic toxicity — AVOID antidiarrhoeals and colonoscopy; treat with IV steroids and consider urgent colectomy.**
@@ -2248,13 +2248,13 @@
 
 ### 93. Infectious Oesophagitis at Endoscopy
 
-**PEARL:** **Large, LINEAR or SERPIGINOUS (snake-like) shallow ulcers in the DISTAL oesophagus = CMV OESOPHAGITIS.** **Small, punched-out "VOLCANO-like" ulcers = HSV.** **White adherent plaques that scrape off = CANDIDA.**
+**PEARL:** **Large, LINEAR or SERPIGINOUS (snake-like) shallow ulcers in the DISTAL oesophagus = CMV OESOPHAGITIS.** **Small, punched-out “VOLCANO-like” ulcers = HSV.** **White adherent plaques that scrape off = CANDIDA.**
 
 **UNDERSTAND:** The morphology reflects **which cell each pathogen infects**. **CMV infects ENDOTHELIAL and mesenchymal cells deep in the ulcer base**, so it destroys tissue from below and produces **broad, deep, coalescing ulcers** — and biopsies must be taken **from the ULCER BASE**. **HSV infects SQUAMOUS EPITHELIAL cells at the margin**, so it makes **shallow, small, discrete ulcers with heaped-up edges**, and biopsies are taken **from the EDGE**. **Candida grows ON the mucosal surface**, forming a removable pseudomembrane.
 
 **MUST KNOW:**
 
-- **Histology: CMV — large cells with "OWL'S EYE" INTRANUCLEAR inclusions and cytoplasmic inclusions; HSV — COWDRY TYPE A intranuclear inclusions, multinucleate giant cells with nuclear moulding; Candida — pseudohyphae on PAS/silver stain.**
+- **Histology: CMV — large cells with “OWL’S EYE” INTRANUCLEAR inclusions and cytoplasmic inclusions; HSV — COWDRY TYPE A intranuclear inclusions, multinucleate giant cells with nuclear moulding; Candida — pseudohyphae on PAS/silver stain.**
 - **Treatment: CMV → GANCICLOVIR/valganciclovir (foscarnet if resistant or with marrow suppression); HSV → ACICLOVIR; Candida → FLUCONAZOLE (systemic, not topical, for oesophageal disease).**
 - **Almost always in the IMMUNOCOMPROMISED — HIV with CD4 <100 (CMV), transplant recipients, chemotherapy, high-dose steroids and diabetes.** **Oesophageal candidiasis is an AIDS-defining illness** and, in an HIV-positive patient with dysphagia and oral thrush, is treated **empirically** — endoscopy only if there is no response.
 - **Idiopathic (aphthous) HIV ulcers** are large ulcers with negative biopsies for CMV/HSV — treated with **steroids or thalidomide**.
@@ -2272,7 +2272,7 @@
 
 **PEARL:** **BULEVIRTIDE is the first-in-class ENTRY INHIBITOR for chronic hepatitis D** — it binds the **sodium taurocholate cotransporting polypeptide (NTCP)** receptor on hepatocytes, the shared entry portal for **both HBV and HDV**.
 
-**UNDERSTAND:** HDV is a **defective (satellite) RNA virus** that cannot make its own envelope — it borrows **HBsAg**, so it can only infect someone who already has HBV, and it enters cells by the same HBsAg–NTCP interaction. Blocking NTCP therefore stops HDV spreading to uninfected hepatocytes without needing to target the virus's own replication machinery. That dependence also explains the central prevention fact: **the hepatitis B vaccine prevents hepatitis D**.
+**UNDERSTAND:** HDV is a **defective (satellite) RNA virus** that cannot make its own envelope — it borrows **HBsAg**, so it can only infect someone who already has HBV, and it enters cells by the same HBsAg–NTCP interaction. Blocking NTCP therefore stops HDV spreading to uninfected hepatocytes without needing to target the virus’s own replication machinery. That dependence also explains the central prevention fact: **the hepatitis B vaccine prevents hepatitis D**.
 
 **MUST KNOW:**
 
@@ -2284,7 +2284,7 @@
 
 **EXAM CONNECTION:** New-drug recall. **Entry inhibitor + hepatitis D = bulevirtide**; the distractors are drugs for HBV and HIV.
 
-**REMEMBER:** *HDV borrows HBV's coat and its doorway — block the doorway (NTCP).*
+**REMEMBER:** *HDV borrows HBV’s coat and its doorway — block the doorway (NTCP).*
 
 `Q11798`
 
@@ -2330,17 +2330,17 @@
 
 **PEARL:** **SALICYLATE poisoning causes a HIGH anion gap acidosis.** **Proximal (type 2) RTA, severe DIARRHOEA and pancreatic/small bowel fistula losses cause a NORMAL (hyperchloraemic) anion gap acidosis.**
 
-**UNDERSTAND:** The distinction is simply **"added acid" versus "lost bicarbonate"**. **Adding an unmeasured acid anion (lactate, ketones, salicylate, oxalate) WIDENS the gap.** **Losing bicarbonate (from gut or kidney) is compensated by retaining CHLORIDE, so the gap stays NORMAL** — hence "hyperchloraemic acidosis". Ask "where did the bicarbonate go?" and the classification follows.
+**UNDERSTAND:** The distinction is simply **“added acid” versus “lost bicarbonate”**. **Adding an unmeasured acid anion (lactate, ketones, salicylate, oxalate) WIDENS the gap.** **Losing bicarbonate (from gut or kidney) is compensated by retaining CHLORIDE, so the gap stays NORMAL** — hence “hyperchloraemic acidosis”. Ask “where did the bicarbonate go?” and the classification follows.
 
 **MUST KNOW:**
 
-- **HIGH anion gap — "MUDPILES": Methanol, Uraemia, DKA, Propylene glycol/Paraldehyde, Isoniazid/Iron, Lactic acidosis, Ethylene glycol, SALICYLATES.**
-- **NORMAL anion gap — "HARDUPS": Hyperalimentation, Acetazolamide, RTA, Diarrhoea, Ureteroenteric fistula, Pancreatic fistula, Spironolactone/saline.**
+- **HIGH anion gap — “MUDPILES”: Methanol, Uraemia, DKA, Propylene glycol/Paraldehyde, Isoniazid/Iron, Lactic acidosis, Ethylene glycol, SALICYLATES.**
+- **NORMAL anion gap — “HARDUPS”: Hyperalimentation, Acetazolamide, RTA, Diarrhoea, Ureteroenteric fistula, Pancreatic fistula, Spironolactone/saline.**
 - **SALICYLATE poisoning classically gives a MIXED picture: an early RESPIRATORY ALKALOSIS (direct stimulation of the respiratory centre) PLUS a high anion gap METABOLIC ACIDOSIS (uncoupling of oxidative phosphorylation and accumulation of lactate/ketoacids).** Treat with **urinary ALKALINISATION (sodium bicarbonate) to trap the ionised drug** and **haemodialysis** in severe cases; expect **hyperthermia, tinnitus and non-cardiogenic pulmonary oedema**.
 - **Distinguish the RTAs: TYPE 1 (distal) — cannot acidify urine (pH >5.5), HYPOkalaemia, CALCIUM PHOSPHATE STONES and nephrocalcinosis. TYPE 2 (proximal) — bicarbonate wasting, urine pH variable, HYPOkalaemia, associated FANCONI syndrome and RICKETS/osteomalacia, NO stones. TYPE 4 — hypoaldosteronism, the only one with HYPERkalaemia, seen in diabetic nephropathy.**
 - **Always calculate the DELTA-DELTA (ΔAG/ΔHCO3) to detect a mixed disorder**, and check the **osmolar gap** when a toxic alcohol is suspected.
 
-**EXAM CONNECTION:** "Normal anion gap acidosis in all EXCEPT" → **salicylate poisoning**.
+**EXAM CONNECTION:** “Normal anion gap acidosis in all EXCEPT” → **salicylate poisoning**.
 
 **REMEMBER:** *Added acid widens the gap; lost bicarbonate keeps it normal and raises the chloride.*
 
@@ -2352,7 +2352,7 @@
 
 **PEARL:** **C4d staining in the peritubular capillaries** of a transplant biopsy = **antibody-mediated (humoral) rejection**. Treatment is **plasmapheresis + IVIG + steroids ± rituximab** — not thymoglobulin, which targets T cells.
 
-**UNDERSTAND:** C4d is a **split product of complement C4 that becomes covalently bound to the endothelium** at the site where donor-specific antibody has fixed complement. Unlike the antibody itself, it stays put — so it is a durable "footprint" proving an antibody-mediated attack occurred on that tissue. Because the effector is a **circulating antibody produced by plasma cells**, treatment must **remove the antibody (plasmapheresis), neutralise/modulate it (IVIG) and suppress its source (rituximab against CD20 B cells)**. T-cell agents cannot touch it.
+**UNDERSTAND:** C4d is a **split product of complement C4 that becomes covalently bound to the endothelium** at the site where donor-specific antibody has fixed complement. Unlike the antibody itself, it stays put — so it is a durable “footprint” proving an antibody-mediated attack occurred on that tissue. Because the effector is a **circulating antibody produced by plasma cells**, treatment must **remove the antibody (plasmapheresis), neutralise/modulate it (IVIG) and suppress its source (rituximab against CD20 B cells)**. T-cell agents cannot touch it.
 
 **MUST KNOW:**
 
@@ -2362,9 +2362,9 @@
 - **Induction agents: basiliximab** (anti-CD25/IL-2R, non-depleting, low risk) vs **thymoglobulin** (depleting, for high immunological risk).
 - The key differential at 2 weeks–3 months with rising creatinine: **rejection, calcineurin-inhibitor toxicity, obstruction/urine leak, vascular thrombosis, and BK virus nephropathy** — **BK typically appears at 3–12 months** and is treated by **reducing** immunosuppression, the exact opposite of rejection therapy.
 
-**EXAM CONNECTION:** The biopsy image plus "C4d positive" fixes the answer; the trap is **thymoglobulin** (right idea, wrong immune arm) or "check DSA" (already implied — the patient needs treatment, not more tests).
+**EXAM CONNECTION:** The biopsy image plus “C4d positive” fixes the answer; the trap is **thymoglobulin** (right idea, wrong immune arm) or “check DSA” (already implied — the patient needs treatment, not more tests).
 
-**REMEMBER:** *C4d is the antibody's fingerprint — wash the antibody out.*
+**REMEMBER:** *C4d is the antibody’s fingerprint — wash the antibody out.*
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture21.jpg)
@@ -2377,15 +2377,15 @@
 
 **PEARL: ****Sodium deficit (mEq) = Total body water × (target Na⁺ − actual Na⁺)**, where **TBW = 0.6 × weight in men (0.5 in women, 0.45 in elderly women)**. For a 70 kg man with Na⁺ 120: **0.6 × 70 × (140 − 120) = 840 mEq.** **GCS = Eye (4) + Verbal (5) + Motor (6), minimum 3, maximum 15.**
 
-**UNDERSTAND:** The formula works because sodium distributes through **total body water**, not just plasma — so replacing a deficit means raising the concentration across the entire water compartment, which is why body weight enters the calculation. The critical clinical corollary is that the calculated deficit tells you **how much**, never **how fast**: **correct by no more than 8–10 mEq/L in 24 hours** (4–6 mEq/L in high-risk patients), or the brain's osmotic adaptation is outstripped and **osmotic demyelination (central pontine myelinolysis)** follows.
+**UNDERSTAND:** The formula works because sodium distributes through **total body water**, not just plasma — so replacing a deficit means raising the concentration across the entire water compartment, which is why body weight enters the calculation. The critical clinical corollary is that the calculated deficit tells you **how much**, never **how fast**: **correct by no more than 8–10 mEq/L in 24 hours** (4–6 mEq/L in high-risk patients), or the brain’s osmotic adaptation is outstripped and **osmotic demyelination (central pontine myelinolysis)** follows.
 
 **MUST KNOW:**
 
 - **Hyponatraemia work-up: assess VOLUME STATUS first, then serum and urine OSMOLALITY and URINE SODIUM.** **Hypovolaemic (urine Na⁺ <20 = extrarenal losses; >20 = renal/diuretics/Addison) → normal saline. EUVOLAEMIC (SIADH — urine osm >100, urine Na⁺ >40, euvolaemic, normal thyroid/adrenal) → FLUID RESTRICTION. HYPERVOLAEMIC (heart failure, cirrhosis, nephrotic) → salt and fluid restriction plus diuretics.**
 - **SEVERE symptomatic hyponatraemia (seizures, coma) → 3% HYPERTONIC SALINE in 100 mL boluses to raise sodium by 4–6 mEq/L quickly, then stop and correct slowly.** The danger is not the initial rise but the **total 24-hour correction**.
-- **Osmotic demyelination presents 2–6 days later with dysarthria, dysphagia, quadriparesis and a "locked-in" state; risk factors are chronic hyponatraemia, alcoholism, malnutrition, liver disease and hypokalaemia.** **Pseudohyponatraemia** (hyperlipidaemia, hyperproteinaemia) and **translocational** hyponatraemia (hyperglycaemia — correct sodium by ~1.6 mEq/L per 100 mg/dL glucose above normal) must be excluded first.
+- **Osmotic demyelination presents 2–6 days later with dysarthria, dysphagia, quadriparesis and a “locked-in” state; risk factors are chronic hyponatraemia, alcoholism, malnutrition, liver disease and hypokalaemia.** **Pseudohyponatraemia** (hyperlipidaemia, hyperproteinaemia) and **translocational** hyponatraemia (hyperglycaemia — correct sodium by ~1.6 mEq/L per 100 mg/dL glucose above normal) must be excluded first.
 - **GCS scoring: Eye — 4 spontaneous, 3 to voice, 2 to pain, 1 none. Verbal — 5 oriented, 4 confused, 3 inappropriate words, 2 incomprehensible sounds, 1 none. Motor — 6 obeys, 5 LOCALISES pain, 4 withdraws, 3 abnormal FLEXION (decorticate), 2 abnormal EXTENSION (decerebrate), 1 none.** **Always take the BEST response, and score the best limb for motor.**
-- **GCS ≤8 defines coma and is the threshold for INTUBATION** ("GCS 8, intubate"). Head injury severity: **mild 13–15, moderate 9–12, severe ≤8**.
+- **GCS ≤8 defines coma and is the threshold for INTUBATION** (“GCS 8, intubate”). Head injury severity: **mild 13–15, moderate 9–12, severe ≤8**.
 - Report the components separately (**E2 V1 M5**) — the total conceals which system is failing, and the **motor score carries most prognostic weight**.
 
 **EXAM CONNECTION: **Both are pure calculations. Watch the GCS trap:** localising with ONE arm scores 5**, even if the other arm only flexes — always the best response.
@@ -2400,19 +2400,19 @@
 
 **PEARL:** Crescentic glomerulonephritis with **p-ANCA (anti-MPO) positivity** shows **PAUCI-IMMUNE immunofluorescence — minimal or absent immunoglobulin and complement deposition.** **Linear IgG = anti-GBM (Goodpasture); granular mesangial IgA = IgA nephropathy/HSP; granular subepithelial C3 = post-streptococcal GN.**
 
-**UNDERSTAND:** "Pauci-immune" seems paradoxical in an antibody-associated disease, but ANCA does not deposit in the glomerulus — it **activates circulating NEUTROPHILS**, which then degranulate against the endothelium. The damage is therefore **cell-mediated at the vessel wall**, leaving nothing to stain. Immunofluorescence is thus a direct readout of **mechanism**: linear = antibody against a fixed structural antigen; granular = immune complexes trapped; absent = leucocyte-mediated.
+**UNDERSTAND:** “Pauci-immune” seems paradoxical in an antibody-associated disease, but ANCA does not deposit in the glomerulus — it **activates circulating NEUTROPHILS**, which then degranulate against the endothelium. The damage is therefore **cell-mediated at the vessel wall**, leaving nothing to stain. Immunofluorescence is thus a direct readout of **mechanism**: linear = antibody against a fixed structural antigen; granular = immune complexes trapped; absent = leucocyte-mediated.
 
 **MUST KNOW — the three types of RPGN:**
 
 | Type | IF pattern | Diseases |
 | --- | --- | --- |
 | **I — anti-GBM** | **LINEAR IgG along the GBM** | **Goodpasture (with lung haemorrhage), anti-GBM disease** |
-| **II — immune complex** | **GRANULAR ("lumpy-bumpy")** | Post-streptococcal GN, **SLE (lupus nephritis, "full house")**, IgA nephropathy/HSP, membranoproliferative GN, endocarditis |
+| **II — immune complex** | **GRANULAR (“lumpy-bumpy”)** | Post-streptococcal GN, **SLE (lupus nephritis, “full house”)**, IgA nephropathy/HSP, membranoproliferative GN, endocarditis |
 | **III — PAUCI-IMMUNE** | **Minimal/absent staining** | **ANCA vasculitides: granulomatosis with polyangiitis (c-ANCA/PR3), MICROSCOPIC POLYANGIITIS (p-ANCA/MPO), eosinophilic GPA** |
 
 - **Microscopic polyangiitis:** necrotising vasculitis of small vessels, elderly men, **constitutional symptoms, PALPABLE PURPURA, mononeuritis multiplex, alveolar haemorrhage and rapidly progressive renal failure**; **no granulomas and no upper-airway involvement** (which distinguishes it from GPA).
 - **RPGN is a nephrological emergency — creatinine can double in days. Treat with high-dose corticosteroids plus CYCLOPHOSPHAMIDE or RITUXIMAB, with PLASMA EXCHANGE for anti-GBM disease, pulmonary haemorrhage or severe renal failure.**
-- **Crescents are proliferating parietal epithelial cells, macrophages and fibrin in Bowman's space** — they mark **rupture of the glomerular capillary wall**, whatever the cause.
+- **Crescents are proliferating parietal epithelial cells, macrophages and fibrin in Bowman’s space** — they mark **rupture of the glomerular capillary wall**, whatever the cause.
 - **Nephritic syndrome: haematuria with RED CELL CASTS and dysmorphic red cells, hypertension, oliguria and mild proteinuria** (contrast nephrotic syndrome — heavy proteinuria, hypoalbuminaemia, oedema, hyperlipidaemia).
 
 **EXAM CONNECTION:** The serology in the stem dictates the IF answer. **ANCA → pauci-immune**; anti-GBM → linear; low complement with a recent sore throat → granular.
@@ -2428,7 +2428,7 @@
 
 ### 101. Hyperkalaemia — ECG Sequence
 
-**PEARL:** **Tall, peaked, "tented" T waves** are the earliest ECG sign of hyperkalaemia. **Spironolactone**, a potassium-sparing aldosterone antagonist, is the classic antihypertensive culprit.
+**PEARL:** **Tall, peaked, “tented” T waves** are the earliest ECG sign of hyperkalaemia. **Spironolactone**, a potassium-sparing aldosterone antagonist, is the classic antihypertensive culprit.
 
 **UNDERSTAND:** Raised extracellular K⁺ **raises the resting membrane potential** (less negative), which first **accelerates repolarisation** (peaked T) and then **inactivates sodium channels**, slowing depolarisation — hence the progressive widening of P waves and QRS, ending in a sine wave when the whole complex merges.
 
@@ -2460,7 +2460,7 @@
 
 **MUST KNOW:**
 
-- **Rhabdomyolysis does both** — volume sequestration into damaged muscle (prerenal) **and** myoglobin cast precipitation (ATN). That dual mechanism is the exam's subtlety.
+- **Rhabdomyolysis does both** — volume sequestration into damaged muscle (prerenal) **and** myoglobin cast precipitation (ATN). That dual mechanism is the exam’s subtlety.
 - Distinguishing labs: **prerenal — urine Na < 20, FeNa < 1%, urine osmolality > 500, BUN:creatinine > 20:1, bland sediment**; **ATN — urine Na > 40, FeNa > 2%, urine osm < 350, muddy brown granular casts**.
 - **FeNa is unreliable** if diuretics have been given — use **FeUrea (< 35% suggests prerenal)** instead.
 - **Postrenal** causes: BPH, stones, malignancy, retroperitoneal fibrosis — always **exclude with ultrasound**.
@@ -2489,9 +2489,9 @@
 - **Class III and IV require aggressive immunosuppression**: steroids plus **mycophenolate or cyclophosphamide (Euro-Lupus low-dose regimen)**; newer agents **belimumab and voclosporin**.
 - Serology tracking disease: **anti-dsDNA rises and C3/C4 fall** during nephritic flares.
 - Clinical clues: proteinuria, **active urinary sediment with RBC casts**, hypertension, rising creatinine.
-- **"Full house" immunofluorescence (IgG, IgM, IgA, C3, C1q)** is characteristic of lupus nephritis.
+- **“Full house” immunofluorescence (IgG, IgM, IgA, C3, C1q)** is characteristic of lupus nephritis.
 
-**EXAM CONNECTION:** "Wire loop" is a keyword mapping directly to **Class IV**. Do not be misled by the phrase "without glomerular proliferation" — the deposits define the class.
+**EXAM CONNECTION:** “Wire loop” is a keyword mapping directly to **Class IV**. Do not be misled by the phrase “without glomerular proliferation” — the deposits define the class.
 
 **REMEMBER:** *Deposits under the endothelium inflame; deposits under the epithelium leak.*
 
@@ -2514,10 +2514,10 @@
 **MUST KNOW:**
 
 - **Refractory hypocalcaemia is due to hypomagnesaemia until proven otherwise** — low Mg impairs PTH secretion *and* end-organ response; you must **correct magnesium first**.
-- Hypocalcaemic signs: **Chvostek's and Trousseau's** (Trousseau's is more specific).
-- "Stones, bones, groans, moans" = hypercalcaemia.
+- Hypocalcaemic signs: **Chvostek’s and Trousseau’s** (Trousseau’s is more specific).
+- “Stones, bones, groans, moans” = hypercalcaemia.
 
-**REMEMBER:** *Tetany won't budge? Give magnesium.*
+**REMEMBER:** *Tetany won’t budge? Give magnesium.*
 
 ---
 
@@ -2541,19 +2541,19 @@
 
 **PEARL:** **The commonest pituitary adenoma overall is the NON-FUNCTIONING (clinically silent) adenoma (~one-third)** — most arise from **gonadotroph cells** and secrete only α/β subunits. Among **FUNCTIONING** adenomas, the **PROLACTINOMA is commonest**.
 
-**UNDERSTAND:** The question turns on the word "**non-functioning**" — these tumours produce **no hormonal syndrome**, so they only declare themselves when they are **big enough to cause mass effects**: **bitemporal hemianopia, headache and HYPOPITUITARISM**. Functioning tumours announce themselves early and small.
+**UNDERSTAND:** The question turns on the word “**non-functioning**” — these tumours produce **no hormonal syndrome**, so they only declare themselves when they are **big enough to cause mass effects**: **bitemporal hemianopia, headache and HYPOPITUITARISM**. Functioning tumours announce themselves early and small.
 
 **MUST KNOW:**
 
-- **Order of the functioning tumours: prolactinoma > GH (acromegaly/gigantism) > ACTH (Cushing's disease) > TSH (rare).**
-- **The "STALK EFFECT": any large sellar mass can raise prolactin modestly (usually <100–150 ng/mL) by interrupting dopamine delivery down the stalk.** **A very high prolactin (>200) means a true prolactinoma**; a modest rise with a big tumour means a non-functioning adenoma compressing the stalk — a crucial distinction because **the first is treated medically and the second surgically**.
+- **Order of the functioning tumours: prolactinoma > GH (acromegaly/gigantism) > ACTH (Cushing’s disease) > TSH (rare).**
+- **The “STALK EFFECT”: any large sellar mass can raise prolactin modestly (usually <100–150 ng/mL) by interrupting dopamine delivery down the stalk.** **A very high prolactin (>200) means a true prolactinoma**; a modest rise with a big tumour means a non-functioning adenoma compressing the stalk — a crucial distinction because **the first is treated medically and the second surgically**.
 - **PROLACTINOMA IS THE ONE PITUITARY TUMOUR TREATED MEDICALLY FIRST — DOPAMINE AGONISTS (cabergoline > bromocriptine)** shrink it dramatically. All others are primarily **trans-sphenoidal surgery**.
 - **Beware the HOOK EFFECT** — a falsely low prolactin in a giant prolactinoma from antibody saturation; repeat on a diluted sample.
-- **Order of hormone loss in compressive hypopituitarism: GH → LH/FSH → TSH → ACTH → prolactin (last).** **"Go Look For The Adenoma."**
+- **Order of hormone loss in compressive hypopituitarism: GH → LH/FSH → TSH → ACTH → prolactin (last).** **“Go Look For The Adenoma.”**
 - **PITUITARY APOPLEXY** — sudden headache, ophthalmoplegia, visual loss and collapse from haemorrhage/infarction into an adenoma → **give hydrocortisone immediately** and consider urgent decompression.
 - **Nelson syndrome** — an aggressive corticotroph adenoma with hyperpigmentation after bilateral adrenalectomy.
 
-**EXAM CONNECTION:** "Most common type of pituitary adenoma" → **non-functioning** (prolactinoma is the trap, and is the answer only if the question says "functioning").
+**EXAM CONNECTION:** “Most common type of pituitary adenoma” → **non-functioning** (prolactinoma is the trap, and is the answer only if the question says “functioning”).
 
 **REMEMBER:** *The commonest adenoma says nothing until it presses on the chiasm — the commonest SECRETING one is the prolactinoma.*
 
@@ -2561,11 +2561,11 @@
 
 ---
 
-### 107. Insulin's Actions
+### 107. Insulin’s Actions
 
 **PEARL:** Insulin is the **anabolic, storage hormone**: **INCREASED FATTY ACID SYNTHESIS and triglyceride deposition** in adipose tissue, **glycogen and protein synthesis** in muscle and liver, and **INHIBITION of hormone-sensitive lipase, ketogenesis, gluconeogenesis and proteolysis**. So hyperinsulinaemia produces **LOW glucose, LOW ketones, LOW free amino acids — and INCREASED lipogenesis.**
 
-**UNDERSTAND: **Every action follows one rule:** insulin signals "fuel is plentiful — store it."** Therefore every catabolic pathway is switched off and every storage pathway switched on. Reading a question this way generates all four options without memorising a table.
+**UNDERSTAND: **Every action follows one rule:** insulin signals “fuel is plentiful — store it.”** Therefore every catabolic pathway is switched off and every storage pathway switched on. Reading a question this way generates all four options without memorising a table.
 
 **MUST KNOW:**
 
@@ -2577,7 +2577,7 @@
 - **In HYPERINSULINAEMIC states (insulinoma, insulin overdose): hypoglycaemia WITHOUT ketosis** — because lipolysis and ketogenesis are suppressed. **Ketotic hypoglycaemia therefore excludes hyperinsulinism** — a genuinely useful diagnostic rule.
 - **C-peptide separates endogenous from exogenous insulin.**
 
-**EXAM CONNECTION:** "Which is seen with hyperinsulinaemia?" → **increased fatty acid synthesis** (the other options — ketones, amino acids, glucose — are all suppressed).
+**EXAM CONNECTION:** “Which is seen with hyperinsulinaemia?” → **increased fatty acid synthesis** (the other options — ketones, amino acids, glucose — are all suppressed).
 
 **REMEMBER:** *Insulin stores everything and releases nothing — so no ketones, no free amino acids, no glucose output.*
 
@@ -2600,7 +2600,7 @@
 - **Parathyroid disease is the commonest and usually first manifestation of MEN 1.**
 - **Genetic testing of RET in all first-degree relatives** is mandatory.
 
-**EXAM CONNECTION:** "Not seen in MEN 2B" → **parathyroid adenoma**.
+**EXAM CONNECTION:** “Not seen in MEN 2B” → **parathyroid adenoma**.
 
 **REMEMBER:** *2A has parathyroids; 2B has neuromas, a marfanoid build and a big colon instead.*
 
@@ -2621,7 +2621,7 @@
 - **Bicarbonate is NOT routinely given** — only considered at **pH <6.9**. It risks paradoxical CNS acidosis, hypokalaemia and delayed ketone clearance.
 - **Monitor with the ANION GAP or β-HYDROXYBUTYRATE, not urine ketones** — the **urine nitroprusside test detects only acetoacetate**, and during recovery β-hydroxybutyrate converts to acetoacetate, so **urine ketones paradoxically rise as the patient improves**.
 - **When glucose falls to ~200 mg/dL, switch to DEXTROSE-containing fluid and CONTINUE the insulin** until the gap closes — insulin is treating the ketosis, not the sugar.
-- **Always look for the precipitant — the 6 I's: Infection (commonest), Infarction, Infant (pregnancy), Indiscretion (diet), Insulin omission, and Iatrogenic (steroids).**
+- **Always look for the precipitant — the 6 I’s: Infection (commonest), Infarction, Infant (pregnancy), Indiscretion (diet), Insulin omission, and Iatrogenic (steroids).**
 - **CEREBRAL OEDEMA is the feared complication in CHILDREN** — from over-rapid fluid or osmolar correction; treat with **mannitol/hypertonic saline**.
 - **Contrast HHS: glucose usually >600, osmolality >320, minimal ketosis, pH >7.30, profound dehydration and altered sensorium, in type 2 diabetes** — with higher mortality.
 
@@ -2644,12 +2644,12 @@
 - **The islet autoantibodies: GAD65, IA-2, insulin autoantibodies (IAA — usually the first to appear in children), and ZnT8.** **Two or more autoantibodies define Stage 1**, and confer a **near-100% lifetime risk** of progressing to clinical diabetes.
 - **TEPLIZUMAB (anti-CD3 monoclonal) can DELAY progression from Stage 2 to Stage 3 by about 2 years** — the first disease-modifying therapy in type 1 diabetes, and the clinical justification for staging.
 - **HLA associations: ==DR3-DQ2 and DR4-DQ8 confer risk; DQB1*0602 is PROTECTIVE.==**
-- **The "HONEYMOON PERIOD"** after diagnosis reflects residual β-cell function with temporarily reduced insulin requirements — it is transient, and patients must be warned.
+- **The “HONEYMOON PERIOD”** after diagnosis reflects residual β-cell function with temporarily reduced insulin requirements — it is transient, and patients must be warned.
 - **Distinguish LADA (latent autoimmune diabetes in adults)** — GAD-positive, initially non-insulin-requiring, in adults over 30, often misdiagnosed as type 2.
-- **Screen type 1 patients for the associated autoimmune conditions: THYROID disease (commonest), COELIAC disease, Addison's disease and pernicious anaemia.**
+- **Screen type 1 patients for the associated autoimmune conditions: THYROID disease (commonest), COELIAC disease, Addison’s disease and pernicious anaemia.**
 - **C-peptide is low/absent** (contrast type 2, where it is normal or high).
 
-**EXAM CONNECTION:** "Stage 3" → **autoimmune positive WITH dysglycaemia** (and clinically evident disease).
+**EXAM CONNECTION:** “Stage 3” → **autoimmune positive WITH dysglycaemia** (and clinically evident disease).
 
 **REMEMBER:** *Antibodies first, then abnormal sugars, then symptoms — and teplizumab can buy time between stages 2 and 3.*
 
@@ -2657,11 +2657,11 @@
 
 ---
 
-### 111. Conn's Syndrome and the Aldosterone Escape
+### 111. Conn’s Syndrome and the Aldosterone Escape
 
 **PEARL:** Primary hyperaldosteronism gives **HYPERTENSION + HYPOKALAEMIA + METABOLIC ALKALOSIS — but the serum sodium is NORMAL, not high.** True hypernatraemia is very uncommon.
 
-**UNDERSTAND:** This is the **"ALDOSTERONE ESCAPE" phenomenon**. Aldosterone does retain sodium, but **water follows it isotonically**, so osmolality is unchanged. As the extracellular volume expands, **pressure natriuresis and atrial natriuretic peptide** increase urinary sodium loss until a new steady state is reached — so sodium retention stops and the **serum sodium stays normal while the blood pressure stays high**. Escape protects the sodium concentration but not the blood pressure.
+**UNDERSTAND:** This is the **“ALDOSTERONE ESCAPE” phenomenon**. Aldosterone does retain sodium, but **water follows it isotonically**, so osmolality is unchanged. As the extracellular volume expands, **pressure natriuresis and atrial natriuretic peptide** increase urinary sodium loss until a new steady state is reached — so sodium retention stops and the **serum sodium stays normal while the blood pressure stays high**. Escape protects the sodium concentration but not the blood pressure.
 
 **MUST KNOW:**
 
@@ -2672,7 +2672,7 @@
 - **Stop interfering drugs before testing: MRAs (4–6 weeks), beta-blockers, ACE inhibitors/ARBs and diuretics all distort the ARR;** verapamil and alpha-blockers are the safest antihypertensives during workup.
 - **Differentiate the mimics: LIDDLE syndrome (low renin, low aldosterone, ENaC gain-of-function — responds to amiloride), apparent mineralocorticoid excess (LIQUORICE — 11β-HSD2 inhibition), and Cushing syndrome.**
 
-**EXAM CONNECTION:** "Not seen in Conn's syndrome" → **hypernatraemia**.
+**EXAM CONNECTION:** “Not seen in Conn’s syndrome” → **hypernatraemia**.
 
 **REMEMBER:** *Aldosterone escapes on sodium but never on blood pressure — high BP, low K, alkalosis, normal Na.*
 
@@ -2687,19 +2687,19 @@
 
 **PEARL:** In a patient on **long-term steroids** with Cushingoid features, the next investigation is **SERUM CORTISOL WITH ACTH** — expecting **LOW ACTH and LOW endogenous cortisol** from feedback suppression of the HPA axis. **Dexamethasone suppression tests are NOT needed** — they are for localising *endogenous* disease.
 
-**UNDERSTAND:** The dexamethasone tests answer the question "**where is the excess cortisol coming from?**" — but here we already know: the pharmacy. The clinically important question instead is "**how suppressed is her own axis?**", because that determines the risk of **adrenal crisis** if steroids are stopped abruptly or if she is stressed by illness or surgery.
+**UNDERSTAND:** The dexamethasone tests answer the question “**where is the excess cortisol coming from?**” — but here we already know: the pharmacy. The clinically important question instead is “**how suppressed is her own axis?**”, because that determines the risk of **adrenal crisis** if steroids are stopped abruptly or if she is stressed by illness or surgery.
 
 **MUST KNOW:**
 
-- **EXOGENOUS steroid use is the COMMONEST cause of Cushing syndrome overall** — always ask about oral, inhaled, topical, intra-articular and unregulated "joint pain" preparations, which are widely misused in India.
-- **The workup of ENDOGENOUS Cushing has two stages: (1) CONFIRM hypercortisolism — 24-h urinary free cortisol, late-night salivary cortisol, or the OVERNIGHT LOW-DOSE dexamethasone suppression test; then (2) LOCALISE — measure ACTH first.** **ACTH LOW → ACTH-INDEPENDENT (adrenal adenoma, carcinoma, or exogenous steroid). ACTH NORMAL/HIGH → ACTH-DEPENDENT → then HIGH-DOSE dexamethasone: SUPPRESSION suggests a PITUITARY source (Cushing's DISEASE); NO suppression suggests ECTOPIC ACTH (classically SMALL CELL LUNG CANCER).**
+- **EXOGENOUS steroid use is the COMMONEST cause of Cushing syndrome overall** — always ask about oral, inhaled, topical, intra-articular and unregulated “joint pain” preparations, which are widely misused in India.
+- **The workup of ENDOGENOUS Cushing has two stages: (1) CONFIRM hypercortisolism — 24-h urinary free cortisol, late-night salivary cortisol, or the OVERNIGHT LOW-DOSE dexamethasone suppression test; then (2) LOCALISE — measure ACTH first.** **ACTH LOW → ACTH-INDEPENDENT (adrenal adenoma, carcinoma, or exogenous steroid). ACTH NORMAL/HIGH → ACTH-DEPENDENT → then HIGH-DOSE dexamethasone: SUPPRESSION suggests a PITUITARY source (Cushing’s DISEASE); NO suppression suggests ECTOPIC ACTH (classically SMALL CELL LUNG CANCER).**
 - **Ectopic ACTH clues: rapid onset, severe HYPOKALAEMIA and alkalosis, marked pigmentation, and weight LOSS rather than the classic habitus.**
 - **Steroid withdrawal must be gradual, with stress-dose cover for illness or surgery** — and patients should carry a steroid card.
 - **The features that best discriminate Cushing from simple obesity: PROXIMAL MYOPATHY, EASY BRUISING, WIDE (>1 cm) PURPLE STRIAE, and unexplained osteoporosis** — not weight gain or moon face alone.
 
 **EXAM CONNECTION:** Steroid-treated SLE patient with Cushingoid features → **serum cortisol with ACTH**.
 
-**REMEMBER:** *When you already know the source, don't localise it — measure how flat her own axis has gone.*
+**REMEMBER:** *When you already know the source, don’t localise it — measure how flat her own axis has gone.*
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2a9e78f1a9274af1a1860912a1ffea1dx1280x2864.JPEG)
@@ -2723,7 +2723,7 @@
 - **Monitor treatment response with IGF-1**, not GH.
 - **Look for MEN 1** if there are also parathyroid or pancreatic tumours.
 
-**EXAM CONNECTION:** "Confirmatory test" → **no suppression of GH after glucose**.
+**EXAM CONNECTION:** “Confirmatory test” → **no suppression of GH after glucose**.
 
 **REMEMBER:** *IGF-1 screens, the glucose tolerance test confirms — and random GH tells you nothing.*
 
@@ -2739,7 +2739,7 @@
 
 **MUST KNOW:**
 
-- **SGLT-2 inhibitors have proven CARDIOVASCULAR AND RENAL benefit** (EMPA-REG, DAPA-HF, DAPA-CKD) and are now first-line add-ons in **heart failure and CKD regardless of diabetes**. **Adverse effects: genital mycotic infections and UTI, volume depletion, EUGLYCAEMIC DKA (hold before surgery/illness), and rare Fournier's gangrene.**
+- **SGLT-2 inhibitors have proven CARDIOVASCULAR AND RENAL benefit** (EMPA-REG, DAPA-HF, DAPA-CKD) and are now first-line add-ons in **heart failure and CKD regardless of diabetes**. **Adverse effects: genital mycotic infections and UTI, volume depletion, EUGLYCAEMIC DKA (hold before surgery/illness), and rare Fournier’s gangrene.**
 - **METFORMIN remains first-line** — it reduces hepatic gluconeogenesis, causes weight neutrality/loss and **does not cause hypoglycaemia**. **Adverse effects: GI upset, VITAMIN B12 DEFICIENCY (check periodically), and lactic acidosis.** **Withhold before contrast studies and major surgery.**
 - **GLP-1 agonists (liraglutide, semaglutide) give the greatest weight loss and cardiovascular benefit but are injectable (except oral semaglutide); contraindicated with a personal/family history of MEDULLARY THYROID CARCINOMA or MEN 2, and in pancreatitis.**
 - **Sulfonylureas — hypoglycaemia and weight gain (avoid in the elderly and in renal impairment).** **Pioglitazone — bladder cancer, fractures, fluid retention; but useful in NAFLD.**
@@ -2757,17 +2757,17 @@
 
 ### 115. Thyroid Scan — The Hot Nodule
 
-**PEARL:** A **focal area of INCREASED uptake with SUPPRESSION of the rest of the gland = a "HOT" (autonomously functioning) NODULE — a HYPERSECRETING ADENOMA (toxic adenoma/Plummer's disease).** **Malignancy risk in a hot nodule is very low (~1–5%)** — so **FNAC is NOT required**.
+**PEARL:** A **focal area of INCREASED uptake with SUPPRESSION of the rest of the gland = a “HOT” (autonomously functioning) NODULE — a HYPERSECRETING ADENOMA (toxic adenoma/Plummer’s disease).** **Malignancy risk in a hot nodule is very low (~1–5%)** — so **FNAC is NOT required**.
 
 **UNDERSTAND:** The surrounding gland is suppressed because the autonomous nodule **secretes thyroid hormone independently, which switches off TSH** — so the normal tissue stops taking up iodine. That suppression *is* the evidence of autonomy, and it is what makes the nodule almost certainly benign: **cancers do not make thyroid hormone.**
 
 **MUST KNOW:**
 
 - **The correct sequence for a thyroid nodule: MEASURE TSH FIRST.** **If TSH is LOW → do a radionuclide SCAN** (looking for a hot nodule). **If TSH is NORMAL or HIGH → go straight to ULTRASOUND and FNAC** — a scan is unnecessary.
-- **"COLD" nodules (reduced uptake) carry the malignancy risk (~10–15%) and require FNAC** — but most cold nodules are still benign (colloid nodule, cyst, thyroiditis).
-- **Scan patterns: GRAVES' — DIFFUSELY increased uptake. TOXIC MULTINODULAR GOITRE — patchy, multiple hot and cold areas. TOXIC ADENOMA — a single hot nodule with a suppressed gland. THYROIDITIS and factitious thyrotoxicosis — LOW or ABSENT uptake with a high T4** (the key discriminator: **thyrotoxicosis with LOW uptake means the hormone is not being made — it is being released or ingested**).
+- **“COLD” nodules (reduced uptake) carry the malignancy risk (~10–15%) and require FNAC** — but most cold nodules are still benign (colloid nodule, cyst, thyroiditis).
+- **Scan patterns: GRAVES’ — DIFFUSELY increased uptake. TOXIC MULTINODULAR GOITRE — patchy, multiple hot and cold areas. TOXIC ADENOMA — a single hot nodule with a suppressed gland. THYROIDITIS and factitious thyrotoxicosis — LOW or ABSENT uptake with a high T4** (the key discriminator: **thyrotoxicosis with LOW uptake means the hormone is not being made — it is being released or ingested**).
 - **Treatment of a toxic adenoma: RADIOIODINE (the surrounding suppressed gland is protected because it is not taking up iodine — an elegant therapeutic advantage) or surgery.**
-- **FNAC reporting uses the BETHESDA system**; **papillary carcinoma is the commonest thyroid cancer** with **"Orphan Annie" nuclei, nuclear grooves and psammoma bodies**, and spreads lymphatically. **"LATERAL ABERRANT THYROID" is not aberrant tissue at all — it is a lymph node metastasis from an occult papillary carcinoma.**
+- **FNAC reporting uses the BETHESDA system**; **papillary carcinoma is the commonest thyroid cancer** with **“Orphan Annie” nuclei, nuclear grooves and psammoma bodies**, and spreads lymphatically. **“LATERAL ABERRANT THYROID” is not aberrant tissue at all — it is a lymph node metastasis from an occult papillary carcinoma.**
 - **Ultrasound features suggesting malignancy: microcalcification, irregular margins, taller-than-wide shape, marked hypoechogenicity, and abnormal cervical nodes.**
 
 **EXAM CONNECTION:** Scan image showing a single hot area with the rest of the gland suppressed → **hypersecreting adenoma**.
@@ -2786,18 +2786,18 @@
 
 **PEARL:** After hypophysectomy with loss of ACTH, TSH, FSH and LH, replace **GLUCOCORTICOIDS, THYROXINE and SEX STEROIDS — but NOT MINERALOCORTICOIDS.** Aldosterone is controlled by the **RENIN–ANGIOTENSIN system and potassium, not by ACTH**, so the zona glomerulosa keeps working.
 
-**UNDERSTAND:** This is the fundamental distinction between **secondary and primary adrenal insufficiency**. In **primary (Addison's) disease the adrenal cortex itself is destroyed — so BOTH cortisol and aldosterone are lost, giving HYPERKALAEMIA, hyponatraemia with salt-craving and hypotension, plus HYPERPIGMENTATION (POMC-derived MSH rises with ACTH).** In **secondary disease only the ACTH-dependent zonae fasciculata and reticularis fail — aldosterone is preserved, there is NO hyperkalaemia and NO hyperpigmentation** (ACTH is low, so the skin is pale).
+**UNDERSTAND:** This is the fundamental distinction between **secondary and primary adrenal insufficiency**. In **primary (Addison’s) disease the adrenal cortex itself is destroyed — so BOTH cortisol and aldosterone are lost, giving HYPERKALAEMIA, hyponatraemia with salt-craving and hypotension, plus HYPERPIGMENTATION (POMC-derived MSH rises with ACTH).** In **secondary disease only the ACTH-dependent zonae fasciculata and reticularis fail — aldosterone is preserved, there is NO hyperkalaemia and NO hyperpigmentation** (ACTH is low, so the skin is pale).
 
 **MUST KNOW:**
 
 - **ALWAYS GIVE GLUCOCORTICOID BEFORE THYROXINE.** Starting thyroxine first accelerates cortisol metabolism and can precipitate an **ADRENAL CRISIS** in someone with unrecognised ACTH deficiency. This ordering is heavily examined.
 - **Stress dosing: double or triple the hydrocortisone during illness, and give IV hydrocortisone for surgery, trauma or vomiting** — patients need a steroid card and emergency injection training.
-- **Order of hormone loss in progressive pituitary compression: GH first, then FSH/LH, then TSH, then ACTH, with PROLACTIN often RISING (stalk compression releases the tonic dopamine inhibition).** Remember it as **"GO LOOK FOR THE ADENOMA."**
+- **Order of hormone loss in progressive pituitary compression: GH first, then FSH/LH, then TSH, then ACTH, with PROLACTIN often RISING (stalk compression releases the tonic dopamine inhibition).** Remember it as **“GO LOOK FOR THE ADENOMA.”**
 - **Posterior pituitary failure gives DIABETES INSIPIDUS (polyuria, dilute urine)** — but note that **DI can be MASKED by cortisol deficiency and only appear once glucocorticoids are started**, since cortisol is needed to excrete a water load.
 - **Bitemporal hemianopia from chiasmal compression is the classic presenting sign**; **PITUITARY APOPLEXY (sudden headache, ophthalmoplegia, visual loss, collapse) is an emergency needing immediate hydrocortisone.**
-- **SHEEHAN'S SYNDROME — postpartum pituitary infarction after obstetric haemorrhage — classically presents with FAILURE OF LACTATION and then amenorrhoea.**
+- **SHEEHAN’S SYNDROME — postpartum pituitary infarction after obstetric haemorrhage — classically presents with FAILURE OF LACTATION and then amenorrhoea.**
 
-**EXAM CONNECTION:** "Which supplement is NOT needed" → **mineralocorticoid**.
+**EXAM CONNECTION:** “Which supplement is NOT needed” → **mineralocorticoid**.
 
 **REMEMBER:** *ACTH runs cortisol, not aldosterone — and steroid always goes in before thyroxine.*
 
@@ -2807,17 +2807,17 @@
 
 ### 117. Diabetic Cheiroarthropathy — The Prayer Sign
 
-**PEARL:** A long-standing diabetic who **cannot appose the palms and fingers ("PRAYER SIGN" / negative namaste)** has **DIABETIC CHEIROARTHROPATHY (limited joint mobility syndrome / diabetic stiff hand)** — waxy, thickened skin with painless flexion contractures, caused by **NON-ENZYMATIC GLYCATION of collagen**.
+**PEARL:** A long-standing diabetic who **cannot appose the palms and fingers (“PRAYER SIGN” / negative namaste)** has **DIABETIC CHEIROARTHROPATHY (limited joint mobility syndrome / diabetic stiff hand)** — waxy, thickened skin with painless flexion contractures, caused by **NON-ENZYMATIC GLYCATION of collagen**.
 
 **UNDERSTAND:** Chronic hyperglycaemia drives **advanced glycation end-products (AGEs) that CROSS-LINK collagen**, making periarticular connective tissue stiff and resistant to normal turnover — the same chemistry that produces HbA1c, only in structural protein. This explains why it is **painless, symmetrical, bilateral, starts at the FIFTH MCP/PIP and progresses radially**, and why it **correlates with disease duration and poor glycaemic control** — and with microvascular complications elsewhere.
 
 **MUST KNOW:**
 
 - **Its real value is as a MARKER: cheiroarthropathy predicts RETINOPATHY and NEPHROPATHY** — find it on examination and screen the eyes and kidneys.
-- **Distinguish the other stiff hands: DUPUYTREN'S CONTRACTURE — a NODULAR, palpable THICKENING OF THE PALMAR FASCIA pulling the RING and LITTLE fingers into flexion (associated with diabetes, alcohol, epilepsy, HIV and a positive family history). TRIGGER FINGER/FLEXOR TENOSYNOVITIS — catching and locking with a palpable nodule over the A1 pulley. INFECTIVE flexor tenosynovitis — KANAVEL'S FOUR SIGNS: fusiform swelling, tenderness ALONG the tendon sheath, a flexed resting posture, and PAIN ON PASSIVE EXTENSION (a surgical emergency).**
-- **In cheiroarthropathy the skin is involved and the fascia is normal; in Dupuytren's the fascia is a palpable cord and the skin is puckered.**
+- **Distinguish the other stiff hands: DUPUYTREN’S CONTRACTURE — a NODULAR, palpable THICKENING OF THE PALMAR FASCIA pulling the RING and LITTLE fingers into flexion (associated with diabetes, alcohol, epilepsy, HIV and a positive family history). TRIGGER FINGER/FLEXOR TENOSYNOVITIS — catching and locking with a palpable nodule over the A1 pulley. INFECTIVE flexor tenosynovitis — KANAVEL’S FOUR SIGNS: fusiform swelling, tenderness ALONG the tendon sheath, a flexed resting posture, and PAIN ON PASSIVE EXTENSION (a surgical emergency).**
+- **In cheiroarthropathy the skin is involved and the fascia is normal; in Dupuytren’s the fascia is a palpable cord and the skin is puckered.**
 - **The other diabetic hand/shoulder conditions: CARPAL TUNNEL SYNDROME, ADHESIVE CAPSULITIS (frozen shoulder — up to 5× commoner in diabetes), and DIABETIC MUSCLE INFARCTION.**
-- **Also remember the diabetic skin markers: NECROBIOSIS LIPOIDICA DIABETICORUM (shiny yellow-brown atrophic plaque with telangiectasia on the shin), ACANTHOSIS NIGRICANS (insulin resistance), diabetic dermopathy ("shin spots"), granuloma annulare, and eruptive xanthomas.**
+- **Also remember the diabetic skin markers: NECROBIOSIS LIPOIDICA DIABETICORUM (shiny yellow-brown atrophic plaque with telangiectasia on the shin), ACANTHOSIS NIGRICANS (insulin resistance), diabetic dermopathy (“shin spots”), granuloma annulare, and eruptive xanthomas.**
 - **Treatment is glycaemic control and physiotherapy — the changes are largely irreversible**, so prevention is the point.
 
 **EXAM CONNECTION:** Image of a failed prayer sign in a diabetic → **cheiroarthropathy**.
@@ -2846,9 +2846,9 @@
 - **Radioiodine can worsen** eye disease; give **prophylactic prednisolone** if it must be used in active disease, or choose antithyroid drugs/surgery instead.
 - **Selenium 100 µg twice daily for 6 months** improves mild disease and quality of life.
 - Restore and maintain **euthyroidism** — both hyper- and hypothyroidism worsen the orbitopathy.
-- Muscles involved in order: **I'M SLow — Inferior rectus, Medial rectus, Superior rectus, Lateral rectus**; the **tendons are spared** on CT (unlike orbital myositis).
+- Muscles involved in order: **I’M SLow — Inferior rectus, Medial rectus, Superior rectus, Lateral rectus**; the **tendons are spared** on CT (unlike orbital myositis).
 
-**EXAM CONNECTION:** "Which is NOT a treatment option" → **rituximab**. Also asked as the indication for **urgent decompression** (optic neuropathy).
+**EXAM CONNECTION:** “Which is NOT a treatment option” → **rituximab**. Also asked as the indication for **urgent decompression** (optic neuropathy).
 
 **REMEMBER:** *Steroids, selenium, teprotumumab, surgery — rituximab is the odd one out.*
 
@@ -2867,11 +2867,11 @@
 - **Mechanisms in malignancy:** **PTHrP secretion (humoral hypercalcaemia of malignancy — classically SQUAMOUS cell carcinoma of the lung, also renal, head and neck, cervix)**; **osteolytic metastases and myeloma (local cytokines, RANKL)**; **1,25-dihydroxyvitamin D production by lymphomas and granulomas (sarcoidosis, TB)**.
 - **The distinguishing test is PTH:** **raised or inappropriately normal PTH → primary hyperparathyroidism (or lithium, or familial hypocalciuric hypercalcaemia)**; **suppressed PTH → malignancy, vitamin D toxicity, granulomatous disease, thyrotoxicosis, immobilisation, milk–alkali syndrome**.
 - **FHH** — an autosomal dominant **CaSR** mutation with mild hypercalcaemia, **normal/high PTH and a LOW urinary calcium:creatinine clearance ratio (<0.01)** — must be excluded before parathyroid surgery.
-- Symptoms: **"stones, bones, abdominal groans and psychic moans"** — renal calculi and nephrogenic DI, bone pain and **osteitis fibrosa cystica/brown tumours**, constipation, pancreatitis, peptic ulcer, confusion; ECG shows a **short QT**.
+- Symptoms: **“stones, bones, abdominal groans and psychic moans”** — renal calculi and nephrogenic DI, bone pain and **osteitis fibrosa cystica/brown tumours**, constipation, pancreatitis, peptic ulcer, confusion; ECG shows a **short QT**.
 - **Treatment of severe hypercalcaemia: aggressive IV 0.9% SALINE first** (these patients are profoundly volume-depleted), then **bisphosphonate (zoledronate)** or **denosumab**; **calcitonin** for rapid short-term control; **steroids** for vitamin D-mediated and lymphoma-related causes; dialysis in extremis. **Loop diuretics only after rehydration.**
 - **Primary hyperparathyroidism:** 85% single adenoma; surgery indicated for **age <50, calcium >1 mg/dL above normal, GFR <60, renal stones, or T-score ≤ −2.5**; localise with **sestamibi scan + ultrasound**.
 
-**EXAM CONNECTION:** Read the setting word — **"hospitalised" → malignancy**; "incidentally detected"/"outpatient" → hyperparathyroidism.
+**EXAM CONNECTION:** Read the setting word — **“hospitalised” → malignancy**; “incidentally detected”/“outpatient” → hyperparathyroidism.
 
 **REMEMBER:** *Mild and chronic is found in clinic (parathyroid); severe and acute lands in hospital (cancer).*
 
@@ -2894,9 +2894,9 @@
 - **Waist:hip ratio** (>0.9 men, >0.85 women) and **waist:height ratio (>0.5)** are alternative measures of central adiposity.
 - **Management: weight loss and exercise are first-line for every component**; then treat each element — statin, antihypertensive, metformin/GLP-1 agonist.
 
-**EXAM CONNECTION:** "Which is NOT measured?" — the answer is **hip circumference** (or BMI or LDL). Remember the syndrome is about **where** the fat is, not how much a person weighs.
+**EXAM CONNECTION:** “Which is NOT measured?” — the answer is **hip circumference** (or BMI or LDL). Remember the syndrome is about **where** the fat is, not how much a person weighs.
 
-**REMEMBER:** *It's the waist that counts — visceral fat drains into the liver.*
+**REMEMBER:** *It’s the waist that counts — visceral fat drains into the liver.*
 
 `Q11003`
 
@@ -2934,9 +2934,9 @@
 **MUST KNOW:**
 
 - **Antibodies: ANTI-THYROID PEROXIDASE (anti-TPO) — most sensitive, positive in >90%; anti-thyroglobulin.** (Contrast **TSH-receptor stimulating antibodies (TRAb) in GRAVES disease**.)
-- **Course: may begin with a transient thyrotoxic phase ("HASHITOXICOSIS") from follicular destruction, then progresses to permanent hypothyroidism.** Treatment is **LEVOTHYROXINE** titrated to TSH (start low in the elderly and in ischaemic heart disease).
+- **Course: may begin with a transient thyrotoxic phase (“HASHITOXICOSIS”) from follicular destruction, then progresses to permanent hypothyroidism.** Treatment is **LEVOTHYROXINE** titrated to TSH (start low in the elderly and in ischaemic heart disease).
 - **Associations: other autoimmune disease (type 1 diabetes, vitiligo, pernicious anaemia, Addison, coeliac), TURNER and DOWN syndromes, and — importantly — PRIMARY THYROID LYMPHOMA** (suspect it if the gland enlarges rapidly); also a small increase in papillary carcinoma risk.
-- **Distinguish the thyroiditides:** - **SUBACUTE (de Quervain) — PAINFUL tender gland after a viral illness, raised ESR, LOW radioiodine uptake, transient thyrotoxicosis then hypothyroidism then recovery; treat with NSAIDs/steroids and beta-blockers, NOT antithyroid drugs.** - **RIEDEL — a "woody hard", fixed, infiltrative gland that mimics carcinoma and compresses adjacent structures; an IgG4-related fibrosing disorder; treat with steroids/tamoxifen.** - **Silent/postpartum thyroiditis — painless, antibody-positive, self-limiting.** - **Toxic multinodular goitre — HYPERthyroid with a nodular gland and patchy ("hot and cold") uptake.**
+- **Distinguish the thyroiditides:** **SUBACUTE (de Quervain) — PAINFUL tender gland after a viral illness, raised ESR, LOW radioiodine uptake, transient thyrotoxicosis then hypothyroidism then recovery; treat with NSAIDs/steroids and beta-blockers, NOT antithyroid drugs.** **RIEDEL — a “woody hard”, fixed, infiltrative gland that mimics carcinoma and compresses adjacent structures; an IgG4-related fibrosing disorder; treat with steroids/tamoxifen.** **Silent/postpartum thyroiditis — painless, antibody-positive, self-limiting.** **Toxic multinodular goitre — HYPERthyroid with a nodular gland and patchy (“hot and cold”) uptake.**
 - **Hypothyroid clinical picture: fatigue, weight gain, cold intolerance, constipation, dry coarse skin, hair loss (including the lateral third of the eyebrows), menorrhagia, carpal tunnel syndrome, hoarseness, bradycardia, and the SLOW-RELAXING (delayed) ANKLE REFLEX.** **Myxoedema coma** — hypothermia, hypotension, hyponatraemia and altered consciousness — is treated with **IV levothyroxine PLUS hydrocortisone** (steroids first, in case of coexisting adrenal insufficiency).
 
 **EXAM CONNECTION:** Painless firm goitre with hypothyroidism → Hashimoto; a **painful** gland points to de Quervain; a **rock-hard fixed** gland to Riedel or carcinoma.
@@ -2954,7 +2954,7 @@
 
 **PEARL:** Read **plasma and urine osmolality together**. **Both LOW = psychogenic polydipsia. Plasma HIGH, urine LOW = diabetes insipidus. Plasma LOW, urine HIGH = SIADH / cerebral salt wasting.**
 
-**UNDERSTAND:** The question is always whether the **kidney's response is appropriate to the plasma**. In psychogenic polydipsia the patient drinks too much, the plasma dilutes, and the kidney **correctly** excretes dilute urine — physiology intact. In SIADH the plasma is dilute yet the urine is **inappropriately concentrated** — ADH acting when it should be off. In DI the plasma is concentrated yet the urine is dilute — ADH absent or ineffective when it should be on.
+**UNDERSTAND:** The question is always whether the **kidney’s response is appropriate to the plasma**. In psychogenic polydipsia the patient drinks too much, the plasma dilutes, and the kidney **correctly** excretes dilute urine — physiology intact. In SIADH the plasma is dilute yet the urine is **inappropriately concentrated** — ADH acting when it should be off. In DI the plasma is concentrated yet the urine is dilute — ADH absent or ineffective when it should be on.
 
 **MUST KNOW:**
 
@@ -2980,13 +2980,13 @@
 
 **MUST KNOW:**
 
-- Full treatment of thyroid storm, in **order**: **β-blocker (or diltiazem)** → **thionamide (PTU preferred — it also blocks peripheral conversion)** → **iodine (Lugol's/potassium iodide) at least 1 hour AFTER the thionamide** (giving iodine first would fuel hormone synthesis — the Jod-Basedow risk) → **hydrocortisone** (blocks conversion and covers relative adrenal insufficiency) → **cooling, fluids, treat the precipitant**. Add **cholestyramine** to interrupt enterohepatic recirculation.
+- Full treatment of thyroid storm, in **order**: **β-blocker (or diltiazem)** → **thionamide (PTU preferred — it also blocks peripheral conversion)** → **iodine (Lugol’s/potassium iodide) at least 1 hour AFTER the thionamide** (giving iodine first would fuel hormone synthesis — the Jod-Basedow risk) → **hydrocortisone** (blocks conversion and covers relative adrenal insufficiency) → **cooling, fluids, treat the precipitant**. Add **cholestyramine** to interrupt enterohepatic recirculation.
 - Precipitants: **stopping antithyroid drugs, infection, surgery on an unprepared patient, amiodarone, iodinated contrast, radioiodine therapy, trauma, DKA**.
 - Diagnosis is **clinical** (Burch–Wartofsky score) — do not wait for thyroid function tests.
 - **Aspirin is avoided** — it displaces T4 from thyroid-binding globulin and raises free hormone.
 - **Antithyroid drugs in pregnancy: PTU in the first trimester** (methimazole/carbimazole cause **aplasia cutis congenita, choanal atresia, tracheo-oesophageal fistula**), then **switch to methimazole/carbimazole** for the second and third trimesters (PTU is hepatotoxic). **Radioiodine is absolutely contraindicated.**
 
-**EXAM CONNECTION:** The stem hides "known case of bronchial asthma" among the thyroid features. That single clause changes the answer from a β-blocker to **diltiazem**.
+**EXAM CONNECTION:** The stem hides “known case of bronchial asthma” among the thyroid features. That single clause changes the answer from a β-blocker to **diltiazem**.
 
 **REMEMBER:** *Block the AV node without blocking the bronchi.*
 
@@ -2994,22 +2994,22 @@
 
 ---
 
-### 125. Addison's Disease
+### 125. Addison’s Disease
 
-**PEARL:** Addison's gives **hypoglycaemia, hyponatraemia, hyperkalaemia and metabolic acidosis** — **hyperglycaemia is NOT a feature**. Hyperpigmentation plus another autoimmune disease (e.g. **Hashimoto's**) is the classic setting.
+**PEARL:** Addison’s gives **hypoglycaemia, hyponatraemia, hyperkalaemia and metabolic acidosis** — **hyperglycaemia is NOT a feature**. Hyperpigmentation plus another autoimmune disease (e.g. **Hashimoto’s**) is the classic setting.
 
 **UNDERSTAND:** Two hormone deficits produce two clusters. **Cortisol deficiency** removes the drive for **gluconeogenesis** → hypoglycaemia; and removes negative feedback on **POMC/ACTH**, whose by-product **MSH causes hyperpigmentation** — which is why pigmentation occurs only in **primary** adrenal failure. **Aldosterone deficiency** causes **sodium loss, potassium retention and H⁺ retention** → hyponatraemia, hyperkalaemia, acidosis, and postural hypotension.
 
 **MUST KNOW:**
 
-- **Starting levothyroxine can precipitate an adrenal crisis** in undiagnosed Addison's (thyroxine accelerates cortisol clearance) — always **treat the adrenal insufficiency first**. This is why the stem sets it 2 weeks after starting thyroxine.
+- **Starting levothyroxine can precipitate an adrenal crisis** in undiagnosed Addison’s (thyroxine accelerates cortisol clearance) — always **treat the adrenal insufficiency first**. This is why the stem sets it 2 weeks after starting thyroxine.
 - Pigmentation is maximal in **palmar creases, buccal mucosa, scars, and pressure areas**.
 - Commonest cause worldwide is **autoimmune adrenalitis** (associated with **thyroid autoimmunity, vitiligo, premature ovarian failure, type 1 diabetes** — the **APS-2** cluster); **tuberculosis** remains important in India.
 - Diagnosis: **8 a.m. cortisol**, **short Synacthen (ACTH stimulation) test**, **high ACTH in primary disease**; **secondary** adrenal insufficiency has **no hyperpigmentation and normal potassium** (aldosterone is renin-driven).
 - **Adrenal crisis:** IV **hydrocortisone 100 mg** and **fluid resuscitation with normal saline** — do not delay for test results.
 - Also causes **fever, eosinophilia, lymphocytosis, and raised urea**; hypercalcaemia may occur.
 
-**EXAM CONNECTION:** "Not a feature" → **hyperglycaemia**. The electrolytes are all predictable from aldosterone deficiency; the glucose from cortisol deficiency.
+**EXAM CONNECTION:** “Not a feature” → **hyperglycaemia**. The electrolytes are all predictable from aldosterone deficiency; the glucose from cortisol deficiency.
 
 **REMEMBER:** *No cortisol means no sugar; no aldosterone means no sodium.*
 
@@ -3022,20 +3022,20 @@
 
 ### 126. MEN 1 (Wermer Syndrome)
 
-**PEARL:** MEN 1 = **Parathyroid, Pancreas, Pituitary — "3 Ps"**. The pituitary tumour is **ANTERIOR** (prolactinoma); **posterior pituitary tumours are NOT part of MEN 1**.
+**PEARL:** MEN 1 = **Parathyroid, Pancreas, Pituitary — “3 Ps”**. The pituitary tumour is **ANTERIOR** (prolactinoma); **posterior pituitary tumours are NOT part of MEN 1**.
 
 **UNDERSTAND:** MEN 1 is a **tumour suppressor (menin) syndrome** on **chromosome 11q13** — affected tissues are those where menin restrains proliferation of **endocrine (APUD-derived, anterior pituitary included) cells**. The **posterior pituitary is neural tissue**, an extension of the hypothalamus, not a glandular epithelium — so it is not in the syndrome.
 
 **MUST KNOW:**
 
-- Frequency order: **Parathyroid adenoma (~90%, commonest and usually first) > enteropancreatic > pituitary** — mnemonic **"Par Pan Pit"**.
+- Frequency order: **Parathyroid adenoma (~90%, commonest and usually first) > enteropancreatic > pituitary** — mnemonic **“Par Pan Pit”**.
 - Commonest **functioning** enteropancreatic tumour is **gastrinoma** (usually in the **duodenum**, → Zollinger–Ellison syndrome); insulinoma next.
 - Commonest pituitary tumour: **prolactinoma**.
 - Associated (non-classic) tumours: **facial angiofibromas, collagenomas, lipomas, adrenocortical tumours, meningioma, foregut carcinoid (thymic, gastric, bronchial)**.
 - Contrast **MEN 2A** — medullary thyroid carcinoma, phaeochromocytoma, **parathyroid hyperplasia** (RET); **MEN 2B** — medullary thyroid carcinoma, phaeochromocytoma, **mucosal neuromas + marfanoid habitus**, **no parathyroid disease**.
 - Screening families is genetic (**MEN1** gene) with biochemical surveillance; **prophylactic thyroidectomy** applies only to **RET/MEN 2**.
 
-**EXAM CONNECTION:** "Not observed in MEN 1" → **posterior pituitary tumours**. Angiofibroma and foregut carcinoid are included to test the less-known associated list.
+**EXAM CONNECTION:** “Not observed in MEN 1” → **posterior pituitary tumours**. Angiofibroma and foregut carcinoid are included to test the less-known associated list.
 
 **REMEMBER:** *Three Ps, and the pituitary half that makes hormones.*
 
@@ -3073,7 +3073,7 @@
 
 **PEARL:** Treat blood pressure in a diabetic patient **regardless of calculated 10-year ASCVD risk** — lifestyle measures **plus** a drug. **Avoid prazosin if the patient has dizziness** (orthostatic hypotension).
 
-**UNDERSTAND:** Diabetes multiplies cardiovascular risk enough that the usual risk-threshold calculus does not apply — hypertension and diabetes together are synergistic for nephropathy, stroke and coronary disease. Drug choice is then decided by **which agent's adverse effect the patient cannot afford**: an α-blocker in someone already dizzy will cause syncope and falls.
+**UNDERSTAND:** Diabetes multiplies cardiovascular risk enough that the usual risk-threshold calculus does not apply — hypertension and diabetes together are synergistic for nephropathy, stroke and coronary disease. Drug choice is then decided by **which agent’s adverse effect the patient cannot afford**: an α-blocker in someone already dizzy will cause syncope and falls.
 
 **MUST KNOW:**
 
@@ -3092,23 +3092,23 @@
 
 ---
 
-### 129. Investigating Graves' Disease
+### 129. Investigating Graves’ Disease
 
 **PEARL:** In a **diffuse** goitre with hyperthyroidism and exophthalmos, order **TFTs, thyroid antibodies (TRAb/TSI), ultrasound and a thyroid scan** — **FNAC is NOT indicated**.
 
-**UNDERSTAND: **FNAC answers one question:** is this nodule malignant?** Graves' disease is a **diffuse, autoimmune, functional** disorder with no nodule to sample, and **hyperfunctioning tissue is almost never malignant**. Sampling it adds risk and no information.
+**UNDERSTAND: **FNAC answers one question:** is this nodule malignant?** Graves’ disease is a **diffuse, autoimmune, functional** disorder with no nodule to sample, and **hyperfunctioning tissue is almost never malignant**. Sampling it adds risk and no information.
 
 **MUST KNOW:**
 
 - **FNAC is indicated for nodules** that are not clearly benign on ultrasound (**TIRADS/ATA criteria** — solid, hypoechoic, taller-than-wide, microcalcification, irregular margins, extrathyroidal extension).
-- **Radioiodine uptake scan:** **diffuse increased uptake = Graves'**; **single hot nodule = toxic adenoma**; **multiple hot areas = toxic multinodular goitre**; **near-zero uptake = thyroiditis or exogenous thyroxine (thyrotoxicosis factitia)**. Distinguishing these changes management completely.
-- Antibodies: **TSI/TRAb (stimulating) diagnose Graves'** and predict **neonatal thyrotoxicosis**; **anti-TPO** is nonspecific (also Hashimoto's).
+- **Radioiodine uptake scan:** **diffuse increased uptake = Graves’**; **single hot nodule = toxic adenoma**; **multiple hot areas = toxic multinodular goitre**; **near-zero uptake = thyroiditis or exogenous thyroxine (thyrotoxicosis factitia)**. Distinguishing these changes management completely.
+- Antibodies: **TSI/TRAb (stimulating) diagnose Graves’** and predict **neonatal thyrotoxicosis**; **anti-TPO** is nonspecific (also Hashimoto’s).
 - **Thyroid eye disease** occurs in ~1/3, is graded by **NO SPECS**, and is worsened by **smoking and radioiodine**; treated with **steroids, teprotumumab, orbital radiotherapy or decompression**.
 - **Pretibial myxoedema and thyroid acropachy** are the other extrathyroidal manifestations.
 
 **EXAM CONNECTION:** Multi-select format. The one to strike out is **FNAC**; everything else is legitimately part of the workup.
 
-**REMEMBER:** *Cytology answers "is it cancer", not "is it overactive".*
+**REMEMBER:** *Cytology answers “is it cancer”, not “is it overactive”.*
 
 `MF2248`
 
@@ -3120,18 +3120,18 @@
 
 **PEARL:** **t(9;22)(q34;q11) — a BALANCED RECIPROCAL translocation between the LONG (q) arms** of chromosomes 9 and 22, creating the **BCR-ABL fusion gene** with **constitutive tyrosine kinase activity**. Blood picture: **very high WBC with ALL myeloid stages present, BASOPHILIA and EOSINOPHILIA, and a LOW LEUCOCYTE ALKALINE PHOSPHATASE (LAP) score.**
 
-**UNDERSTAND:** The whole disease is one enzyme stuck in the "on" position. **BCR-ABL is a constitutively active tyrosine kinase** that drives proliferation without a growth signal — which is why a **targeted small-molecule inhibitor works so spectacularly** and why CML became the proof-of-concept for all targeted cancer therapy.
+**UNDERSTAND:** The whole disease is one enzyme stuck in the “on” position. **BCR-ABL is a constitutively active tyrosine kinase** that drives proliferation without a growth signal — which is why a **targeted small-molecule inhibitor works so spectacularly** and why CML became the proof-of-concept for all targeted cancer therapy.
 
 **MUST KNOW:**
 
 - **The LOW LAP score is the classic discriminator from a LEUKAEMOID REACTION** (where LAP is HIGH). Basophilia also favours CML.
-- **"All myeloid stages" (a full left-shifted spectrum: blast → promyelocyte → myelocyte → metamyelocyte → neutrophil) distinguishes CML from AML**, where the marrow is dominated by **blasts (≥20%)**.
+- **“All myeloid stages” (a full left-shifted spectrum: blast → promyelocyte → myelocyte → metamyelocyte → neutrophil) distinguishes CML from AML**, where the marrow is dominated by **blasts (≥20%)**.
 - **Treatment: IMATINIB and the later TKIs (dasatinib, nilotinib, ponatinib for the T315I mutation).** Monitor by **quantitative BCR-ABL PCR**; response is defined haematologically, cytogenetically and molecularly.
 - **Natural history: chronic phase → accelerated phase → BLAST CRISIS** (which is **myeloid in ~70%, LYMPHOID in ~30%** — and lymphoid blast crisis responds better to ALL-type therapy).
 - **Splenomegaly is often massive**; pseudo-Gaucher cells and sea-blue histiocytes appear in the marrow from high cell turnover.
 - **t(9;22) also occurs in ~25% of ADULT ALL**, where it confers a poor prognosis (and is an indication for adding a TKI).
 
-**EXAM CONNECTION:** "Best description of the Philadelphia chromosome" → **balanced translocation between the LONG arms of 9 and 22** — the trap options say "short arms" or "unbalanced".
+**EXAM CONNECTION:** “Best description of the Philadelphia chromosome” → **balanced translocation between the LONG arms of 9 and 22** — the trap options say “short arms” or “unbalanced”.
 
 **REMEMBER:** *One fused kinase, every myeloid stage in the blood, basophilia and a LOW LAP — and a pill that switches it off.*
 
@@ -3145,7 +3145,7 @@
 
 ### 131. Acute Promyelocytic Leukaemia — The Bleeding Emergency
 
-**PEARL:** **AML M3 / APL — t(15;17) producing the PML-RARα fusion.** Presents with **BLEEDING and DIC (thrombocytopenia with PROLONGED PT AND aPTT)**; the smear shows **hypergranular promyelocytes with MULTIPLE AUER RODS ("FAGGOT CELLS")**. Treatment: **ATRA (all-trans retinoic acid) IMMEDIATELY, plus arsenic trioxide.**
+**PEARL:** **AML M3 / APL — t(15;17) producing the PML-RARα fusion.** Presents with **BLEEDING and DIC (thrombocytopenia with PROLONGED PT AND aPTT)**; the smear shows **hypergranular promyelocytes with MULTIPLE AUER RODS (“FAGGOT CELLS”)**. Treatment: **ATRA (all-trans retinoic acid) IMMEDIATELY, plus arsenic trioxide.**
 
 **UNDERSTAND:** The abnormal promyelocytes are **stuffed with procoagulant granules and are enormously fragile** — as they lyse (spontaneously and especially when chemotherapy is started) they dump tissue factor into the circulation, triggering **DIC and hyperfibrinolysis**. That is why **APL kills by haemorrhage in the first days**, and why **ATRA must be started on clinical suspicion alone, before cytogenetic confirmation**.
 
@@ -3175,7 +3175,7 @@
 
 **PEARL:** **Bone pain (refusing to walk), pallor, fever, bruising, hepatosplenomegaly and lymphadenopathy with PANCYTOPENIA or leucocytosis** → **ALL**. Induction is **PREDNISOLONE + VINCRISTINE** (with an anthracycline and asparaginase). Markers: **TdT+, CD10 (CALLA)+, CD19+**.
 
-**UNDERSTAND:** Every feature is explained by **marrow infiltration plus extramedullary spread**. Blasts crowd out normal haematopoiesis (**anaemia, thrombocytopenia, neutropenia — even when the total WBC is high**), and expansion within bone with periosteal irritation produces the **bone pain that is so often misattributed to trauma or "growing pains"**.
+**UNDERSTAND:** Every feature is explained by **marrow infiltration plus extramedullary spread**. Blasts crowd out normal haematopoiesis (**anaemia, thrombocytopenia, neutropenia — even when the total WBC is high**), and expansion within bone with periosteal irritation produces the **bone pain that is so often misattributed to trauma or “growing pains”**.
 
 **MUST KNOW:**
 
@@ -3184,7 +3184,7 @@
 - **Treatment phases: INDUCTION → CONSOLIDATION/intensification → MAINTENANCE (mercaptopurine + methotrexate, for 2–3 years) — plus CNS PROPHYLAXIS (intrathecal methotrexate) in every patient**, because the CNS is a sanctuary site.
 - **Good prognostic factors: age 1–10, WBC <50 000, hyperdiploidy, t(12;21) ETV6-RUNX1.** **Poor: infants <1 year (MLL/KMT2A rearrangement), age >10, WBC >50 000, t(9;22), hypodiploidy, CNS disease, poor MRD response.**
 - **Watch for TUMOUR LYSIS SYNDROME** on starting therapy: hyperkalaemia, hyperphosphataemia, hyperuricaemia, hypocalcaemia and AKI → hydration + **rasburicase or allopurinol**.
-- **Childhood ALL is now curable in ~90%** — one of oncology's great successes.
+- **Childhood ALL is now curable in ~90%** — one of oncology’s great successes.
 
 **EXAM CONNECTION:** Asked as the **diagnosis**, the **treatment (prednisolone + vincristine)**, or the **associated karyotype (trisomy 21)**.
 
@@ -3198,15 +3198,15 @@
 
 ### 133. Lymphoma Translocations and Markers
 
-**PEARL:** **Burkitt — t(8;14), MYC** ("starry sky", jaw mass, EBV). **Follicular — t(14;18), BCL2.** **Mantle cell — t(11;14), CYCLIN D1**, and immunophenotype **CD5 POSITIVE, cyclin D1 POSITIVE, CD23 NEGATIVE, CD10 NEGATIVE.** **CML — t(9;22), BCR-ABL.** **Anaplastic large cell lymphoma — t(2;5), NPM-ALK, CD30 positive.**
+**PEARL:** **Burkitt — t(8;14), MYC** (“starry sky”, jaw mass, EBV). **Follicular — t(14;18), BCL2.** **Mantle cell — t(11;14), CYCLIN D1**, and immunophenotype **CD5 POSITIVE, cyclin D1 POSITIVE, CD23 NEGATIVE, CD10 NEGATIVE.** **CML — t(9;22), BCR-ABL.** **Anaplastic large cell lymphoma — t(2;5), NPM-ALK, CD30 positive.**
 
 **UNDERSTAND:** Most lymphoma translocations work the same way: an **oncogene is moved next to the powerful immunoglobulin heavy-chain enhancer on chromosome 14**, which drives its constant overexpression. That is why **14 appears in Burkitt, follicular and mantle cell** — and knowing the partner (8 = MYC, 18 = BCL2, 11 = cyclin D1) is all you need.
 
 **MUST KNOW:**
 
 - **CD5-positive B-cell lymphomas are only two: CLL/SLL and MANTLE CELL.** Separate them by **CD23 (POSITIVE in CLL, NEGATIVE in mantle cell) and cyclin D1 (positive only in mantle cell)**. Mantle cell has a **poor prognosis** despite looking indolent.
-- **BCL2 is an ANTI-APOPTOTIC gene** — so follicular lymphoma cells do not die rather than dividing faster; **MYC is a proliferation driver**, hence Burkitt's astonishing doubling time and the **highest proliferation index (Ki-67 ~100%)** of any tumour, with a major risk of **tumour lysis syndrome**.
-- **ALCL: "hallmark cells" with horseshoe/kidney-shaped nuclei, CD30 positive, often ALK positive** — **ALK positivity confers a BETTER prognosis**, and ALK inhibitors (crizotinib) and **brentuximab vedotin (anti-CD30)** are used.
+- **BCL2 is an ANTI-APOPTOTIC gene** — so follicular lymphoma cells do not die rather than dividing faster; **MYC is a proliferation driver**, hence Burkitt’s astonishing doubling time and the **highest proliferation index (Ki-67 ~100%)** of any tumour, with a major risk of **tumour lysis syndrome**.
+- **ALCL: “hallmark cells” with horseshoe/kidney-shaped nuclei, CD30 positive, often ALK positive** — **ALK positivity confers a BETTER prognosis**, and ALK inhibitors (crizotinib) and **brentuximab vedotin (anti-CD30)** are used.
 - **CD30 is also positive in Hodgkin lymphoma (with CD15) — the Reed–Sternberg cell is CD15+/CD30+ and CD45 NEGATIVE.**
 - **Burkitt variants: endemic African (JAW/facial bone, EBV-driven), sporadic (ABDOMINAL/ileocaecal), and immunodeficiency-associated (HIV).**
 
@@ -3231,14 +3231,14 @@
 
 - **The classical eponyms:** **LETTERER–SIWE** — acute disseminated, in infants, with rash, hepatosplenomegaly, lymphadenopathy and cytopenias (worst prognosis); **HAND–SCHÜLLER–CHRISTIAN** — the triad of **lytic skull lesions, EXOPHTHALMOS and DIABETES INSIPIDUS**; **EOSINOPHILIC GRANULOMA** — a solitary bone lesion in an older child (best prognosis).
 - **DIABETES INSIPIDUS from pituitary stalk infiltration is the commonest permanent sequela** — always ask about polyuria and polydipsia.
-- **A chronic discharging ear or "seborrhoeic dermatitis" that fails to respond to treatment in an infant should raise LCH** — the most useful clinical prompt.
-- **Skull X-ray shows "punched-out" lytic lesions with BEVELLED EDGES** and, in the mandible, "**floating teeth**".
+- **A chronic discharging ear or “seborrhoeic dermatitis” that fails to respond to treatment in an infant should raise LCH** — the most useful clinical prompt.
+- **Skull X-ray shows “punched-out” lytic lesions with BEVELLED EDGES** and, in the mandible, “**floating teeth**”.
 - **BRAF V600E mutations** make **BRAF inhibitors** (vemurafenib, dabrafenib and encorafenib) effective in refractory disease; localised disease may need only curettage or observation.
 - **Distinguish the histology options: lymphoblasts CD3+ → T-ALL; plasma cells with Russell bodies → chronic inflammation/myeloma; Reed–Sternberg cells → Hodgkin lymphoma.**
 
 **EXAM CONNECTION:** Infant + seborrhoeic rash + lytic skull lesion + ear discharge → **Birbeck granules**.
 
-**ALSO KNOW:** The rash is **scaly, crusted, petechial, in the scalp and flexures** — mistaken for cradle cap or nappy rash that “won't clear”. Skeletal signs: punched-out skull lesions **WITHOUT a sclerotic rim**, a **BEVELLED EDGE / “hole-within-a-hole”**, **BUTTON SEQUESTRUM**, **FLOATING TEETH** (loss of the lamina dura) and **VERTEBRA PLANA** (LCH is the commonest cause in children). **DIABETES INSIPIDUS from pituitary stalk involvement is the commonest endocrine complication.**
+**ALSO KNOW:** The rash is **scaly, crusted, petechial, in the scalp and flexures** — mistaken for cradle cap or nappy rash that “won’t clear”. Skeletal signs: punched-out skull lesions **WITHOUT a sclerotic rim**, a **BEVELLED EDGE / “hole-within-a-hole”**, **BUTTON SEQUESTRUM**, **FLOATING TEETH** (loss of the lamina dura) and **VERTEBRA PLANA** (LCH is the commonest cause in children). **DIABETES INSIPIDUS from pituitary stalk involvement is the commonest endocrine complication.**
 
 **REMEMBER:** *Rash, punched-out skull, and a discharging ear — look for tennis racquets under the electron microscope.*
 
@@ -3250,7 +3250,7 @@
 
 **PEARL:** **PROTEASOME INHIBITORS (bortezomib, carfilzomib) kill myeloma cells by causing INCREASED APOPTOSIS** — accumulated misfolded protein produces ER stress, and **NF-κB signalling is inhibited**. In **severe HYPERCALCAEMIA, the FIRST step is aggressive IV NORMAL SALINE** — not chemotherapy, bisphosphonates or transplant.
 
-**UNDERSTAND:** Plasma cells are **protein factories** producing vast quantities of immunoglobulin — so they are **uniquely dependent on the proteasome** to clear misfolded protein. Blocking it floods the cell with toxic protein aggregates. This is **selective toxicity by exploiting a cell's own overproduction**, and it is why the drug class works in myeloma above all other cancers.
+**UNDERSTAND:** Plasma cells are **protein factories** producing vast quantities of immunoglobulin — so they are **uniquely dependent on the proteasome** to clear misfolded protein. Blocking it floods the cell with toxic protein aggregates. This is **selective toxicity by exploiting a cell’s own overproduction**, and it is why the drug class works in myeloma above all other cancers.
 
 **MUST KNOW:**
 
@@ -3258,10 +3258,10 @@
 - **CRAB features define symptomatic myeloma: hyperCalcaemia, Renal impairment, Anaemia, Bone lesions.** Plus the **SLiM criteria** (≥60% clonal plasma cells, involved:uninvolved free light chain ratio ≥100, >1 focal MRI lesion).
 - **Imaging: LYTIC lesions with NO sclerotic rim and NO uptake on bone scan** (osteoblasts are suppressed) — hence a **skeletal survey or whole-body low-dose CT/PET-CT, not a bone scan**.
 - **Renal failure in myeloma is multifactorial: cast nephropathy (light chains), hypercalcaemia, dehydration, hyperuricaemia, amyloidosis and NSAIDs.** **Avoid contrast and NSAIDs.**
-- **Bortezomib's key toxicity is PAINFUL PERIPHERAL NEUROPATHY** (reduced by subcutaneous administration) and **herpes zoster reactivation — give aciclovir prophylaxis**.
+- **Bortezomib’s key toxicity is PAINFUL PERIPHERAL NEUROPATHY** (reduced by subcutaneous administration) and **herpes zoster reactivation — give aciclovir prophylaxis**.
 - **PRIMARY PLASMA CELL LEUKAEMIA** — **>20% circulating plasma cells (or >2000/µL) with NO prior myeloma** — is a distinct, aggressive entity; **secondary PCL** is leukaemic transformation of known myeloma.
 
-**EXAM CONNECTION:** "Most appropriate INITIAL management" of myeloma with calcium 14.8 → **IV normal saline**. And "effect of a proteasome blocker" → **increased apoptosis**.
+**EXAM CONNECTION:** “Most appropriate INITIAL management” of myeloma with calcium 14.8 → **IV normal saline**. And “effect of a proteasome blocker” → **increased apoptosis**.
 
 **REMEMBER:** *Fluid first, then the bisphosphonate, then the myeloma. And the proteasome inhibitor works because plasma cells make too much protein.*
 
@@ -3284,12 +3284,12 @@
 - **Diagnostic threshold: ≥5000/µL monoclonal B lymphocytes** in the blood. Below that with no nodes = monoclonal B lymphocytosis.
 - **FISH is for PROGNOSIS: del(13q) is favourable; TRISOMY 12 intermediate; del(11q) and especially del(17p)/TP53 mutation are ADVERSE and predict chemo-resistance** — these patients get **BTK inhibitors (ibrutinib, acalabrutinib) or venetoclax (BCL2 inhibitor)** rather than chemoimmunotherapy.
 - **Complications: AUTOIMMUNE HAEMOLYTIC ANAEMIA and ITP (paradoxical autoimmunity), HYPOGAMMAGLOBULINAEMIA with recurrent infection (the leading cause of death), and RICHTER TRANSFORMATION to diffuse large B-cell lymphoma** — suspect with **rapid nodal enlargement, B symptoms and a rising LDH → this is when you do a NODE BIOPSY**.
-- **Staging: RAI and BINET.** **Early asymptomatic disease is NOT treated** — "watch and wait" is standard and treating early does not prolong life.
+- **Staging: RAI and BINET.** **Early asymptomatic disease is NOT treated** — “watch and wait” is standard and treating early does not prolong life.
 - **CD5+ B cells** — remember only CLL and mantle cell (separated by CD23).
 
-**EXAM CONNECTION:** "Most appropriate investigation to CONFIRM" → **flow cytometry of peripheral blood**.
+**EXAM CONNECTION:** “Most appropriate investigation to CONFIRM” → **flow cytometry of peripheral blood**.
 
-**REMEMBER:** *Smudge cells and lymphocytosis in an older adult — flow the blood, don't stick the marrow.*
+**REMEMBER:** *Smudge cells and lymphocytosis in an older adult — flow the blood, don’t stick the marrow.*
 
 `Q9468`
 
@@ -3297,7 +3297,7 @@
 
 ### 137. Dry Tap on Bone Marrow Aspiration
 
-**PEARL:** A **"dry tap" (failure to aspirate marrow)** occurs with **FIBROSIS, packed hypercellularity or dense infiltration** — classically **PRIMARY MYELOFIBROSIS, HAIRY CELL LEUKAEMIA, AML-M7 (acute megakaryoblastic), myelodysplastic syndrome (fibrotic variant), and metastatic marrow infiltration**. It **mandates a TREPHINE BIOPSY**.
+**PEARL:** A **“dry tap” (failure to aspirate marrow)** occurs with **FIBROSIS, packed hypercellularity or dense infiltration** — classically **PRIMARY MYELOFIBROSIS, HAIRY CELL LEUKAEMIA, AML-M7 (acute megakaryoblastic), myelodysplastic syndrome (fibrotic variant), and metastatic marrow infiltration**. It **mandates a TREPHINE BIOPSY**.
 
 **UNDERSTAND:** Aspiration only works if marrow cells are **free enough to be sucked out**. Anything that lays down **reticulin/collagen** — or packs the marrow so densely that it cannot flow — produces a dry tap. **Megakaryocytes are the fibrosis-driving cell** (they release PDGF and TGF-β), which is why both **myelofibrosis and AML-M7 (a megakaryoblastic leukaemia)** are on the list.
 
@@ -3325,13 +3325,13 @@
 
 **MUST KNOW:**
 
-- **The name "chloroma" comes from its GREEN colour** on cut section — due to **MYELOPEROXIDASE** in the immature myeloid cells (it fades on exposure to air).
-- **Sites: orbit (hence proptosis), skin ("leukaemia cutis"), bone, lymph nodes, CNS and gums.** **GUM HYPERTROPHY (gingival infiltration) is characteristic of the MONOCYTIC subtypes AML-M4 and M5.**
+- **The name “chloroma” comes from its GREEN colour** on cut section — due to **MYELOPEROXIDASE** in the immature myeloid cells (it fades on exposure to air).
+- **Sites: orbit (hence proptosis), skin (“leukaemia cutis”), bone, lymph nodes, CNS and gums.** **GUM HYPERTROPHY (gingival infiltration) is characteristic of the MONOCYTIC subtypes AML-M4 and M5.**
 - **It is strongly associated with t(8;21) AML**, and may precede marrow involvement by months — **isolated myeloid sarcoma must still be treated as systemic AML**.
-- **Differential for childhood proptosis: NEUROBLASTOMA metastasis (with periorbital ecchymoses — "raccoon eyes"), rhabdomyosarcoma, LCH, orbital cellulitis, and retinoblastoma** (which causes leucocoria rather than proptosis early).
+- **Differential for childhood proptosis: NEUROBLASTOMA metastasis (with periorbital ecchymoses — “raccoon eyes”), rhabdomyosarcoma, LCH, orbital cellulitis, and retinoblastoma** (which causes leucocoria rather than proptosis early).
 - **Treat with systemic AML chemotherapy** — local radiotherapy alone is inadequate.
 
-**EXAM CONNECTION:** "Next investigation of choice" → **bone marrow examination** (flow cytometry is done *on* that sample, so it cannot be the next step).
+**EXAM CONNECTION:** “Next investigation of choice” → **bone marrow examination** (flow cytometry is done *on* that sample, so it cannot be the next step).
 
 **REMEMBER:** *Green tumour, myeloperoxidase, bilateral proptosis in a child — it is AML until the marrow proves otherwise.*
 
@@ -3343,7 +3343,7 @@
 
 **PEARL:** The iron profile is the **MIRROR IMAGE of iron deficiency: HIGH serum iron, HIGH transferrin SATURATION, HIGH ferritin, LOW/normal TIBC**, with a **DIMORPHIC blood picture** and **marked ERYTHROID HYPERPLASIA** with **RING SIDEROBLASTS** in the marrow.
 
-**UNDERSTAND:** The defect is in **incorporating iron into haem, not in obtaining iron**. Iron therefore **arrives at the erythroblast normally but cannot be used**, and accumulates in the **perinuclear MITOCHONDRIA — producing the ring sideroblast** (demonstrated by **PERLS' PRUSSIAN BLUE** stain). The marrow works harder (erythroid hyperplasia) but produces defective cells — **ineffective erythropoiesis**, which is why iron overload develops without transfusion.
+**UNDERSTAND:** The defect is in **incorporating iron into haem, not in obtaining iron**. Iron therefore **arrives at the erythroblast normally but cannot be used**, and accumulates in the **perinuclear MITOCHONDRIA — producing the ring sideroblast** (demonstrated by **PERLS’ PRUSSIAN BLUE** stain). The marrow works harder (erythroid hyperplasia) but produces defective cells — **ineffective erythropoiesis**, which is why iron overload develops without transfusion.
 
 **MUST KNOW:**
 
@@ -3353,7 +3353,7 @@
 - **Contrast the microcytic anaemias:** **iron deficiency — low iron, HIGH TIBC, low saturation, low ferritin, RAISED RDW**; **thalassaemia trait — normal iron studies with a very high red cell count and a LOW MENTZER INDEX (MCV/RBC <13)**; **anaemia of chronic disease — low iron, LOW TIBC, normal/high ferritin, raised hepcidin**; **sideroblastic — high iron and saturation**.
 - **Treatment: remove the cause, pyridoxine, transfusion with IRON CHELATION** — and **never give iron**.
 
-**EXAM CONNECTION:** "Which would NOT be seen?" → **low serum iron** (it is high).
+**EXAM CONNECTION:** “Which would NOT be seen?” → **low serum iron** (it is high).
 
 **REMEMBER:** *Plenty of iron that the cell cannot use — the exact opposite of iron deficiency, and never give more iron.*
 
@@ -3371,12 +3371,12 @@
 
 - **IPSID presents in young adults in the Mediterranean, Middle East and South Asia with chronic DIARRHOEA, MALABSORPTION, weight loss, abdominal pain and clubbing** — associated with poor sanitation and with ***CAMPYLOBACTER JEJUNI*** infection.
 - **EARLY-STAGE IPSID CAN RESPOND TO ANTIBIOTICS ALONE (tetracycline)** — the same principle as **gastric MALT lymphoma regressing after *H. pylori* eradication**. This antigen-driven, antibiotic-responsive behaviour is the most remarkable fact about the condition.
-- **Gamma HCD (Franklin) presents like a lymphoma with lymphadenopathy, hepatosplenomegaly and characteristically PALATAL OEDEMA from Waldeyer's ring involvement.**
+- **Gamma HCD (Franklin) presents like a lymphoma with lymphadenopathy, hepatosplenomegaly and characteristically PALATAL OEDEMA from Waldeyer’s ring involvement.**
 - **Mu HCD is associated with CLL** and shows **vacuolated plasma cells** in the marrow.
 - **Fit them into the plasma cell dyscrasias: MGUS → smouldering myeloma → multiple myeloma → plasma cell leukaemia; plus WALDENSTRÖM MACROGLOBULINAEMIA (IgM, lymphoplasmacytic lymphoma, HYPERVISCOSITY treated with plasmapheresis), AL amyloidosis, and the heavy chain diseases.**
 - **Diagnosis is by serum/urine IMMUNOFIXATION showing a heavy chain WITHOUT a light chain.**
 
-**EXAM CONNECTION:** "Most common heavy chain disease" → **alpha (Seligmann disease)**.
+**EXAM CONNECTION:** “Most common heavy chain disease” → **alpha (Seligmann disease)**.
 
 **REMEMBER:** *Alpha is the gut immunoglobulin — so alpha HCD is a small bowel lymphoma that can be cured with an antibiotic.*
 
@@ -3409,7 +3409,7 @@
 
 ### 142. Haemophilia — Pattern of Bleeding
 
-**PEARL:** The commonest bleeding manifestation of **severe haemophilia is RECURRENT HAEMARTHROSIS**, most often into the **KNEE** ("target joint"). Severity is graded by residual factor activity: **SEVERE <1%, MODERATE 1–5%, MILD 6–30%.**
+**PEARL:** The commonest bleeding manifestation of **severe haemophilia is RECURRENT HAEMARTHROSIS**, most often into the **KNEE** (“target joint”). Severity is graded by residual factor activity: **SEVERE <1%, MODERATE 1–5%, MILD 6–30%.**
 
 **UNDERSTAND:** Coagulation factor deficiency causes **DEEP tissue and joint bleeding with DELAYED onset**, because the platelet plug forms normally but **cannot be stabilised by fibrin** — so bleeding stops and then restarts hours later. **Platelet and vessel disorders instead cause IMMEDIATE, SUPERFICIAL mucocutaneous bleeding** — petechiae, purpura, epistaxis and menorrhagia. That single contrast answers most bleeding-disorder questions.
 
@@ -3423,7 +3423,7 @@
 - **AVOID intramuscular injections, aspirin and NSAIDs.** **Muscle haematomas can cause COMPARTMENT SYNDROME**; a retroperitoneal/iliopsoas bleed mimics appendicitis and causes femoral nerve palsy.
 - **VON WILLEBRAND DISEASE is the commonest INHERITED bleeding disorder overall** (autosomal dominant) — mucocutaneous bleeding, prolonged bleeding time, abnormal ristocetin aggregation, and a mildly prolonged aPTT.
 
-**EXAM CONNECTION:** "Most common bleeding manifestation of severe haemophilia" → **recurrent haemarthrosis**.
+**EXAM CONNECTION:** “Most common bleeding manifestation of severe haemophilia” → **recurrent haemarthrosis**.
 
 **REMEMBER:** *Factors bleed deep and late into joints; platelets bleed shallow and at once into skin.*
 
@@ -3439,14 +3439,14 @@
 
 **MUST KNOW:**
 
-- **Diagnostic criteria: ≥10% clonal marrow plasma cells (or a plasmacytoma) PLUS at least one myeloma-defining event — the "CRAB" features: hyperCalcaemia >11, Renal insufficiency (creatinine >2 or eGFR <40), Anaemia (Hb <10), Bone lytic lesions.** **≥60% plasma cells, a light-chain ratio ≥100, or >1 focal MRI lesion are now myeloma-defining even WITHOUT CRAB** (the "SLiM" criteria) — as in this patient.
-- **Bone disease is PURELY LYTIC — "PUNCHED-OUT" lesions and the "RAIN-DROP/PEPPER-POT" skull — with a NORMAL ALKALINE PHOSPHATASE and a NEGATIVE bone scan**, because osteoblasts are suppressed. **Use skeletal survey, whole-body low-dose CT or PET-CT, not a radionuclide bone scan.**
-- **Renal failure in myeloma is multifactorial: cast nephropathy (light chains + Tamm–Horsfall protein = "myeloma kidney"), hypercalcaemia, dehydration, hyperuricaemia, amyloidosis, and NSAIDs/contrast.** **Routine urine dipstick MISSES Bence Jones protein** (it detects albumin only) — you need **urine electrophoresis/immunofixation or serum free light chains**.
+- **Diagnostic criteria: ≥10% clonal marrow plasma cells (or a plasmacytoma) PLUS at least one myeloma-defining event — the “CRAB” features: hyperCalcaemia >11, Renal insufficiency (creatinine >2 or eGFR <40), Anaemia (Hb <10), Bone lytic lesions.** **≥60% plasma cells, a light-chain ratio ≥100, or >1 focal MRI lesion are now myeloma-defining even WITHOUT CRAB** (the “SLiM” criteria) — as in this patient.
+- **Bone disease is PURELY LYTIC — “PUNCHED-OUT” lesions and the “RAIN-DROP/PEPPER-POT” skull — with a NORMAL ALKALINE PHOSPHATASE and a NEGATIVE bone scan**, because osteoblasts are suppressed. **Use skeletal survey, whole-body low-dose CT or PET-CT, not a radionuclide bone scan.**
+- **Renal failure in myeloma is multifactorial: cast nephropathy (light chains + Tamm–Horsfall protein = “myeloma kidney”), hypercalcaemia, dehydration, hyperuricaemia, amyloidosis, and NSAIDs/contrast.** **Routine urine dipstick MISSES Bence Jones protein** (it detects albumin only) — you need **urine electrophoresis/immunofixation or serum free light chains**.
 - **Other classic findings: ROULEAUX formation, a very high ESR, a NARROW ANION GAP (cationic paraprotein), an M-spike on electrophoresis with immune paresis, and recurrent ENCAPSULATED-organism infections — infection is the commonest cause of death.**
 - **Hypercalcaemia treatment ladder: SALINE first, then ZOLEDRONIC ACID/pamidronate (works in 2–4 days; reduce dose in renal failure), CALCITONIN for rapid short-term effect, steroids in myeloma/lymphoma, and denosumab where bisphosphonates are contraindicated. AVOID loop diuretics until volume-replete, and avoid thiazides entirely.**
 - **Definitive therapy: a triplet or quadruplet (bortezomib + lenalidomide + dexamethasone ± daratumumab) followed by AUTOLOGOUS stem cell transplant in fit patients** — but only after the metabolic emergency is corrected.
 
-**EXAM CONNECTION:** "Next appropriate step" in myeloma with AKI and hypercalcaemia → **fluids + dexamethasone**.
+**EXAM CONNECTION:** “Next appropriate step” in myeloma with AKI and hypercalcaemia → **fluids + dexamethasone**.
 
 **REMEMBER:** *Rehydrate before you treat the plasma cells — the calcium is what is killing the kidney.*
 
@@ -3461,7 +3461,7 @@
 
 **PEARL:** Vitamin B12 is a cofactor for exactly **two** human enzymes: **methionine synthase** (homocysteine + methyl-THF → methionine + THF) and **methylmalonyl-CoA mutase** (methylmalonyl-CoA → succinyl-CoA).
 
-**UNDERSTAND:** Every clinical and biochemical feature of B12 deficiency falls out of these two reactions. Blocking **methionine synthase** traps folate as **methyl-THF (the "methyl-folate trap")**, starving DNA synthesis of THF → **megaloblastic anaemia**, and raises **homocysteine**. Blocking the **mutase** causes accumulation of **methylmalonic acid**, which disrupts myelin synthesis → **subacute combined degeneration**. Folate can rescue the anaemia but not the mutase — which is why **giving folate alone to a B12-deficient patient corrects the blood picture while the neurology progresses**.
+**UNDERSTAND:** Every clinical and biochemical feature of B12 deficiency falls out of these two reactions. Blocking **methionine synthase** traps folate as **methyl-THF (the “methyl-folate trap”)**, starving DNA synthesis of THF → **megaloblastic anaemia**, and raises **homocysteine**. Blocking the **mutase** causes accumulation of **methylmalonic acid**, which disrupts myelin synthesis → **subacute combined degeneration**. Folate can rescue the anaemia but not the mutase — which is why **giving folate alone to a B12-deficient patient corrects the blood picture while the neurology progresses**.
 
 **MUST KNOW:**
 
@@ -3471,7 +3471,7 @@
 - Causes: **pernicious anaemia** (anti-intrinsic factor and anti-parietal cell antibodies, atrophic gastritis, ↑ gastric cancer risk), gastrectomy, ileal resection/Crohn, **fish tapeworm (D. latum)**, blind loop, **strict vegan diet**, **metformin and PPIs**, and **nitrous oxide** (oxidises cobalamin — a classic exam cause of acute SCD in abusers).
 - **B6 (pyridoxal phosphate)** is the cofactor for **cystathionine β-synthase and cystathionase** — deficiency also raises homocysteine; **homocystinuria** is CBS deficiency (marfanoid, **downward lens dislocation**, thrombosis, treat with pyridoxine).
 
-**EXAM CONNECTION:** "Which enzyme depends on the deficient vitamin?" — the two-enzyme list is the whole answer. Folate reductase and the cystathionine enzymes are always the distractors.
+**EXAM CONNECTION:** “Which enzyme depends on the deficient vitamin?” — the two-enzyme list is the whole answer. Folate reductase and the cystathionine enzymes are always the distractors.
 
 **REMEMBER:** *Two enzymes only: methionine synthase (blood) and methylmalonyl-CoA mutase (nerves).*
 
@@ -3523,9 +3523,9 @@
 | **Thalassaemia trait** | Normal/↑ | Normal | Normal/↑ | Normal |
 | **Sideroblastic anaemia** | ↑ | Normal/↓ | ↑ | ↑ |
 
-- **Ferritin is the single best test for iron deficiency** (<15 ng/mL diagnostic; <30 highly suggestive) — but it is an **acute-phase reactant**, so a "normal" ferritin does not exclude deficiency in inflammation; use **soluble transferrin receptor** (raised in deficiency, normal in ACD) or a **ferritin threshold of <100** in that setting.
+- **Ferritin is the single best test for iron deficiency** (<15 ng/mL diagnostic; <30 highly suggestive) — but it is an **acute-phase reactant**, so a “normal” ferritin does not exclude deficiency in inflammation; use **soluble transferrin receptor** (raised in deficiency, normal in ACD) or a **ferritin threshold of <100** in that setting.
 - **Iron deficiency in an adult male or postmenopausal woman = GI blood loss until proven otherwise** → endoscopy and colonoscopy; in India, also consider **hookworm** and coeliac disease.
-- **Hereditary haemochromatosis: HFE C282Y**; triad of **cirrhosis, diabetes ("bronze diabetes") and skin pigmentation**, plus arthropathy (2nd/3rd MCP joints), cardiomyopathy and hypogonadism. **Treat with venesection** (chelation with deferasirox/deferoxamine when anaemic, as in thalassaemia).
+- **Hereditary haemochromatosis: HFE C282Y**; triad of **cirrhosis, diabetes (“bronze diabetes”) and skin pigmentation**, plus arthropathy (2nd/3rd MCP joints), cardiomyopathy and hypogonadism. **Treat with venesection** (chelation with deferasirox/deferoxamine when anaemic, as in thalassaemia).
 - **Haemosiderosis** = iron deposition **without tissue damage** (e.g. from repeated transfusion); haemochromatosis implies organ injury.
 
 **EXAM CONNECTION:** Pick the one condition where the **saturation falls** — only true iron deficiency depresses iron **and** raises TIBC.
@@ -3597,7 +3597,7 @@
 
 **MUST KNOW:**
 
-- **APML = AML-M3, t(15;17) PML–RARA fusion**; blasts contain **abundant AUER RODS ("faggot cells")**. It is the AML subtype that classically presents with **life-threatening DIC** — fibrinogen and platelets must be replaced aggressively.
+- **APML = AML-M3, t(15;17) PML–RARA fusion**; blasts contain **abundant AUER RODS (“faggot cells”)**. It is the AML subtype that classically presents with **life-threatening DIC** — fibrinogen and platelets must be replaced aggressively.
 - **ATRA is started on clinical SUSPICION, before cytogenetic confirmation**, because it rapidly reverses the coagulopathy — the leading early cause of death.
 - **APML is now the most curable form of AML** — the combination of **ATRA + ARSENIC TRIOXIDE** achieves cure in most patients **without conventional chemotherapy**.
 - **Differentiation syndrome occurs in ~25%, typically in the first 1–3 weeks**; risk is highest with a **rapidly rising white cell count** — cytoreduction (hydroxyurea) may be added. **Steroid prophylaxis** is used in high-risk patients.
@@ -3626,7 +3626,7 @@
 - **EPO-secreting tumours: RENAL CELL CARCINOMA, hepatocellular carcinoma, cerebellar haemangioblastoma, uterine fibroids, phaeochromocytoma.** Also consider **exogenous EPO or androgen abuse** in athletes.
 - **Other myeloproliferative neoplasms: essential thrombocythaemia (JAK2/CALR/MPL), primary myelofibrosis (dry tap, TEARDROP cells, massive splenomegaly, reticulin fibrosis on biopsy — hence the reticulin stain option), and CML (Philadelphia chromosome, basophilia, low LAP score).**
 
-**EXAM CONNECTION:** "Next step" in a polycythaemic patient with an environmental clue (**high altitude**) → **erythropoietin level** before JAK2 or a marrow biopsy.
+**EXAM CONNECTION:** “Next step” in a polycythaemic patient with an environmental clue (**high altitude**) → **erythropoietin level** before JAK2 or a marrow biopsy.
 
 **REMEMBER:** *Low EPO means the marrow is doing it by itself.*
 
@@ -3670,7 +3670,7 @@
 - **DRY TAP on bone marrow aspiration** from marrow fibrosis — biopsy is required.
 - Cells: **TRAP-positive**, **CD11c, CD25, CD103, CD123 positive**, with cytoplasmic projections.
 - **BRAF V600E mutation** is present in essentially all cases → **vemurafenib** for refractory disease. Second-line/adjunct: **pentostatin (deoxycoformycin)**, **rituximab** (deepens remission), interferon-α, splenectomy.
-- Cladribine's dose-limiting toxicity is **myelosuppression**; it is also used in **CLL, low-grade lymphoma, Langerhans cell histiocytosis and Waldenström's**.
+- Cladribine’s dose-limiting toxicity is **myelosuppression**; it is also used in **CLL, low-grade lymphoma, Langerhans cell histiocytosis and Waldenström’s**.
 
 **EXAM CONNECTION:** Drug-of-choice recall. Vemurafenib is the tempting modern answer but is reserved for **refractory** disease.
 
@@ -3764,7 +3764,7 @@
 
 **MUST KNOW:**
 
-- Classic patient: an **elderly woman** with **macrocytic anaemia, a normal or HIGH platelet count**, and **hypolobated (mononuclear) megakaryocytes** — the "**5q− syndrome**".
+- Classic patient: an **elderly woman** with **macrocytic anaemia, a normal or HIGH platelet count**, and **hypolobated (mononuclear) megakaryocytes** — the “**5q− syndrome**”.
 - Lenalidomide produces **transfusion independence** in ~two-thirds and can cause **cytogenetic remission**.
 - Low risk of transformation to AML; the **IPSS-R** score guides overall MDS management (azacitidine/decitabine for high risk, allogeneic HSCT for the fit young).
 
@@ -3829,7 +3829,7 @@
 
 **UNDERSTAND:** These macrophages are **not** enzyme-deficient — they are simply **overwhelmed by the volume of cell membrane (glucocerebroside) they must digest**. True Gaucher disease is a **glucocerebrosidase deficiency**.
 
-**MUST KNOW:** Also seen in **thalassaemia, sickle cell disease, and other myeloproliferative disorders**. True Gaucher cells have a "**crumpled tissue paper**" cytoplasm; sea-blue histiocytes stain blue with Giemsa/Wright.
+**MUST KNOW:** Also seen in **thalassaemia, sickle cell disease, and other myeloproliferative disorders**. True Gaucher cells have a “**crumpled tissue paper**” cytoplasm; sea-blue histiocytes stain blue with Giemsa/Wright.
 
 **REMEMBER:** *Too much turnover, not too little enzyme = pseudo-Gaucher (think CML).*
 
@@ -3849,14 +3849,14 @@
 
 **MUST KNOW:**
 
-- **Only *P. vivax* and *P. ovale* form HYPNOZOITES and relapse** — *P. falciparum* and *P. malariae* do not (falciparum "recrudesces" from persisting blood forms instead).
+- **Only *P. vivax* and *P. ovale* form HYPNOZOITES and relapse** — *P. falciparum* and *P. malariae* do not (falciparum “recrudesces” from persisting blood forms instead).
 - **CHECK G6PD STATUS BEFORE PRIMAQUINE** — it causes severe haemolysis in deficiency. It is also **contraindicated in pregnancy and infants** (give weekly chloroquine prophylaxis until delivery instead). **Tafenoquine** is the single-dose alternative, with the same G6PD caveat.
 - **National (NVBDCP) regimens: *P. vivax* — chloroquine 3 days + PRIMAQUINE 0.25 mg/kg for 14 DAYS. *P. falciparum* — ACT (artesunate + sulfadoxine-pyrimethamine in most of India; artemether–lumefantrine in the North-East) + a SINGLE dose of primaquine on day 2 as a GAMETOCYTOCIDE (to block transmission).**
 - **Severe malaria: IV ARTESUNATE is the drug of choice** (superior to quinine — AQUAMAT/SEAQUAMAT trials), followed by a full oral ACT course. Watch for **delayed post-artesunate haemolysis**.
 - **ACTs pair a fast-acting, rapidly eliminated artemisinin with a slowly eliminated partner drug** — the artemisinin clears the bulk of parasites quickly and the partner mops up survivors, which both shortens treatment and **protects against resistance**.
 - **Chloroquine remains effective for vivax, ovale, malariae and knowlesi**, but not for chloroquine-resistant falciparum.
 
-**EXAM CONNECTION:** "Complete CLINICAL cure achieved by" → the **blood schizonticides (artemisinin, S-P, chloroquine)** — primaquine is excluded because it gives **radical**, not clinical, cure.
+**EXAM CONNECTION:** “Complete CLINICAL cure achieved by” → the **blood schizonticides (artemisinin, S-P, chloroquine)** — primaquine is excluded because it gives **radical**, not clinical, cure.
 
 **REMEMBER:** *Blood stages end the fever; only primaquine empties the liver and stops the relapse.*
 
@@ -3876,7 +3876,7 @@
 - **Empirical therapy: CEFTRIAXONE (± VANCOMYCIN where pneumococcal resistance is a concern) + AMPICILLIN if >50 years, pregnant, or immunocompromised (to cover *LISTERIA*, which cephalosporins miss).**
 - **DEXAMETHASONE 0.15 mg/kg given BEFORE or WITH the first antibiotic dose** reduces mortality and hearing loss in **pneumococcal meningitis in adults and *H. influenzae* in children**. Giving it after the antibiotic is ineffective.
 - **CSF PATTERNS — the single most examined table:** **BACTERIAL — turbid, high opening pressure, thousands of cells with NEUTROPHILS, VERY LOW glucose, high protein.** **VIRAL — clear, lymphocytes, NORMAL glucose, mildly raised protein.** **TUBERCULOUS — clear with a FIBRIN WEB (cobweb) on standing, LYMPHOCYTES, LOW glucose, VERY HIGH protein, subacute over weeks.** **FUNGAL (cryptococcal) — lymphocytes, low glucose, high opening pressure, India ink/CrAg positive.**
-- **"Subacute onset + lymphocytes + LOW glucose + very high protein" = TUBERCULOUS meningitis** — the low glucose is what separates it from viral. Basal exudates cause **cranial nerve palsies (especially VI) and hydrocephalus**; treat with **ATT plus steroids**.
+- **“Subacute onset + lymphocytes + LOW glucose + very high protein” = TUBERCULOUS meningitis** — the low glucose is what separates it from viral. Basal exudates cause **cranial nerve palsies (especially VI) and hydrocephalus**; treat with **ATT plus steroids**.
 - **Kernig and Brudzinski signs are specific but INSENSITIVE** — their absence does not exclude meningitis.
 
 **EXAM CONNECTION:** Sequencing question → **stabilise, fundoscopy, LP, then antibiotics** (in the stable patient).
@@ -3903,7 +3903,7 @@
 - **Vaccination (conjugate ACWY, MenB) is used for outbreak control, the Hajj, and complement-deficient or asplenic patients.**
 - **Recurrent Neisserial infection → check TERMINAL COMPLEMENT (C5–C9).**
 
-**EXAM CONNECTION:** "Drug of choice for chemoprophylaxis" → **rifampicin**.
+**EXAM CONNECTION:** “Drug of choice for chemoprophylaxis” → **rifampicin**.
 
 **REMEMBER:** *Prophylaxis clears the throat, not the meninges — which is why it is rifampicin, not penicillin.*
 
@@ -3925,7 +3925,7 @@
 - **TUBERCULOSIS occurs at ANY CD4 count** and is the commonest opportunistic infection in India; **at low CD4 counts it presents ATYPICALLY — lower lobe or miliary disease, no cavitation, and a NEGATIVE sputum smear** (hence CBNAAT/GeneXpert).
 - **Disseminated HISTOPLASMOSIS** — a key Indian differential in advanced HIV: **fever, weight loss, hepatosplenomegaly, pancytopenia, ORAL/mucosal ULCERS, ADRENAL INSUFFICIENCY**, and **UMBILICATED PAPULES that mimic molluscum contagiosum** with **reticulonodular lung infiltrates**. Diagnose by **urine/serum antigen, bone marrow or blood culture**; treat with **liposomal amphotericin B then itraconazole**.
 
-**EXAM CONNECTION:** "Most common causative organism" in a **productive** cough with **lobar consolidation**, whatever the CD4 → ***S. pneumoniae***.
+**EXAM CONNECTION:** “Most common causative organism” in a **productive** cough with **lobar consolidation**, whatever the CD4 → ***S. pneumoniae***.
 
 **REMEMBER:** *Wet cough and a lobe = pneumococcus; dry cough and a haze = Pneumocystis; molluscum-like papules with fever = histoplasma.*
 
@@ -3941,7 +3941,7 @@
 
 ### 167. Procalcitonin
 
-**PEARL:** Procalcitonin's established role is to **guide the DURATION of antibiotic therapy (and support stopping antibiotics)** in lower respiratory tract infection and sepsis. It is **NOT accurate enough to diagnose pneumonia, to choose empirical therapy, or to distinguish fungal from bacterial infection**, and must never be used to **withhold** initial antibiotics in a seriously ill patient.
+**PEARL:** Procalcitonin’s established role is to **guide the DURATION of antibiotic therapy (and support stopping antibiotics)** in lower respiratory tract infection and sepsis. It is **NOT accurate enough to diagnose pneumonia, to choose empirical therapy, or to distinguish fungal from bacterial infection**, and must never be used to **withhold** initial antibiotics in a seriously ill patient.
 
 **UNDERSTAND:** Procalcitonin rises in **bacterial infection (driven by IL-1β, TNF-α and IL-6) and is SUPPRESSED by interferon-γ, which is released in VIRAL infection** — which is why it discriminates bacterial from viral better than CRP. But its **sensitivity is inadequate for a rule-out decision**, so it earns its place in **antibiotic stewardship (de-escalation), not diagnosis**.
 
@@ -3954,7 +3954,7 @@
 - **VAP prevention bundle: head-up 30–45°, daily sedation interruption and assessment for extubation, oral chlorhexidine, subglottic secretion drainage, and DVT/peptic ulcer prophylaxis.**
 - **Clinical judgement, imaging and cultures remain primary — biomarkers are adjuncts.**
 
-**EXAM CONNECTION:** "Role of procalcitonin" → **to decide the duration of antibiotics**.
+**EXAM CONNECTION:** “Role of procalcitonin” → **to decide the duration of antibiotics**.
 
 **REMEMBER:** *Procalcitonin tells you when to STOP the antibiotic, not whether to start it.*
 
@@ -3977,7 +3977,7 @@
 - **Add ACYCLOVIR if HSV encephalitis is a possibility** (temporal lobe signs, seizures, personality change) — the cost of missing it is far higher than the cost of treating it.
 - **Meningococcal chemoprophylaxis for close contacts: RIFAMPICIN, CIPROFLOXACIN or CEFTRIAXONE.** Look for **purpuric rash and WATERHOUSE–FRIDERICHSEN syndrome** (adrenal haemorrhage with shock).
 
-**EXAM CONNECTION:** "Empirical treatment of meningococcal meningitis" → **ceftriaxone** (penicillin G only for proven sensitive strains).
+**EXAM CONNECTION:** “Empirical treatment of meningococcal meningitis” → **ceftriaxone** (penicillin G only for proven sensitive strains).
 
 **REMEMBER:** *Ceftriaxone plus vancomycin plus steroid before the first dose — and ampicillin at the extremes of age.*
 
@@ -3985,20 +3985,20 @@
 
 ---
 
-### 169. Relative Bradycardia — Faget's Sign
+### 169. Relative Bradycardia — Faget’s Sign
 
-**PEARL:** **Faget's sign = pulse–temperature DISSOCIATION**: the heart rate is lower than the fever predicts. Normally the pulse rises **~15–20 beats/min per 1 °C**. Classic causes: **TYPHOID, Q FEVER, LEPTOSPIROSIS, LEGIONELLA, brucellosis, scrub typhus and other rickettsioses, tularaemia, malaria, dengue, and yellow fever.**
+**PEARL:** **Faget’s sign = pulse–temperature DISSOCIATION**: the heart rate is lower than the fever predicts. Normally the pulse rises **~15–20 beats/min per 1 °C**. Classic causes: **TYPHOID, Q FEVER, LEPTOSPIROSIS, LEGIONELLA, brucellosis, scrub typhus and other rickettsioses, tularaemia, malaria, dengue, and yellow fever.**
 
 **UNDERSTAND:** Most of these are **INTRACELLULAR organisms causing an atypical or toxin-mediated systemic illness rather than a classic pyogenic bacteraemia** — the febrile response and the sympathetic response become uncoupled, in part through direct effects on the sinoatrial node and cardiac conduction. It is a cheap, bedside pointer in exactly the resource-limited settings where these infections are common.
 
 **MUST KNOW:**
 
-- **TYPHOID: step-ladder fever, relative bradycardia, ROSE SPOTS (2–4 mm blanching macules on the trunk), splenomegaly, LEUCOPENIA with an ANEOSINOPHILIA, and constipation in adults. BLOOD CULTURE is the best test in week 1, STOOL/URINE culture in weeks 2–3, and BONE MARROW CULTURE is the most sensitive at any stage (and remains positive despite prior antibiotics). The Widal test is unreliable.** **Treat with ceftriaxone or azithromycin** (fluoroquinolone resistance is now widespread in South Asia). **Complications in week 3: INTESTINAL PERFORATION and HAEMORRHAGE from ulcerated PEYER'S PATCHES.**
-- **LEPTOSPIROSIS: exposure to floodwater or rodent urine; CONJUNCTIVAL SUFFUSION WITHOUT DISCHARGE is nearly pathognomonic; severe form = WEIL'S DISEASE (jaundice, renal failure, haemorrhage). Treat with penicillin or doxycycline; doxycycline for prophylaxis.**
+- **TYPHOID: step-ladder fever, relative bradycardia, ROSE SPOTS (2–4 mm blanching macules on the trunk), splenomegaly, LEUCOPENIA with an ANEOSINOPHILIA, and constipation in adults. BLOOD CULTURE is the best test in week 1, STOOL/URINE culture in weeks 2–3, and BONE MARROW CULTURE is the most sensitive at any stage (and remains positive despite prior antibiotics). The Widal test is unreliable.** **Treat with ceftriaxone or azithromycin** (fluoroquinolone resistance is now widespread in South Asia). **Complications in week 3: INTESTINAL PERFORATION and HAEMORRHAGE from ulcerated PEYER’S PATCHES.**
+- **LEPTOSPIROSIS: exposure to floodwater or rodent urine; CONJUNCTIVAL SUFFUSION WITHOUT DISCHARGE is nearly pathognomonic; severe form = WEIL’S DISEASE (jaundice, renal failure, haemorrhage). Treat with penicillin or doxycycline; doxycycline for prophylaxis.**
 - **NON-INFECTIOUS causes of relative bradycardia: DRUG FEVER, BETA-BLOCKERS, calcium channel blockers, lymphoma, factitious fever, and raised intracranial pressure.**
 - **The converse — a pulse HIGHER than the fever warrants — suggests pulmonary embolism, hypovolaemia, thyrotoxicosis, or toxin-mediated disease such as diphtheria and tetanus.**
 
-**EXAM CONNECTION:** "Relative bradycardia occurs in" → typically **all of the above**.
+**EXAM CONNECTION:** “Relative bradycardia occurs in” → typically **all of the above**.
 
 **REMEMBER:** *A high fever with a calm pulse means an intracellular organism — think typhoid first.*
 
@@ -4008,20 +4008,20 @@
 
 ### 170. Inhalational Anthrax
 
-**PEARL:** The commonest presentation of **inhalational anthrax (woolsorter's disease)** is **HAEMORRHAGIC MEDIASTINITIS**, with a **WIDENED MEDIASTINUM on chest X-ray and pleural effusions — NOT a pneumonia.** *Bacillus anthracis* is an aerobic, **Gram-positive, spore-forming, NON-MOTILE, capsulated bacillus** in "bamboo stick" chains.
+**PEARL:** The commonest presentation of **inhalational anthrax (woolsorter’s disease)** is **HAEMORRHAGIC MEDIASTINITIS**, with a **WIDENED MEDIASTINUM on chest X-ray and pleural effusions — NOT a pneumonia.** *Bacillus anthracis* is an aerobic, **Gram-positive, spore-forming, NON-MOTILE, capsulated bacillus** in “bamboo stick” chains.
 
-**UNDERSTAND:** Spores are too small to lodge in airways — they are **carried straight to the alveoli, phagocytosed by alveolar macrophages, and transported to the MEDIASTINAL LYMPH NODES, where they germinate.** The pathology is therefore **lymphatic, not alveolar** — which is exactly why the X-ray shows a widened mediastinum with clear lungs, and why calling it "anthrax pneumonia" is wrong.
+**UNDERSTAND:** Spores are too small to lodge in airways — they are **carried straight to the alveoli, phagocytosed by alveolar macrophages, and transported to the MEDIASTINAL LYMPH NODES, where they germinate.** The pathology is therefore **lymphatic, not alveolar** — which is exactly why the X-ray shows a widened mediastinum with clear lungs, and why calling it “anthrax pneumonia” is wrong.
 
 **MUST KNOW:**
 
 - **Virulence factors: the POLY-D-GLUTAMIC ACID CAPSULE (anti-phagocytic — the only bacterial capsule made of protein rather than polysaccharide) and the TRIPARTITE TOXIN — PROTECTIVE ANTIGEN (binds and delivers), OEDEMA FACTOR (a calmodulin-dependent ADENYLATE CYCLASE → massive oedema) and LETHAL FACTOR (a zinc metalloprotease cleaving MAP kinase kinase → cell death and shock).** Protective antigen is the vaccine target.
-- **CUTANEOUS anthrax (>95% of natural cases) — a painless papule becoming a vesicle then a black ESCHAR ("MALIGNANT PUSTULE") with striking non-pitting oedema and NO pus** (the toxin is anti-inflammatory); it is painless, which distinguishes it from staphylococcal lesions.
-- **GASTROINTESTINAL anthrax** follows eating undercooked infected meat and carries high mortality. **ANTHRAX MENINGITIS is haemorrhagic — the "CARDINAL'S CAP".**
+- **CUTANEOUS anthrax (>95% of natural cases) — a painless papule becoming a vesicle then a black ESCHAR (“MALIGNANT PUSTULE”) with striking non-pitting oedema and NO pus** (the toxin is anti-inflammatory); it is painless, which distinguishes it from staphylococcal lesions.
+- **GASTROINTESTINAL anthrax** follows eating undercooked infected meat and carries high mortality. **ANTHRAX MENINGITIS is haemorrhagic — the “CARDINAL’S CAP”.**
 - **Treatment: IV CIPROFLOXACIN (or doxycycline) PLUS CLINDAMYCIN/linezolid (to suppress toxin synthesis) for ≥14 days, plus ANTITOXIN (raxibacumab, obiltoxaximab) and steroids for meningitis.** **Post-exposure prophylaxis: ciprofloxacin 500 mg BD for 60 days plus vaccine** — the long duration reflects **prolonged spore dormancy in the lymph nodes**.
 - **Anthrax is a CATEGORY A BIOTERRORISM agent** because spores are stable, easily aerosolised and highly lethal by inhalation.
-- **Laboratory clues: McFADYEAN'S REACTION (polychrome methylene blue showing pink capsule around blue bacilli), the "MEDUSA HEAD" colony, and the STRING OF PEARLS test on penicillin agar.**
+- **Laboratory clues: McFADYEAN’S REACTION (polychrome methylene blue showing pink capsule around blue bacilli), the “MEDUSA HEAD” colony, and the STRING OF PEARLS test on penicillin agar.**
 
-**EXAM CONNECTION:** "Most common presentation of inhalational anthrax" → **haemorrhagic mediastinitis**.
+**EXAM CONNECTION:** “Most common presentation of inhalational anthrax” → **haemorrhagic mediastinitis**.
 
 **REMEMBER:** *Anthrax spores skip the lung and go to the lymph nodes — a wide mediastinum, not a consolidation.*
 
@@ -4067,10 +4067,10 @@
 - **Imaging: PERIVENTRICULAR calcification** + **microcephaly** + ventriculomegaly + polymicrogyria. Contrast **toxoplasmosis: DIFFUSE scattered intracranial calcification + HYDROCEPHALUS + chorioretinitis**.
 - Diagnosis: **urine or saliva CMV PCR/culture within the first 3 weeks of life** (later positivity cannot distinguish congenital from perinatal acquisition); dried blood spot PCR retrospectively.
 - Treatment: **IV ganciclovir or oral valganciclovir for 6 months** in symptomatic disease — improves hearing and neurodevelopmental outcome; monitor for **neutropenia**.
-- **Primary maternal infection in the first trimester** carries the highest transmission and severity; there is **no vaccine** and no routine screening — prevention is hygiene advice (toddlers' saliva and urine).
-- Other TORCH pointers: **rubella** — cataract, PDA/peripheral pulmonary stenosis, deafness, "salt-and-pepper" retinopathy; **syphilis** — snuffles, desquamating rash on palms/soles, periostitis; **Zika** — severe microcephaly with a collapsed skull.
+- **Primary maternal infection in the first trimester** carries the highest transmission and severity; there is **no vaccine** and no routine screening — prevention is hygiene advice (toddlers’ saliva and urine).
+- Other TORCH pointers: **rubella** — cataract, PDA/peripheral pulmonary stenosis, deafness, “salt-and-pepper” retinopathy; **syphilis** — snuffles, desquamating rash on palms/soles, periostitis; **Zika** — severe microcephaly with a collapsed skull.
 
-**EXAM CONNECTION:** "Which infection mimics erythroblastosis fetalis?" → **CMV**. The calcification pattern (periventricular vs diffuse) is the other recurring discriminator.
+**EXAM CONNECTION:** “Which infection mimics erythroblastosis fetalis?” → **CMV**. The calcification pattern (periventricular vs diffuse) is the other recurring discriminator.
 
 **REMEMBER:** *CMV around the ventricles and deaf; Toxo scattered with hydrocephalus.*
 
@@ -4082,7 +4082,7 @@
 
 **PEARL:** **MDR-TB = resistance to isoniazid AND rifampicin. Pre-XDR = MDR/RR-TB PLUS resistance to any FLUOROQUINOLONE. XDR = pre-XDR PLUS resistance to at least one Group A drug (bedaquiline or linezolid).**
 
-**UNDERSTAND:** The 2021 WHO redefinition is built around the **Group A drugs — levofloxacin/ moxifloxacin, bedaquiline and linezolid** — because these three now carry the regimen. Losing the fluoroquinolone removes the backbone and defines pre-XDR; losing bedaquiline or linezolid on top of that leaves almost nothing, which is what "extensively drug-resistant" now means. The old definition (injectable + fluoroquinolone resistance) is obsolete because injectables have been dropped from the regimens.
+**UNDERSTAND:** The 2021 WHO redefinition is built around the **Group A drugs — levofloxacin/ moxifloxacin, bedaquiline and linezolid** — because these three now carry the regimen. Losing the fluoroquinolone removes the backbone and defines pre-XDR; losing bedaquiline or linezolid on top of that leaves almost nothing, which is what “extensively drug-resistant” now means. The old definition (injectable + fluoroquinolone resistance) is obsolete because injectables have been dropped from the regimens.
 
 **MUST KNOW:**
 
@@ -4090,11 +4090,11 @@
 - **Drug groups:** **A — levofloxacin/moxifloxacin, BEDAQUILINE, LINEZOLID** (all three included); **B — clofazimine, cycloserine/terizidone**; **C — ethambutol, delamanid, pyrazinamide, imipenem/amikacin, ethionamide, PAS**.
 - **BPaLM (bedaquiline, pretomanid, linezolid, moxifloxacin) for 6 months** is now the preferred regimen for MDR/RR and pre-XDR TB — a major shift from 18–20 month regimens.
 - Key toxicities: **bedaquiline — QT prolongation**; **linezolid — myelosuppression, optic and peripheral neuropathy**; **fluoroquinolones — QT, tendinopathy**; **cycloserine — psychosis, seizures**.
-- India's programme is **NTEP (National TB Elimination Programme)** — **the 2025 elimination target was NOT met** (incidence down ~21% and deaths ~25% against the 2015 baseline, treatment coverage 92%, treatment success 90%), so the goal now runs to the global 2030 target;[^6] **Ni-kshay** portal for notification (**TB notification is mandatory**), **Ni-kshay Poshan Yojana** nutritional support (**raised from ₹500 to ₹1,000 per month from November 2024**), and universal **drug-susceptibility testing** for all diagnosed patients.
+- India’s programme is **NTEP (National TB Elimination Programme)** — **the 2025 elimination target was NOT met** (incidence down ~21% and deaths ~25% against the 2015 baseline, treatment coverage 92%, treatment success 90%), so the goal now runs to the global 2030 target;[^6] **Ni-kshay** portal for notification (**TB notification is mandatory**), **Ni-kshay Poshan Yojana** nutritional support (**raised from ₹500 to ₹1,000 per month from November 2024**), and universal **drug-susceptibility testing** for all diagnosed patients.
 
 **EXAM CONNECTION:** The stem lists a resistance pattern. **INH + RIF + fluoroquinolone, still sensitive to bedaquiline/linezolid = PRE-XDR.**
 
-**REMEMBER:** *Lose the quinolone and you're pre-XDR; lose bedaquiline or linezolid too and you're XDR.*
+**REMEMBER:** *Lose the quinolone and you’re pre-XDR; lose bedaquiline or linezolid too and you’re XDR.*
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/untitled-446.jpg)
@@ -4130,20 +4130,20 @@
 
 **PEARL:** **AST or ALT ≥1000 IU/L** is a criterion for **SEVERE dengue** (severe organ involvement). Persistent vomiting, hepatomegaly >2 cm and thrombocytopenia with rising haematocrit are **WARNING SIGNS**, not severity criteria.
 
-**UNDERSTAND:** The WHO 2009 scheme separates **"who might deteriorate" from "who already has organ failure"**. Warning signs identify the patient entering the **critical (plasma-leak) phase** as the fever settles — they mandate admission and fluid therapy. Severe dengue means the damage has happened: **shock from leakage, severe bleeding, or organ injury**. The transaminase cut-off is set at 1000 because that level represents hepatocellular necrosis rather than the mild transaminitis almost every dengue patient has.
+**UNDERSTAND:** The WHO 2009 scheme separates **“who might deteriorate” from “who already has organ failure”**. Warning signs identify the patient entering the **critical (plasma-leak) phase** as the fever settles — they mandate admission and fluid therapy. Severe dengue means the damage has happened: **shock from leakage, severe bleeding, or organ injury**. The transaminase cut-off is set at 1000 because that level represents hepatocellular necrosis rather than the mild transaminitis almost every dengue patient has.
 
 **MUST KNOW:**
 
 - **Warning signs:** abdominal pain or tenderness, **persistent vomiting**, clinical fluid accumulation (ascites, pleural effusion), mucosal bleeding, lethargy or restlessness, **liver enlargement >2 cm**, and **an increase in haematocrit with a rapid fall in platelet count**.
 - **Severe dengue = any one of:** (1) **severe plasma leakage → shock (DSS) or respiratory distress from fluid accumulation**; (2) **severe bleeding**; (3) **severe organ involvement — AST/ALT ≥1000, impaired consciousness, myocarditis or other organ failure**.
-- **Three phases:** **febrile** (2–7 days, high fever, retro-orbital pain, myalgia, rash, positive tourniquet test) → **critical** (24–48 h around defervescence — this is when leakage and shock occur, **the most dangerous time is when the fever falls**) → **recovery** (fluid reabsorption, "isles of white in a sea of red" convalescent rash, bradycardia; beware fluid overload).
+- **Three phases:** **febrile** (2–7 days, high fever, retro-orbital pain, myalgia, rash, positive tourniquet test) → **critical** (24–48 h around defervescence — this is when leakage and shock occur, **the most dangerous time is when the fever falls**) → **recovery** (fluid reabsorption, “isles of white in a sea of red” convalescent rash, bradycardia; beware fluid overload).
 - **Diagnosis: NS1 antigen from day 1–5; IgM from day 5 onward; RT-PCR early.**
 - **Management: crystalloids (isotonic) titrated to the haematocrit and urine output.** **Platelet transfusion only for active significant bleeding**, not for a number. **AVOID NSAIDs, aspirin and IM injections** — use paracetamol.
 - **Severe disease is associated with SECONDARY infection with a different serotype** (antibody-dependent enhancement).
 
 **EXAM CONNECTION:** The question hinges on distinguishing a warning sign from a severity criterion. Only the **transaminase ≥1000** is in the severe category among the options.
 
-**REMEMBER:** *Warning signs say "watch"; shock, severe bleeding and ALT ≥1000 say "severe".*
+**REMEMBER:** *Warning signs say “watch”; shock, severe bleeding and ALT ≥1000 say “severe”.*
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/87393961ada7455c9dfb916aecbaad44x720x531.JPEG)
@@ -4154,20 +4154,20 @@
 
 ### 176. Oral Hairy Leukoplakia
 
-**PEARL:** A **white, corrugated ("hairy") plaque on the LATERAL BORDER of the tongue that CANNOT be scraped off**, in an immunocompromised patient, is **oral hairy leukoplakia — caused by EPSTEIN–BARR VIRUS**. If it **wipes off**, it is **candidal thrush**.
+**PEARL:** A **white, corrugated (“hairy”) plaque on the LATERAL BORDER of the tongue that CANNOT be scraped off**, in an immunocompromised patient, is **oral hairy leukoplakia — caused by EPSTEIN–BARR VIRUS**. If it **wipes off**, it is **candidal thrush**.
 
 **UNDERSTAND:** The scrape test separates the two because the pathology is different. Thrush is a **superficial pseudomembrane of Candida hyphae and debris sitting on the mucosa** — it lifts off, leaving an erythematous base. Hairy leukoplakia is **EBV replicating within the epithelium itself**, producing **hyperparakeratosis and acanthosis with balloon cells** — the white material *is* the epithelium, so it cannot be removed.
 
 **MUST KNOW:**
 
 - **A marker of immunosuppression — most often HIV** (it can be the presenting sign, and correlates with a low CD4 count), also transplant recipients, haematological malignancy and inhaled/systemic steroids. It is **not premalignant** and often needs no treatment; it responds to **antiretroviral therapy** or to high-dose aciclovir.
-- **Oral lesions in HIV — a high-yield set:** - **Oral hairy leukoplakia → EBV** (lateral tongue, does not scrape off). - **Pseudomembranous candidiasis (thrush) → Candida albicans** (scrapes off; treat topical clotrimazole/nystatin, systemic fluconazole). - **Kaposi sarcoma → HHV-8** (purple palatal or gingival plaques/nodules; also seen on skin and viscera). - **Herpes labialis/gingivostomatitis → HSV-1** (painful vesicles and ulcers). - **Oral warts → HPV**; **aphthous ulcers**; **necrotising ulcerative periodontitis**.
+- **Oral lesions in HIV — a high-yield set:** **Oral hairy leukoplakia → EBV** (lateral tongue, does not scrape off). **Pseudomembranous candidiasis (thrush) → Candida albicans** (scrapes off; treat topical clotrimazole/nystatin, systemic fluconazole). **Kaposi sarcoma → HHV-8** (purple palatal or gingival plaques/nodules; also seen on skin and viscera). **Herpes labialis/gingivostomatitis → HSV-1** (painful vesicles and ulcers). **Oral warts → HPV**; **aphthous ulcers**; **necrotising ulcerative periodontitis**.
 - **True leukoplakia** (idiopathic white patch that cannot be rubbed off, in a tobacco user) **IS premalignant** — biopsy is mandatory; look for the **erythroplakia** variant, which has the highest malignant potential.
 - **EBV also causes:** infectious mononucleosis, **Burkitt lymphoma (t(8;14))**, nasopharyngeal carcinoma, Hodgkin lymphoma, post-transplant lymphoproliferative disease and primary CNS lymphoma in AIDS.
 
-**EXAM CONNECTION:** Two words settle it — **"lateral tongue"** and **"cannot be rubbed off"**. Candida is the reflex wrong answer.
+**EXAM CONNECTION:** Two words settle it — **“lateral tongue”** and **“cannot be rubbed off”**. Candida is the reflex wrong answer.
 
-**REMEMBER:** *Wipes off = Candida; won't wipe off = EBV.*
+**REMEMBER:** *Wipes off = Candida; won’t wipe off = EBV.*
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3638defe56f14870888eb384aaa09078x1280x1131.9605077574047.JPEG)
@@ -4193,7 +4193,7 @@
 - ***Cryptococcus neoformans*** — from **pigeon droppings**, affects the immunocompromised; ***C. gattii*** — eucalyptus trees, affects the immunocompetent.
 - **CrAg screening** of asymptomatic patients with **CD4 <100** allows pre-emptive fluconazole.
 
-**EXAM CONNECTION:** Four statements, one true. The ART timing (**2–5 weeks, not immediately**) is the examinable fact; monotherapy and "normal opening pressure" are both wrong.
+**EXAM CONNECTION:** Four statements, one true. The ART timing (**2–5 weeks, not immediately**) is the examinable fact; monotherapy and “normal opening pressure” are both wrong.
 
 **REMEMBER:** *Kill the fungus and drain the pressure first — let the immune system come back later.*
 
@@ -4216,7 +4216,7 @@
 - **Post-exposure prophylaxis: (1) immediate WOUND WASHING with soap and running water for 15 minutes (the single most effective measure) + virucidal agent; (2) rabies VACCINE (Essen intramuscular or the intradermal regimen); (3) for CATEGORY III exposures — RABIES IMMUNOGLOBULIN INFILTRATED INTO AND AROUND THE WOUND.** **Never suture the wound primarily if avoidable.**
 - **WHO categories: I — touching/feeding, intact skin (no PEP); II — minor scratches or nibbling without bleeding (vaccine); III — transdermal bites, licks on broken skin or mucosa, bat exposure (vaccine + IMMUNOGLOBULIN).**
 - **PEP is never contraindicated — not in pregnancy, infancy or immunosuppression**; it is given regardless of the interval since the bite.
-- **Negri bodies** are eosinophilic cytoplasmic inclusions, most abundant in the **hippocampus (Ammon's horn) and cerebellar Purkinje cells**.
+- **Negri bodies** are eosinophilic cytoplasmic inclusions, most abundant in the **hippocampus (Ammon’s horn) and cerebellar Purkinje cells**.
 - **India accounts for a large share of global rabies deaths; dogs are the main reservoir**, and control depends on **mass dog vaccination and sterilisation**.
 
 **EXAM CONNECTION:** Note whether the question asks for the **conclusive/definitive** test (culture or PCR) or the **rapid ante-mortem** one (dFA on corneal impression/nuchal skin).
@@ -4260,7 +4260,7 @@
 
 **PEARL: **First-line agents:** cotrimoxazole, meropenem, minocycline, and ceftazidime**.
 
-**MUST KNOW:** A major pathogen in **cystic fibrosis** (and chronic granulomatous disease), causing "**cepacia syndrome**" — necrotizing pneumonia with rapid decline and high mortality; it is **highly transmissible between CF patients** (segregation is mandatory) and is a **contraindication/major risk factor for lung transplantation**. It is **intrinsically resistant to aminoglycosides and polymyxins**.
+**MUST KNOW:** A major pathogen in **cystic fibrosis** (and chronic granulomatous disease), causing “**cepacia syndrome**” — necrotizing pneumonia with rapid decline and high mortality; it is **highly transmissible between CF patients** (segregation is mandatory) and is a **contraindication/major risk factor for lung transplantation**. It is **intrinsically resistant to aminoglycosides and polymyxins**.
 
 **REMEMBER:** *Cepacia in CF = cotrimoxazole/meropenem, isolate the patient, transplant in doubt.*
 
@@ -4281,10 +4281,10 @@
 - **Why the stiffness behaves that way: RA is a SYNOVIAL disease** — rest lets inflammatory exudate accumulate, and movement disperses it. **OSTEOARTHRITIS is a CARTILAGE-WEAR disease, so its logic is inverted: stiffness <30 minutes and pain WORSENS with activity.**
 - **Deformities: ulnar deviation at the MCPs, SWAN NECK (PIP hyperextension, DIP flexion), BOUTONNIÈRE (PIP flexion, DIP hyperextension), Z-thumb, and the radiological triad of periarticular osteopenia, marginal erosions and joint space narrowing.**
 - **Serology: RF (sensitive, not specific) and ANTI-CCP (highly SPECIFIC and predicts erosive disease)**; both together are strongest.
-- **Extra-articular disease worth listing: rheumatoid nodules, interstitial lung disease, pleural effusion (with characteristically VERY LOW glucose), scleritis and episcleritis, secondary Sjögren's, FELTY syndrome (RA + splenomegaly + neutropenia), amyloidosis, and accelerated CARDIOVASCULAR disease — the leading cause of death.**
-- **Treatment: start a DMARD (METHOTREXATE first-line) EARLY** — the "window of opportunity"; then biologics (anti-TNF, tocilizumab, rituximab, abatacept) or JAK inhibitors. **Screen for latent TB and hepatitis B before biologics.**
+- **Extra-articular disease worth listing: rheumatoid nodules, interstitial lung disease, pleural effusion (with characteristically VERY LOW glucose), scleritis and episcleritis, secondary Sjögren’s, FELTY syndrome (RA + splenomegaly + neutropenia), amyloidosis, and accelerated CARDIOVASCULAR disease — the leading cause of death.**
+- **Treatment: start a DMARD (METHOTREXATE first-line) EARLY** — the “window of opportunity”; then biologics (anti-TNF, tocilizumab, rituximab, abatacept) or JAK inhibitors. **Screen for latent TB and hepatitis B before biologics.**
 
-**EXAM CONNECTION:** "Most commonly affected part of the spine in RA" → **C1–C2**.
+**EXAM CONNECTION:** “Most commonly affected part of the spine in RA” → **C1–C2**.
 
 **REMEMBER:** *The only synovial joint in the neck is C1–C2 — which is why RA attacks it, and why you must check it before you intubate.*
 
@@ -4296,18 +4296,18 @@
 
 **PEARL:** The **commonest presenting feature of SLE is ARTHRALGIA/MYALGIA and arthritis** (>90% over the course of disease) — not the rash, not nephritis. The arthritis is **NON-EROSIVE and symmetrical**, typically of the small joints.
 
-**UNDERSTAND:** SLE's arthritis is non-erosive because the inflammation is **driven by immune complex deposition rather than the destructive pannus of rheumatoid arthritis** — so deformity, when it occurs (**JACCOUD'S ARTHROPATHY**), is due to **ligamentous laxity and is REDUCIBLE**, with a normal X-ray. That single fact separates it from RA at the bedside and on film.
+**UNDERSTAND:** SLE’s arthritis is non-erosive because the inflammation is **driven by immune complex deposition rather than the destructive pannus of rheumatoid arthritis** — so deformity, when it occurs (**JACCOUD’S ARTHROPATHY**), is due to **ligamentous laxity and is REDUCIBLE**, with a normal X-ray. That single fact separates it from RA at the bedside and on film.
 
 **MUST KNOW:**
 
 - **Antibody map: ANA — most SENSITIVE (screening; a negative ANA virtually excludes SLE). ANTI-dsDNA — specific, and correlates with DISEASE ACTIVITY and LUPUS NEPHRITIS. ANTI-SMITH — most SPECIFIC. ANTI-HISTONE — DRUG-INDUCED lupus (hydralazine, procainamide, isoniazid, minocycline — which SPARES the kidneys and CNS and resolves on stopping the drug). ANTI-Ro/SSA — NEONATAL LUPUS and CONGENITAL HEART BLOCK, and subacute cutaneous lupus. ANTI-RIBOSOMAL P — psychosis.**
 - **LOW COMPLEMENT (C3, C4) indicates active disease** — consumption by immune complexes.
-- **Characteristic histology: "WIRE-LOOP" lesions in the kidney (class IV lupus nephritis), LIBMAN–SACKS non-bacterial endocarditis (sterile vegetations on BOTH sides of the valve), ONION-SKIN periarteriolar fibrosis in the spleen, and HAEMATOXYLIN BODIES.**
+- **Characteristic histology: “WIRE-LOOP” lesions in the kidney (class IV lupus nephritis), LIBMAN–SACKS non-bacterial endocarditis (sterile vegetations on BOTH sides of the valve), ONION-SKIN periarteriolar fibrosis in the spleen, and HAEMATOXYLIN BODIES.**
 - **LUPUS NEPHRITIS determines prognosis — all patients need urinalysis and protein:creatinine ratio at every visit;** class III/IV needs induction with **mycophenolate or cyclophosphamide plus steroids**.
 - **ANTIPHOSPHOLIPID SYNDROME may coexist: arterial/venous thrombosis and recurrent miscarriage, with a PROLONGED aPTT that does not correct on mixing.**
 - **Hydroxychloroquine is given to essentially ALL patients** (reduces flares, thrombosis and mortality); screen for retinopathy.
 
-**EXAM CONNECTION:** "Most common presentation of SLE" → **arthralgia/myalgia**.
+**EXAM CONNECTION:** “Most common presentation of SLE” → **arthralgia/myalgia**.
 
 **REMEMBER:** *Lupus usually walks in with joint pain, and its arthritis deforms without eroding.*
 
@@ -4320,20 +4320,20 @@
 
 ### 183. Pleural Disease in Rheumatoid Arthritis and SLE
 
-**PEARL:** **RHEUMATOID pleural effusion has the LOWEST GLUCOSE of any effusion (<30–60 mg/dL)** — with a **high LDH, low pH, high rheumatoid factor and sometimes CHOLESTEROL CRYSTALS** giving a milky "pseudochylous" appearance. In **SLE the commonest pulmonary manifestation is PLEURITIS**, with or without effusion.
+**PEARL:** **RHEUMATOID pleural effusion has the LOWEST GLUCOSE of any effusion (<30–60 mg/dL)** — with a **high LDH, low pH, high rheumatoid factor and sometimes CHOLESTEROL CRYSTALS** giving a milky “pseudochylous” appearance. In **SLE the commonest pulmonary manifestation is PLEURITIS**, with or without effusion.
 
 **UNDERSTAND:** The glucose is low because the **inflamed, thickened pleura blocks glucose transport into the pleural space while activated neutrophils and the metabolically hyperactive pleural surface consume what does get in.** The same mechanism explains low glucose in **empyema, tuberculosis, malignancy and oesophageal rupture** — but rheumatoid disease produces the most extreme values, which is what makes it a favourite exam fact.
 
 **MUST KNOW:**
 
-- **LIGHT'S CRITERIA — the effusion is an EXUDATE if ANY one is met: pleural protein/serum protein >0.5, pleural LDH/serum LDH >0.6, or pleural LDH >2/3 the upper limit of normal serum LDH.** Light's criteria are very sensitive but **over-diagnose exudates in patients on diuretics** — then use the **serum-to-pleural ALBUMIN GRADIENT >1.2 g/dL** to reclassify as a transudate.
+- **LIGHT’S CRITERIA — the effusion is an EXUDATE if ANY one is met: pleural protein/serum protein >0.5, pleural LDH/serum LDH >0.6, or pleural LDH >2/3 the upper limit of normal serum LDH.** Light’s criteria are very sensitive but **over-diagnose exudates in patients on diuretics** — then use the **serum-to-pleural ALBUMIN GRADIENT >1.2 g/dL** to reclassify as a transudate.
 - **Rheumatoid pleural effusion is commoner in MEN, often with subcutaneous nodules, and is typically unilateral and asymptomatic** — the reverse of the female predominance of the joint disease.
 - **Fluid clues: raised ADENOSINE DEAMINASE (ADA >40) and lymphocytosis → TUBERCULOSIS. Very high AMYLASE → pancreatitis or OESOPHAGEAL RUPTURE. Chylous (triglycerides >110) → thoracic duct injury or lymphoma. Blood-stained → malignancy, PE, trauma. Eosinophilia → air or blood in the pleural space, drugs, parasites.**
-- **The system-by-system "most common" list for SLE is heavily examined: MUSCULOSKELETAL — arthritis/arthralgia. SKIN — photosensitivity. RENAL — proteinuria. NEUROLOGICAL — cognitive impairment. CARDIAC — PERICARDITIS. PULMONARY — PLEURITIS. HAEMATOLOGICAL — ANAEMIA (usually of chronic disease).**
+- **The system-by-system “most common” list for SLE is heavily examined: MUSCULOSKELETAL — arthritis/arthralgia. SKIN — photosensitivity. RENAL — proteinuria. NEUROLOGICAL — cognitive impairment. CARDIAC — PERICARDITIS. PULMONARY — PLEURITIS. HAEMATOLOGICAL — ANAEMIA (usually of chronic disease).**
 - **SHRINKING LUNG SYNDROME is a rare, distinctive SLE complication — progressive dyspnoea with small lung volumes and elevated hemidiaphragms from diaphragmatic dysfunction, with clear lung fields.**
-- **The pulmonary manifestations of RA: pleural effusion, interstitial lung disease (UIP pattern), rheumatoid nodules, CAPLAN'S SYNDROME (RA + pneumoconiosis), and bronchiolitis obliterans.**
+- **The pulmonary manifestations of RA: pleural effusion, interstitial lung disease (UIP pattern), rheumatoid nodules, CAPLAN’S SYNDROME (RA + pneumoconiosis), and bronchiolitis obliterans.**
 
-**EXAM CONNECTION:** "All found in rheumatoid pleural fluid EXCEPT" → **high glucose** (it is low).
+**EXAM CONNECTION:** “All found in rheumatoid pleural fluid EXCEPT” → **high glucose** (it is low).
 
 **REMEMBER:** *Rheumatoid pleural fluid is the hungriest fluid in medicine — the glucose is nearly gone.*
 
@@ -4348,18 +4348,18 @@
 
 **PEARL:** **RHEUMATOID ARTHRITIS does NOT cause IRITIS** — its ocular hallmarks are **KERATOCONJUNCTIVITIS SICCA, EPISCLERITIS, SCLERITIS and SCLEROMALACIA PERFORANS.** **ANTERIOR uveitis (iritis/iridocyclitis) belongs to the HLA-B27 group — ankylosing spondylitis, reactive arthritis, psoriatic arthritis, IBD — plus JUVENILE idiopathic arthritis, SLE and leprosy.**
 
-**UNDERSTAND:** The pattern follows the **immunological target, not the joint**. **HLA-B27–associated disease is an ENTHESITIS/ANTERIOR-CHAMBER disease** — the uveal tract behaves like an enthesis, giving acute, painful, unilateral, recurrent anterior uveitis. **Adult rheumatoid disease is a SYNOVIUM/COLLAGEN disease**, so it attacks the **sclera** — the eye's collagen — and the lacrimal gland, sparing the iris. Note the trap: **JUVENILE idiopathic arthritis (pauciarticular, ANA-positive) DOES cause a chronic, painless, insidious anterior uveitis** requiring slit-lamp screening, precisely because the child can lose vision before anyone notices.
+**UNDERSTAND:** The pattern follows the **immunological target, not the joint**. **HLA-B27–associated disease is an ENTHESITIS/ANTERIOR-CHAMBER disease** — the uveal tract behaves like an enthesis, giving acute, painful, unilateral, recurrent anterior uveitis. **Adult rheumatoid disease is a SYNOVIUM/COLLAGEN disease**, so it attacks the **sclera** — the eye’s collagen — and the lacrimal gland, sparing the iris. Note the trap: **JUVENILE idiopathic arthritis (pauciarticular, ANA-positive) DOES cause a chronic, painless, insidious anterior uveitis** requiring slit-lamp screening, precisely because the child can lose vision before anyone notices.
 
 **MUST KNOW:**
 
 - **ANTERIOR uveitis: pain, photophobia, ciliary (circumcorneal) injection, small irregular pupil, KERATIC PRECIPITATES, cells and flare, HYPOPYON, and posterior SYNECHIAE.** Treat with **topical steroids plus a CYCLOPLEGIC (atropine/homatropine)** to relieve ciliary spasm and prevent synechiae.
-- **POSTERIOR uveitis (chorioretinitis): painless floaters and blurring — TOXOPLASMOSIS (the commonest infectious cause, "headlight in the fog"), CMV retinitis in HIV with CD4 <50, toxocariasis, histoplasmosis, syphilis, and VOGT–KOYANAGI–HARADA syndrome.**
-- **BOTH anterior and posterior: SARCOIDOSIS, BEHÇET'S DISEASE, INFLAMMATORY BOWEL DISEASE, TUBERCULOSIS, SYPHILIS, herpes, and Lyme disease.** **INTERMEDIATE uveitis (pars planitis, "snowballs" and "snowbanking") → MULTIPLE SCLEROSIS.**
-- **BEHÇET'S is the one to recognise: recurrent ORAL and GENITAL ulcers with uveitis, sometimes with a HYPOPYON that shifts with posture, plus PATHERGY (a pustule at a needle-prick site) and HLA-B51.** It causes blindness if untreated.
-- **SARCOIDOSIS ocular disease is common and examinable: granulomatous "MUTTON-FAT" keratic precipitates, and HEERFORDT'S SYNDROME (uveoparotid fever — uveitis, parotid enlargement, fever and FACIAL NERVE PALSY).**
+- **POSTERIOR uveitis (chorioretinitis): painless floaters and blurring — TOXOPLASMOSIS (the commonest infectious cause, “headlight in the fog”), CMV retinitis in HIV with CD4 <50, toxocariasis, histoplasmosis, syphilis, and VOGT–KOYANAGI–HARADA syndrome.**
+- **BOTH anterior and posterior: SARCOIDOSIS, BEHÇET’S DISEASE, INFLAMMATORY BOWEL DISEASE, TUBERCULOSIS, SYPHILIS, herpes, and Lyme disease.** **INTERMEDIATE uveitis (pars planitis, “snowballs” and “snowbanking”) → MULTIPLE SCLEROSIS.**
+- **BEHÇET’S is the one to recognise: recurrent ORAL and GENITAL ulcers with uveitis, sometimes with a HYPOPYON that shifts with posture, plus PATHERGY (a pustule at a needle-prick site) and HLA-B51.** It causes blindness if untreated.
+- **SARCOIDOSIS ocular disease is common and examinable: granulomatous “MUTTON-FAT” keratic precipitates, and HEERFORDT’S SYNDROME (uveoparotid fever — uveitis, parotid enlargement, fever and FACIAL NERVE PALSY).**
 - **A red painful eye in a rheumatoid patient is SCLERITIS until proven otherwise — it is vision-threatening and needs systemic, not topical, therapy; EPISCLERITIS by contrast is mild, blanches with phenylephrine and is self-limiting.**
 
-**EXAM CONNECTION:** "Iritis seen in all EXCEPT" → **rheumatoid arthritis** (juvenile RA is the trap).
+**EXAM CONNECTION:** “Iritis seen in all EXCEPT” → **rheumatoid arthritis** (juvenile RA is the trap).
 
 **REMEMBER:** *B27 attacks the iris, adult rheumatoid attacks the sclera — and juvenile arthritis attacks the iris silently.*
 
@@ -4376,7 +4376,7 @@
 **MUST KNOW:**
 
 - **START HIGH-DOSE CORTICOSTEROIDS IMMEDIATELY on clinical suspicion — do NOT wait for the biopsy** (prednisolone 40–60 mg/day; **IV methylprednisolone if there is visual loss**). Biopsy remains positive for up to 2 weeks after starting steroids.
-- **Temporal artery biopsy: take a long segment (>1–2 cm) because of SKIP LESIONS**; histology shows **granulomatous inflammation with multinucleate GIANT CELLS and fragmentation of the internal elastic lamina**. Ultrasound may show a **"halo" sign**.
+- **Temporal artery biopsy: take a long segment (>1–2 cm) because of SKIP LESIONS**; histology shows **granulomatous inflammation with multinucleate GIANT CELLS and fragmentation of the internal elastic lamina**. Ultrasound may show a **“halo” sign**.
 - **JAW CLAUDICATION is the single most specific symptom.** Others: fever of unknown origin, weight loss, **amaurosis fugax**, diplopia, tongue claudication, and a **markedly raised ESR (often >50 mm/hr) and CRP**; normochromic anaemia and raised platelets.
 - **PMR: age >50, bilateral shoulder and hip girdle pain with >45 minutes of morning stiffness, raised ESR/CRP, DRAMATIC response to LOW-DOSE prednisolone (15–20 mg) — normal CK and no true weakness** (which distinguishes it from polymyositis).
 - **Complications of GCA: irreversible blindness, THORACIC AORTIC ANEURYSM and dissection (screen long term), and stroke.** **Tocilizumab (anti-IL-6)** is now used as a steroid-sparing agent.
@@ -4404,7 +4404,7 @@
 - Urate-lowering: **allopurinol/febuxostat (xanthine oxidase inhibitors)**, **probenecid (uricosuric — avoid if urate stones or low creatinine clearance)**, **pegloticase** for refractory tophaceous gout. Target serum urate **< 6 mg/dL**.
 - **Allopurinol must be dose-reduced with azathioprine/6-MP** (xanthine oxidase metabolises them) and screened with **HLA-B*5801** in at-risk ethnicities (SJS/TEN risk).
 
-**EXAM CONNECTION:** "Avoid all EXCEPT" → **high-dose salicylates**. The trap is knowing aspirin's dose-dependence rather than blanket-avoiding aspirin.
+**EXAM CONNECTION:** “Avoid all EXCEPT” → **high-dose salicylates**. The trap is knowing aspirin’s dose-dependence rather than blanket-avoiding aspirin.
 
 **REMEMBER:** *A little aspirin retains urate; a lot excretes it.*
 
@@ -4414,19 +4414,19 @@
 
 ### 187. Rheumatoid Arthritis vs SLE on X-ray
 
-**PEARL:** **Articular EROSIONS occur in rheumatoid arthritis and NOT in SLE.** SLE's deformity — **Jaccoud arthropathy** — is **reducible and non-erosive**.
+**PEARL:** **Articular EROSIONS occur in rheumatoid arthritis and NOT in SLE.** SLE’s deformity — **Jaccoud arthropathy** — is **reducible and non-erosive**.
 
-**UNDERSTAND:** RA's deformity comes from **pannus destroying cartilage and bone**; SLE's comes from **capsular and ligamentous laxity** with an intact joint surface. That is why Jaccoud's ulnar deviation and MCP subluxation **correct when the hand is laid flat on a surface**, and why the X-ray is normal despite a deformed-looking hand.
+**UNDERSTAND:** RA’s deformity comes from **pannus destroying cartilage and bone**; SLE’s comes from **capsular and ligamentous laxity** with an intact joint surface. That is why Jaccoud’s ulnar deviation and MCP subluxation **correct when the hand is laid flat on a surface**, and why the X-ray is normal despite a deformed-looking hand.
 
 **MUST KNOW:**
 
 - Shared and therefore useless as discriminators: **juxta-articular osteopenia, PIP swelling, ulnar deviation**.
-- **RA "most commons": joints** — MCP, wrist, PIP (**DIP spared**); **spine** — cervical (**atlantoaxial subluxation**, a pre-anaesthetic concern); **extra-articular** — subcutaneous nodules; **cardiac** — pericarditis; **valve** — mitral regurgitation; **pulmonary** — pleuritis; **haematological** — normochromic normocytic anaemia; **neurological** — carpal tunnel syndrome; **ocular** — keratoconjunctivitis sicca; **lymphoma** — DLBCL.
+- **RA “most commons”: joints** — MCP, wrist, PIP (**DIP spared**); **spine** — cervical (**atlantoaxial subluxation**, a pre-anaesthetic concern); **extra-articular** — subcutaneous nodules; **cardiac** — pericarditis; **valve** — mitral regurgitation; **pulmonary** — pleuritis; **haematological** — normochromic normocytic anaemia; **neurological** — carpal tunnel syndrome; **ocular** — keratoconjunctivitis sicca; **lymphoma** — DLBCL.
 - **Commonest cause of death in RA is cardiovascular disease (coronary artery disease)** — chronic inflammation is an independent atherogenic risk, which is why RA is treated aggressively.
 - Antibodies: **anti-CCP is the most specific** for RA; RF is less specific (also in Sjögren, hepatitis C, endocarditis).
 - **DIP involvement points away from RA** — think psoriatic arthritis or osteoarthritis.
 
-**EXAM CONNECTION:** "Radiological feature differentiating RA from SLE" → **erosions**. The other three options are deliberately shared features.
+**EXAM CONNECTION:** “Radiological feature differentiating RA from SLE” → **erosions**. The other three options are deliberately shared features.
 
 **REMEMBER:** *RA eats the bone; lupus only loosens the ligaments.*
 
@@ -4442,17 +4442,17 @@
 
 **PEARL:** **Anti-PM-Scl** identifies the **polymyositis/dermatomyositis–systemic sclerosis OVERLAP syndrome** (~50% of such patients). **Anti-Scl-70 (topoisomerase I) = diffuse cutaneous systemic sclerosis; anti-centromere = limited cutaneous.**
 
-**UNDERSTAND:** Autoantibodies in connective tissue disease are **mutually exclusive markers of clinical subsets**, not random findings. When a patient has features of **two** diseases (skin thickening and Raynaud's *plus* myositis with raised CK), the serology that best explains the combination is the overlap antibody.
+**UNDERSTAND:** Autoantibodies in connective tissue disease are **mutually exclusive markers of clinical subsets**, not random findings. When a patient has features of **two** diseases (skin thickening and Raynaud’s *plus* myositis with raised CK), the serology that best explains the combination is the overlap antibody.
 
 **MUST KNOW:**
 
 - **Anti-Scl-70** — diffuse disease, **interstitial lung disease** risk. **Anti-centromere** — limited/CREST, **pulmonary arterial hypertension** risk, better prognosis. **Anti-RNA polymerase III** — diffuse disease with **scleroderma renal crisis** and malignancy association. **Anti-U3-RNP (fibrillarin)** — PAH, ILD, renal crisis, myositis.
-- **Anti-Jo-1 (and the other anti-synthetases)** → **antisynthetase syndrome**: myositis, **ILD, mechanic's hands, Raynaud's, arthritis, fever**.
+- **Anti-Jo-1 (and the other anti-synthetases)** → **antisynthetase syndrome**: myositis, **ILD, mechanic’s hands, Raynaud’s, arthritis, fever**.
 - **Anti-Mi-2** — classic dermatomyositis with good prognosis; **anti-TIF1-γ and anti-NXP2** — strong **malignancy** association; **anti-MDA5** — amyopathic dermatomyositis with **rapidly progressive ILD**.
 - Biopsy: **perifascicular atrophy and perimysial inflammation = dermatomyositis** (humoral, complement-mediated microangiopathy); **endomysial CD8 infiltrate invading non-necrotic fibres = polymyositis**.
 - **Scleroderma renal crisis** — treat with **ACE inhibitors**; **steroids are a risk factor** and should be minimised in diffuse disease.
 
-**EXAM CONNECTION:** The stem deliberately gives **two diseases' worth of findings**. Recognise "overlap" and the answer follows.
+**EXAM CONNECTION:** The stem deliberately gives **two diseases’ worth of findings**. Recognise “overlap” and the answer follows.
 
 **REMEMBER:** *Two diseases in one patient means look for the overlap antibody.*
 
@@ -4482,12 +4482,12 @@
 
 - Associations: **AML (commonest malignancy)**, myelodysplastic syndrome, **inflammatory bowel disease**, genitourinary solid tumours, **SLE**, rheumatoid arthritis, pregnancy, and drugs — **G-CSF, all-trans retinoic acid, azathioprine, trimethoprim-sulfamethoxazole**.
 - **Idiopathic Sweet syndrome** is commonest in **women after an upper respiratory infection**.
-- Plaques are **pseudovesicular** ("mountain range" appearance) and **exquisitely tender**; may show **pathergy**.
+- Plaques are **pseudovesicular** (“mountain range” appearance) and **exquisitely tender**; may show **pathergy**.
 - Histology: **dense dermal neutrophilic infiltrate WITHOUT vasculitis** — that last clause distinguishes it from leukocytoclastic vasculitis.
 - Dramatic response to **systemic corticosteroids** (within 48 h) — almost diagnostic. Alternatives: potassium iodide, colchicine, dapsone.
 - Sits in the family of **neutrophilic dermatoses** with **pyoderma gangrenosum** — which shares the AML and IBD associations.
 
-**EXAM CONNECTION:** "Associated with all EXCEPT" → **aplastic anaemia**. Reason from the pathology, not from a memorised list.
+**EXAM CONNECTION:** “Associated with all EXCEPT” → **aplastic anaemia**. Reason from the pathology, not from a memorised list.
 
 **REMEMBER:** *A neutrophilic disease needs neutrophils.*
 
@@ -4510,13 +4510,13 @@
 
 - **NEVER rub, massage or rewarm by friction or dry heat** — this shears ice crystals through tissue and worsens injury. **And do NOT thaw if there is any chance of REFREEZING** — a freeze–thaw–refreeze cycle is far more destructive than remaining frozen during transport.
 - **Rewarming is intensely painful** — hence the need for opioid analgesia, not just NSAIDs.
-- **"AMPUTATE LATE"** — demarcation takes weeks to months, and tissue that looks dead often recovers. The rule is **"frostbite in January, amputate in July."** Early imaging (**Tc-99m bone scan or MRA**) can guide earlier surgery in selected cases.
+- **“AMPUTATE LATE”** — demarcation takes weeks to months, and tissue that looks dead often recovers. The rule is **“frostbite in January, amputate in July.”** Early imaging (**Tc-99m bone scan or MRA**) can guide earlier surgery in selected cases.
 - **Blister management: aspirate CLEAR (serous) blisters** (they contain thromboxane and prostaglandins); **LEAVE HAEMORRHAGIC blisters intact** (they indicate deeper injury and opening them risks infection).
 - **THROMBOLYSIS (tPA) within 24 hours** can salvage tissue in severe deep frostbite with no perfusion after rewarming — a modern advance. **Iloprost** is also used.
 - **Grading (like burns): 1st — numbness and erythema without blistering; 2nd — clear blisters; 3rd — haemorrhagic blisters, deeper; 4th — full-thickness with muscle and bone involvement.**
 - **Distinguish from TRENCH/IMMERSION FOOT (non-freezing cold injury, prolonged wet cold) and CHILBLAINS(cold and damp but non-freezing)/pernio.**
 
-**EXAM CONNECTION:** "Incorrect statement about management" → "**antibiotics and analgesics not used**".
+**EXAM CONNECTION:** “Incorrect statement about management” → “**antibiotics and analgesics not used**”.
 
 **REMEMBER:** *Warm it fast in a water bath, never rub it, give ibuprofen for the thromboxane — and amputate months later.*
 
@@ -4536,7 +4536,7 @@
 **MUST KNOW:**
 
 - **Definitions (Sepsis-3): SEPSIS = life-threatening organ dysfunction from a dysregulated host response to infection, identified by a rise in SOFA ≥2. SEPTIC SHOCK = sepsis requiring VASOPRESSORS to keep MAP ≥65 AND lactate >2 mmol/L despite adequate fluid resuscitation** — a subset with much higher mortality.
-- **The "HOUR-1 BUNDLE": measure LACTATE, take BLOOD CULTURES BEFORE antibiotics, give BROAD-SPECTRUM ANTIBIOTICS within 1 hour, start 30 mL/kg crystalloid for hypotension or lactate ≥4, and start vasopressors if hypotensive during or after fluids.**
+- **The “HOUR-1 BUNDLE”: measure LACTATE, take BLOOD CULTURES BEFORE antibiotics, give BROAD-SPECTRUM ANTIBIOTICS within 1 hour, start 30 mL/kg crystalloid for hypotension or lactate ≥4, and start vasopressors if hypotensive during or after fluids.**
 - **Every hour of delay in antibiotics increases mortality** — but **cultures must be drawn first if this causes no significant delay**.
 - **Source control (drainage of abscess, removal of infected line) is as important as antibiotics.**
 - **In a septic diabetic with a complicated UTI/urosepsis, cover ESBL organisms — a CARBAPENEM (meropenem)** is appropriate empirical therapy, since ESBL *E. coli* is now widespread and cephalosporins/co-amoxiclav will fail. **Nitrofurantoin never treats systemic infection** (it achieves therapeutic levels only in urine).
@@ -4554,18 +4554,18 @@
 
 **PEARL:** In **any** patient presenting with coma, **CHECK THE CAPILLARY BLOOD GLUCOSE FIRST** — before CT, before mannitol, before antihypertensives. **Most causes of coma are METABOLIC and fully REVERSIBLE**, and hypoglycaemia kills neurons every minute it persists.
 
-**UNDERSTAND:** The reasoning is a **risk–benefit asymmetry**: the test takes seconds, costs nothing and carries no risk, while the condition it excludes causes **irreversible cortical damage within minutes**. Everything on the differential list can wait a few seconds; hypoglycaemia cannot. This is the same logic that makes glucose part of "DEFG — Don't Ever Forget Glucose" in every resuscitation algorithm.
+**UNDERSTAND:** The reasoning is a **risk–benefit asymmetry**: the test takes seconds, costs nothing and carries no risk, while the condition it excludes causes **irreversible cortical damage within minutes**. Everything on the differential list can wait a few seconds; hypoglycaemia cannot. This is the same logic that makes glucose part of “DEFG — Don’t Ever Forget Glucose” in every resuscitation algorithm.
 
 **MUST KNOW:**
 
 - **Hypoglycaemia can mimic almost anything neurological — hemiplegia, seizures, focal deficits and psychiatric presentations — and it may present with HYPERTENSION and tachycardia** from the catecholamine surge, exactly as in this stem.
 - **BILATERAL EXTENSOR PLANTARS do NOT prove a structural lesion** — they occur in metabolic coma, hypoglycaemia, post-ictal states and drug overdose.
-- **Signs of raised intracranial pressure are BRADYCARDIA, HYPERTENSION and an ABNORMAL RESPIRATORY PATTERN (CUSHING'S TRIAD)** — a **tachycardic** patient argues against it, so mannitol and urgent CT are not the first move here.
-- **The rapidly reversible causes to exclude at the bedside: glucose, oxygen, opioids (naloxone), thiamine (before glucose in the malnourished/alcoholic, to avoid WERNICKE'S), and seizure.**
+- **Signs of raised intracranial pressure are BRADYCARDIA, HYPERTENSION and an ABNORMAL RESPIRATORY PATTERN (CUSHING’S TRIAD)** — a **tachycardic** patient argues against it, so mannitol and urgent CT are not the first move here.
+- **The rapidly reversible causes to exclude at the bedside: glucose, oxygen, opioids (naloxone), thiamine (before glucose in the malnourished/alcoholic, to avoid WERNICKE’S), and seizure.**
 - **Localising value of the pupils in coma: PINPOINT REACTIVE — pontine lesion or OPIOIDS. MID-POSITION FIXED — midbrain. UNILATERAL FIXED DILATED — uncal herniation with third nerve compression. PRESERVED PUPILLARY REFLEXES WITH DEEP COMA — metabolic cause** (a very useful rule: metabolic coma spares the pupils).
 - **Do not treat hypertension aggressively in an acute neurological emergency** — the raised pressure is often compensatory cerebral perfusion.
 
-**EXAM CONNECTION:** Any "comatose patient, next step" stem → **check blood sugar**.
+**EXAM CONNECTION:** Any “comatose patient, next step” stem → **check blood sugar**.
 
 **REMEMBER:** *Glucose first — it takes seconds, and it is the one cause that punishes delay.*
 
@@ -4582,14 +4582,14 @@
 **MUST KNOW:**
 
 - **TENSION PNEUMOTHORAX IS A CLINICAL DIAGNOSIS — DO NOT WAIT FOR AN X-RAY.** Treat with **IMMEDIATE NEEDLE DECOMPRESSION (2nd intercostal space, mid-clavicular line, or the 4th/5th space in the anterior axillary line, which is now preferred in adults), followed by an INTERCOSTAL DRAIN.**
-- **TAMPONADE: BECK'S TRIAD (hypotension, raised JVP, muffled heart sounds), PULSUS PARADOXUS >10 mmHg, ELECTRICAL ALTERNANS and low-voltage QRS on ECG, and an ABSENT y descent in the JVP.** **Echocardiography is diagnostic** (diastolic RA/RV collapse, IVC plethora); treat with **PERICARDIOCENTESIS**.
+- **TAMPONADE: BECK’S TRIAD (hypotension, raised JVP, muffled heart sounds), PULSUS PARADOXUS >10 mmHg, ELECTRICAL ALTERNANS and low-voltage QRS on ECG, and an ABSENT y descent in the JVP.** **Echocardiography is diagnostic** (diastolic RA/RV collapse, IVC plethora); treat with **PERICARDIOCENTESIS**.
 - **In tamponade, GIVE FLUIDS and AVOID diuretics, vasodilators and — critically — POSITIVE PRESSURE VENTILATION**, all of which reduce preload and can precipitate arrest.
 - **The full differential of obstructive shock with a raised JVP: tension pneumothorax, tamponade, and MASSIVE PULMONARY EMBOLISM** — which has **clear, equal breath sounds and a normal percussion note** but marked hypoxia and right heart strain (S1Q3T3, right axis deviation).
 - **Other causes of muffled heart sounds: obesity, emphysema, pleural effusion, and subcutaneous emphysema** — anything interposed between stethoscope and heart.
 - **Fluid alone will not work in tamponade — the heart cannot fill until the pericardium is decompressed. DECOMPRESS FIRST, then resuscitate.** **Pericardiocentesis approaches: SUBXIPHOID (commonest, under echo guidance), parasternal, apical.**
 - **The y descent is the physiology version of the same question: ABSENT/attenuated in TAMPONADE** (filling is impeded throughout diastole) **but DEEP in CONSTRICTIVE pericarditis, restrictive cardiomyopathy and tricuspid regurgitation** (rapid early filling halted abruptly — the “dip and plateau”/square-root sign).
 
-**EXAM CONNECTION:** "Differentiating feature" → **breath sounds**.
+**EXAM CONNECTION:** “Differentiating feature” → **breath sounds**.
 
 **REMEMBER:** *Same neck veins, same muffled heart — listen to the lungs to tell them apart.*
 
@@ -4612,7 +4612,7 @@
 - **The other complications of MASSIVE TRANSFUSION (≥10 units or one blood volume in 24 h): HYPOCALCAEMIA and HYPOMAGNESAEMIA (citrate CHELATES them — watch for perioral tingling, tetany and a prolonged QT), HYPERKALAEMIA from stored cells (then rebound hypokalaemia as the alkalosis drives K intracellularly), HYPOTHERMIA, DILUTIONAL COAGULOPATHY and thrombocytopenia, and ARDS/TRALI.**
 - **Modern massive transfusion protocols give a BALANCED 1:1:1 ratio of packed cells, fresh frozen plasma and platelets**, with tranexamic acid, active warming, and calcium replacement.
 - **Citrate accumulates when the liver cannot metabolise it** — so hepatic failure and hypothermia greatly increase toxicity.
-- **Always check the COMPENSATION: in metabolic acidosis the expected pCO2 = 1.5 × HCO3 + 8 ± 2 (WINTER'S FORMULA).** A pCO2 outside that range means a second, respiratory disorder is also present.
+- **Always check the COMPENSATION: in metabolic acidosis the expected pCO2 = 1.5 × HCO3 + 8 ± 2 (WINTER’S FORMULA).** A pCO2 outside that range means a second, respiratory disorder is also present.
 
 **EXAM CONNECTION:** Normal-looking ABG with a calculable anion gap of 21 → **mixed high anion gap acidosis with metabolic alkalosis**.
 
@@ -4626,7 +4626,7 @@
 
 **PEARL:** **Adrenaline (epinephrine) 1 mg IV** is the **first drug** in the ALS algorithm — given **immediately** in non-shockable rhythms (PEA/asystole), and **after the third shock** in shockable rhythms (VF/pulseless VT), then every **3–5 minutes**. **Amiodarone 300 mg** also goes in after the **third shock** (a further 150 mg after the fifth).
 
-**UNDERSTAND:** Adrenaline's benefit in arrest is **not** its inotropy but its **alpha-1 vasoconstriction**, which raises aortic diastolic pressure and therefore **coronary and cerebral perfusion pressure during compressions**. In VF it is given later because **defibrillation, not drugs, is the definitive treatment** — anything that delays a shock costs survival. Hence the ordering rule: shock first when shockable, drug first when not.
+**UNDERSTAND:** Adrenaline’s benefit in arrest is **not** its inotropy but its **alpha-1 vasoconstriction**, which raises aortic diastolic pressure and therefore **coronary and cerebral perfusion pressure during compressions**. In VF it is given later because **defibrillation, not drugs, is the definitive treatment** — anything that delays a shock costs survival. Hence the ordering rule: shock first when shockable, drug first when not.
 
 **MUST KNOW:**
 
@@ -4638,7 +4638,7 @@
 - **4 Hs and 4 Ts:** Hypoxia, Hypovolaemia, Hypo/hyperkalaemia & metabolic, Hypothermia; Thrombosis (coronary/pulmonary), Tension pneumothorax, Tamponade, Toxins.
 - Post-ROSC: targeted temperature management, avoid hyperoxia (target SpO₂ 94–98%), 12-lead ECG, treat the cause.
 
-**EXAM CONNECTION:** The question is the **order and timing** — "first drug" is adrenaline regardless of rhythm; what changes is **when**.
+**EXAM CONNECTION:** The question is the **order and timing** — “first drug” is adrenaline regardless of rhythm; what changes is **when**.
 
 **REMEMBER:** *Shockable: shock, shock, shock-then-drugs. Non-shockable: adrenaline now.*
 
@@ -4673,17 +4673,17 @@
 
 **PEARL:** All of these are true: the **earliest manifestations are GASTROINTESTINAL (anorexia, nausea, vomiting)**; **visual changes (blurring, non-specific disturbance, and classically XANTHOPSIA — yellow-green haloes) occur**; **early toxicity may NOT correlate with serum levels**; **neurological symptoms can occur without cardiac changes**; and **HYPOKALAEMIA increases toxicity**.
 
-**UNDERSTAND:** Digoxin competes with **potassium for the same binding site on the Na⁺/K⁺-ATPase**. When potassium falls, less of it occupies that site, so **more digoxin binds and toxicity occurs at "therapeutic" serum levels** — which is exactly why the serum concentration correlates so poorly with clinical toxicity, and why **any drug that lowers potassium (loop and thiazide diuretics) is the commonest precipitant**. Conversely, hyperkalaemia in acute overdose signals massive pump inhibition and predicts death.
+**UNDERSTAND:** Digoxin competes with **potassium for the same binding site on the Na⁺/K⁺-ATPase**. When potassium falls, less of it occupies that site, so **more digoxin binds and toxicity occurs at “therapeutic” serum levels** — which is exactly why the serum concentration correlates so poorly with clinical toxicity, and why **any drug that lowers potassium (loop and thiazide diuretics) is the commonest precipitant**. Conversely, hyperkalaemia in acute overdose signals massive pump inhibition and predicts death.
 
 **MUST KNOW:**
 
 - **Narrow therapeutic index (0.5–2 ng/mL).** **Precipitants: hypokalaemia, hypomagnesaemia, HYPERcalcaemia, hypothyroidism, renal impairment (digoxin is renally excreted), old age, and interacting drugs — AMIODARONE, VERAPAMIL, quinidine, spironolactone, macrolides (which raise levels).**
-- **Cardiac toxicity: almost any arrhythmia, but the most characteristic are ATRIAL TACHYCARDIA WITH BLOCK, bidirectional ventricular tachycardia, and ventricular ectopics with bigeminy.** The **"reverse tick"/sagging ST depression is the DIGOXIN EFFECT — a sign of use, NOT of toxicity.**
-- **Treatment: stop the drug, correct potassium and magnesium, treat bradyarrhythmias with atropine/pacing, and give DIGOXIN-SPECIFIC ANTIBODY FRAGMENTS (Fab) for life-threatening arrhythmia, haemodynamic instability, or serum potassium >5–5.5 mmol/L in acute overdose.** **AVOID calcium in digoxin-induced hyperkalaemia ("stone heart")** and avoid class IA antiarrhythmics.
+- **Cardiac toxicity: almost any arrhythmia, but the most characteristic are ATRIAL TACHYCARDIA WITH BLOCK, bidirectional ventricular tachycardia, and ventricular ectopics with bigeminy.** The **“reverse tick”/sagging ST depression is the DIGOXIN EFFECT — a sign of use, NOT of toxicity.**
+- **Treatment: stop the drug, correct potassium and magnesium, treat bradyarrhythmias with atropine/pacing, and give DIGOXIN-SPECIFIC ANTIBODY FRAGMENTS (Fab) for life-threatening arrhythmia, haemodynamic instability, or serum potassium >5–5.5 mmol/L in acute overdose.** **AVOID calcium in digoxin-induced hyperkalaemia (“stone heart”)** and avoid class IA antiarrhythmics.
 - **Mechanism: inhibition of Na⁺/K⁺-ATPase → rise in intracellular Na⁺ → reduced Na⁺/Ca²⁺ exchange → higher intracellular calcium → increased contractility**; plus a **vagotonic effect** slowing AV conduction (the basis of rate control in AF).
 - **Digoxin reduces hospitalisation but NOT mortality in heart failure**; it is most useful in **AF with heart failure** and in patients who remain symptomatic on optimal therapy.
 
-**EXAM CONNECTION:** "All are true" is often the right answer here — the statements are all classical teaching. The one to remember is **poor level–toxicity correlation** and the **hypokalaemia link**.
+**EXAM CONNECTION:** “All are true” is often the right answer here — the statements are all classical teaching. The one to remember is **poor level–toxicity correlation** and the **hypokalaemia link**.
 
 **REMEMBER:** *Low potassium lets digoxin in — the level in the blood tells you less than the patient does.*
 
@@ -4703,9 +4703,9 @@
 - Management: **low tidal volume 6 mL/kg IBW, plateau pressure < 30, higher PEEP, conservative fluid strategy, prone positioning ≥ 16 h/day for severe ARDS, neuromuscular blockade in early severe disease**. **Prone positioning and low tidal volume are the interventions with proven mortality benefit.**
 - Pathology: **diffuse alveolar damage** with **hyaline membranes**, exudative → proliferative → fibrotic phases.
 - **Steroids** benefit selected patients (late/fibroproliferative, COVID-19); **ECMO** for refractory hypoxaemia.
-- Compliance is reduced because of **surfactant loss and alveolar flooding** — the "baby lung" concept underpins low tidal volumes.
+- Compliance is reduced because of **surfactant loss and alveolar flooding** — the “baby lung” concept underpins low tidal volumes.
 
-**EXAM CONNECTION:** "Least likely in ARDS" → **increased left atrial pressure**, which would make the diagnosis cardiogenic pulmonary oedema instead.
+**EXAM CONNECTION:** “Least likely in ARDS” → **increased left atrial pressure**, which would make the diagnosis cardiogenic pulmonary oedema instead.
 
 **REMEMBER:** *Wet lungs with dry filling pressures.*
 
@@ -4726,12 +4726,12 @@
 
 **MUST KNOW:**
 
-- **Non-opioids are CONTINUED at every step** — they are opioid-sparing and act by a different (peripheral, anti-inflammatory) mechanism. The answer is always "add the opioid **and continue** the NSAID".
-- **Give analgesia BY THE MOUTH, BY THE CLOCK, BY THE LADDER, FOR THE INDIVIDUAL, AND WITH ATTENTION TO DETAIL** — the WHO's five principles. **Regular dosing with breakthrough (rescue) doses**, never PRN alone, in cancer pain.
+- **Non-opioids are CONTINUED at every step** — they are opioid-sparing and act by a different (peripheral, anti-inflammatory) mechanism. The answer is always “add the opioid **and continue** the NSAID”.
+- **Give analgesia BY THE MOUTH, BY THE CLOCK, BY THE LADDER, FOR THE INDIVIDUAL, AND WITH ATTENTION TO DETAIL** — the WHO’s five principles. **Regular dosing with breakthrough (rescue) doses**, never PRN alone, in cancer pain.
 - **ADJUVANTS at any step: bisphosphonates and radiotherapy for BONE pain; corticosteroids (for nerve compression, raised ICP, liver capsule pain); ANTICONVULSANTS (gabapentin/pregabalin) and TCAs for NEUROPATHIC pain; benzodiazepines for muscle spasm.**
 - **Always co-prescribe a LAXATIVE with an opioid** — tolerance develops to everything except **constipation and miosis**. Anticipate nausea (give an antiemetic initially).
 - **Morphine dose is titrated to effect with no maximum ceiling** — but **reduce in renal impairment** (accumulation of morphine-6-glucuronide); consider fentanyl or buprenorphine instead.
-- **Many now describe a "fourth step" — interventional techniques (nerve blocks, coeliac plexus block, intrathecal pumps)**, and step 2 is increasingly bypassed in favour of low-dose strong opioids.
+- **Many now describe a “fourth step” — interventional techniques (nerve blocks, coeliac plexus block, intrathecal pumps)**, and step 2 is increasingly bypassed in favour of low-dose strong opioids.
 
 **EXAM CONNECTION:** Cancer pain uncontrolled on paracetamol + NSAID → **start tramadol AND continue the NSAIDs** — note that continuing step 1 is part of the correct answer.
 

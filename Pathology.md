@@ -34,12 +34,12 @@
 
 **MUST KNOW — the named-body list:**
 
-- **PSAMMOMA (Greek *psammos*, sand): "PSaMMoma" — Papillary thyroid, Serous ovarian, Meningioma, Mesothelioma** (+ papillary RCC, prolactinoma).
+- **PSAMMOMA (Greek *psammos*, sand): “PSaMMoma” — Papillary thyroid, Serous ovarian, Meningioma, Mesothelioma** (+ papillary RCC, prolactinoma).
 - **VEROCAY bodies — two rows of palisading nuclei around an acellular zone, in ANTONI A areas of a SCHWANNOMA** (S100 positive).
-- **CALL–EXNER bodies — small follicle-like spaces with eosinophilic material, in GRANULOSA CELL TUMOUR** (with "coffee-bean" grooved nuclei; marker **inhibin**).
+- **CALL–EXNER bodies — small follicle-like spaces with eosinophilic material, in GRANULOSA CELL TUMOUR** (with “coffee-bean” grooved nuclei; marker **inhibin**).
 - **RUSSELL bodies — CYTOPLASMIC immunoglobulin inclusions in plasma cells (myeloma); DUTCHER bodies — the same material INTRANUCLEAR (Waldenström and myeloma).**
-- **REINKE crystals — Leydig cell tumour. SCHILLER–DUVAL bodies — yolk sac tumour. ASTEROID and SCHAUMANN bodies — sarcoidosis. NEGRI bodies — rabies. COWDRY A — herpes and CMV. OWL'S EYE — CMV. GUARNIERI — smallpox. MOLLUSCUM (Henderson–Paterson) bodies — molluscum contagiosum. MALLORY bodies (hyaline) — alcoholic hepatitis. LEWY bodies — Parkinson disease. PICK bodies — frontotemporal dementia. AUER RODS — AML, especially APML. CURSCHMANN SPIRALS and CHARCOT–LEYDEN crystals — asthma. PSAMMOMA-like corpora amylacea — prostate and brain (benign).**
-- **Meningioma: arises from ARACHNOID CAP cells, is EXTRA-axial and dural-based with a "DURAL TAIL" on contrast MRI, whorled spindle cells, EMA and progesterone-receptor positive, associated with NF2 and prior radiation; usually benign and cured by resection.**
+- **REINKE crystals — Leydig cell tumour. SCHILLER–DUVAL bodies — yolk sac tumour. ASTEROID and SCHAUMANN bodies — sarcoidosis. NEGRI bodies — rabies. COWDRY A — herpes and CMV. OWL’S EYE — CMV. GUARNIERI — smallpox. MOLLUSCUM (Henderson–Paterson) bodies — molluscum contagiosum. MALLORY bodies (hyaline) — alcoholic hepatitis. LEWY bodies — Parkinson disease. PICK bodies — frontotemporal dementia. AUER RODS — AML, especially APML. CURSCHMANN SPIRALS and CHARCOT–LEYDEN crystals — asthma. PSAMMOMA-like corpora amylacea — prostate and brain (benign).**
+- **Meningioma: arises from ARACHNOID CAP cells, is EXTRA-axial and dural-based with a “DURAL TAIL” on contrast MRI, whorled spindle cells, EMA and progesterone-receptor positive, associated with NF2 and prior radiation; usually benign and cured by resection.**
 
 **EXAM CONNECTION:** Histology image → named body → tumour. If the image shows **concentric laminated calcification**, run the **PSaMMoma** list and let the clinical context choose.
 
@@ -65,12 +65,12 @@
 
 - **INTRINSIC pathway: triggered by DNA damage, misfolded proteins, growth factor withdrawal and loss of survival signals → BAX/BAK permeabilise the mitochondrion (opposed by BCL-2/BCL-XL) → CYTOCHROME c release → apoptosome with APAF-1 → CASPASE 9 → caspases 3/6.** **BCL-2 overexpression (t(14;18) in FOLLICULAR LYMPHOMA) blocks apoptosis and causes cancer.**
 - **EXTRINSIC pathway: FAS ligand–FAS (CD95) or TNF binding → FADD → DISC → CASPASE 8 → caspases 3/6.** Used to **eliminate self-reactive lymphocytes** and by **cytotoxic T cells**; CTLs also use the **PERFORIN–GRANZYME B** route, which activates caspases directly.
-- **Morphology of apoptosis: cell SHRINKAGE, chromatin condensation (pyknosis), karyorrhexis, apoptotic bodies, an INTACT membrane and NO INFLAMMATION** — because contents are never spilled and the bodies are phagocytosed (phosphatidylserine "eat me" flag). **NECROSIS is the opposite: cell swelling, membrane rupture, enzymatic digestion and INTENSE INFLAMMATION.**
+- **Morphology of apoptosis: cell SHRINKAGE, chromatin condensation (pyknosis), karyorrhexis, apoptotic bodies, an INTACT membrane and NO INFLAMMATION** — because contents are never spilled and the bodies are phagocytosed (phosphatidylserine “eat me” flag). **NECROSIS is the opposite: cell swelling, membrane rupture, enzymatic digestion and INTENSE INFLAMMATION.**
 - **DNA laddering (internucleosomal fragmentation by endonucleases) and the TUNEL assay** detect apoptosis in the laboratory.
 - **CASPASES 1 and 4 are INFLAMMATORY caspases** — caspase 1 is the **inflammasome** enzyme that converts pro-IL-1β to IL-1β and drives **PYROPTOSIS** (an inflammatory cell death) — not apoptosis.
 - **p53 triggers the intrinsic pathway after irreparable DNA damage**; its loss is the commonest mutation in human cancer.
 
-**EXAM CONNECTION:** "Which pair INITIATES?" — the answer is **8 and 9**; caspases 3 and 6 are executioners, and 1 and 4 are inflammatory.
+**EXAM CONNECTION:** “Which pair INITIATES?” — the answer is **8 and 9**; caspases 3 and 6 are executioners, and 1 and 4 are inflammatory.
 
 **REMEMBER:** *Nine from the mitochondrion, eight from the death receptor — both hand over to three.*
 
@@ -94,9 +94,9 @@
 - **Preferred sites of metastatic calcification: gastric mucosa, kidneys (nephrocalcinosis), lungs, systemic arteries, pulmonary veins.**
 - Examples of dystrophic calcification: **atheromatous plaques, damaged heart valves, TB caseation, fat necrosis, psammoma bodies, old thrombi, dead parasites**.
 - Morphologically the two look identical — the distinction is **clinical and biochemical**.
-- **Lipofuscin** ("wear-and-tear"/ageing pigment) is a separate entity: **brown-yellow granular material from lipid peroxidation of membranes, a marker of free-radical injury, and NOT injurious to the cell**; seen in heart, liver and brain in ageing, malnutrition and cachexia — producing **brown atrophy**.
+- **Lipofuscin** (“wear-and-tear”/ageing pigment) is a separate entity: **brown-yellow granular material from lipid peroxidation of membranes, a marker of free-radical injury, and NOT injurious to the cell**; seen in heart, liver and brain in ageing, malnutrition and cachexia — producing **brown atrophy**.
 
-**EXAM CONNECTION:** "Would NOT expect metastatic calcification" → **tuberculosis** (dystrophic). The other three all cause hypercalcaemia.
+**EXAM CONNECTION:** “Would NOT expect metastatic calcification” → **tuberculosis** (dystrophic). The other three all cause hypercalcaemia.
 
 **REMEMBER:** *Dead tissue calcifies locally; high calcium calcifies everywhere.*
 
@@ -133,14 +133,14 @@
 
 **PEARL:** **Anaplasia = LACK OF DIFFERENTIATION** (not pleomorphism, which is variation in size and shape). **Skeletal and cardiac muscle CANNOT undergo hyperplasia** — only hypertrophy. **Vitamin A deficiency causes SQUAMOUS METAPLASIA of respiratory epithelium.**
 
-**UNDERSTAND:** Hyperplasia requires **mitotically capable cells**. Skeletal and cardiac myocytes are **permanent (post-mitotic) cells**, so they can only enlarge — which is why the athlete's heart and the hypertensive heart thicken rather than multiply, and why infarcted myocardium heals by **scar, not regeneration**. Smooth muscle is a **stable cell** and can do both (the pregnant uterus does both).
+**UNDERSTAND:** Hyperplasia requires **mitotically capable cells**. Skeletal and cardiac myocytes are **permanent (post-mitotic) cells**, so they can only enlarge — which is why the athlete’s heart and the hypertensive heart thicken rather than multiply, and why infarcted myocardium heals by **scar, not regeneration**. Smooth muscle is a **stable cell** and can do both (the pregnant uterus does both).
 
 **MUST KNOW:**
 
-- **Anaplasia** — "to form backward"; the hallmark of malignancy. Accompanied by **pleomorphism, increased N:C ratio (→1:1 from 1:4), hyperchromasia, atypical mitoses, tumour giant cells and loss of polarity**.
+- **Anaplasia** — “to form backward”; the hallmark of malignancy. Accompanied by **pleomorphism, increased N:C ratio (→1:1 from 1:4), hyperchromasia, atypical mitoses, tumour giant cells and loss of polarity**.
 - **Cell types by proliferative capacity:** **labile** (skin, gut, marrow — continuously dividing); **stable** (liver, kidney, smooth muscle — quiescent but able to divide); **permanent** (neurons, cardiac and skeletal muscle).
 - **Metaplasia** = replacement of one differentiated cell type by another, usually **adaptive but predisposing to dysplasia**: **squamous metaplasia** in bronchi (smoking, **vitamin A deficiency**) and cervix; **intestinal metaplasia** in the oesophagus (Barrett) and stomach (chronic gastritis); **osseous metaplasia** in myositis ossificans.
-- **Vitamin A (retinoic acid) maintains normal epithelial differentiation** through **RAR/RXR nuclear receptors** — its deficiency also causes **xerophthalmia, Bitot's spots and follicular hyperkeratosis**.
+- **Vitamin A (retinoic acid) maintains normal epithelial differentiation** through **RAR/RXR nuclear receptors** — its deficiency also causes **xerophthalmia, Bitot’s spots and follicular hyperkeratosis**.
 - Physiological hyperplasia: breast at puberty/pregnancy, uterine smooth muscle, **compensatory liver regeneration**. Pathological: **endometrial hyperplasia, BPH**.
 
 **EXAM CONNECTION:** Definition questions. **Anaplasia = differentiation; pleomorphism = shape**; keep them separate.
@@ -184,7 +184,7 @@
 
 **PEARL:** In **carcinoma of unknown primary (CUP)**, **serum tumour markers are NON-SPECIFIC** and do not identify the primary. **Most CUPs are ADENOCARCINOMAS** (not squamous), and colorectal cancers are typically **CK7-negative / CK20-POSITIVE**.
 
-**UNDERSTAND:** Tumour markers were designed to monitor a **known** cancer's response, not to find an unknown one; they are elevated in many malignant and benign states, so their positive predictive value in an undifferentiated presentation is poor. **Immunohistochemistry on the biopsy, not blood**, is what localises the primary — because IHC reads the tumour cell's **lineage-specific proteins**, which it retains no matter where it metastasises.
+**UNDERSTAND:** Tumour markers were designed to monitor a **known** cancer’s response, not to find an unknown one; they are elevated in many malignant and benign states, so their positive predictive value in an undifferentiated presentation is poor. **Immunohistochemistry on the biopsy, not blood**, is what localises the primary — because IHC reads the tumour cell’s **lineage-specific proteins**, which it retains no matter where it metastasises.
 
 **MUST KNOW:**
 
@@ -194,9 +194,9 @@
 - **Favourable CUP subsets** treated as if the primary were known: **isolated axillary nodal adenocarcinoma in a woman = breast**; **peritoneal papillary serous carcinomatosis in a woman = ovarian**; **squamous cervical nodes = head and neck**; **midline poorly differentiated carcinoma in a young man = germ cell (treat with platinum-based chemotherapy)**; blastic bone metastases with raised PSA = prostate; single small resectable metastasis.
 - **PET-CT** identifies the primary in ~40%; molecular gene-expression profiling has not been shown to improve survival. Prognosis in unfavourable CUP is poor (median 6–12 months).
 
-**EXAM CONNECTION:** "All are incorrect EXCEPT" — the true statement is the one about **non-specific tumour markers**; the CK7/CK20 profile for colorectal is inverted in the distractor.
+**EXAM CONNECTION:** “All are incorrect EXCEPT” — the true statement is the one about **non-specific tumour markers**; the CK7/CK20 profile for colorectal is inverted in the distractor.
 
-**REMEMBER:** *Blood markers don't find the primary — the immunostains do. Colon is CK20 positive.*
+**REMEMBER:** *Blood markers don’t find the primary — the immunostains do. Colon is CK20 positive.*
 
 `Q10884`
 
@@ -215,9 +215,9 @@
 - **ATM defect → ATAXIA TELANGIECTASIA**: cerebellar ataxia, oculocutaneous telangiectasia, sinopulmonary infection with **IgA deficiency, raised AFP, radiosensitivity and lymphoma risk**.
 - **NHEJ defect → SCID with radiosensitivity** (Artemis, DNA-PK, ligase IV) — because V(D)J recombination uses the NHEJ machinery.
 - **Nucleotide excision repair defect → XERODERMA PIGMENTOSUM**: UV-induced **pyrimidine dimers** cannot be removed → extreme photosensitivity and early skin cancers. **Base excision repair** handles oxidative and deaminated bases (glycosylases, AP endonuclease); **MUTYH** defects cause a polyposis syndrome.
-- **p53 is the "guardian of the genome"** — arrests the cell at G1/S for repair or triggers apoptosis; germline loss = **Li–Fraumeni syndrome**.
+- **p53 is the “guardian of the genome”** — arrests the cell at G1/S for repair or triggers apoptosis; germline loss = **Li–Fraumeni syndrome**.
 
-**EXAM CONNECTION:** "Not involved in double-strand break repair" — the answer is the **mismatch repair protein**. Learn each syndrome by its pathway.
+**EXAM CONNECTION:** “Not involved in double-strand break repair” — the answer is the **mismatch repair protein**. Learn each syndrome by its pathway.
 
 **REMEMBER:** *MSH proofreads single mistakes; ATM, BRCA and Ku deal with broken backbones.*
 
@@ -232,7 +232,7 @@
 
 **PEARL:** **SOUTHERN blot → DNA** (e.g. a large deletion in the dystrophin gene). **NORTHERN blot → RNA** (quantifying MYC gene expression). **WESTERN blot → PROTEIN** (HER2 overexpression). **SOUTHWESTERN blot → DNA-binding PROTEINS** (a transcription factor binding a promoter sequence).
 
-**UNDERSTAND:** Only the **Southern blot is named after a person (Edwin Southern)**; the others were named as a laboratory joke following the compass. The useful mnemonic is **"SNoW DRoP": Southern = DNA, Northern = RNA, Western = Protein.** Each technique follows the same three steps — **separate by electrophoresis, transfer to a membrane, and probe** — and differs only in the molecule separated and the probe used (**labelled nucleic acid probe** for Southern/Northern, **antibody** for Western, **labelled DNA oligonucleotide** for Southwestern).
+**UNDERSTAND:** Only the **Southern blot is named after a person (Edwin Southern)**; the others were named as a laboratory joke following the compass. The useful mnemonic is **“SNoW DRoP”: Southern = DNA, Northern = RNA, Western = Protein.** Each technique follows the same three steps — **separate by electrophoresis, transfer to a membrane, and probe** — and differs only in the molecule separated and the probe used (**labelled nucleic acid probe** for Southern/Northern, **antibody** for Western, **labelled DNA oligonucleotide** for Southwestern).
 
 **MUST KNOW:**
 
@@ -255,7 +255,7 @@
 
 **PEARL:** **RADON → LUNG carcinoma** (the second commonest cause after smoking). **Asbestos → mesothelioma AND lung carcinoma** — with smoking multiplying the lung cancer risk. **Schistosoma haematobium → SQUAMOUS cell carcinoma of the bladder.**
 
-**UNDERSTAND:** Each agent causes cancer where it **physically deposits and persists**. Radon is an inhaled alpha-emitting gas that irradiates bronchial epithelium. Asbestos fibres are too long to clear and migrate to the **pleura**, causing chronic inflammation and mesothelioma. *S. haematobium* eggs lodge in the **bladder wall**, and the chronic irritation drives **squamous metaplasia → dysplasia → squamous carcinoma**, overriding the bladder's native urothelium.
+**UNDERSTAND:** Each agent causes cancer where it **physically deposits and persists**. Radon is an inhaled alpha-emitting gas that irradiates bronchial epithelium. Asbestos fibres are too long to clear and migrate to the **pleura**, causing chronic inflammation and mesothelioma. *S. haematobium* eggs lodge in the **bladder wall**, and the chronic irritation drives **squamous metaplasia → dysplasia → squamous carcinoma**, overriding the bladder’s native urothelium.
 
 **MUST KNOW:**
 
@@ -266,7 +266,7 @@
 - **S. haematobium** eggs have a **TERMINAL spine** (vs the lateral spine of *S. mansoni*) and are found in **urine**.
 - **Silicosis** — upper zone nodules, **eggshell calcification** of hilar nodes, and increased **tuberculosis** risk.
 
-**EXAM CONNECTION:** Occupational history plus tumour type. "Cement factory" is a proxy for **asbestos** exposure.
+**EXAM CONNECTION:** Occupational history plus tumour type. “Cement factory” is a proxy for **asbestos** exposure.
 
 **REMEMBER:** *Fibres lodge in the pleura, gas irradiates the bronchus, eggs inflame the bladder.*
 
@@ -295,7 +295,7 @@
 - **Genomic imprinting, X-inactivation (Barr body) and position-effect variegation** are all epigenetic phenomena.
 - Distinguish the terms in the options: **genomics** (whole genome), **molecular genetics** (gene structure/function), **phylogenetics** (evolutionary relationships).
 
-**EXAM CONNECTION:** Definitional. The key phrase is **"not caused by alterations in DNA sequence."**
+**EXAM CONNECTION:** Definitional. The key phrase is **“not caused by alterations in DNA sequence.”**
 
 **REMEMBER:** *Epigenetics changes the reading, not the text.*
 
@@ -316,7 +316,7 @@
 **MUST KNOW:**
 
 - ***ACUTE CELLULAR rejection (days–months): CD8 and CD4 T cells producing a tubulointerstitial mononuclear infiltrate with TUBULITIS and ENDOTHELIITIS — treated with HIGH-DOSE STEROIDS and anti-lymphocyte antibodies. ACUTE HUMORAL (antibody-mediated) rejection: neutrophils and C4d DEPOSITION IN PERITUBULAR CAPILLARIES — treated with plasmapheresis, IVIG and rituximab.***
-- **CHRONIC rejection (months–years): vascular intimal fibrosis with luminal narrowing ("graft arteriosclerosis"), interstitial fibrosis and tubular atrophy — largely irreversible and the main cause of late graft loss.**
+- **CHRONIC rejection (months–years): vascular intimal fibrosis with luminal narrowing (“graft arteriosclerosis”), interstitial fibrosis and tubular atrophy — largely irreversible and the main cause of late graft loss.**
 - **GRAFT-versus-HOST DISEASE is the mirror image — donor T cells attacking the recipient — seen after allogeneic marrow transplantation and after transfusion of non-irradiated blood into the immunosuppressed; targets SKIN (rash), GUT (diarrhoea) and LIVER (cholestatic jaundice).**
 - **Immunosuppression: calcineurin inhibitors (ciclosporin, tacrolimus — nephrotoxic), antiproliferatives (mycophenolate, azathioprine), mTOR inhibitors (sirolimus), steroids and induction antibodies (basiliximab, anti-thymocyte globulin). The price is INFECTION (CMV, BK virus, *Pneumocystis*, fungi) and MALIGNANCY (POST-TRANSPLANT LYMPHOPROLIFERATIVE DISORDER, EBV-driven, and skin cancers).**
 - **The privileged tissue exception — CORNEA and cartilage are avascular and largely escape rejection.**
@@ -338,7 +338,7 @@
 **MUST KNOW:**
 
 - **The Gell and Coombs classification: ***TYPE I*** — IgE/mast cell, immediate (anaphylaxis, atopy, asthma, urticaria). ***TYPE II*** — antibody against fixed tissue antigen (autoimmune haemolytic anaemia, ITP, Goodpasture, rheumatic fever, pemphigus, Graves and myasthenia as receptor-mediated variants). ***TYPE III*** — immune COMPLEX deposition (SLE, post-streptococcal GN, serum sickness, Arthus reaction, HSP). ***TYPE IV*** — T-cell mediated, DELAYED (tuberculin test, contact dermatitis, granulomas, transplant rejection, type 1 diabetes).**
-- **SERUM TRYPTASE is the laboratory marker of mast-cell degranulation and is used to confirm anaphylaxis retrospectively; it is also raised in SYSTEMIC MASTOCYTOSIS (KIT D816V mutation, with URTICARIA PIGMENTOSA and DARIER'S SIGN — whealing on stroking a lesion).**
+- **SERUM TRYPTASE is the laboratory marker of mast-cell degranulation and is used to confirm anaphylaxis retrospectively; it is also raised in SYSTEMIC MASTOCYTOSIS (KIT D816V mutation, with URTICARIA PIGMENTOSA and DARIER’S SIGN — whealing on stroking a lesion).**
 - ***ANAPHYLAXIS IS TREATED WITH INTRAMUSCULAR ADRENALINE INTO THE ANTEROLATERAL THIGH*** — antihistamines and steroids are adjuncts and never the first drug.
 - **Mast cells resemble basophils but are TISSUE-resident (connective tissue and mucosa) and arise from a distinct progenitor; they also participate in wound healing, angiogenesis and defence against parasites.**
 - **Toluidine blue is METACHROMATIC — it stains the acid proteoglycan granules purple-red while the dye itself is blue, the same property used for amyloid and cartilage matrix.**
@@ -359,7 +359,7 @@
 
 **PEARL:** **NETs are meshworks of NUCLEAR CHROMATIN (DNA + HISTONES) studded with antimicrobial proteins (elastase, myeloperoxidase, defensins), extruded by activated neutrophils to trap and kill extracellular organisms.** The process (**NETosis**) ***COSTS THE NEUTROPHIL ITS NUCLEUS AND ITS LIFE***, is effective against ***BACTERIA AND FUNGI (NOT viruses alone)***, is detectable in **SEPSIS**, and is implicated in the pathogenesis of ***SLE*** and of thrombosis.
 
-**UNDERSTAND:** NETs are the immune system accepting a **trade-off: to concentrate antimicrobial molecules outside the cell, the neutrophil must dismantle its own nucleus.** The autoimmune consequence follows directly — **extruded chromatin is a bolus of NUCLEAR ANTIGENS (DNA, histones, nucleosomes)**, exactly the targets of the autoantibodies in SLE. Impaired clearance of NETs is now regarded as a source of the anti-nuclear antigen load, and NETs also **scaffold thrombi ("IMMUNOTHROMBOSIS")** — the link between infection, inflammation and clotting seen in sepsis and severe COVID-19.
+**UNDERSTAND:** NETs are the immune system accepting a **trade-off: to concentrate antimicrobial molecules outside the cell, the neutrophil must dismantle its own nucleus.** The autoimmune consequence follows directly — **extruded chromatin is a bolus of NUCLEAR ANTIGENS (DNA, histones, nucleosomes)**, exactly the targets of the autoantibodies in SLE. Impaired clearance of NETs is now regarded as a source of the anti-nuclear antigen load, and NETs also **scaffold thrombi (“IMMUNOTHROMBOSIS”)** — the link between infection, inflammation and clotting seen in sepsis and severe COVID-19.
 
 **MUST KNOW:**
 
@@ -367,9 +367,9 @@
 - **Triggers of NETosis: bacteria and fungi, IL-8 and TNF, complement, ROS, activated platelets, and immune complexes.**
 - **NETs contribute to disease as well as defence: SLE, ANCA-associated vasculitis (they present MPO and PR3), rheumatoid arthritis, deep vein thrombosis, acute respiratory distress syndrome and cancer metastasis.**
 - **Other neutrophil facts examiners like: the LEUCOCYTE ADHESION CASCADE (rolling on selectins → firm adhesion via integrins/ICAM → transmigration → chemotaxis), and LEUCOCYTE ADHESION DEFICIENCY type 1 (CD18/beta-2 integrin defect — ***DELAYED SEPARATION OF THE UMBILICAL CORD, recurrent infections WITHOUT PUS, and a persistent neutrophilia***).**
-- **A "left shift" with toxic granulation, Döhle bodies and cytoplasmic vacuolation is the morphological signature of severe bacterial infection.**
+- **A “left shift” with toxic granulation, Döhle bodies and cytoplasmic vacuolation is the morphological signature of severe bacterial infection.**
 
-**EXAM CONNECTION:** "Incorrect about NETs" → **that they are effective only against bacteria** (they also act against fungi).
+**EXAM CONNECTION:** “Incorrect about NETs” → **that they are effective only against bacteria** (they also act against fungi).
 
 **REMEMBER:** *The neutrophil throws out its own DNA to catch microbes — and sometimes the immune system turns on that DNA.*
 
@@ -422,7 +422,7 @@
 - **Live vaccines are contraindicated.**
 - Compare the other combined/T-cell defects: **DiGeorge (22q11, hypocalcaemia, absent thymus, conotruncal cardiac defects)**, **ataxia-telangiectasia (ATM, raised AFP)**, **SCID (adenosine deaminase or γ-chain, absent thymic shadow)**.
 
-**EXAM CONNECTION:** "Diagnostic investigation" → **WASP gene mutation**, not the platelet or marrow studies which merely confirm the thrombocytopenia.
+**EXAM CONNECTION:** “Diagnostic investigation” → **WASP gene mutation**, not the platelet or marrow studies which merely confirm the thrombocytopenia.
 
 **REMEMBER:** *One broken actin regulator gives eczema, tiny platelets and infections.*
 
@@ -439,16 +439,16 @@
 
 ### 17. Haemoglobin Estimation and Reticulocyte Staining
 
-**PEARL:** ***THE CYANMETHAEMOGLOBIN (HiCN) METHOD IS THE INTERNATIONAL REFERENCE STANDARD FOR HAEMOGLOBIN ESTIMATION.*** Drabkin's reagent (potassium ferricyanide + potassium cyanide) converts **ALL haemoglobin forms — oxyhaemoglobin, methaemoglobin, carboxyhaemoglobin — to a single stable pigment measured at 540 nm.** **RETICULOCYTES are best demonstrated by SUPRAVITAL staining with NEW METHYLENE BLUE** (brilliant cresyl blue is the alternative), which precipitates their **residual RIBOSOMAL RNA** into a blue reticulum.
+**PEARL:** ***THE CYANMETHAEMOGLOBIN (HiCN) METHOD IS THE INTERNATIONAL REFERENCE STANDARD FOR HAEMOGLOBIN ESTIMATION.*** Drabkin’s reagent (potassium ferricyanide + potassium cyanide) converts **ALL haemoglobin forms — oxyhaemoglobin, methaemoglobin, carboxyhaemoglobin — to a single stable pigment measured at 540 nm.** **RETICULOCYTES are best demonstrated by SUPRAVITAL staining with NEW METHYLENE BLUE** (brilliant cresyl blue is the alternative), which precipitates their **residual RIBOSOMAL RNA** into a blue reticulum.
 
-**UNDERSTAND:** Both facts turn on the same principle — **measure everything in one form, or you measure nothing reliably.** Older methods (acid and alkali hematin) convert only part of the haemoglobin and are ruined by turbidity; cyanmethaemoglobin converts every species except sulphaemoglobin. Likewise, reticulocyte RNA is **NOT VISIBLE ON A ROUTINE ROMANOWSKY STAIN** — it appears only as diffuse "polychromasia" — so a supravital stain applied to LIVING cells before fixation is required.
+**UNDERSTAND:** Both facts turn on the same principle — **measure everything in one form, or you measure nothing reliably.** Older methods (acid and alkali hematin) convert only part of the haemoglobin and are ruined by turbidity; cyanmethaemoglobin converts every species except sulphaemoglobin. Likewise, reticulocyte RNA is **NOT VISIBLE ON A ROUTINE ROMANOWSKY STAIN** — it appears only as diffuse “polychromasia” — so a supravital stain applied to LIVING cells before fixation is required.
 
 **MUST KNOW:**
 
-- **RETICULOCYTE COUNT is the single best index of ERYTHROPOIETIC ACTIVITY: HIGH in haemolysis and acute blood loss (and after starting haematinics — the "reticulocyte response" at 5–7 days confirms the diagnosis), LOW in aplastic anaemia, marrow infiltration and untreated deficiency states. ***CORRECT IT FOR ANAEMIA*** (corrected count = reticulocyte % × patient Hct ÷ normal Hct) — otherwise a normal absolute output looks falsely brisk.**
+- **RETICULOCYTE COUNT is the single best index of ERYTHROPOIETIC ACTIVITY: HIGH in haemolysis and acute blood loss (and after starting haematinics — the “reticulocyte response” at 5–7 days confirms the diagnosis), LOW in aplastic anaemia, marrow infiltration and untreated deficiency states. ***CORRECT IT FOR ANAEMIA*** (corrected count = reticulocyte % × patient Hct ÷ normal Hct) — otherwise a normal absolute output looks falsely brisk.**
 - **Normal values: reticulocytes 0.5–2.5% in adults (2–6% in newborns); absolute count 25,000–75,000/µL.**
-- **Other haemoglobin methods: SAHLI'S ACID HAEMATIN (visual, cheap, inaccurate — underestimates), the automated analyser (usually a modified cyanide-free azide-methaemoglobin method), and HAEMOGLOBIN COLOUR SCALE and portable haemoglobinometers for field screening.**
-- **Special stains worth carrying with this: PERLS' PRUSSIAN BLUE for iron (and RING SIDEROBLASTS), PERIODIC ACID–SCHIFF for glycogen (block positivity in ALL), SUDAN BLACK/MYELOPEROXIDASE for AML, CONGO RED with APPLE-GREEN BIREFRINGENCE for amyloid, ***RETICULIN for marrow fibrosis***, and OIL RED O for neutral fat.**
+- **Other haemoglobin methods: SAHLI’S ACID HAEMATIN (visual, cheap, inaccurate — underestimates), the automated analyser (usually a modified cyanide-free azide-methaemoglobin method), and HAEMOGLOBIN COLOUR SCALE and portable haemoglobinometers for field screening.**
+- **Special stains worth carrying with this: PERLS’ PRUSSIAN BLUE for iron (and RING SIDEROBLASTS), PERIODIC ACID–SCHIFF for glycogen (block positivity in ALL), SUDAN BLACK/MYELOPEROXIDASE for AML, CONGO RED with APPLE-GREEN BIREFRINGENCE for amyloid, ***RETICULIN for marrow fibrosis***, and OIL RED O for neutral fat.**
 - **Heinz bodies (denatured haemoglobin, G6PD deficiency) also need a supravital stain (crystal violet); HOWELL–JOLLY bodies (nuclear remnants, post-splenectomy) are seen on ordinary stains.**
 
 **EXAM CONNECTION:** Best method for haemoglobin → **cyanmethaemoglobin**; best reticulocyte stain → **new methylene blue**.
@@ -493,7 +493,7 @@
 **MUST KNOW:**
 
 - ***THE CRUCIAL DISTINCTION IS NEUROLOGICAL: B12 deficiency causes SUBACUTE COMBINED DEGENERATION (posterior column and corticospinal tract loss — paraesthesiae, loss of vibration and joint position sense, ataxia, spasticity with extensor plantars, and dementia) — FOLATE DEFICIENCY DOES NOT.*** ***GIVING FOLATE ALONE TO A B12-DEFICIENT PATIENT CORRECTS THE ANAEMIA WHILE THE NEUROLOGY PROGRESSES IRREVERSIBLY*** — so always check B12 before treating, and replace B12 first.
-- **Causes of B12 deficiency: PERNICIOUS ANAEMIA (autoimmune atrophic gastritis with anti-intrinsic-factor and anti-parietal-cell antibodies, achlorhydria and a risk of gastric carcinoma), gastrectomy, ileal disease or resection (Crohn's), *Diphyllobothrium latum*, blind loop syndrome, strict veganism and METFORMIN. Folate: poor intake, alcoholism, pregnancy and haemolysis (increased demand), coeliac disease, METHOTREXATE, phenytoin, trimethoprim and sulfasalazine.**
+- **Causes of B12 deficiency: PERNICIOUS ANAEMIA (autoimmune atrophic gastritis with anti-intrinsic-factor and anti-parietal-cell antibodies, achlorhydria and a risk of gastric carcinoma), gastrectomy, ileal disease or resection (Crohn’s), *Diphyllobothrium latum*, blind loop syndrome, strict veganism and METFORMIN. Folate: poor intake, alcoholism, pregnancy and haemolysis (increased demand), coeliac disease, METHOTREXATE, phenytoin, trimethoprim and sulfasalazine.**
 - **NON-megaloblastic macrocytosis (no hypersegmentation): alcohol itself, LIVER DISEASE, HYPOTHYROIDISM, RETICULOCYTOSIS (reticulocytes are large), myelodysplasia, aplastic anaemia and drugs (zidovudine, hydroxyurea).**
 - **Investigations: serum B12 and RED CELL folate (better than serum folate), then ***METHYLMALONIC ACID (raised in B12 deficiency only) and HOMOCYSTEINE (raised in both)*** for equivocal cases; marrow shows megaloblasts and GIANT METAMYELOCYTES.
 - **Watch for HYPOKALAEMIA during treatment as new cells take up potassium.**
@@ -514,14 +514,14 @@
 
 **MUST KNOW:**
 
-- **Diagnostic features:** *CRAB — hyperCALCAEMIA, RENAL impairment, ANAEMIA, BONE lesions*** — plus ≥10% clonal marrow plasma cells or a plasmacytoma. The "SLiM" biomarkers (≥60% plasma cells, involved:uninvolved free light-chain ratio ≥100, >1 focal MRI lesion) now also define myeloma requiring treatment.
+- **Diagnostic features:** *CRAB — hyperCALCAEMIA, RENAL impairment, ANAEMIA, BONE lesions*** — plus ≥10% clonal marrow plasma cells or a plasmacytoma. The “SLiM” biomarkers (≥60% plasma cells, involved:uninvolved free light-chain ratio ≥100, >1 focal MRI lesion) now also define myeloma requiring treatment.
 - **Investigations: serum protein electrophoresis with immunofixation, SERUM FREE LIGHT CHAINS, 24-hour urine for BENCE JONES protein, marrow, and ***WHOLE-BODY LOW-DOSE CT/PET-CT or MRI — the SKELETAL SURVEY IS OBSOLETE, and a BONE SCAN IS FALSELY NEGATIVE*** because the lesions are purely lytic with no osteoblastic reaction.
-- **Blood film shows ROULEAUX with a high ESR; renal failure comes from LIGHT-CHAIN CAST NEPHROPATHY ("myeloma kidney"), hypercalcaemia, amyloidosis and hyperuricaemia.**
+- **Blood film shows ROULEAUX with a high ESR; renal failure comes from LIGHT-CHAIN CAST NEPHROPATHY (“myeloma kidney”), hypercalcaemia, amyloidosis and hyperuricaemia.**
 - **Staging: the REVISED ISS combines beta-2 MICROGLOBULIN and ALBUMIN with LDH and high-risk cytogenetics.**
 - **Treatment: proteasome inhibitors (bortezomib), immunomodulators (lenalidomide), anti-CD38 antibodies (daratumumab) and dexamethasone, with autologous stem cell transplantation in fit patients; plus ***BISPHOSPHONATES/denosumab for skeletal events***, radiotherapy for painful lesions and cord compression, and hydration for the kidney.**
 - **Distinguish MGUS (M protein <3 g/dL, <10% plasma cells, NO CRAB — 1% per year progression) and SMOULDERING myeloma from symptomatic disease; and WALDENSTRÖM MACROGLOBULINAEMIA (IgM, hyperviscosity, lymphoplasmacytic marrow, MYD88 mutation, NO lytic lesions).**
 
-**EXAM CONNECTION:** "NOT associated with poor prognosis in myeloma" → **translocation involving cyclin D1, t(11;14)**.
+**EXAM CONNECTION:** “NOT associated with poor prognosis in myeloma” → **translocation involving cyclin D1, t(11;14)**.
 
 **REMEMBER:** *Everything crashes into the IgH enhancer — but only cyclin D1 is a survivable passenger.*
 
@@ -546,7 +546,7 @@
 | Nodes/spleen | **Lymphadenopathy, hepatosplenomegaly** | Usually absent |
 | Hallmark | **Hyperviscosity**, Dutcher bodies, MYD88 | **CRAB**, Rouleaux, Bence-Jones |
 
-- **Hyperviscosity syndrome** is the emergency: blurred vision with **"sausage-link" dilated retinal veins**, headache, confusion, mucosal bleeding → treat with **PLASMAPHERESIS** first (IgM is intravascular, so plasma exchange works extremely well), then chemo-immunotherapy (**rituximab-based**, BTK inhibitors such as ibrutinib).
+- **Hyperviscosity syndrome** is the emergency: blurred vision with **“sausage-link” dilated retinal veins**, headache, confusion, mucosal bleeding → treat with **PLASMAPHERESIS** first (IgM is intravascular, so plasma exchange works extremely well), then chemo-immunotherapy (**rituximab-based**, BTK inhibitors such as ibrutinib).
 - **Bence-Jones proteinuria** may be present but is usually modest.
 - **Dutcher bodies = INTRAnuclear** immunoglobulin inclusions; **Russell bodies = cytoplasmic**.
 - Avoid transfusing red cells before plasmapheresis in symptomatic hyperviscosity — it raises viscosity further.
@@ -594,16 +594,16 @@
 
 **MUST KNOW:**
 
-- Skull radiology: **solitary punched-out lytic lesion with NO sclerotic rim**, a **bevelled edge/"hole within a hole"** from unequal inner and outer table involvement, **button sequestrum**, and **geographic skull**.
+- Skull radiology: **solitary punched-out lytic lesion with NO sclerotic rim**, a **bevelled edge/“hole within a hole”** from unequal inner and outer table involvement, **button sequestrum**, and **geographic skull**.
 - Spine: **vertebra plana** — LCH is the commonest cause in children.
 - Clinical spectrum: **eosinophilic granuloma** (unifocal bone); **Hand–Schüller–Christian** (skull defects, diabetes insipidus, exophthalmos); **Letterer–Siwe** (disseminated, infantile, aggressive).
 - Driven by **BRAF V600E** mutations in ~50% — hence **vemurafenib** in refractory disease.
 - Differential for lytic skull lesions in an older adult: **multiple myeloma and metastases** — excluded here by **normal haematology and urine studies**.
-- Note the trap: **"tennis racket cells" on LIGHT microscopy** are the strap cells of **sarcoma botryoides (embryonal rhabdomyosarcoma)** — a different entity from Birbeck granules on electron microscopy.
+- Note the trap: **“tennis racket cells” on LIGHT microscopy** are the strap cells of **sarcoma botryoides (embryonal rhabdomyosarcoma)** — a different entity from Birbeck granules on electron microscopy.
 
 **EXAM CONNECTION:** Both the **EM image** (Birbeck granules) and the **skull X-ray** (bevelled-edge punched-out lesion) are asked.
 
-**ALSO KNOW:** **DIABETES INSIPIDUS + PROPTOSIS + LYTIC SKULL DEFECTS = the HAND–SCHÜLLER–CHRISTIAN triad of LANGERHANS CELL HISTIOCYTOSIS.** The cells have **abundant vacuolated cytoplasm and GROOVED, "COFFEE-BEAN" nuclei with surrounding EOSINOPHILS**; they express **CD1a, S-100 and langerin (CD207)**, and electron microscopy shows **BIRBECK GRANULES — pentalaminar, rod-shaped tubules with a dilated end, giving a "TENNIS-RACKET" appearance.** Once regarded as a reactive proliferation, LCH is now known to be a **CLONAL NEOPLASM DRIVEN BY MAP-KINASE PATHWAY MUTATIONS — BRAF V600E in about half** — which is why **BRAF and MEK inhibitors now work in refractory disease.** The clinical triad also has a mechanistic explanation: **infiltration of the PITUITARY STALK causes diabetes insipidus (the commonest endocrine manifestation), ORBITAL bone deposits push the eye forward, and osteolysis produces "GEOGRAPHIC" punched-out skull lesions.** **The clinical spectrum:** EOSINOPHILIC GRANULOMA **(unifocal bone lesion, older child/adult, excellent prognosis),** HAND–SCHÜLLER–CHRISTIAN **(multifocal unisystem), and** LETTERER–SIWE **(multifocal MULTISYSTEM disease of infants — seborrhoeic rash, hepatosplenomegaly, lymphadenopathy, cytopenias; aggressive and fatal untreated). Pulmonary LCH in adults is strongly linked to SMOKING.** Electron-microscopic inclusions worth pairing: **BIRBECK granules — LCH; ZEBRA/lamellated myeloid bodies — lysosomal storage diseases (Tay–Sachs, Niemann–Pick, metachromatic leukodystrophy, Fabry, mucopolysaccharidoses); FLOCCULENT MITOCHONDRIAL DENSITIES — irreversible cell injury; BETA-PLEATED SHEETS — amyloid; WEIBEL–PALADE bodies — endothelium; AUER RODS — AML.** **Bone lesions are painful, LYTIC and "punched-out", commonly in the skull, femur, ribs and vertebrae (VERTEBRA PLANA is characteristic); treatment ranges from curettage or intralesional steroid for single lesions to vinblastine and prednisolone for multisystem disease.** **Immunohistochemistry triad to recall:** CD1a + S-100 + langerin **— S-100 alone is not specific (melanoma, schwannoma and chondrocytes are also positive).** Diabetes insipidus in LCH is usually PERMANENT even after successful treatment of the disease.**
+**ALSO KNOW:** **DIABETES INSIPIDUS + PROPTOSIS + LYTIC SKULL DEFECTS = the HAND–SCHÜLLER–CHRISTIAN triad of LANGERHANS CELL HISTIOCYTOSIS.** The cells have **abundant vacuolated cytoplasm and GROOVED, “COFFEE-BEAN” nuclei with surrounding EOSINOPHILS**; they express **CD1a, S-100 and langerin (CD207)**, and electron microscopy shows **BIRBECK GRANULES — pentalaminar, rod-shaped tubules with a dilated end, giving a “TENNIS-RACKET” appearance.** Once regarded as a reactive proliferation, LCH is now known to be a **CLONAL NEOPLASM DRIVEN BY MAP-KINASE PATHWAY MUTATIONS — BRAF V600E in about half** — which is why **BRAF and MEK inhibitors now work in refractory disease.** The clinical triad also has a mechanistic explanation: **infiltration of the PITUITARY STALK causes diabetes insipidus (the commonest endocrine manifestation), ORBITAL bone deposits push the eye forward, and osteolysis produces “GEOGRAPHIC” punched-out skull lesions.** **The clinical spectrum:** EOSINOPHILIC GRANULOMA **(unifocal bone lesion, older child/adult, excellent prognosis),** HAND–SCHÜLLER–CHRISTIAN **(multifocal unisystem), and** LETTERER–SIWE **(multifocal MULTISYSTEM disease of infants — seborrhoeic rash, hepatosplenomegaly, lymphadenopathy, cytopenias; aggressive and fatal untreated). Pulmonary LCH in adults is strongly linked to SMOKING.** Electron-microscopic inclusions worth pairing: **BIRBECK granules — LCH; ZEBRA/lamellated myeloid bodies — lysosomal storage diseases (Tay–Sachs, Niemann–Pick, metachromatic leukodystrophy, Fabry, mucopolysaccharidoses); FLOCCULENT MITOCHONDRIAL DENSITIES — irreversible cell injury; BETA-PLEATED SHEETS — amyloid; WEIBEL–PALADE bodies — endothelium; AUER RODS — AML.** **Bone lesions are painful, LYTIC and “punched-out”, commonly in the skull, femur, ribs and vertebrae (VERTEBRA PLANA is characteristic); treatment ranges from curettage or intralesional steroid for single lesions to vinblastine and prednisolone for multisystem disease.** **Immunohistochemistry triad to recall:** CD1a + S-100 + langerin **— S-100 alone is not specific (melanoma, schwannoma and chondrocytes are also positive).** Diabetes insipidus in LCH is usually PERMANENT even after successful treatment of the disease.**
 
 **REMEMBER:** *Tennis rackets on electron microscopy, coffee beans on light microscopy.*
 
@@ -629,7 +629,7 @@
 
 - **CD55 (decay-accelerating factor)** and **CD59 (MAC-inhibitory protein)** normally protect red cells from complement; without them, **intravascular haemolysis** occurs, worst at night when mild acidosis activates complement.
 - Triad: **intravascular haemolysis (dark morning urine, haemoglobinuria, raised LDH, low haptoglobin), PANCYTOPENIA/marrow failure, and THROMBOSIS in unusual sites (hepatic — Budd-Chiari, cerebral, mesenteric)** — thrombosis is the leading cause of death.
-- **Diagnosis: FLOW CYTOMETRY for CD55/CD59 deficiency (or FLAER)** — the old **Ham's acid haemolysis and sucrose lysis tests** are obsolete.
+- **Diagnosis: FLOW CYTOMETRY for CD55/CD59 deficiency (or FLAER)** — the old **Ham’s acid haemolysis and sucrose lysis tests** are obsolete.
 - Drugs: **eculizumab and ravulizumab (anti-C5)**, **pegcetacoplan (anti-C3)**; all increase the risk of **Neisseria meningitidis** infection → **vaccinate before starting**.
 - **Overlaps with aplastic anaemia and myelodysplastic syndrome** — a PNH clone is found in many aplastic anaemia patients.
 
@@ -655,12 +655,12 @@
 - **CLL/SLL**: commonest adult leukaemia in the West; **CLL if absolute lymphocyte count > 5000/mm³, SLL if < 5000** with nodal disease. **CD5+CD23+CD19+**. Cytogenetics: **del(13q) commonest and good prognosis; del(17p)/TP53 worst**; **trisomy 12, del(11q)** intermediate. Complications: **autoimmune haemolytic anaemia, ITP, hypogammaglobulinaemia, Richter transformation**.
 - **Mantle cell lymphoma**: **CD5+ but CD23-NEGATIVE** (distinguishing it from CLL), **cyclin D1 and SOX11 positive**; naive B cell origin with no somatic hypermutation; **lymphomatoid polyposis** of gut; aggressive.
 - **AML FAB: M2 (with maturation) is the COMMONEST**, t(8;21), chloromas, good prognosis; **M3 promyelocytic**, t(15;17), Auer rods, DIC, ATRA-responsive; **M4/M5** gingival hyperplasia; **M7 megakaryocytic — the least common**, CD41/61, marrow fibrosis, associated with **Down syndrome (where prognosis is good)**.
-- **Aschoff body** — pathognomonic of **rheumatic fever**: T lymphocytes, plasma cells and **Anitschkow "caterpillar" cells** (wavy ribbon chromatin) around fibrinoid necrosis. Rheumatic heart disease is the leading cause of **mitral stenosis**; valve vegetations are small **verrucae along the lines of closure**.
+- **Aschoff body** — pathognomonic of **rheumatic fever**: T lymphocytes, plasma cells and **Anitschkow “caterpillar” cells** (wavy ribbon chromatin) around fibrinoid necrosis. Rheumatic heart disease is the leading cause of **mitral stenosis**; valve vegetations are small **verrucae along the lines of closure**.
 - **Krabbe disease (globoid cell leukodystrophy)** — **galactocerebrosidase deficiency**; the **globoid cells are MACROPHAGES** engorged with galactocerebroside; onset 3–6 months with stiffness, weakness and death by 2 years.
 
 **EXAM CONNECTION:** Smear images are common. **Smudge cells → CLL**; **Auer rods → AML M3**; **globoid cells → Krabbe**.
 
-**ALSO KNOW:** **The classifications have moved on: haematolymphoid neoplasms are now classified by the WHO 5th EDITION (2022), running alongside the competing INTERNATIONAL CONSENSUS CLASSIFICATION (ICC, 2022).** Practical changes to know: **the AML blast threshold is REMOVED for cases with defining genetic abnormalities (except BCR::ABL1 and CEBPA), so a genetic diagnosis no longer requires 20% blasts; "myelodysplastic syndrome" is renamed MYELODYSPLASTIC NEOPLASM (still abbreviated MDS), with genetically defined subtypes MDS-SF3B1 and MDS-biallelic TP53; and lymphoid entities are grouped by cell of origin, with "plasma cell myeloma" renamed PLASMA CELL MYELOMA/MULTIPLE MYELOMA.**[^1]
+**ALSO KNOW:** **The classifications have moved on: haematolymphoid neoplasms are now classified by the WHO 5th EDITION (2022), running alongside the competing INTERNATIONAL CONSENSUS CLASSIFICATION (ICC, 2022).** Practical changes to know: **the AML blast threshold is REMOVED for cases with defining genetic abnormalities (except BCR::ABL1 and CEBPA), so a genetic diagnosis no longer requires 20% blasts; “myelodysplastic syndrome” is renamed MYELODYSPLASTIC NEOPLASM (still abbreviated MDS), with genetically defined subtypes MDS-SF3B1 and MDS-biallelic TP53; and lymphoid entities are grouped by cell of origin, with “plasma cell myeloma” renamed PLASMA CELL MYELOMA/MULTIPLE MYELOMA.**[^1]
 
 **REMEMBER:** *Fragile cells smudge; cyclin D1 marks the mantle.*
 
@@ -702,7 +702,7 @@
 - **BCR-ABL fusion protein size predicts the disease: p210 (M-BCR) → CML; p190 (m-BCR) → Ph-positive ALL, with stronger tyrosine kinase activity and worse prognosis; p230 (μ-BCR) → chronic neutrophilic leukaemia/MPN.**
 - **Auer rods** are **needle-shaped azurophilic inclusions formed from FUSED LYSOSOMES** containing myeloperoxidase; bundles of them = **faggot cells** of **acute promyelocytic leukaemia (M3, t(15;17))**.
 
-**EXAM CONNECTION:** "What does the marked structure contain?" → **immunoglobulin** for Russell/Dutcher bodies, **lysosomal enzymes** for Auer rods.
+**EXAM CONNECTION:** “What does the marked structure contain?” → **immunoglobulin** for Russell/Dutcher bodies, **lysosomal enzymes** for Auer rods.
 
 **REMEMBER:** *A plasma cell that cannot export its antibody stores it.*
 
@@ -726,10 +726,10 @@
 
 **MUST KNOW:**
 
-- **Sézary cells** have **markedly infolded, "cerebriform" nuclei**; diagnosis requires erythroderma plus **an absolute Sézary cell count ≥ 1000/µL** or a demonstrable clone.
+- **Sézary cells** have **markedly infolded, “cerebriform” nuclei**; diagnosis requires erythroderma plus **an absolute Sézary cell count ≥ 1000/µL** or a demonstrable clone.
 - Mycosis fungoides histology: **epidermotropism with PAUTRIER MICROABSCESSES**; markers **CD4+, CD3+ with loss of CD7**.
 - Treatment: **skin-directed (topical steroids, mechlorethamine, PUVA, total skin electron beam)** for early disease; **extracorporeal photopheresis, interferon-α, bexarotene, brentuximab, mogamulizumab** for advanced/Sézary.
-- Compare **adult T-cell leukaemia/lymphoma (HTLV-1)** — "**flower cells**", hypercalcaemia, lytic bone lesions, endemic in Japan and the Caribbean.
+- Compare **adult T-cell leukaemia/lymphoma (HTLV-1)** — “**flower cells**”, hypercalcaemia, lytic bone lesions, endemic in Japan and the Caribbean.
 - **Hairy cell leukaemia** — **massive splenomegaly without lymphadenopathy**, pancytopenia with **monocytopenia**, **dry tap**, fine circumferential cytoplasmic projections; markers **CD11c, CD25, CD103, CD123, TRAP**, with **ANNEXIN A1 the most specific**; **BRAF V600E**; treat with **cladribine**.
 
 **EXAM CONNECTION:** The word **erythroderma with cells in the smear** selects Sézary. If the cells are only in skin, it is mycosis fungoides.
@@ -805,7 +805,7 @@
 
 **MUST KNOW:**
 
-- **Mnemonic pairing: "Glanzmann Gets 2b3a Glued together (aggregation); BernarD-Soulier Doesn't aDhere (Gp1b)". Flow cytometry shows ***ABSENT CD41/CD61 in Glanzmann and absent CD42 in Bernard–Soulier.***
+- **Mnemonic pairing: “Glanzmann Gets 2b3a Glued together (aggregation); BernarD-Soulier Doesn’t aDhere (Gp1b)”. Flow cytometry shows ***ABSENT CD41/CD61 in Glanzmann and absent CD42 in Bernard–Soulier.***
 - **von WILLEBRAND DISEASE — the commonest inherited bleeding disorder, autosomal dominant — has a normal platelet count, PROLONGED bleeding time, ***PROLONGED aPTT (because vWF carries factor VIII)*** and abnormal ristocetin cofactor activity; treated with DESMOPRESSIN, tranexamic acid or vWF-containing concentrate.**
 - **Compare the coagulation profile: HAEMOPHILIA — normal platelets, NORMAL bleeding time, normal PT, PROLONGED aPTT. PLATELET DISORDERS — prolonged bleeding time with normal PT and aPTT. DIC — everything abnormal with raised D-dimer and low fibrinogen. LIVER DISEASE — PT prolonged first (factor VII, shortest half-life). WARFARIN — PT/INR; HEPARIN — aPTT.**
 - ***ACQUIRED GLANZMANN-LIKE DEFECTS*** occur with antiplatelet drugs (abciximab, clopidogrel, aspirin), uraemia, myeloproliferative and myelodysplastic disease, paraproteinaemia and cardiopulmonary bypass — far commoner than the inherited disease.
@@ -831,7 +831,7 @@
 - **Fresh frozen plasma and cryoprecipitate: stored at −30 °C** (shelf life 1 year), thawed at 30–37 °C and used immediately.
 - Storage lesion of red cells: **falling 2,3-DPG and ATP, rising potassium and lactate, falling pH, loss of shape** — hence hyperkalaemia and left-shifted oxygen dissociation after massive transfusion.
 - **Bone marrow biopsy**: thrombocytopenia is **not itself a contraindication** (a count > 20,000 is preferred); true contraindications are **severe haemophilia, severe DIC and severe bleeding disorders**. Done **prone or lateral** at the **posterior superior iliac spine**.
-- Needles: **Klima** (guard screws along the length, no side screw) and **Salah's** (guard 2 cm from tip, has a side screw) are reusable aspiration needles; **Jamshidi** (tapered tip to reduce crush artefact) and **Islam** (core-securing device) have T-bar handles for biopsy.
+- Needles: **Klima** (guard screws along the length, no side screw) and **Salah’s** (guard 2 cm from tip, has a side screw) are reusable aspiration needles; **Jamshidi** (tapered tip to reduce crush artefact) and **Islam** (core-securing device) have T-bar handles for biopsy.
 - **Frozen section is required to demonstrate FAT** — routine paraffin processing dissolves lipid; stain with **Oil Red O or Sudan**.
 
 **EXAM CONNECTION:** Temperature-and-duration matching. The most-asked single fact is **platelets: 20–24 °C, 5 days, with agitation**.
@@ -906,20 +906,20 @@
 
 ### 35. Rheumatic Heart Disease
 
-**PEARL:** **Small, warty, sterile vegetations along the LINES OF CLOSURE of the mitral leaflets, with left atrial enlargement and later leaflet thickening, calcification, commissural fusion and a "FISH-MOUTH"/buttonhole orifice = RHEUMATIC HEART DISEASE.** The histological hallmark of the acute phase is the **ASCHOFF BODY with ANITSCHKOW ("caterpillar") cells.**
+**PEARL:** **Small, warty, sterile vegetations along the LINES OF CLOSURE of the mitral leaflets, with left atrial enlargement and later leaflet thickening, calcification, commissural fusion and a “FISH-MOUTH”/buttonhole orifice = RHEUMATIC HEART DISEASE.** The histological hallmark of the acute phase is the **ASCHOFF BODY with ANITSCHKOW (“caterpillar”) cells.**
 
 **UNDERSTAND:** Rheumatic carditis is **MOLECULAR MIMICRY**: antibodies and T cells raised against **streptococcal M protein cross-react with cardiac myosin and valve glycoproteins**. The vegetations form **along the lines of closure** because that is where the leaflets are subjected to the greatest mechanical stress and endothelial injury, exposing antigen. The **MITRAL valve is affected most (then aortic)** because it bears the highest closing pressure. Chronic recurrent inflammation then produces **fibrosis, commissural fusion and chordal shortening → stenosis**.
 
 **MUST KNOW:**
 
-- **The valve vegetations of the four "endocarditides":** **RHEUMATIC — small, warty, sterile, ALONG THE LINES OF CLOSURE, on BOTH surfaces; INFECTIVE — large, bulky, FRIABLE, destructive, containing organisms, usually on the ATRIAL surface of the mitral or ventricular surface of the aortic valve; NON-BACTERIAL THROMBOTIC (marantic) — small, bland, sterile, in malignancy (mucinous adenocarcinoma) and debilitated states, embolise readily; LIBMAN–SACKS (SLE/antiphospholipid) — small, sterile, on BOTH SIDES of the leaflet and the adjacent endocardium.**
-- **Acute rheumatic fever — modified JONES criteria: MAJOR — Joint (migratory polyarthritis), ♥ (carditis), Nodules (subcutaneous), Erythema marginatum, Sydenham's chorea; MINOR — fever, arthralgia, raised ESR/CRP, prolonged PR interval; PLUS evidence of preceding streptococcal infection (ASO titre, anti-DNase B, throat culture).** Two major, or one major and two minor, are required.
+- **The valve vegetations of the four “endocarditides”:** **RHEUMATIC — small, warty, sterile, ALONG THE LINES OF CLOSURE, on BOTH surfaces; INFECTIVE — large, bulky, FRIABLE, destructive, containing organisms, usually on the ATRIAL surface of the mitral or ventricular surface of the aortic valve; NON-BACTERIAL THROMBOTIC (marantic) — small, bland, sterile, in malignancy (mucinous adenocarcinoma) and debilitated states, embolise readily; LIBMAN–SACKS (SLE/antiphospholipid) — small, sterile, on BOTH SIDES of the leaflet and the adjacent endocardium.**
+- **Acute rheumatic fever — modified JONES criteria: MAJOR — Joint (migratory polyarthritis), ♥ (carditis), Nodules (subcutaneous), Erythema marginatum, Sydenham’s chorea; MINOR — fever, arthralgia, raised ESR/CRP, prolonged PR interval; PLUS evidence of preceding streptococcal infection (ASO titre, anti-DNase B, throat culture).** Two major, or one major and two minor, are required.
 - **It follows STREPTOCOCCAL PHARYNGITIS ONLY (never skin infection)** — unlike post-streptococcal glomerulonephritis, which follows either.
-- **Carditis is the only manifestation that leaves permanent damage** — "rheumatic fever licks the joints but bites the heart".
+- **Carditis is the only manifestation that leaves permanent damage** — “rheumatic fever licks the joints but bites the heart”.
 - **SECONDARY PROPHYLAXIS with benzathine penicillin every 3 weeks** — for 5 years or until age 21 (no carditis), 10 years or until 25 (carditis without residual disease), and **LIFELONG if there is residual valve disease.**
 - **Mitral stenosis features: loud S1, opening snap, mid-diastolic rumble with presystolic accentuation, malar flush, atrial fibrillation, left atrial thrombus and systemic embolism, pulmonary hypertension.** Treat with **balloon mitral valvuloplasty** if the valve is pliable and there is no significant regurgitation or clot.
 
-**EXAM CONNECTION:** The **location** of the vegetations distinguishes the four types — "along the lines of closure" plus stenosis and calcification is rheumatic.
+**EXAM CONNECTION:** The **location** of the vegetations distinguishes the four types — “along the lines of closure” plus stenosis and calcification is rheumatic.
 
 **REMEMBER:** *Sterile warts on the closure line, a fish-mouth valve, and Aschoff bodies in the myocardium.*
 
@@ -940,14 +940,14 @@
 
 **MUST KNOW:**
 
-- Presentation: **positional dyspnoea and syncope, a "tumour plop", systemic emboli, fever, weight loss and raised ESR** (IL-6). Easily mistaken for endocarditis or vasculitis.
-- Histology: **stellate/globular "lepidic" myxoma cells in an abundant amorphous myxoid matrix** with abnormal vessel-like structures.
+- Presentation: **positional dyspnoea and syncope, a “tumour plop”, systemic emboli, fever, weight loss and raised ESR** (IL-6). Easily mistaken for endocarditis or vasculitis.
+- Histology: **stellate/globular “lepidic” myxoma cells in an abundant amorphous myxoid matrix** with abnormal vessel-like structures.
 - **Familial myxomas: null mutations of PRKAR1A → CARNEY COMPLEX** (autosomal dominant). Components: **skin pigmented lesions (lentigines, blue naevi) — the commonest manifestation**, **myxomas (cardiac in 30–40%, cutaneous, mucosal, breast)**, and **endocrine tumours — primary pigmented nodular adrenocortical disease causing ACTH-INDEPENDENT Cushing syndrome**, plus **psammomatous melanotic schwannoma** and acromegaly.
 - **NAME** (naevi, atrial myxoma, myxoid neurofibroma, ephelides) and **LAMB** (lentigines, atrial myxoma, blue naevi) are subsets of Carney complex.
 - Contrast **GNAS1 activating mutation → McCune–Albright syndrome**.
 - **Cardiac rhabdomyoma** in a child = **tuberous sclerosis** until proven otherwise; it often regresses spontaneously.
 
-**EXAM CONNECTION:** Two questions from one topic: the "most common" list, and **PRKAR1A → cardiac myxoma/Carney complex**.
+**EXAM CONNECTION:** Two questions from one topic: the “most common” list, and **PRKAR1A → cardiac myxoma/Carney complex**.
 
 **REMEMBER:** *A pedunculated left atrial mass that embolises and causes fever.*
 
@@ -962,7 +962,7 @@
 
 **PEARL:** **Young male smoker + claudication + digital gangrene + segmental thrombosing inflammation with NEUTROPHILIC MICROABSCESSES in the thrombus, extending into contiguous VEINS AND NERVES = Buerger disease.**
 
-**UNDERSTAND:** Two histological features are unique. First, the inflammation is **inside the thrombus itself** (microabscesses) — hence "thromb-angiitis". Second, the process **spills over into the adjacent vein and nerve within the same neurovascular bundle**, which no other vasculitis does. That neurovascular involvement explains the severe rest pain and the **superficial migratory thrombophlebitis**.
+**UNDERSTAND:** Two histological features are unique. First, the inflammation is **inside the thrombus itself** (microabscesses) — hence “thromb-angiitis”. Second, the process **spills over into the adjacent vein and nerve within the same neurovascular bundle**, which no other vasculitis does. That neurovascular involvement explains the severe rest pain and the **superficial migratory thrombophlebitis**.
 
 **MUST KNOW:**
 
@@ -972,7 +972,7 @@
 - **Mechanisms of vasculitis** are worth mapping: **immune complex deposition → SLE, drug-induced, polyarteritis nodosa with HBV**; **ANCA → granulomatosis with polyangiitis, eosinophilic granulomatosis with polyangiitis, microscopic polyangiitis**; **anti-endothelial cell antibodies → KAWASAKI disease**; **autoreactive T cells → giant cell arteritis**; plus **direct infection and physical/chemical injury**.
 - **Behçet disease**: **recurrent oral AND genital aphthous ulcers + uveitis**, HLA-**B51**, positive **pathergy test**, erythema nodosum; **dural sinus thrombosis is the commonest CNS manifestation in children** and **pulmonary artery aneurysms are the most lethal feature**. **Nailfold capillary abnormalities belong to systemic sclerosis, NOT Behçet.**
 
-**EXAM CONNECTION:** The histological phrase "**extends into contiguous veins and nerves**" is unique to Buerger disease.
+**EXAM CONNECTION:** The histological phrase “**extends into contiguous veins and nerves**” is unique to Buerger disease.
 
 **REMEMBER:** *Inflammation inside the clot, spreading to the vein and nerve beside it.*
 
@@ -1045,7 +1045,7 @@
 - Predisposing: **hypertension (commonest), Marfan and Ehlers–Danlos (cystic medial degeneration), bicuspid aortic valve, coarctation, Turner syndrome, pregnancy, cocaine, iatrogenic**.
 - Imaging: **CT angiography (stable), TOE (unstable)**; the finding is the **intimal flap separating true and false lumens**.
 
-**EXAM CONNECTION:** "Which is INCORRECT" → calling the double-barrelled variant **severe**. Its two intimal tears, false channel and tendency to chronicity are all true.
+**EXAM CONNECTION:** “Which is INCORRECT” → calling the double-barrelled variant **severe**. Its two intimal tears, false channel and tendency to chronicity are all true.
 
 **REMEMBER:** *A second tear lets the blood out, so the false lumen stops growing.*
 
@@ -1072,9 +1072,9 @@
 
 - **ALPHA-1-ANTITRYPSIN DEFICIENCY (SERPINA1, the PiZZ genotype) causes panacinar emphysema in young non-smokers PLUS ***NEONATAL CHOLESTASIS AND ADULT CIRRHOSIS***, from PAS-POSITIVE, DIASTASE-RESISTANT globules of misfolded protein accumulating in hepatocytes. ***THE LUNG DISEASE IS A LOSS OF FUNCTION; THE LIVER DISEASE IS A TOXIC GAIN OF FUNCTION*** — which is why replacement therapy helps the lung but not the liver.
 - **Pathophysiology of emphysema: loss of elastic recoil and of alveolar attachments tethering small airways open → dynamic airway collapse on expiration → air trapping, hyperinflation, a flattened diaphragm, and an increased residual volume with a ***REDUCED DLCO*** (the feature that separates emphysema from chronic bronchitis and asthma).
-- **Clinical contrast: "PINK PUFFER" (emphysema — dyspnoea, weight loss, pursed-lip breathing, hyperinflation, late hypoxia) versus "BLUE BLOATER" (chronic bronchitis — productive cough for 3 months in 2 consecutive years, hypoxia, cyanosis, cor pulmonale).**
+- **Clinical contrast: “PINK PUFFER” (emphysema — dyspnoea, weight loss, pursed-lip breathing, hyperinflation, late hypoxia) versus “BLUE BLOATER” (chronic bronchitis — productive cough for 3 months in 2 consecutive years, hypoxia, cyanosis, cor pulmonale).**
 - **Complications: bullae and pneumothorax, cor pulmonale, respiratory failure and secondary polycythaemia. Management is smoking cessation (the only measure that alters decline), bronchodilators, pulmonary rehabilitation, vaccination, LONG-TERM OXYGEN (which improves survival in chronic hypoxaemia) and, in selected patients, lung volume reduction or transplantation.**
-- **Compensatory "emphysema" (after lobectomy) and senile hyperinflation are not true emphysema — there is no alveolar wall destruction.**
+- **Compensatory “emphysema” (after lobectomy) and senile hyperinflation are not true emphysema — there is no alveolar wall destruction.**
 
 **EXAM CONNECTION:** Gross specimen of upper-lobe, central acinar destruction → **centriacinar emphysema**.
 
@@ -1091,9 +1091,9 @@
 
 ---
 
-### 42. Mendelson's Syndrome
+### 42. Mendelson’s Syndrome
 
-**PEARL:** **Sudden tachypnoea, cyanosis and massive pulmonary oedema shortly after general anaesthesia in a pregnant woman = Mendelson's syndrome** — chemical pneumonitis from aspiration of **sterile acidic gastric contents**.
+**PEARL:** **Sudden tachypnoea, cyanosis and massive pulmonary oedema shortly after general anaesthesia in a pregnant woman = Mendelson’s syndrome** — chemical pneumonitis from aspiration of **sterile acidic gastric contents**.
 
 **UNDERSTAND:** The damage is **chemical, not infective** — acid causes immediate **destruction of alveolar epithelium and surfactant loss**, followed by a massive **neutrophilic exudate** and non-cardiogenic pulmonary oedema. Because the aspirate is sterile, antibiotics do not help initially; the histology shows **neutrophils without organisms**.
 
@@ -1103,7 +1103,7 @@
 - Prophylaxis: **non-particulate antacid (sodium citrate) 30–45 minutes before induction**, **H₂ blocker (ranitidine) or PPI**, **metoclopramide 1–2 hours before**, plus **rapid sequence induction with cricoid pressure**.
 - **Aspiration and failed intubation are the leading anaesthetic causes of maternal death.**
 - Management: **suction, oxygen, ventilatory support**; **steroids are not beneficial**; antibiotics only if secondary infection develops.
-- Compare the histological look-alikes: **cryptogenic organising pneumonia — Masson bodies (plugs of loose connective tissue)**; **CMV pneumonia — owl's eye inclusions**; **Pneumocystis — foamy alveolar exudate with cysts on silver stain**.
+- Compare the histological look-alikes: **cryptogenic organising pneumonia — Masson bodies (plugs of loose connective tissue)**; **CMV pneumonia — owl’s eye inclusions**; **Pneumocystis — foamy alveolar exudate with cysts on silver stain**.
 
 **EXAM CONNECTION:** The setting (**caesarean under GA**) plus the timing (**within hours**) plus **neutrophilic infiltrate** identifies it.
 
@@ -1130,7 +1130,7 @@
 - **Miliary tuberculosis** — countless **2 mm yellow-white foci** through the lung from haematogenous dissemination via lymphatics into the venous blood; can seed any organ.
 - **Nutmeg liver** — mottled red-brown centrilobular congestion with pale periportal zones — indicates **chronic passive congestion from RIGHT heart failure**, progressing to **cardiac cirrhosis**; accompanied by **congestive splenomegaly**.
 
-**EXAM CONNECTION:** The stem's two clues are **age/smoking status** and **zonal distribution**. A young non-smoker with basal disease is always α1-antitrypsin.
+**EXAM CONNECTION:** The stem’s two clues are **age/smoking status** and **zonal distribution**. A young non-smoker with basal disease is always α1-antitrypsin.
 
 **REMEMBER:** *Smoke damages the top; blood-borne enzyme deficiency damages the bottom.*
 
@@ -1152,7 +1152,7 @@
 
 ### 44. Membranoproliferative Glomerulonephritis
 
-**PEARL:** **MPGN (mesangiocapillary GN) presents with a MIXED NEPHRITIC–NEPHROTIC picture and LOW COMPLEMENT, and is secondary to a wide range of chronic antigenaemias — HEPATITIS B and C, HIV, SLE, ENDOCARDITIS, infected shunts, chronic abscesses, schistosomiasis, alpha-1-antitrypsin deficiency, and MALIGNANCY such as CLL.** Light microscopy shows **LOBULAR, hypercellular glomeruli with mesangial interposition producing "TRAM-TRACK" (double-contour) BASEMENT MEMBRANES on silver stain.**
+**PEARL:** **MPGN (mesangiocapillary GN) presents with a MIXED NEPHRITIC–NEPHROTIC picture and LOW COMPLEMENT, and is secondary to a wide range of chronic antigenaemias — HEPATITIS B and C, HIV, SLE, ENDOCARDITIS, infected shunts, chronic abscesses, schistosomiasis, alpha-1-antitrypsin deficiency, and MALIGNANCY such as CLL.** Light microscopy shows **LOBULAR, hypercellular glomeruli with mesangial interposition producing “TRAM-TRACK” (double-contour) BASEMENT MEMBRANES on silver stain.**
 
 **UNDERSTAND:** The pattern is not a disease but a **RESPONSE TO PERSISTENT IMMUNE-COMPLEX DEPOSITION OR PERSISTENT COMPLEMENT ACTIVATION.** Chronic antigen (a virus, a tumour clone, an infected valve) supplies an unending stream of complexes to the subendothelial space; the mesangium responds by **proliferating and interposing itself between endothelium and basement membrane**, laying down a second layer of matrix — hence the double contour. This is why **the clinically important step is HUNTING THE UNDERLYING CAUSE**, not just naming the histology.
 
@@ -1164,7 +1164,7 @@
 - **Treatment is of the cause (antivirals for hepatitis C, antibiotics for endocarditis, chemotherapy for the clone); idiopathic disease with nephrotic proteinuria is treated with steroids/immunosuppression, and eculizumab has a role in C3 glomerulopathy.**
 - **HEPATITIS C classically causes MPGN WITH CRYOGLOBULINAEMIA (palpable purpura, arthralgia, neuropathy, low C4).**
 
-**EXAM CONNECTION:** "MPGN is seen in" → **all of HIV, SLE, CLL and hepatitis B**.
+**EXAM CONNECTION:** “MPGN is seen in” → **all of HIV, SLE, CLL and hepatitis B**.
 
 **REMEMBER:** *A double-contoured capillary means something has been dripping antigen for months — go and find it.*
 
@@ -1178,17 +1178,17 @@
 
 ### 45. Post-Streptococcal Glomerulonephritis and RPGN
 
-**PEARL:** **COLA-COLOURED URINE, PERIORBITAL PUFFINESS and HYPERTENSION 1–2 WEEKS after a streptococcal SORE THROAT (or 3–6 weeks after PYODERMA) = POST-STREPTOCOCCAL GLOMERULONEPHRITIS.** Electron microscopy shows ***SUBEPITHELIAL ELECTRON-DENSE "HUMPS"***; immunofluorescence shows a **granular "STARRY SKY" pattern of IgG and C3**; light microscopy shows **diffuse endocapillary proliferation.** If renal function DETERIORATES over weeks, it has progressed to **RAPIDLY PROGRESSIVE GLOMERULONEPHRITIS, whose hallmark on LIGHT microscopy is CRESCENT FORMATION.**
+**PEARL:** **COLA-COLOURED URINE, PERIORBITAL PUFFINESS and HYPERTENSION 1–2 WEEKS after a streptococcal SORE THROAT (or 3–6 weeks after PYODERMA) = POST-STREPTOCOCCAL GLOMERULONEPHRITIS.** Electron microscopy shows ***SUBEPITHELIAL ELECTRON-DENSE “HUMPS”***; immunofluorescence shows a **granular “STARRY SKY” pattern of IgG and C3**; light microscopy shows **diffuse endocapillary proliferation.** If renal function DETERIORATES over weeks, it has progressed to **RAPIDLY PROGRESSIVE GLOMERULONEPHRITIS, whose hallmark on LIGHT microscopy is CRESCENT FORMATION.**
 
 **UNDERSTAND:** The question tests whether the reader distinguishes **the underlying disease from its complication, and the technique being asked about.** The **subepithelial hump is the fingerprint of PSGN on ELECTRON microscopy**; the **crescent is the fingerprint of RPGN on LIGHT microscopy.** Both are present in this patient, and the correct answer depends entirely on which modality the stem specifies — a favourite trap.
 
 **MUST KNOW:**
 
-- **A crescent is a proliferation of PARIETAL EPITHELIAL CELLS with macrophages and FIBRIN in Bowman's space, following a break in the capillary wall — fibrin leaking into the space is the trigger, which is why crescents mean severe, potentially irreversible injury.**
+- **A crescent is a proliferation of PARIETAL EPITHELIAL CELLS with macrophages and FIBRIN in Bowman’s space, following a break in the capillary wall — fibrin leaking into the space is the trigger, which is why crescents mean severe, potentially irreversible injury.**
 - **RPGN classification:** *TYPE I — ANTI-GBM (LINEAR IgG; Goodpasture when the lung is involved). TYPE II — IMMUNE COMPLEX (GRANULAR; PSGN, lupus, IgA/HSP, MPGN, endocarditis). TYPE III — PAUCI-IMMUNE (little/no staining; ANCA-associated — granulomatosis with polyangiitis (c-ANCA/PR3), microscopic polyangiitis and eosinophilic granulomatosis with polyangiitis (p-ANCA/MPO)).***
 - **PSGN serology: raised ***ASO titre after PHARYNGITIS and ANTI-DNase B after SKIN infection***, with a ***TRANSIENTLY LOW C3 that must NORMALISE BY 6–8 WEEKS*** — persistent hypocomplementaemia means MPGN or lupus, not PSGN.
 - **PSGN in CHILDREN has an excellent prognosis with supportive care (salt and fluid restriction, diuretics, antihypertensives); adults do less well. ***TREATING THE STREPTOCOCCAL INFECTION DOES NOT PREVENT NEPHRITIS*** (unlike rheumatic fever).
-- **Deposit location predicts the syndrome:** *SUBEPITHELIAL — PSGN (humps) and membranous nephropathy (spikes); SUBENDOTHELIAL — MPGN and lupus class IV ("wire loops"); MESANGIAL — IgA nephropathy and HSP; PODOCYTE EFFACEMENT with no deposits — minimal change disease.*** Broadly, ***SUBEPITHELIAL AND PODOCYTE lesions cause PROTEINURIA (nephrotic), SUBENDOTHELIAL AND MESANGIAL lesions cause HAEMATURIA (nephritic)*** — because the deposits sit on the blood side and attract inflammatory cells.
+- **Deposit location predicts the syndrome:** *SUBEPITHELIAL — PSGN (humps) and membranous nephropathy (spikes); SUBENDOTHELIAL — MPGN and lupus class IV (“wire loops”); MESANGIAL — IgA nephropathy and HSP; PODOCYTE EFFACEMENT with no deposits — minimal change disease.*** Broadly, ***SUBEPITHELIAL AND PODOCYTE lesions cause PROTEINURIA (nephrotic), SUBENDOTHELIAL AND MESANGIAL lesions cause HAEMATURIA (nephritic)*** — because the deposits sit on the blood side and attract inflammatory cells.
 
 **EXAM CONNECTION:** Electron microscopy in PSGN → **subepithelial deposits** (light microscopy after progression → crescents).
 
@@ -1203,15 +1203,15 @@
 
 ### 46. Glomerular Deposits on Electron Microscopy
 
-**PEARL:** **SUBEPITHELIAL deposits = MEMBRANOUS nephropathy.** **SUBENDOTHELIAL = MPGN type I and lupus class IV.** **Intramembranous dense deposits = MPGN type II (dense deposit disease).** **LINEAR (no deposits) = anti-GBM/Goodpasture.** **Subepithelial "humps" = post-streptococcal GN.**
+**PEARL:** **SUBEPITHELIAL deposits = MEMBRANOUS nephropathy.** **SUBENDOTHELIAL = MPGN type I and lupus class IV.** **Intramembranous dense deposits = MPGN type II (dense deposit disease).** **LINEAR (no deposits) = anti-GBM/Goodpasture.** **Subepithelial “humps” = post-streptococcal GN.**
 
 **UNDERSTAND:** The **location of the deposit predicts the clinical syndrome**. Deposits on the **epithelial (urinary) side** are separated from the circulation by the basement membrane, so they cannot recruit leucocytes — the result is **proteinuria without inflammation, i.e. NEPHROTIC**. Deposits on the **endothelial (blood) side** are directly exposed to complement and neutrophils — producing **inflammation, haematuria and a NEPHRITIC** picture.
 
 **MUST KNOW:**
 
-- **Membranous nephropathy**: commonest cause of adult primary nephrotic syndrome; **anti-PLA2R antibodies** in ~70%; **"spike and dome"** on silver stain; secondary causes — **SLE, hepatitis B, malignancy, gold, penicillamine, NSAIDs**.
+- **Membranous nephropathy**: commonest cause of adult primary nephrotic syndrome; **anti-PLA2R antibodies** in ~70%; **“spike and dome”** on silver stain; secondary causes — **SLE, hepatitis B, malignancy, gold, penicillamine, NSAIDs**.
 - **Minimal change disease**: normal light microscopy, **diffuse podocyte foot process effacement** on EM, **no immune deposits**; commonest nephrotic syndrome in children; **steroid-responsive**.
-- **Alport syndrome** vs **thin basement membrane disease (benign familial haematuria)**: Alport — usually **X-linked, α5 chain of type IV collagen**, with **sensorineural deafness and lens abnormalities**, progresses to ESRD; EM shows **irregular thickening and thinning with lamina densa splitting — "basket-weave"**. **Thin basement membrane disease — autosomal, α3/α4 chains, DIFFUSE THINNING only, no deafness, no progression, good prognosis.**
+- **Alport syndrome** vs **thin basement membrane disease (benign familial haematuria)**: Alport — usually **X-linked, α5 chain of type IV collagen**, with **sensorineural deafness and lens abnormalities**, progresses to ESRD; EM shows **irregular thickening and thinning with lamina densa splitting — “basket-weave”**. **Thin basement membrane disease — autosomal, α3/α4 chains, DIFFUSE THINNING only, no deafness, no progression, good prognosis.**
 - **WHITE BLOOD CELL (pus) CASTS are specific for pyelonephritis** — casts can only form in **tubules**, so they prove renal (upper tract) involvement. **Fever, pyuria and bacteriuria occur in both upper and lower UTI** and cannot localise. **Sterile pyuria → renal tuberculosis** (also chlamydia, analgesic nephropathy, partially treated UTI).
 - **Renal papillary necrosis: diabetes, analgesic abuse, sickle cell disease OR TRAIT, obstruction, tuberculosis** — **not thalassaemia**.
 
@@ -1234,7 +1234,7 @@
 
 **PEARL:** **WBC casts are specific for PYELONEPHRITIS** — they prove the leucocytes came from the **renal tubules**, not the lower tract.
 
-**MUST KNOW: **Cast catalogue:** RBC casts → glomerulonephritis**; **WBC casts → pyelonephritis (also acute interstitial nephritis)**; **muddy-brown granular casts → acute tubular necrosis**; **fatty casts/"Maltese cross" → nephrotic syndrome**; **broad waxy casts → chronic kidney disease**; **hyaline casts → normal/dehydration**. All casts form in the tubule on a **Tamm–Horsfall protein** matrix — hence any cast localizes the problem to the kidney.
+**MUST KNOW: **Cast catalogue:** RBC casts → glomerulonephritis**; **WBC casts → pyelonephritis (also acute interstitial nephritis)**; **muddy-brown granular casts → acute tubular necrosis**; **fatty casts/“Maltese cross” → nephrotic syndrome**; **broad waxy casts → chronic kidney disease**; **hyaline casts → normal/dehydration**. All casts form in the tubule on a **Tamm–Horsfall protein** matrix — hence any cast localizes the problem to the kidney.
 
 **REMEMBER:** *WBC cast = infection is INSIDE the kidney; a cast always means renal origin.*
 
@@ -1246,19 +1246,19 @@
 
 ### 48. Zonal Patterns of Liver Injury
 
-**PEARL:** ***ZONE 3 (CENTRILOBULAR, around the central vein) is the FARTHEST from the blood supply and the most susceptible to ISCHAEMIA and to drugs needing metabolic activation***: shock/"ischaemic hepatitis" after myocardial infarction, chronic venous congestion (cardiac failure — "NUTMEG LIVER"), Budd–Chiari syndrome, **PARACETAMOL toxicity, carbon tetrachloride and alcoholic hepatitis.** ***ZONE 1 (PERIPORTAL) is hit by VIRAL HEPATITIS and by directly acting toxins (phosphorus, iron, cocaine). ZONE 2 (MIDZONAL) is the classic and rare site of YELLOW FEVER.***
+**PEARL:** ***ZONE 3 (CENTRILOBULAR, around the central vein) is the FARTHEST from the blood supply and the most susceptible to ISCHAEMIA and to drugs needing metabolic activation***: shock/“ischaemic hepatitis” after myocardial infarction, chronic venous congestion (cardiac failure — “NUTMEG LIVER”), Budd–Chiari syndrome, **PARACETAMOL toxicity, carbon tetrachloride and alcoholic hepatitis.** ***ZONE 1 (PERIPORTAL) is hit by VIRAL HEPATITIS and by directly acting toxins (phosphorus, iron, cocaine). ZONE 2 (MIDZONAL) is the classic and rare site of YELLOW FEVER.***
 
 **UNDERSTAND:** Blood enters at the **portal triad and flows towards the central vein**, so oxygen tension falls progressively across the lobule — **zone 3 lives on the lowest oxygen and therefore dies first in any hypoperfusion.** Zone 3 also contains the **highest concentration of CYTOCHROME P450**, so drugs that are toxic only after bioactivation (paracetamol → NAPQI, CCl4) do their damage precisely there. Conversely, a **directly toxic substance strikes the first cells it meets — zone 1.** One anatomical gradient explains the whole table.
 
 **MUST KNOW:**
 
-- **PARACETAMOL: therapeutic doses are conjugated; in overdose the sulphation and glucuronidation pathways saturate, ***NAPQI accumulates and depletes GLUTATHIONE***, causing zone 3 necrosis. ***N-ACETYLCYSTEINE replenishes glutathione and is most effective within 8 HOURS*** but is given late as well; the KING'S COLLEGE CRITERIA (pH <7.3, or the triad of INR >6.5, creatinine >3.4 mg/dL and grade III–IV encephalopathy) identify those needing transplantation.
-- **NON-ALCOHOLIC STEATOHEPATITIS on biopsy: steatosis, ***HEPATOCYTE BALLOONING***, MALLORY–DENK bodies (less prominent than in alcohol), perisinusoidal ("chicken-wire") fibrosis and — distinctively — ***MORE PROMINENT PORTAL FIBROSIS***, with macrophages predominating. ***LYMPHOID FOLLICLES AND BILE DUCT DAMAGE POINT TO CHRONIC HEPATITIS C, NOT NASH.***
+- **PARACETAMOL: therapeutic doses are conjugated; in overdose the sulphation and glucuronidation pathways saturate, ***NAPQI accumulates and depletes GLUTATHIONE***, causing zone 3 necrosis. ***N-ACETYLCYSTEINE replenishes glutathione and is most effective within 8 HOURS*** but is given late as well; the KING’S COLLEGE CRITERIA (pH <7.3, or the triad of INR >6.5, creatinine >3.4 mg/dL and grade III–IV encephalopathy) identify those needing transplantation.
+- **NON-ALCOHOLIC STEATOHEPATITIS on biopsy: steatosis, ***HEPATOCYTE BALLOONING***, MALLORY–DENK bodies (less prominent than in alcohol), perisinusoidal (“chicken-wire”) fibrosis and — distinctively — ***MORE PROMINENT PORTAL FIBROSIS***, with macrophages predominating. ***LYMPHOID FOLLICLES AND BILE DUCT DAMAGE POINT TO CHRONIC HEPATITIS C, NOT NASH.***
 - **ALCOHOLIC liver disease versus NASH: alcohol shows more Mallory–Denk bodies, NEUTROPHIL-predominant inflammation and perivenular/perisinusoidal fibrosis, with an ***AST:ALT RATIO >2***; NASH shows ALT ≥ AST, obesity, diabetes and dyslipidaemia.
 - **CIRRHOSIS carries a risk of HEPATOCELLULAR CARCINOMA through the sequence ***REGENERATIVE NODULE → LOW-GRADE → HIGH-GRADE DYSPLASTIC NODULE → HCC***; surveillance is 6-monthly ultrasound (± AFP). By contrast, ***HEPATOCELLULAR ADENOMA (oral contraceptives, anabolic steroids) and FOCAL NODULAR HYPERPLASIA (with its CENTRAL SCAR) occur in NON-cirrhotic livers, and FIBROLAMELLAR CARCINOMA arises in young people WITHOUT cirrhosis and without a raised AFP.***
-- **The zone 3 pattern of chronic congestion produces the "NUTMEG" appearance grossly and, if prolonged, CARDIAC CIRRHOSIS.**
+- **The zone 3 pattern of chronic congestion produces the “NUTMEG” appearance grossly and, if prolonged, CARDIAC CIRRHOSIS.**
 
-**EXAM CONNECTION:** Ischaemic liver injury after myocardial infarction → **zone 3**; centrilobular necrosis "least likely" → **yellow fever (midzonal)**; feature NOT of NASH → **lymphoid follicles**.
+**EXAM CONNECTION:** Ischaemic liver injury after myocardial infarction → **zone 3**; centrilobular necrosis “least likely” → **yellow fever (midzonal)**; feature NOT of NASH → **lymphoid follicles**.
 
 **REMEMBER:** *Oxygen runs out at the central vein and P450 lives there too — zone 3 dies of both starvation and poison.*
 
@@ -1274,7 +1274,7 @@
 
 **PEARL:** ***THE AGE AT INFECTION IS THE SINGLE BEST PREDICTOR OF CHRONICITY IN HEPATITIS B*** — the younger the host, the higher the risk. **PERINATAL infection becomes chronic in ~90%, infection in early childhood in ~30%, and ADULT infection in only ~5%.** Outcomes of adult infection: **asymptomatic ~65%, symptomatic acute hepatitis ~25%, chronic ~5–10%, fulminant 0.1–0.5%.**
 
-**UNDERSTAND:** The paradox — that a *weaker* immune response causes *more* chronic disease — is the whole point. **HBV is NOT directly cytopathic; the liver damage is caused by CYTOTOXIC T CELLS killing infected hepatocytes.** A mature adult immune system mounts a vigorous response: **more symptoms, more hepatitis, but successful clearance.** A neonate's immature system tolerates the virus: **no illness, no clearance, lifelong carriage — and eventual cirrhosis and hepatocellular carcinoma.** This directly justifies the **BIRTH-DOSE VACCINE AND HBIG**, which are the highest-yield interventions in the whole disease.
+**UNDERSTAND:** The paradox — that a *weaker* immune response causes *more* chronic disease — is the whole point. **HBV is NOT directly cytopathic; the liver damage is caused by CYTOTOXIC T CELLS killing infected hepatocytes.** A mature adult immune system mounts a vigorous response: **more symptoms, more hepatitis, but successful clearance.** A neonate’s immature system tolerates the virus: **no illness, no clearance, lifelong carriage — and eventual cirrhosis and hepatocellular carcinoma.** This directly justifies the **BIRTH-DOSE VACCINE AND HBIG**, which are the highest-yield interventions in the whole disease.
 
 **MUST KNOW:**
 
@@ -1300,7 +1300,7 @@
 
 **PEARL:** ***SYNTHETIC function is measured by SERUM ALBUMIN, PROTHROMBIN TIME/INR and aPTT (clotting factors), and by SERUM AMMONIA (failure of urea-cycle detoxification). ALKALINE PHOSPHATASE (with GGT) MEASURES BILIARY EXCRETORY FUNCTION, NOT SYNTHESIS.*** Transaminases (AST, ALT) measure **hepatocellular INJURY**, not function at all.
 
-**UNDERSTAND:** The distinction matters because **a "deranged LFT" says nothing until you name the compartment.** Transaminases can be enormous in a liver that is still working (acute hepatitis), and near-normal in a cirrhotic liver that has failed. ***THE PROTHROMBIN TIME IS THE MOST USEFUL ACUTE MARKER OF SYNTHETIC FAILURE*** because **factor VII has a half-life of only ~6 hours**, so the INR rises within a day of hepatic failure — whereas **ALBUMIN has a half-life of ~20 days** and therefore reflects CHRONIC disease.
+**UNDERSTAND:** The distinction matters because **a “deranged LFT” says nothing until you name the compartment.** Transaminases can be enormous in a liver that is still working (acute hepatitis), and near-normal in a cirrhotic liver that has failed. ***THE PROTHROMBIN TIME IS THE MOST USEFUL ACUTE MARKER OF SYNTHETIC FAILURE*** because **factor VII has a half-life of only ~6 hours**, so the INR rises within a day of hepatic failure — whereas **ALBUMIN has a half-life of ~20 days** and therefore reflects CHRONIC disease.
 
 **MUST KNOW:**
 
@@ -1308,9 +1308,9 @@
 - **AST:ALT ratio ***>2 suggests ALCOHOLIC liver disease*** (pyridoxine-dependent ALT synthesis is impaired in alcoholics); ALT > AST suggests viral hepatitis and NAFLD. AST is also released by heart, muscle and red cells, so it is less liver-specific.**
 - **Bilirubin: unconjugated (prehepatic/haemolytic, Gilbert) versus conjugated (hepatocellular and cholestatic — with dark urine and pale stools). ***UROBILINOGEN IS ABSENT FROM THE URINE IN COMPLETE BILIARY OBSTRUCTION.***
 - **Other markers: alpha-fetoprotein for HCC surveillance, autoantibodies (AMA, ANA, ASMA, LKM) for autoimmune liver disease, ferritin/transferrin saturation for haemochromatosis, caeruloplasmin for Wilson disease, and alpha-1-antitrypsin levels.**
-- **PROGNOSTIC SCORES:** *CHILD–PUGH ("A BEAST"/ABCDE — Albumin, Bilirubin, Clotting/INR, Distension/ascites, Encephalopathy) and MELD (bilirubin, INR, creatinine ± sodium)***, the latter used for transplant allocation. Note that both are built almost entirely from SYNTHETIC and EXCRETORY markers — not transaminases.
+- **PROGNOSTIC SCORES:** *CHILD–PUGH (“A BEAST”/ABCDE — Albumin, Bilirubin, Clotting/INR, Distension/ascites, Encephalopathy) and MELD (bilirubin, INR, creatinine ± sodium)***, the latter used for transplant allocation. Note that both are built almost entirely from SYNTHETIC and EXCRETORY markers — not transaminases.
 
-**EXAM CONNECTION:** "NOT a test of hepatic synthetic function" → **serum alkaline phosphatase**.
+**EXAM CONNECTION:** “NOT a test of hepatic synthetic function” → **serum alkaline phosphatase**.
 
 **REMEMBER:** *Transaminases show damage, albumin and INR show function, alkaline phosphatase shows the plumbing.*
 
@@ -1332,7 +1332,7 @@
 - **BUDD–CHIARI: hepatic vein outflow obstruction from myeloproliferative neoplasms (JAK2), antiphospholipid syndrome, oral contraceptives, PNH or tumour — the classic triad of ***ABDOMINAL PAIN, ASCITES AND HEPATOMEGALY***, with CAUDATE LOBE HYPERTROPHY (it drains directly into the IVC) and zone 3 congestion.
 - **Treatment of varices: non-selective beta-blockers or carvedilol for primary prophylaxis, band ligation, terlipressin/octreotide plus antibiotics in acute bleeding, and TIPS for refractory bleeding or ascites (at the cost of encephalopathy).**
 
-**EXAM CONNECTION:** "NOT an intrahepatic cause" → **obstructive portal vein thrombosis (prehepatic)**; feature NOT seen in NCPF → **bridging fibrosis**.
+**EXAM CONNECTION:** “NOT an intrahepatic cause” → **obstructive portal vein thrombosis (prehepatic)**; feature NOT seen in NCPF → **bridging fibrosis**.
 
 **REMEMBER:** *Block before the liver bleeds; block inside it fails; block after it floods with ascites.*
 
@@ -1342,16 +1342,16 @@
 
 ### 52. Alcoholic Liver Disease — the Histological Sequence
 
-**PEARL:** The three stages are **STEATOSIS (reversible, mixed micro- and macrovesicular fat, normal enzymes) → ALCOHOLIC HEPATITIS (BALLOONED hepatocytes containing ***MALLORY–DENK BODIES***, a NEUTROPHIL infiltrate, and ***PERISINUSOIDAL "CHICKEN-WIRE" FIBROSIS*** on trichrome) → ***MICRONODULAR CIRRHOSIS*** (uniform nodules <3 mm).** ***VIRAL HEPATITIS, by contrast, produces MACRONODULAR cirrhosis (irregular nodules >3 mm).***
+**PEARL:** The three stages are **STEATOSIS (reversible, mixed micro- and macrovesicular fat, normal enzymes) → ALCOHOLIC HEPATITIS (BALLOONED hepatocytes containing ***MALLORY–DENK BODIES***, a NEUTROPHIL infiltrate, and ***PERISINUSOIDAL “CHICKEN-WIRE” FIBROSIS*** on trichrome) → ***MICRONODULAR CIRRHOSIS*** (uniform nodules <3 mm).** ***VIRAL HEPATITIS, by contrast, produces MACRONODULAR cirrhosis (irregular nodules >3 mm).***
 
 **UNDERSTAND:** The nodule size records **how the scarring happened.** Alcohol injures **diffusely and continuously around every central vein and sinusoid**, so fibrous septa form uniformly and trap small, equal parcels of parenchyma — hence MICROnodular. Viral hepatitis destroys **irregular, confluent areas with long periods of regeneration in between**, producing large uneven nodules — MACROnodular. Micronodular cirrhosis may convert to macronodular over years of abstinence, as regeneration proceeds.
 
 **MUST KNOW:**
 
-- ***MALLORY–DENK BODIES are clumped, eosinophilic, rope-like aggregates of CYTOKERATIN 8 AND 18*** and are characteristic BUT NOT SPECIFIC — also seen in NAFLD/NASH, ***WILSON DISEASE***, alpha-1-antitrypsin deficiency, PRIMARY BILIARY CHOLANGITIS, chronic cholestasis, Indian childhood cirrhosis and hepatocellular carcinoma. ***THEY ARE NOT A FEATURE OF PRIMARY SCLEROSING CHOLANGITIS***, which shows periductal "ONION-SKIN" fibrosis instead.
+- ***MALLORY–DENK BODIES are clumped, eosinophilic, rope-like aggregates of CYTOKERATIN 8 AND 18*** and are characteristic BUT NOT SPECIFIC — also seen in NAFLD/NASH, ***WILSON DISEASE***, alpha-1-antitrypsin deficiency, PRIMARY BILIARY CHOLANGITIS, chronic cholestasis, Indian childhood cirrhosis and hepatocellular carcinoma. ***THEY ARE NOT A FEATURE OF PRIMARY SCLEROSING CHOLANGITIS***, which shows periductal “ONION-SKIN” fibrosis instead.
 - **Causes of MICRONODULAR cirrhosis: alcohol, HAEMOCHROMATOSIS, biliary obstruction, ***BUDD–CHIARI***, Indian childhood cirrhosis, jejunoileal bypass. MACRONODULAR: chronic viral hepatitis, WILSON DISEASE, alpha-1-antitrypsin deficiency, drugs and toxins, cryptogenic cirrhosis.
 - **Other named liver inclusions and patterns:** *COUNCILMAN (acidophil) BODIES — apoptotic hepatocytes of ACUTE hepatitis and YELLOW FEVER; GROUND-GLASS hepatocytes — CHRONIC hepatitis B; ONION-SKIN periductal fibrosis — PRIMARY SCLEROSING CHOLANGITIS; FLORID DUCT LESION — PRIMARY BILIARY CHOLANGITIS; FEATHERY DEGENERATION — cholestasis; PAS-POSITIVE DIASTASE-RESISTANT GLOBULES — alpha-1-antitrypsin deficiency.***
-- **"CHICKEN-WIRE" elsewhere in pathology: chicken-wire CALCIFICATION — CHONDROBLASTOMA; chicken-wire VASCULATURE — OLIGODENDROGLIOMA and MYXOID LIPOSARCOMA.**
+- **“CHICKEN-WIRE” elsewhere in pathology: chicken-wire CALCIFICATION — CHONDROBLASTOMA; chicken-wire VASCULATURE — OLIGODENDROGLIOMA and MYXOID LIPOSARCOMA.**
 - **Alcoholic hepatitis is clinically severe (fever, tender hepatomegaly, jaundice, leucocytosis) and may kill despite abstinence; corticosteroids are used when the discriminant function is high.**
 
 **EXAM CONNECTION:** Histological finding in chronic alcoholism → **chicken-wire perisinusoidal fibrosis**; condition NOT causing micronodular cirrhosis → **viral hepatitis**; incorrect match → **Councilman bodies with CHRONIC hepatitis** (they belong to acute).
@@ -1375,15 +1375,15 @@
 
 ### 53. Drug-Induced Liver Injury — Signature Histologies
 
-**PEARL: **Match the drug to the lesion:** *VALPROATE (and tetracycline, aspirin/Reye, nucleoside analogues) — MICROVESICULAR STEATOSIS. ALLOPURINOL — FIBRIN-RING GRANULOMA. AMIODARONE — MALLORY–DENK BODIES with phospholipidosis (a "pseudo-alcoholic" hepatitis). ISONIAZID — NON-CASEATING EPITHELIOID GRANULOMAS (and hepatocellular necrosis).***
+**PEARL: **Match the drug to the lesion:** *VALPROATE (and tetracycline, aspirin/Reye, nucleoside analogues) — MICROVESICULAR STEATOSIS. ALLOPURINOL — FIBRIN-RING GRANULOMA. AMIODARONE — MALLORY–DENK BODIES with phospholipidosis (a “pseudo-alcoholic” hepatitis). ISONIAZID — NON-CASEATING EPITHELIOID GRANULOMAS (and hepatocellular necrosis).***
 
-**UNDERSTAND:** **MICROvesicular steatosis (many tiny droplets with a CENTRAL nucleus) is not merely "fat" — it signals MITOCHONDRIAL POISONING with impaired beta-oxidation**, which is why it appears in the genuinely dangerous syndromes: valproate hepatotoxicity, Reye syndrome, acute fatty liver of pregnancy and tetracycline injury. **MACROvesicular steatosis (one large droplet displacing the nucleus), by contrast, is the relatively benign fat of alcohol, obesity and diabetes.** The distinction on a slide predicts the severity of the illness.
+**UNDERSTAND:** **MICROvesicular steatosis (many tiny droplets with a CENTRAL nucleus) is not merely “fat” — it signals MITOCHONDRIAL POISONING with impaired beta-oxidation**, which is why it appears in the genuinely dangerous syndromes: valproate hepatotoxicity, Reye syndrome, acute fatty liver of pregnancy and tetracycline injury. **MACROvesicular steatosis (one large droplet displacing the nucleus), by contrast, is the relatively benign fat of alcohol, obesity and diabetes.** The distinction on a slide predicts the severity of the illness.
 
 **MUST KNOW:**
 
 - **Other classic drug–liver associations:** *PARACETAMOL — dose-dependent zone 3 necrosis. HALOTHANE — massive necrosis with fever and eosinophilia on re-exposure. METHOTREXATE and vitamin A — FIBROSIS. ORAL CONTRACEPTIVES and anabolic steroids — cholestasis, hepatic adenoma and PELIOSIS HEPATIS. CHLORPROMAZINE, erythromycin estolate, augmentin — BLAND/inflammatory CHOLESTASIS. STATINS and ISONIAZID — transaminitis. CARBAMAZEPINE, phenytoin, allopurinol, sulfonamides — hypersensitivity with granulomas, rash and eosinophilia (DRESS).***
 - **Injury is either ***INTRINSIC/predictable and dose-dependent (paracetamol, CCl4)*** or ***IDIOSYNCRATIC — unpredictable, dose-independent, with a variable latent period (isoniazid, halothane, most others)***; the latter cannot be screened for by dose adjustment.
-- **The R RATIO (ALT/ULN ÷ ALP/ULN) classifies drug injury as hepatocellular (≥5), cholestatic (≤2) or mixed; ***"HY'S LAW" — drug-induced hepatocellular injury with JAUNDICE and no biliary obstruction — predicts ~10% mortality.***
+- **The R RATIO (ALT/ULN ÷ ALP/ULN) classifies drug injury as hepatocellular (≥5), cholestatic (≤2) or mixed; ***“HY’S LAW” — drug-induced hepatocellular injury with JAUNDICE and no biliary obstruction — predicts ~10% mortality.***
 - **Granulomatous hepatitis differential: drugs (allopurinol, sulfonamides), TUBERCULOSIS, sarcoidosis, PRIMARY BILIARY CHOLANGITIS, brucellosis, Q FEVER (the other classic FIBRIN-RING granuloma), schistosomiasis and Hodgkin lymphoma.**
 - ***ALWAYS TAKE A DRUG AND HERBAL/SUPPLEMENT HISTORY IN ANY UNEXPLAINED LIVER TEST ABNORMALITY*** — traditional and over-the-counter remedies are a major cause in India.
 
@@ -1400,15 +1400,15 @@
 <!-- markdownlint-disable-next-line MD037 -->
 **PEARL:** **Autoimmune hepatitis is characterised histologically by ***INTERFACE HEPATITIS (piecemeal necrosis)***, a ***PLASMA-CELL-RICH*** lymphoplasmacytic infiltrate, ***HEPATOCYTE ROSETTES*** and ***EMPERIPOLESIS*** (lymphocytes within hepatocyte cytoplasm), with associations to **HLA-DR3 and DR4.** ***BILE DUCT INJURY AND GRANULOMAS ARE NOT FEATURES*** (they suggest primary biliary cholangitis or an overlap syndrome). **TYPE 1 — ANA, ANTI-SMOOTH MUSCLE, anti-SLA/LP (adults). TYPE 2 — ANTI-LKM1 and anti-liver-cytosol-1 (children, more aggressive); **TYPE 2 IS ANA-NEGATIVE.**
 
-**UNDERSTAND:** "INTERFACE hepatitis" names exactly where the attack occurs — **at the limiting plate, the interface between the portal tract and the lobule** — because that is where autoreactive T cells first meet hepatocytes. **EMPERIPOLESIS ("wandering inside") is a lymphocyte physically inside an intact hepatocyte** — the histological photograph of the immune attack, and highly characteristic. **ROSETTES are regenerating hepatocytes reorganising around a lumen after groups of cells have been destroyed** — that is, evidence of repeated injury and repair.
+**UNDERSTAND:** “INTERFACE hepatitis” names exactly where the attack occurs — **at the limiting plate, the interface between the portal tract and the lobule** — because that is where autoreactive T cells first meet hepatocytes. **EMPERIPOLESIS (“wandering inside”) is a lymphocyte physically inside an intact hepatocyte** — the histological photograph of the immune attack, and highly characteristic. **ROSETTES are regenerating hepatocytes reorganising around a lumen after groups of cells have been destroyed** — that is, evidence of repeated injury and repair.
 
 **MUST KNOW:**
 
 - **Presentation ranges from asymptomatic transaminitis to acute (even fulminant) hepatitis to established cirrhosis; classically a young or middle-aged woman with other autoimmune disease (thyroiditis, coeliac, type 1 diabetes) and ***MARKEDLY RAISED SERUM IgG/GAMMAGLOBULINS.***
 - ***IT RESPONDS DRAMATICALLY TO CORTICOSTEROIDS*** (prednisolone ± azathioprine) — one of the few chronic liver diseases with a specific effective treatment, so the diagnosis must not be missed; relapse on withdrawal is common and transplantation is available for end-stage disease (with a risk of recurrence in the graft).
 - **Anti-LKM antibody family:** *LKM-1 — type 2 autoimmune hepatitis AND chronic hepatitis C. LKM-2 — DRUG-INDUCED hepatitis (ticrynafen). LKM-3 — chronic HEPATITIS D.***
-- **PRIMARY BILIARY CHOLANGITIS: middle-aged woman (9:1), PRURITUS and fatigue, raised ALP, ***ANTI-MITOCHONDRIAL ANTIBODY (anti-M2)***, granulomatous destruction of SMALL AND MEDIUM INTRAHEPATIC ducts ("FLORID DUCT LESION"), xanthelasma and osteoporosis; commonly associated with ***SJÖGREN SYNDROME***, thyroiditis, scleroderma/CREST, rheumatoid arthritis and coeliac disease; treated with URSODEOXYCHOLIC ACID (and obeticholic acid).
-- **PRIMARY SCLEROSING CHOLANGITIS: young MALE (male > female), ***STRONGLY ASSOCIATED WITH ULCERATIVE COLITIS***, p-ANCA positive, affecting ***BOTH INTRAHEPATIC AND EXTRAHEPATIC ducts*** with "BEADING" on MRCP and ONION-SKIN periductal fibrosis; ***HIGH RISK OF CHOLANGIOCARCINOMA*** and colorectal cancer, with no effective medical therapy.
+- **PRIMARY BILIARY CHOLANGITIS: middle-aged woman (9:1), PRURITUS and fatigue, raised ALP, ***ANTI-MITOCHONDRIAL ANTIBODY (anti-M2)***, granulomatous destruction of SMALL AND MEDIUM INTRAHEPATIC ducts (“FLORID DUCT LESION”), xanthelasma and osteoporosis; commonly associated with ***SJÖGREN SYNDROME***, thyroiditis, scleroderma/CREST, rheumatoid arthritis and coeliac disease; treated with URSODEOXYCHOLIC ACID (and obeticholic acid).
+- **PRIMARY SCLEROSING CHOLANGITIS: young MALE (male > female), ***STRONGLY ASSOCIATED WITH ULCERATIVE COLITIS***, p-ANCA positive, affecting ***BOTH INTRAHEPATIC AND EXTRAHEPATIC ducts*** with “BEADING” on MRCP and ONION-SKIN periductal fibrosis; ***HIGH RISK OF CHOLANGIOCARCINOMA*** and colorectal cancer, with no effective medical therapy.
 
 **EXAM CONNECTION:** Feature NOT expected in autoimmune hepatitis → **bile duct injury and granulomas**; false statement → **that type 2 shows ANA**.
 
@@ -1434,7 +1434,7 @@
 **MUST KNOW:**
 
 - **HAEMOCHROMATOSIS facts asked directly:** *NEONATAL haemochromatosis is NOT inherited*** — it is gestational ALLOIMMUNE liver disease (maternal antibodies against fetal hepatocytes), treated with IVIG and exchange transfusion. ***JUVENILE (HJV/hemojuvelin, HAMP/hepcidin) disease is EARLIER AND MORE SEVERE than adult HFE-related disease.*** ***BANTU SIDEROSIS is DIETARY*** (iron-rich home-brewed beer). ***SKIN PIGMENTATION IS MAINLY INCREASED MELANIN*** stimulated by iron, not just haemosiderin. Total body iron may exceed ***50 g*** (normal 2–6 g).
-- **Classic triad: CIRRHOSIS + DIABETES ("BRONZE DIABETES") + skin pigmentation, with cardiomyopathy, arthropathy (2nd and 3rd MCP joints, chondrocalcinosis) and hypogonadism. Screen with ***TRANSFERRIN SATURATION (>45%) and FERRITIN***, confirm with HFE genotyping (C282Y) and quantify with MRI. ***VENESECTION IS THE TREATMENT AND NORMALISES LIFE EXPECTANCY IF STARTED BEFORE CIRRHOSIS — but the RISK OF HEPATOCELLULAR CARCINOMA PERSISTS ONCE CIRRHOSIS HAS DEVELOPED.***
+- **Classic triad: CIRRHOSIS + DIABETES (“BRONZE DIABETES”) + skin pigmentation, with cardiomyopathy, arthropathy (2nd and 3rd MCP joints, chondrocalcinosis) and hypogonadism. Screen with ***TRANSFERRIN SATURATION (>45%) and FERRITIN***, confirm with HFE genotyping (C282Y) and quantify with MRI. ***VENESECTION IS THE TREATMENT AND NORMALISES LIFE EXPECTANCY IF STARTED BEFORE CIRRHOSIS — but the RISK OF HEPATOCELLULAR CARCINOMA PERSISTS ONCE CIRRHOSIS HAS DEVELOPED.***
 - **Distinguish PRIMARY (HFE) from SECONDARY iron overload (transfusional, thalassaemia, sideroblastic anaemia), where the iron loads MACROPHAGES first rather than parenchymal cells.**
 - **WILSON DISEASE: ATP7B on chromosome 13; LOW caeruloplasmin, HIGH 24-hour urinary copper, KAYSER–FLEISCHER rings, sunflower cataract; ***SUSPECT IT IN ANY PATIENT UNDER 40 WITH UNEXPLAINED LIVER DISEASE OR A MOVEMENT DISORDER***, and especially in FULMINANT hepatic failure with a LOW ALKALINE PHOSPHATASE, Coombs-negative haemolysis and a very high bilirubin.
 - **Both diseases can cause cirrhosis and both are on the list of causes of Mallory–Denk bodies.**
@@ -1482,7 +1482,7 @@
 
 **MUST KNOW:**
 
-- **Presentation: PAINLESS OBSTRUCTIVE JAUNDICE with pruritus and weight loss (perihilar/distal), or a mass lesion with vague pain (intrahepatic). ***COURVOISIER'S LAW*** — a palpable, non-tender gallbladder with jaundice suggests malignant obstruction rather than stones. CA 19-9 is the tumour marker. Surgery is the only cure; most are unresectable at diagnosis.
+- **Presentation: PAINLESS OBSTRUCTIVE JAUNDICE with pruritus and weight loss (perihilar/distal), or a mass lesion with vague pain (intrahepatic). ***COURVOISIER’S LAW*** — a palpable, non-tender gallbladder with jaundice suggests malignant obstruction rather than stones. CA 19-9 is the tumour marker. Surgery is the only cure; most are unresectable at diagnosis.
 - **HEPATOBLASTOMA — the commonest liver malignancy of CHILDHOOD (usually under 3 years): risk factors are ***PREMATURITY AND LOW BIRTH WEIGHT, BECKWITH–WIEDEMANN SYNDROME, and FAMILIAL ADENOMATOUS POLYPOSIS/GARDNER SYNDROME (APC → WNT/beta-catenin activation)*** — hypertension is not a risk factor.
 - **Hepatoblastoma prognosis:** *GOOD — low stage, PURE FETAL HISTOLOGY (may be cured by resection alone), and LOW AFP. POOR — high stage, SMALL-CELL UNDIFFERENTIATED histology, rhabdoid features and vascular invasion.*** (Note the counter-intuitive point: a very low AFP is favourable here, whereas prematurity and low birth weight are risk factors but do NOT worsen outcome.)
 - **Syndromes predisposing to HEPATOCELLULAR carcinoma rather than hepatoblastoma: hereditary TYROSINAEMIA, ALPHA-1-ANTITRYPSIN deficiency, glycogen storage disease type I and hereditary haemochromatosis.**
@@ -1490,7 +1490,7 @@
 
 **EXAM CONNECTION:** NOT a risk for cholangiocarcinoma → **typhoid carrier state**; Klatskin tumour → **perihilar extrahepatic cholangiocarcinoma**; good prognosis in hepatoblastoma → **pure fetal histology**.
 
-**REMEMBER:** *Chronic irritation of a bile duct ends in cholangiocarcinoma; a typhoid carrier's stone-filled gallbladder ends in gallbladder cancer.*
+**REMEMBER:** *Chronic irritation of a bile duct ends in cholangiocarcinoma; a typhoid carrier’s stone-filled gallbladder ends in gallbladder cancer.*
 
 `Q10627, Q10628, Q10630, Q10631, Q10632`
 
@@ -1505,7 +1505,7 @@
 **MUST KNOW:**
 
 - Also found in **non-alcoholic steatohepatitis, Wilson disease, primary biliary cholangitis, chronic cholestasis, hepatocellular carcinoma, and after amiodarone** — so they are **characteristic but not pathognomonic**.
-- Accompanying features of alcoholic hepatitis: **hepatocyte ballooning, neutrophilic infiltrate (unusual for viral hepatitis, which is lymphocytic), and perivenular/pericellular "chicken-wire" fibrosis**.
+- Accompanying features of alcoholic hepatitis: **hepatocyte ballooning, neutrophilic infiltrate (unusual for viral hepatitis, which is lymphocytic), and perivenular/pericellular “chicken-wire” fibrosis**.
 - Cytoskeleton revision: **microfilaments = actin; intermediate filaments = keratin (epithelium), desmin (muscle), vimentin (mesenchyme), neurofilament (neurons), GFAP (glia); microtubules = tubulin**. Intermediate filaments are the basis of most **immunohistochemical tumour typing**.
 - Alcohol biochemistry to recall: **AST:ALT ratio > 2 with both < 400 IU/L**; **GGT is the most useful marker of chronic alcohol intake** (microsomal enzyme induction), though **not fully specific** — it also rises in biliary obstruction and with enzyme-inducing drugs.
 - A **small liver (span < 7 cm) with ascites** indicates established cirrhosis, not simple hepatitis.
@@ -1536,7 +1536,7 @@
 - **Cholangiocarcinoma** is associated with **liver flukes — Opisthorchis viverrini and Clonorchis sinensis** — plus **primary sclerosing cholangitis, choledochal cysts, hepatolithiasis and Thorotrast**.
 - Other chronic-inflammation-to-cancer links: **Barrett oesophagus → adenocarcinoma; chronic gastritis (H. pylori) → gastric carcinoma and MALT lymphoma; ulcerative colitis → colorectal carcinoma; chronic cholecystitis → gallbladder cancer; asbestosis → mesothelioma; Hashimoto/Sjögren → MALT lymphoma; lichen sclerosus → vulval SCC**.
 
-**EXAM CONNECTION:** "Not a feature of chronic hepatitis" → **ballooning degeneration**. Every other option is a chronic-phase change.
+**EXAM CONNECTION:** “Not a feature of chronic hepatitis” → **ballooning degeneration**. Every other option is a chronic-phase change.
 
 **REMEMBER:** *Acute swells the lobule; chronic eats the portal edge.*
 
@@ -1567,16 +1567,16 @@
 
 ### 61. Oesophageal Odds and Ends
 
-**PEARL:** **The commonest site of ECTOPIC GASTRIC MUCOSA is the UPPER THIRD OF THE OESOPHAGUS, where it is called an "INLET PATCH"** — congenital, usually asymptomatic, but occasionally acid-secreting and a rare cause of dysphagia, oesophagitis, Barrett change or adenocarcinoma. Among infectious causes of oesophagitis, ***HERPES SIMPLEX VIRUS is the one that can affect IMMUNOCOMPETENT people***; *Candida* and CMV essentially require immunosuppression.
+**PEARL:** **The commonest site of ECTOPIC GASTRIC MUCOSA is the UPPER THIRD OF THE OESOPHAGUS, where it is called an “INLET PATCH”** — congenital, usually asymptomatic, but occasionally acid-secreting and a rare cause of dysphagia, oesophagitis, Barrett change or adenocarcinoma. Among infectious causes of oesophagitis, ***HERPES SIMPLEX VIRUS is the one that can affect IMMUNOCOMPETENT people***; *Candida* and CMV essentially require immunosuppression.
 
-**UNDERSTAND:** The endoscopic appearances follow the biology of each organism. **HSV kills epithelium from the surface, producing SMALL, SHARPLY PUNCHED-OUT ULCERS with heaped edges and "VOLCANO" morphology, with COWDRY TYPE A intranuclear inclusions and multinucleated giant cells in the ulcer EDGE.** **CMV infects ENDOTHELIUM AND FIBROBLASTS in the deep tissue**, causing **LARGE, LINEAR, DEEP SOLITARY ULCERS with owl's-eye intranuclear inclusions in the ulcer BASE.** ***Candida*** coats the mucosa with **adherent WHITE PLAQUES**. So a biopsy of the correct part of the ulcer makes the diagnosis.
+**UNDERSTAND:** The endoscopic appearances follow the biology of each organism. **HSV kills epithelium from the surface, producing SMALL, SHARPLY PUNCHED-OUT ULCERS with heaped edges and “VOLCANO” morphology, with COWDRY TYPE A intranuclear inclusions and multinucleated giant cells in the ulcer EDGE.** **CMV infects ENDOTHELIUM AND FIBROBLASTS in the deep tissue**, causing **LARGE, LINEAR, DEEP SOLITARY ULCERS with owl’s-eye intranuclear inclusions in the ulcer BASE.** ***Candida*** coats the mucosa with **adherent WHITE PLAQUES**. So a biopsy of the correct part of the ulcer makes the diagnosis.
 
 **MUST KNOW:**
 
 - ***CANDIDA OESOPHAGITIS IN A PATIENT WITH NO OBVIOUS CAUSE IS AN AIDS-DEFINING ILLNESS*** and should prompt HIV testing; treat with fluconazole.
 - **BARRETT OESOPHAGUS: metaplastic replacement of squamous epithelium by ***INTESTINAL-TYPE COLUMNAR EPITHELIUM WITH GOBLET CELLS*** in the distal oesophagus after chronic reflux — the precursor of ***ADENOCARCINOMA (lower third, Western countries, associated with GORD, obesity and smoking).*** ***SQUAMOUS CELL CARCINOMA (middle third, commoner in India, Iran and China) is associated with smoking, alcohol, hot beverages, nitrosamines, achalasia, corrosive strictures, PLUMMER–VINSON syndrome and tylosis.***
-- **Other oesophageal lesions: MALLORY–WEISS tears (mucosal, after retching — bleed), BOERHAAVE syndrome (full-thickness rupture — a surgical emergency with mediastinitis), oesophageal varices, EOSINOPHILIC OESOPHAGITIS (young atopic patients, dysphagia and food impaction, ***RINGED/"TRACHEALISED" oesophagus with >15 eosinophils per high-power field***), and pill oesophagitis (doxycycline, NSAIDs, bisphosphonates).**
-- **Achalasia: failure of lower oesophageal sphincter relaxation with loss of the myenteric plexus, a "BIRD-BEAK" barium appearance and an increased risk of squamous carcinoma; ***CHAGAS DISEASE produces an identical picture.***
+- **Other oesophageal lesions: MALLORY–WEISS tears (mucosal, after retching — bleed), BOERHAAVE syndrome (full-thickness rupture — a surgical emergency with mediastinitis), oesophageal varices, EOSINOPHILIC OESOPHAGITIS (young atopic patients, dysphagia and food impaction, ***RINGED/“TRACHEALISED” oesophagus with >15 eosinophils per high-power field***), and pill oesophagitis (doxycycline, NSAIDs, bisphosphonates).**
+- **Achalasia: failure of lower oesophageal sphincter relaxation with loss of the myenteric plexus, a “BIRD-BEAK” barium appearance and an increased risk of squamous carcinoma; ***CHAGAS DISEASE produces an identical picture.***
 
 **EXAM CONNECTION:** Commonest site of ectopic gastric mucosa → **upper oesophagus**; oesophagitis in a healthy person → **herpes simplex virus**.
 
@@ -1588,19 +1588,19 @@
 
 ### 62. Oesophageal Webs and Rings
 
-**PEARL:** **PLUMMER–VINSON (PATERSON–BROWN-KELLY) SYNDROME = POST-CRICOID OESOPHAGEAL WEB + IRON-DEFICIENCY ANAEMIA + GLOSSITIS + CHEILOSIS, in a woman over 40 — with ***NON-PROGRESSIVE, INTERMITTENT dysphagia (typically to incompletely chewed solids), NOT progressive dysphagia***, and a risk of POST-CRICOID SQUAMOUS CARCINOMA.** Rings, by contrast, sit distally:** TYPE A (muscular) ring lies ABOVE the gastro-oesophageal junction and is covered by SQUAMOUS mucosa; ***TYPE B (SCHATZKI) RING — the commonest — lies AT THE SQUAMOCOLUMNAR JUNCTION, is covered by GASTRIC CARDIA mucosa and is associated with HIATUS HERNIA***, causing "STEAKHOUSE SYNDROME" (intermittent food impaction).
+**PEARL:** **PLUMMER–VINSON (PATERSON–BROWN-KELLY) SYNDROME = POST-CRICOID OESOPHAGEAL WEB + IRON-DEFICIENCY ANAEMIA + GLOSSITIS + CHEILOSIS, in a woman over 40 — with ***NON-PROGRESSIVE, INTERMITTENT dysphagia (typically to incompletely chewed solids), NOT progressive dysphagia***, and a risk of POST-CRICOID SQUAMOUS CARCINOMA.** Rings, by contrast, sit distally:** TYPE A (muscular) ring lies ABOVE the gastro-oesophageal junction and is covered by SQUAMOUS mucosa; ***TYPE B (SCHATZKI) RING — the commonest — lies AT THE SQUAMOCOLUMNAR JUNCTION, is covered by GASTRIC CARDIA mucosa and is associated with HIATUS HERNIA***, causing “STEAKHOUSE SYNDROME” (intermittent food impaction).
 
 **UNDERSTAND:** ***THE PATTERN OF DYSPHAGIA IS THE DIAGNOSIS.*** A **fixed structural narrowing (web, ring) causes INTERMITTENT dysphagia to SOLIDS ONLY, unchanged over years** — the lumen is narrowed but constant. A **growing lesion (carcinoma) causes PROGRESSIVE dysphagia, solids then liquids, with weight loss.** A **motility disorder (achalasia, scleroderma) causes dysphagia to SOLIDS AND LIQUIDS FROM THE START.** One question about the history sorts three families of disease.
 
 **MUST KNOW:**
 
 - **WEBS are thin (mucosa + submucosa), usually PROXIMAL and often semicircumferential; RINGS are thicker (including muscularis) and DISTAL. Both are treated by endoscopic dilatation; iron replacement alone may resolve a Plummer–Vinson web.**
-- **EOSINOPHILIC OESOPHAGITIS is the mimic in children and young men — dysphagia and food impaction with ***MULTIPLE STACKED RINGS ("FELINE"/trachealised oesophagus), longitudinal furrows, white punctate exudates and a fragile "CREPE-PAPER" mucosa***, and ***≥15 EOSINOPHILS PER HIGH-POWER FIELD*** (GORD gives <7). It is atopic/immune-mediated — treated with PPIs, swallowed topical steroids and dietary elimination; GORD is treated for acid.
-- **Oesophageal "most commons": commonest BENIGN tumour — ***LEIOMYOMA***; commonest malignancy WORLDWIDE — ***SQUAMOUS CELL CARCINOMA***; commonest in Western countries — ***ADENOCARCINOMA*** (from Barrett oesophagus). ***THE COMMONEST SITE OF EXTRANODAL GI LYMPHOMA IS THE STOMACH, NOT THE OESOPHAGUS.***
-- **Oesophageal VARICES: the commonest cause worldwide is CIRRHOSIS (usually alcoholic); ***the SECOND commonest is HEPATIC SCHISTOSOMIASIS*** (*S. mansoni*, *S. japonicum* — periportal "pipe-stem" fibrosis with presinusoidal portal hypertension and preserved liver function) — think of it in a traveller or resident of Africa, the Middle East or Brazil with variceal bleeding.
+- **EOSINOPHILIC OESOPHAGITIS is the mimic in children and young men — dysphagia and food impaction with ***MULTIPLE STACKED RINGS (“FELINE”/trachealised oesophagus), longitudinal furrows, white punctate exudates and a fragile “CREPE-PAPER” mucosa***, and ***≥15 EOSINOPHILS PER HIGH-POWER FIELD*** (GORD gives <7). It is atopic/immune-mediated — treated with PPIs, swallowed topical steroids and dietary elimination; GORD is treated for acid.
+- **Oesophageal “most commons”: commonest BENIGN tumour — ***LEIOMYOMA***; commonest malignancy WORLDWIDE — ***SQUAMOUS CELL CARCINOMA***; commonest in Western countries — ***ADENOCARCINOMA*** (from Barrett oesophagus). ***THE COMMONEST SITE OF EXTRANODAL GI LYMPHOMA IS THE STOMACH, NOT THE OESOPHAGUS.***
+- **Oesophageal VARICES: the commonest cause worldwide is CIRRHOSIS (usually alcoholic); ***the SECOND commonest is HEPATIC SCHISTOSOMIASIS*** (*S. mansoni*, *S. japonicum* — periportal “pipe-stem” fibrosis with presinusoidal portal hypertension and preserved liver function) — think of it in a traveller or resident of Africa, the Middle East or Brazil with variceal bleeding.
 - **Other web associations: GORD, chronic graft-versus-host disease and blistering skin diseases.**
 
-**EXAM CONNECTION:** "All seen in Plummer–Vinson EXCEPT" → **progressive dysphagia**; ring above the GOJ → **type A**; varices in a traveller to Africa → **schistosomiasis**.
+**EXAM CONNECTION:** “All seen in Plummer–Vinson EXCEPT” → **progressive dysphagia**; ring above the GOJ → **type A**; varices in a traveller to Africa → **schistosomiasis**.
 
 **REMEMBER:** *Intermittent solids = a fixed ring; progressive solids then liquids = cancer; both from the start = motility.*
 
@@ -1619,19 +1619,19 @@
 
 **PEARL:** **Achalasia is caused by DEGENERATION OF THE INHIBITORY NEURONS OF THE MYENTERIC (AUERBACH) PLEXUS in the distal oesophagus, so there is ***DECREASED RELEASE OF NITRIC OXIDE AND VASOACTIVE INTESTINAL PEPTIDE.*** The triad is:** *INCOMPLETE RELAXATION of the lower oesophageal sphincter, INCREASED LES TONE, and ABSENT PERISTALSIS (aperistalsis).***
 
-**UNDERSTAND:** The LES is normally held closed by **tonic contraction and opened by an active INHIBITORY signal (NO and VIP) delivered by myenteric neurons ahead of the swallowed bolus.** Lose those neurons and **there is nothing to switch the sphincter off** — the excitatory cholinergic supply is unopposed, so the sphincter is hypertensive and fails to relax, while the same neuronal loss along the body abolishes the peristaltic wave. **A "failure to relax" is therefore a failure of INHIBITION, not an excess of contraction** — which is exactly why treatments (botulinum toxin, nitrates, calcium blockers, myotomy) all aim to REDUCE sphincter tone.
+**UNDERSTAND:** The LES is normally held closed by **tonic contraction and opened by an active INHIBITORY signal (NO and VIP) delivered by myenteric neurons ahead of the swallowed bolus.** Lose those neurons and **there is nothing to switch the sphincter off** — the excitatory cholinergic supply is unopposed, so the sphincter is hypertensive and fails to relax, while the same neuronal loss along the body abolishes the peristaltic wave. **A “failure to relax” is therefore a failure of INHIBITION, not an excess of contraction** — which is exactly why treatments (botulinum toxin, nitrates, calcium blockers, myotomy) all aim to REDUCE sphincter tone.
 
 **MUST KNOW:**
 
-- **Clinical: dysphagia to ***SOLIDS AND LIQUIDS SIMULTANEOUSLY***, regurgitation of undigested food, nocturnal cough and aspiration, chest pain and weight loss. Barium shows the ***"BIRD-BEAK"/rat-tail tapering with a dilated proximal oesophagus***; ***MANOMETRY IS DIAGNOSTIC*** (absent peristalsis with incomplete LES relaxation and raised integrated relaxation pressure).
-- ***ENDOSCOPY IS MANDATORY TO EXCLUDE "PSEUDOACHALASIA"*** — a carcinoma of the gastro-oesophageal junction or an infiltrating tumour mimicking achalasia, suspected in older patients with short history and marked weight loss.
+- **Clinical: dysphagia to ***SOLIDS AND LIQUIDS SIMULTANEOUSLY***, regurgitation of undigested food, nocturnal cough and aspiration, chest pain and weight loss. Barium shows the ***“BIRD-BEAK”/rat-tail tapering with a dilated proximal oesophagus***; ***MANOMETRY IS DIAGNOSTIC*** (absent peristalsis with incomplete LES relaxation and raised integrated relaxation pressure).
+- ***ENDOSCOPY IS MANDATORY TO EXCLUDE “PSEUDOACHALASIA”*** — a carcinoma of the gastro-oesophageal junction or an infiltrating tumour mimicking achalasia, suspected in older patients with short history and marked weight loss.
 - **SECONDARY achalasia:** *CHAGAS DISEASE (*Trypanosoma cruzi*) destroys the myenteric plexus and causes an identical picture along with megacolon, megaureter and cardiomyopathy***; also amyloidosis, sarcoidosis and malignancy.
 - **Treatment: PNEUMATIC DILATATION, laparoscopic HELLER MYOTOMY with a fundoplication, or PER-ORAL ENDOSCOPIC MYOTOMY (POEM); botulinum toxin and nitrates/nifedipine for those unfit for procedures. ***ALL TREATMENTS RISK CREATING REFLUX***, since the barrier is deliberately destroyed.
 - ***LONG-STANDING ACHALASIA CARRIES AN INCREASED RISK OF SQUAMOUS CELL CARCINOMA*** from chronic stasis and inflammation.
 
 **EXAM CONNECTION:** True about achalasia → **decreased NO and VIP release in the distal oesophagus**.
 
-**REMEMBER:** *The sphincter cannot relax because the "off" signal is dead, not because the "on" signal is loud.*
+**REMEMBER:** *The sphincter cannot relax because the “off” signal is dead, not because the “on” signal is loud.*
 
 `Q10642`
 
@@ -1641,19 +1641,19 @@
 
 **PEARL:** **Heartburn and dysphagia + RAYNAUD PHENOMENON + CALCINOSIS = LIMITED CUTANEOUS SYSTEMIC SCLEROSIS (CREST): Calcinosis, Raynaud, oEsophageal dysmotility, Sclerodactyly, Telangiectasia — with ***ANTI-CENTROMERE ANTIBODIES.*** ***DIFFUSE systemic sclerosis carries ANTI-SCL-70 (anti-topoisomerase I) and ANTI-RNA POLYMERASE III***, with a far higher risk of internal organ disease.
 
-**UNDERSTAND:** In the oesophagus, **progressive atrophy and fibrous replacement of the SMOOTH MUSCLE of the muscularis propria** produces a **"RUBBER-HOSE" lower two-thirds — inflexible, aperistaltic, with an INCOMPETENT (hypotensive) lower oesophageal sphincter.** Note the contrast with achalasia, which the exam loves: **achalasia has a HYPERtensive non-relaxing sphincter and no reflux; scleroderma has a HYPOtensive sphincter and severe reflux**, hence Barrett metaplasia and peptic stricture. The **UPPER third (striated muscle) is spared**, because the disease is one of smooth muscle.
+**UNDERSTAND:** In the oesophagus, **progressive atrophy and fibrous replacement of the SMOOTH MUSCLE of the muscularis propria** produces a **“RUBBER-HOSE” lower two-thirds — inflexible, aperistaltic, with an INCOMPETENT (hypotensive) lower oesophageal sphincter.** Note the contrast with achalasia, which the exam loves: **achalasia has a HYPERtensive non-relaxing sphincter and no reflux; scleroderma has a HYPOtensive sphincter and severe reflux**, hence Barrett metaplasia and peptic stricture. The **UPPER third (striated muscle) is spared**, because the disease is one of smooth muscle.
 
 **MUST KNOW:**
 
 - **Antibody–disease pairings worth memorising:** *ANTI-CENTROMERE — limited/CREST (better prognosis, but PULMONARY ARTERIAL HYPERTENSION). ANTI-SCL-70 — diffuse disease with INTERSTITIAL LUNG DISEASE. ANTI-RNA POLYMERASE III — diffuse disease with SCLERODERMA RENAL CRISIS and an association with malignancy. ANTI-Jo-1 (histidyl-tRNA synthetase) — POLYMYOSITIS/ANTISYNTHETASE syndrome. ANTI-U1-RNP — MIXED CONNECTIVE TISSUE DISEASE. ANTI-HISTONE — DRUG-INDUCED LUPUS. ANTI-dsDNA and anti-Sm — SLE. ANTI-Ro/La — Sjögren and neonatal lupus.***
 - ***SCLERODERMA RENAL CRISIS*** — abrupt malignant hypertension with microangiopathic haemolysis and acute kidney injury — is treated with ***ACE INHIBITORS, which transformed its prognosis; corticosteroids PRECIPITATE it and should be avoided in high doses.***
-- **GI involvement beyond the oesophagus: gastric antral vascular ectasia ("WATERMELON STOMACH"), small bowel hypomotility with BACTERIAL OVERGROWTH and malabsorption, WIDE-MOUTHED COLONIC DIVERTICULA and pseudo-obstruction.**
+- **GI involvement beyond the oesophagus: gastric antral vascular ectasia (“WATERMELON STOMACH”), small bowel hypomotility with BACTERIAL OVERGROWTH and malabsorption, WIDE-MOUTHED COLONIC DIVERTICULA and pseudo-obstruction.**
 - **Pathogenesis: endothelial injury → fibroblast activation → excess collagen; hence the vascular (Raynaud, digital ulcers, pulmonary hypertension) plus fibrotic (skin, lung, gut) features.**
 - **Reflux management is aggressive PPI therapy; prokinetics for dysmotility; ***nifedipine and iloprost for Raynaud.***
 
 **EXAM CONNECTION:** Heartburn + Raynaud + calcinosis → **anti-centromere antibodies**.
 
-**REMEMBER:** *Achalasia's sphincter is too tight, scleroderma's is too slack — same dysphagia, opposite reflux.*
+**REMEMBER:** *Achalasia’s sphincter is too tight, scleroderma’s is too slack — same dysphagia, opposite reflux.*
 
 **IMAGES:**
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/b92ea928c1f5315959a2e85c195a3c8b.webp)
@@ -1692,19 +1692,19 @@
 
 ### 66. Gastric Adenocarcinoma — Diffuse versus Intestinal
 
-**PEARL:** ***DIFFUSE-TYPE gastric carcinoma is defined by LOSS OF E-CADHERIN (CDH1)*** — germline loss-of-function CDH1 mutation causes ***HEREDITARY DIFFUSE GASTRIC CANCER*** — producing **DISCOHESIVE SIGNET-RING CELLS that infiltrate the wall diffusely to give "LINITIS PLASTICA" (leather-bottle stomach). ***IT DOES NOT FORM A BULKY MASS*** — bulky exophytic tumours are the INTESTINAL type, which arises via chronic gastritis → atrophy → intestinal metaplasia → dysplasia, and is driven by WNT/APC/beta-catenin. **TP53 mutation occurs in both.**
+**PEARL:** ***DIFFUSE-TYPE gastric carcinoma is defined by LOSS OF E-CADHERIN (CDH1)*** — germline loss-of-function CDH1 mutation causes ***HEREDITARY DIFFUSE GASTRIC CANCER*** — producing **DISCOHESIVE SIGNET-RING CELLS that infiltrate the wall diffusely to give “LINITIS PLASTICA” (leather-bottle stomach). ***IT DOES NOT FORM A BULKY MASS*** — bulky exophytic tumours are the INTESTINAL type, which arises via chronic gastritis → atrophy → intestinal metaplasia → dysplasia, and is driven by WNT/APC/beta-catenin. **TP53 mutation occurs in both.**
 
 **UNDERSTAND:** **E-cadherin is the molecule that makes epithelial cells stick to each other.** Delete it and the cells **cannot form glands, cannot form a mass and simply scatter**, each one filling with mucin that pushes the nucleus aside — the signet-ring appearance. Every clinical feature follows: **the tumour is hard to see endoscopically, presents late, spreads transmurally and peritoneally, affects younger patients, has no sex predilection and carries a worse prognosis.** The same E-cadherin loss defines ***LOBULAR CARCINOMA OF THE BREAST***, which behaves in the same infiltrative, difficult-to-detect way.
 
 **MUST KNOW:**
 
 - ***CARRIERS OF A GERMLINE CDH1 MUTATION ARE OFFERED PROPHYLACTIC TOTAL GASTRECTOMY*** and (in women) breast surveillance for lobular carcinoma — one of the few genotype-driven prophylactic surgeries.
-- **Metastatic eponyms:** *VIRCHOW'S NODE (left supraclavicular), SISTER MARY JOSEPH NODULE (periumbilical), KRUKENBERG TUMOUR (bilateral ovarian signet-ring metastases), BLUMER'S SHELF (rectovesical/pouch deposit) and IRISH'S NODE (left axillary).***
-- ***THE MOST IMPORTANT PROGNOSTIC FACTOR IN OESOPHAGEAL AND GASTRIC CARCINOMA IS DEPTH OF INVASION*** ("early gastric cancer" is confined to mucosa/submucosa regardless of nodal status, and has an excellent prognosis).
+- **Metastatic eponyms:** *VIRCHOW’S NODE (left supraclavicular), SISTER MARY JOSEPH NODULE (periumbilical), KRUKENBERG TUMOUR (bilateral ovarian signet-ring metastases), BLUMER’S SHELF (rectovesical/pouch deposit) and IRISH’S NODE (left axillary).***
+- ***THE MOST IMPORTANT PROGNOSTIC FACTOR IN OESOPHAGEAL AND GASTRIC CARCINOMA IS DEPTH OF INVASION*** (“early gastric cancer” is confined to mucosa/submucosa regardless of nodal status, and has an excellent prognosis).
 - **GASTRIC MALT LYMPHOMA: dense lymphoid infiltrate with ***LYMPHOEPITHELIAL LESIONS***, driven by *H. pylori*; the cells express B-cell markers ***CD19 and CD20, are CD5- and CD10-NEGATIVE, and are CD43-positive in ~25%*** (an aberrant T-cell marker that is diagnostically useful). ***t(11;18) PREDICTS FAILURE TO RESPOND TO ERADICATION THERAPY.***
 - **GASTROINTESTINAL STROMAL TUMOUR (GIST) arises from the interstitial cells of Cajal, is ***c-KIT (CD117) and DOG1 POSITIVE***, is driven by KIT/PDGFRA mutations and is treated with IMATINIB — the classic differential of a submucosal gastric mass.**
 
-**EXAM CONNECTION:** Germline mutation in familial gastric cancer → **CDH1**; "all true about diffuse gastric cancer EXCEPT" → **bulky tumour**; markers NOT expressed by gastric MALToma → **CD10**.
+**EXAM CONNECTION:** Germline mutation in familial gastric cancer → **CDH1**; “all true about diffuse gastric cancer EXCEPT” → **bulky tumour**; markers NOT expressed by gastric MALToma → **CD10**.
 
 **REMEMBER:** *No E-cadherin, no cohesion — the cells scatter, the stomach stiffens and nothing forms a lump.*
 
@@ -1717,14 +1717,14 @@
 
 ### 67. Hypertrophic Pyloric Stenosis and Upper GI Bleeding Lesions
 
-**PEARL:** **A 3–6-week-old (usually male) with PROJECTILE NON-BILIOUS vomiting after feeds, visible left-to-right gastric PERISTALSIS and a palpable "OLIVE" in the right upper quadrant has CONGENITAL HYPERTROPHIC PYLORIC STENOSIS** — associated with **TURNER syndrome, trisomy 18 and, importantly, ***EXPOSURE TO ERYTHROMYCIN OR AZITHROMYCIN in the first 2 weeks of life (including through breast milk)***; treated by **RAMSTEDT PYLOROMYOTOMY.** In the adult stomach, **"WATERMELON STOMACH" (longitudinal red stripes radiating from the pylorus) = GASTRIC ANTRAL VASCULAR ECTASIA**, and a **single bleeding point with no ulcer = DIEULAFOY LESION** (an abnormally large submucosal artery that fails to taper).
+**PEARL:** **A 3–6-week-old (usually male) with PROJECTILE NON-BILIOUS vomiting after feeds, visible left-to-right gastric PERISTALSIS and a palpable “OLIVE” in the right upper quadrant has CONGENITAL HYPERTROPHIC PYLORIC STENOSIS** — associated with **TURNER syndrome, trisomy 18 and, importantly, ***EXPOSURE TO ERYTHROMYCIN OR AZITHROMYCIN in the first 2 weeks of life (including through breast milk)***; treated by **RAMSTEDT PYLOROMYOTOMY.** In the adult stomach, **“WATERMELON STOMACH” (longitudinal red stripes radiating from the pylorus) = GASTRIC ANTRAL VASCULAR ECTASIA**, and a **single bleeding point with no ulcer = DIEULAFOY LESION** (an abnormally large submucosal artery that fails to taper).
 
 **UNDERSTAND:** The vomiting is **NON-BILIOUS because the obstruction is PROXIMAL to the ampulla of Vater** — a single anatomical fact that distinguishes it from duodenal atresia and malrotation, where vomiting is BILIOUS. The metabolic consequence follows just as directly: loss of gastric HCl alone gives ***HYPOCHLORAEMIC, HYPOKALAEMIC METABOLIC ALKALOSIS WITH PARADOXICAL ACIDURIA*** (the kidney, desperate to retain sodium and volume, exchanges hydrogen ions despite the alkalosis).
 
 **MUST KNOW:**
 
 - ***THE BABY MUST BE RESUSCITATED AND THE ALKALOSIS CORRECTED BEFORE SURGERY*** — pyloric stenosis is a MEDICAL emergency and a SURGICAL elective; anaesthetising an alkalotic baby risks postoperative apnoea. Diagnosis is by ULTRASOUND (pyloric muscle thickness >3–4 mm, channel length >15–17 mm).
-- **Erythromycin's association is thought to be motilin-receptor agonism causing pyloric hypercontraction and hypertrophy — hence AZITHROMYCIN is preferred for neonatal pertussis, though the risk is not zero.**
+- **Erythromycin’s association is thought to be motilin-receptor agonism causing pyloric hypercontraction and hypertrophy — hence AZITHROMYCIN is preferred for neonatal pertussis, though the risk is not zero.**
 - **GAVE occurs with cirrhosis, systemic sclerosis, chronic renal failure and autoimmune disease; it causes chronic iron-deficiency anaemia and is treated with argon plasma coagulation. It must be distinguished from PORTAL HYPERTENSIVE GASTROPATHY (mosaic/snakeskin mucosa in the body and fundus), which responds to portal pressure reduction rather than ablation.**
 - **Dieulafoy lesions typically lie in the proximal stomach along the lesser curve and cause ***MASSIVE, RECURRENT, PAINLESS bleeding with a normal-looking mucosa*** — easily missed at first endoscopy.
 - ***THE COMMONEST SITE OF PEPTIC ULCER IS THE ANTERIOR WALL OF THE FIRST PART OF THE DUODENUM***; gastric ulcers cluster on the LESSER CURVE at the body–antrum junction. ***A POSTERIOR duodenal ulcer erodes the GASTRODUODENAL ARTERY and BLEEDS; an ANTERIOR one PERFORATES.***
@@ -1750,7 +1750,7 @@
 
 **MUST KNOW:**
 
-- **Whipple's clinical triad:** *DIARRHOEA, WEIGHT LOSS AND ARTHRALGIA*** (arthralgia often precedes the diarrhoea by years), with lymphadenopathy, hyperpigmentation, endocarditis and CNS disease (OCULOMASTICATORY MYORHYTHMIA is pathognomonic); it is a disease of MIDDLE-AGED WHITE MEN and is treated with prolonged antibiotics that cross the blood–brain barrier (ceftriaxone then cotrimoxazole).
+- **Whipple’s clinical triad:** *DIARRHOEA, WEIGHT LOSS AND ARTHRALGIA*** (arthralgia often precedes the diarrhoea by years), with lymphadenopathy, hyperpigmentation, endocarditis and CNS disease (OCULOMASTICATORY MYORHYTHMIA is pathognomonic); it is a disease of MIDDLE-AGED WHITE MEN and is treated with prolonged antibiotics that cross the blood–brain barrier (ceftriaxone then cotrimoxazole).
 - ***DISTENDED FOAMY PAS-POSITIVE MACROPHAGES IN THE LAMINA PROPRIA OCCUR IN BOTH WHIPPLE DISEASE AND INTESTINAL/MAC TUBERCULOSIS — SO PAS CANNOT SEPARATE THEM. AN ACID-FAST STAIN DOES: mycobacteria are acid-fast, *T. whipplei* is not.*** In an HIV-positive patient, *Mycobacterium avium* complex is the likelier answer.
 - **COELIAC DISEASE: anti-tissue transglutaminase and anti-endomysial IgA antibodies, HLA-DQ2/DQ8, duodenal biopsy showing ***INTRAEPITHELIAL LYMPHOCYTOSIS, CRYPT HYPERPLASIA AND VILLOUS ATROPHY (Marsh grading)***, dermatitis herpetiformis, and a risk of ENTEROPATHY-ASSOCIATED T-CELL LYMPHOMA. ***CHECK TOTAL IgA — selective IgA deficiency causes false-negative serology.***
 - **TROPICAL SPRUE affects the whole small bowel including the ILEUM (hence B12 and folate deficiency) and responds to tetracycline and folate; coeliac disease is proximal.**
@@ -1781,7 +1781,7 @@
 - **Microvillus inclusion disease: diagnosis is supported by ***VILLIN and CD10 immunostaining showing an abnormal apical/intracytoplasmic pattern***; treatment is lifelong TOTAL PARENTERAL NUTRITION and small bowel transplantation. Villous atrophy is present WITHOUT inflammation.
 - **The differential of congenital diarrhoea: SECRETORY (persists on fasting) — microvillus inclusion disease, tufting enteropathy, congenital chloride/sodium diarrhoea. OSMOTIC (stops on fasting) — congenital lactase and sucrase-isomaltase deficiency, glucose-galactose malabsorption. IMMUNE — IPEX, severe combined immunodeficiency, very-early-onset IBD (IL-10 receptor defects). ***ALWAYS ASK WHETHER THE DIARRHOEA STOPS WHEN FEEDS STOP.***
 - **ABETALIPOPROTEINAEMIA (MTP gene): failure of chylomicron assembly — fat-laden enterocytes, ***ACANTHOCYTES***, absent LDL/VLDL, fat-soluble vitamin deficiency with retinitis pigmentosa and spinocerebellar degeneration; treated with a low-fat diet and huge doses of vitamin E.
-- **AUTOIMMUNE POLYENDOCRINE SYNDROME TYPE 1 (APECED, AIRE gene) is the other "loss of tolerance" mendelian disease — candidiasis, hypoparathyroidism and adrenal failure — and pairs conceptually with IPEX (central vs peripheral tolerance).**
+- **AUTOIMMUNE POLYENDOCRINE SYNDROME TYPE 1 (APECED, AIRE gene) is the other “loss of tolerance” mendelian disease — candidiasis, hypoparathyroidism and adrenal failure — and pairs conceptually with IPEX (central vs peripheral tolerance).**
 
 **EXAM CONNECTION:** Intractable diarrhoea + thyroiditis + eczema → **FOXP3**; microvillus inclusions on EM → **MYO5B**.
 
@@ -1796,17 +1796,17 @@
 
 ### 70. Paediatric Structural Gut Disease — Meckel, Intussusception, Hirschsprung
 
-**PEARL:** ***THE COMMONEST CAUSE OF INTESTINAL OBSTRUCTION UNDER 2 YEARS IS INTUSSUSCEPTION.*** **MECKEL'S DIVERTICULUM is the commonest congenital GI anomaly, a TRUE diverticulum of the ILEUM from failed involution of the vitelline duct.** **ACQUIRED (FALSE) DIVERTICULA are commonest in the SIGMOID COLON.** **CROHN'S DISEASE most often involves the TERMINAL ILEUM; POLYPS are commonest in the COLORECTUM.** ***HIRSCHSPRUNG DISEASE is caused by ARREST OF THE CRANIOCAUDAL MIGRATION OF NEURAL CREST CELLS***, leaving a distal AGANGLIONIC segment (absent Meissner and Auerbach plexuses) — and ~10% of cases occur in ***DOWN SYNDROME.***
+**PEARL:** ***THE COMMONEST CAUSE OF INTESTINAL OBSTRUCTION UNDER 2 YEARS IS INTUSSUSCEPTION.*** **MECKEL’S DIVERTICULUM is the commonest congenital GI anomaly, a TRUE diverticulum of the ILEUM from failed involution of the vitelline duct.** **ACQUIRED (FALSE) DIVERTICULA are commonest in the SIGMOID COLON.** **CROHN’S DISEASE most often involves the TERMINAL ILEUM; POLYPS are commonest in the COLORECTUM.** ***HIRSCHSPRUNG DISEASE is caused by ARREST OF THE CRANIOCAUDAL MIGRATION OF NEURAL CREST CELLS***, leaving a distal AGANGLIONIC segment (absent Meissner and Auerbach plexuses) — and ~10% of cases occur in ***DOWN SYNDROME.***
 
-**UNDERSTAND:** Hirschsprung's anatomy is dictated entirely by the direction of migration: **neural crest cells travel from the proximal gut DOWNWARDS to the rectum, so an arrest always leaves the DISTAL segment aganglionic and the disease is CONTINUOUS FROM THE ANUS UPWARDS** — never a skip lesion. The **narrow segment is the DISEASED one and the dilated proximal bowel is NORMAL**, which is the single most misread fact on a barium enema. Likewise, a Meckel's diverticulum is a **TRUE diverticulum (all three layers) because it is an embryological remnant**, whereas colonic diverticula are **PULSION herniations of mucosa through the muscle at points of vascular penetration — hence FALSE.**
+**UNDERSTAND:** Hirschsprung’s anatomy is dictated entirely by the direction of migration: **neural crest cells travel from the proximal gut DOWNWARDS to the rectum, so an arrest always leaves the DISTAL segment aganglionic and the disease is CONTINUOUS FROM THE ANUS UPWARDS** — never a skip lesion. The **narrow segment is the DISEASED one and the dilated proximal bowel is NORMAL**, which is the single most misread fact on a barium enema. Likewise, a Meckel’s diverticulum is a **TRUE diverticulum (all three layers) because it is an embryological remnant**, whereas colonic diverticula are **PULSION herniations of mucosa through the muscle at points of vascular penetration — hence FALSE.**
 
 **MUST KNOW:**
 
-- **Meckel's "RULE OF 2s": 2% of the population, within 2 FEET of the ileocaecal valve, 2 INCHES long, 2 types of ectopic tissue (GASTRIC and pancreatic), usually symptomatic before age 2, male:female 2:1. ***PAINLESS RECTAL BLEEDING*** from acid secreted by ectopic gastric mucosa is the classic presentation; diagnosed by a ***TECHNETIUM-99m PERTECHNETATE ("MECKEL") SCAN***, which is taken up by gastric mucosa. It can also cause intussusception, volvulus and diverticulitis mimicking appendicitis.
-- **Intussusception: 6–18 months, ***COLICKY PAIN WITH DRAWING UP OF THE LEGS, a SAUSAGE-SHAPED MASS and "REDCURRANT JELLY" STOOL***; usually ILEOCOLIC and idiopathic (hypertrophied Peyer's patches after viral infection or rotavirus vaccine), with a pathological lead point (Meckel's, polyp, lymphoma, HSP) commoner over 2 years. Ultrasound shows the ***"TARGET"/DOUGHNUT sign***; treatment is ***AIR OR HYDROSTATIC ENEMA REDUCTION*** unless there is peritonitis or perforation.
+- **Meckel’s “RULE OF 2s”: 2% of the population, within 2 FEET of the ileocaecal valve, 2 INCHES long, 2 types of ectopic tissue (GASTRIC and pancreatic), usually symptomatic before age 2, male:female 2:1. ***PAINLESS RECTAL BLEEDING*** from acid secreted by ectopic gastric mucosa is the classic presentation; diagnosed by a ***TECHNETIUM-99m PERTECHNETATE (“MECKEL”) SCAN***, which is taken up by gastric mucosa. It can also cause intussusception, volvulus and diverticulitis mimicking appendicitis.
+- **Intussusception: 6–18 months, ***COLICKY PAIN WITH DRAWING UP OF THE LEGS, a SAUSAGE-SHAPED MASS and “REDCURRANT JELLY” STOOL***; usually ILEOCOLIC and idiopathic (hypertrophied Peyer’s patches after viral infection or rotavirus vaccine), with a pathological lead point (Meckel’s, polyp, lymphoma, HSP) commoner over 2 years. Ultrasound shows the ***“TARGET”/DOUGHNUT sign***; treatment is ***AIR OR HYDROSTATIC ENEMA REDUCTION*** unless there is peritonitis or perforation.
 - **Hirschsprung: delayed passage of meconium >48 hours, abdominal distension, an empty rectum with an explosive gush on withdrawal of the examining finger; ***RECTAL SUCTION BIOPSY showing ABSENT ganglion cells with HYPERTROPHIED NERVE TRUNKS and increased ACETYLCHOLINESTERASE is diagnostic***; treated by pull-through surgery. ***ENTEROCOLITIS IS THE LIFE-THREATENING COMPLICATION.*** RET mutations are implicated.
 - **Acquired megacolon (for contrast):** *CHAGAS DISEASE (destruction of existing ganglion cells)***, visceral myopathy, obstruction by tumour or stricture, and TOXIC MEGACOLON in ulcerative colitis or *C. difficile* colitis.
-- **GI anomalies by syndrome: DOWN — duodenal atresia, annular pancreas, Hirschsprung; EDWARDS — Meckel's, malrotation; PATAU — omphalocele, incomplete rotation.**
+- **GI anomalies by syndrome: DOWN — duodenal atresia, annular pancreas, Hirschsprung; EDWARDS — Meckel’s, malrotation; PATAU — omphalocele, incomplete rotation.**
 
 **EXAM CONNECTION:** Commonest obstruction under 2 years → **intussusception**; pathogenesis of Hirschsprung → **failure of neural crest cell migration**; Hirschsprung association → **Down syndrome**.
 
@@ -1823,14 +1823,14 @@
 
 ### 71. Colitis, Ischaemia and Infectious Sequelae
 
-**PEARL:** ***"MICROSCOPIC COLITIS" MEANS EXACTLY TWO DISEASES — COLLAGENOUS COLITIS AND LYMPHOCYTIC COLITIS***: chronic, WATERY, NON-BLOODY diarrhoea WITHOUT weight loss, with a ***NORMAL ENDOSCOPIC APPEARANCE*** and diagnosis made only on biopsy. **The COMMONEST SITE OF GI ISCHAEMIA IS THE COLON**, at the ***WATERSHED ZONES — the SPLENIC FLEXURE (SMA/IMA junction) and the RECTOSIGMOID JUNCTION (IMA/pudendal-iliac junction).*** ***CAMPYLOBACTER*** infection is followed by **REACTIVE ARTHRITIS (HLA-B27), ERYTHEMA NODOSUM and GUILLAIN–BARRÉ SYNDROME — but NOT aplastic crisis (that is PARVOVIRUS B19).**
+**PEARL:** ***“MICROSCOPIC COLITIS” MEANS EXACTLY TWO DISEASES — COLLAGENOUS COLITIS AND LYMPHOCYTIC COLITIS***: chronic, WATERY, NON-BLOODY diarrhoea WITHOUT weight loss, with a ***NORMAL ENDOSCOPIC APPEARANCE*** and diagnosis made only on biopsy. **The COMMONEST SITE OF GI ISCHAEMIA IS THE COLON**, at the ***WATERSHED ZONES — the SPLENIC FLEXURE (SMA/IMA junction) and the RECTOSIGMOID JUNCTION (IMA/pudendal-iliac junction).*** ***CAMPYLOBACTER*** infection is followed by **REACTIVE ARTHRITIS (HLA-B27), ERYTHEMA NODOSUM and GUILLAIN–BARRÉ SYNDROME — but NOT aplastic crisis (that is PARVOVIRUS B19).**
 
-**UNDERSTAND:** **Watershed zones are the "last field of the sprinkler"** — the most distal territory of two arterial supplies, so they perfuse at the lowest pressure and infarct first in any hypotensive episode. The **mucosa suffers before the muscle** because the villous tips sit at the end of the countercurrent capillary loops — hence **mucosal and mural infarction (survivable) versus transmural infarction (requiring resection).** Campylobacter's neurological sequel is pure ***MOLECULAR MIMICRY***: its lipo-oligosaccharide resembles peripheral nerve GANGLIOSIDES (GM1/GQ1b), so the antibody made against the gut infection attacks the nerve.
+**UNDERSTAND:** **Watershed zones are the “last field of the sprinkler”** — the most distal territory of two arterial supplies, so they perfuse at the lowest pressure and infarct first in any hypotensive episode. The **mucosa suffers before the muscle** because the villous tips sit at the end of the countercurrent capillary loops — hence **mucosal and mural infarction (survivable) versus transmural infarction (requiring resection).** Campylobacter’s neurological sequel is pure ***MOLECULAR MIMICRY***: its lipo-oligosaccharide resembles peripheral nerve GANGLIOSIDES (GM1/GQ1b), so the antibody made against the gut infection attacks the nerve.
 
 **MUST KNOW:**
 
 - **COLLAGENOUS colitis — a THICKENED SUBEPITHELIAL COLLAGEN BAND, middle-aged women. LYMPHOCYTIC colitis — a NORMAL collagen layer but INCREASED INTRAEPITHELIAL LYMPHOCYTES, and a strong association with ***COELIAC DISEASE***, Graves disease and rheumatoid arthritis. Both are linked to drugs (NSAIDs, PPIs, sertraline) and treated with budesonide.
-- **ISCHAEMIC COLITIS presents with sudden left-sided pain and bloody diarrhoea in an older patient, with "THUMBPRINTING" on imaging; ACUTE MESENTERIC ISCHAEMIA (SMA embolus/thrombosis) presents with ***PAIN OUT OF PROPORTION TO PHYSICAL FINDINGS***, is a surgical emergency, and is associated with atrial fibrillation. Non-occlusive ischaemia occurs in shock and with vasopressors.
+- **ISCHAEMIC COLITIS presents with sudden left-sided pain and bloody diarrhoea in an older patient, with “THUMBPRINTING” on imaging; ACUTE MESENTERIC ISCHAEMIA (SMA embolus/thrombosis) presents with ***PAIN OUT OF PROPORTION TO PHYSICAL FINDINGS***, is a surgical emergency, and is associated with atrial fibrillation. Non-occlusive ischaemia occurs in shock and with vasopressors.
 - **Guillain–Barré syndrome: ascending flaccid paralysis with AREFLEXIA, ***ALBUMINOCYTOLOGICAL DISSOCIATION IN THE CSF (high protein, normal cells)***, treated with IVIG or plasma exchange (***NOT steroids***); ***MONITOR THE VITAL CAPACITY*** — respiratory failure, not weakness, is what kills. *Campylobacter* is its commonest antecedent infection, and the axonal (AMAN) variant is particularly associated with it.
 - **Other post-infectious sequelae worth pairing:** *E. COLI O157:H7 → HAEMOLYTIC URAEMIC SYNDROME (and antibiotics INCREASE that risk); SHIGELLA/Salmonella/Yersinia/Chlamydia → REACTIVE ARTHRITIS; YERSINIA → pseudoappendicitis and erythema nodosum; C. DIFFICILE → pseudomembranous colitis after antibiotics.***
 - **ROTAVIRUS destroys mature enterocytes and produces an enterotoxin-like ***NON-STRUCTURAL PROTEIN 4 (NSP4)***, which drives epithelial apoptosis and secretion — the vaccine target that halved childhood diarrhoeal deaths.
@@ -1847,7 +1847,7 @@
 
 **PEARL:** **Carcinoid secretions differ by SITE: STOMACH — histamine, somatostatin, serotonin. DUODENUM — GASTRIN, somatostatin, cholecystokinin. JEJUNUM AND ILEUM — SEROTONIN, SUBSTANCE P, polypeptide YY. COLON — serotonin, polypeptide YY. ***NORADRENALINE IS NOT A CARCINOID PRODUCT*** (it belongs to phaeochromocytoma/paraganglioma).** Prognosis depends on ***HISTOLOGICAL DIFFERENTIATION, MITOTIC RATE and Ki-67 — NOT on which hormone is secreted.*** The tumour cells are ***SYNAPTOPHYSIN, chromogranin A and NSE positive.***
 
-**UNDERSTAND:** The secretory profile follows **embryological origin, because each gut segment's native endocrine cells are what the tumour recapitulates.** FOREGUT (stomach, duodenum) tumours secrete histamine and gastrin and are often ***ARGENTAFFIN-NEGATIVE with LOW serotonin***; MIDGUT (jejunum, ileum, appendix) tumours are the ***classic SEROTONIN-producing, argentaffin-positive tumours that cause CARCINOID SYNDROME***; HINDGUT tumours are frequently non-functional. Knowing the embryology predicts both the hormone and the syndrome.
+**UNDERSTAND:** The secretory profile follows **embryological origin, because each gut segment’s native endocrine cells are what the tumour recapitulates.** FOREGUT (stomach, duodenum) tumours secrete histamine and gastrin and are often ***ARGENTAFFIN-NEGATIVE with LOW serotonin***; MIDGUT (jejunum, ileum, appendix) tumours are the ***classic SEROTONIN-producing, argentaffin-positive tumours that cause CARCINOID SYNDROME***; HINDGUT tumours are frequently non-functional. Knowing the embryology predicts both the hormone and the syndrome.
 
 **MUST KNOW:**
 
@@ -1871,7 +1871,7 @@
 
 ### 73. *Clostridioides difficile* Colitis
 
-**PEARL:** **Watery diarrhoea and abdominal pain after antibiotics, with biopsy showing a damaged crypt spewing a plume of mucopurulent exudate and neutrophils into the lumen — the ***"VOLCANO" OR "MUSHROOM-CLOUD" LESION*** — is *CLOSTRIDIOIDES DIFFICILE* COLITIS, whose confluent exudates form the ***PSEUDOMEMBRANES.*** Risk factors:** ANTIBIOTIC USE, ADVANCED AGE, ACID SUPPRESSION (PPIs and H2 blockers), hospitalisation and immunosuppression.**
+**PEARL:** **Watery diarrhoea and abdominal pain after antibiotics, with biopsy showing a damaged crypt spewing a plume of mucopurulent exudate and neutrophils into the lumen — the ***“VOLCANO” OR “MUSHROOM-CLOUD” LESION*** — is *CLOSTRIDIOIDES DIFFICILE* COLITIS, whose confluent exudates form the ***PSEUDOMEMBRANES.*** Risk factors:** ANTIBIOTIC USE, ADVANCED AGE, ACID SUPPRESSION (PPIs and H2 blockers), hospitalisation and immunosuppression.**
 
 **UNDERSTAND:** The disease is a **failure of COLONISATION RESISTANCE, not an ordinary infection** — antibiotics wipe out the commensal flora, letting spores germinate and the organism produce ***TOXIN A (enterotoxin) and TOXIN B (cytotoxin), which glucosylate Rho GTPases, disrupt the actin cytoskeleton and cause epithelial apoptosis and tight-junction breakdown.*** This is precisely why the treatment is **narrow-spectrum (vancomycin/fidaxomicin) and why FAECAL MICROBIOTA TRANSPLANTATION cures recurrent disease** — restoring the flora restores resistance.
 
@@ -1900,11 +1900,11 @@
 
 **PEARL:** ***CROHN DISEASE is associated with NOD2*** (also ATG16L1 and IRGM — all handlers of intracellular bacteria); ulcerative colitis with ECM1 and HNF4A. Crohn: **SKIP LESIONS anywhere from mouth to anus (commonest at the TERMINAL ILEUM), COBBLESTONE mucosa, APHTHOUS and deep linear ulcers, TRANSMURAL inflammation with NON-CASEATING GRANULOMAS, fistulae, strictures and perianal disease.** ***ITS HEPATOBILIARY ASSOCIATION IS PRIMARY SCLEROSING CHOLANGITIS (more strongly in ULCERATIVE COLITIS) — NOT PRIMARY BILIARY CHOLANGITIS.***
 
-**UNDERSTAND:** Crohn's genetics explain its pathology. **NOD2 is an intracellular sensor of bacterial peptidoglycan; ATG16L1 and IRGM run autophagy.** Defective handling of intracellular bacteria means the mucosal immune system **cannot clear luminal organisms and mounts a chronic, granulomatous, TRANSMURAL response instead** — and transmural inflammation is the single fact from which fistulae, abscesses, strictures, fat-wrapping and skip lesions all follow. Ulcerative colitis, by contrast, is **MUCOSAL AND CONTINUOUS from the rectum proximally**, so it bleeds, causes tenesmus and can be cured by colectomy.
+**UNDERSTAND:** Crohn’s genetics explain its pathology. **NOD2 is an intracellular sensor of bacterial peptidoglycan; ATG16L1 and IRGM run autophagy.** Defective handling of intracellular bacteria means the mucosal immune system **cannot clear luminal organisms and mounts a chronic, granulomatous, TRANSMURAL response instead** — and transmural inflammation is the single fact from which fistulae, abscesses, strictures, fat-wrapping and skip lesions all follow. Ulcerative colitis, by contrast, is **MUCOSAL AND CONTINUOUS from the rectum proximally**, so it bleeds, causes tenesmus and can be cured by colectomy.
 
 **MUST KNOW:**
 
-- **Discriminators: CROHN — skip lesions, transmural, granulomas (~35%), fistulae/perianal disease, strictures, "STRING SIGN" on barium, malabsorption and B12 deficiency, ***SMOKING WORSENS IT***, p-ANCA negative/ASCA positive. UC — continuous from the rectum, mucosal only, ***CRYPT ABSCESSES AND GOBLET-CELL DEPLETION with PSEUDOPOLYPS and a LEAD-PIPE colon***, bloody diarrhoea with mucus, ***SMOKING IS PROTECTIVE AND APPENDICECTOMY REDUCES RISK***, p-ANCA positive, and it is the one that can end in TOXIC MEGACOLON.
+- **Discriminators: CROHN — skip lesions, transmural, granulomas (~35%), fistulae/perianal disease, strictures, “STRING SIGN” on barium, malabsorption and B12 deficiency, ***SMOKING WORSENS IT***, p-ANCA negative/ASCA positive. UC — continuous from the rectum, mucosal only, ***CRYPT ABSCESSES AND GOBLET-CELL DEPLETION with PSEUDOPOLYPS and a LEAD-PIPE colon***, bloody diarrhoea with mucus, ***SMOKING IS PROTECTIVE AND APPENDICECTOMY REDUCES RISK***, p-ANCA positive, and it is the one that can end in TOXIC MEGACOLON.
 - **Extraintestinal manifestations (shared): uveitis and episcleritis, migratory polyarthritis, sacroiliitis and ANKYLOSING SPONDYLITIS (HLA-B27), ERYTHEMA NODOSUM, PYODERMA GANGRENOSUM, clubbing, aphthous stomatitis, primary sclerosing cholangitis, amyloidosis and thromboembolism. ***ERYTHEMA NODOSUM AND ARTHRITIS TRACK WITH DISEASE ACTIVITY; PSC, ANKYLOSING SPONDYLITIS AND UVEITIS DO NOT.***
 - ***COLORECTAL CANCER RISK RISES WITH DURATION AND EXTENT OF COLITIS (both diseases) — SURVEILLANCE COLONOSCOPY WITH BIOPSIES FROM ABOUT 8–10 YEARS.*** Coexisting PSC raises the risk further and mandates earlier, annual surveillance.
 - **Crohn complications: OXALATE renal stones and GALLSTONES after ileal disease/resection, B12 deficiency, short bowel syndrome, enterocutaneous and enterovesical fistulae, and abscess.**
@@ -1957,7 +1957,7 @@
 - ***THE GOBLET-CELL VARIANT of appendiceal carcinoid (goblet cell adenocarcinoma) BEHAVES MORE AGGRESSIVELY*** than a classic carcinoid, which is usually a benign bulbous swelling at the appendiceal tip found incidentally.
 - **Other polyposis syndromes: COWDEN syndrome (PTEN — trichilemmomas, breast and thyroid cancer), CRONKHITE–CANADA (non-hereditary, alopecia, nail atrophy, hyperpigmentation) and inflammatory pseudopolyps of IBD.**
 
-**EXAM CONNECTION:** Cystically dilated glands in a child's rectal polyp → **juvenile polyp**; incorrect about Peutz–Jeghers → **autosomal recessive inheritance**; incorrect about appendiceal tumours → **that primary adenocarcinoma is serous** (it is mucinous).
+**EXAM CONNECTION:** Cystically dilated glands in a child’s rectal polyp → **juvenile polyp**; incorrect about Peutz–Jeghers → **autosomal recessive inheritance**; incorrect about appendiceal tumours → **that primary adenocarcinoma is serous** (it is mucinous).
 
 **REMEMBER:** *Juvenile polyps swell the stroma; Peutz–Jeghers polyps branch muscle through it.*
 
@@ -2002,16 +2002,16 @@
 
 ### 78. Oesophageal Carcinoma — Recognising the Type
 
-**PEARL:** **Exophytic growth in the MIDDLE THIRD with an "apple-core" stricture on barium and KERATIN PEARLS with nests of stratified malignant cells on histology = SQUAMOUS CELL CARCINOMA.**
+**PEARL:** **Exophytic growth in the MIDDLE THIRD with an “apple-core” stricture on barium and KERATIN PEARLS with nests of stratified malignant cells on histology = SQUAMOUS CELL CARCINOMA.**
 
-**UNDERSTAND:** Location predicts histology because it predicts the **native epithelium and the causative injury**. The upper two-thirds are lined by **squamous** epithelium exposed to **smoke, alcohol and hot beverages**; the lower third suffers **acid reflux → Barrett's intestinal metaplasia → ADENOCARCINOMA**. Keratin pearls confirm squamous differentiation.
+**UNDERSTAND:** Location predicts histology because it predicts the **native epithelium and the causative injury**. The upper two-thirds are lined by **squamous** epithelium exposed to **smoke, alcohol and hot beverages**; the lower third suffers **acid reflux → Barrett’s intestinal metaplasia → ADENOCARCINOMA**. Keratin pearls confirm squamous differentiation.
 
 **MUST KNOW:**
 
 - **SCC** — middle third commonest; risk factors **smoking, alcohol, hot drinks, nitrosamines, achalasia, Plummer–Vinson syndrome, lye stricture, tylosis, HPV**. Predominant type worldwide and in India.
 - **Adenocarcinoma** — **lower third**, from **Barrett oesophagus**; risk factors **GORD, obesity, male sex**; rising incidence in the West.
 - Presentation for both: **progressive dysphagia — solids before liquids — with weight loss**; contrast the **dysphagia to both solids and liquids from the outset** in achalasia.
-- **Barium "rat-tail/bird-beak"** = achalasia; **"apple-core"/irregular shouldered stricture** = malignancy.
+- **Barium “rat-tail/bird-beak”** = achalasia; **“apple-core”/irregular shouldered stricture** = malignancy.
 - Staging by **endoscopic ultrasound (T and N) and CT/PET (M)**; the oesophagus **has no serosa**, which is why local spread and recurrence are common.
 
 **EXAM CONNECTION:** Multi-image question — match the endoscopic and barium appearance to the correct histology slide (**keratin pearls**, not glandular formation).
@@ -2033,7 +2033,7 @@
 
 **PEARL:** **p53 mutation is associated with the INVASIVE phase**, distinguishing it from **APC and KRAS**, which occur in the **pre-invasive** (adenoma) stages.
 
-**UNDERSTAND: **Sequence:** APC loss ("gatekeeper", the first hit → hyperproliferative epithelium) → KRAS activation (adenoma growth) → SMAD4/DCC loss → p53 loss (the final step permitting invasion)**. p53 is the **"guardian of the genome"** — while it works, genetically damaged cells are arrested or killed; once it goes, invasion follows.
+**UNDERSTAND: **Sequence:** APC loss (“gatekeeper”, the first hit → hyperproliferative epithelium) → KRAS activation (adenoma growth) → SMAD4/DCC loss → p53 loss (the final step permitting invasion)**. p53 is the **“guardian of the genome”** — while it works, genetically damaged cells are arrested or killed; once it goes, invasion follows.
 
 **MUST KNOW:** This is the **chromosomal instability pathway (~80%)**. The alternative is the **microsatellite instability pathway (MMR genes — Lynch syndrome)**: right-sided, mucinous/poorly differentiated, better prognosis, and **responsive to checkpoint inhibitors (pembrolizumab)**.
 
@@ -2047,7 +2047,7 @@
 
 ### 80. Neuroendocrine Tumours
 
-**PEARL:** **NEUROENDOCRINE TUMOURS show a "SALT-AND-PEPPER" (finely stippled) CHROMATIN pattern with scant granular pink cytoplasm, arranged in nests, trabeculae and ribbons — and the morphology is essentially the SAME whatever organ they arise in.** Their markers are ***CHROMOGRANIN A, SYNAPTOPHYSIN, CD56 and neuron-specific enolase***, and the **dense-core secretory granules are visible only on ELECTRON microscopy, not light microscopy.** The **"ZELLBALLEN" (nests of chief cells with sustentacular cells and fibrovascular septa) pattern is characteristic of PARAGANGLIOMA and PHAEOCHROMOCYTOMA.**
+**PEARL:** **NEUROENDOCRINE TUMOURS show a “SALT-AND-PEPPER” (finely stippled) CHROMATIN pattern with scant granular pink cytoplasm, arranged in nests, trabeculae and ribbons — and the morphology is essentially the SAME whatever organ they arise in.** Their markers are ***CHROMOGRANIN A, SYNAPTOPHYSIN, CD56 and neuron-specific enolase***, and the **dense-core secretory granules are visible only on ELECTRON microscopy, not light microscopy.** The **“ZELLBALLEN” (nests of chief cells with sustentacular cells and fibrovascular septa) pattern is characteristic of PARAGANGLIOMA and PHAEOCHROMOCYTOMA.**
 
 **UNDERSTAND:** The uniformity across organs is not a coincidence — these tumours arise from **cells of the DIFFUSE NEUROENDOCRINE SYSTEM that share a common secretory phenotype**, packaging peptides into dense-core granules. That is why **a metastasis of unknown origin showing salt-and-pepper chromatin and chromogranin positivity tells you the CELL TYPE but NOT the site**, and why site-specific markers (TTF-1 for lung, CDX2 for midgut, PAX8, islet hormones) are then needed.
 
@@ -2055,12 +2055,12 @@
 
 - **CARCINOID TUMOUR: commonest in the ***APPENDIX (usually incidental and benign) and small bowel (ileum — the one that metastasises)***. ***CARCINOID SYNDROME (flushing, diarrhoea, bronchospasm, right-sided valvular fibrosis — TRICUSPID REGURGITATION AND PULMONARY STENOSIS) OCCURS ONLY AFTER LIVER METASTASIS***, because the liver otherwise inactivates the serotonin released into the portal circulation. **Diagnose with URINARY 5-HIAA and chromogranin A; treat with SOMATOSTATIN ANALOGUES (octreotide), which also prevent carcinoid crisis at induction of anaesthesia.**
 - **Grading is by ***MITOTIC COUNT AND Ki-67***: G1 <3%, G2 3–20%, G3/neuroendocrine CARCINOMA >20% (small cell and large cell types, which are aggressive and chemotherapy-responsive).**
-- **Functional pancreatic NETs: insulinoma (Whipple's triad), gastrinoma (ZOLLINGER–ELLISON — multiple/distal duodenal ulcers, diarrhoea, high gastrin), VIPoma (WDHA syndrome), glucagonoma (necrolytic migratory erythema, diabetes) and somatostatinoma (diabetes, gallstones, steatorrhoea).**
+- **Functional pancreatic NETs: insulinoma (Whipple’s triad), gastrinoma (ZOLLINGER–ELLISON — multiple/distal duodenal ulcers, diarrhoea, high gastrin), VIPoma (WDHA syndrome), glucagonoma (necrolytic migratory erythema, diabetes) and somatostatinoma (diabetes, gallstones, steatorrhoea).**
 - **Syndromic associations: MEN1 (parathyroid, pancreatic NET, pituitary), MEN2 (medullary thyroid carcinoma, phaeochromocytoma, and parathyroid in 2A / marfanoid habitus and mucosal neuromas in 2B — RET), VON HIPPEL–LINDAU, NF1 and the SDHx-related paraganglioma syndromes.**
-- **PHAEOCHROMOCYTOMA — the "10% tumour" — presents with episodic headache, palpitation, sweating and hypertension; diagnose with ***PLASMA FREE OR URINARY FRACTIONATED METANEPHRINES***, and ***ALWAYS ALPHA-BLOCK (phenoxybenzamine) BEFORE BETA-BLOCKING*** or unopposed alpha stimulation precipitates a hypertensive crisis.
+- **PHAEOCHROMOCYTOMA — the “10% tumour” — presents with episodic headache, palpitation, sweating and hypertension; diagnose with ***PLASMA FREE OR URINARY FRACTIONATED METANEPHRINES***, and ***ALWAYS ALPHA-BLOCK (phenoxybenzamine) BEFORE BETA-BLOCKING*** or unopposed alpha stimulation precipitates a hypertensive crisis.
 - **SMALL ROUND BLUE CELL TUMOURS WITH ROSETTES (neuroblastoma, Ewing, medulloblastoma, rhabdomyosarcoma) are a DIFFERENT family — do not confuse them with well-differentiated NETs.**
 
-**EXAM CONNECTION:** "True about neuroendocrine tumours" → **salt-and-pepper chromatin** (granules need electron microscopy; morphology is similar across organs).
+**EXAM CONNECTION:** “True about neuroendocrine tumours” → **salt-and-pepper chromatin** (granules need electron microscopy; morphology is similar across organs).
 
 **REMEMBER:** *Salt-and-pepper nuclei name the cell, never the organ.*
 
@@ -2076,14 +2076,14 @@
 
 ### 81. Papillary Thyroid Carcinoma
 
-**PEARL:** **"Orphan Annie eye" nuclei (optically clear, ground-glass) = papillary thyroid carcinoma**, most commonly driven by the **BRAF V600E** mutation.
+**PEARL:** **“Orphan Annie eye” nuclei (optically clear, ground-glass) = papillary thyroid carcinoma**, most commonly driven by the **BRAF V600E** mutation.
 
 **UNDERSTAND:** Papillary carcinoma is diagnosed on **NUCLEAR features, not architecture** — the clear nuclei, nuclear grooves and intranuclear cytoplasmic pseudo-inclusions. This is why a follicular-patterned tumour with these nuclei is still called papillary, and why **FNAC is diagnostic** here (unlike follicular carcinoma, where the diagnosis requires demonstration of **capsular or vascular invasion** and therefore needs histology, not cytology).
 
 **MUST KNOW:**
 
 - Other mutations: **RET/PTC rearrangements** (typical of radiation-associated and paediatric cases) and **NTRK fusions**. **BRAF V600E** is associated with more aggressive behaviour.
-- Features: **commonest thyroid cancer**, female predominance, 30–40 years, **euthyroid, cold nodule on scan**, **multifocal in ~85%**, **LYMPHATIC spread with early cervical nodes** (may present as a node — "lateral aberrant thyroid"), and **excellent prognosis**.
+- Features: **commonest thyroid cancer**, female predominance, 30–40 years, **euthyroid, cold nodule on scan**, **multifocal in ~85%**, **LYMPHATIC spread with early cervical nodes** (may present as a node — “lateral aberrant thyroid”), and **excellent prognosis**.
 - Histology extras: **psammoma bodies**, papillae with fibrovascular cores.
 - Contrast: **follicular carcinoma — haematogenous spread to bone and lung, RAS mutation and PAX8-PPARγ fusion**; **medullary — parafollicular C cells, calcitonin, amyloid stroma, RET germline in MEN 2**; **anaplastic — elderly, rapidly fatal, TP53**.
 - **Radiation exposure** is the major environmental risk factor for papillary carcinoma.
@@ -2131,13 +2131,13 @@
 
 **MUST KNOW:**
 
-- **Commonest cause of hypothyroidism in iodine-sufficient areas**; painless diffuse goitre; may be preceded by transient **"Hashitoxicosis"**.
+- **Commonest cause of hypothyroidism in iodine-sufficient areas**; painless diffuse goitre; may be preceded by transient **“Hashitoxicosis”**.
 - Antibodies: **anti-thyroid peroxidase (anti-TPO, most sensitive) and anti-thyroglobulin**.
 - Increased risk of **extranodal marginal zone (MALT) B-cell lymphoma** and of **papillary carcinoma**; a rapidly enlarging gland in Hashimoto = suspect lymphoma.
 - Associated with other autoimmune disease (**type 1 diabetes, Addison, vitiligo, pernicious anaemia**) and with **Turner and Down syndromes**.
 - Contrast: **de Quervain (subacute granulomatous) thyroiditis** — painful, post-viral, **granulomas with giant cells**, raised ESR, **low radioiodine uptake**; **Riedel thyroiditis** — dense fibrosis extending beyond the capsule (IgG4-related); **Graves** — diffuse hyperplasia with **scalloped colloid and tall columnar cells**.
 
-**EXAM CONNECTION:** "Not observed in Hashimoto" → **Orphan Annie eye nuclei**. Every other option is a genuine Hashimoto feature.
+**EXAM CONNECTION:** “Not observed in Hashimoto” → **Orphan Annie eye nuclei**. Every other option is a genuine Hashimoto feature.
 
 **REMEMBER:** *Germinal centres, atrophic follicles, and mitochondria-rich Hürthle cells.*
 
@@ -2163,7 +2163,7 @@
 - **Prophylactic thyroidectomy** is offered to RET carriers — in infancy for MEN 2B, by age 5 for MEN 2A.
 - **Always exclude and treat the phaeochromocytoma FIRST** before any other surgery (α-blockade with phenoxybenzamine, then β-blockade).
 - Medullary carcinoma markers: **calcitonin and CEA**; histology shows **amyloid stroma (Congo red positive) from procalcitonin**.
-- Contrast **MEN 1 (menin, 11q13): parathyroid, pancreas, pituitary — "3 Ps"**.
+- Contrast **MEN 1 (menin, 11q13): parathyroid, pancreas, pituitary — “3 Ps”**.
 
 **EXAM CONNECTION:** The image of **lumpy lips/tongue nodules** is the diagnostic clue. Parathyroid adenoma is the trap option — right syndrome family, wrong subtype.
 
@@ -2189,7 +2189,7 @@
 
 **PEARL:** **LEAF-LIKE (phyllodes) architecture with INCREASED STROMAL CELLULARITY, especially adjacent to the epithelium, plus mitoses = phyllodes tumour.** Fibroadenoma has a **hypocellular, uniform stroma**.
 
-**UNDERSTAND:** Both are **fibroepithelial** tumours, and both can look intracanalicular at low power. The difference is entirely in the **stroma**: in phyllodes the stroma is the **neoplastic component**, so it is cellular, mitotically active and **overgrows the epithelium**, pushing it into exaggerated leaf-like fronds. **Stromal condensation next to the epithelium ("periepithelial stromal cuffing")** is the most reliable discriminator.
+**UNDERSTAND:** Both are **fibroepithelial** tumours, and both can look intracanalicular at low power. The difference is entirely in the **stroma**: in phyllodes the stroma is the **neoplastic component**, so it is cellular, mitotically active and **overgrows the epithelium**, pushing it into exaggerated leaf-like fronds. **Stromal condensation next to the epithelium (“periepithelial stromal cuffing”)** is the most reliable discriminator.
 
 **MUST KNOW:**
 
@@ -2197,7 +2197,7 @@
 - Grading by **mitoses/10 hpf: benign < 4, borderline 4–9, malignant ≥ 10**, plus stromal overgrowth, atypia and infiltrative margins.
 - **Recurrence is the main risk** — treat with **WIDE LOCAL EXCISION with ≥ 1 cm margins**; **axillary dissection is not required** (spread is **haematogenous, to lung**, not lymphatic).
 - Genetics: **gain of chromosome 1q, MED12 mutations, HOXB13 overexpression**.
-- A history of a **previously excised "fibroadenoma" that recurred** should raise suspicion of phyllodes — as in the classic stem.
+- A history of a **previously excised “fibroadenoma” that recurred** should raise suspicion of phyllodes — as in the classic stem.
 - **Triple assessment** (clinical, imaging, pathology) applies to every palpable breast lump. **~50% of breast carcinomas arise in the UPPER OUTER QUADRANT** (10% in each other quadrant, ~20% central/subareolar) — because that quadrant contains the most breast tissue.
 
 **EXAM CONNECTION:** The clue is the **recurrence after previous excision** plus **leaf-like architecture**. Fibroadenoma is the intended trap.
@@ -2231,7 +2231,7 @@
 - Multigene assays predicting chemotherapy benefit: **Oncotype DX (21-gene, ER-positive only), MammaPrint (70-gene), EndoPredict, PAM50**.
 - **BRCA1 → triple-negative/basal-like; BRCA2 → luminal**.
 
-**EXAM CONNECTION:** Given three IHC images, pick the **equivocal (2+)** one for FISH. Separately, the "which is NOT triple-negative" question answers **mucinous**.
+**EXAM CONNECTION:** Given three IHC images, pick the **equivocal (2+)** one for FISH. Separately, the “which is NOT triple-negative” question answers **mucinous**.
 
 **REMEMBER:** *Only the equivocal middle needs the gene test.*
 
@@ -2253,7 +2253,7 @@
 
 **MUST KNOW:**
 
-- Cells are **rhabdomyoblasts** — elongated with eccentric eosinophilic cytoplasm ("tadpole" or "strap" cells), **desmin, myogenin and MyoD1 positive**; **cross-striations are pathognomonic** but uncommon.
+- Cells are **rhabdomyoblasts** — elongated with eccentric eosinophilic cytoplasm (“tadpole” or “strap” cells), **desmin, myogenin and MyoD1 positive**; **cross-striations are pathognomonic** but uncommon.
 - Sites: **vagina, bladder, nasopharynx, biliary tree** — all hollow, mucosa-lined organs.
 - Treatment is **chemotherapy-based** with conservative surgery; the embryonal subtype has the best prognosis.
 - **Molluscum contagiosum**: a **poxvirus** (the largest human pathogenic virus, brick-shaped, ~300 nm); **firm umbilicated skin-coloured papules** with expressible curd-like material; histology shows **large ellipsoid intracytoplasmic inclusions (Henderson–Patterson/molluscum bodies) — the LARGEST known inclusion bodies (30–35 µm)** — in the stratum granulosum and corneum. Self-limiting; extensive disease suggests **HIV**.
@@ -2293,13 +2293,13 @@
 - Presentation: painless testicular swelling; **~15% present with gynaecomastia**; in children, **isosexual precocious puberty**. **~10% are malignant** (larger, in adults, with necrosis and mitoses).
 - Gross: **golden-brown, circumscribed nodules <5 cm**. Tumour markers (**AFP, hCG**) are **NORMAL** — a key discriminator from germ cell tumours.
 - **Sertoli cell tumour:** also stromal, usually **hormonally silent**, may cause gynaecomastia; associated with **Peutz–Jeghers syndrome and Carney complex** (large-cell calcifying variant).
-- **Testicular tumour classification:** **germ cell (95%)** — seminoma (commonest overall; **placental alkaline phosphatase**, "fried-egg" cells with lymphocytic stroma), embryonal carcinoma, **yolk sac tumour (commonest in children; Schiller–Duval bodies, AFP)**, choriocarcinoma (hCG, haemorrhagic, early lung metastases), teratoma; **sex cord–stromal (5%)** — Leydig, Sertoli, granulosa.
+- **Testicular tumour classification:** **germ cell (95%)** — seminoma (commonest overall; **placental alkaline phosphatase**, “fried-egg” cells with lymphocytic stroma), embryonal carcinoma, **yolk sac tumour (commonest in children; Schiller–Duval bodies, AFP)**, choriocarcinoma (hCG, haemorrhagic, early lung metastases), teratoma; **sex cord–stromal (5%)** — Leydig, Sertoli, granulosa.
 - **Gonadoblastoma** — a mixed germ cell/sex cord tumour arising in **dysgenetic gonads containing Y chromosome material**; it is the reason for prophylactic gonadectomy in such patients.
 - Any solid intratesticular mass on ultrasound → **radical INGUINAL orchidectomy**, never a trans-scrotal biopsy.
 
 **EXAM CONNECTION:** Histology-to-diagnosis matching. **Reinke crystalloid = Leydig** is a one-to-one association with no exceptions in the exam.
 
-**REMEMBER:** *Reinke's rods belong to Leydig — the hormone-making cell.*
+**REMEMBER:** *Reinke’s rods belong to Leydig — the hormone-making cell.*
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/b559bf19d0394a0cbdc52a1cae041366.PNG)
@@ -2312,7 +2312,7 @@
 
 **PEARL:** Seminoma is positive for **PLAP, OCT4, KIT (CD117) and NANOG** — and is **typically hCG-NEGATIVE**. Only the ~15% of seminomas containing **syncytiotrophoblastic giant cells** show a mildly raised β-hCG, never the very high levels of choriocarcinoma. **AFP is NEVER raised in pure seminoma.**
 
-**UNDERSTAND:** The markers report the tumour's **differentiation state**. Seminoma is the tumour that most closely resembles the **primordial germ cell**, so it expresses **pluripotency factors (OCT4, NANOG)** and the germ-cell surface molecules **PLAP and KIT**. It has **not differentiated toward trophoblast (which makes hCG) or yolk sac (which makes AFP)** — which is exactly why those two serum markers are the ones used to detect **non-seminomatous elements**.
+**UNDERSTAND:** The markers report the tumour’s **differentiation state**. Seminoma is the tumour that most closely resembles the **primordial germ cell**, so it expresses **pluripotency factors (OCT4, NANOG)** and the germ-cell surface molecules **PLAP and KIT**. It has **not differentiated toward trophoblast (which makes hCG) or yolk sac (which makes AFP)** — which is exactly why those two serum markers are the ones used to detect **non-seminomatous elements**.
 
 **MUST KNOW:**
 
@@ -2345,11 +2345,11 @@
 
 - **NF2 (chromosome 22, MERLIN): bilateral vestibular schwannomas, meningiomas, ependymomas and juvenile posterior subcapsular cataract. NF1 (chromosome 17, neurofibromin): café-au-lait macules, neurofibromas, axillary freckling, LISCH NODULES, optic glioma and bony dysplasia.**
 - **Clinical presentation of vestibular schwannoma:** *UNILATERAL SENSORINEURAL HEARING LOSS AND TINNITUS*** (asymmetrical hearing loss demands an MRI), then imbalance, an absent corneal reflex (V), facial weakness (VII) and finally brainstem/cerebellar compression and raised intracranial pressure.
-- **A schwannoma is composed PURELY of Schwann cells; a neurofibroma contains Schwann cells, fibroblasts, perineurial cells and mast cells — hence its more heterogeneous appearance and its "shredded-carrot" collagen.**
+- **A schwannoma is composed PURELY of Schwann cells; a neurofibroma contains Schwann cells, fibroblasts, perineurial cells and mast cells — hence its more heterogeneous appearance and its “shredded-carrot” collagen.**
 - **Malignant peripheral nerve sheath tumour: suspect when a plexiform neurofibroma in NF1 grows rapidly or becomes painful; it is high-grade with a poor prognosis.**
 - **The ANCIENT schwannoma — a long-standing tumour with degenerative nuclear atypia, cysts and haemorrhage — is a classic mimic of malignancy that must NOT be over-diagnosed.**
 
-**EXAM CONNECTION:** "Incorrect about this lesion" → **that it is malignant and metastasises frequently**.
+**EXAM CONNECTION:** “Incorrect about this lesion” → **that it is malignant and metastasises frequently**.
 
 **REMEMBER:** *Verocay bodies and a capsule — it pushes the nerve aside and never spreads.*
 
@@ -2370,13 +2370,13 @@
 **MUST KNOW:**
 
 - **Diaphyseal** location (contrast **osteosarcoma — metaphyseal**); commonest in the **femur, tibia, fibula, humerus and pelvic flat bones**; age **< 20 years**, slight male predominance.
-- Radiology: **"onion-peel" lamellated periosteal reaction**, permeative "moth-eaten" bone destruction, and a large soft tissue mass.
+- Radiology: **“onion-peel” lamellated periosteal reaction**, permeative “moth-eaten” bone destruction, and a large soft tissue mass.
 - Presentation **mimics osteomyelitis** — pain, fever, warmth, raised WBC, ESR and **LDH** — hence **image and biopsy before treating as infection**.
 - Immunohistochemistry: **CD99 (MIC2) membranous positivity**, **FLI1** nuclear.
 - Treatment: **neoadjuvant chemotherapy → local control (surgery ± radiotherapy) → adjuvant chemotherapy**; Ewing sarcoma is **radiosensitive**.
 - Other diagnostic translocations to keep apart: **t(15;17) → acute promyelocytic leukaemia**; **t(11;14) → mantle cell lymphoma**; **t(9;22) → CML**; **t(X;18) → synovial sarcoma**; **t(2;13) → alveolar rhabdomyosarcoma**.
 
-**EXAM CONNECTION:** "Most accurate test" signals a **molecular** answer. Note that **t(11;22)** appears as an option written the other way round — both describe the same translocation, but the EWSR1 phrasing is the intended answer.
+**EXAM CONNECTION:** “Most accurate test” signals a **molecular** answer. Note that **t(11;22)** appears as an option written the other way round — both describe the same translocation, but the EWSR1 phrasing is the intended answer.
 
 **REMEMBER:** *Diaphysis, onion peel, fever — and EWSR1 proves it.*
 
@@ -2403,7 +2403,7 @@
 - Compare the vascular lesions: **port-wine stain (naevus flammeus)** — a capillary malformation that **never regresses**, and if in the V1 distribution suggests **Sturge–Weber**; **salmon patch** — fades.
 - Malignant vascular tumours to keep separate: **angiosarcoma — linked to POLYVINYL CHLORIDE, arsenic and Thorotrast (liver), and to chronic lymphoedema (Stewart–Treves)**; **Kaposi sarcoma — HHV-8, a retrovirus-associated setting in HIV**.
 
-**EXAM CONNECTION:** "Next best step" → **reassure about spontaneous regression**. The distractors each belong to a different vascular tumour.
+**EXAM CONNECTION:** “Next best step” → **reassure about spontaneous regression**. The distractors each belong to a different vascular tumour.
 
 **REMEMBER:** *It grows, then it goes.*
 
@@ -2429,7 +2429,7 @@
 - Other named CNS structures: **Lewy bodies (α-synuclein, Parkinson/DLB)**, **neurofibrillary tangles and amyloid plaques (Alzheimer)**, **Negri bodies (rabies)**, **corpora amylacea (ageing)**, **Hirano bodies (actin, hippocampus)**.
 - **Trinucleotide repeat disease rule: expansions in NON-CODING regions cause LOSS of function — Fragile X, myotonic dystrophy, Friedreich ataxia. Expansions in CODING regions cause GAIN of function — HUNTINGTON disease, spinobulbar muscular atrophy, spinocerebellar ataxias, DRPLA.**
 
-**EXAM CONNECTION:** "Not seen in" → **Pick disease**. The trinucleotide question answers **Huntington** for the same style of reasoning.
+**EXAM CONNECTION:** “Not seen in” → **Pick disease**. The trinucleotide question answers **Huntington** for the same style of reasoning.
 
 **REMEMBER:** *Rosenthal fibres are stressed astrocytes; Pick bodies are stressed neurons.*
 
@@ -2442,19 +2442,19 @@
 
 ### 94. Basal Cell Carcinoma and Patterns of Spread
 
-**PEARL:** **Basal cell carcinoma almost NEVER metastasises** — neither lymphatic nor haematogenous. It is **locally invasive only**, hence "rodent ulcer".
+**PEARL:** **Basal cell carcinoma almost NEVER metastasises** — neither lymphatic nor haematogenous. It is **locally invasive only**, hence “rodent ulcer”.
 
 **UNDERSTAND:** BCC cells are **dependent on their surrounding stroma** to survive; when tumour cells embolise without that stromal support they die. This stromal dependence explains both the near-zero metastatic rate and the local destructiveness, which can be extensive enough to erode cartilage and bone.
 
 **MUST KNOW:**
 
 - Driven by **sonic hedgehog pathway mutations (PTCH1)**; the basis of **vismodegib** therapy and of **Gorlin (naevoid BCC) syndrome**.
-- Appearance: **pearly nodule with rolled edges, telangiectasia and central crusting**; **commonest site is the inner canthus/upper face** ("above a line from the angle of the mouth to the ear lobe"); a **pigmented variant** mimics melanoma.
+- Appearance: **pearly nodule with rolled edges, telangiectasia and central crusting**; **commonest site is the inner canthus/upper face** (“above a line from the angle of the mouth to the ear lobe”); a **pigmented variant** mimics melanoma.
 - Contrast the others: **squamous cell carcinoma** metastasises via lymphatics (~5%, more with lip, ear and immunosuppression); **melanoma** spreads both lymphatically and haematogenously and is the great mimic; **Merkel cell carcinoma** (Merkel cell polyomavirus) is highly aggressive with early nodal spread.
 - General rule: **carcinomas spread lymphatically, sarcomas haematogenously** — with named exceptions (**follicular thyroid, renal cell, hepatocellular, choriocarcinoma spread haematogenously**).
 - **Diffuse large B-cell lymphoma is the commonest non-Hodgkin lymphoma in adults** (and in children over 15); **Burkitt lymphoma is commonest in children under 15**.
 
-**EXAM CONNECTION:** "Least commonly spreads by lymphatics" → **basal cell carcinoma**. Note that Merkel cell and melanoma are included precisely because they are aggressive skin cancers.
+**EXAM CONNECTION:** “Least commonly spreads by lymphatics” → **basal cell carcinoma**. Note that Merkel cell and melanoma are included precisely because they are aggressive skin cancers.
 
 **REMEMBER:** *It eats locally but never travels.*
 
@@ -2468,21 +2468,21 @@
 
 ### 95. Gallstones and Cardiac Rhabdomyoma — Two Classic Morphology Calls
 
-**PEARL:** ***PIGMENT GALLSTONES*** (calcium salts of UNCONJUGATED BILIRUBIN) are associated with **CHRONIC HAEMOLYSIS, BILIARY INFECTION (*E. coli*, *Ascaris*, *Clonorchis sinensis*), ILEAL DISEASE OR RESECTION and CYSTIC FIBROSIS with pancreatic insufficiency** — ***NOT with rapid weight loss***, which is a risk factor for CHOLESTEROL stones. In the heart, **multiple ventricular tumours in an infant composed of enormous vacuolated myocytes with cytoplasmic strands radiating from the nucleus ("SPIDER CELLS") = CARDIAC RHABDOMYOMA**, ***HALF OF WHICH OCCUR IN TUBEROUS SCLEROSIS*** and most of which REGRESS spontaneously.
+**PEARL:** ***PIGMENT GALLSTONES*** (calcium salts of UNCONJUGATED BILIRUBIN) are associated with **CHRONIC HAEMOLYSIS, BILIARY INFECTION (*E. coli*, *Ascaris*, *Clonorchis sinensis*), ILEAL DISEASE OR RESECTION and CYSTIC FIBROSIS with pancreatic insufficiency** — ***NOT with rapid weight loss***, which is a risk factor for CHOLESTEROL stones. In the heart, **multiple ventricular tumours in an infant composed of enormous vacuolated myocytes with cytoplasmic strands radiating from the nucleus (“SPIDER CELLS”) = CARDIAC RHABDOMYOMA**, ***HALF OF WHICH OCCUR IN TUBEROUS SCLEROSIS*** and most of which REGRESS spontaneously.
 
-**UNDERSTAND:** Both entities are best remembered through their mechanism. **Pigment stones need EXCESS UNCONJUGATED BILIRUBIN IN BILE** — supplied either by haemolysis or by bacterial/parasitic β-GLUCURONIDASE DECONJUGATING bilirubin in the duct, or by **ileal disease interrupting the enterohepatic circulation of bile salts** so that bilirubin is less well solubilised. **Cholesterol stones need SUPERSATURATION** — hence the "4 F's" and the paradoxical risk of RAPID WEIGHT LOSS, which mobilises cholesterol into bile while gallbladder emptying is reduced. Cardiac rhabdomyoma is a **HAMARTOMA, not a true neoplasm**, which is exactly why it involutes.
+**UNDERSTAND:** Both entities are best remembered through their mechanism. **Pigment stones need EXCESS UNCONJUGATED BILIRUBIN IN BILE** — supplied either by haemolysis or by bacterial/parasitic β-GLUCURONIDASE DECONJUGATING bilirubin in the duct, or by **ileal disease interrupting the enterohepatic circulation of bile salts** so that bilirubin is less well solubilised. **Cholesterol stones need SUPERSATURATION** — hence the “4 F’s” and the paradoxical risk of RAPID WEIGHT LOSS, which mobilises cholesterol into bile while gallbladder emptying is reduced. Cardiac rhabdomyoma is a **HAMARTOMA, not a true neoplasm**, which is exactly why it involutes.
 
 **MUST KNOW:**
 
-- **Cholesterol stone risk: the "5 F's" — Female, Fat, Forty, Fertile (multiparity), Family history — plus rapid weight loss/bariatric surgery, oral contraceptives, TOTAL PARENTERAL NUTRITION, and drugs (fibrates, octreotide). Most stones are RADIOLUCENT; only ~10–20% (pigment stones) are radio-opaque, which is why ULTRASOUND, not X-ray, is the investigation.**
-- **Complications: biliary colic, acute and chronic cholecystitis, MUCOCELE/empyema, choledocholithiasis with obstructive jaundice and cholangitis (CHARCOT'S TRIAD), GALLSTONE PANCREATITIS, gallstone ileus with a BOUVERET/RIGLER triad, and — with a PORCELAIN gallbladder or large stones — gallbladder CARCINOMA.**
-- **Primary cardiac tumours:** *MYXOMA is the commonest overall in ADULTS*** (90% in the LEFT ATRIUM at the fossa ovalis, pedunculated, with a "TUMOUR PLOP", positional syncope, embolism and constitutional symptoms from IL-6; part of the CARNEY COMPLEX). ***RHABDOMYOMA IS THE COMMONEST IN CHILDREN.*** PAPILLARY FIBROELASTOMA arises on valves and embolises. ***METASTASES TO THE HEART ARE FAR COMMONER THAN PRIMARY TUMOURS.***
-- **RHEUMATIC valvulitis for contrast:** *SMALL, WARTY VEGETATIONS ALONG THE LINE OF CLOSURE***, with ASCHOFF BODIES and ANITSCHKOW ("caterpillar") cells and MacCallum plaques. INFECTIVE ENDOCARDITIS — ***LARGE, IRREGULAR, FRIABLE, DESTRUCTIVE masses on the cusps and chordae.*** NON-BACTERIAL THROMBOTIC (marantic) ENDOCARDITIS — small, BLAND, sterile vegetations on the line of closure in malignancy and debilitation. ***LIBMAN–SACKS (SLE) — small–medium sterile vegetations on BOTH SURFACES of the valve.***
+- **Cholesterol stone risk: the “5 F’s” — Female, Fat, Forty, Fertile (multiparity), Family history — plus rapid weight loss/bariatric surgery, oral contraceptives, TOTAL PARENTERAL NUTRITION, and drugs (fibrates, octreotide). Most stones are RADIOLUCENT; only ~10–20% (pigment stones) are radio-opaque, which is why ULTRASOUND, not X-ray, is the investigation.**
+- **Complications: biliary colic, acute and chronic cholecystitis, MUCOCELE/empyema, choledocholithiasis with obstructive jaundice and cholangitis (CHARCOT’S TRIAD), GALLSTONE PANCREATITIS, gallstone ileus with a BOUVERET/RIGLER triad, and — with a PORCELAIN gallbladder or large stones — gallbladder CARCINOMA.**
+- **Primary cardiac tumours:** *MYXOMA is the commonest overall in ADULTS*** (90% in the LEFT ATRIUM at the fossa ovalis, pedunculated, with a “TUMOUR PLOP”, positional syncope, embolism and constitutional symptoms from IL-6; part of the CARNEY COMPLEX). ***RHABDOMYOMA IS THE COMMONEST IN CHILDREN.*** PAPILLARY FIBROELASTOMA arises on valves and embolises. ***METASTASES TO THE HEART ARE FAR COMMONER THAN PRIMARY TUMOURS.***
+- **RHEUMATIC valvulitis for contrast:** *SMALL, WARTY VEGETATIONS ALONG THE LINE OF CLOSURE***, with ASCHOFF BODIES and ANITSCHKOW (“caterpillar”) cells and MacCallum plaques. INFECTIVE ENDOCARDITIS — ***LARGE, IRREGULAR, FRIABLE, DESTRUCTIVE masses on the cusps and chordae.*** NON-BACTERIAL THROMBOTIC (marantic) ENDOCARDITIS — small, BLAND, sterile vegetations on the line of closure in malignancy and debilitation. ***LIBMAN–SACKS (SLE) — small–medium sterile vegetations on BOTH SURFACES of the valve.***
 - **Tuberous sclerosis in an infant may present antenatally with a cardiac rhabdomyoma — prompting a search for ash-leaf macules, cortical tubers and renal angiomyolipoma.**
 
-**EXAM CONNECTION:** Pigment stones "not associated with" → **rapid weight reduction**; spider cells in an infant's heart → **rhabdomyoma**; rheumatic vegetations → **small warty lesions along the line of closure**.
+**EXAM CONNECTION:** Pigment stones “not associated with” → **rapid weight reduction**; spider cells in an infant’s heart → **rhabdomyoma**; rheumatic vegetations → **small warty lesions along the line of closure**.
 
-**REMEMBER:** *Unconjugated bilirubin makes black stones, supersaturated cholesterol makes yellow ones — and spider cells in a baby's heart mean tuberous sclerosis.*
+**REMEMBER:** *Unconjugated bilirubin makes black stones, supersaturated cholesterol makes yellow ones — and spider cells in a baby’s heart mean tuberous sclerosis.*
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/c38e25c0c7294c3585246eadd787da3c.PNG)
@@ -2512,7 +2512,7 @@
 - **Karyotype: 45,X in ~50%; the rest are MOSAIC (45,X/46,XX) or have structural X abnormalities.** Mosaicism is a **postzygotic mitotic error**, not inherited. **Any Y-chromosome material mandates gonadectomy** (gonadoblastoma risk).
 - **Intelligence is normal**, though there may be a specific visuospatial/mathematical weakness.
 
-**EXAM CONNECTION:** "Not essential in the workup" → **antinuclear antibodies**. All other options map to a real Turner complication.
+**EXAM CONNECTION:** “Not essential in the workup” → **antinuclear antibodies**. All other options map to a real Turner complication.
 
 **REMEMBER:** *Screen the heart, the ears and the sugar.*
 

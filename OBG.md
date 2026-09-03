@@ -52,12 +52,12 @@
 
 - **Rises:** cardiac output **+30–50%, peaking ~25–30 weeks**, rising **further in labour and immediately postpartum (up to +80% — the autotransfusion)**; heart rate **+10–20 bpm**; stroke volume; plasma volume.
 - **Falls:** SVR, blood pressure (**nadir in the SECOND trimester**, back to baseline by term), haematocrit, colloid oncotic pressure.
-- **Because BP physiologically falls in mid-pregnancy, undiagnosed CHRONIC HYPERTENSION can look normotensive at booking and "appear" in the third trimester** — a classic diagnostic trap.
+- **Because BP physiologically falls in mid-pregnancy, undiagnosed CHRONIC HYPERTENSION can look normotensive at booking and “appear” in the third trimester** — a classic diagnostic trap.
 - **Aortocaval (supine hypotensive) syndrome** after 20 weeks → nurse in **left lateral tilt**.
 - **Danger periods in cardiac disease: 28–32 weeks (peak volume), labour, and the immediate postpartum period.** Risk is graded by **NYHA class and the WHO classification**; **pulmonary hypertension and Eisenmenger syndrome carry very high maternal mortality and are indications to AVOID PREGNANCY.**
 - **PERIPARTUM CARDIOMYOPATHY** and **MITRAL STENOSIS** (tachycardia shortens diastolic filling) are the classic decompensations.
 
-**EXAM CONNECTION:** "Normal physiological change EXCEPT" → **pansystolic murmur**. "Which change would you EXPECT?" → pick what follows from a raised diaphragm and increased flow; every diastolic murmur option is wrong.
+**EXAM CONNECTION:** “Normal physiological change EXCEPT” → **pansystolic murmur**. “Which change would you EXPECT?” → pick what follows from a raised diaphragm and increased flow; every diastolic murmur option is wrong.
 
 **REMEMBER:** *Pregnancy makes the heart flow faster, not fill worse — systolic is fine, diastolic never.*
 
@@ -75,7 +75,7 @@
 
 - **Plasma volume +45–50%, red cell mass only +20–30%** → **physiological (dilutional) anaemia**, maximal at **32 weeks**. WHO anaemia in pregnancy = **Hb <11 g/dL** — but the **WHO 2024 revision makes the cut-off TRIMESTER-SPECIFIC: <11 g/dL in the FIRST and THIRD trimesters, <10.5 g/dL in the SECOND**, matching the nadir of haemodilution.[^1]
 - Purpose of hypervolaemia: **lower viscosity improves uteroplacental perfusion**, buffers aortocaval compression, and provides reserve for delivery loss (**~500 mL vaginal, ~1000 mL caesarean**).
-- **Renal: GFR and renal plasma flow rise ~50% → serum creatinine and urea FALL** (a "normal" creatinine may be abnormal in pregnancy); **physiological glycosuria**; **dilatation of the collecting systems, RIGHT more than left**.
+- **Renal: GFR and renal plasma flow rise ~50% → serum creatinine and urea FALL** (a “normal” creatinine may be abnormal in pregnancy); **physiological glycosuria**; **dilatation of the collecting systems, RIGHT more than left**.
 - **Haematological: hypercoagulable — fibrinogen and factors VII, VIII, IX, X rise, protein S falls; leucocytosis; raised ESR and D-dimer — so D-DIMER IS USELESS for excluding VTE in pregnancy.** VTE is a leading cause of maternal death.
 - Also rises: alkaline phosphatase (placental), thyroid-binding globulin and total T4 (**free T4 normal**).
 - Also falls: colloid oncotic pressure, serum sodium and osmolality, bicarbonate (compensating the respiratory alkalosis).
@@ -102,7 +102,7 @@
 - **Dyspnoea of pregnancy** affects 60–70%, is physiological, and begins in the first/second trimester before the uterus is large — driven by hypocapnia, not mechanics.
 - Mnemonic: **TIMM increases** (Tidal volume, Inspiratory capacity, Minute ventilation, Minute O₂ uptake).
 
-**EXAM CONNECTION:** "Which decreases" → **FRC**. Respiratory rate and vital capacity are the classic "unchanged" traps.
+**EXAM CONNECTION:** “Which decreases” → **FRC**. Respiratory rate and vital capacity are the classic “unchanged” traps.
 
 **REMEMBER:** *Breathe deeper, not faster — and rest at a lower lung volume.*
 
@@ -114,17 +114,17 @@
 
 **PEARL:** **MATERNAL INSULIN DOES NOT CROSS THE PLACENTA — GLUCOSE DOES (facilitated diffusion).** Maternal **insulin SECRETION INCREASES** to overcome **insulin resistance from placental hormones (hPL, progesterone, cortisol, prolactin, TNF-α)**, and the **FETUS SECRETES ITS OWN INSULIN FROM ~12 WEEKS.**
 
-**UNDERSTAND:** This one asymmetry is the whole of diabetic pregnancy (**PEDERSEN HYPOTHESIS**): maternal hyperglycaemia → fetal hyperglycaemia → fetal **hyperinsulinaemia** → and **insulin is the fetus's principal anabolic growth factor** → macrosomia, organomegaly, raised oxygen consumption. At delivery the glucose supply is cut but hyperinsulinaemia persists → **neonatal hypoglycaemia within hours**.
+**UNDERSTAND:** This one asymmetry is the whole of diabetic pregnancy (**PEDERSEN HYPOTHESIS**): maternal hyperglycaemia → fetal hyperglycaemia → fetal **hyperinsulinaemia** → and **insulin is the fetus’s principal anabolic growth factor** → macrosomia, organomegaly, raised oxygen consumption. At delivery the glucose supply is cut but hyperinsulinaemia persists → **neonatal hypoglycaemia within hours**.
 
 **MUST KNOW:**
 
-- **Pregnancy is deliberately DIABETOGENIC.** Fasting glucose is **LOWER** than non-pregnant (continuous fetal draw, "accelerated starvation", tendency to **KETOSIS**); **postprandial levels are HIGHER and more prolonged.**
+- **Pregnancy is deliberately DIABETOGENIC.** Fasting glucose is **LOWER** than non-pregnant (continuous fetal draw, “accelerated starvation”, tendency to **KETOSIS**); **postprandial levels are HIGHER and more prolonged.**
 - ***SIRENOMELIA and CAUDAL REGRESSION are the anomalies most CHARACTERISTIC of pre-gestational diabetes; CARDIAC defects (VSD commonest) are the most FREQUENT, then neural tube defects.***
 - Fetal hyperinsulinaemia also → increased O₂ demand → relative hypoxia → **erythropoietin → POLYCYTHAEMIA** and later hyperbilirubinaemia; **DELAYED SURFACTANT** (insulin antagonises cortisol) → **RDS even at term**; and **septal hypertrophy** of the heart.
 - **Macrosomia in diabetes is TRUNCAL and shoulder-predominant with a relatively normal head** — precisely why **SHOULDER DYSTOCIA** is commoner than in constitutionally large babies.
 - **INSULIN IS SAFE and is the treatment of choice; metformin and glyburide DO cross.**
 
-**EXAM CONNECTION:** "True about pregnancy physiology EXCEPT" → **maternal insulin crosses the placenta**.
+**EXAM CONNECTION:** “True about pregnancy physiology EXCEPT” → **maternal insulin crosses the placenta**.
 
 **REMEMBER:** *Glucose crosses and insulin does not — so the fetus makes its own and grows fat on it.*
 
@@ -137,7 +137,7 @@
 
 ### 5. Endometrial Histology Through the Cycle
 
-**PEARL:** **SECRETORY (luteal) endometrium — tortuous "SAW-TOOTH"/corkscrew glands, subnuclear glycogen vacuoles, stromal oedema, predecidual change — is made by PROGESTERONE FROM THE CORPUS LUTEUM.** **PROLIFERATIVE (follicular) endometrium — straight tubular glands, pseudostratified mitotic epithelium — is made by OESTROGEN from GRANULOSA cells.** Progesterone is **<1 ng/mL** follicular, **>5 ng/mL (peak 10–20)** luteal.
+**PEARL:** **SECRETORY (luteal) endometrium — tortuous “SAW-TOOTH”/corkscrew glands, subnuclear glycogen vacuoles, stromal oedema, predecidual change — is made by PROGESTERONE FROM THE CORPUS LUTEUM.** **PROLIFERATIVE (follicular) endometrium — straight tubular glands, pseudostratified mitotic epithelium — is made by OESTROGEN from GRANULOSA cells.** Progesterone is **<1 ng/mL** follicular, **>5 ng/mL (peak 10–20)** luteal.
 
 **UNDERSTAND:** The **TWO-CELL, TWO-GONADOTROPHIN model**: **LH → THECA INTERNA → androgens; FSH → GRANULOSA → aromatase → oestrogen.** After ovulation LH luteinises granulosa into the **corpus luteum → progesterone**, converting proliferative to secretory endometrium. Histology therefore dates the cycle, and a **day-21 progesterone >5 ng/mL is the standard proof of ovulation**.
 
@@ -164,9 +164,9 @@
 
 ### 6. Uteroplacental Circulation
 
-**PEARL:** **Intervillous space blood flow at term is 500–600 mL/min** (non-pregnant uterine flow ~50 mL/min). The mature placenta holds **~500 mL of blood, ~150 mL of it in the intervillous space** — why the uterus is obstetrics' greatest source of catastrophic haemorrhage.
+**PEARL:** **Intervillous space blood flow at term is 500–600 mL/min** (non-pregnant uterine flow ~50 mL/min). The mature placenta holds **~500 mL of blood, ~150 mL of it in the intervillous space** — why the uterus is obstetrics’ greatest source of catastrophic haemorrhage.
 
-**UNDERSTAND:** The intervillous space is a **low-resistance, high-flow sinusoid** created by **trophoblastic destruction of the spiral artery musculature**, converting them into **flaccid channels unresponsive to vasoconstrictors**. Postpartum haemostasis therefore depends entirely on **MYOMETRIAL CONTRACTION ("living ligatures")**, not vascular spasm — and an atonic uterus can lose a litre a minute.
+**UNDERSTAND:** The intervillous space is a **low-resistance, high-flow sinusoid** created by **trophoblastic destruction of the spiral artery musculature**, converting them into **flaccid channels unresponsive to vasoconstrictors**. Postpartum haemostasis therefore depends entirely on **MYOMETRIAL CONTRACTION (“living ligatures”)**, not vascular spasm — and an atonic uterus can lose a litre a minute.
 
 **MUST KNOW:**
 
@@ -187,7 +187,7 @@
 
 **PEARL:** **FETAL flow through the placenta ~400 mL/min.** Pressures: **umbilical artery ~60 mmHg, umbilical vein ~10 mmHg, villous capillaries 20–40; intervillous space 30–50 mmHg in a contraction, 10–15 at rest.** **Saturations: umbilical ARTERY 50–60% (PO₂ 20–25); umbilical VEIN 70–80% (PO₂ 30–40).**
 
-**UNDERSTAND: **The fetus lives at an arterial PO₂ that would kill an adult (**"Mount Everest in utero"**) and compensates three ways: **HbF has higher O₂ affinity** (left-shifted; binds 2,3-DPG poorly), **fetal Hb is high (~17–18 g/dL)**, and **cardiac output per kg is high**. The **double Bohr and double Haldane effects** further favour transfer.
+**UNDERSTAND: **The fetus lives at an arterial PO₂ that would kill an adult (**“Mount Everest in utero”**) and compensates three ways: **HbF has higher O₂ affinity** (left-shifted; binds 2,3-DPG poorly), **fetal Hb is high (~17–18 g/dL)**, and **cardiac output per kg is high**. The **double Bohr and double Haldane effects** further favour transfer.
 
 **MUST KNOW:**
 
@@ -209,12 +209,12 @@
 
 **PEARL:** **EXTERNAL GENITALIA develop at 8–12 WEEKS post conception.** Sequence: **days 14–21 notochord and neural plate; days 21–28 neural tube fusion, four cardiac chambers, FIRST HEARTBEAT DAY 21; weeks 4–6 optic vesicles, LIMB BUDS, neural tube closed by day 30; weeks 6–8 all major structures formed; weeks 8–12 external genitalia; week 20 lanugo and vernix; week 28 VIABILITY, testes at the internal ring; week 36 one testis descended; week 40 both descended, nails present.**
 
-**UNDERSTAND:** The **organogenetic (teratogenic) window is weeks 3–8 post-conception (5–10 weeks from LMP)**. Before it, the **"all-or-none"** rule applies; after it, teratogens cause **functional and growth deficits rather than gross malformations**. This is why **folic acid must start BEFORE conception** (the neural tube closes by day 28, often before pregnancy is recognised).
+**UNDERSTAND:** The **organogenetic (teratogenic) window is weeks 3–8 post-conception (5–10 weeks from LMP)**. Before it, the **“all-or-none”** rule applies; after it, teratogens cause **functional and growth deficits rather than gross malformations**. This is why **folic acid must start BEFORE conception** (the neural tube closes by day 28, often before pregnancy is recognised).
 
 **MUST KNOW:**
 
 - **Genital differentiation is DIRECTED BY THE TESTIS:** SRY → testis → **Sertoli cells make AMH** (regresses Müllerian ducts) and **Leydig cells make TESTOSTERONE** (and DHT via 5α-reductase), maintaining Wolffian ducts and masculinising the external genitalia. **Without a testis, development is FEMALE BY DEFAULT.**
-- **Placental hCG is what drives the fetal Leydig cells** — the fetal pituitary is not yet functional, and hCG shares the α subunit with LH. **hCG is the fetus's LH.**
+- **Placental hCG is what drives the fetal Leydig cells** — the fetal pituitary is not yet functional, and hCG shares the α subunit with LH. **hCG is the fetus’s LH.**
 - **Because external genitalia masculinise at 8–12 weeks, androgen excess BEFORE 12 weeks (e.g. CAH) causes LABIOSCROTAL FUSION plus clitoromegaly; AFTER 12 weeks it causes clitoromegaly only.**
 - **Ultrasound landmarks:** gestational sac ~4.5–5 weeks, yolk sac ~5.5 weeks, fetal pole with **cardiac activity by 6 weeks (or CRL ≥7 mm)**, reliable sex determination after 14–16 weeks (**illegal in India — PCPNDT Act**).
 - **Fertilisation in the AMPULLA; implantation at 6–7 days; hCG detectable in serum at ~8–9 days.**
@@ -230,7 +230,7 @@
 
 ### 9. Eponymous Obstetric Signs
 
-**PEARL:** **"PLACENTAL SIGN" = spotting at the expected date of the period in the early months**, occurring until the **decidua capsularis fuses with the decidua parietalis at ~12 weeks**. **STALLWORTHY'S SIGN = fetal heart slows when the head is pressed into the pelvis and recovers on release — suggests POSTERIOR PLACENTA PRAEVIA.**
+**PEARL:** **“PLACENTAL SIGN” = spotting at the expected date of the period in the early months**, occurring until the **decidua capsularis fuses with the decidua parietalis at ~12 weeks**. **STALLWORTHY’S SIGN = fetal heart slows when the head is pressed into the pelvis and recovers on release — suggests POSTERIOR PLACENTA PRAEVIA.**
 
 **UNDERSTAND:** Until ~12 weeks the sac has not filled the uterine cavity, so a potential space remains between decidua capsularis and parietalis in which **cyclical hormonal withdrawal can still cause shedding**. Once they fuse, the cavity is obliterated and the bleeding stops.
 
@@ -238,7 +238,7 @@
 
 - **Signs of placental separation (third stage): uterus becomes FIRM, GLOBULAR, BALLOTTABLE and rises; PERMANENT LENGTHENING OF THE CORD; a SUDDEN GUSH OF BLOOD. NEVER apply cord traction before separation — risk of UTERINE INVERSION.**
 - **Separation modes: SCHULTZE (central; shiny fetal surface first, blood retained behind) and MATTHEWS DUNCAN (marginal; maternal surface first, visible bleeding throughout).**
-- **HEGAR'S** (isthmic softening, 6–10 weeks), **GOODELL'S** (cervical softening), **CHADWICK/JACQUEMIER'S** (bluish vaginal discoloration), **OSIANDER'S** (lateral fornix pulsation), **PALMER'S** (rhythmic contractions on bimanual exam), **PISKACEK'S** (asymmetrical enlargement at the implantation site).
+- **HEGAR’S** (isthmic softening, 6–10 weeks), **GOODELL’S** (cervical softening), **CHADWICK/JACQUEMIER’S** (bluish vaginal discoloration), **OSIANDER’S** (lateral fornix pulsation), **PALMER’S** (rhythmic contractions on bimanual exam), **PISKACEK’S** (asymmetrical enlargement at the implantation site).
 - **BRAXTON HICKS** contractions are painless, irregular, non-progressive and do not dilate the cervix.
 - **QUICKENING: ~18–20 weeks primigravida, ~16–18 weeks multigravida.**
 - **In the first trimester, ANY bleeding requires exclusion of ECTOPIC and MISCARRIAGE before blaming the placental sign.**
@@ -259,14 +259,14 @@
 
 **MUST KNOW:**
 
-- **Autonomic supply via the INFERIOR HYPOGASTRIC (pelvic) PLEXUS and the uterovaginal plexus — FRANKENHÄUSER'S GANGLION. Sympathetic T5–L2; parasympathetic S2–S4.**
+- **Autonomic supply via the INFERIOR HYPOGASTRIC (pelvic) PLEXUS and the uterovaginal plexus — FRANKENHÄUSER’S GANGLION. Sympathetic T5–L2; parasympathetic S2–S4.**
 - **Blocks: an epidural must cover T10–L1 for the first stage and extend to S2–S4 for the second; for CAESAREAN the block must reach T4 (peritoneal traction) — hence common hypotension, phenylephrine and left lateral tilt.**
 - **PUDENDAL BLOCK (transvaginal, at the ISCHIAL SPINE)** anaesthetises the perineum for outlet forceps, episiotomy and repair, but **does NOT relieve uterine pain**.
 - **PARACERVICAL BLOCK** relieves first-stage pain but risks **fetal bradycardia**; little used.
 - **Epidural prolongs the second stage and increases instrumental delivery but does NOT increase caesarean rates**; may cause hypotension, fever, urinary retention and **post-dural puncture headache**.
 - Pain is **visceral and poorly localised** early, becoming **somatic, sharp and well localised** as the presenting part distends the pelvic floor.
 
-**EXAM CONNECTION:** "Incorrect regarding uterine innervation" → **contractility is mediated by T7–T8 innervation** (it is hormonal).
+**EXAM CONNECTION:** “Incorrect regarding uterine innervation” → **contractility is mediated by T7–T8 innervation** (it is hormonal).
 
 **REMEMBER:** *T10–L1 for contractions, S2–S4 for the perineum — and the uterus contracts without any nerves at all.*
 
@@ -281,7 +281,7 @@
 
 ### 11. Anti-D Prophylaxis
 
-**PEARL:** Anti-D is given **ONLY to Rh-NEGATIVE, NON-SENSITISED (indirect Coombs-negative) women**. It is **USELESS once ALLOIMMUNISATION HAS OCCURRED** — hence not given in a pregnancy needing **intrauterine transfusion**, and not given after delivery if the **baby's DIRECT COOMBS TEST is POSITIVE**. After delivery, give it when the **baby is Rh-POSITIVE and the DCT is NEGATIVE**; if the **baby is Rh-negative, none is needed**.
+**PEARL:** Anti-D is given **ONLY to Rh-NEGATIVE, NON-SENSITISED (indirect Coombs-negative) women**. It is **USELESS once ALLOIMMUNISATION HAS OCCURRED** — hence not given in a pregnancy needing **intrauterine transfusion**, and not given after delivery if the **baby’s DIRECT COOMBS TEST is POSITIVE**. After delivery, give it when the **baby is Rh-POSITIVE and the DCT is NEGATIVE**; if the **baby is Rh-negative, none is needed**.
 
 **UNDERSTAND:** Anti-D works by **PREVENTION, not treatment** — injected antibody coats fetal red cells and clears them before the mother mounts a primary response. Once she has **memory B cells** (which a positive DCT or a prior intrauterine transfusion proves), no passive antibody can undo it; the response is anamnestic and self-sustaining.
 
@@ -296,7 +296,7 @@
 - **Rh disease worsens with each successive pregnancy** → haemolysis → anaemia → high-output failure → **HYDROPS FETALIS**, with neonatal jaundice and kernicterus.
 - **ABO incompatibility (mother O, baby A or B) partially PROTECTS** against Rh sensitisation.
 
-**EXAM CONNECTION:** "Anti-D NOT given in" → **intrauterine transfusion**. Postnatally, read two variables — **baby's Rh and the DCT**.
+**EXAM CONNECTION:** “Anti-D NOT given in” → **intrauterine transfusion**. Postnatally, read two variables — **baby’s Rh and the DCT**.
 
 **REMEMBER:** *Anti-D prevents sensitisation; it cannot reverse it — a positive Coombs means you are too late.*
 
@@ -315,12 +315,12 @@
 
 **MUST KNOW:**
 
-- **Other first-trimester markers: ABSENT NASAL BONE, reversed "a" wave in the DUCTUS VENOSUS, tricuspid regurgitation.**
+- **Other first-trimester markers: ABSENT NASAL BONE, reversed “a” wave in the DUCTUS VENOSUS, tricuspid regurgitation.**
 - **The NUCHAL FOLD is a different, SECOND-TRIMESTER measurement (≥6 mm abnormal)** — do not confuse it with nuchal translucency.
 - **A CYSTIC HYGROMA (grossly increased NT with septations, extending along the fetal back) is far worse than a simple thick NT** — strongly linked to **TURNER SYNDROME (45,XO)**, aneuploidy, cardiac defects and demise.
 - **Screening tests estimate risk; DIAGNOSIS needs CVS (10–13 weeks) or amniocentesis (from 15 weeks).** NIPT, however accurate, is still a screen.
 
-**EXAM CONNECTION:** "Ideal time for nuchal translucency" → **11–14 weeks**.
+**EXAM CONNECTION:** “Ideal time for nuchal translucency” → **11–14 weeks**.
 
 **REMEMBER:** *Eleven to fourteen weeks — after that the lymphatics drain the evidence away.*
 
@@ -342,7 +342,7 @@
 - Associations with a normal karyotype: **congenital heart disease (most important), diaphragmatic hernia, skeletal dysplasias, Noonan syndrome and other RASopathies, congenital infection, fetal anaemia, single-gene disorders** — offer **exome/microarray** where available.
 - If NT is normal, a fetal echo is **not** routinely indicated — the thick NT is what drives the referral.
 
-**EXAM CONNECTION:** The stem says **"karyotype is normal"** to make you think the work-up is over. It isn't — **cardiac defect** is the answer.
+**EXAM CONNECTION:** The stem says **“karyotype is normal”** to make you think the work-up is over. It isn’t — **cardiac defect** is the answer.
 
 **REMEMBER:** *Thick nuchal fold, normal chromosomes — look at the heart.*
 
@@ -358,14 +358,14 @@
 
 **PEARL:** **DOWN SYNDROME (T21): β-hCG ↑, INHIBIN A ↑, AFP ↓, unconjugated OESTRIOL ↓.** **TRISOMY 18: ALL FOUR LOW.** **Neural tube defect: AFP HIGH, others normal.**
 
-**UNDERSTAND:** Down syndrome placentas are **immature and hyperfunctional**, oversecreting placental products (hCG, inhibin), while the **less-developed fetal liver and adrenal** make less AFP and oestriol. Trisomy 18 causes **global placental and fetal underfunction** — "the all-low trisomy."
+**UNDERSTAND:** Down syndrome placentas are **immature and hyperfunctional**, oversecreting placental products (hCG, inhibin), while the **less-developed fetal liver and adrenal** make less AFP and oestriol. Trisomy 18 causes **global placental and fetal underfunction** — “the all-low trisomy.”
 
 **MUST KNOW:**
 
 - Performed at **15–21 weeks (optimally 16–18)**; detection rate **~80%** for T21. Results in **multiples of the median (MoM)**.
 - **ANENCEPHALY** ultrasound signs: **frog-eye sign** (absent calvaria with prominent orbits) and **shower-cap sign**; detectable from **10–11 weeks**. It is incompatible with life and is an indication for termination at any gestation (Medical Board route if late).
 
-**EXAM CONNECTION:** Memorise the T21 pattern as **"two up, two down"** — the two placental markers up, the two fetal markers down.
+**EXAM CONNECTION:** Memorise the T21 pattern as **“two up, two down”** — the two placental markers up, the two fetal markers down.
 
 **REMEMBER:** *Down has a hyperactive placenta and a lazy fetal liver.*
 
@@ -407,16 +407,16 @@
 
 **PEARL:** **MSAFP is RAISED in: WRONG (underestimated) DATES, OPEN NEURAL TUBE DEFECTS, MULTIPLE PREGNANCY, ANTERIOR ABDOMINAL WALL DEFECTS (gastroschisis > omphalocele), Rh ISOIMMUNISATION, fetal DEATH, congenital nephrosis, and placental abnormalities.** It is **LOW in TRISOMIES (21, 18) and in GESTATIONAL TROPHOBLASTIC DISEASE.** With a **high NTD risk on serum screening, the next step is a DETAILED ANOMALY SCAN (TIFA)** — not amniocentesis, CVS or NIPT.
 
-**UNDERSTAND:** AFP is the **fetus's principal serum protein**, so **anything that lets fetal serum leak into the amniotic fluid raises it**, as does **more fetal tissue (twins)** or **dates set too early**. It is low when there is **less viable fetal tissue** — hence trophoblastic disease (no fetus in a complete mole) and aneuploidy. And because a raised AFP flags a **STRUCTURAL** problem, it is answered by **IMAGING, not karyotyping**: amniocentesis would report the normal chromosomes already predicted, and NIPT cannot detect a neural tube defect at all. **Modern ultrasound detects >95% of open NTDs.**
+**UNDERSTAND:** AFP is the **fetus’s principal serum protein**, so **anything that lets fetal serum leak into the amniotic fluid raises it**, as does **more fetal tissue (twins)** or **dates set too early**. It is low when there is **less viable fetal tissue** — hence trophoblastic disease (no fetus in a complete mole) and aneuploidy. And because a raised AFP flags a **STRUCTURAL** problem, it is answered by **IMAGING, not karyotyping**: amniocentesis would report the normal chromosomes already predicted, and NIPT cannot detect a neural tube defect at all. **Modern ultrasound detects >95% of open NTDs.**
 
 **MUST KNOW:**
 
 - **The commonest cause of an abnormal MSAFP is WRONG DATES — always re-date by ultrasound first.** MSAFP is measured at **15–20 weeks**; **>2.0–2.5 MoM** is raised.
-- **Cranial signs are more reliable than the spinal view: the "LEMON" SIGN (frontal scalloping), the "BANANA" SIGN (curved, obliterated cerebellum), small BPD and VENTRICULOMEGALY** — all from the **ARNOLD–CHIARI II** malformation caused by CSF leak. **Best time for the anomaly scan: 18–22 weeks.**
+- **Cranial signs are more reliable than the spinal view: the “LEMON” SIGN (frontal scalloping), the “BANANA” SIGN (curved, obliterated cerebellum), small BPD and VENTRICULOMEGALY** — all from the **ARNOLD–CHIARI II** malformation caused by CSF leak. **Best time for the anomaly scan: 18–22 weeks.**
 - **A raised MSAFP with a NORMAL scan still predicts placental dysfunction — growth restriction, pre-eclampsia, abruption, preterm birth, stillbirth. Increase surveillance.**
 - **ACETYLCHOLINESTERASE in amniotic fluid is more SPECIFIC than AFP** for an open NTD (absent with abdominal wall defects or blood contamination).
 
-**EXAM CONNECTION:** "MSAFP raised in all EXCEPT" → **gestational trophoblastic disease**. Raised AFP → **anomaly scan**.
+**EXAM CONNECTION:** “MSAFP raised in all EXCEPT” → **gestational trophoblastic disease**. Raised AFP → **anomaly scan**.
 
 **REMEMBER:** *AFP is fetal serum — up when the fetus leaks, down when there is less fetus; and a structural risk needs a picture, not a karyotype.*
 
@@ -435,10 +435,10 @@
 - Performed from **10 weeks** (adequate fetal fraction) and **after the first-trimester ultrasound** — dating, viability and NT must be established first, and a multiple pregnancy or demised twin alters interpretation.
 - Screens **trisomy 21, 18, 13 and sex chromosome aneuploidies (including Turner)**. It **does not read the whole karyotype** and cannot reliably detect **structural anomalies, neural tube defects or most microdeletions**.
 - **Detection for T21 >99% with a very low false-positive rate**, but **positive predictive value depends on prior risk** — low-risk women get relatively more false positives.
-- **Low fetal fraction** (obesity, early gestation, aneuploidy itself) causes a **"no-call"**, which is itself associated with increased aneuploidy risk.
+- **Low fetal fraction** (obesity, early gestation, aneuploidy itself) causes a **“no-call”**, which is itself associated with increased aneuploidy risk.
 - Also determines **fetal RhD status and fetal sex** (disclosure of sex is **prohibited in India — PCPNDT Act**).
 
-**EXAM CONNECTION:** "False statement" → the one calling it **diagnostic**.
+**EXAM CONNECTION:** “False statement” → the one calling it **diagnostic**.
 
 **REMEMBER:** *It reads the placenta, so it can only screen.*
 
@@ -456,7 +456,7 @@
 
 - CVS samples **trophoblast** → **karyotype, DNA and enzyme analysis**; ideal for **haemoglobinopathies, inborn errors of metabolism and single-gene disorders**, and for an **early result** allowing first-trimester termination.
 - **CVS cannot diagnose neural tube defects** — no amniotic fluid, so no AFP or acetylcholinesterase.
-- **Loss rate: CVS ~0.5–1% vs amniocentesis ~0.1–0.5%.** **Confined placental mosaicism (~1%)** is CVS's specific pitfall, needing amniocentesis to resolve.
+- **Loss rate: CVS ~0.5–1% vs amniocentesis ~0.1–0.5%.** **Confined placental mosaicism (~1%)** is CVS’s specific pitfall, needing amniocentesis to resolve.
 - **Amniocentesis 15–20 weeks** (before 14 weeks it increases talipes and fetal loss). **Cordocentesis (fetal blood sampling) after 18 weeks.**
 - **Anti-D prophylaxis is required after any invasive procedure in an Rh-negative woman.**
 
@@ -481,7 +481,7 @@
 - **VALPROATE has the highest teratogenic risk of the antiepileptics** (NTDs plus impaired neurodevelopment) and should be avoided in women of childbearing potential; **lamotrigine and levetiracetam are preferred**.
 - **Excess folate MASKS the haematological signs of B12 deficiency while the neuropathy progresses** — always check B12 status.
 
-**EXAM CONNECTION:** "High-dose folic acid preconceptionally" → **poorly controlled diabetes**.
+**EXAM CONNECTION:** “High-dose folic acid preconceptionally” → **poorly controlled diabetes**.
 
 **REMEMBER:** *Routine 400 µg, risky 4–5 mg — and the tube closes at four weeks, so it must be in her before she knows she is pregnant.*
 
@@ -504,7 +504,7 @@
 - **IFA tablet colour coding: RED = pregnant/lactating women and women of reproductive age; BLUE = 6–10 y (weekly); PINK = adolescents.**
 - **Take iron with VITAMIN C; avoid tea, coffee, milk and calcium tablets at the same time.** Warn about black stools and constipation.
 
-**EXAM CONNECTION:** "Correct statement regarding iron prophylaxis" → **6 months antepartum and 6 months postpartum**.
+**EXAM CONNECTION:** “Correct statement regarding iron prophylaxis” → **6 months antepartum and 6 months postpartum**.
 
 **REMEMBER:** *14 weeks, one red tablet, 180 days before and 180 days after.*
 
@@ -525,7 +525,7 @@
 - General rule: **toxoids and inactivated/subunit vaccines are safe; live ones are not.**
 - **Rho(D) immunoglobulin** is not a vaccine but is the other essential antenatal injection — **28 weeks and within 72 hours of delivery**.
 
-**EXAM CONNECTION:** The correct multi-select combination is always **inactivated influenza + Tdap**. In "all true EXCEPT", the false option is the one recommending **termination** after a live vaccine.
+**EXAM CONNECTION:** The correct multi-select combination is always **inactivated influenza + Tdap**. In “all true EXCEPT”, the false option is the one recommending **termination** after a live vaccine.
 
 **REMEMBER:** *Killed yes, live no; Tdap late so the baby gets the antibody — and never terminate for a vaccine given by mistake.*
 
@@ -546,9 +546,9 @@
 - If calories are inadequate, **protein is burned for energy rather than spared for fetal growth** — the rationale for adequate carbohydrate.
 - **VITAMIN B12 deficiency** (macrocytosis, hypersegmented neutrophils, clumsiness, forgetfulness) needs **IM cyanocobalamin 1000 µg PLUS folic acid** — **folate alone corrects the anaemia but lets the neuropathy progress**.
 
-**EXAM CONNECTION:** "Additional calories in the first trimester" → **none**. The B12 question tests the dose (**1000 µg IM, not 100 µg**) and the need to give **both**.
+**EXAM CONNECTION:** “Additional calories in the first trimester” → **none**. The B12 question tests the dose (**1000 µg IM, not 100 µg**) and the need to give **both**.
 
-**REMEMBER:** *The baby's calories are spent in the last half of pregnancy.*
+**REMEMBER:** *The baby’s calories are spent in the last half of pregnancy.*
 
 `MB9165, MB9548`
 
@@ -558,15 +558,15 @@
 
 **PEARL:** **GRAVIDA counts ALL pregnancies INCLUDING THE CURRENT ONE** (and including abortions, ectopics and moles). **PARA counts deliveries BEYOND VIABILITY (~20–28 weeks) — a TWIN DELIVERY IS ONE PARA.** **LIVING** = children alive now; **ABORTIONS** = losses before viability.
 
-**UNDERSTAND: **Two rules produce all the errors:** the current pregnancy is in G but not in P**, and **parity counts DELIVERY EVENTS, not babies** — so twins delivered once is **P1, L2**. It matters because **parity, not gravidity, predicts labour behaviour** (the grand multipara's rapid labour, atony and rupture risk).
+**UNDERSTAND: **Two rules produce all the errors:** the current pregnancy is in G but not in P**, and **parity counts DELIVERY EVENTS, not babies** — so twins delivered once is **P1, L2**. It matters because **parity, not gravidity, predicts labour behaviour** (the grand multipara’s rapid labour, atony and rupture risk).
 
 **MUST KNOW:**
 
 - **TPAL** is the alternative 4-digit system: **Term, Preterm, Abortions, Living**.
 - **PRIMIGRAVIDA** — pregnant for the first time; **NULLIPARA** — never delivered beyond viability; **PRIMIPARA** — delivered once; **MULTIPARA** — more than once; **GRAND MULTIPARA** — five or more; **ELDERLY PRIMIGRAVIDA** — first pregnancy at ≥30–35 years.
 - **Risks: PRIMIGRAVIDA — pre-eclampsia, prolonged labour, CPD. GRAND MULTIPARA — malpresentation, anaemia, ATONIC PPH, uterine rupture, placenta praevia. ELDERLY PRIMIGRAVIDA — aneuploidy, hypertension, diabetes, higher caesarean rate.**
-- **Dating: NAEGELE'S RULE — EDD = LMP + 9 months + 7 days** (28-day cycle; adjust otherwise). **First-trimester CROWN–RUMP LENGTH is the most accurate method and overrides an uncertain LMP.**
-- **Fundal height: 12 weeks just above the symphysis; 20 weeks umbilicus; 36 weeks xiphisternum**, then falling slightly with engagement ("lightening").
+- **Dating: NAEGELE’S RULE — EDD = LMP + 9 months + 7 days** (28-day cycle; adjust otherwise). **First-trimester CROWN–RUMP LENGTH is the most accurate method and overrides an uncertain LMP.**
+- **Fundal height: 12 weeks just above the symphysis; 20 weeks umbilicus; 36 weeks xiphisternum**, then falling slightly with engagement (“lightening”).
 
 **EXAM CONNECTION:** Read the history carefully — **include the present pregnancy in G, exclude it from P**.
 
@@ -583,7 +583,7 @@
 
 ### 23. Hydatidiform Mole
 
-**PEARL:** Exaggerated nausea, a uterus large for dates and a **"SNOWSTORM / bunch of grapes"** ultrasound with **NO fetal parts** = **COMPLETE MOLE**, karyotype **46,XX — entirely PATERNAL (androgenetic diploidy)**.
+**PEARL:** Exaggerated nausea, a uterus large for dates and a **“SNOWSTORM / bunch of grapes”** ultrasound with **NO fetal parts** = **COMPLETE MOLE**, karyotype **46,XX — entirely PATERNAL (androgenetic diploidy)**.
 
 **UNDERSTAND:** A complete mole arises when an **empty ovum** (no maternal nucleus) is fertilised by one sperm that duplicates (monospermic, 46,XX in ~90%) or by two sperm (dispermic, 46,XX or XY). Because **paternal genes drive trophoblast growth and maternal genes drive embryonic development** (genomic imprinting), an all-paternal conceptus gives **exuberant trophoblast and no embryo** — explaining the huge hCG, the hyperemesis, the theca lutein cysts and the absent fetus in one stroke. **46,YY does not exist.**
 
@@ -602,7 +602,7 @@
 - **Serial β-hCG weekly until three normal values, then monthly.**
 - **Risk factors for malignant change: COMPLETE mole, age <20 or ≥40, hCG >100,000 IU/mL, uterine size >20 weeks, theca lutein cysts >6 cm, previous molar pregnancy.**
 
-**EXAM CONNECTION:** The question is usually the **karyotype** — complete **46,XX all paternal**, partial **69,XXY triploid**. Don't be lured by "any of these".
+**EXAM CONNECTION:** The question is usually the **karyotype** — complete **46,XX all paternal**, partial **69,XXY triploid**. Don’t be lured by “any of these”.
 
 **REMEMBER:** *All father, no baby — 46,XX complete. Triploid with a fetus — partial.*
 
@@ -617,11 +617,11 @@
 
 **PEARL:** Malignant transformation after a mole is signalled by a **PLATEAU of hCG across 4 values over ≥3 weeks, a RISE of ≥10% across 3 values over 2 weeks, hCG persisting beyond 6 MONTHS, a PERSISTENTLY ENLARGED uterus, and SUBURETHRAL/VAGINAL or myometrial NODULES.** **The mere PRESENCE of theca lutein cysts is NOT an indicator** — only their increasing size or persistence, which simply mirrors persistently high hCG. Treatment follows the **FIGO/WHO PROGNOSTIC SCORE: ≤6 = LOW RISK → SINGLE-AGENT METHOTREXATE with FOLINIC ACID RESCUE (MTX days 1,3,5,7; folinic acid days 2,4,6,8) or actinomycin-D. ≥7 = HIGH RISK → EMA-CO.**
 
-**UNDERSTAND:** **hCG is an almost perfect tumour marker**, made by every trophoblastic cell — so surveillance is biochemical, not radiological. Folinic acid **rescues normal cells from methotrexate's block of dihydrofolate reductase without rescuing the tumour**, permitting higher effective doses with far less mucositis and myelosuppression. The whole philosophy rests on one fact: **trophoblastic tumours are exquisitely chemosensitive and curable even when metastatic**, so the aim is cure with **fertility preserved** — hysterectomy is not required.
+**UNDERSTAND:** **hCG is an almost perfect tumour marker**, made by every trophoblastic cell — so surveillance is biochemical, not radiological. Folinic acid **rescues normal cells from methotrexate’s block of dihydrofolate reductase without rescuing the tumour**, permitting higher effective doses with far less mucositis and myelosuppression. The whole philosophy rests on one fact: **trophoblastic tumours are exquisitely chemosensitive and curable even when metastatic**, so the aim is cure with **fertility preserved** — hysterectomy is not required.
 
 **MUST KNOW:**
 
-- **CHORIOCARCINOMA:** rapidly growing, highly vascular sheets of syncytio- and cytotrophoblast with **NO CHORIONIC VILLI**; metastasises early and haematogenously to the **LUNG (commonest — "CANNONBALL" lesions)**, then vagina, brain and liver. Follows a **mole in ~50%, a normal term pregnancy in ~25%**, and abortion/ectopic in the rest — so **any woman of reproductive age with abnormal bleeding or metastatic disease of unknown origin needs an hCG**.
+- **CHORIOCARCINOMA:** rapidly growing, highly vascular sheets of syncytio- and cytotrophoblast with **NO CHORIONIC VILLI**; metastasises early and haematogenously to the **LUNG (commonest — “CANNONBALL” lesions)**, then vagina, brain and liver. Follows a **mole in ~50%, a normal term pregnancy in ~25%**, and abortion/ectopic in the rest — so **any woman of reproductive age with abnormal bleeding or metastatic disease of unknown origin needs an hCG**.
 - **NEVER biopsy a vaginal metastatic nodule — torrential bleeding.**
 - **The WHO score counts:** age, antecedent pregnancy (mole < abortion < term), interval since it, pre-treatment hCG, largest tumour size, **site of metastases (lung scores least; BRAIN and LIVER most)**, number of metastases, and previous failed chemotherapy.
 - **STAGE: I uterus only; II genital tract spread; III LUNG; IV all other sites (worst).**
@@ -629,7 +629,7 @@
 - **Brain metastases** need high-dose methotrexate with intrathecal therapy and/or whole-brain radiotherapy; heavy tumour burden risks **haemorrhage at the start of chemotherapy**.
 - **PLACENTAL SITE TROPHOBLASTIC TUMOUR is the exception: LITTLE hCG (raised hPL instead), CHEMORESISTANT — treat by HYSTERECTOMY.**
 
-**EXAM CONNECTION:** "All are indicators EXCEPT" → **an increased number of theca lutein cysts**. Low-risk metastatic GTN → **methotrexate WITH folinic acid** (not methotrexate alone, not EMA-CO).
+**EXAM CONNECTION:** “All are indicators EXCEPT” → **an increased number of theca lutein cysts**. Low-risk metastatic GTN → **methotrexate WITH folinic acid** (not methotrexate alone, not EMA-CO).
 
 **REMEMBER:** *Follow the hCG curve — a plateau or a rise is cancer until proved otherwise; six or less is one drug, seven or more is EMA-CO.*
 
@@ -648,14 +648,14 @@
 
 **MUST KNOW:**
 
-- **Evacuate by SUCTION (manual vacuum aspiration or electric), not sharp curettage** — lower risk of perforation and **ASHERMAN'S SYNDROME**.
+- **Evacuate by SUCTION (manual vacuum aspiration or electric), not sharp curettage** — lower risk of perforation and **ASHERMAN’S SYNDROME**.
 - **GIVE ANTI-D to every Rh-negative non-sensitised woman after ANY abortion, ectopic or evacuation.**
 - **Method of induced abortion by gestation: MEDICAL (mifepristone + misoprostol) up to 9 weeks; SUCTION/VACUUM ASPIRATION 7–12 weeks; 12–20 weeks medical induction (misoprostol) or D&E.** Ethacridine lactate and concentrated oxytocin are historical.
 - **WHO/CDC define abortion as loss before 20 weeks or fetal weight <500 g.**
-- **RECURRENT PREGNANCY LOSS (≥2–3 consecutive) workup: ANTIPHOSPHOLIPID ANTIBODIES (the only proven treatable cause — aspirin plus heparin), parental karyotype, uterine anatomy (septum, submucous fibroid, Asherman's), thyroid function and diabetes, cervical insufficiency.**
+- **RECURRENT PREGNANCY LOSS (≥2–3 consecutive) workup: ANTIPHOSPHOLIPID ANTIBODIES (the only proven treatable cause — aspirin plus heparin), parental karyotype, uterine anatomy (septum, submucous fibroid, Asherman’s), thyroid function and diabetes, cervical insufficiency.**
 - **CERVICAL INSUFFICIENCY = PAINLESS mid-trimester dilatation and loss; treat with CERCLAGE (McDonald or Shirodkar) at 12–14 weeks, or progesterone.**
 
-**EXAM CONNECTION:** Open os with visible products → **surgical evacuation**. "10 weeks, best method" → **vacuum aspiration** (medical efficacy falls after 9 weeks).
+**EXAM CONNECTION:** Open os with visible products → **surgical evacuation**. “10 weeks, best method” → **vacuum aspiration** (medical efficacy falls after 9 weeks).
 
 **REMEMBER:** *Feel the cervix — open means empty it, closed means decide whether it is alive.*
 
@@ -667,7 +667,7 @@
 
 **PEARL: **Normal milestones on TVS:** gestational sac 4.5–5 weeks, YOLK SAC 5.5 weeks, embryo with CARDIAC ACTIVITY 6 weeks.** Failure is **definite** at **CRL ≥7 mm with no cardiac activity (missed abortion)** or **MEAN SAC DIAMETER ≥25 mm with no embryo (anembryonic pregnancy / blighted ovum)**.
 
-**UNDERSTAND:** These thresholds were deliberately raised (from 5 mm and 16 mm) to give **100% specificity — zero false positives**, because terminating a wanted viable pregnancy on a false diagnosis is unacceptable. Below the cut-offs the answer is never "diagnose failure" but **"repeat the scan in 7–14 days"**. Equally, a 5-week scan showing only a sac is entirely normal — so a bleed at 5 weeks with an intrauterine sac and a closed os is **threatened**, not missed, abortion.
+**UNDERSTAND:** These thresholds were deliberately raised (from 5 mm and 16 mm) to give **100% specificity — zero false positives**, because terminating a wanted viable pregnancy on a false diagnosis is unacceptable. Below the cut-offs the answer is never “diagnose failure” but **“repeat the scan in 7–14 days”**. Equally, a 5-week scan showing only a sac is entirely normal — so a bleed at 5 weeks with an intrauterine sac and a closed os is **threatened**, not missed, abortion.
 
 **MUST KNOW:**
 
@@ -695,7 +695,7 @@
 
 **PEARL:** The **CLASSIC TRIAD is AMENORRHOEA (~75%), ABDOMINAL PAIN (~100%, the most constant feature) and VAGINAL BLEEDING (~70%)**. **SHOULDER-TIP PAIN (referred from diaphragmatic irritation by haemoperitoneum) occurs in ~25% and is NOT part of the triad**, though it is a valuable sign of intraperitoneal blood. The **AMPULLA is the commonest site**; **PID is the commonest cause** and **a previous ectopic the strongest individual risk factor**.
 
-**UNDERSTAND:** The endometrium decidualises in response to the ectopic's hormones and may shed as a **"DECIDUAL CAST"** — which is why the bleeding is typically **scanty, dark and continuous**, unlike the bright heavy bleeding of miscarriage. The **ARIAS-STELLA REACTION** (hypersecretory glands with enlarged, hyperchromatic, atypical nuclei) is the histological counterpart, and can be mistaken for carcinoma.
+**UNDERSTAND:** The endometrium decidualises in response to the ectopic’s hormones and may shed as a **“DECIDUAL CAST”** — which is why the bleeding is typically **scanty, dark and continuous**, unlike the bright heavy bleeding of miscarriage. The **ARIAS-STELLA REACTION** (hypersecretory glands with enlarged, hyperchromatic, atypical nuclei) is the histological counterpart, and can be mistaken for carcinoma.
 
 **MUST KNOW:**
 
@@ -706,7 +706,7 @@
 - **A ruptured ectopic is the leading cause of first-trimester maternal death** — shock, distended tender abdomen, **cervical excitation**, boggy fullness in the pouch of Douglas; **culdocentesis yielding non-clotting blood** is the historical bedside test. **Give anti-D if Rh-negative.**
 - **Criteria for unusual ectopics: STUDDIFORD → primary ABDOMINAL; SPIEGELBERG → OVARIAN; RUBIN → CERVICAL; GODIN (sonographic) → CAESAREAN SCAR.**
 
-**EXAM CONNECTION:** "Not part of the classic triad" → **shoulder-tip pain**; Arias-Stella → **seen in all of the above**.
+**EXAM CONNECTION:** “Not part of the classic triad” → **shoulder-tip pain**; Arias-Stella → **seen in all of the above**.
 
 **REMEMBER:** *Pain, amenorrhoea, bleeding — the shoulder hurts only once the blood reaches the diaphragm. Abdominal Studdiford, Ovarian Spiegelberg, Cervical Rubin, Scar Godin.*
 
@@ -724,12 +724,12 @@
 
 - **Grading: I — confined to the uterus. II — parametrium, tubes, pelvic peritoneum. III — generalised peritonitis, septicaemia, endotoxic shock and acute kidney injury.**
 - **Management:** resuscitation, blood and high vaginal cultures, **broad-spectrum triple antibiotics (beta-lactam + aminoglycoside + METRONIDAZOLE)**, and **evacuation once antibiotics are started**; laparotomy/hysterectomy for perforation, gangrene, abscess or unresponsive sepsis. Give **anti-D** if Rh-negative and **tetanus prophylaxis**.
-- **Complications: endotoxic shock, ACUTE KIDNEY INJURY and RENAL CORTICAL NECROSIS, DIC, ARDS, pelvic abscess, thrombophlebitis, and later ASHERMAN'S SYNDROME and tubal infertility.**
+- **Complications: endotoxic shock, ACUTE KIDNEY INJURY and RENAL CORTICAL NECROSIS, DIC, ARDS, pelvic abscess, thrombophlebitis, and later ASHERMAN’S SYNDROME and tubal infertility.**
 - ***C. PERFRINGENS* is the most fulminant: gas in the tissues, bronze skin discoloration, massive INTRAVASCULAR HAEMOLYSIS with haemoglobinuria and jaundice, rapid renal failure — demands HYSTERECTOMY.**
 - **Unsafe abortion remains a major cause of maternal death in India**; prevention is **safe, legal, accessible abortion services plus contraception**.
 - Differential for post-abortal/postpartum fever: retained products, endometritis, wound and urinary infection, mastitis, thrombophlebitis.
 
-**EXAM CONNECTION:** "Most common organism in septic abortion" → ***E. coli***.
+**EXAM CONNECTION:** “Most common organism in septic abortion” → ***E. coli***.
 
 **REMEMBER:** *E. coli leads, C. perfringens kills — antibiotics and evacuation together, because the retained tissue is the infection.*
 
@@ -751,11 +751,11 @@
 - **Diagnose pre-eclampsia with hypertension after 20 weeks PLUS either proteinuria (≥300 mg/24 h, protein:creatinine ratio ≥0.3, or dipstick 2+) OR any of: PLATELETS <100,000; CREATININE >1.1 mg/dL or doubled; TRANSAMINASES ≥2× normal; PULMONARY OEDEMA; new headache unresponsive to medication or visual symptoms.**
 - **THE AMOUNT OF PROTEINURIA IS NOT A SEVERITY CRITERION.** Severe features are: **BP ≥160/110, platelets <100,000, creatinine >1.1 (or doubled), transaminases 2× normal, pulmonary oedema, new cerebral/visual symptoms, persistent epigastric pain.**
 - **Superimposed pre-eclampsia** = new-onset (or suddenly increased) proteinuria, a sudden rise in previously controlled BP, thrombocytopenia, rising transaminases, new renal insufficiency, pulmonary oedema, new cerebral/visual symptoms, or **fresh retinal changes**. **A RISE OF 30 mmHg SYSTOLIC / 15 mmHg DIASTOLIC IS NO LONGER A CRITERION** — the most examined negative.
-- **IMMINENT (impending) ECLAMPSIA: severe persistent HEADACHE, VISUAL disturbance (scotomata, blurring — retinal vasospasm, occipital vasogenic oedema, retinal detachment), EPIGASTRIC/RUQ PAIN (Glisson's capsule stretched by hepatic ischaemia and oedema), VOMITING, hyperreflexia with clonus, oliguria.** **PERSISTENT PEDAL OEDEMA IS NOT A WARNING SIGN** — it is common and non-specific, and was removed from the criteria altogether.
+- **IMMINENT (impending) ECLAMPSIA: severe persistent HEADACHE, VISUAL disturbance (scotomata, blurring — retinal vasospasm, occipital vasogenic oedema, retinal detachment), EPIGASTRIC/RUQ PAIN (Glisson’s capsule stretched by hepatic ischaemia and oedema), VOMITING, hyperreflexia with clonus, oliguria.** **PERSISTENT PEDAL OEDEMA IS NOT A WARNING SIGN** — it is common and non-specific, and was removed from the criteria altogether.
 - **About a third of eclamptic seizures occur POSTPARTUM (up to 4–6 weeks)** — vigilance does not end at delivery.
-- **Postpartum antihypertensives compatible with breastfeeding: LABETALOL, NIFEDIPINE, METOPROLOL, ENALAPRIL, CAPTOPRIL, atenolol ("ECLAM-N").** Amlodipine lacks safety data; diuretics may reduce milk supply.
+- **Postpartum antihypertensives compatible with breastfeeding: LABETALOL, NIFEDIPINE, METOPROLOL, ENALAPRIL, CAPTOPRIL, atenolol (“ECLAM-N”).** Amlodipine lacks safety data; diuretics may reduce milk supply.
 
-**EXAM CONNECTION:** BP 150/100 after 20 weeks, no proteinuria, no symptoms → **gestational hypertension**. "Not a criterion for superimposed pre-eclampsia" → **the 30/15 mmHg rise**. Warning-sign multi-select → include head, eyes, epigastrium; **exclude oedema**.
+**EXAM CONNECTION:** BP 150/100 after 20 weeks, no proteinuria, no symptoms → **gestational hypertension**. “Not a criterion for superimposed pre-eclampsia” → **the 30/15 mmHg rise**. Warning-sign multi-select → include head, eyes, epigastrium; **exclude oedema**.
 
 **REMEMBER:** *After twenty weeks and gone by twelve weeks postpartum — otherwise it was never gestational. And no protein is needed: platelets, creatinine, transaminases, lungs or head will do.*
 
@@ -778,7 +778,7 @@
 **MUST KNOW:**
 
 - **First wave (10–12 weeks)** reaches the **decidual** segments; **second wave (16–18 weeks)** should reach the **myometrial** segments. Only the second fails. **VILLOUS trophoblast does exchange; EXTRAVILLOUS trophoblast does the invading.**
-- The persistent muscular spiral arteries show **"ACUTE ATHEROSIS"** — fibrinoid necrosis with lipid-laden macrophages. The classic renal lesion is **GLOMERULAR ENDOTHELIOSIS**.
+- The persistent muscular spiral arteries show **“ACUTE ATHEROSIS”** — fibrinoid necrosis with lipid-laden macrophages. The classic renal lesion is **GLOMERULAR ENDOTHELIOSIS**.
 - **BIOPHYSICAL prediction: raised UTERINE ARTERY PULSATILITY INDEX at 11–14 weeks and a persistent DIASTOLIC NOTCH beyond 20–24 weeks** (reflecting unremodelled, high-resistance spiral arteries) — also predicts IUGR.
 - **BIOCHEMICAL: low PAPP-A and PlGF, high sFlt-1 and sEng, and a raised sFlt-1:PlGF RATIO** (used clinically to **rule out** pre-eclampsia short-term). **Cell-free fetal DNA is INCREASED** from accelerated cytotrophoblast apoptosis.
 - **Also: PROSTACYCLIN (PGI2) FALLS and THROMBOXANE A2 RISES, so the PROSTACYCLIN:THROMBOXANE RATIO FALLS** — exactly why **low-dose aspirin works** (it preferentially inhibits platelet thromboxane while sparing endothelial prostacyclin). Other accepted mechanisms: **reduced nitric oxide, increased vascular sensitivity to ANGIOTENSIN II with reduced angiotensinase, immunological maladaptation, genetic factors.**
@@ -786,7 +786,7 @@
 - **HIGH-RISK (give aspirin): previous pre-eclampsia, chronic hypertension, chronic kidney disease, pre-gestational diabetes, autoimmune disease (SLE/APS), multifetal gestation. MODERATE (two or more): nulliparity, age ≥35, BMI >30, family history, IVF, interpregnancy interval >10 years.**
 - **Delivery of the PLACENTA is the definitive cure** — confirming the placenta as the origin.
 
-**EXAM CONNECTION:** "All true about predictive tests EXCEPT" → **sFlt-1 and sEng are decreased** (they are increased). The invasion question permutes **villous vs extravillous** and **spiral vs radial vs arcuate** — both halves must be right: **extravillous + spiral**.
+**EXAM CONNECTION:** “All true about predictive tests EXCEPT” → **sFlt-1 and sEng are decreased** (they are increased). The invasion question permutes **villous vs extravillous** and **spiral vs radial vs arcuate** — both halves must be right: **extravillous + spiral**.
 
 **REMEMBER:** *The second wave never reaches the myometrium — the starved placenta floods the blood with anti-VEGF, and aspirin only works if started while placentation is still happening.*
 
@@ -833,14 +833,14 @@
 **MUST KNOW:**
 
 - **Check three things before EVERY repeat dose: PATELLAR REFLEX PRESENT, RESPIRATORY RATE ≥12–16/min, URINE OUTPUT ≥30 mL/hour (100 mL over 4 hours). If any fails, withhold the dose.** Serum levels are not routinely needed.
-- **Regimens: PRITCHARD (IM — 4 g IV + 10 g IM loading, then 5 g IM alternate buttocks 4-hourly; suited to settings without infusion pumps); ZUSPAN (IV — 4 g load then 1–2 g/hour); plus SIBAI and DHAKA low-dose regimens for lower body weight or limited monitoring.** **"MAGPIE" IS A TRIAL, NOT A REGIMEN** — it showed magnesium **halves the risk of eclampsia** and is superior to phenytoin and diazepam.
+- **Regimens: PRITCHARD (IM — 4 g IV + 10 g IM loading, then 5 g IM alternate buttocks 4-hourly; suited to settings without infusion pumps); ZUSPAN (IV — 4 g load then 1–2 g/hour); plus SIBAI and DHAKA low-dose regimens for lower body weight or limited monitoring.** **“MAGPIE” IS A TRIAL, NOT A REGIMEN** — it showed magnesium **halves the risk of eclampsia** and is superior to phenytoin and diazepam.
 - **Continue for 24 HOURS after delivery or after the last convulsion, whichever is later.**
 - **Magnesium RELAXES THE UTERUS dose-dependently — so it may contribute to UTERINE ATONY and PPH. Anticipate it.**
 - **Other uses: FETAL NEUROPROTECTION before anticipated preterm birth <32 weeks (reduces cerebral palsy), as a tocolytic (less favoured), and in severe asthma.**
 - **CONTRAINDICATED in MYASTHENIA GRAVIS (precipitates crisis). Caution with CALCIUM CHANNEL BLOCKERS (profound hypotension and neuromuscular blockade) and non-depolarising neuromuscular blockers (potentiation).**
 - Other toxicity features: flushing, warmth, nausea, double vision, slurred speech, weakness, pulmonary oedema, heart block.
 
-**EXAM CONNECTION:** "Features of magnesium toxicity" → **loss of deep tendon reflexes and reduced respiratory rate only**. "Patellar reflex disappears at" → **10 mEq/L**. "Stop MgSO₄ when" → **urine output 60 mL in 4 hours**. "False about MgSO₄" → **it lowers blood pressure**.
+**EXAM CONNECTION:** “Features of magnesium toxicity” → **loss of deep tendon reflexes and reduced respiratory rate only**. “Patellar reflex disappears at” → **10 mEq/L**. “Stop MgSO₄ when” → **urine output 60 mL in 4 hours**. “False about MgSO₄” → **it lowers blood pressure**.
 
 **REMEMBER:** *Reflex, respiration, urine output before every dose, calcium gluconate on the trolley — magnesium stops fits, relaxes the uterus and leaves by the kidney, but never treats the pressure. Pritchard, Zuspan, Sibai, Dhaka are regimens; Magpie is a trial.*
 
@@ -855,19 +855,19 @@
 
 **PEARL:** The **FIRST step in an eclamptic fit is AIRWAY, BREATHING and OXYGENATION in the LEFT LATERAL position — not magnesium.** Then **MgSO₄ → control BP → stabilise → deliver.** **DIAZEPAM should NOT be used** to shorten a convulsion. **ANTEPARTUM ECLAMPSIA carries the WORST prognosis.**
 
-**UNDERSTAND:** An eclamptic fit is usually **self-limiting**; the immediate threats are **hypoxia and aspiration**, which is why airway comes first — magnesium's job is to **prevent the NEXT seizure**. Antepartum eclampsia is worst because **the placenta, the source of the disease, is still in situ**, so the process keeps driving seizures, organ injury and coagulopathy; **postpartum eclampsia has already had its cause removed** and tends to be self-limiting. Same logic: **delivery is the only definitive treatment.**
+**UNDERSTAND:** An eclamptic fit is usually **self-limiting**; the immediate threats are **hypoxia and aspiration**, which is why airway comes first — magnesium’s job is to **prevent the NEXT seizure**. Antepartum eclampsia is worst because **the placenta, the source of the disease, is still in situ**, so the process keeps driving seizures, organ injury and coagulopathy; **postpartum eclampsia has already had its cause removed** and tends to be self-limiting. Same logic: **delivery is the only definitive treatment.**
 
 **MUST KNOW:**
 
 - **Other poor prognostic features: long delay between the first fit and treatment, MORE THAN 10 FITS, COMA BETWEEN FITS, temperature >102 °F with pulse >120/min, systolic BP >200 mmHg, OLIGURIA (<400 mL/24 h) with proteinuria >5 g/24 h, JAUNDICE, and failure to respond to treatment.**
 - **A recurrent fit while already on magnesium is treated with a further 2 g bolus.** **THIOPENTONE** (not diazepam) is used for refractory seizures; diazepam causes thrombophlebitis and neonatal respiratory depression.
-- **NEVER deliver during a fit — "deliver the mother, not the fetus": stabilise first.** **Eclampsia is NOT by itself an indication for caesarean** — mode of delivery is decided obstetrically.
+- **NEVER deliver during a fit — “deliver the mother, not the fetus”: stabilise first.** **Eclampsia is NOT by itself an indication for caesarean** — mode of delivery is decided obstetrically.
 - **Maternal ACIDOSIS (not alkalosis) follows a fit** and is corrected if severe.
 - **Causes of maternal death: CEREBRAL HAEMORRHAGE (commonest), pulmonary oedema, aspiration pneumonia, acute kidney injury, HELLP with hepatic rupture, DIC, cardiac failure.**
 - **If seizures continue despite adequate magnesium, or there are focal signs or prolonged coma — IMAGE THE BRAIN:** intracranial haemorrhage, cerebral venous thrombosis, **PRES**.
 - The fit is **generalised tonic–clonic, lasting about a minute, in four stages (premonitory, tonic, clonic, coma)**.
 
-**EXAM CONNECTION:** "First step is IV MgSO₄" is a deliberate trap — the airway always precedes it. "Worst prognosis" → **antepartum eclampsia**. Watch the planted **alkalosis/acidosis** switch.
+**EXAM CONNECTION:** “First step is IV MgSO₄” is a deliberate trap — the airway always precedes it. “Worst prognosis” → **antepartum eclampsia**. Watch the planted **alkalosis/acidosis** switch.
 
 **REMEMBER:** *Airway first, magnesium second, delivery last — and in antepartum eclampsia the placenta is still there, so the disease keeps running.*
 
@@ -906,7 +906,7 @@
 
 **IADPSG/WHO (75 g FASTING OGTT at 24–28 weeks): fasting >92, 1 h >180, 2 h >153 mg/dL — ANY ONE abnormal value diagnoses GDM.
 
-**India's **DIPSI** uses a **NON-FASTING 75 g load with a 2-hour value ≥140 mg/dL** in a single step.
+**India’s **DIPSI** uses a **NON-FASTING 75 g load with a 2-hour value ≥140 mg/dL** in a single step.
 
 The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; ≥140 mg/dL at 1 hour is positive and must be confirmed by a formal OGTT.
 
@@ -914,17 +914,17 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **MUST KNOW:**
 
-- **Carpenter–Coustan (100 g, 3 h) requires TWO OR MORE abnormal values** — and its fasting cut-off is **95**, the classic distractor against IADPSG's **92**.
-- **Lowering a screening threshold RAISES SENSITIVITY and lowers specificity** — the GCT's design point.
+- **Carpenter–Coustan (100 g, 3 h) requires TWO OR MORE abnormal values** — and its fasting cut-off is **95**, the classic distractor against IADPSG’s **92**.
+- **Lowering a screening threshold RAISES SENSITIVITY and lowers specificity** — the GCT’s design point.
 - **Risk factors for GDM: obesity, previous macrosomic baby, previous GDM, family history, PCOS, age, prior stillbirth.** Screen high-risk women at the **first antenatal visit** and everyone at **24–28 weeks**.
-- **WHITE'S CLASSIFICATION: CLASS A1 (diet-controlled GDM) is the ONLY class managed by DIET ALONE; A2 and all pre-gestational classes need INSULIN.** **B** — onset after 20 y, duration <10 y. **C** — onset 10–19 y or duration 10–19 y. **D** — onset <10 y, duration >20 y, or **benign retinopathy**. **F** — NEPHROPATHY. **R** — PROLIFERATIVE RETINOPATHY. **H** — ISCHAEMIC HEART DISEASE. **T** — prior renal TRANSPLANT.
+- **WHITE’S CLASSIFICATION: CLASS A1 (diet-controlled GDM) is the ONLY class managed by DIET ALONE; A2 and all pre-gestational classes need INSULIN.** **B** — onset after 20 y, duration <10 y. **C** — onset 10–19 y or duration 10–19 y. **D** — onset <10 y, duration >20 y, or **benign retinopathy**. **F** — NEPHROPATHY. **R** — PROLIFERATIVE RETINOPATHY. **H** — ISCHAEMIC HEART DISEASE. **T** — prior renal TRANSPLANT.
 - ![[diabetes-mellitus-in-pregnancy-4-638-2631275834.jpg]]
-- **The classification's real message is that DURATION AND END-ORGAN DAMAGE, not today's glucose, determine outcome** — the placenta depends on the same microvasculature. **CLASS H carries the HIGHEST MATERNAL MORTALITY (pregnancy may be contraindicated); CLASS F predicts pre-eclampsia, growth restriction and preterm delivery.**
+- **The classification’s real message is that DURATION AND END-ORGAN DAMAGE, not today’s glucose, determine outcome** — the placenta depends on the same microvasculature. **CLASS H carries the HIGHEST MATERNAL MORTALITY (pregnancy may be contraindicated); CLASS F predicts pre-eclampsia, growth restriction and preterm delivery.**
 - **DIABETIC RETINOPATHY CAN PROGRESS RAPIDLY IN PREGNANCY**, especially with abrupt tightening of control — fundus examination each trimester, and laser proliferative disease **before** conception.
 - **Preconception care is the single most valuable intervention: HbA1c <6.5%, 5 mg FOLIC ACID, STOP ACE inhibitors/ARBs and STATINS, screen retina, renal function and thyroid, switch oral agents to insulin.**
 - **GDM confers a ~50% lifetime risk of type 2 diabetes — 75 g OGTT at 6–12 WEEKS POSTPARTUM and lifelong screening.**
 
-**EXAM CONNECTION:** "Overt diabetes cut-off" → **fasting ≥126**. IADPSG numbers → **92 / 180 / 153**. "All managed with insulin EXCEPT" → **class A1**. Screening at 8 weeks with a family history → **HbA1c**.
+**EXAM CONNECTION:** “Overt diabetes cut-off” → **fasting ≥126**. IADPSG numbers → **92 / 180 / 153**. “All managed with insulin EXCEPT” → **class A1**. Screening at 8 weeks with a family history → **HbA1c**.
 
 **REMEMBER:** *Ninety-two, one-eighty, one-fifty-three — any one is enough. A1 is diet, everything else is insulin.*
 
@@ -936,7 +936,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** **ONLY OVERT (pregestational) DIABETES CAUSES CONGENITAL MALFORMATIONS.** GDM begins in the **second trimester, after organogenesis is complete**, so it causes **macrosomia, polyhydramnios, birth trauma, neonatal hypoglycaemia and stillbirth — but NOT malformations.**
 
-**UNDERSTAND:** The distinction is purely about **TIMING relative to organogenesis (weeks 3–8)**. Hyperglycaemia in that window is teratogenic; hyperglycaemia after it simply **drives fetal hyperinsulinaemia**, and insulin is the fetus's main growth hormone — producing macrosomia and organomegaly, then **sudden hypoglycaemia at birth** when the maternal glucose supply is cut but fetal insulin stays high.
+**UNDERSTAND:** The distinction is purely about **TIMING relative to organogenesis (weeks 3–8)**. Hyperglycaemia in that window is teratogenic; hyperglycaemia after it simply **drives fetal hyperinsulinaemia**, and insulin is the fetus’s main growth hormone — producing macrosomia and organomegaly, then **sudden hypoglycaemia at birth** when the maternal glucose supply is cut but fetal insulin stays high.
 
 **MUST KNOW:**
 
@@ -945,7 +945,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Maternal complications: pre-eclampsia, polyhydramnios, increased operative delivery, future type 2 diabetes.**
 - **Fetal surveillance in pre-gestational diabetes: detailed ANOMALY SCAN plus FETAL ECHOCARDIOGRAPHY at 18–22 weeks, serial growth scans, antenatal testing from 32 weeks.**
 
-**EXAM CONNECTION:** "Seen in GDM EXCEPT" → **malformations**.
+**EXAM CONNECTION:** “Seen in GDM EXCEPT” → **malformations**.
 
 **REMEMBER:** *GDM starts too late to malform — it only makes the baby big and then hypoglycaemic.*
 
@@ -965,7 +965,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **ELECTIVE CAESAREAN DOES reduce brachial plexus injury in the macrosomic infant** — recommended at estimated fetal weight **≥4.5 kg in diabetics (≥5 kg in non-diabetics)**, because **diabetic macrosomia is TRUNCAL and shoulder-predominant**. Sonographic weight carries a **±10–15% error**, so the decision is clinical as well.
 - Safe insulins: short-acting analogues **lispro, aspart**; **NPH/detemir**. **Metformin and insulin are both acceptable in lactation**, and breastfeeding lowers later type 2 diabetes risk in mother and child.
 
-**EXAM CONNECTION:** "Which statement is NOT true?" → the one attaching **PIH** to an oral agent. "False regarding management" → **elective caesarean has no role in reducing brachial plexus injury** (it does).
+**EXAM CONNECTION:** “Which statement is NOT true?” → the one attaching **PIH** to an oral agent. “False regarding management” → **elective caesarean has no role in reducing brachial plexus injury** (it does).
 
 **REMEMBER:** *Insulin is too big to cross; the sulfonylurea slips through and feeds the fetal pancreas. Night insulin yes, morning insulin no — and the requirement collapses the moment the placenta is out.*
 
@@ -986,10 +986,10 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 - **UNFRACTIONATED heparin near term because its SHORTER HALF-LIFE and reversibility with PROTAMINE reduce bleeding and permit regional anaesthesia. LMWH must be stopped 24 hours before a neuraxial block (12 hours for prophylactic doses) to avoid SPINAL HAEMATOMA.**
 - **Restart 6 hours after vaginal delivery, 6–12 hours after caesarean; overlap heparin with warfarin until the INR is therapeutic. BOTH warfarin and heparin are SAFE IN BREASTFEEDING. DOACs are CONTRAINDICATED in pregnancy and lactation.**
-- **Heparin's own risks: OSTEOPOROSIS and HEPARIN-INDUCED THROMBOCYTOPENIA (both far lower with LMWH).**
+- **Heparin’s own risks: OSTEOPOROSIS and HEPARIN-INDUCED THROMBOCYTOPENIA (both far lower with LMWH).**
 - **APS obstetric criteria: ≥3 unexplained consecutive losses before 10 weeks; ≥1 unexplained fetal death at or after 10 weeks; or ≥1 preterm birth before 34 weeks from eclampsia, severe pre-eclampsia or placental insufficiency — PLUS a persistently positive antibody (LUPUS ANTICOAGULANT, ANTICARDIOLIPIN or ANTI-β2-GLYCOPROTEIN I) on TWO occasions 12 WEEKS APART.**
 - **Aspirin alone is inadequate in APS, and STEROIDS ADD NO BENEFIT while increasing harm.** APS also causes arterial and venous thrombosis, thrombocytopenia, livedo reticularis, severe early pre-eclampsia and FGR, with a **PARADOXICALLY PROLONGED aPTT that fails to correct on mixing**.
-- **HOMAN'S SIGN** — calf pain on **dorsiflexion of the foot** — is unreliable (poor sensitivity and specificity). **COMPRESSION ULTRASOUND WITH DOPPLER is the investigation of choice.** DVT in pregnancy is commoner in the **LEFT leg** (the right iliac artery compresses the left iliac vein).
+- **HOMAN’S SIGN** — calf pain on **dorsiflexion of the foot** — is unreliable (poor sensitivity and specificity). **COMPRESSION ULTRASOUND WITH DOPPLER is the investigation of choice.** DVT in pregnancy is commoner in the **LEFT leg** (the right iliac artery compresses the left iliac vein).
 
 **EXAM CONNECTION:** Warfarin embryopathy in the first trimester → **replace warfarin with heparin**.
 
@@ -1001,7 +1001,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 39. Fetal Congenital Heart Block, Anti-Ro and SLE
 
-**PEARL:** **CONGENITAL COMPLETE HEART BLOCK in a fetus should prompt evaluation of the mother for SLE and Sjögren's — specifically ANTI-Ro/SSA and ANTI-La/SSB ANTIBODIES**, which cross the placenta and damage the conducting tissue between the AV node and the bundle of His. The block is **PERMANENT and usually needs a PACEMAKER.**
+**PEARL:** **CONGENITAL COMPLETE HEART BLOCK in a fetus should prompt evaluation of the mother for SLE and Sjögren’s — specifically ANTI-Ro/SSA and ANTI-La/SSB ANTIBODIES**, which cross the placenta and damage the conducting tissue between the AV node and the bundle of His. The block is **PERMANENT and usually needs a PACEMAKER.**
 
 **UNDERSTAND:** These are **IgG antibodies, and only IgG crosses the placenta** (actively, from 16 weeks, peaking in the third trimester) — hence fetal cardiac monitoring **between 18 and 26 weeks**, the window of maximal transfer and vulnerability. The antibodies **bind fetal cardiac antigens exposed during apoptosis, provoking inflammation then FIBROSIS** — and fibrosis cannot be reversed, which is exactly why the block is permanent while the rash of neonatal lupus resolves.
 
@@ -1025,18 +1025,18 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** **VIRAL HEPATITIS — not obstetric cholestasis — is the COMMONEST CAUSE OF JAUNDICE IN PREGNANCY** (hepatitis E in India carries up to **20% mortality** in the third trimester). **INTRAHEPATIC CHOLESTASIS is the commonest PREGNANCY-SPECIFIC liver disorder:** third-trimester **PRURITUS of PALMS AND SOLES, worse at night, WITHOUT a rash**, with raised **BILE ACIDS** and a risk of sudden **STILLBIRTH**. **AFLP is separated from HELLP by the markers of HEPATIC SYNTHETIC FAILURE: HYPOGLYCAEMIA, LOW FIBRINOGEN with prolonged PT/INR, and RAISED AMMONIA** — thrombocytopenia, raised LDH and raised transaminases occur in **both** and cannot separate them.
 
-**UNDERSTAND:** The itch of cholestasis comes from **retained BILE ACIDS**, so the diagnosis rests on **serum bile acids, not transaminases or bilirubin** (jaundice in only ~10%), and **fetal risk correlates with the bile acid level** (>100 µmol/L is highest risk, probably via a direct arrhythmogenic effect on the fetal heart). For AFLP vs HELLP, ask **"is the liver still manufacturing?"** — HELLP is a **microangiopathy** (platelets consumed, red cells sheared, periportal necrosis) but the **hepatocytes still work**, so glucose and clotting factors keep coming; AFLP is **true acute liver FAILURE** from microvesicular steatosis, so **gluconeogenesis fails (hypoglycaemia), factor and fibrinogen synthesis fails (coagulopathy), and the urea cycle fails (hyperammonaemia and encephalopathy)**. AFLP itself is a **MITOCHONDRIAL fatty-acid oxidation disorder**: a fetus homozygous for **LCHAD deficiency** floods the heterozygous mother with unmetabolised intermediates — which is why **DELIVERY IS THE ONLY TREATMENT** and why **the newborn must be screened**.
+**UNDERSTAND:** The itch of cholestasis comes from **retained BILE ACIDS**, so the diagnosis rests on **serum bile acids, not transaminases or bilirubin** (jaundice in only ~10%), and **fetal risk correlates with the bile acid level** (>100 µmol/L is highest risk, probably via a direct arrhythmogenic effect on the fetal heart). For AFLP vs HELLP, ask **“is the liver still manufacturing?”** — HELLP is a **microangiopathy** (platelets consumed, red cells sheared, periportal necrosis) but the **hepatocytes still work**, so glucose and clotting factors keep coming; AFLP is **true acute liver FAILURE** from microvesicular steatosis, so **gluconeogenesis fails (hypoglycaemia), factor and fibrinogen synthesis fails (coagulopathy), and the urea cycle fails (hyperammonaemia and encephalopathy)**. AFLP itself is a **MITOCHONDRIAL fatty-acid oxidation disorder**: a fetus homozygous for **LCHAD deficiency** floods the heterozygous mother with unmetabolised intermediates — which is why **DELIVERY IS THE ONLY TREATMENT** and why **the newborn must be screened**.
 
 **MUST KNOW:**
 
 - **Cholestasis: URSODEOXYCHOLIC ACID, vitamin K if the PT is prolonged, and DELIVERY at 37–38 weeks (earlier if bile acids are very high). Recurrence 45–70%, and it also recurs with combined oral contraceptives.**
 - **AFLP: THIRD TRIMESTER or early postpartum — the commonest cause of ACUTE LIVER FAILURE in pregnancy.** Nausea and vomiting, progressive **jaundice**, epigastric pain, polyuria/polydipsia (transient diabetes insipidus), encephalopathy. **SWANSEA CRITERIA.** **20–40% coexist with pre-eclampsia.** Treat with **PROMPT DELIVERY** plus glucose, FFP/cryoprecipitate, N-acetylcysteine, and transplantation in the few who do not recover.
 - **HELLP: Haemolysis (schistocytes, raised LDH, indirect bilirubin, low haptoglobin), Elevated Liver enzymes, Low Platelets (<100,000)** — **15–20% have neither hypertension nor proteinuria.** Complications: **SUBCAPSULAR LIVER HAEMATOMA (severe RUQ pain — beware rupture), DIC, abruption, ARDS, AKI.**
-- **Map by trimester: FIRST — HYPEREMESIS GRAVIDARUM (mild transaminitis, ketonuria, weight loss; linked to molar and multiple pregnancy; fluids, THIAMINE to prevent Wernicke's, antiemetics). SECOND/THIRD — cholestasis. THIRD — pre-eclampsia/HELLP and AFLP.**
+- **Map by trimester: FIRST — HYPEREMESIS GRAVIDARUM (mild transaminitis, ketonuria, weight loss; linked to molar and multiple pregnancy; fluids, THIAMINE to prevent Wernicke’s, antiemetics). SECOND/THIRD — cholestasis. THIRD — pre-eclampsia/HELLP and AFLP.**
 - **GESTATIONAL DIABETES does NOT cause liver dysfunction.**
 - **Pruritus WITH a rash (PUPPP/polymorphic eruption, pemphigoid gestationis, atopic eruption) vs WITHOUT a rash (cholestasis)** — the primary lesion is the discriminator.
 
-**EXAM CONNECTION:** "Incorrect about obstetric cholestasis" → **it is the commonest cause of jaundice in pregnancy** (viral hepatitis is). AFLP-vs-HELLP stems deliberately list the shared features — select only the three **synthetic-failure** items.
+**EXAM CONNECTION:** “Incorrect about obstetric cholestasis” → **it is the commonest cause of jaundice in pregnancy** (viral hepatitis is). AFLP-vs-HELLP stems deliberately list the shared features — select only the three **synthetic-failure** items.
 
 **REMEMBER:** *Itchy palms and soles at night with no rash — check bile acids and deliver at 37 weeks. HELLP breaks the blood; AFLP stops the factory.*
 
@@ -1050,7 +1050,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 41. Peripartum Cardiomyopathy
 
-**PEARL:** PPCM is a **DILATED cardiomyopathy with LEFT VENTRICULAR SYSTOLIC — not diastolic — DYSFUNCTION (EF <45%)**, developing in the **LAST MONTH of pregnancy or within 5 MONTHS of delivery**, with **NO identifiable cause and no pre-existing heart disease** (Pearson's criteria).
+**PEARL:** PPCM is a **DILATED cardiomyopathy with LEFT VENTRICULAR SYSTOLIC — not diastolic — DYSFUNCTION (EF <45%)**, developing in the **LAST MONTH of pregnancy or within 5 MONTHS of delivery**, with **NO identifiable cause and no pre-existing heart disease** (Pearson’s criteria).
 
 **UNDERSTAND:** The mechanism involves a **cleaved 16 kDa fragment of PROLACTIN** together with the placental antiangiogenic factor **sFlt-1** — which is why **BROMOCRIPTINE (a prolactin inhibitor)** is used as adjunctive therapy alongside standard heart failure treatment.
 
@@ -1060,7 +1060,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Heart failure treatment in pregnancy: beta-blockers, diuretics and hydralazine/nitrates are acceptable; ACE INHIBITORS AND ARBs ARE CONTRAINDICATED ANTENATALLY but may be used postpartum (enalapril and captopril are compatible with breastfeeding).** Anticoagulate if the ejection fraction is very low.
 - **About half recover LV function within 6 months. A SUBSEQUENT PREGNANCY carries a high relapse risk and is STRONGLY DISCOURAGED IF LV FUNCTION HAS NOT NORMALISED.**
 
-**EXAM CONNECTION:** "True about PPCM EXCEPT" → **diastolic dysfunction** (it is systolic).
+**EXAM CONNECTION:** “True about PPCM EXCEPT” → **diastolic dysfunction** (it is systolic).
 
 **REMEMBER:** *Dilated, systolic failure of the last month to five months post — and prognosis is the ejection fraction.*
 
@@ -1083,7 +1083,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Uric acid FALLS in early pregnancy and RISES in pre-eclampsia.**
 - **Imaging: ULTRASOUND is safe; MRI without gadolinium is acceptable; GADOLINIUM IS AVOIDED (it crosses the placenta).**
 
-**EXAM CONNECTION:** "Not seen in renal changes of pregnancy" → **pelvicalyceal dilatation more on the LEFT** (it is more on the right).
+**EXAM CONNECTION:** “Not seen in renal changes of pregnancy” → **pelvicalyceal dilatation more on the LEFT** (it is more on the right).
 
 **REMEMBER:** *Everything gets bigger and faster, creatinine falls, and the RIGHT ureter is the one that kinks.*
 
@@ -1103,10 +1103,10 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **IODINE requirement RISES to 250 µg/day** (increased renal clearance plus fetal demand); deficiency causes maternal goitre and **CRETINISM** in the child.
 - **HYPOTHYROIDISM: increase levothyroxine by 25–30% as soon as pregnancy is confirmed and check TSH every 4–6 weeks.** Untreated: miscarriage, pre-eclampsia, abruption, preterm birth, low birth weight, impaired child IQ. **THE FETAL THYROID DOES NOT FUNCTION UNTIL 12 WEEKS — until then the fetal brain depends entirely on MATERNAL T4**, which is why first-trimester treatment matters most.
 - **HYPERTHYROIDISM: PROPYLTHIOURACIL in the FIRST trimester** (carbimazole/methimazole causes **APLASIA CUTIS** and choanal/oesophageal atresia), then **SWITCH TO CARBIMAZOLE from the second trimester** (PTU is hepatotoxic). Use the **lowest dose keeping free T4 HIGH-NORMAL** — the drugs cross and can cause fetal hypothyroidism and goitre. **RADIOIODINE IS ABSOLUTELY CONTRAINDICATED.**
-- **In GRAVES' DISEASE, maternal TSH RECEPTOR ANTIBODIES CROSS THE PLACENTA** and can cause **fetal/neonatal thyrotoxicosis even in a mother rendered euthyroid or previously ablated** — measure TRAb in the second trimester, monitor fetal heart rate and growth.
+- **In GRAVES’ DISEASE, maternal TSH RECEPTOR ANTIBODIES CROSS THE PLACENTA** and can cause **fetal/neonatal thyrotoxicosis even in a mother rendered euthyroid or previously ablated** — measure TRAb in the second trimester, monitor fetal heart rate and growth.
 - **POSTPARTUM THYROIDITIS (~5%): a transient thyrotoxic phase then a hypothyroid phase, associated with anti-TPO antibodies.**
 
-**EXAM CONNECTION:** "What is altered throughout pregnancy" → **total T3 (and total T4)**.
+**EXAM CONNECTION:** “What is altered throughout pregnancy” → **total T3 (and total T4)**.
 
 **REMEMBER:** *More carrier protein, more total hormone, the same free hormone — and hCG nudges the TSH down early.*
 
@@ -1118,7 +1118,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** First-line management is **small, frequent meals** — avoiding triggers, dry bland carbohydrates, ginger, and **pyridoxine ± doxylamine**. Escalate to antiemetics only if lifestyle measures fail.
 
-**MUST KNOW:** **HYPEREMESIS GRAVIDARUM = persistent vomiting with >5% weight loss, KETONURIA and electrolyte disturbance** — needs admission, IV fluids and **THIAMINE (to prevent Wernicke's encephalopathy)**. It is associated with **molar and multiple pregnancy** and with **hCG-driven thyrotoxicosis**.
+**MUST KNOW:** **HYPEREMESIS GRAVIDARUM = persistent vomiting with >5% weight loss, KETONURIA and electrolyte disturbance** — needs admission, IV fluids and **THIAMINE (to prevent Wernicke’s encephalopathy)**. It is associated with **molar and multiple pregnancy** and with **hCG-driven thyrotoxicosis**.
 
 **REMEMBER:** *Diet first; think hyperemesis when there is weight loss and ketones.*
 
@@ -1141,9 +1141,9 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Post-exposure: check immunity (most adults are immune); a non-immune pregnant woman gets VZIG within 10 days of exposure.**
 - **The VARICELLA VACCINE IS LIVE — contraindicated in pregnancy; avoid conception for 1 month after. Vaccinate non-immune women BEFORE pregnancy.**
 - **HERPES ZOSTER (shingles) in pregnancy does NOT cause fetal varicella syndrome** — reactivation in an immune mother is no fetal risk.
-- **Compare the other congenital infections: RUBELLA — worst in the FIRST trimester; cataract, sensorineural deafness, PDA/pulmonary artery stenosis. CMV — periventricular calcification and deafness. TOXOPLASMOSIS — transmission RISES with gestation but SEVERITY FALLS; diffuse intracranial calcification, hydrocephalus, chorioretinitis. SYPHILIS — after 16 weeks; snuffles, Hutchinson's teeth, saddle nose, sabre shins.**
+- **Compare the other congenital infections: RUBELLA — worst in the FIRST trimester; cataract, sensorineural deafness, PDA/pulmonary artery stenosis. CMV — periventricular calcification and deafness. TOXOPLASMOSIS — transmission RISES with gestation but SEVERITY FALLS; diffuse intracranial calcification, hydrocephalus, chorioretinitis. SYPHILIS — after 16 weeks; snuffles, Hutchinson’s teeth, saddle nose, sabre shins.**
 
-**EXAM CONNECTION:** "Maximum risk of fetal varicella syndrome" → **13–20 weeks**.
+**EXAM CONNECTION:** “Maximum risk of fetal varicella syndrome” → **13–20 weeks**.
 
 **REMEMBER:** *Thirteen to twenty weeks scars the skin and stunts the limb; five days before to two days after delivery kills the newborn.*
 
@@ -1191,7 +1191,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **No improvement within 48–72 hours → image for OBSTRUCTION, renal or perinephric ABSCESS, or resistance — ultrasound first.**
 - **Monitor respiratory rate and oxygen saturation (ARDS is often precipitated by over-vigorous fluids plus endotoxin) and watch for uterine contractions.**
 
-**EXAM CONNECTION:** "Incorrect regarding management" → **discharge after 72 hours afebrile with only 5 days of antibiotics** (it is 10–14 days plus suppression). Numeric recall: **25% symptomatic, 20–30% pyelonephritis**.
+**EXAM CONNECTION:** “Incorrect regarding management” → **discharge after 72 hours afebrile with only 5 days of antibiotics** (it is 10–14 days plus suppression). Numeric recall: **25% symptomatic, 20–30% pyelonephritis**.
 
 **REMEMBER:** *In pregnancy the ureters are lazy — silent bacteria climb, so always treat. Admit, culture, hydrate, treat for two weeks, then suppress until she delivers.*
 
@@ -1209,7 +1209,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 - **Treatment of established fetal anaemia: INTRAUTERINE TRANSFUSION** — usually curative, since the aplasia is transient and the fetus recovers its own erythropoiesis.
 - **Vertical transmission ~30%; fetal loss is highest with infection BEFORE 20 WEEKS. B19 is NOT teratogenic** — there is no congenital syndrome, unlike rubella or CMV.
-- **Maternal/childhood disease: ERYTHEMA INFECTIOSUM ("fifth disease") — SLAPPED-CHEEK rash with a lacy reticular body rash in children (no longer infectious once the rash appears); in adults, fever, malaise and symmetrical ARTHROPATHY of hands, wrists and knees.**
+- **Maternal/childhood disease: ERYTHEMA INFECTIOSUM (“fifth disease”) — SLAPPED-CHEEK rash with a lacy reticular body rash in children (no longer infectious once the rash appears); in adults, fever, malaise and symmetrical ARTHROPATHY of hands, wrists and knees.**
 - **B19 causes APLASTIC CRISIS in chronic haemolytic anaemias (sickle cell, hereditary spherocytosis, thalassaemia) and chronic pure red cell aplasia in the immunocompromised (treat with IVIG).**
 - **Amniocentesis for fetal PCR is not required for management**, and IVIG has no established role in fetal treatment.
 - **Non-immune hydrops: severe anaemia (parvovirus, alpha-thalassaemia major/Bart hydrops, fetomaternal haemorrhage), cardiac arrhythmia and structural disease, twin-to-twin transfusion, aneuploidy, congenital infection. IMMUNE hydrops = Rh alloimmunisation**, monitored by the same MCA Doppler.
@@ -1226,20 +1226,20 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 49. Placenta Praevia versus Abruption
 
-**PEARL:** **PAINLESS, CAUSELESS, RECURRENT, APPARENT bright-red bleeding, often during sleep, with a RELAXED, NON-TENDER uterus, a HIGH presenting part and a normal fetal heart = PLACENTA PRAEVIA.** **PAINFUL bleeding with a TENSE, TENDER, "WOODY" uterus in a HYPERTENSIVE woman = ABRUPTION.** Praevia's complications include malpresentation, preterm labour, PPH (the lower segment contracts poorly), sepsis, birth asphyxia and low birth weight — **but NOT PRECIPITATE LABOUR**, which belongs to abruption and tachysystole.
+**PEARL:** **PAINLESS, CAUSELESS, RECURRENT, APPARENT bright-red bleeding, often during sleep, with a RELAXED, NON-TENDER uterus, a HIGH presenting part and a normal fetal heart = PLACENTA PRAEVIA.** **PAINFUL bleeding with a TENSE, TENDER, “WOODY” uterus in a HYPERTENSIVE woman = ABRUPTION.** Praevia’s complications include malpresentation, preterm labour, PPH (the lower segment contracts poorly), sepsis, birth asphyxia and low birth weight — **but NOT PRECIPITATE LABOUR**, which belongs to abruption and tachysystole.
 
 **UNDERSTAND:** The two differ in **where the blood is and what the uterus is doing**. In praevia the placenta separates from the **lower segment as it stretches — painlessly, the blood escaping freely (revealed)**. In abruption blood is forced **into the myometrium (COUVELAIRE uterus), which is irritant** — continuous pain, a hard hypertonic uterus, often **concealed** bleeding, and a uterus so irritable that labour may be **precipitate**. The classic error is expecting visible blood to match the degree of shock in abruption — **it does not**.
 
 **MUST KNOW:**
 
-- ***NEVER PERFORM A VAGINAL EXAMINATION IN SUSPECTED PLACENTA PRAEVIA*** — it can provoke torrential haemorrhage. Confirm with **TRANSVAGINAL ULTRASOUND** (safe and more accurate than transabdominal), or a "double set-up" examination in theatre if delivery is planned.
-- **Praevia grading: I (low-lying) and II (marginal) are MINOR; III (partially covering) and IV (completely covering the os) are MAJOR and require CAESAREAN.** Diagnosis before 28 weeks is provisional — most low placentas **"migrate"** upwards as the lower segment forms.
+- ***NEVER PERFORM A VAGINAL EXAMINATION IN SUSPECTED PLACENTA PRAEVIA*** — it can provoke torrential haemorrhage. Confirm with **TRANSVAGINAL ULTRASOUND** (safe and more accurate than transabdominal), or a “double set-up” examination in theatre if delivery is planned.
+- **Praevia grading: I (low-lying) and II (marginal) are MINOR; III (partially covering) and IV (completely covering the os) are MAJOR and require CAESAREAN.** Diagnosis before 28 weeks is provisional — most low placentas **“migrate”** upwards as the lower segment forms.
 - **Expectant (McAFEE–JOHNSON) management of praevia** for a preterm, stable woman with a live fetus: hospitalisation, corticosteroids, anti-D if Rh-negative, delivery at **~36–37 weeks**.
 - **ABRUPTION risk factors: HYPERTENSION/pre-eclampsia (commonest), PREVIOUS ABRUPTION (strongest single predictor), trauma, smoking, cocaine, polyhydramnios with sudden decompression, PPROM, thrombophilia, advanced age and multiparity.**
 - **Abruption complications: DIC (thromboplastin release — the commonest obstetric cause of coagulopathy), acute kidney injury and RENAL CORTICAL NECROSIS, PPH from a Couvelaire uterus, Sheehan syndrome, high perinatal mortality.**
 - **VASA PRAEVIA is the third cause of APH: painless bleeding at membrane rupture with rapid FETAL exsanguination.**
 
-**EXAM CONNECTION:** "Complication NOT anticipated in praevia" → **precipitate labour**.
+**EXAM CONNECTION:** “Complication NOT anticipated in praevia” → **precipitate labour**.
 
 **REMEMBER:** *Painless bleeding from a soft uterus is praevia; painful bleeding from a hard uterus is abruption — and think DIC.*
 
@@ -1273,19 +1273,19 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** A woman with **two previous caesareans** must be consented for the accreta spectrum: **massive haemorrhage and transfusion, BLADDER and URETERIC injury, and caesarean HYSTERECTOMY.** **BOWEL INJURY IS NOT a typical consequence** — the placenta invades **forward into the bladder**, not backward.
 
-**UNDERSTAND:** Accreta occurs where the **decidua basalis and Nitabuch's layer are absent over a scar**, so villi implant directly into myometrium. The uterine scar and a **praevia** lie in the **lower anterior segment, immediately behind the bladder**, so invasion (**percreta**) tracks anteriorly. That anatomy dictates the whole risk profile — **urological, not intestinal**.
+**UNDERSTAND:** Accreta occurs where the **decidua basalis and Nitabuch’s layer are absent over a scar**, so villi implant directly into myometrium. The uterine scar and a **praevia** lie in the **lower anterior segment, immediately behind the bladder**, so invasion (**percreta**) tracks anteriorly. That anatomy dictates the whole risk profile — **urological, not intestinal**.
 
 **MUST KNOW:**
 
 - **Grades: ACCRETA** (villi attached to myometrium), **INCRETA** (invade myometrium), **PERCRETA** (through serosa, often into bladder).
 - **Risk = PREVIOUS CAESAREAN + PLACENTA PRAEVIA, and it multiplies: with praevia, ~3% after one caesarean, ~11% after two, >60% after four or more.** Also: previous myomectomy, curettage, **Asherman syndrome**, submucous fibroids, advanced maternal age.
-- **Antenatal diagnosis: greyscale ultrasound with colour Doppler** — loss of the retroplacental clear zone, **placental lacunae ("moth-eaten"/Swiss-cheese)**, bladder-wall interruption, increased subplacental vascularity; **MRI** for posterior placentas or parametrial/bladder invasion.
+- **Antenatal diagnosis: greyscale ultrasound with colour Doppler** — loss of the retroplacental clear zone, **placental lacunae (“moth-eaten”/Swiss-cheese)**, bladder-wall interruption, increased subplacental vascularity; **MRI** for posterior placentas or parametrial/bladder invasion.
 - **Management: PLANNED CAESAREAN HYSTERECTOMY at 34–36 weeks in a tertiary centre** — multidisciplinary team, cross-matched blood, cell salvage, urology on standby, ± ureteric stents or interventional radiology balloons, plus antenatal corticosteroids. **DO NOT ATTEMPT TO REMOVE THE PLACENTA** — leave it in situ and proceed to hysterectomy.
 - Consent must include **hysterectomy, massive transfusion, bladder/ureteric injury, ICU admission, re-laparotomy and loss of fertility.**
 
-**EXAM CONNECTION:** "Which is NOT required in the consent?" → the anatomically implausible one (**bowel**). Everything urological or haemorrhagic is required.
+**EXAM CONNECTION:** “Which is NOT required in the consent?” → the anatomically implausible one (**bowel**). Everything urological or haemorrhagic is required.
 
-**REMEMBER:** *The scar and the placenta sit in front of the bladder — that's what gets injured.*
+**REMEMBER:** *The scar and the placenta sit in front of the bladder — that’s what gets injured.*
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/84268612f965433bacb61fb002a017edx600x1200.PNG)
@@ -1298,20 +1298,20 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 52. Chorionicity and Amnionicity
 
-**PEARL:** **Chorionicity must be determined in the FIRST TRIMESTER — 11+0 to 13+6 WEEKS (CRL 45–84 mm)**, before the membranes fuse. **DICHORIONIC → the LAMBDA (twin-peak) SIGN with a thick (>2 mm) FOUR-layer dividing membrane. MONOCHORIONIC DIAMNIOTIC → the "T" SIGN with a thin two-layer membrane. MONOCHORIONIC MONOAMNIOTIC → one placenta, two cords, NO dividing membrane.** **Dizygotic twins are ALWAYS dichorionic diamniotic; "monoamniotic dichorionic" does not exist.**
+**PEARL:** **Chorionicity must be determined in the FIRST TRIMESTER — 11+0 to 13+6 WEEKS (CRL 45–84 mm)**, before the membranes fuse. **DICHORIONIC → the LAMBDA (twin-peak) SIGN with a thick (>2 mm) FOUR-layer dividing membrane. MONOCHORIONIC DIAMNIOTIC → the “T” SIGN with a thin two-layer membrane. MONOCHORIONIC MONOAMNIOTIC → one placenta, two cords, NO dividing membrane.** **Dizygotic twins are ALWAYS dichorionic diamniotic; “monoamniotic dichorionic” does not exist.**
 
 **UNDERSTAND:** **Chorionicity — not zygosity — determines risk and surveillance, because a shared placenta means a shared circulation.** It becomes harder to determine as pregnancy advances because **the membranes thin and fuse** — hence the irreplaceable first-trimester scan. Chorionicity is decided entirely by **when a single zygote splits**: the later the split, the more already-formed membranes are shared. And because **the chorion forms first, an amnion can never be shared while the chorions are separate.**
 
 **MUST KNOW:**
 
 - **Timing of the split: <4 days → DCDA (~30%); 4–8 days → MCDA (commonest, ~70%); 8–13 days → MCMA; >13 days → CONJOINED twins.**
-- **Monochorionic pregnancies need scans EVERY 2 WEEKS from 16 weeks (dichorionic every 4 weeks) to detect TWIN–TWIN TRANSFUSION SYNDROME** — a donor twin who is anaemic, growth-restricted and **OLIGOHYDRAMNIOTIC ("STUCK TWIN")** and a recipient who is plethoric, **POLYHYDRAMNIOTIC** and in high-output cardiac failure. Staged by **QUINTERO**; treated with **FETOSCOPIC LASER ABLATION** of the placental anastomoses.
+- **Monochorionic pregnancies need scans EVERY 2 WEEKS from 16 weeks (dichorionic every 4 weeks) to detect TWIN–TWIN TRANSFUSION SYNDROME** — a donor twin who is anaemic, growth-restricted and **OLIGOHYDRAMNIOTIC (“STUCK TWIN”)** and a recipient who is plethoric, **POLYHYDRAMNIOTIC** and in high-output cardiac failure. Staged by **QUINTERO**; treated with **FETOSCOPIC LASER ABLATION** of the placental anastomoses.
 - **Other monochorionic complications: TWIN ANAEMIA–POLYCYTHAEMIA SEQUENCE, selective FGR, TWIN REVERSED ARTERIAL PERFUSION (acardiac twin), and — after single fetal death — acute exsanguination of the survivor into the dead twin, causing neurological injury.**
 - **MCMA adds CORD ENTANGLEMENT** — inpatient monitoring and caesarean at 32–34 weeks.
 - **DIFFERENT SEXES or TWO SEPARATE PLACENTAS prove DICHORIONICITY (and different sexes prove DIZYGOSITY); the same sex proves nothing on its own.** Monochorionic twins are always same sex.
 - **Date twins by the LARGER CRL.**
 
-**EXAM CONNECTION:** Gross specimen with two cords, one placenta and no dividing membrane → **monochorionic monoamniotic**; "best time to determine type" → **11–14 weeks**. **Lambda = two chorions; T = one.**
+**EXAM CONNECTION:** Gross specimen with two cords, one placenta and no dividing membrane → **monochorionic monoamniotic**; “best time to determine type” → **11–14 weeks**. **Lambda = two chorions; T = one.**
 
 **REMEMBER:** *Lambda is thick and safe; T is thin and shares a placenta; no membrane at all is the most dangerous of all. Two eggs can only make two placentas; one egg can make anything depending on when it splits.*
 
@@ -1334,11 +1334,11 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **MUST KNOW:**
 
-- **MONOZYGOTIC twinning occurs at a CONSTANT rate worldwide (~1 in 250), largely INDEPENDENT of race, age, parity and heredity. DIZYGOTIC twinning VARIES with RACE (highest in African, lowest in Asian populations), INCREASING MATERNAL AGE AND PARITY, FAMILY HISTORY ON THE MOTHER'S SIDE, and — dominantly today — OVULATION INDUCTION AND ART.**
+- **MONOZYGOTIC twinning occurs at a CONSTANT rate worldwide (~1 in 250), largely INDEPENDENT of race, age, parity and heredity. DIZYGOTIC twinning VARIES with RACE (highest in African, lowest in Asian populations), INCREASING MATERNAL AGE AND PARITY, FAMILY HISTORY ON THE MOTHER’S SIDE, and — dominantly today — OVULATION INDUCTION AND ART.**
 - **The rise in twin rates is almost entirely due to assisted reproduction; DIZYGOTIC twins are about two-thirds of all twins.**
 - **SUPERFETATION** (fertilisation of a second ovum in a later cycle) and **SUPERFECUNDATION** (two ova of the same cycle fertilised by sperm from different acts of coitus, potentially different fathers) are the classical rarities.
 
-**EXAM CONNECTION:** "Absolute proof of monozygosity" → **DNA fingerprinting**.
+**EXAM CONNECTION:** “Absolute proof of monozygosity” → **DNA fingerprinting**.
 
 **REMEMBER:** *Different sexes rule monozygosity out; only identical DNA rules it in.*
 
@@ -1359,7 +1359,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Complications: PRETERM LABOUR (commonest), pre-eclampsia, anaemia, polyhydramnios, IUGR, malpresentation and POSTPARTUM HAEMORRHAGE (an overdistended uterus).**
 - **Pre-eclampsia at 38 weeks in a DCDA pregnancy with a breech first twin → deliver now, by caesarean** — at term there is nothing to gain by waiting.
 
-**EXAM CONNECTION:** Read the **first twin's presentation** and the **gestation**; those two facts settle the answer regardless of other detail in the stem.
+**EXAM CONNECTION:** Read the **first twin’s presentation** and the **gestation**; those two facts settle the answer regardless of other detail in the stem.
 
 **REMEMBER:** *Twin one decides the route.*
 
@@ -1373,7 +1373,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** The **BPP (Manning score)** has **FIVE components — NON-STRESS TEST, FETAL BREATHING, GROSS BODY MOVEMENTS, FETAL TONE and AMNIOTIC FLUID VOLUME** — each scored 0 or 2 over **30 minutes**, maximum 10. **The CONTRACTION STRESS TEST is NOT a component.** The score has a **DIRECT, CONSISTENT relationship with fetal pH: <4 predicts a pH <7.20, and a score of 0 predicts 100% acidaemia.**
 
-**UNDERSTAND:** The components are lost in the **reverse order of their development in utero** — the **"gradual hypoxia" concept**, because the most recently developed centres are the most oxygen-sensitive. **TONE appears earliest (7–8 weeks) and is lost LAST; heart-rate reactivity and BREATHING develop latest (20–28 weeks) and are lost FIRST**, with movement in between. **Amniotic fluid volume is different — it reflects CHRONIC hypoxia**, since sustained redistribution of blood away from the kidneys reduces fetal urine output. That is why **oligohydramnios is the most ominous single finding even with an otherwise reassuring score.**
+**UNDERSTAND:** The components are lost in the **reverse order of their development in utero** — the **“gradual hypoxia” concept**, because the most recently developed centres are the most oxygen-sensitive. **TONE appears earliest (7–8 weeks) and is lost LAST; heart-rate reactivity and BREATHING develop latest (20–28 weeks) and are lost FIRST**, with movement in between. **Amniotic fluid volume is different — it reflects CHRONIC hypoxia**, since sustained redistribution of blood away from the kidneys reduces fetal urine output. That is why **oligohydramnios is the most ominous single finding even with an otherwise reassuring score.**
 
 **MUST KNOW:**
 
@@ -1382,9 +1382,9 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **A NON-REACTIVE NST is most often a FETAL SLEEP CYCLE** — use vibroacoustic stimulation or extend to 40 minutes before calling it abnormal. Prematurity, maternal sedation, smoking and magnesium also reduce reactivity.
 - **MODIFIED BPP = NST + AMNIOTIC FLUID INDEX** — a quicker screen pairing an acute with a chronic marker, of equivalent predictive value.
 - **The CONTRACTION STRESS TEST (oxytocin challenge) is a separate test: LATE decelerations with ≥50% of contractions is POSITIVE (abnormal). CONTRAINDICATED whenever labour is contraindicated — previous classical caesarean, placenta praevia, risk of preterm labour.**
-- **UMBILICAL ARTERY DOPPLER is the surveillance test that reduces perinatal mortality in GROWTH-RESTRICTED fetuses: rising resistance → ABSENT → REVERSED end-diastolic flow (ominous). An absent or reversed DUCTUS VENOSUS "a" wave indicates cardiac decompensation and triggers delivery in early-onset FGR.**
+- **UMBILICAL ARTERY DOPPLER is the surveillance test that reduces perinatal mortality in GROWTH-RESTRICTED fetuses: rising resistance → ABSENT → REVERSED end-diastolic flow (ominous). An absent or reversed DUCTUS VENOSUS “a” wave indicates cardiac decompensation and triggers delivery in early-onset FGR.**
 
-**EXAM CONNECTION:** "Not a component of the BPP" → **contraction stress test**. "All true EXCEPT" → the claim that the score is **inconsistent** with fetal pH; it is consistent and linear.
+**EXAM CONNECTION:** “Not a component of the BPP” → **contraction stress test**. “All true EXCEPT” → the claim that the score is **inconsistent** with fetal pH; it is consistent and linear.
 
 **REMEMBER:** *Five components, thirty minutes, ten points — breathing goes first, tone goes last, and a dry uterus is the worst sign of all.*
 
@@ -1397,7 +1397,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 56. Reading the CTG — Decelerations
 
-**PEARL:** **LATE DECELERATIONS are SMOOTH, GRADUAL, symmetrical falls that BEGIN AFTER THE PEAK of the contraction and RETURN TO BASELINE AFTER it ends — indicating UTEROPLACENTAL INSUFFICIENCY.** They are defined by **TIMING, not by a count of beats** (the "10 beats twice in 20 minutes above baseline" description belongs to **ACCELERATIONS**).
+**PEARL:** **LATE DECELERATIONS are SMOOTH, GRADUAL, symmetrical falls that BEGIN AFTER THE PEAK of the contraction and RETURN TO BASELINE AFTER it ends — indicating UTEROPLACENTAL INSUFFICIENCY.** They are defined by **TIMING, not by a count of beats** (the “10 beats twice in 20 minutes above baseline” description belongs to **ACCELERATIONS**).
 
 **UNDERSTAND:** **The delay is the diagnosis.** A contraction transiently reduces intervillous perfusion; a healthy fetus tolerates it, but a compromised one becomes hypoxaemic and the **chemoreceptor-mediated response takes time to develop** — so the deceleration lags. **EARLY decelerations mirror the contraction exactly** (a vagal reflex to head compression — benign). **VARIABLE decelerations are abrupt and variable in shape and timing** (cord compression).
 
@@ -1410,7 +1410,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Managing a pathological trace: LEFT LATERAL position, oxygen and IV fluids, STOP OXYTOCIN, exclude cord prolapse and hypotension, consider tocolysis; then FETAL SCALP BLOOD SAMPLING where available (pH <7.20 = deliver) or expedite delivery.**
 - **RECURRENT LATE DECELERATIONS WITH ABSENT VARIABILITY is category III — deliver. EARLY decelerations require no action.**
 
-**EXAM CONNECTION:** "False regarding late decelerations" → the **"10 beats twice in 20 minutes above baseline"** description.
+**EXAM CONNECTION:** “False regarding late decelerations” → the **“10 beats twice in 20 minutes above baseline”** description.
 
 **REMEMBER:** *Early mirrors the contraction, variable ignores it, late lags behind it — and only late means the placenta is failing.*
 
@@ -1422,19 +1422,19 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** At **TERM the amniotic fluid is CLOUDY WITH WHITE FLECKS (VERNIX CASEOSA)**. The progression: **clear and flake-free at ~32 weeks → a few flakes by 36 weeks → cloudy with abundant flakes at term.**
 
-**UNDERSTAND:** The flecks are **shed vernix, lanugo and desquamated fetal squames**, so their quantity is a direct index of **skin maturity** — the principle behind the old "amniotic fluid macroscore" and Nile blue staining of fetal fat cells.
+**UNDERSTAND:** The flecks are **shed vernix, lanugo and desquamated fetal squames**, so their quantity is a direct index of **skin maturity** — the principle behind the old “amniotic fluid macroscore” and Nile blue staining of fetal fat cells.
 
 **MUST KNOW:**
 
-- **Abnormal colours: GREENISH/yellow — MECONIUM (fetal distress, or simply post-dates); GOLDEN/yellow — Rh isoimmunisation (bilirubin); GREENISH-YELLOW — postmaturity; DARK "tobacco juice"/brown — old intrauterine death; foul odour with turbidity — CHORIOAMNIONITIS.**
+- **Abnormal colours: GREENISH/yellow — MECONIUM (fetal distress, or simply post-dates); GOLDEN/yellow — Rh isoimmunisation (bilirubin); GREENISH-YELLOW — postmaturity; DARK “tobacco juice”/brown — old intrauterine death; foul odour with turbidity — CHORIOAMNIONITIS.**
 - **Volume peaks at ~34 weeks (~800–1000 mL) and declines to ~400 mL at 42 weeks.** After 16–20 weeks it is determined mainly by **fetal urine production and swallowing**.
 - **OLIGOHYDRAMNIOS (AFI <5 cm or deepest pocket <2 cm): renal agenesis (POTTER SEQUENCE — pulmonary hypoplasia, limb and facial deformities), posterior urethral valves/obstructive uropathy, ruptured membranes, placental insufficiency/FGR, post-dates, NSAIDs and ACE inhibitors.**
 - **POLYHYDRAMNIOS (AFI >24 cm or pocket >8 cm): maternal DIABETES, oesophageal/duodenal ATRESIA and other swallowing defects, ANENCEPHALY, twin–twin transfusion, fetal anaemia/hydrops, chest masses.** For symptoms: **amnioreduction and INDOMETHACIN** (reduces fetal urine output — avoid after 32 weeks because of ductal constriction).
 - **Meconium-stained liquor requires attention to fetal status; routine intrapartum suctioning is no longer recommended and vigorous babies need no intervention.**
 
-**EXAM CONNECTION:** "Normal amniotic fluid at term" → **cloudy with white specks**.
+**EXAM CONNECTION:** “Normal amniotic fluid at term” → **cloudy with white specks**.
 
-**REMEMBER:** *The flecks are the baby's shed vernix — the more there are, the more mature the skin.*
+**REMEMBER:** *The flecks are the baby’s shed vernix — the more there are, the more mature the skin.*
 
 `Q9113`
 
@@ -1442,18 +1442,18 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 58. Hydrops Fetalis
 
-**PEARL:** The **"BUDDHA POSITION"** — a fetus with a **halo of scalp oedema, ascites and limbs in the Buddha posture** — is **HYDROPS FETALIS**, the most severe form of haemolytic disease of the fetus and newborn.
+**PEARL:** The **“BUDDHA POSITION”** — a fetus with a **halo of scalp oedema, ascites and limbs in the Buddha posture** — is **HYDROPS FETALIS**, the most severe form of haemolytic disease of the fetus and newborn.
 
 **UNDERSTAND:** Hydrops is **fluid in two or more fetal compartments**. In the immune form it follows **profound anaemia**: the fetus compensates with **extramedullary haematopoiesis in the liver, which impairs hepatic protein synthesis and raises portal pressure**, while the failing **high-output heart** raises venous pressure. **Anaemia, hypoalbuminaemia and heart failure together defeat the fetal capacity to keep fluid in the vascular space.**
 
 **MUST KNOW:**
 
-- **NON-IMMUNE hydrops is now ~90% of cases: cardiac anomalies and arrhythmias (commonest), chromosomal (TURNER SYNDROME, trisomy 21), thalassaemia (BART'S HYDROPS — homozygous alpha-thalassaemia, the commonest cause in Southeast Asia), infections (PARVOVIRUS B19, CMV, toxoplasmosis, syphilis), twin–twin transfusion, thoracic masses, lymphatic dysplasia.** **IMMUNE hydrops (Rh and other alloimmunisation) is now uncommon thanks to anti-D.**
+- **NON-IMMUNE hydrops is now ~90% of cases: cardiac anomalies and arrhythmias (commonest), chromosomal (TURNER SYNDROME, trisomy 21), thalassaemia (BART’S HYDROPS — homozygous alpha-thalassaemia, the commonest cause in Southeast Asia), infections (PARVOVIRUS B19, CMV, toxoplasmosis, syphilis), twin–twin transfusion, thoracic masses, lymphatic dysplasia.** **IMMUNE hydrops (Rh and other alloimmunisation) is now uncommon thanks to anti-D.**
 - **MCA PEAK SYSTOLIC VELOCITY >1.5 MoM predicts fetal anaemia and triggers CORDOCENTESIS and INTRAUTERINE TRANSFUSION** — which has transformed the outlook for treatable causes.
 - **The HDFN severity spectrum: congenital haemolytic anaemia → ICTERUS GRAVIS NEONATORUM (risk of KERNICTERUS) → HYDROPS FETALIS.**
 - **Investigation of non-immune hydrops: maternal blood group and antibody screen, KLEIHAUER test, infection serology, HAEMOGLOBIN ELECTROPHORESIS, fetal karyotype/microarray, detailed echocardiography.**
 - **Neonatal management: resuscitation with pleural/ascitic drainage, ventilation, exchange transfusion, phototherapy.** Prognosis in non-immune hydrops remains poor.
-- **MIRROR (BALLANTYNE) SYNDROME — the mother develops oedema and a pre-eclampsia-like illness "mirroring" the hydropic fetus.**
+- **MIRROR (BALLANTYNE) SYNDROME — the mother develops oedema and a pre-eclampsia-like illness “mirroring” the hydropic fetus.**
 
 **EXAM CONNECTION:** Image of a fetus in the Buddha position with a scalp halo → **hydrops fetalis**.
 
@@ -1468,14 +1468,14 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 59. Fetal Growth Restriction — Appearance
 
-**PEARL:** The FGR infant has an **"OLD MAN" (wizened) FACIES** from poor subcutaneous fat, is **ALERT with NORMAL reflexes**, and has a **weight deficit far greater than the length/head deficit** (asymmetric FGR). Contrast the **PRETERM** baby, who is **lethargic with immature reflexes**.
+**PEARL:** The FGR infant has an **“OLD MAN” (wizened) FACIES** from poor subcutaneous fat, is **ALERT with NORMAL reflexes**, and has a **weight deficit far greater than the length/head deficit** (asymmetric FGR). Contrast the **PRETERM** baby, who is **lethargic with immature reflexes**.
 
 **MUST KNOW:**
 
 - **SYMMETRIC FGR (early, all parameters small) → chromosomal or infective causes. ASYMMETRIC (late) → placental insufficiency, with HEAD SPARING.**
 - **Complications: hypoglycaemia, hypothermia, polycythaemia, meconium aspiration.**
 
-**REMEMBER:** *Old man's face, bright eyes, thin body = FGR, not prematurity.*
+**REMEMBER:** *Old man’s face, bright eyes, thin body = FGR, not prematurity.*
 
 ---
 
@@ -1493,14 +1493,14 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Descent is recorded in FIFTHS PALPABLE ABDOMINALLY, not by vaginal station** — abdominal assessment is unaffected by caput and moulding, and avoids infection.
 - **MOULDING: 0 — bones separated; 1+ — bones touching; 2+ — overlapping but REDUCIBLE; 3+ — overlapping and NOT REDUCIBLE (severe, suggesting CPD).** **Caput** (scalp oedema) is graded separately; rising caput with poor descent is another sign of obstruction.
 - **LIQUOR CODES: I intact, C clear, M meconium, B blood, A absent.** Thick meconium with decelerations means fetal compromise.
-- **Signs of OBSTRUCTED LABOUR on the partogram: dilatation crossing the ACTION LINE, arrested descent, increasing moulding and caput, a BANDL'S RING, maternal exhaustion with fetal distress.**
+- **Signs of OBSTRUCTED LABOUR on the partogram: dilatation crossing the ACTION LINE, arrested descent, increasing moulding and caput, a BANDL’S RING, maternal exhaustion with fetal distress.**
 - **Fully dilated but the head still 3/5 palpable abdominally, moulding 2+, meconium and decelerations = CEPHALOPELVIC DISPROPORTION with fetal distress → EMERGENCY CAESAREAN. Neither forceps nor vacuum can be applied** — an instrument requires an **ENGAGED head (0/5, at most 1/5 palpable; station at or below the spines)**. **Full dilatation alone never licenses an instrument — descent does.**
-- **Prerequisites for instrumental delivery ("FORCEPS"): Fully dilated cervix; Occiput/position known; Ruptured membranes; Cephalic presentation and Contractions present; Engaged head with an EMPTY BLADDER; Pain relief adequate; Sufficient indication and a Skilled operator with a plan B.**
+- **Prerequisites for instrumental delivery (“FORCEPS”): Fully dilated cervix; Occiput/position known; Ruptured membranes; Cephalic presentation and Contractions present; Engaged head with an EMPTY BLADDER; Pain relief adequate; Sufficient indication and a Skilled operator with a plan B.**
 - **UTERINE TACHYSYSTOLE = >5 contractions in 10 minutes (averaged over 30); HYPERSTIMULATION = tachysystole PLUS a non-reassuring trace** → stop oxytocin, left lateral, oxygen, IV fluids, consider **terbutaline**.
-- **WHO's newer LABOUR CARE GUIDE (2020) uses 5 cm as the start of the active phase and drops the alert/action lines — but Indian PG exams still ask the classic 4 cm.**
+- **WHO’s newer LABOUR CARE GUIDE (2020) uses 5 cm as the start of the active phase and drops the alert/action lines — but Indian PG exams still ask the classic 4 cm.**
 - **Neglected obstructed labour → uterine rupture, vesicovaginal fistula, sepsis and fetal death.**
 
-**EXAM CONNECTION:** "Where do you start plotting" → **before/at the alert line**. Numbers: **4 cm, 1 cm/hr, 4 hours to the right, >5 contractions in 10 minutes**. For instrument questions, look at the **fifths palpable**, not the dilatation.
+**EXAM CONNECTION:** “Where do you start plotting” → **before/at the alert line**. Numbers: **4 cm, 1 cm/hr, 4 hours to the right, >5 contractions in 10 minutes**. For instrument questions, look at the **fifths palpable**, not the dilatation.
 
 **REMEMBER:** *Four to start, one an hour, four to the right — and fully dilated is not enough if the head is still palpable above the brim.*
 
@@ -1515,19 +1515,19 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 61. Friedman versus Zhang, and the Stages of Labour
 
-**PEARL:** In the **ZHANG** curve the **active phase begins at 6 cm**; in the classic **FRIEDMAN** curve it begins at **3–4 cm**. Modern practice (ACOG, WHO Labour Care Guide) follows **ZHANG**. Friedman's three functional divisions: **PREPARATORY (latent PLUS acceleration phase) — little dilatation, SENSITIVE TO SEDATION AND ANALGESIA; DILATATIONAL (phase of maximum slope) — fastest dilatation, UNAFFECTED by sedation; PELVIC (deceleration phase plus second stage) — the cardinal movements.** **The acceleration phase belongs to the PREPARATORY, not the dilatational, division.**
+**PEARL:** In the **ZHANG** curve the **active phase begins at 6 cm**; in the classic **FRIEDMAN** curve it begins at **3–4 cm**. Modern practice (ACOG, WHO Labour Care Guide) follows **ZHANG**. Friedman’s three functional divisions: **PREPARATORY (latent PLUS acceleration phase) — little dilatation, SENSITIVE TO SEDATION AND ANALGESIA; DILATATIONAL (phase of maximum slope) — fastest dilatation, UNAFFECTED by sedation; PELVIC (deceleration phase plus second stage) — the cardinal movements.** **The acceleration phase belongs to the PREPARATORY, not the dilatational, division.**
 
-**UNDERSTAND:** The divisions differ pharmacologically because they describe **different physical processes**. The **preparatory division depends on connective-tissue remodelling and coordinated contraction, both readily suppressed by sedation**; once **active dilatation is established the process is mechanically self-sustaining**; and the **pelvic division depends on the passenger and passage, not the powers**. Friedman's 1950s data came from heavily sedated, mostly parous women without epidurals or oxytocin; Zhang's contemporary cohorts show labour is **much slower before 6 cm**. Applying Friedman's standard labels normal early labour as "arrest" and drives **unnecessary caesareans**.
+**UNDERSTAND:** The divisions differ pharmacologically because they describe **different physical processes**. The **preparatory division depends on connective-tissue remodelling and coordinated contraction, both readily suppressed by sedation**; once **active dilatation is established the process is mechanically self-sustaining**; and the **pelvic division depends on the passenger and passage, not the powers**. Friedman’s 1950s data came from heavily sedated, mostly parous women without epidurals or oxytocin; Zhang’s contemporary cohorts show labour is **much slower before 6 cm**. Applying Friedman’s standard labels normal early labour as “arrest” and drives **unnecessary caesareans**.
 
 **MUST KNOW:**
 
 - **Do NOT diagnose arrest of the active phase before 6 cm**, with ruptured membranes and adequate contractions for **≥4 hours** (or 6 hours with inadequate contractions).
 - **Classic Friedman abnormalities: PROLONGED LATENT PHASE (>20 h nullipara, >14 h multipara) — rest/analgesia or oxytocin; PROTRACTION disorders (slow dilatation or descent); ARREST disorders (no dilatation for 2 hours, no descent for 1 hour)** — usually **CPD or malposition**, the commonest indication for caesarean.
 - **STAGES: FIRST — onset of true labour to full dilatation (latent then active). SECOND — full dilatation to delivery (ACOG: prolonged if ≥3 h in a nullipara, ≥2 h in a multipara, PLUS AN HOUR with an epidural). THIRD — delivery of the placenta (normally within 30 minutes; beyond that, manual removal). FOURTH — the first hour postpartum, when PPH is most likely.**
-- **The "3 Ps": POWERS (contractions), PASSAGE (pelvis and soft tissues), PASSENGER (size, lie, presentation, position).**
+- **The “3 Ps”: POWERS (contractions), PASSAGE (pelvis and soft tissues), PASSENGER (size, lie, presentation, position).**
 - **Adequate contractions: 3–5 in 10 minutes, each 40–60 seconds, with normal resting tone; MONTEVIDEO UNITS >200 in 10 minutes.**
 
-**EXAM CONNECTION:** "All true EXCEPT" → **the dilatational division includes the acceleration phase**. Comparison → **Zhang = 6 cm; Friedman = 3–4 cm**.
+**EXAM CONNECTION:** “All true EXCEPT” → **the dilatational division includes the acceleration phase**. Comparison → **Zhang = 6 cm; Friedman = 3–4 cm**.
 
 **REMEMBER:** *Sedation stops the preparatory division and nothing else. Friedman said four, Zhang says six — and six is why fewer caesareans.*
 
@@ -1543,14 +1543,14 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** **ENGAGEMENT → DESCENT → FLEXION → INTERNAL ROTATION → EXTENSION (with CROWNING) → RESTITUTION → EXTERNAL ROTATION → EXPULSION.**
 
-**UNDERSTAND:** Each movement solves one geometric problem. **FLEXION** presents the smallest diameter (suboccipitobregmatic 9.5 cm). **INTERNAL ROTATION** aligns the head's AP diameter with the pelvis's widest **outlet** diameter (which is AP). **EXTENSION** is forced by the upward-and-forward **CURVE OF CARUS** as the occiput pivots under the symphysis. **RESTITUTION simply undoes the twist of the neck**, and **EXTERNAL ROTATION reflects the SHOULDERS rotating internally into the AP diameter** — the head merely follows them.
+**UNDERSTAND:** Each movement solves one geometric problem. **FLEXION** presents the smallest diameter (suboccipitobregmatic 9.5 cm). **INTERNAL ROTATION** aligns the head’s AP diameter with the pelvis’s widest **outlet** diameter (which is AP). **EXTENSION** is forced by the upward-and-forward **CURVE OF CARUS** as the occiput pivots under the symphysis. **RESTITUTION simply undoes the twist of the neck**, and **EXTERNAL ROTATION reflects the SHOULDERS rotating internally into the AP diameter** — the head merely follows them.
 
 **MUST KNOW:**
 
-- **CROWNING** is when the head no longer recedes between contractions and its widest diameter distends the vulval ring — the moment for episiotomy if needed, and for guarding the perineum (**RITGEN'S manoeuvre**).
+- **CROWNING** is when the head no longer recedes between contractions and its widest diameter distends the vulval ring — the moment for episiotomy if needed, and for guarding the perineum (**RITGEN’S manoeuvre**).
 - **RESTITUTION is a 45° untwist; EXTERNAL ROTATION a further 45° in the SAME direction.** Deliver the **anterior shoulder by gentle DOWNWARD traction and the posterior by UPWARD traction** — reversing this order is a common cause of tears.
 - **The head ENGAGES in the TRANSVERSE or oblique diameter and DELIVERS in the ANTEROPOSTERIOR** — internal rotation of 45–135° accomplishes this; occipitoposterior must rotate the full 135°.
-- **BURNS–MARSHALL and MAURICEAU–SMELLIE–VEIT** are the equivalents for the after-coming head in breech; **LOVSET'S** delivers extended arms.
+- **BURNS–MARSHALL and MAURICEAU–SMELLIE–VEIT** are the equivalents for the after-coming head in breech; **LOVSET’S** delivers extended arms.
 - **Signs of full dilatation and imminent delivery: the urge to bear down, anal gaping and perineal bulging, head visible at the vulva.**
 - **Auscultate the fetal heart for 60 seconds after each contraction, and never rush the head** — controlled delivery prevents perineal trauma and intracranial injury.
 
@@ -1613,7 +1613,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 - **INLET: true (anatomical) conjugate 11 cm; OBSTETRIC conjugate ~10 cm (shortest AP, unmeasurable clinically); DIAGONAL conjugate ~12–12.5 cm (measurable — if the promontory cannot be reached, the inlet is presumed adequate); TRANSVERSE 13 cm (widest); OBLIQUE 12 cm.**
 - **OUTLET: AP ~13 cm (widest), INTERTUBEROUS (bituberous) ~11 cm. SUBPUBIC ANGLE should be ≥85–90°** — a narrow angle (android) pushes the head backwards and causes perineal tears.
-- **CALDWELL–MOLOY types (classified by the shape of the posterior segment of the inlet): GYNAECOID (~50%, round, wide subpubic angle, non-prominent spines — the ideal); ANDROID (~20%, heart/triangular, narrow forepelvis, convergent walls, prominent spines, narrow arch — the WORST prognosis, causing DEEP TRANSVERSE ARREST and occipitoposterior arrest); ANTHROPOID (~25%, AP oval — head engages AP and often delivers DIRECT OCCIPITOPOSTERIOR, "FACE TO PUBIS"); PLATYPELLOID (~3%, flat and transversely oval — TRANSVERSE ARREST at the brim, the rarest).**
+- **CALDWELL–MOLOY types (classified by the shape of the posterior segment of the inlet): GYNAECOID (~50%, round, wide subpubic angle, non-prominent spines — the ideal); ANDROID (~20%, heart/triangular, narrow forepelvis, convergent walls, prominent spines, narrow arch — the WORST prognosis, causing DEEP TRANSVERSE ARREST and occipitoposterior arrest); ANTHROPOID (~25%, AP oval — head engages AP and often delivers DIRECT OCCIPITOPOSTERIOR, “FACE TO PUBIS”); PLATYPELLOID (~3%, flat and transversely oval — TRANSVERSE ARREST at the brim, the rarest).**
 - **All combinations of pelvic types occur EXCEPT anthropoid with platypelloid** (geometric opposites).
 - **Paradoxically, the ANDROID pelvis with its narrow arch PROTECTS against childbirth pelvic floor trauma and later prolapse/incontinence, while the roomy GYNAECOID pelvis permits the descent that damages the pelvic floor.**
 - **Clinical pelvimetry has poor predictive value and X-RAY PELVIMETRY IS OBSOLETE — the true test of the pelvis is a TRIAL OF LABOUR.**
@@ -1638,18 +1638,18 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** **DEEP TRANSVERSE ARREST — the head deeply engaged with the SAGITTAL SUTURE in the TRANSVERSE (bispinous) diameter and no descent for ½–1 hour after full dilatation.** Causes: an **ANDROID or ANTHROPOID pelvis, DEFLEXION of the head, UTERINE INERTIA, and a lax pelvic floor from EPIDURAL analgesia.** **A TRANSVERSE LIE cannot cause it** — the presenting part is the shoulder, so there is no head in the pelvis to arrest. By contrast, **occipitoposterior is a POSITION, not an abnormality: ~90% rotate spontaneously through 135° to occipitoanterior** when the pelvis is gynaecoid and contractions are good — so a primigravida in early labour with ROP, a gynaecoid pelvis and adequate contractions is **managed EXPECTANTLY**.
 
-**UNDERSTAND:** Internal rotation needs **three things: a well-flexed head, effective contractions, and a resilient pelvic floor to provide the rotational "gutter"**. Deep transverse arrest occurs when **any one fails** — which is why the cause list mixes bony (android pelvis, prominent spines physically blocking rotation), dynamic (inertia) and soft-tissue (epidural) factors. The same three Ps decide the fate of an occipitoposterior head; intervening before giving labour a chance is the error exams test.
+**UNDERSTAND:** Internal rotation needs **three things: a well-flexed head, effective contractions, and a resilient pelvic floor to provide the rotational “gutter”**. Deep transverse arrest occurs when **any one fails** — which is why the cause list mixes bony (android pelvis, prominent spines physically blocking rotation), dynamic (inertia) and soft-tissue (epidural) factors. The same three Ps decide the fate of an occipitoposterior head; intervening before giving labour a chance is the error exams test.
 
 **MUST KNOW:**
 
 - **Diagnosing DTA: the head is engaged, the sagittal suture lies transversely, BOTH fontanelles are palpable at the same level (or the anterior fontanelle is easily felt because of deflexion), with caput and moulding.**
-- **Management of DTA: MANUAL ROTATION then forceps, ROTATIONAL (KIELLAND'S) FORCEPS, or VENTOUSE with auto-rotation (avoiding excessive traction) — CAESAREAN if the pelvis is inadequate or the baby large.**
+- **Management of DTA: MANUAL ROTATION then forceps, ROTATIONAL (KIELLAND’S) FORCEPS, or VENTOUSE with auto-rotation (avoiding excessive traction) — CAESAREAN if the pelvis is inadequate or the baby large.**
 - **Occipitoposterior clinical features: a LONG, PAINFUL labour with prominent BACKACHE, early rupture of membranes, a tendency to bear down BEFORE full dilatation (the occiput presses on the rectum), slow descent, a flat/saucer-shaped lower abdomen with limbs easily palpable anteriorly, and the ANTERIOR FONTANELLE felt anteriorly.**
-- **Four OP outcomes: (1) LONG ANTERIOR ROTATION 135° to occipitoanterior — commonest and best; (2) SHORT POSTERIOR rotation to direct OP, delivering "FACE TO PUBIS" (bigger perineal stretch, more tears); (3) DEEP TRANSVERSE ARREST; (4) NON-ROTATION with arrest.**
+- **Four OP outcomes: (1) LONG ANTERIOR ROTATION 135° to occipitoanterior — commonest and best; (2) SHORT POSTERIOR rotation to direct OP, delivering “FACE TO PUBIS” (bigger perineal stretch, more tears); (3) DEEP TRANSVERSE ARREST; (4) NON-ROTATION with arrest.**
 - **OP management: adequate ANALGESIA, HYDRATION, oxytocin if contractions are inadequate, an upright or all-fours position, and PATIENCE.** Complications: prolonged labour, exhaustion, third/fourth-degree tears, PPH, fetal hypoxia.
 - **Distinguish the arrest disorders: at the BRIM (non-engagement, CPD), in the CAVITY (deep transverse arrest), at the OUTLET (narrow subpubic angle).**
 
-**EXAM CONNECTION:** "Deep transverse arrest seen in all EXCEPT" → **transverse lie**. Early labour, gynaecoid pelvis, ROP, adequate contractions → **allow normal vaginal delivery**.
+**EXAM CONNECTION:** “Deep transverse arrest seen in all EXCEPT” → **transverse lie**. Early labour, gynaecoid pelvis, ROP, adequate contractions → **allow normal vaginal delivery**.
 
 **REMEMBER:** *Rotation needs a flexed head, strong contractions and a firm pelvic floor — lose any one and the head sticks sideways.*
 
@@ -1676,12 +1676,12 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **GIVE ANTI-D to Rh-negative women after ECV (attempted or successful), with a Kleihauer test.** Do a **CTG before and after**.
 - **ECV complications (~1–2%): transient fetal heart rate abnormalities (common, usually self-limiting), abruption, fetomaternal haemorrhage, cord accident, rarely emergency caesarean.**
 - **The TERM BREECH TRIAL established that PLANNED CAESAREAN reduces perinatal mortality and morbidity at term** — but vaginal breech remains reasonable with an experienced operator in selected cases: **frank/complete breech, 2.5–3.5 kg, flexed head, adequate pelvis, no fetal compromise**.
-- **Vaginal breech: "HANDS OFF THE BREECH" until the scapulae are visible; LOVSET'S for extended arms; BURNS–MARSHALL or MAURICEAU–SMELLIE–VEIT (or PIPER FORCEPS) for the after-coming head; PINARD to bring down a leg. NEVER PULL ON THE BREECH.**
+- **Vaginal breech: “HANDS OFF THE BREECH” until the scapulae are visible; LOVSET’S for extended arms; BURNS–MARSHALL or MAURICEAU–SMELLIE–VEIT (or PIPER FORCEPS) for the after-coming head; PINARD to bring down a leg. NEVER PULL ON THE BREECH.**
 - **INTERNAL PODALIC VERSION is now essentially confined to delivering a second twin in transverse lie.**
 - **Causes of breech: PREMATURITY (commonest overall), placenta praevia, polyhydramnios and oligohydramnios, uterine anomalies and fibroids, multiple pregnancy, fetal anomalies (hydrocephalus, anencephaly), contracted pelvis.**
 - **Screen ALL breech babies for HIP DYSPLASIA with ultrasound.**
 
-**EXAM CONNECTION:** "Not a contraindication to ECV" → **primigravida**. Hip/knee matching, or "highest risk of cord prolapse" → **footling**.
+**EXAM CONNECTION:** “Not a contraindication to ECV” → **primigravida**. Hip/knee matching, or “highest risk of cord prolapse” → **footling**.
 
 **REMEMBER:** *Frank is folded at the hip and straight at the knee — commonest and safest; footling means cord prolapse. Thirty-six weeks, tocolysis, anti-D and a theatre next door.*
 
@@ -1696,9 +1696,9 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 67. Cord Prolapse and Cord Presentation
 
-**PEARL:** **CORD PRESENTATION = cord below the presenting part with INTACT membranes → emergency caesarean WITH THE MEMBRANES KEPT INTACT.** **CORD PROLAPSE = membranes RUPTURED**; the immediate step is to **RELIEVE CORD COMPRESSION — steep TRENDELENBURG, exaggerated SIMS' or KNEE–CHEST position and manual ELEVATION of the presenting part — while arranging IMMEDIATE CAESAREAN. DO NOT ATTEMPT TO REPLACE THE CORD.**
+**PEARL:** **CORD PRESENTATION = cord below the presenting part with INTACT membranes → emergency caesarean WITH THE MEMBRANES KEPT INTACT.** **CORD PROLAPSE = membranes RUPTURED**; the immediate step is to **RELIEVE CORD COMPRESSION — steep TRENDELENBURG, exaggerated SIMS’ or KNEE–CHEST position and manual ELEVATION of the presenting part — while arranging IMMEDIATE CAESAREAN. DO NOT ATTEMPT TO REPLACE THE CORD.**
 
-**UNDERSTAND:** The fetus dies from **cord COMPRESSION between the presenting part and the pelvic brim, and from arterial VASOSPASM caused by cooling and handling** — not from the cord being outside. So every measure aims at **getting the presenting part off the cord and keeping the cord warm and untouched**; replacement wastes time, causes spasm and fails. While the membranes are still intact the **fluid cushions the cord**, so the whole strategy is to **deliver before they rupture** — deliberately rupturing them to "confirm" the diagnosis converts a controllable situation into an acute emergency.
+**UNDERSTAND:** The fetus dies from **cord COMPRESSION between the presenting part and the pelvic brim, and from arterial VASOSPASM caused by cooling and handling** — not from the cord being outside. So every measure aims at **getting the presenting part off the cord and keeping the cord warm and untouched**; replacement wastes time, causes spasm and fails. While the membranes are still intact the **fluid cushions the cord**, so the whole strategy is to **deliver before they rupture** — deliberately rupturing them to “confirm” the diagnosis converts a controllable situation into an acute emergency.
 
 **MUST KNOW:**
 
@@ -1709,7 +1709,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **VARIABLE DECELERATIONS are the hallmark of cord compression; a sudden prolonged deceleration or bradycardia immediately after membrane rupture demands an immediate vaginal examination.**
 - **VASA PRAEVIA is the different, equally lethal entity — FETAL vessels crossing the membranes over the os, associated with VELAMENTOUS CORD INSERTION, a succenturiate lobe and IVF. Painless bleeding with rapid FETAL exsanguination at membrane rupture; if diagnosed antenatally, ELECTIVE CAESAREAN at 34–36 weeks.**
 
-**EXAM CONNECTION:** Midwife finds a prolapsed cord → **Trendelenburg** (relieve compression first). The phrase **"membranes are felt"** (intact) converts the answer to **immediate caesarean with membranes preserved**.
+**EXAM CONNECTION:** Midwife finds a prolapsed cord → **Trendelenburg** (relieve compression first). The phrase **“membranes are felt”** (intact) converts the answer to **immediate caesarean with membranes preserved**.
 
 **REMEMBER:** *Lift the presenting part, never push the cord back, never break intact membranes — and go straight to theatre.*
 
@@ -1739,7 +1739,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Complications of induction: uterine HYPERSTIMULATION with fetal distress, scar rupture, failed induction → caesarean, cord prolapse at amniotomy, and WATER INTOXICATION with high-dose oxytocin (its ADH-like effect).** Manage hyperstimulation by **stopping the oxytocin, oxygen, left lateral position, fluids and a TOCOLYTIC (terbutaline)**.
 - **Common indications: post-dates (≥41 weeks), pre-eclampsia, prelabour rupture of membranes, diabetes, growth restriction, oligohydramnios, chorioamnionitis, fetal death.**
 
-**EXAM CONNECTION:** "Not a contraindication" → **heart disease**. Bishop-score calculations are pure arithmetic — learn the table rows.
+**EXAM CONNECTION:** “Not a contraindication” → **heart disease**. Bishop-score calculations are pure arithmetic — learn the table rows.
 
 **REMEMBER:** *Cardiac patients should labour, not be operated on. And the cervix that induces well is soft, short, open, anterior and low — already halfway there.*
 
@@ -1765,9 +1765,9 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Give GROUP B STREPTOCOCCUS PROPHYLAXIS in preterm labour**; antibiotics otherwise only if membranes are ruptured (they do not help with intact membranes).
 - **A SHORT CERVIX on transvaginal ultrasound (<25 mm) is the best predictor of preterm birth. FETAL FIBRONECTIN in cervicovaginal secretions between 22 and 34 weeks has a high NEGATIVE predictive value — a negative test reliably excludes delivery within 7–14 days**, avoiding unnecessary admission and steroids. Avoid testing after intercourse or a vaginal examination.
 
-**EXAM CONNECTION:** "Ritodrine causes all EXCEPT" → **hypoglycaemia** (it causes maternal HYPERglycaemia; the NEONATE gets hypoglycaemia).
+**EXAM CONNECTION:** “Ritodrine causes all EXCEPT” → **hypoglycaemia** (it causes maternal HYPERglycaemia; the NEONATE gets hypoglycaemia).
 
-**REMEMBER:** *Tocolysis buys forty-eight hours for the steroids — beta-agonists flood the lungs while raising the sugar. And fibronectin is best at telling you she WON'T deliver.*
+**REMEMBER:** *Tocolysis buys forty-eight hours for the steroids — beta-agonists flood the lungs while raising the sugar. And fibronectin is best at telling you she WON’T deliver.*
 
 `Q11624`
 
@@ -1810,7 +1810,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **VAGINAL PROGESTERONE is the alternative/adjunct for a short cervix**, especially without a history of loss.
 - Complications: rupture of membranes, infection, cervical laceration, bleeding, preterm labour.
 
-**EXAM CONNECTION:** "Contraindication for cerclage" → **ruptured membranes**.
+**EXAM CONNECTION:** “Contraindication for cerclage” → **ruptured membranes**.
 
 **REMEMBER:** *Only stitch a quiet, closed, uninfected cervix with intact membranes.*
 
@@ -1820,7 +1820,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 72. Shoulder Dystocia
 
-**PEARL:** **Shoulder dystocia is a HEAD-TO-BODY DELIVERY TIME >60 SECONDS** (normal mean ~24 seconds), or failure of gentle downward traction to deliver the shoulders. The sign is the **"TURTLE SIGN"** — the head delivering then retracting against the perineum.
+**PEARL:** **Shoulder dystocia is a HEAD-TO-BODY DELIVERY TIME >60 SECONDS** (normal mean ~24 seconds), or failure of gentle downward traction to deliver the shoulders. The sign is the **“TURTLE SIGN”** — the head delivering then retracting against the perineum.
 
 **UNDERSTAND:** The anterior shoulder is **impacted behind the pubic symphysis** because the shoulders failed to rotate into the oblique diameter. Every effective manoeuvre works by either **increasing the functional pelvic diameter (McRoberts, all fours)** or **rotating the shoulders out of the anteroposterior plane (Rubin, Woods screw)**. **Nothing is gained by pulling harder — traction on the head is what causes BRACHIAL PLEXUS INJURY.**
 
@@ -1828,12 +1828,12 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 - **The drill (HELPERR): call for Help; Evaluate for Episiotomy; LEGS — McROBERTS MANOEUVRE (hyperflexion and abduction of the maternal hips, rotating the symphysis cephalad and flattening the sacral promontory — the SINGLE MOST EFFECTIVE first step); SUPRAPUBIC PRESSURE (NEVER FUNDAL pressure, which worsens impaction and risks rupture); Enter for internal rotation (RUBIN II, WOODS CORKSCREW, reverse Woods); Remove the posterior arm; Roll onto all fours (GASKIN).**
 - **Last resort: ZAVANELLI manoeuvre (cephalic replacement then caesarean), symphysiotomy, deliberate CLAVICULAR FRACTURE.**
-- **AVOID the "three Ps": Panic, PULLING (excessive traction), PUSHING (fundal pressure) — and Pivoting (sharply angulating the head).**
-- **Complications — FETAL: brachial plexus injury (ERB'S PALSY, C5–C6, "waiter's tip" — most resolve; Klumpke's is rarer), clavicular and humeral fracture, hypoxic injury, death. MATERNAL: postpartum haemorrhage (commonest), third/fourth-degree tears, symphyseal separation, uterine rupture.**
+- **AVOID the “three Ps”: Panic, PULLING (excessive traction), PUSHING (fundal pressure) — and Pivoting (sharply angulating the head).**
+- **Complications — FETAL: brachial plexus injury (ERB’S PALSY, C5–C6, “waiter’s tip” — most resolve; Klumpke’s is rarer), clavicular and humeral fracture, hypoxic injury, death. MATERNAL: postpartum haemorrhage (commonest), third/fourth-degree tears, symphyseal separation, uterine rupture.**
 - **Risk factors: MACROSOMIA (especially the truncal macrosomia of diabetes), maternal diabetes and obesity, previous shoulder dystocia, prolonged second stage, instrumental delivery — but MOST CASES OCCUR IN NORMAL-WEIGHT BABIES WITH NO RISK FACTORS, so it is largely UNPREDICTABLE and UNPREVENTABLE.**
-- **JOHNSON'S FORMULA for clinical fetal weight: weight (g) = (fundal height in cm − 12) × 155 if the head is AT OR ABOVE the ischial spines, and (fundal height − 11) × 155 if BELOW.**
+- **JOHNSON’S FORMULA for clinical fetal weight: weight (g) = (fundal height in cm − 12) × 155 if the head is AT OR ABOVE the ischial spines, and (fundal height − 11) × 155 if BELOW.**
 
-**EXAM CONNECTION:** "Head-to-body delivery time defining shoulder dystocia" → **>60 seconds**; Johnson's formula is pure calculation.
+**EXAM CONNECTION:** “Head-to-body delivery time defining shoulder dystocia” → **>60 seconds**; Johnson’s formula is pure calculation.
 
 **REMEMBER:** *McRoberts and suprapubic pressure first — never fundal pressure, never harder traction.*
 
@@ -1843,7 +1843,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 73. Retraction Ring, Constriction Ring and Uterine Rupture
 
-**PEARL:** The **PHYSIOLOGICAL RETRACTION RING** marks the junction of the thick upper and thin lower segments. In **OBSTRUCTED LABOUR it becomes prominent and RISES progressively upward as a PATHOLOGICAL RETRACTION RING (BANDL'S RING) — a sign of IMMINENT RUPTURE.** A **CONSTRICTION RING is different: a localised tetanic contraction at any level (often around the fetal neck), occurring in prolonged labour after membrane rupture, which does NOT move and is NOT a sign of obstruction.**
+**PEARL:** The **PHYSIOLOGICAL RETRACTION RING** marks the junction of the thick upper and thin lower segments. In **OBSTRUCTED LABOUR it becomes prominent and RISES progressively upward as a PATHOLOGICAL RETRACTION RING (BANDL’S RING) — a sign of IMMINENT RUPTURE.** A **CONSTRICTION RING is different: a localised tetanic contraction at any level (often around the fetal neck), occurring in prolonged labour after membrane rupture, which does NOT move and is NOT a sign of obstruction.**
 
 **UNDERSTAND:** The upper segment **RETRACTS — it shortens permanently after each contraction and does not return to its former length — while the lower segment stretches and thins passively.** In obstructed labour this normal division becomes exaggerated: the upper segment thickens relentlessly and the lower segment is drawn out until it **tears**. That is why the ring **RISES**, and why rupture occurs in the lower segment.
 
@@ -1853,9 +1853,9 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **The COMMONEST CAUSE today is a PREVIOUS CAESAREAN SCAR**, then obstructed labour, injudicious oxytocin/prostaglandins, instrumental delivery, internal podalic version and trauma.
 - **DEHISCENCE vs RUPTURE: DEHISCENCE — only PART of the scar separates, MEMBRANES REMAIN INTACT, the peritoneum is NOT breached, minimal or no bleeding, usually asymptomatic (found at repeat caesarean). RUPTURE — the ENTIRE scar separates, membranes rupture, and THE UTERINE AND PERITONEAL CAVITIES BECOME CONTINUOUS, with significant bleeding.**
 - **Risk factors for scar rupture in VBAC: MORE THAN ONE previous caesarean, INTERPREGNANCY INTERVAL <24 MONTHS, INDUCTION (especially prostaglandins) and high-dose oxytocin (>20 mU/min), SINGLE-LAYER closure, a previous CLASSICAL or T-incision, previous rupture.** Overall risk after one low transverse caesarean **~0.5–0.7%**.
-- **DÜHRSSEN'S INCISIONS — at the 2 and 10 o'clock positions on an incompletely dilated cervix — allow delivery of the after-coming head in breech or an entrapped head; complications are cervical laceration and extension into the lower segment.**
+- **DÜHRSSEN’S INCISIONS — at the 2 and 10 o’clock positions on an incompletely dilated cervix — allow delivery of the after-coming head in breech or an entrapped head; complications are cervical laceration and extension into the lower segment.**
 
-**EXAM CONNECTION:** Image of a ridge rising across the abdomen → **retraction (Bandl's) ring**; "false about dehiscence" → **the cavities become continuous** (that is rupture).
+**EXAM CONNECTION:** Image of a ridge rising across the abdomen → **retraction (Bandl’s) ring**; “false about dehiscence” → **the cavities become continuous** (that is rupture).
 
 **REMEMBER:** *A ring that climbs means the lower segment is about to give way.*
 
@@ -1884,7 +1884,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 - **Risk factors: RAPID/TUMULTUOUS labour, MECONIUM-stained liquor, uterine or cervical tears, operative delivery, abruption and praevia, polyhydramnios, advanced maternal age, multiparity, eclampsia.**
 - **Management is entirely SUPPORTIVE and simultaneous: high-flow oxygen and early intubation, aggressive circulatory support with vasopressors and inotropes, MASSIVE TRANSFUSION at a 1:1:1 ratio plus cryoprecipitate and fibrinogen, and PERIMORTEM CAESAREAN within 4–5 minutes if the mother arrests.** Mortality remains very high.
-- **The differential explains the criteria: PULMONARY EMBOLISM (hypoxia and collapse but NO early DIC), MYOCARDIAL INFARCTION, anaphylaxis, SEPTIC SHOCK (FEVER present — hence the "no fever ≥38 °C" criterion), eclampsia, high spinal block, local anaesthetic toxicity.**
+- **The differential explains the criteria: PULMONARY EMBOLISM (hypoxia and collapse but NO early DIC), MYOCARDIAL INFARCTION, anaphylaxis, SEPTIC SHOCK (FEVER present — hence the “no fever ≥38 °C” criterion), eclampsia, high spinal block, local anaesthetic toxicity.**
 - **Other causes of peripartum collapse with bleeding: UTERINE RUPTURE (severe pain, loss of station, fetal bradycardia, scar tenderness), ATONIC PPH (soft boggy uterus, no early DIC), UTERINE INVERSION (a mass at the introitus, profound vagal shock out of proportion to blood loss), PERIPARTUM CARDIOMYOPATHY (subacute, not sudden).**
 - **Fetal squames in the maternal pulmonary vasculature at autopsy support but do not prove the diagnosis** — they are found in normal pregnancy too.
 
@@ -1909,9 +1909,9 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **PPH prevention hierarchy: AMTSL for every delivery; TRANEXAMIC ACID within 3 hours for treatment; HEAT-STABLE CARBETOCIN and MISOPROSTOL where refrigeration is unavailable.**
 - **WHO 2025 changed the TREATMENT of PPH: objective measurement of blood loss (a CALIBRATED DRAPE) to DIAGNOSE, then the E-MOTIVE / “MOTIVE” BUNDLE — uterine Massage, Oxytocic drugs, Tranexamic acid, IV fluids, Examination and Escalation — given ALL TOGETHER AND IMMEDIATELY rather than in sequence, with TXA now FIRST-LINE (within 3 hours) rather than a late rescue.**[^3]
 - **The third stage normally lasts 5–15 minutes; RETAINED PLACENTA beyond 30 minutes requires manual removal under anaesthesia with antibiotic cover.**
-- **NEVER apply cord traction before the signs of separation, and never without counter-traction — the risk is ACUTE UTERINE INVERSION**, which presents with **profound shock out of proportion to blood loss** and is replaced immediately (**JOHNSON'S manoeuvre**), with tocolytics if needed and **uterotonics only AFTER replacement**.
+- **NEVER apply cord traction before the signs of separation, and never without counter-traction — the risk is ACUTE UTERINE INVERSION**, which presents with **profound shock out of proportion to blood loss** and is replaced immediately (**JOHNSON’S manoeuvre**), with tocolytics if needed and **uterotonics only AFTER replacement**.
 
-**EXAM CONNECTION:** "Not included in AMTSL" → **gentle uterine massage** (WHO 2012 revision).
+**EXAM CONNECTION:** “Not included in AMTSL” → **gentle uterine massage** (WHO 2012 revision).
 
 **REMEMBER:** *Uterotonic in the first minute, controlled traction, check the tone — and delay the cord for everyone except the flat baby.*
 
@@ -1919,16 +1919,16 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ---
 
-### 76. Leopold's Manoeuvres
+### 76. Leopold’s Manoeuvres
 
 **PEARL:**
 
 1. **First (FUNDAL grip)** — which fetal pole occupies the fundus
 2. **Second (LATERAL/umbilical grip)** — fetal orientation (position of back and limbs)
-3. **Third (PAWLIK'S grip)** — confirms the presenting part
+3. **Third (PAWLIK’S grip)** — confirms the presenting part
 4. **Fourth (PELVIC grip)** — degree of **descent/engagement**
 
-**MUST KNOW:** The examiner faces the mother's **FEET only for the FOURTH manoeuvre**.
+**MUST KNOW:** The examiner faces the mother’s **FEET only for the FOURTH manoeuvre**.
 
 **REMEMBER:** *Fundus → sides → presentation → descent.*
 
@@ -1956,9 +1956,9 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Spinal anaesthesia is usual; its hypotension is managed with left lateral tilt, a fluid co-load and PHENYLEPHRINE (the vasopressor of choice — better fetal acid–base status than ephedrine).**
 - **PROPHYLACTIC ANTIBIOTICS BEFORE SKIN INCISION (not after cord clamping)**, plus a urinary catheter and thromboprophylaxis.
 - **THROMBOPROPHYLAXIS: PNEUMATIC COMPRESSION DEVICES for every woman NOT on pharmacological prophylaxis, applied before surgery and DISCONTINUED ONCE SHE IS AMBULANT.** Additional risk factors (thrombophilia, obesity, heart failure, prolonged immobility, previous VTE) → **BOTH mechanical devices AND LMWH/unfractionated heparin**. Pregnancy is hypercoagulable and **VTE remains a leading direct cause of maternal death**.
-- **DOYEN'S RETRACTOR** retracts the abdominal wall and bladder at caesarean.
+- **DOYEN’S RETRACTOR** retracts the abdominal wall and bladder at caesarean.
 
-**EXAM CONNECTION:** "Position on the OT table" → **supine with a wedge under the RIGHT hip**.
+**EXAM CONNECTION:** “Position on the OT table” → **supine with a wedge under the RIGHT hip**.
 
 **REMEMBER:** *Wedge the right hip to tilt her left — the uterus must come off the vena cava. Joel-Cohen for LSCS; Cherny and Maylard for extra pelvic exposure.*
 
@@ -1979,10 +1979,10 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 - **Indicated when the uterus is at or above the UMBILICUS (roughly ≥20 weeks).** Fetal survival is best within 5 minutes of arrest, but **the maternal indication stands regardless of fetal viability**.
 - **CPR modifications in pregnancy: CONTINUOUS MANUAL LEFT UTERINE DISPLACEMENT (rather than tilting the table, which degrades compression quality), hand position slightly higher on the sternum, EARLY intubation (rapid desaturation, difficult airway), standard defibrillation energies and drugs.** Continue CPR during and after delivery — the mother often improves dramatically as the uterus empties.
-- **Causes of maternal collapse ("BEAU-CHOPS"): Anaesthetic complications, Bleeding, Cardiac disease, Drugs, Embolism (thrombotic or AMNIOTIC FLUID), Fever/sepsis, General (the 4 Hs and 4 Ts), Hypertension (eclampsia, intracranial haemorrhage).**
+- **Causes of maternal collapse (“BEAU-CHOPS”): Anaesthetic complications, Bleeding, Cardiac disease, Drugs, Embolism (thrombotic or AMNIOTIC FLUID), Fever/sepsis, General (the 4 Hs and 4 Ts), Hypertension (eclampsia, intracranial haemorrhage).**
 - **Other indications for a CLASSICAL incision: extreme prematurity with an undeveloped lower segment, transverse lie with the back down, anterior placenta praevia/accreta, large lower-segment fibroids, a densely adherent bladder.** Its cost is a **MUCH HIGHER RUPTURE RISK (4–9%)** in a future pregnancy — so a previous classical incision **mandates ELECTIVE REPEAT CAESAREAN and CONTRAINDICATES a trial of labour**, whereas a previous **LOWER SEGMENT** incision carries only **~0.2–0.7%** and permits TOLAC where immediate emergency caesarean is available.
 
-**EXAM CONNECTION:** "True regarding perimortem caesarean" → **upper segment (classical) caesarean section**.
+**EXAM CONNECTION:** “True regarding perimortem caesarean” → **upper segment (classical) caesarean section**.
 
 **REMEMBER:** *Cut where she lies, cut vertically, and do it to save the mother.*
 
@@ -2001,11 +2001,11 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **MIDLINE vs MEDIOLATERAL: MIDLINE — easier repair, less blood loss, less pain, better healing, less dyspareunia, BUT a much HIGHER risk of extension into the ANAL SPHINCTER AND RECTUM. MEDIOLATERAL — the reverse on every count, and the type used in most of the world including India.**
 - **EPISIOTOMY IS NO LONGER ROUTINE — restrictive use is evidence-based.** Indications: rigid perineum, instrumental delivery (especially forceps), shoulder dystocia, breech and manipulative deliveries, an anticipated large baby, fetal distress needing expedited delivery. **Performed at CROWNING** (3–4 cm of head visible) under local infiltration or pudendal block.
 - **PERINEAL TEAR DEGREES: FIRST — skin/vaginal mucosa only. SECOND — perineal muscles, sphincter intact (equivalent to an episiotomy). THIRD — involves the ANAL SPHINCTER (3a <50% of external sphincter, 3b >50%, 3c internal sphincter involved). FOURTH — through the ANAL/RECTAL EPITHELIUM (the most severe — you can see rectal mucosa).**
-- **Third and fourth degree tears ("OASIS") need repair in THEATRE by an experienced operator, with antibiotics, laxatives (no constipating agents) and follow-up** — the risk is **FAECAL INCONTINENCE and fistula**.
+- **Third and fourth degree tears (“OASIS”) need repair in THEATRE by an experienced operator, with antibiotics, laxatives (no constipating agents) and follow-up** — the risk is **FAECAL INCONTINENCE and fistula**.
 - **Episiotomy complications: extension into the rectum, VULVAL HAEMATOMA, dehiscence and infection, blood loss, later DYSPAREUNIA and rarely SCAR ENDOMETRIOSIS.**
 - **The pudendal nerve (S2,3,4) supplies the perineum — block it transvaginally at the ISCHIAL SPINE.**
 
-**EXAM CONNECTION:** "All are cut EXCEPT" → **obturator muscle**.
+**EXAM CONNECTION:** “All are cut EXCEPT” → **obturator muscle**.
 
 **REMEMBER:** *Cut down and out at sixty degrees — everything in the perineum, nothing on the pelvic wall.*
 
@@ -2027,14 +2027,14 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **MUST KNOW:**
 
 - **Prerequisites for ANY instrument: FULLY DILATED cervix, RUPTURED membranes, an ENGAGED head with position and station known (no more than 2/5 palpable abdominally), an empty bladder, adequate analgesia, no CPD, and a plan for failure. NEVER apply an instrument to an unengaged head.**
-- **VENTOUSE advantages: less maternal trauma, less analgesia, allows AUTO-ROTATION. Disadvantages: higher failure rate, CEPHALHAEMATOMA, chignon, retinal haemorrhage, and SUBGALEAL HAEMORRHAGE (potentially fatal — the subgaleal space can hold the neonate's entire blood volume). Limits: abandon after ~3 pulls, 2 cup detachments, or 20 minutes.**
+- **VENTOUSE advantages: less maternal trauma, less analgesia, allows AUTO-ROTATION. Disadvantages: higher failure rate, CEPHALHAEMATOMA, chignon, retinal haemorrhage, and SUBGALEAL HAEMORRHAGE (potentially fatal — the subgaleal space can hold the neonate’s entire blood volume). Limits: abandon after ~3 pulls, 2 cup detachments, or 20 minutes.**
 - **FORCEPS advantages: higher success rate, faster, usable for face and after-coming head, and it can ROTATE. Disadvantages: more maternal trauma (third/fourth-degree tears, vaginal lacerations) and FACIAL NERVE PALSY.** Functions: **traction, rotation and compression** (plus protection of the preterm head at caesarean).
-- **TYPES: SIMPSON/Anderson (outlet and low), WRIGLEY'S (outlet, and at caesarean), KIELLAND'S (rotational, minimal pelvic curve), PIPER (after-coming head — a BACKWARD/reverse pelvic curve and long shanks so it can be applied from below while the body is held up).**
+- **TYPES: SIMPSON/Anderson (outlet and low), WRIGLEY’S (outlet, and at caesarean), KIELLAND’S (rotational, minimal pelvic curve), PIPER (after-coming head — a BACKWARD/reverse pelvic curve and long shanks so it can be applied from below while the body is held up).**
 - **VENTOUSE AND FORCEPS MUST NEVER BE USED SEQUENTIALLY** — neonatal morbidity rises steeply.
 - **Deep transverse arrest at station 0 with MOULDING 2+ and CAPUT 2+ is CEPHALOPELVIC DISPROPORTION → CAESAREAN, not mid-cavity instrumentation.** Caput and moulding warn that a vaginal attempt will fail.
 - **Indications: prolonged or arrested second stage, maternal exhaustion, fetal distress, and to SHORTEN the second stage in maternal cardiac or neurological disease, severe pre-eclampsia or a previous caesarean.**
 
-**EXAM CONNECTION:** "Ventouse is contraindicated in" → **preterm**. "Outlet forceps applied at" → **head on the perineum**.
+**EXAM CONNECTION:** “Ventouse is contraindicated in” → **preterm**. “Outlet forceps applied at” → **head on the perineum**.
 
 **REMEMBER:** *The cup needs a hard vertex to hold — preterm, face and after-coming heads belong to forceps. If you can see the scalp without parting the labia it is outlet; if the head is not engaged, no instrument at all.*
 
@@ -2045,16 +2045,16 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ---
 
-### 82. Dührssen's Incisions and Cleidotomy
+### 82. Dührssen’s Incisions and Cleidotomy
 
-**PEARL:** **DÜHRSSEN'S INCISIONS are made at the 2 and 10 O'CLOCK positions** on an incompletely dilated cervix, to deliver the head (classically the after-coming head in breech). **CLEIDOTOMY is deliberate fracture/division of the fetal CLAVICLE** to reduce the shoulder girdle diameter.
+**PEARL:** **DÜHRSSEN’S INCISIONS are made at the 2 and 10 O’CLOCK positions** on an incompletely dilated cervix, to deliver the head (classically the after-coming head in breech). **CLEIDOTOMY is deliberate fracture/division of the fetal CLAVICLE** to reduce the shoulder girdle diameter.
 
 **MUST KNOW:**
 
-- **Avoid 3 and 9 o'clock — the DESCENDING CERVICAL BRANCHES OF THE UTERINE VESSELS run laterally.** Some operators add a 6 o'clock incision. Complications: cervical laceration and extension into the lower segment.
+- **Avoid 3 and 9 o’clock — the DESCENDING CERVICAL BRANCHES OF THE UTERINE VESSELS run laterally.** Some operators add a 6 o’clock incision. Complications: cervical laceration and extension into the lower segment.
 - **Cleidotomy is a DESTRUCTIVE operation, essentially reserved for a DEAD fetus.** In a live baby with shoulder dystocia the sequence is **McRoberts → suprapubic pressure → internal rotation → delivery of the posterior arm → Zavanelli/symphysiotomy**.
 
-**REMEMBER:** *Two and ten o'clock to dodge the lateral vessels; cleidotomy shrinks the shoulders and is a last resort.*
+**REMEMBER:** *Two and ten o’clock to dodge the lateral vessels; cleidotomy shrinks the shoulders and is a last resort.*
 
 ---
 
@@ -2064,18 +2064,18 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** The escalation is **OXYTOCIN (10 IU IM or 5 IU slow IV, then infusion) → ERGOMETRINE/methylergometrine 0.2 mg IM (CONTRAINDICATED IN HYPERTENSION, pre-eclampsia and HEART DISEASE) → CARBOPROST (15-methyl PGF2α) 0.25 mg IM/intramyometrially (CONTRAINDICATED IN ASTHMA) → MISOPROSTOL 800–1000 µg PR**, with **TRANEXAMIC ACID 1 g IV within 3 hours** given early — under **WHO 2025, TXA belongs to the initial MOTIVE bundle, not to the point where the uterotonics have failed.**[^3] **Carboprost may be repeated every 15–90 minutes to a MAXIMUM OF 8 DOSES = 2 mg.**
 
-**UNDERSTAND:** The ladder works because **each rung acts on a different receptor system**. Oxytocin is receptor-mediated and subject to **receptor desaturation** after prolonged labour or oxytocin augmentation; **PGF2α is a paracrine hormone from the DECIDUA that stimulates myometrium directly**, so a uterus unresponsive to oxytocin and ergometrine may still contract to it. Skipping to surgery in a woman who would have responded to a drug costs her the uterus unnecessarily. **Ergometrine's danger is that it causes sustained tetanic contraction PLUS generalised vasoconstriction** — in mitral stenosis it squeezes ~500 mL of uterine blood into a circulation that cannot cope (pulmonary oedema); in hypertension it raises BP further; before delivery of a second twin it strangles the undelivered baby; and in Rh-negative women it forces **fetomaternal transfusion**.
+**UNDERSTAND:** The ladder works because **each rung acts on a different receptor system**. Oxytocin is receptor-mediated and subject to **receptor desaturation** after prolonged labour or oxytocin augmentation; **PGF2α is a paracrine hormone from the DECIDUA that stimulates myometrium directly**, so a uterus unresponsive to oxytocin and ergometrine may still contract to it. Skipping to surgery in a woman who would have responded to a drug costs her the uterus unnecessarily. **Ergometrine’s danger is that it causes sustained tetanic contraction PLUS generalised vasoconstriction** — in mitral stenosis it squeezes ~500 mL of uterine blood into a circulation that cannot cope (pulmonary oedema); in hypertension it raises BP further; before delivery of a second twin it strangles the undelivered baby; and in Rh-negative women it forces **fetomaternal transfusion**.
 
 **MUST KNOW:**
 
 - **Definition: blood loss ≥500 mL after vaginal delivery or ≥1000 mL after caesarean, or any loss causing haemodynamic instability. PRIMARY = within 24 hours; SECONDARY = 24 hours to 12 weeks.**
 - **The 4 Ts: TONE (atony, 70–80% — commonest), TRAUMA (tears, rupture, inversion), TISSUE (retained products, adherent placenta), THROMBIN (coagulopathy).** **Always exclude trauma and retained tissue — no drug will fix a cervical tear.**
-- **Mechanical/surgical ladder: uterine massage and bimanual compression → intrauterine BALLOON (BAKRI) TAMPONADE → uterine artery ligation (O'LEARY) → B-LYNCH compression suture → stepwise devascularisation/internal iliac ligation → HYSTERECTOMY (definitive).** Aortic compression and a **non-pneumatic anti-shock garment** buy time during transfer.
+- **Mechanical/surgical ladder: uterine massage and bimanual compression → intrauterine BALLOON (BAKRI) TAMPONADE → uterine artery ligation (O’LEARY) → B-LYNCH compression suture → stepwise devascularisation/internal iliac ligation → HYSTERECTOMY (definitive).** Aortic compression and a **non-pneumatic anti-shock garment** buy time during transfer.
 - **Uterotonic cautions: oxytocin — avoid a rapid IV bolus (hypotension, water intoxication); misoprostol — safe in cardiac disease but causes pyrexia and shivering; CARBETOCIN 100 µg (heat-stable long-acting oxytocin analogue) is preferred where the cold chain cannot be guaranteed.**
 - **Risk factors for atony: grand multiparity, overdistension (polyhydramnios, twins, macrosomia), prolonged or precipitate labour, chorioamnionitis, previous PPH, prolonged oxytocin use, general anaesthesia.**
 - **ACTIVE MANAGEMENT OF THE THIRD STAGE is the single most effective preventive measure.** Carboprost is also used as a **second-trimester abortifacient**.
 
-**EXAM CONNECTION:** "Maximum dose of PGF2α in PPH" → **2 mg (8 × 0.25 mg)**. The stem lists what has already been given — count how far up the ladder you are. The comorbidity selects the drug: **heart disease/hypertension → avoid ergometrine; asthma → avoid carboprost.**
+**EXAM CONNECTION:** “Maximum dose of PGF2α in PPH” → **2 mg (8 × 0.25 mg)**. The stem lists what has already been given — count how far up the ladder you are. The comorbidity selects the drug: **heart disease/hypertension → avoid ergometrine; asthma → avoid carboprost.**
 
 **REMEMBER:** *Oxytocin, ergot, prostaglandin — then, and only then, reach for a procedure. Ergometrine squeezes the uterus and the arteries, which is bad for a stiff heart.*
 
@@ -2095,10 +2095,10 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Management: BROAD-SPECTRUM ANTIBIOTICS with anaerobic cover (endometritis is polymicrobial), UTEROTONICS, and SURGICAL EVACUATION only for significant retained tissue — gentle suction under antibiotic cover, since the postpartum uterus PERFORATES EASILY. UTERINE ARTERY EMBOLISATION is very effective for persistent bleeding, especially from a pseudoaneurysm.**
 - **A PLACENTAL POLYP is retained tissue that becomes organised and fibrinous, presenting weeks later with irregular bleeding.**
 - **Commonest cause of puerperal pyrexia is ENDOMETRITIS**, then UTI, wound infection, mastitis and DVT. **Fever in the first 24 hours is usually not infective** (atelectasis, dehydration). ***Streptococcus pyogenes* infection can be fulminant.**
-- **SEPTIC PELVIC THROMBOPHLEBITIS is a DIAGNOSIS OF EXCLUSION: persistent "picket-fence" fever despite adequate antibiotics in a well-looking patient. Treat with ANTIBIOTICS PLUS HEPARIN — response to heparin supports the diagnosis; CT/MRI may show ovarian vein thrombosis.**
+- **SEPTIC PELVIC THROMBOPHLEBITIS is a DIAGNOSIS OF EXCLUSION: persistent “picket-fence” fever despite adequate antibiotics in a well-looking patient. Treat with ANTIBIOTICS PLUS HEPARIN — response to heparin supports the diagnosis; CT/MRI may show ovarian vein thrombosis.**
 - **Prevention begins in the third stage: careful inspection of the placenta and membranes for completeness.**
 
-**EXAM CONNECTION:** "Not a cause of secondary PPH" → **placenta praevia**.
+**EXAM CONNECTION:** “Not a cause of secondary PPH” → **placenta praevia**.
 
 **REMEMBER:** *Secondary PPH is a placental site that never involuted — retained tissue or infection, not praevia. And fever that ignores antibiotics after delivery means heparin.*
 
@@ -2114,7 +2114,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **MUST KNOW:**
 
-- **Sequence: call for help → IV access, fluids, blood, treat shock → IMMEDIATE MANUAL REPLACEMENT (push the part that inverted LAST, back FIRST) → if it fails, TOCOLYSIS (terbutaline, MgSO₄, GTN) or general anaesthesia with halothane → HYDROSTATIC REDUCTION (O'SULLIVAN) → surgery (HUNTINGTON — traction from above; HAULTAIN — posterior ring incision) as a last resort.**
+- **Sequence: call for help → IV access, fluids, blood, treat shock → IMMEDIATE MANUAL REPLACEMENT (push the part that inverted LAST, back FIRST) → if it fails, TOCOLYSIS (terbutaline, MgSO₄, GTN) or general anaesthesia with halothane → HYDROSTATIC REDUCTION (O’SULLIVAN) → surgery (HUNTINGTON — traction from above; HAULTAIN — posterior ring incision) as a last resort.**
 - **Give oxytocin/ergometrine only AFTER replacement**, then keep a hand inside until the uterus contracts.
 - **Degrees: 1st — fundus dimples into the cavity; 2nd — through the cervix into the vagina; 3rd — through the INTROITUS; 4th (total) — vagina inverted as well.**
 - **Risk factors: FUNDAL PLACENTA, uterine atony (polyhydramnios, multiple pregnancy, prolonged labour), CORD TRACTION ON AN UNCONTRACTED UTERUS, morbidly adherent placenta, short cord, connective-tissue disorders.**
@@ -2144,7 +2144,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **The cervix regains its shape within days but the external os remains a TRANSVERSE SLIT permanently after vaginal delivery — the marker of parity.**
 - **Routine postnatal care: check involution, lochia, perineum, breasts, blood pressure and mood; screen for POSTNATAL DEPRESSION; provide contraception; continue iron and calcium.**
 
-**EXAM CONNECTION:** "Uterus becomes a pelvic organ at" → **2 weeks**; "immediately after delivery corresponds to" → **20 weeks**.
+**EXAM CONNECTION:** “Uterus becomes a pelvic organ at” → **2 weeks**; “immediately after delivery corresponds to” → **20 weeks**.
 
 **REMEMBER:** *Twenty weeks at delivery, pelvic by two weeks, normal by six. Rubra → serosa → alba, about three to five weeks in all.*
 
@@ -2154,19 +2154,19 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 87. Lactation — Why Milk Waits for Delivery
 
-**PEARL:** **Milk production is INHIBITED DURING PREGNANCY BY HIGH OESTROGEN (and progesterone)**, which block prolactin's action at the breast despite prolactin being very high. **Lactation begins when the placenta is delivered and oestrogen and progesterone FALL ABRUPTLY** — the basis of **LACTOGENESIS II at 2–4 days postpartum**.
+**PEARL:** **Milk production is INHIBITED DURING PREGNANCY BY HIGH OESTROGEN (and progesterone)**, which block prolactin’s action at the breast despite prolactin being very high. **Lactation begins when the placenta is delivered and oestrogen and progesterone FALL ABRUPTLY** — the basis of **LACTOGENESIS II at 2–4 days postpartum**.
 
 **UNDERSTAND:** Pregnancy prepares the breast fully (**ductal growth by oestrogen, alveolar growth by progesterone, secretory differentiation by prolactin and hPL**) but deliberately holds back secretion. **The placenta is the brake and its delivery is the trigger** — which is why **retained placental fragments delay lactation**, why **oestrogen-containing contraceptives reduce supply**, and why **bromocriptine/cabergoline (dopamine agonists) suppress lactation** by lowering prolactin. **Human placental lactogen prepares the breast but does NOT inhibit milk production — the inhibitor is oestrogen.**
 
 **MUST KNOW:**
 
-- **PROLACTIN drives MILK SECRETION** (anterior pituitary; suppressed by DOPAMINE, stimulated by suckling and by TRH — hence galactorrhoea in hypothyroidism). **OXYTOCIN drives MILK EJECTION** (the "let-down" reflex, posterior pituitary, conditioned to the baby's cry and inhibited by pain, anxiety and embarrassment).
-- **COLOSTRUM (days 1–3) is rich in PROTEIN, IgA, lactoferrin, vitamin A and minerals and low in fat and lactose — the newborn's first immunisation, and must not be discarded.**
+- **PROLACTIN drives MILK SECRETION** (anterior pituitary; suppressed by DOPAMINE, stimulated by suckling and by TRH — hence galactorrhoea in hypothyroidism). **OXYTOCIN drives MILK EJECTION** (the “let-down” reflex, posterior pituitary, conditioned to the baby’s cry and inhibited by pain, anxiety and embarrassment).
+- **COLOSTRUM (days 1–3) is rich in PROTEIN, IgA, lactoferrin, vitamin A and minerals and low in fat and lactose — the newborn’s first immunisation, and must not be discarded.**
 - **Breast milk is LOW IN VITAMIN K (hence IM vitamin K at birth), and low in vitamin D and iron after 6 months (hence complementary feeding from 6 months).**
 - **EXCLUSIVE BREASTFEEDING for 6 MONTHS, continued to 2 years (WHO).** Correct **ATTACHMENT** (mouth wide, more areola visible above than below, chin touching the breast, lower lip everted) prevents nipple fissure and mastitis.
 - **Contraindications are few: maternal HIV where safe replacement feeding is available (in India, ART plus exclusive breastfeeding is recommended), active untreated tuberculosis (express until treated), infant GALACTOSAEMIA, and certain drugs (cytotoxics, radioiodine, lithium, amiodarone).**
 
-**EXAM CONNECTION:** "Milk production in pregnancy is inhibited by" → **high oestrogen**.
+**EXAM CONNECTION:** “Milk production in pregnancy is inhibited by” → **high oestrogen**.
 
 **REMEMBER:** *The placenta holds the brake — deliver it and the milk comes in.*
 
@@ -2178,18 +2178,18 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** ***STAPHYLOCOCCUS AUREUS* is the commonest organism; DICLOXACILLIN (or flucloxacillin/cephalexin) 500 mg four times daily for 10–14 DAYS is first-line** — erythromycin/clindamycin if penicillin-allergic, vancomycin or cotrimoxazole/clindamycin for MRSA. **BREASTFEEDING MUST CONTINUE from the affected breast** — safe for the baby and essential to treatment.
 
-**UNDERSTAND:** Mastitis begins as **MILK STASIS** — an inadequately drained segment — which then becomes infected through a cracked nipple, the organism coming from the **infant's nasopharynx and the mother's skin**. **Continued effective drainage is therefore the single most important intervention**: stopping feeds worsens engorgement, raises intraductal pressure and drives progression to abscess. Correcting the **latch** prevents recurrence.
+**UNDERSTAND:** Mastitis begins as **MILK STASIS** — an inadequately drained segment — which then becomes infected through a cracked nipple, the organism coming from the **infant’s nasopharynx and the mother’s skin**. **Continued effective drainage is therefore the single most important intervention**: stopping feeds worsens engorgement, raises intraductal pressure and drives progression to abscess. Correcting the **latch** prevents recurrence.
 
 **MUST KNOW:**
 
 - **Typically in the FIRST WEEKS of lactation (inexperience, poor latch, engorgement) or at WEANING.** A **wedge-shaped area of redness, pain and swelling with FEVER, rigors and flu-like malaise** — the systemic upset distinguishes it from simple engorgement.
 - **Suspect an ABSCESS with FLUCTUATION or failure to improve within 48–72 hours** — confirm by **ULTRASOUND**, treat by **ultrasound-guided NEEDLE ASPIRATION** (now preferred) or incision and drainage; continue breastfeeding or express.
-- **RECURRENT or non-resolving "mastitis", especially with peau d'orange and nipple changes, must raise INFLAMMATORY BREAST CARCINOMA — biopsy the skin. This is the diagnosis that must not be missed.**
+- **RECURRENT or non-resolving “mastitis”, especially with peau d’orange and nipple changes, must raise INFLAMMATORY BREAST CARCINOMA — biopsy the skin. This is the diagnosis that must not be missed.**
 - **Supportive care: frequent effective emptying, ibuprofen/paracetamol (both safe in lactation), warm compresses before and cold after feeds, breast support, fluids.**
 - **NON-LACTATIONAL periductal mastitis is different: in SMOKERS, often anaerobic/mixed, associated with DUCT ECTASIA, nipple retraction and MAMMARY DUCT FISTULA — needs anaerobic cover (co-amoxiclav or metronidazole).**
 - **BREAST ENGORGEMENT (bilateral, day 3–5, little or no fever) is managed with frequent feeding and expression, not antibiotics.**
 
-**EXAM CONNECTION:** "First-line treatment of lactational mastitis" → **dicloxacillin**.
+**EXAM CONNECTION:** “First-line treatment of lactational mastitis” → **dicloxacillin**.
 
 **REMEMBER:** *Keep the breast empty and give an anti-staphylococcal penicillin — stopping feeds makes an abscess.*
 
@@ -2207,7 +2207,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 - **STEROIDS MUST BE GIVEN BEFORE THYROXINE** — thyroxine accelerates cortisol metabolism and can precipitate adrenal crisis in an unrecognised cortisol-deficient patient.
 - **The earliest and most characteristic sign is FAILURE OF LACTATION (prolactin deficiency)**, then failure of menses to resume, loss of axillary and pubic hair, fatigue, cold intolerance, weight gain. Presentation may be **acute or insidious over months to years**.
-- **Order of hormone loss with progressive pituitary damage: GH → FSH/LH → TSH → ACTH → prolactin.** In Sheehan's, prolactin is affected early because **lactotrophs are the hyperplastic, most vulnerable cells**.
+- **Order of hormone loss with progressive pituitary damage: GH → FSH/LH → TSH → ACTH → prolactin.** In Sheehan’s, prolactin is affected early because **lactotrophs are the hyperplastic, most vulnerable cells**.
 - **Diagnosis: low target hormones with INAPPROPRIATELY LOW OR NORMAL trophic hormones (low free T4 with a low/normal TSH; low cortisol with a low/normal ACTH); MRI shows an EMPTY SELLA in the chronic phase.**
 - **Distinguish LYMPHOCYTIC HYPOPHYSITIS — autoimmune, also late pregnancy/postpartum with headache and hypopituitarism, but often with a pituitary MASS and PRESERVED LACTATION, and it may respond to steroids.**
 - **Prevention is simply the prevention and prompt treatment of PPH** — which is why Sheehan syndrome remains common in India and rare where obstetric haemorrhage is well managed.
@@ -2222,7 +2222,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 90. Neonatal Hypoglycaemia
 
-**PEARL:** **Neonatal hypoglycaemia is a blood glucose <45 mg/dL.** The **infant of a diabetic mother is the classic case** — maternal hyperglycaemia drives fetal hyperinsulinaemia (**PEDERSEN'S HYPOTHESIS**), and when the placental glucose supply is cut, the **persisting hyperinsulinaemia causes a precipitous fall within 1–2 hours of birth.**
+**PEARL:** **Neonatal hypoglycaemia is a blood glucose <45 mg/dL.** The **infant of a diabetic mother is the classic case** — maternal hyperglycaemia drives fetal hyperinsulinaemia (**PEDERSEN’S HYPOTHESIS**), and when the placental glucose supply is cut, the **persisting hyperinsulinaemia causes a precipitous fall within 1–2 hours of birth.**
 
 **UNDERSTAND:** The neonatal brain depends almost entirely on glucose, and **hyperinsulinaemia simultaneously BLOCKS the alternative fuels** — insulin suppresses ketogenesis and lipolysis, so the baby cannot generate ketone bodies to protect the brain. That is why hyperinsulinaemic hypoglycaemia is **more dangerous at any given glucose level** than other causes, and must be **anticipated rather than waited for**.
 
@@ -2232,7 +2232,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Many are ASYMPTOMATIC — hence screening.** Symptoms are non-specific: jitteriness, lethargy, poor feeding, hypotonia, apnoea, temperature instability, high-pitched cry, seizures.
 - **Management: EARLY AND FREQUENT FEEDING for asymptomatic mild hypoglycaemia with repeat measurement; IV DEXTROSE (2 mL/kg bolus of 10% then an infusion) if symptomatic, with seizures, or very low/unresponsive. Buccal dextrose gel is a first-line adjunct.**
 - **Other problems of the infant of a diabetic mother: macrosomia and birth trauma, RDS, hypocalcaemia and hypomagnesaemia, polycythaemia with hyperbilirubinaemia, hypertrophic cardiomyopathy — and, with pre-gestational diabetes, congenital anomalies.**
-- **PERSISTENT hypoglycaemia beyond a few days needs a work-up for congenital hyperinsulinism, endocrine deficiency and inborn errors — draw the "CRITICAL SAMPLE" during hypoglycaemia before treating.**
+- **PERSISTENT hypoglycaemia beyond a few days needs a work-up for congenital hyperinsulinism, endocrine deficiency and inborn errors — draw the “CRITICAL SAMPLE” during hypoglycaemia before treating.**
 
 **EXAM CONNECTION:** Straight cut-off recall → **<45 mg/dL**.
 
@@ -2249,9 +2249,9 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 91. Identifying the Ureter at Surgery
 
-**PEARL:** The ureter is recognised by its **PALE, WHITISH, GLISTENING appearance, its CORD-LIKE, NON-PULSATILE feel, and — the definitive sign — VERMICULAR PERISTALSIS when gently pinched.** The **UTERINE ARTERY CROSSES SUPERIOR (anterior) to it about 1.5–2 cm lateral to the cervix — "WATER UNDER THE BRIDGE"** — and the **OVARIAN vessels cross anterior to it at the pelvic brim.**
+**PEARL:** The ureter is recognised by its **PALE, WHITISH, GLISTENING appearance, its CORD-LIKE, NON-PULSATILE feel, and — the definitive sign — VERMICULAR PERISTALSIS when gently pinched.** The **UTERINE ARTERY CROSSES SUPERIOR (anterior) to it about 1.5–2 cm lateral to the cervix — “WATER UNDER THE BRIDGE”** — and the **OVARIAN vessels cross anterior to it at the pelvic brim.**
 
-**UNDERSTAND:** The peristalsis test is decisive because **arteries pulsate rhythmically and passively, whereas only the ureter "crawls"** in a slow worm-like wave when stimulated. Anatomically its danger is that it runs **retroperitoneally along the pelvic side wall, then medially in the base of the broad ligament DIRECTLY BENEATH the uterine artery, then close to the vaginal fornix** — at risk precisely where the gynaecologist is working.
+**UNDERSTAND:** The peristalsis test is decisive because **arteries pulsate rhythmically and passively, whereas only the ureter “crawls”** in a slow worm-like wave when stimulated. Anatomically its danger is that it runs **retroperitoneally along the pelvic side wall, then medially in the base of the broad ligament DIRECTLY BENEATH the uterine artery, then close to the vaginal fornix** — at risk precisely where the gynaecologist is working.
 
 **MUST KNOW:**
 
@@ -2281,11 +2281,11 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **MUST KNOW:**
 
-- **TRUE SUPPORTS: LEVATOR ANI (most important), CARDINAL (Mackenrodt's) ligament, UTEROSACRAL ligament, PUBOCERVICAL ligament. The ROUND LIGAMENT maintains ANTEVERSION but is not a support.**
+- **TRUE SUPPORTS: LEVATOR ANI (most important), CARDINAL (Mackenrodt’s) ligament, UTEROSACRAL ligament, PUBOCERVICAL ligament. The ROUND LIGAMENT maintains ANTEVERSION but is not a support.**
 - **PARTS: MESOSALPINX (above the ovarian ligament, containing the tube and the vestigial EPOOPHORON/PAROOPHORON), MESOVARIUM, MESOMETRIUM (largest), and the INFUNDIBULOPELVIC (suspensory) LIGAMENT carrying the OVARIAN VESSELS.**
 - **Clamping the infundibulopelvic ligament (oophorectomy) also risks the ureter**, which lies just beneath it at the pelvic brim.
 
-**EXAM CONNECTION:** "False about contents of the broad ligament" → the ovarian ligament in the **anterior** fold (it is posterior).
+**EXAM CONNECTION:** “False about contents of the broad ligament” → the ovarian ligament in the **anterior** fold (it is posterior).
 
 **REMEMBER:** *The broad ligament drapes but does not support — the levator ani does.*
 
@@ -2305,7 +2305,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Damage to the ciliated epithelium — by PID (Chlamydia, gonorrhoea), endometriosis or tubal surgery — is the leading cause of ECTOPIC PREGNANCY**; the ampulla is the commonest implantation site (~70%). **Kartagener syndrome** (immotile cilia) and **smoking** both raise ectopic risk.
 - **Four parts, lateral → medial: INFUNDIBULUM (fimbriae) → AMPULLA (longest and widest) → ISTHMUS (narrowest) → INTERSTITIAL/intramural.** **Interstitial (cornual) ectopics rupture LATEST (~8–12 weeks) but bleed most catastrophically.**
 
-**EXAM CONNECTION:** "Peg cells are seen in" → **fallopian tube**.
+**EXAM CONNECTION:** “Peg cells are seen in” → **fallopian tube**.
 
 **REMEMBER:** *Pale ciliated cells sweep, dark peg cells feed — damage them and you get an ectopic.*
 
@@ -2324,15 +2324,15 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **MUST KNOW:**
 
-- **BURCH COLPOSUSPENSION places non-absorbable sutures from the PARAVAGINAL FASCIA to COOPER'S (iliopectineal) LIGAMENT**, elevating the bladder neck. The **mid-urethral sling (TVT/TOT)** is now first-line surgery.
+- **BURCH COLPOSUSPENSION places non-absorbable sutures from the PARAVAGINAL FASCIA to COOPER’S (iliopectineal) LIGAMENT**, elevating the bladder neck. The **mid-urethral sling (TVT/TOT)** is now first-line surgery.
 - The space contains the **VESICAL/PROSTATIC VENOUS PLEXUS OF SANTORINI** — a source of torrential bleeding.
 - **EXTRAPERITONEAL bladder rupture (pelvic fracture) fills this space → CATHETER DRAINAGE ALONE; INTRAPERITONEAL rupture (blow to a full bladder) requires SURGICAL REPAIR.**
 - **Do not confuse it with the PRESACRAL space** (between rectum/peritoneum and sacrum), which contains the **hypogastric plexuses** and is the site of catastrophic presacral venous bleeding.
 - **Stress incontinence workup: demonstrate leak on coughing, Q-TIP TEST for urethral hypermobility, and urodynamics if symptoms are mixed.**
 
-**EXAM CONNECTION:** "Space of Retzius is also known as" → **prevesical / retropubic** (the trap pairs it with "presacral").
+**EXAM CONNECTION:** “Space of Retzius is also known as” → **prevesical / retropubic** (the trap pairs it with “presacral”).
 
-**REMEMBER:** *Retzius is in front of the bladder, behind the pubis — the incontinence surgeon's space.*
+**REMEMBER:** *Retzius is in front of the bladder, behind the pubis — the incontinence surgeon’s space.*
 
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/3477f43bee00156d36cee3bf0202b5ad.webp)
@@ -2345,7 +2345,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 95. Precocious Puberty
 
-**PEARL:** **PRECOCIOUS PUBERTY in a girl = any secondary sexual characteristic before 8 YEARS; PRECOCIOUS MENSTRUATION = menarche before 10 YEARS.** **McCUNE–ALBRIGHT SYNDROME is the classic peripheral cause — POLYOSTOTIC FIBROUS DYSPLASIA (with recurrent fractures) + "COAST OF MAINE" CAFÉ-AU-LAIT macules + PRECOCIOUS PUBERTY**, from an activating **GNAS** mutation.
+**PEARL:** **PRECOCIOUS PUBERTY in a girl = any secondary sexual characteristic before 8 YEARS; PRECOCIOUS MENSTRUATION = menarche before 10 YEARS.** **McCUNE–ALBRIGHT SYNDROME is the classic peripheral cause — POLYOSTOTIC FIBROUS DYSPLASIA (with recurrent fractures) + “COAST OF MAINE” CAFÉ-AU-LAIT macules + PRECOCIOUS PUBERTY**, from an activating **GNAS** mutation.
 
 **UNDERSTAND:** The GNAS mutation is **post-zygotic and MOSAIC — it constitutively activates the Gs alpha subunit**, so affected tissues behave as if permanently stimulated by their trophic hormone with no hormone present. That explains all three features and the associated endocrinopathies (**hyperthyroidism, acromegaly, Cushing syndrome**). Crucially it is **GONADOTROPHIN-INDEPENDENT — LH and FSH are SUPPRESSED**, which is what separates peripheral from central precocity.
 
@@ -2356,9 +2356,9 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **The main long-term consequence is SHORT FINAL ADULT HEIGHT**, from premature epiphyseal fusion despite tall childhood stature — which is why treatment is worthwhile.
 - **BENIGN VARIANTS needing no treatment: isolated PREMATURE THELARCHE (usually under 2, non-progressive) and PREMATURE ADRENARCHE (pubic/axillary hair and body odour without breast development).**
 - **Normal puberty in girls: THELARCHE (10–11) → PUBARCHE → PEAK GROWTH VELOCITY → MENARCHE (12–13), staged by TANNER. In boys the first sign is TESTICULAR ENLARGEMENT (≥4 mL).** **DELAYED puberty: no breast development by 13, or no menarche by 15 (or within 3 years of thelarche).**
-- **Café-au-lait contrast: NF1 spots have smooth "COAST OF CALIFORNIA" borders; McCune–Albright's are jagged "COAST OF MAINE".**
+- **Café-au-lait contrast: NF1 spots have smooth “COAST OF CALIFORNIA” borders; McCune–Albright’s are jagged “COAST OF MAINE”.**
 
-**EXAM CONNECTION:** "Precocious menstruation is defined as" → **before 10 years**.
+**EXAM CONNECTION:** “Precocious menstruation is defined as” → **before 10 years**.
 
 **REMEMBER:** *Eight for the breast, ten for the bleed — check the gonadotrophins to find the level. McCune–Albright = spots + bones + puberty.*
 
@@ -2380,12 +2380,12 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Endocrinology: FSH RISES FIRST and highest (loss of INHIBIN B feedback from granulosa cells), then LH; oestradiol falls (FSH >40 IU/L with low oestradiol).** The dominant post-menopausal oestrogen becomes **OESTRONE**, from peripheral **AROMATISATION of adrenal androstenedione in ADIPOSE TISSUE** — which is why obese women have **fewer vasomotor symptoms but a HIGHER risk of ENDOMETRIAL CARCINOMA**. **ANTI-MÜLLERIAN HORMONE is the best marker of ovarian reserve.**
 - **Symptoms: VASOMOTOR (hot flushes, night sweats — commonest, via hypothalamic KNDy neurons); GENITOURINARY SYNDROME OF MENOPAUSE (dryness, dyspareunia, urgency, recurrent UTI — this one PROGRESSES and does not resolve); sleep disturbance, mood change, loss of libido.**
 - **Long-term: OSTEOPOROSIS (most rapid bone loss in the first 5–10 years) and increased cardiovascular risk.**
-- **HRT: OESTROGEN ALONE ONLY IF THE UTERUS HAS BEEN REMOVED; oestrogen PLUS PROGESTOGEN if the uterus is present** (unopposed oestrogen → hyperplasia and carcinoma). Benefits: best relief of vasomotor symptoms, fracture prevention. Risks: **VTE (lower with TRANSDERMAL), stroke, breast cancer with prolonged combined use, gallbladder disease.** **The "TIMING HYPOTHESIS": started within 10 years of menopause or before 60, the balance is favourable.**
+- **HRT: OESTROGEN ALONE ONLY IF THE UTERUS HAS BEEN REMOVED; oestrogen PLUS PROGESTOGEN if the uterus is present** (unopposed oestrogen → hyperplasia and carcinoma). Benefits: best relief of vasomotor symptoms, fracture prevention. Risks: **VTE (lower with TRANSDERMAL), stroke, breast cancer with prolonged combined use, gallbladder disease.** **The “TIMING HYPOTHESIS”: started within 10 years of menopause or before 60, the balance is favourable.**
 - **CONTRAINDICATIONS to HRT: oestrogen-dependent cancer (breast, endometrium), undiagnosed vaginal bleeding, active VTE or thrombophilia, active liver disease, coronary or cerebrovascular disease.**
 - **Non-hormonal: SSRIs/SNRIs, gabapentin, clonidine; and for genitourinary symptoms LOW-DOSE VAGINAL OESTROGEN (minimal systemic absorption, usable when systemic HRT is not).**
 - **ANY POSTMENOPAUSAL BLEEDING IS ENDOMETRIAL CANCER UNTIL PROVED OTHERWISE.**
 
-**EXAM CONNECTION:** "Menopause is defined as" → **12 months of amenorrhoea**.
+**EXAM CONNECTION:** “Menopause is defined as” → **12 months of amenorrhoea**.
 
 **REMEMBER:** *Twelve silent months, looking backwards — FSH rises first because inhibin has gone. The climacteric is the whole transition; menopause is one day in it, named a year later.*
 
@@ -2397,7 +2397,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** **After OVULATION the released egg is a SECONDARY OOCYTE ARRESTED IN METAPHASE OF MEIOSIS II** — it completes meiosis II **ONLY IF FERTILISED** (extruding the second polar body). Before that the **PRIMARY oocyte has been arrested in PROPHASE OF MEIOSIS I since fetal life**, completing meiosis I only in the hours before ovulation (LH surge, first polar body).
 
-**UNDERSTAND:** The two arrests explain the two great features of female reproduction. **Prophase I arrest since fetal life means a woman's oocytes are as old as she is** — decades of arrest allow accumulated damage, which is why **NON-DISJUNCTION and aneuploidy rise steeply with maternal age**. The **metaphase II arrest** keeps the oocyte **poised to complete division instantly on fertilisation** without wasting resources beforehand.
+**UNDERSTAND:** The two arrests explain the two great features of female reproduction. **Prophase I arrest since fetal life means a woman’s oocytes are as old as she is** — decades of arrest allow accumulated damage, which is why **NON-DISJUNCTION and aneuploidy rise steeply with maternal age**. The **metaphase II arrest** keeps the oocyte **poised to complete division instantly on fertilisation** without wasting resources beforehand.
 
 **MUST KNOW:**
 
@@ -2408,7 +2408,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **After fertilisation: zygote → morula (day 3–4) → blastocyst (day 5) → IMPLANTATION begins day 6, complete by day 8–10 → hCG detectable ~day 8–9.**
 - **Spermatogenesis takes ~74 days plus ~14 days transit — so semen analysis is repeated at ~3 months (80–90 days) after starting therapy.**
 
-**EXAM CONNECTION:** "After ovulation the egg is" → **a secondary oocyte arrested in meiosis II**.
+**EXAM CONNECTION:** “After ovulation the egg is” → **a secondary oocyte arrested in meiosis II**.
 
 **REMEMBER:** *Arrested in prophase I since before she was born, and in metaphase II until the sperm arrives.*
 
@@ -2429,7 +2429,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **AMNIOTIC FLUID ferns too** — the bedside test for **PROM**, alongside the nitrazine/pH test and pooling.
 - **Other ovulation markers: basal body temperature rise of 0.3–0.5 °C (progesterone is thermogenic), mid-luteal (day 21) SERUM PROGESTERONE, urinary LH surge kits, ultrasound follicular tracking, and a SECRETORY endometrial biopsy.**
 - **Cervical mucus at ovulation: maximum quantity, watery, alkaline, low viscosity, high spinnbarkeit, positive ferning** — all to admit sperm; the **postcoital (Sims–Huhner) test** exploits this.
-- **Later secretory features: tortuous "saw-tooth" glands, luminal secretions, stromal PREDECIDUAL change.** The proliferative phase shows mitoses and pseudostratification.
+- **Later secretory features: tortuous “saw-tooth” glands, luminal secretions, stromal PREDECIDUAL change.** The proliferative phase shows mitoses and pseudostratification.
 
 **EXAM CONNECTION:** A ferning image fixes the phase; the question then asks for the **parallel oestrogenic finding** — superficial cells.
 
@@ -2455,12 +2455,12 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 - **PRIMARY AMENORRHOEA — no menses by 15 with secondary sexual characteristics, or by 13 WITHOUT them. SECONDARY — cessation for 3 months (regular cycles) or 6 months (irregular).**
 - **Classify by BREAST and UTERUS at the bedside: BREASTS PRESENT + UTERUS ABSENT → ANDROGEN INSENSITIVITY (46,XY, testes present, testosterone in the male range) or MÜLLERIAN AGENESIS (MAYER–ROKITANSKY–KÜSTER–HAUSER, 46,XX, normal testosterone, associated RENAL anomalies). BREASTS ABSENT + UTERUS PRESENT → gonadal failure (HIGH FSH — Turner or pure gonadal dysgenesis) or hypothalamic failure (LOW FSH — KALLMANN with ANOSMIA, constitutional delay). BOTH PRESENT → outflow obstruction (imperforate hymen, transverse septum) or PCOS.**
-- **PURE GONADAL DYSGENESIS (SWYER when 46,XY): NORMAL stature, streak gonads, absent thelarche, HIGH FSH/LH, NORMAL karyotype — the absence of Turner's short stature and webbed neck is the discriminator. A Y CHROMOSOME MANDATES GONADECTOMY** (gonadoblastoma/dysgerminoma risk).
+- **PURE GONADAL DYSGENESIS (SWYER when 46,XY): NORMAL stature, streak gonads, absent thelarche, HIGH FSH/LH, NORMAL karyotype — the absence of Turner’s short stature and webbed neck is the discriminator. A Y CHROMOSOME MANDATES GONADECTOMY** (gonadoblastoma/dysgerminoma risk).
 - **TURNER SYNDROME (45,X): SHORT stature, webbed neck, shield chest, cubitus valgus, streak ovaries, COARCTATION and bicuspid valve, horseshoe kidney — the uterus is present but infantile.**
 - **PREMATURE OVARIAN INSUFFICIENCY (<40): FMR1 PREMUTATION (fragile X), autoimmune (check thyroid and adrenal antibodies), chemo/radiotherapy, galactosaemia, Turner mosaicism. Confirm with TWO FSH values >25–40 IU/L, 4–6 weeks apart, plus low oestradiol and low AMH; then karyotype, FMR1 and autoantibodies. Treat with HRT UNTIL THE AVERAGE AGE OF MENOPAUSE** for bone and cardiovascular protection. **Spontaneous ovulation still occurs in 5–10%, so contraception is needed if pregnancy is not desired; donor oocyte IVF is the fertility option.**
 - **THE PROGESTERONE CHALLENGE TEST assesses oestrogenisation and outflow patency — a withdrawal bleed means adequate oestrogen and a patent tract (anovulation, e.g. PCOS); no bleed means hypo-oestrogenism or an outflow problem.** It is designed for the woman whose **gonadotrophins are NORMAL** — it adds little once FSH is clearly raised.
 
-**EXAM CONNECTION:** Amenorrhoea with high FSH/LH → **measure oestradiol** (a pregnancy test adds nothing, since high gonadotrophins already exclude pregnancy). Note that this stem has been keyed **both ways** in Indian papers — if the stem emphasises the raised gonadotrophins, answer the **ovarian work-up**; if it asks for "the first step in evaluating secondary amenorrhoea", answer the **progesterone challenge**.
+**EXAM CONNECTION:** Amenorrhoea with high FSH/LH → **measure oestradiol** (a pregnancy test adds nothing, since high gonadotrophins already exclude pregnancy). Note that this stem has been keyed **both ways** in Indian papers — if the stem emphasises the raised gonadotrophins, answer the **ovarian work-up**; if it asks for “the first step in evaluating secondary amenorrhoea”, answer the **progesterone challenge**.
 
 **REMEMBER:** *High gonadotrophins point at the ovary; low ones point at the brain.*
 
@@ -2472,24 +2472,24 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ---
 
-### 100. Anovulatory Bleeding — Metropathia Haemorrhagica and Halban's Disease
+### 100. Anovulatory Bleeding — Metropathia Haemorrhagica and Halban’s Disease
 
-**PEARL:** **6–8 WEEKS OF AMENORRHOEA followed by PROFUSE, PAINLESS bleeding in a woman of 40–45 with a THICK endometrium = METROPATHIA HAEMORRHAGICA (SCHRÖDER'S DISEASE)** — anovulatory bleeding with **CYSTIC GLANDULAR HYPERPLASIA ("SWISS CHEESE"), myohyperplasia, NO secretory glands, NO corpus luteum**, and often an ovarian follicular cyst. **HALBAN'S DISEASE is the counterpart — IRREGULAR SHEDDING from a PERSISTENT CORPUS LUTEUM: REGULAR cycles with PROLONGED bleeding, and secretory endometrium still present on day 5–6.**
+**PEARL:** **6–8 WEEKS OF AMENORRHOEA followed by PROFUSE, PAINLESS bleeding in a woman of 40–45 with a THICK endometrium = METROPATHIA HAEMORRHAGICA (SCHRÖDER’S DISEASE)** — anovulatory bleeding with **CYSTIC GLANDULAR HYPERPLASIA (“SWISS CHEESE”), myohyperplasia, NO secretory glands, NO corpus luteum**, and often an ovarian follicular cyst. **HALBAN’S DISEASE is the counterpart — IRREGULAR SHEDDING from a PERSISTENT CORPUS LUTEUM: REGULAR cycles with PROLONGED bleeding, and secretory endometrium still present on day 5–6.**
 
 **UNDERSTAND:** Metropathia is a disease of **UNOPPOSED OESTROGEN**. Persisting follicles secrete oestrogen with **no ovulation and therefore no progesterone**, so the endometrium proliferates unchecked until it **outgrows its blood supply and breaks down irregularly** — producing **painless** bleeding (no progesterone → no PGF2α → no cramps) after a period of amenorrhoea. The same mechanism is the pathway to **endometrial hyperplasia and carcinoma**.
 
 **MUST KNOW:**
 
-- **IRREGULAR RIPENING is inadequate corpus luteum function with premature bleeding** — distinguish it from Halban's irregular shedding.
+- **IRREGULAR RIPENING is inadequate corpus luteum function with premature bleeding** — distinguish it from Halban’s irregular shedding.
 - **THE FIRST INVESTIGATION IN ANY WOMAN OF REPRODUCTIVE AGE WITH ABNORMAL BLEEDING IS A URINE β-hCG** — to exclude pregnancy, miscarriage, ectopic and molar pregnancy — before ultrasound, Pap smear or biopsy.
 - **Any woman over 40 (or with risk factors — obesity, PCOS, diabetes, tamoxifen, family history) with AUB, and EVERY woman with POSTMENOPAUSAL BLEEDING, needs ENDOMETRIAL SAMPLING.** A postmenopausal endometrial thickness **>4–5 mm** mandates biopsy.
-- **FIGO "PALM–COEIN": STRUCTURAL — Polyp, Adenomyosis, Leiomyoma, Malignancy/hyperplasia; NON-STRUCTURAL — Coagulopathy (consider VON WILLEBRAND DISEASE in an adolescent with heavy menses since menarche), Ovulatory dysfunction, Endometrial, Iatrogenic, Not otherwise classified.**
+- **FIGO “PALM–COEIN”: STRUCTURAL — Polyp, Adenomyosis, Leiomyoma, Malignancy/hyperplasia; NON-STRUCTURAL — Coagulopathy (consider VON WILLEBRAND DISEASE in an adolescent with heavy menses since menarche), Ovulatory dysfunction, Endometrial, Iatrogenic, Not otherwise classified.**
 - **ENDOMETRIAL ABLATION destroys the endometrium AND 2–3 mm of superficial myometrium — FERTILITY IS NOT PRESERVED but contraception is still required**; it is for women who have completed childbearing and failed medical therapy.
-- **D&C is CONTRAINDICATED in acute PID/lower genital tract infection and in a desired pregnancy**; complications include perforation, cervical trauma, infection and **ASHERMAN'S SYNDROME**.
+- **D&C is CONTRAINDICATED in acute PID/lower genital tract infection and in a desired pregnancy**; complications include perforation, cervical trauma, infection and **ASHERMAN’S SYNDROME**.
 
 **EXAM CONNECTION:** Amenorrhoea then painless flooding at 45 with a thick endometrium → **metropathia haemorrhagica**.
 
-**REMEMBER:** *No ovulation, no progesterone — heavy, painless, Swiss-cheese glands. And a corpus luteum that won't quit gives periods on time that won't stop.*
+**REMEMBER:** *No ovulation, no progesterone — heavy, painless, Swiss-cheese glands. And a corpus luteum that won’t quit gives periods on time that won’t stop.*
 
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/7bc2bfd9e29ec727895e93122c76db63.webp)
@@ -2500,7 +2500,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 101. Menstrual Terminology and Dysmenorrhoea
 
-**PEARL:** **POLYMENORRHOEA — cycles ≤21 days. OLIGOMENORRHOEA — cycles >35–38 days. MENORRHAGIA — regular cycles with excessive (>80 mL) or prolonged (>8 days) flow. METRORRHAGIA — irregular, acyclical bleeding between periods. MENOMETRORRHAGIA — excessive AND prolonged bleeding at irregular, FREQUENT intervals (never "infrequent"). HYPOMENORRHOEA — regular but scanty flow.** **SPASMODIC dysmenorrhoea is caused by increased PGF2α, secreted under the influence of PROGESTERONE — so it occurs ONLY IN OVULATORY CYCLES.**
+**PEARL:** **POLYMENORRHOEA — cycles ≤21 days. OLIGOMENORRHOEA — cycles >35–38 days. MENORRHAGIA — regular cycles with excessive (>80 mL) or prolonged (>8 days) flow. METRORRHAGIA — irregular, acyclical bleeding between periods. MENOMETRORRHAGIA — excessive AND prolonged bleeding at irregular, FREQUENT intervals (never “infrequent”). HYPOMENORRHOEA — regular but scanty flow.** **SPASMODIC dysmenorrhoea is caused by increased PGF2α, secreted under the influence of PROGESTERONE — so it occurs ONLY IN OVULATORY CYCLES.**
 
 **UNDERSTAND:** The progesterone–PGF2α link explains the whole clinical pattern of primary dysmenorrhoea: it **begins 6–12 months after menarche (once cycles become ovulatory), never occurs in anovulatory bleeding, and is relieved by anything that suppresses ovulation (COCs) or blocks prostaglandin synthesis (NSAIDs)**. PGF2α causes **myometrial contraction and uterine ischaemia** — the pain is essentially uterine angina.
 
@@ -2509,11 +2509,11 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **PRIMARY dysmenorrhoea: adolescents; pain starting WITH or just BEFORE the flow, lasting 24–72 hours, cramping and suprapubic, with nausea, diarrhoea and headache; pelvic examination NORMAL. Treat with NSAIDs (mefenamic acid, ibuprofen — most effective started before the pain) and combined oral contraceptives.**
 - **SECONDARY dysmenorrhoea: older women; pain beginning DAYS BEFORE the period and often continuing after it, with dyspareunia and abnormal findings — ENDOMETRIOSIS, ADENOMYOSIS, fibroids, PID, IUCD, cervical stenosis.**
 - **Causes of menorrhagia: fibroids (especially submucous), adenomyosis, endometrial polyps and hyperplasia, IUCD, HYPOTHYROIDISM, coagulopathy (von Willebrand), anovulation.**
-- **Causes of hypomenorrhoea: ASHERMAN'S SYNDROME, oral contraceptives, the perimenopause, endometrial tuberculosis.**
+- **Causes of hypomenorrhoea: ASHERMAN’S SYNDROME, oral contraceptives, the perimenopause, endometrial tuberculosis.**
 - **MENOMETRORRHAGIA classically raises CERVICAL CARCINOMA and GRANULOSA CELL TUMOUR** (oestrogen-secreting, with CALL–EXNER bodies and raised **INHIBIN**, causing endometrial hyperplasia in adults and precocious puberty in children). **POSTCOITAL BLEEDING IS CERVICAL CANCER UNTIL PROVED OTHERWISE.**
 - **Assess loss objectively with a PICTORIAL BLOOD ASSESSMENT CHART and by measuring HAEMOGLOBIN AND FERRITIN** — patient estimates are unreliable.
 
-**EXAM CONNECTION:** Definition-matching; **"not a feature of menometrorrhagia" → infrequent bleeding**.
+**EXAM CONNECTION:** Definition-matching; **“not a feature of menometrorrhagia” → infrequent bleeding**.
 
 **REMEMBER:** *Progesterone makes PGF2α, PGF2α makes cramps — so anovulatory bleeding never hurts.*
 
@@ -2521,22 +2521,22 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ---
 
-### 102. Asherman's Syndrome
+### 102. Asherman’s Syndrome
 
-**PEARL:** **Intrauterine adhesions after SHARP CURETTAGE (especially on a recently pregnant uterus) or genital TUBERCULOSIS, presenting with HYPOMENORRHOEA, SECONDARY AMENORRHOEA, recurrent miscarriage and SECONDARY INFERTILITY.** **HYSTEROSCOPY is both the investigation of choice and the treatment (HYSTEROSCOPIC ADHESIOLYSIS).** On **HSG the adhesions are irregular filling defects — a "MOTH-EATEN" cavity.** **Risk is HIGHEST after POSTPARTUM curettage.**
+**PEARL:** **Intrauterine adhesions after SHARP CURETTAGE (especially on a recently pregnant uterus) or genital TUBERCULOSIS, presenting with HYPOMENORRHOEA, SECONDARY AMENORRHOEA, recurrent miscarriage and SECONDARY INFERTILITY.** **HYSTEROSCOPY is both the investigation of choice and the treatment (HYSTEROSCOPIC ADHESIOLYSIS).** On **HSG the adhesions are irregular filling defects — a “MOTH-EATEN” cavity.** **Risk is HIGHEST after POSTPARTUM curettage.**
 
 **UNDERSTAND:** The lesion is **destruction of the BASALIS layer**, the regenerative layer — so the functionalis can no longer be rebuilt and the raw walls adhere. This explains everything: **amenorrhoea despite normal ovarian function and normal hormones, NO withdrawal bleed even after OESTROGEN PLUS PROGESTERONE (there is no endometrium to shed), and infertility from failure of implantation.** The postpartum uterus is uniquely vulnerable because it is **soft, thin-walled and oestrogen-deficient (lactational hypo-oestrogenism prevents re-epithelialisation)**, so the curette reaches the basalis far too easily.
 
 **MUST KNOW:**
 
 - **Risk order: POSTPARTUM curettage (highest) > curettage for missed/incomplete abortion > MTP > D&C for AUB (lowest).** Risk rises with **repeated** curettage and with **infection**.
-- **In the amenorrhoea work-up Asherman's is the OUTFLOW/END-ORGAN cause: gonadotrophins NORMAL, oestrogen normal, no withdrawal bleed.**
+- **In the amenorrhoea work-up Asherman’s is the OUTFLOW/END-ORGAN cause: gonadotrophins NORMAL, oestrogen normal, no withdrawal bleed.**
 - **Treatment: hysteroscopic adhesiolysis, then prevention of re-formation (intrauterine balloon, catheter, IUCD or hyaluronic acid gel) plus CYCLICAL/high-dose OESTROGEN to regenerate the endometrium; a second-look hysteroscopy is often needed.** Outcome depends on the severity of the original damage. Later pregnancies risk **abnormal placentation (accreta)**.
-- **GENITAL TUBERCULOSIS is a major cause in India — it affects the FALLOPIAN TUBES FIRST (commonest site; a "beaded" tube and "golf-club" appearance on HSG), then the endometrium. Diagnose by premenstrual endometrial biopsy/PCR; treat with full ATT, but tubal damage is usually irreversible and ART is needed.**
+- **GENITAL TUBERCULOSIS is a major cause in India — it affects the FALLOPIAN TUBES FIRST (commonest site; a “beaded” tube and “golf-club” appearance on HSG), then the endometrium. Diagnose by premenstrual endometrial biopsy/PCR; treat with full ATT, but tubal damage is usually irreversible and ART is needed.**
 - **Other hysteroscopic indications: uterine SEPTUM resection, submucous fibroid resection, ENDOMETRIAL POLYPECTOMY, retained IUCD retrieval, endometrial ablation, hysteroscopic tubal occlusion. LAPAROSCOPY, not hysteroscopy, is used for tubal ligation and SUBSEROSAL fibroids.**
 - **Prevention: SUCTION rather than sharp curettage, ultrasound guidance, avoid over-vigorous postpartum curettage, treat infection, and prefer MEDICAL management of miscarriage where possible.**
 
-**EXAM CONNECTION:** "Hysteroscopy can be done in" → **Asherman's syndrome**. The ranking question → **postpartum = softest uterus = highest risk**.
+**EXAM CONNECTION:** “Hysteroscopy can be done in” → **Asherman’s syndrome**. The ranking question → **postpartum = softest uterus = highest risk**.
 
 **REMEMBER:** *Scrape away the basalis and the cavity sticks shut — no endometrium, no bleed, no implantation.*
 
@@ -2549,7 +2549,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 103. Normal Menstrual Parameters (FIGO 2018) and PCOS Criteria
 
-**PEARL:** FIGO's revised normal **cycle frequency is 24–38 days** (not the old 21–35), **duration ≤8 days**, volume "not excessive by the patient's judgement". **PCOS — ROTTERDAM criteria, 2 OF 3: (1) oligo/anovulation, (2) clinical or biochemical HYPERANDROGENISM, (3) POLYCYSTIC MORPHOLOGY on ultrasound** (≥12 — now ≥20 with modern probes — follicles of 2–9 mm in **one or both** ovaries, or ovarian volume >10 mL), with other causes (thyroid, prolactin, CAH, Cushing) excluded. **2023 International Guideline: SERUM AMH MAY REPLACE ULTRASOUND for the polycystic-morphology criterion in ADULTS; if IRREGULAR CYCLES AND HYPERANDROGENISM are both present, NEITHER ultrasound NOR AMH is needed. In ADOLESCENTS both hyperandrogenism AND ovulatory dysfunction are required, and ULTRASOUND AND AMH ARE NOT TO BE USED.**[^5]
+**PEARL:** FIGO’s revised normal **cycle frequency is 24–38 days** (not the old 21–35), **duration ≤8 days**, volume “not excessive by the patient’s judgement”. **PCOS — ROTTERDAM criteria, 2 OF 3: (1) oligo/anovulation, (2) clinical or biochemical HYPERANDROGENISM, (3) POLYCYSTIC MORPHOLOGY on ultrasound** (≥12 — now ≥20 with modern probes — follicles of 2–9 mm in **one or both** ovaries, or ovarian volume >10 mL), with other causes (thyroid, prolactin, CAH, Cushing) excluded. **2023 International Guideline: SERUM AMH MAY REPLACE ULTRASOUND for the polycystic-morphology criterion in ADULTS; if IRREGULAR CYCLES AND HYPERANDROGENISM are both present, NEITHER ultrasound NOR AMH is needed. In ADOLESCENTS both hyperandrogenism AND ovulatory dysfunction are required, and ULTRASOUND AND AMH ARE NOT TO BE USED.**[^5]
 
 **UNDERSTAND:** FIGO deliberately replaced the Latin terms with plain descriptors of **frequency, regularity, duration and volume**, because the old terms were used inconsistently; the numbers reflect the 5th–95th centiles of real populations.
 
@@ -2557,7 +2557,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 - **Frequency: frequent <24 days, normal 24–38, infrequent >38. Regularity: variation ≤7–9 days. Duration: ≤8 days. Volume: heavy menstrual bleeding = interference with quality of life.**
 - **TRUE of PCOS: testosterone >2 ng/mL (values above 200 ng/dL suggest an androgen-secreting TUMOUR), infertility, polycystic morphology in ONE OR BOTH ovaries.**
-- **THE TWO INVERTED-RATIO DISTRACTORS: it is the LH:FSH RATIO that is RAISED (≥2–3:1), not "high FSH/LH"; and a FASTING GLUCOSE:INSULIN RATIO <4.5 indicates insulin resistance, not >4.5.**
+- **THE TWO INVERTED-RATIO DISTRACTORS: it is the LH:FSH RATIO that is RAISED (≥2–3:1), not “high FSH/LH”; and a FASTING GLUCOSE:INSULIN RATIO <4.5 indicates insulin resistance, not >4.5.**
 - **Management: WEIGHT LOSS first-line; LETROZOLE is now preferred over clomiphene for ovulation induction; combined OCP for cycle control and hirsutism; METFORMIN for metabolic features. Long-term risk of ENDOMETRIAL HYPERPLASIA AND CARCINOMA from unopposed oestrogen.**
 
 **EXAM CONNECTION:** The multi-statement PCOS question hinges on spotting the two **inverted ratios**.
@@ -2575,17 +2575,17 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** In anorexia nervosa **NEUROPEPTIDE Y is ELEVATED**, while **LEPTIN, GnRH pulsatility, LH, FSH and oestradiol are ALL LOW** — a **hypogonadotrophic hypogonadism of starvation**.
 
-**UNDERSTAND:** **Leptin is the fat-derived signal that PERMITS reproduction.** With minimal adipose tissue leptin falls, and low leptin does two things: it **releases the brake on neuropeptide Y** (a powerful orexigenic hypothalamic peptide that rises to drive hunger) and **removes the permissive signal for GnRH pulse generation** — and NPY itself further suppresses GnRH. The body switches reproduction off and appetite-drive on: "not enough energy to gestate."
+**UNDERSTAND:** **Leptin is the fat-derived signal that PERMITS reproduction.** With minimal adipose tissue leptin falls, and low leptin does two things: it **releases the brake on neuropeptide Y** (a powerful orexigenic hypothalamic peptide that rises to drive hunger) and **removes the permissive signal for GnRH pulse generation** — and NPY itself further suppresses GnRH. The body switches reproduction off and appetite-drive on: “not enough energy to gestate.”
 
 **MUST KNOW:**
 
 - **Endocrine profile: LH and FSH LOW (prepubertal pattern), oestradiol LOW, leptin LOW, NPY HIGH, CORTISOL HIGH, growth hormone HIGH with LOW IGF-1 (acquired GH resistance), LOW T3 (sick euthyroid, raised reverse T3).**
-- **Complications: OSTEOPOROSIS (the most important long-term consequence — low oestrogen plus low IGF-1); bradycardia, hypotension, prolonged QT and ARRHYTHMIA (the commonest cause of death); hypokalaemia with purging; lanugo hair; parotid enlargement and raised amylase; RUSSELL'S SIGN (knuckle callosities) in bulimia.**
+- **Complications: OSTEOPOROSIS (the most important long-term consequence — low oestrogen plus low IGF-1); bradycardia, hypotension, prolonged QT and ARRHYTHMIA (the commonest cause of death); hypokalaemia with purging; lanugo hair; parotid enlargement and raised amylase; RUSSELL’S SIGN (knuckle callosities) in bulimia.**
 - **REFEEDING SYNDROME — hypophosphataemia, hypokalaemia, hypomagnesaemia, thiamine deficiency, cardiac failure → refeed slowly with phosphate and thiamine.**
 - **Treatment: nutritional rehabilitation and weight restoration FIRST; FAMILY-BASED THERAPY is first-line in adolescents; fluoxetine helps bulimia more than anorexia; THE COMBINED PILL DOES NOT PROTECT THE BONES — weight gain does.**
 - Amenorrhoea is no longer required for the DSM-5 diagnosis.
 
-**EXAM CONNECTION:** "Elevated LH/GnRH/leptin" are all traps — they are **low**. Only **NPY (and cortisol, GH)** goes up.
+**EXAM CONNECTION:** “Elevated LH/GnRH/leptin” are all traps — they are **low**. Only **NPY (and cortisol, GH)** goes up.
 
 **REMEMBER:** *No fat, no leptin, no GnRH — and NPY screams for food.*
 
@@ -2604,7 +2604,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **MUST KNOW:**
 
 - **Commonest symptom: MENORRHAGIA** (increased endometrial surface area, impaired uterine contraction, venous congestion); also pressure symptoms, subfertility, pain and rarely **polycythaemia** (erythropoietin secretion). **Most fibroids are ASYMPTOMATIC and need no treatment.**
-- **Degenerations: HYALINE (commonest), CYSTIC, calcific ("WOMB STONES"), FATTY, and RED (CARNEOUS) DEGENERATION — classically IN PREGNANCY, with acute pain, low-grade fever and localised tenderness, managed CONSERVATIVELY with analgesia.** **SARCOMATOUS change is rare (<0.5%)** — suspect it with rapid growth, especially **postmenopausal** growth.
+- **Degenerations: HYALINE (commonest), CYSTIC, calcific (“WOMB STONES”), FATTY, and RED (CARNEOUS) DEGENERATION — classically IN PREGNANCY, with acute pain, low-grade fever and localised tenderness, managed CONSERVATIVELY with analgesia.** **SARCOMATOUS change is rare (<0.5%)** — suspect it with rapid growth, especially **postmenopausal** growth.
 - **In pregnancy: miscarriage, malpresentation, obstructed labour, abruption and PPH. MYOMECTOMY DURING PREGNANCY OR CAESAREAN IS AVOIDED** because of torrential bleeding.
 - **Medical: tranexamic acid and NSAIDs, the LNG-IUS (for a normal cavity), GnRH AGONISTS (shrink fibroids but cause hypo-oestrogenism — used only ~3–6 months preoperatively to reduce size and correct anaemia; they regrow on stopping), ulipristal, GnRH antagonists. Surgical: MYOMECTOMY (fertility-preserving; hysteroscopic for submucous), HYSTERECTOMY (definitive), UTERINE ARTERY EMBOLISATION (avoid if fertility is desired).**
 - **Distinguish ADENOMYOSIS: a diffusely enlarged, boggy, TENDER uterus with dysmenorrhoea and menorrhagia in a parous woman in her forties — no discrete whorled nodules, no pseudocapsule.**
@@ -2624,7 +2624,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 106. Fibroid Polyp
 
-**PEARL:** **HEAVY MENSTRUAL BLEEDING plus "something coming down", with a PALPABLE UTERUS on bimanual examination and a mass protruding through a cervix that admits one finger = FIBROID (submucous) POLYP.** **The palpable uterus and the identifiable cervical rim around the mass EXCLUDE UTERINE INVERSION.**
+**PEARL:** **HEAVY MENSTRUAL BLEEDING plus “something coming down”, with a PALPABLE UTERUS on bimanual examination and a mass protruding through a cervix that admits one finger = FIBROID (submucous) POLYP.** **The palpable uterus and the identifiable cervical rim around the mass EXCLUDE UTERINE INVERSION.**
 
 **UNDERSTAND:** A pedunculated submucous fibroid is **squeezed towards the cavity by myometrial contractions**, progressively dilating the cervix until it delivers into the vagina — symptomatically indistinguishable from prolapse, which is why the **bimanual finding is decisive**: in **INVERSION no uterus is felt abdominally (a cup-shaped depression instead) and the patient is shocked out of proportion to blood loss**, whereas here the uterus is present and the cervical rim is felt all around.
 
@@ -2632,7 +2632,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 - **Complications: torrential bleeding, infection and necrosis (offensive discharge), ulceration, and rarely uterine inversion if the pedicle is fundal.**
 - **Management: TWIST-AND-AVULSION or VAGINAL MYOMECTOMY for a small polyp with a thin pedicle; HYSTEROSCOPIC RESECTION for intracavitary fibroids; hysterectomy if childbearing is complete and the uterus is bulky.**
-- **Differential of a mass at the introitus: fibroid polyp, ENDOMETRIAL polyp, cervical polyp, uterovaginal PROLAPSE, chronic UTERINE INVERSION, Gartner's cyst, and — in a postmenopausal woman — carcinoma or sarcoma.**
+- **Differential of a mass at the introitus: fibroid polyp, ENDOMETRIAL polyp, cervical polyp, uterovaginal PROLAPSE, chronic UTERINE INVERSION, Gartner’s cyst, and — in a postmenopausal woman — carcinoma or sarcoma.**
 - **Always check for and treat anaemia** — chronic menorrhagia from fibroids is a leading cause of iron deficiency in Indian women.
 
 **EXAM CONNECTION:** Mass through the cervix with a palpable uterus → **fibroid polyp** (not inversion).
@@ -2648,20 +2648,20 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 107. Myomectomy — Reducing Blood Loss
 
-**PEARL:** Every recognised measure works by **occluding the uterine blood supply before the incision, or by local vasoconstriction** — GnRH agonists, **BONNEY'S CLAMP/tourniquet at the level of the uterine arteries**, uterine artery ligation or embolisation, and **VASOPRESSIN along the planned serosal incision**. **Ligating vessels on the surface of the myoma itself does NOT help.**
+**PEARL:** Every recognised measure works by **occluding the uterine blood supply before the incision, or by local vasoconstriction** — GnRH agonists, **BONNEY’S CLAMP/tourniquet at the level of the uterine arteries**, uterine artery ligation or embolisation, and **VASOPRESSIN along the planned serosal incision**. **Ligating vessels on the surface of the myoma itself does NOT help.**
 
-**UNDERSTAND:** A fibroid is supplied by a **pseudocapsule of vessels derived from the myometrium**; once enucleation begins the bleeding is from the **myometrial bed**, not from the tumour surface. Control must therefore be **proximal (inflow)** or **local vasoconstriction** — never at the tumour's own skin.
+**UNDERSTAND:** A fibroid is supplied by a **pseudocapsule of vessels derived from the myometrium**; once enucleation begins the bleeding is from the **myometrial bed**, not from the tumour surface. Control must therefore be **proximal (inflow)** or **local vasoconstriction** — never at the tumour’s own skin.
 
 **MUST KNOW:**
 
 - **Preoperative: GnRH agonists for 3 months shrink the fibroid ~35–50%, correct anaemia and reduce vascularity — but make the plane harder to find and can mask small fibroids.** Also ulipristal, iron and transfusion. **Uterine artery embolisation is an alternative to surgery entirely (not for women wanting future fertility).**
-- **Intraoperative: Bonney's myomectomy clamp, a Foley catheter/rubber tourniquet around the lower segment, VASOPRESSIN injection (caution — reports of bradycardia and cardiac arrest), tranexamic acid, and a SINGLE ANTERIOR MIDLINE VERTICAL INCISION through which multiple fibroids are removed.**
+- **Intraoperative: Bonney’s myomectomy clamp, a Foley catheter/rubber tourniquet around the lower segment, VASOPRESSIN injection (caution — reports of bradycardia and cardiac arrest), tranexamic acid, and a SINGLE ANTERIOR MIDLINE VERTICAL INCISION through which multiple fibroids are removed.**
 - **The MYOMA SCREW grasps and provides traction on the fibroid during enucleation.**
 - **Complications: haemorrhage, adhesions, recurrence (~15–30%), and UTERINE RUPTURE in a subsequent pregnancy if the cavity was breached → these women deliver by ELECTIVE CAESAREAN.**
 
-**EXAM CONNECTION:** "All reduce blood loss EXCEPT" — the odd one out is always the local measure at the myoma surface. Also image identification of the **myoma screw**.
+**EXAM CONNECTION:** “All reduce blood loss EXCEPT” — the odd one out is always the local measure at the myoma surface. Also image identification of the **myoma screw**.
 
-**REMEMBER:** *Control the inflow, not the tumour's own skin.*
+**REMEMBER:** *Control the inflow, not the tumour’s own skin.*
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/06/15/2.jpg)
@@ -2674,13 +2674,13 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** **NODULARITY and TENDERNESS in the POUCH OF DOUGLAS AND UTEROSACRAL LIGAMENTS on rectovaginal/bimanual examination is most characteristic of ENDOMETRIOSIS**, often with a **FIXED, RETROVERTED uterus**. The history is **cyclical, progressively worsening DYSMENORRHOEA, DEEP DYSPAREUNIA, chronic pelvic pain and INFERTILITY.**
 
-**UNDERSTAND:** The distribution follows **SAMPSON'S RETROGRADE MENSTRUATION** hypothesis — refluxed endometrial cells settle where gravity takes them in the supine woman: the **POUCH OF DOUGLAS (commonest site of implants), uterosacral ligaments and OVARIES (commonest site of endometriomas)**. Repeated cyclical bleeding into these implants produces **inflammation, fibrosis and adhesions** — hence the palpable nodules and the fixed, tender, retroverted uterus.
+**UNDERSTAND:** The distribution follows **SAMPSON’S RETROGRADE MENSTRUATION** hypothesis — refluxed endometrial cells settle where gravity takes them in the supine woman: the **POUCH OF DOUGLAS (commonest site of implants), uterosacral ligaments and OVARIES (commonest site of endometriomas)**. Repeated cyclical bleeding into these implants produces **inflammation, fibrosis and adhesions** — hence the palpable nodules and the fixed, tender, retroverted uterus.
 
 **MUST KNOW:**
 
-- **Examine DURING MENSTRUATION, when nodules are largest and most tender. LAPAROSCOPY IS THE GOLD STANDARD (with biopsy) — "POWDER-BURN"/gunshot lesions, chocolate cysts and adhesions. CA-125 may be raised but is NON-SPECIFIC and not diagnostic.**
+- **Examine DURING MENSTRUATION, when nodules are largest and most tender. LAPAROSCOPY IS THE GOLD STANDARD (with biopsy) — “POWDER-BURN”/gunshot lesions, chocolate cysts and adhesions. CA-125 may be raised but is NON-SPECIFIC and not diagnostic.**
 - **There is NO correlation between the extent of disease and the severity of pain** — a small implant on a nerve can be agonising while a large endometrioma is silent.
-- **ENDOMETRIOMA ("CHOCOLATE CYST") contains altered, tarry blood; on ultrasound it shows homogeneous LOW-LEVEL "GROUND-GLASS" ECHOES, and on MRI T1-hyperintensity with T2 SHADING. Rupture causes acute peritonitis.**
+- **ENDOMETRIOMA (“CHOCOLATE CYST”) contains altered, tarry blood; on ultrasound it shows homogeneous LOW-LEVEL “GROUND-GLASS” ECHOES, and on MRI T1-hyperintensity with T2 SHADING. Rupture causes acute peritonitis.**
 - **Medical treatment SUPPRESSES but does not cure: continuous COCs, progestogens, the LNG-IUS, GnRH AGONISTS with add-back, danazol (androgenic side effects), aromatase inhibitors. NONE improve fertility — for infertility the treatment is SURGERY (laparoscopic excision/ablation) or ART.**
 - **SCAR ENDOMETRIOSIS: cyclical pain and a nodular swelling at an EPISIOTOMY or CAESAREAN scar, worsening with menstruation** — from intraoperative implantation. **Treat by WIDE LOCAL EXCISION** (medical therapy alone usually fails). It mimics a suture granuloma, hernia or desmoid — **the CYCLICITY is the clue.**
 - **Endometriosis carries a small increased risk of CLEAR CELL and ENDOMETRIOID ovarian carcinoma.**
@@ -2705,13 +2705,13 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **MUST KNOW:**
 
-- **Ultrasound (first-line): a globular, asymmetrically thickened uterus, heterogeneous myometrium, myometrial cysts, "VENETIAN BLIND" shadowing, an indistinct endometrial–myometrial border and a subendometrial echogenic halo.** MRI is the most accurate **non-invasive** test; **HISTOPATHOLOGY after hysterectomy is the gold standard.**
+- **Ultrasound (first-line): a globular, asymmetrically thickened uterus, heterogeneous myometrium, myometrial cysts, “VENETIAN BLIND” shadowing, an indistinct endometrial–myometrial border and a subendometrial echogenic halo.** MRI is the most accurate **non-invasive** test; **HISTOPATHOLOGY after hysterectomy is the gold standard.**
 - **Adenomyosis vs FIBROID: adenomyosis is DIFFUSE, ill-defined, tender and symmetrically enlarging with NO pseudocapsule; a leiomyoma is a well-defined mass WITH a pseudocapsule (hence enucleable).**
 - **Treatment: LNG-IUS (Mirena) first-line for the woman wanting to preserve fertility**; also NSAIDs, tranexamic acid, COCs, GnRH agonists, uterine artery embolisation. **HYSTERECTOMY is definitive.**
-- **Know the imaging distractors: a "necklace/string-of-pearls" of peripheral follicles = POLYCYSTIC OVARY; a T1-hyperintense adnexal cyst with T2 SHADING = ENDOMETRIOMA; a well-defined pseudocapsule = LEIOMYOMA.**
+- **Know the imaging distractors: a “necklace/string-of-pearls” of peripheral follicles = POLYCYSTIC OVARY; a T1-hyperintense adnexal cyst with T2 SHADING = ENDOMETRIOMA; a well-defined pseudocapsule = LEIOMYOMA.**
 - **Endometriosis and adenomyosis often coexist** — but endometriosis is **outside** the uterus.
 
-**EXAM CONNECTION:** "Most specific MRI finding" — the number **12 mm** and the structure (**junctional zone**) are the whole answer.
+**EXAM CONNECTION:** “Most specific MRI finding” — the number **12 mm** and the structure (**junctional zone**) are the whole answer.
 
 **REMEMBER:** *Glands invade the inner myometrium, so the dark junctional zone swells past 12 mm.*
 
@@ -2729,10 +2729,10 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **MUST KNOW:**
 
-- **ROKITANSKY'S PROTUBERANCE** — the nodule of skin, sebaceous and sweat glands, teeth and bone, and the site where **malignant change (usually SQUAMOUS CELL CARCINOMA, ~1–2%, in older women)** arises.
+- **ROKITANSKY’S PROTUBERANCE** — the nodule of skin, sebaceous and sweat glands, teeth and bone, and the site where **malignant change (usually SQUAMOUS CELL CARCINOMA, ~1–2%, in older women)** arises.
 - **STRUMA OVARII** = thyroid tissue within a dermoid → can cause **thyrotoxicosis**.
 - **Rupture spills sebaceous material → CHEMICAL PERITONITIS** — so treat by **CYSTECTOMY avoiding spillage**.
-- **Ultrasound: "tip of the iceberg" sign, a hyperechoic Rokitansky nodule, a fat–fluid level; teeth visible on X-ray.**
+- **Ultrasound: “tip of the iceberg” sign, a hyperechoic Rokitansky nodule, a fat–fluid level; teeth visible on X-ray.**
 
 **REMEMBER:** *Commonest, most torted, teeth inside — and thyroid tissue makes it a struma ovarii.*
 
@@ -2744,23 +2744,23 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** **ANY significantly abnormal Pap smear — including CARCINOMA IN SITU — is followed by COLPOSCOPY WITH DIRECTED BIOPSY**, not by immediate conisation or hysterectomy. **Cytology SCREENS; histology DIAGNOSES; treatment follows the histological diagnosis.** **BETHESDA: LSIL = CIN 1; HSIL = CIN 2 and CIN 3/carcinoma in situ.** In **POST-COITAL BLEEDING examine with a speculum first — if a growth is visible, take a PUNCH BIOPSY directly** (a Pap smear is falsely negative in frank cancer).
 
-**UNDERSTAND:** The sequence exists because **cytology cannot distinguish intraepithelial disease from invasion** — and that distinction changes management completely. Colposcopy identifies the **transformation zone and the worst-looking area** using **ACETIC ACID (aceto-white change from increased nuclear protein)** and **LUGOL'S IODINE (SCHILLER'S TEST — normal glycogen-rich squamous epithelium stains brown; abnormal epithelium does NOT)**. The **two-tier LSIL/HSIL split maps onto biology**: **LSIL is PRODUCTIVE HPV infection, which regresses spontaneously in most women; HSIL is a TRANSFORMING infection with integrated HPV — a genuine cancer precursor.** That is why LSIL in a young woman may simply be followed while HSIL is excised, and why an excisional procedure — which raises the risk of **preterm birth, PPROM and cervical stenosis** — is not an acceptable trade for a low-grade lesion.
+**UNDERSTAND:** The sequence exists because **cytology cannot distinguish intraepithelial disease from invasion** — and that distinction changes management completely. Colposcopy identifies the **transformation zone and the worst-looking area** using **ACETIC ACID (aceto-white change from increased nuclear protein)** and **LUGOL’S IODINE (SCHILLER’S TEST — normal glycogen-rich squamous epithelium stains brown; abnormal epithelium does NOT)**. The **two-tier LSIL/HSIL split maps onto biology**: **LSIL is PRODUCTIVE HPV infection, which regresses spontaneously in most women; HSIL is a TRANSFORMING infection with integrated HPV — a genuine cancer precursor.** That is why LSIL in a young woman may simply be followed while HSIL is excised, and why an excisional procedure — which raises the risk of **preterm birth, PPROM and cervical stenosis** — is not an acceptable trade for a low-grade lesion.
 
 **MUST KNOW — management by cytology result:**
 
 - **ASC-US: <25 years → repeat cytology in 12 months; ≥25 years → REFLEX HPV testing (colposcopy if high-risk HPV positive).**
 - **LSIL: <25 years → repeat cytology in 12 months; ≥25 years → COLPOSCOPY ± endocervical curettage.**
-- **HSIL and ASC-H: COLPOSCOPY + ENDOCERVICAL CURETTAGE** (or immediate "see-and-treat" excision in HSIL).
+- **HSIL and ASC-H: COLPOSCOPY + ENDOCERVICAL CURETTAGE** (or immediate “see-and-treat” excision in HSIL).
 - **AGC: colposcopy + endocervical curettage + ENDOMETRIAL BIOPSY** (women ≥35 or with abnormal bleeding) — glandular abnormalities may originate above the cervix.
-- **IF THE LESION RUNS UP THE CANAL AND CANNOT BE FULLY SEEN ("unsatisfactory colposcopy") → ENDOCERVICAL CURETTAGE, or cone biopsy/LEEP.** **ECC IS CONTRAINDICATED IN PREGNANCY** — colposcopy is safe, and treatment is deferred until after delivery unless invasion is suspected.
+- **IF THE LESION RUNS UP THE CANAL AND CANNOT BE FULLY SEEN (“unsatisfactory colposcopy”) → ENDOCERVICAL CURETTAGE, or cone biopsy/LEEP.** **ECC IS CONTRAINDICATED IN PREGNANCY** — colposcopy is safe, and treatment is deferred until after delivery unless invasion is suspected.
 - **CIN grading is HISTOLOGICAL (CIN 1 lower third, CIN 2 two-thirds, CIN 3 full thickness with an intact basement membrane); LSIL/HSIL is CYTOLOGICAL — do not mix the vocabularies.** The older **Papanicolaou** classification had **five grades** and is obsolete.
 - **Treatment of CIN: ABLATION (cryotherapy, thermal) for a satisfactory colposcopy with a fully visible small lesion; EXCISION (LEEP/LLETZ or cold-knife cone) when invasion must be excluded, for CIN II–III, glandular lesions and unsatisfactory colposcopy — excision has the advantage of providing histology.** **Most CIN 1 regresses; ~30% of untreated CIN 3 progresses to invasive cancer over 10–30 years.**
-- **SCREENING: begin at 21. 21–29 — cytology every 3 YEARS. 30–65 — CO-TESTING (cytology + HPV) every 5 YEARS, or primary HPV testing every 5 years. STOP at 65 with adequate prior negatives.** **HPV testing is more SENSITIVE, cytology more SPECIFIC** — HPV is now the preferred primary screen from 30. **In India, VIA every 5 years for women aged 30–65** is the programme tool (cheap, immediate, screen-and-treat), though **WHO's preferred primary test is HPV DNA detection**, and **the HPV VACCINE ENTERED INDIA'S UNIVERSAL IMMUNISATION PROGRAMME IN FEBRUARY 2026 as a SINGLE DOSE for girls aged 14.**[^6]
+- **SCREENING: begin at 21. 21–29 — cytology every 3 YEARS. 30–65 — CO-TESTING (cytology + HPV) every 5 YEARS, or primary HPV testing every 5 years. STOP at 65 with adequate prior negatives.** **HPV testing is more SENSITIVE, cytology more SPECIFIC** — HPV is now the preferred primary screen from 30. **In India, VIA every 5 years for women aged 30–65** is the programme tool (cheap, immediate, screen-and-treat), though **WHO’s preferred primary test is HPV DNA detection**, and **the HPV VACCINE ENTERED INDIA’S UNIVERSAL IMMUNISATION PROGRAMME IN FEBRUARY 2026 as a SINGLE DOSE for girls aged 14.**[^6]
 - **The TRANSFORMATION ZONE — between the original and current squamocolumnar junction — is where virtually all cervical neoplasia arises, because that is where active SQUAMOUS METAPLASIA occurs. SQUAMOUS METAPLASIA ITSELF IS NORMAL.**
 - **COLPOSCOPIC SIGNS OF INVASION: ATYPICAL VESSELS, coarse mosaic and punctation, a raised irregular surface.**
 - **COLPOSCOPY is indicated for an abnormal smear, a visible cervical lesion, VAGINAL and VULVAL lesions, and follow-up after ablative therapy — but NOT for a UTERINE (endometrial) lesion**, which is beyond its reach.
 
-**EXAM CONNECTION:** Abnormal Pap (any grade) → **colposcopy and directed biopsy**. "LSIL includes" → **CIN 1**. "Colposcopy indications EXCEPT" → **uterine lesion**. A lesion disappearing up the canal → **curette the canal**, not excise.
+**EXAM CONNECTION:** Abnormal Pap (any grade) → **colposcopy and directed biopsy**. “LSIL includes” → **CIN 1**. “Colposcopy indications EXCEPT” → **uterine lesion**. A lesion disappearing up the canal → **curette the canal**, not excise.
 
 **REMEMBER:** *Never treat on cytology alone — colposcope, biopsy, then act. L = 1; H = 2 and 3. And if you cannot see the top of the lesion, curette the canal.*
 
@@ -2803,7 +2803,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 - **IA microscopic (IA1 ≤3 mm depth, IA2 >3–5 mm); IB1 ≤2 cm, IB2 2–4 cm, IB3 >4 cm.**
 - **II beyond the uterus but not to the pelvic wall or lower third of vagina: IIA upper vagina (IIA1 ≤4 cm, IIA2 >4 cm), IIB PARAMETRIUM.**
-- **III: IIIA lower third of vagina; IIIB pelvic sidewall or HYDRONEPHROSIS/non-functioning kidney; IIIC1 pelvic nodes, IIIC2 para-aortic nodes** (add "r" for radiology, "p" for pathology).
+- **III: IIIA lower third of vagina; IIIB pelvic sidewall or HYDRONEPHROSIS/non-functioning kidney; IIIC1 pelvic nodes, IIIC2 para-aortic nodes** (add “r” for radiology, “p” for pathology).
 - **IVA bladder/rectal mucosa (must be BIOPSY-PROVEN — bullous oedema alone is not enough); IVB distant metastasis.**
 - **Staging is CLINICAL, now permitted to use imaging and pathology — and PER RECTAL examination is essential** (parametrial and sidewall spread).
 - **The commonest histology is SQUAMOUS CELL CARCINOMA; HPV 16 and 18 cause ~70%.**
@@ -2812,9 +2812,9 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **The OVARIES are usually PRESERVED in young women with squamous cancer (ovarian metastasis is rare) and may be TRANSPOSED out of the radiation field.**
 - **The answer to cervical cancer in India is HPV VACCINATION plus SCREENING, not better surgery.**
 
-**EXAM CONNECTION:** Any stem mentioning **hydronephrosis** answers itself — **IIIB**. The distractor is upgrading to IVB because of "positive nodes on PET".
+**EXAM CONNECTION:** Any stem mentioning **hydronephrosis** answers itself — **IIIB**. The distractor is upgrading to IVB because of “positive nodes on PET”.
 
-**REMEMBER:** *A blocked ureter means the sidewall is involved — that's IIIB. Parametrium means radiation, not the knife.*
+**REMEMBER:** *A blocked ureter means the sidewall is involved — that’s IIIB. Parametrium means radiation, not the knife.*
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/12/18/picture23_ZC18iSO.jpg)
@@ -2825,7 +2825,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 114. Types of Hysterectomy for Cervical Cancer
 
-**PEARL:** **PIVER–RUTLEDGE TYPE II (MODIFIED RADICAL / WERTHEIM) removes the MEDIAL HALF of the cardinal (Mackenrodt's) and uterosacral ligaments and the UPPER 1–2 cm OF VAGINA**, with the **ureter unroofed but preserved** and the uterine artery ligated **medial** to it. **TYPE III (RADICAL / MEIGS) removes the ENTIRE cardinal and uterosacral ligaments at the pelvic side wall plus the UPPER 3–4 cm (upper third to half) of vagina with pelvic lymphadenectomy.** **Type I is a simple extrafascial hysterectomy; Types IV and V are extended/ultra-radical.**
+**PEARL:** **PIVER–RUTLEDGE TYPE II (MODIFIED RADICAL / WERTHEIM) removes the MEDIAL HALF of the cardinal (Mackenrodt’s) and uterosacral ligaments and the UPPER 1–2 cm OF VAGINA**, with the **ureter unroofed but preserved** and the uterine artery ligated **medial** to it. **TYPE III (RADICAL / MEIGS) removes the ENTIRE cardinal and uterosacral ligaments at the pelvic side wall plus the UPPER 3–4 cm (upper third to half) of vagina with pelvic lymphadenectomy.** **Type I is a simple extrafascial hysterectomy; Types IV and V are extended/ultra-radical.**
 
 **UNDERSTAND:** The types form a **graded scale of PARAMETRIAL resection**, because **cervical cancer spreads laterally through the parametrium along the cardinal ligaments**. More parametrium removed means greater clearance — and greater morbidity, since **the ureter, bladder and pelvic autonomic nerves all traverse that tissue**. Hence the type is matched to the stage rather than always taking the most radical option.
 
@@ -2834,7 +2834,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Radical surgery is offered for stage IA2–IB2/IIA1.** From **IIB onwards, chemoradiation** — surgery is not.
 - **Major morbidities: BLADDER DYSFUNCTION (autonomic nerve injury — hence NERVE-SPARING techniques), ureteric fistula and stricture, lymphocyst and LYMPHOEDEMA, and sexual dysfunction from vaginal shortening.**
 
-**EXAM CONNECTION:** "Not a feature of modified radical hysterectomy" → **removal of the upper 4 cm of vagina** (that is Type III).
+**EXAM CONNECTION:** “Not a feature of modified radical hysterectomy” → **removal of the upper 4 cm of vagina** (that is Type III).
 
 **REMEMBER:** *Type II takes half the parametrium and 2 cm of vagina; type III takes all of it and 3–4 cm.*
 
@@ -2855,7 +2855,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Acute toxicity: diarrhoea, cystitis, proctitis, marrow suppression, skin reactions. LATE: vaginal stenosis and dryness, radiation proctitis and cystitis with bleeding, fistula, small bowel obstruction, insufficiency fractures, and OVARIAN FAILURE — hence ovarian TRANSPOSITION in young women.**
 - **Isotopes: historically RADIUM-226, then CAESIUM-137; modern high-dose-rate units use IRIDIUM-192 (with COBALT-60 for external beam).**
 
-**EXAM CONNECTION:** "False statement" → **point A is 5 cm lateral** (it is 2 cm lateral, 2 cm superior).
+**EXAM CONNECTION:** “False statement” → **point A is 5 cm lateral** (it is 2 cm lateral, 2 cm superior).
 
 **REMEMBER:** *Two up and two out is point A at the ureter; three further out is point B at the pelvic wall.*
 
@@ -2871,7 +2871,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** **The COMMONEST cause of postmenopausal bleeding is ATROPHIC (SENILE) ENDOMETRITIS/VAGINITIS (~60%) — but ENDOMETRIAL CARCINOMA accounts for ~10% and MUST BE EXCLUDED IN EVERY CASE.** **The PAP SMEAR IS NOT RELIABLE for endometrial carcinoma (positive in only ~30–50%)** — it samples the cervix. Reliable methods: **ENDOMETRIAL BIOPSY (Pipelle/Sharman curette, ~90% accurate, the usual first step), HYSTEROSCOPY WITH TARGETED BIOPSY, and FRACTIONAL CURETTAGE.** **Postmenopausal endometrial thickness >4 mm requires biopsy.**
 
-**UNDERSTAND:** "Commonest" and "must exclude" answer different questions. Atrophic tissue bleeds because **oestrogen deficiency thins the epithelium, leaving superficial vessels exposed to minor trauma** — but because early endometrial cancer is **curable and presents almost exclusively with bleeding**, the entire clinical policy is built around the 10%, not the 60%. And because endometrial cells reach the cervix only sporadically, **a normal Pap can never exclude endometrial cancer** — while **endometrial cells ON a Pap smear in a postmenopausal woman are abnormal and demand sampling**. The rule: **postmenopausal bleeding requires TISSUE, not cytology.**
+**UNDERSTAND:** “Commonest” and “must exclude” answer different questions. Atrophic tissue bleeds because **oestrogen deficiency thins the epithelium, leaving superficial vessels exposed to minor trauma** — but because early endometrial cancer is **curable and presents almost exclusively with bleeding**, the entire clinical policy is built around the 10%, not the 60%. And because endometrial cells reach the cervix only sporadically, **a normal Pap can never exclude endometrial cancer** — while **endometrial cells ON a Pap smear in a postmenopausal woman are abnormal and demand sampling**. The rule: **postmenopausal bleeding requires TISSUE, not cytology.**
 
 **MUST KNOW:**
 
@@ -2884,7 +2884,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **On HRT, expected withdrawal bleeding occurs on sequential regimens; ANY bleeding on a CONTINUOUS COMBINED regimen after the first 6 months requires investigation.**
 - **COMBINED ORAL CONTRACEPTIVES are PROTECTIVE against endometrial (and ovarian) cancer for decades after use.**
 
-**EXAM CONNECTION:** "Most common cause of postmenopausal bleeding" → **senile/atrophic endometritis**. "Reliable diagnosis EXCEPT" → **Pap smear**. "Increases the risk of endometrial cancer" → **tamoxifen**.
+**EXAM CONNECTION:** “Most common cause of postmenopausal bleeding” → **senile/atrophic endometritis**. “Reliable diagnosis EXCEPT” → **Pap smear**. “Increases the risk of endometrial cancer” → **tamoxifen**.
 
 **REMEMBER:** *Sixty per cent is atrophy — but you biopsy for the ten per cent that is cancer. The Pap looks at the cervix; endometrial cancer needs a piece of endometrium.*
 
@@ -2926,19 +2926,19 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** For **advanced epithelial ovarian cancer with peritoneal metastases and ascites, the standard is PRIMARY CYTOREDUCTIVE (DEBULKING) SURGERY FOLLOWED BY PLATINUM–TAXANE CHEMOTHERAPY** (carboplatin + paclitaxel). **NEOADJUVANT chemotherapy with interval debulking is reserved for women unfit for primary surgery or with unresectable disease. RADIOTHERAPY HAS NO FIRST-LINE ROLE.**
 
-**UNDERSTAND:** Ovarian cancer spreads **TRANSCOELOMICALLY**, seeding the whole peritoneal cavity — so it is never "localised" in the way other tumours are. After stage, the single most powerful prognostic factor is **the volume of RESIDUAL DISEASE: "OPTIMAL" cytoreduction means NO visible residual tumour (R0)**, because chemotherapy penetrates small deposits far better than bulky ones, and bulky, poorly vascularised masses harbour resistant clones.
+**UNDERSTAND:** Ovarian cancer spreads **TRANSCOELOMICALLY**, seeding the whole peritoneal cavity — so it is never “localised” in the way other tumours are. After stage, the single most powerful prognostic factor is **the volume of RESIDUAL DISEASE: “OPTIMAL” cytoreduction means NO visible residual tumour (R0)**, because chemotherapy penetrates small deposits far better than bulky ones, and bulky, poorly vascularised masses harbour resistant clones.
 
 **MUST KNOW:**
 
-- **It is the most LETHAL gynaecological cancer because it presents late — vague bloating, early satiety, abdominal discomfort and urinary frequency ("the silent killer"); ~75% present at stage III–IV** with ascites and omental caking.
+- **It is the most LETHAL gynaecological cancer because it presents late — vague bloating, early satiety, abdominal discomfort and urinary frequency (“the silent killer”); ~75% present at stage III–IV** with ascites and omental caking.
 - **OVARIAN CANCER IS STAGED SURGICALLY — RECTAL EXAMINATION IS NOT PART OF ITS STAGING** (contrast CERVICAL carcinoma, staged clinically, where PR examination is essential). Full staging includes **peritoneal washings, TAH-BSO, OMENTECTOMY, multiple biopsies, APPENDICECTOMY for mucinous tumours, and pelvic/para-aortic node assessment.**
 - **CA-125 is for MONITORING RESPONSE, not diagnosis or population screening** — it is raised in endometriosis, fibroids, PID, pregnancy, cirrhosis, tuberculosis and any peritoneal irritation. The **RMI** combines CA-125, ultrasound features and menopausal status; **HE4 and ROMA** refine it.
-- **Risk factors: nulliparity, early menarche/late menopause ("incessant ovulation"), family history, ENDOMETRIOSIS (clear cell and endometrioid), BRCA1/BRCA2 and LYNCH SYNDROME. PROTECTIVE: combined oral contraceptives, pregnancy, breastfeeding, tubal ligation and salpingectomy.** **Risk-reducing SALPINGO-OOPHORECTOMY at 35–40 after childbearing for BRCA carriers.**
+- **Risk factors: nulliparity, early menarche/late menopause (“incessant ovulation”), family history, ENDOMETRIOSIS (clear cell and endometrioid), BRCA1/BRCA2 and LYNCH SYNDROME. PROTECTIVE: combined oral contraceptives, pregnancy, breastfeeding, tubal ligation and salpingectomy.** **Risk-reducing SALPINGO-OOPHORECTOMY at 35–40 after childbearing for BRCA carriers.**
 - ***PARP INHIBITORS (olaparib, niraparib) as maintenance have transformed outcomes in BRCA-mutated and homologous-recombination-deficient disease*** — so **ALL women with non-mucinous epithelial ovarian cancer should be offered germline and somatic BRCA testing.**
 - **Most HIGH-GRADE SEROUS carcinomas are now thought to ORIGINATE IN THE FALLOPIAN TUBE FIMBRIA (serous tubal intraepithelial carcinoma)** — hence interest in opportunistic salpingectomy as prevention.
 - **Germ cell tumours occur in young women, are chemosensitive (BEP) and permit FERTILITY-SPARING unilateral salpingo-oophorectomy.**
 
-**EXAM CONNECTION:** Advanced disease with ascites → **debulking followed by chemotherapy**. "Not part of staging" → **rectal examination**.
+**EXAM CONNECTION:** Advanced disease with ascites → **debulking followed by chemotherapy**. “Not part of staging” → **rectal examination**.
 
 **REMEMBER:** *Cut out everything you can see, then give platinum — residual disease is the prognosis. Ovary = surgical staging; cervix = clinical staging with a PR exam.*
 
@@ -2950,7 +2950,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** **Retroperitoneal (para-aortic) lymph node metastasis ONLY = STAGE IIIA1**, subdivided by node size: **IIIA1(i) ≤10 mm; IIIA1(ii) >10 mm.** So a 9 mm nodal deposit is **IIIA1(i)**.
 
-**UNDERSTAND:** Ovarian cancer is staged by **how far tumour has travelled through the peritoneal cavity**, because that determines the surgical effort and the prognosis. **Nodal-only disease sits at the BOTTOM of stage III** — despite being "metastatic" — because it has **not seeded the peritoneum**, which is the biologically and surgically decisive event. Nodal-only stage III has a distinctly better outcome than peritoneal IIIB/IIIC.
+**UNDERSTAND:** Ovarian cancer is staged by **how far tumour has travelled through the peritoneal cavity**, because that determines the surgical effort and the prognosis. **Nodal-only disease sits at the BOTTOM of stage III** — despite being “metastatic” — because it has **not seeded the peritoneum**, which is the biologically and surgically decisive event. Nodal-only stage III has a distinctly better outcome than peritoneal IIIB/IIIC.
 
 **MUST KNOW:**
 
@@ -2978,7 +2978,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Ultrasound features suggesting malignancy: solid areas, thick septa, papillary projections, bilaterality, ascites, and increased LOW-RESISTANCE vascularity on Doppler.**
 - **KRUKENBERG TUMOUR: bilateral ovarian metastases of SIGNET-RING cells, classically from GASTRIC carcinoma — a metastasis, never a primary.**
 
-**EXAM CONNECTION:** "Which markers for this ovarian mass" → in practice **all of them**, because the panel covers all three lineages.
+**EXAM CONNECTION:** “Which markers for this ovarian mass” → in practice **all of them**, because the panel covers all three lineages.
 
 **REMEMBER:** *Three lineages, three sets of markers — age and imaging tell you which to send.*
 
@@ -2993,15 +2993,15 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** **Borderline (low malignant potential) tumours show ATYPICAL EPITHELIAL PROLIFERATION WITHOUT STROMAL INVASION.** Risk factors are those of **more lifetime ovulations — LOW PARITY, infertility, obesity and smoking**. **Pregnancy, OCP use and PCOS-related anovulation are NOT risk factors** — parity and the pill are **protective**.
 
-**UNDERSTAND:** The **"incessant ovulation" hypothesis**: every ovulation causes **epithelial disruption and repair of the ovarian surface**, and each repair cycle is an opportunity for a mutation. Anything that **suppresses ovulation — pregnancy, lactation, the combined pill — reduces the risk**; anything that **maximises lifetime ovulations — low parity, early menarche, late menopause, nulliparity — increases it.** The same logic governs invasive epithelial ovarian cancer.
+**UNDERSTAND:** The **“incessant ovulation” hypothesis**: every ovulation causes **epithelial disruption and repair of the ovarian surface**, and each repair cycle is an opportunity for a mutation. Anything that **suppresses ovulation — pregnancy, lactation, the combined pill — reduces the risk**; anything that **maximises lifetime ovulations — low parity, early menarche, late menopause, nulliparity — increases it.** The same logic governs invasive epithelial ovarian cancer.
 
 **MUST KNOW:**
 
 - **Diagnosis is HISTOLOGICAL** — the absence of stromal invasion defines it; **frozen section is unreliable**, so final pathology decides.
-- **Types: SEROUS (commonest, may be bilateral, may show non-invasive "implants") and MUCINOUS. MUCINOUS borderline tumours require APPENDICECTOMY**, because an appendiceal mucinous neoplasm may be the true primary, and to assess/prevent **pseudomyxoma peritonei**.
+- **Types: SEROUS (commonest, may be bilateral, may show non-invasive “implants”) and MUCINOUS. MUCINOUS borderline tumours require APPENDICECTOMY**, because an appendiceal mucinous neoplasm may be the true primary, and to assess/prevent **pseudomyxoma peritonei**.
 - **Treatment is SURGICAL ONLY — fertility-sparing unilateral salpingo-oophorectomy with staging in young women; CHEMOTHERAPY AND RADIOTHERAPY HAVE NO ROLE.** Prognosis is excellent (5-year survival >95%) but **late recurrences occur**, so follow-up is long-term.
 
-**EXAM CONNECTION:** "Which increases the risk?" — pick the factor that means **more lifetime ovulations**. OCPs and high parity are always the protective distractors.
+**EXAM CONNECTION:** “Which increases the risk?” — pick the factor that means **more lifetime ovulations**. OCPs and high parity are always the protective distractors.
 
 **REMEMBER:** *Every ovulation is a wound — the fewer pregnancies, the more wounds.*
 
@@ -3011,7 +3011,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 122. Ovarian Germ Cell Tumours — Yolk Sac and Dysgerminoma
 
-**PEARL:** **Premenarchal girl + rapidly growing ovarian mass + raised AFP + SCHILLER–DUVAL BODIES** (a central capillary surrounded by tumour cells within a cystic space — "glomeruloid") **= YOLK SAC (endodermal sinus) TUMOUR.** A **DYSGERMINOMA in a young woman with PRIMARY AMENORRHOEA should prompt a KARYOTYPE** — the association is with **gonadal dysgenesis containing Y-CHROMOSOME material (46,XY or 45,X/46,XY), not a plain 46,XX. ANY DYSGENETIC GONAD WITH Y MATERIAL MUST BE REMOVED** because of **gonadoblastoma** risk.
+**PEARL:** **Premenarchal girl + rapidly growing ovarian mass + raised AFP + SCHILLER–DUVAL BODIES** (a central capillary surrounded by tumour cells within a cystic space — “glomeruloid”) **= YOLK SAC (endodermal sinus) TUMOUR.** A **DYSGERMINOMA in a young woman with PRIMARY AMENORRHOEA should prompt a KARYOTYPE** — the association is with **gonadal dysgenesis containing Y-CHROMOSOME material (46,XY or 45,X/46,XY), not a plain 46,XX. ANY DYSGENETIC GONAD WITH Y MATERIAL MUST BE REMOVED** because of **gonadoblastoma** risk.
 
 **UNDERSTAND:** The yolk sac tumour **recapitulates the extraembryonic yolk sac and its endodermal sinus** — precisely the structure that secretes **AFP** in the fetus, so histology and marker are the same fact seen two ways. For dysgerminoma: a gonad containing **Y material but failing to differentiate** holds germ cells in a **hormonally abnormal, dysplastic stroma** — the substrate for **gonadoblastoma**, an in-situ lesion that progresses to dysgerminoma in ~50%. Removing the streak gonads removes the entire risk.
 
@@ -3021,7 +3021,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **GERM CELL MARKERS: AFP → yolk sac (and mixed tumours with a yolk sac element); β-hCG → choriocarcinoma (and syncytiotrophoblastic giant cells in dysgerminoma); LDH → dysgerminoma; BOTH NORMAL → mature teratoma.**
 - **DYSGERMINOMA: the commonest malignant ovarian germ cell tumour and the ovarian counterpart of seminoma — SHEETS OF CLEAR, GLYCOGEN-RICH CELLS separated by fibrous septa INFILTRATED BY LYMPHOCYTES. It is the ONLY ovarian germ cell tumour that is commonly BILATERAL (10–15%) and the MOST RADIOSENSITIVE — but BEP chemotherapy is now preferred to preserve fertility. Excellent prognosis at any stage.**
 - **SWYER SYNDROME (46,XY complete gonadal dysgenesis): phenotypic female, streak gonads, NORMAL Müllerian structures (no AMH was made), primary amenorrhoea, tall — needs GONADECTOMY and can carry a pregnancy with donor oocytes.** Contrast **complete androgen insensitivity (46,XY): female phenotype, ABSENT uterus, blind vagina, breasts present, NO pubic hair** — gonadectomy after puberty.
-- **Amenorrhoea that "resolves" on the combined pill is WITHDRAWAL BLEEDING, not restored ovulation** — a classic red herring.
+- **Amenorrhoea that “resolves” on the combined pill is WITHDRAWAL BLEEDING, not restored ovulation** — a classic red herring.
 
 **EXAM CONNECTION:** **Schiller–Duval = AFP = yolk sac** is the single highest-yield triple. For dysgerminoma, the FALSE statement is the **46,XX karyotype** — the association tested is Y-containing dysgenesis.
 
@@ -3045,14 +3045,14 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **MUST KNOW:**
 
 - **SERTOLI–LEYDIG (arrhenoblastoma): reproductive-age women; oligomenorrhoea → amenorrhoea, hirsutism, acne, CLITOROMEGALY, deepening voice, male-pattern balding; REINKE CRYSTALS in the Leydig component; raised TESTOSTERONE; usually unilateral, low-grade, cured by unilateral salpingo-oophorectomy. DICER1 mutations.**
-- **GRANULOSA CELL TUMOUR: oestrogen → PRECOCIOUS PUBERTY in girls, menorrhagia in adults, POSTMENOPAUSAL BLEEDING with ENDOMETRIAL HYPERPLASIA or CARCINOMA in ~5–25%; CALL–EXNER BODIES and "COFFEE-BEAN" grooved nuclei; marker INHIBIN (and AMH); FOXL2 mutation in the adult type; characteristically RECURS LATE (10+ years).**
+- **GRANULOSA CELL TUMOUR: oestrogen → PRECOCIOUS PUBERTY in girls, menorrhagia in adults, POSTMENOPAUSAL BLEEDING with ENDOMETRIAL HYPERPLASIA or CARCINOMA in ~5–25%; CALL–EXNER BODIES and “COFFEE-BEAN” grooved nuclei; marker INHIBIN (and AMH); FOXL2 mutation in the adult type; characteristically RECURS LATE (10+ years).**
 - **THECOMA — oestrogenic, benign, postmenopausal. FIBROMA — its hormonally INERT relative: the commonest benign SOLID ovarian tumour, firm and white with a whorled cut surface and spindle cells; bilateral and calcified in GORLIN (basal cell naevus) syndrome.**
 - **TRUE MEIGS: fibroma (also accepted — thecoma, granulosa cell tumour, Brenner) + ascites + hydrothorax + RESOLUTION after resection. PSEUDO-MEIGS: the same triad with OTHER tumours — mature teratoma, struma ovarii, mucinous cystadenoma, uterine leiomyoma, metastatic disease. PSEUDO-PSEUDO MEIGS (TJALMA): ascites + effusion + raised CA-125 in SLE, with NO tumour at all.**
-- **BRENNER TUMOUR — benign transitional (urothelial-like) epithelium with "COFFEE-BEAN" nuclei and WALTHARD cell rests; solid, fibrous, usually incidental.**
+- **BRENNER TUMOUR — benign transitional (urothelial-like) epithelium with “COFFEE-BEAN” nuclei and WALTHARD cell rests; solid, fibrous, usually incidental.**
 - **STRUMA OVARII — monodermal teratoma of thyroid tissue → hyperthyroidism. OVARIAN CARCINOID → flushing and diarrhoea WITHOUT hepatic metastases** (its venous drainage bypasses the portal system).
 - **Investigate any virilised woman for PCOS (mild), congenital adrenal hyperplasia, Cushing syndrome, and an androgen-secreting ovarian or ADRENAL tumour — a TESTOSTERONE >200 ng/dL or a very high DHEAS suggests a tumour.**
 
-**EXAM CONNECTION:** Match hormone to cell. **"Virilising ovarian tumour" = arrhenoblastoma**; postmenopausal bleeding with a solid ovarian mass → **granulosa cell tumour**; the named triad → **fibroma**.
+**EXAM CONNECTION:** Match hormone to cell. **“Virilising ovarian tumour” = arrhenoblastoma**; postmenopausal bleeding with a solid ovarian mass → **granulosa cell tumour**; the named triad → **fibroma**.
 
 **REMEMBER:** *Sertoli–Leydig makes a man of her; granulosa and theca make her bleed. Benign fibroma, right-sided effusion, cured by the knife.*
 
@@ -3072,7 +3072,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 125. Vulvar Malignancy and Sentinel Node Biopsy
 
-**PEARL:** **SQUAMOUS CELL CARCINOMA is ~90% of vulval cancers**, then **MELANOMA (~5%, second commonest), ADENOCARCINOMA (Bartholin's gland), BASAL CELL CARCINOMA and sarcoma.** **CHORIOCARCINOMA IS NOT a primary vulval tumour.** **SENTINEL LYMPH NODE BIOPSY is most useful in VULVAL carcinoma**, sparing the morbidity of full inguinofemoral lymphadenectomy.
+**PEARL:** **SQUAMOUS CELL CARCINOMA is ~90% of vulval cancers**, then **MELANOMA (~5%, second commonest), ADENOCARCINOMA (Bartholin’s gland), BASAL CELL CARCINOMA and sarcoma.** **CHORIOCARCINOMA IS NOT a primary vulval tumour.** **SENTINEL LYMPH NODE BIOPSY is most useful in VULVAL carcinoma**, sparing the morbidity of full inguinofemoral lymphadenectomy.
 
 **UNDERSTAND:** The vulva is **keratinised, hair-bearing skin**, so its tumours are **skin tumours** — which is why the histological list mirrors that of skin rather than of the cervix or endometrium. Its **two pathways to squamous cancer** follow the same logic: an **HPV-driven pathway in younger women (usual-type VIN, HPV 16)** and an **HPV-INDEPENDENT pathway in older women arising in LICHEN SCLEROSUS with p53 mutation (differentiated VIN)** — the latter more aggressive. And SLNB pays off here because all three of its conditions are met: **nodes may be involved without being palpable, drainage to the superficial inguinal nodes is orderly and predictable, and complete groin dissection causes lymphoedema, wound breakdown and lymphocysts in a majority of women.**
 
@@ -3083,10 +3083,10 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Treatment: WIDE LOCAL EXCISION with a ≥1 cm margin for early disease; RADICAL VULVECTOMY WITH BILATERAL INGUINOFEMORAL LYMPHADENECTOMY for larger tumours; advanced disease → chemoradiation.** **Radiotherapy is indicated for stage III–IV and for stage I–II with POSITIVE NODES, positive or close margins, or lymphovascular invasion.**
 - **Stromal invasion ≤1 mm (stage IA) does NOT require groin node dissection.**
 - **SLNB indications: unifocal tumour <4 cm, no clinically or radiologically suspicious groin nodes, depth of invasion >1 mm.** Technique: **technetium-99m radiocolloid plus blue dye** (or indocyanine green); **a positive sentinel node mandates completion lymphadenectomy or groin radiotherapy.** **LATERAL tumours (>2 cm from the midline) need IPSILATERAL assessment; MIDLINE tumours need BILATERAL.** SLNB is also standard in breast carcinoma, melanoma and penile carcinoma, and increasingly used in endometrial and early cervical cancer.
-- **LICHEN SCLEROSUS — porcelain-white atrophic "cigarette-paper" skin in a FIGURE-OF-EIGHT distribution with intense pruritus and loss of architecture — is treated with POTENT TOPICAL STEROIDS (clobetasol) and needs long-term follow-up (~5% malignancy risk).**
-- **PAGET'S DISEASE OF THE VULVA: a red, eczematous, weeping plaque, associated with an underlying adenocarcinoma in a minority — biopsy is essential.**
+- **LICHEN SCLEROSUS — porcelain-white atrophic “cigarette-paper” skin in a FIGURE-OF-EIGHT distribution with intense pruritus and loss of architecture — is treated with POTENT TOPICAL STEROIDS (clobetasol) and needs long-term follow-up (~5% malignancy risk).**
+- **PAGET’S DISEASE OF THE VULVA: a red, eczematous, weeping plaque, associated with an underlying adenocarcinoma in a minority — biopsy is essential.**
 
-**EXAM CONNECTION:** "Common primary vulval tumours EXCEPT" → **choriocarcinoma**. Among gynaecological cancers, **vulva** is the established SLNB indication.
+**EXAM CONNECTION:** “Common primary vulval tumours EXCEPT” → **choriocarcinoma**. Among gynaecological cancers, **vulva** is the established SLNB indication.
 
 **REMEMBER:** *The vulva is skin — so its cancers are skin cancers, and squamous wins nine times out of ten. Predictable drainage plus morbid dissection equals sentinel node.*
 
@@ -3100,14 +3100,14 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** A **BILATERAL CORNUAL (proximal) BLOCK on HSG MUST BE CONFIRMED — it is frequently a FALSE POSITIVE from CORNUAL SPASM.** The next step is **LAPAROSCOPY WITH CHROMOPERTUBATION combined with HYSTEROSCOPY**, which is both diagnostic and therapeutic.
 
-**UNDERSTAND:** The uterotubal junction is a **thick, muscular sphincter-like segment that contracts in response to the contrast injection and to anxiety** — so dye fails to pass despite an anatomically patent tube. **Up to a third of "proximal blocks" on HSG open up at laparoscopy.** Committing a woman to IVF or tubal surgery on an unconfirmed HSG is the classic error tested.
+**UNDERSTAND:** The uterotubal junction is a **thick, muscular sphincter-like segment that contracts in response to the contrast injection and to anxiety** — so dye fails to pass despite an anatomically patent tube. **Up to a third of “proximal blocks” on HSG open up at laparoscopy.** Committing a woman to IVF or tubal surgery on an unconfirmed HSG is the classic error tested.
 
 **MUST KNOW:**
 
-- **HSG is done in the PROLIFERATIVE PHASE (day 6–11)** — after menses stop and before ovulation, to avoid disturbing a pregnancy and to avoid a thick endometrium mimicking filling defects. **Contraindications: pregnancy, active pelvic infection, active bleeding.** **RUBIN'S CANNULA** instils the dye — its cone seals the cervix and prevents retrograde spill (do not confuse with **Rubin's test**, tubal insufflation with CO₂, or **Rubin's manoeuvre** for shoulder dystocia).
+- **HSG is done in the PROLIFERATIVE PHASE (day 6–11)** — after menses stop and before ovulation, to avoid disturbing a pregnancy and to avoid a thick endometrium mimicking filling defects. **Contraindications: pregnancy, active pelvic infection, active bleeding.** **RUBIN’S CANNULA** instils the dye — its cone seals the cervix and prevents retrograde spill (do not confuse with **Rubin’s test**, tubal insufflation with CO₂, or **Rubin’s manoeuvre** for shoulder dystocia).
 - **HSG also has a THERAPEUTIC effect — pregnancy rates rise afterwards (especially with oil-soluble contrast, the H2Oil trial), by flushing debris and by an effect on the endometrium.**
 - **LAPAROSCOPY WITH CHROMOPERTUBATION (methylene blue) is the GOLD STANDARD for tubal patency** and additionally reveals **endometriosis, adhesions and peritubal disease that HSG cannot see**. **HYSTEROSCOPY is the gold standard for the CAVITY.**
-- **DISTAL (fimbrial) block with a HYDROSALPINX is different — it responds poorly to surgery, and a hydrosalpinx HALVES IVF implantation rates, so it should be REMOVED OR CLIPPED BEFORE IVF.** Ultrasound signs: the **COGWHEEL SIGN** (cross-section of a dilated tube with thickened endosalpingeal folds — acute), **"beads on a string"** (chronic), incomplete septa, and a **tubular rather than round** cystic shape (which separates it from an ovarian cyst).
+- **DISTAL (fimbrial) block with a HYDROSALPINX is different — it responds poorly to surgery, and a hydrosalpinx HALVES IVF implantation rates, so it should be REMOVED OR CLIPPED BEFORE IVF.** Ultrasound signs: the **COGWHEEL SIGN** (cross-section of a dilated tube with thickened endosalpingeal folds — acute), **“beads on a string”** (chronic), incomplete septa, and a **tubular rather than round** cystic shape (which separates it from an ovarian cyst).
 - **Basic workup: SEMEN ANALYSIS FIRST (simplest, non-invasive; male factor is ~30–40%), documentation of OVULATION (mid-luteal day-21 progesterone), then TUBAL PATENCY.**
 
 **EXAM CONNECTION:** Bilateral cornual block on HSG → **laparoscopy/hysteroscopy**, not IVF.
@@ -3122,14 +3122,14 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** In the **MILLER–KURZROK TEST** (in vitro), cervical mucus is placed alongside semen on a slide **at the time of ovulation**; **penetration of >3 cm in 30 minutes is NORMAL**. **JERKY, SHAKING motility after penetration is ABNORMAL — it indicates ANTISPERM ANTIBODIES.**
 
-**UNDERSTAND:** Normal periovulatory mucus is **thin, watery, alkaline and arranged in parallel micelles** under oestrogen, forming channels that guide sperm upward — hence rapid, straight-line progression. When **antisperm antibodies (in either partner) coat the sperm they agglutinate against the mucus micelles**, producing the **"shaking phenomenon"** — sperm vibrating on the spot instead of advancing. The sign points to an **immunological**, not mechanical, cause.
+**UNDERSTAND:** Normal periovulatory mucus is **thin, watery, alkaline and arranged in parallel micelles** under oestrogen, forming channels that guide sperm upward — hence rapid, straight-line progression. When **antisperm antibodies (in either partner) coat the sperm they agglutinate against the mucus micelles**, producing the **“shaking phenomenon”** — sperm vibrating on the spot instead of advancing. The sign points to an **immunological**, not mechanical, cause.
 
 **MUST KNOW:**
 
 - **Related tests: the POSTCOITAL (SIMS–HUHNER) TEST — the IN-VIVO equivalent, done 2–8 hours after midcycle intercourse (normal ≥10–20 motile sperm per high-power field); the KREMER test (capillary tube penetration); the semen–cervical mucus contact test; and the sperm penetration (hamster egg) assay. ALL ARE NOW LARGELY OBSOLETE — poor predictive value, superseded by semen analysis and IUI/IVF.**
 - **Cervical mucus at ovulation shows FERNING and SPINNBARKEIT (>8–10 cm). Progesterone in the luteal phase abolishes both** — the mucus becomes thick, scanty and cellular.
 
-**EXAM CONNECTION:** "False about the Miller–Kurzrok test" → **jerky motility is normal** (it is abnormal, and suggests antisperm antibodies).
+**EXAM CONNECTION:** “False about the Miller–Kurzrok test” → **jerky motility is normal** (it is abnormal, and suggests antisperm antibodies).
 
 **REMEMBER:** *Three centimetres in thirty minutes; sperm that shake instead of swim are antibody-coated.*
 
@@ -3148,7 +3148,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **EARLY OHSS (3–7 days after the trigger) is caused by the exogenous hCG; LATE OHSS (≥12 days) by pregnancy hCG — more severe and prolonged.** It is **self-limiting if pregnancy does not occur** (resolving with menstruation).
 - **Severity: MILD — discomfort, ovaries <8 cm. MODERATE — ascites on ultrasound, ovaries 8–12 cm. SEVERE — clinical ascites, ovaries >12 cm, HAEMATOCRIT >45%, WBC >15,000, hypoproteinaemia, oliguria. CRITICAL — tense ascites, pleural effusion/ARDS, thromboembolism, renal failure.**
 - **Management: MILD/MODERATE — outpatient, oral fluids, analgesia (avoid NSAIDs), daily weight and girth. SEVERE — admit, IV CRYSTALLOIDS then ALBUMIN, THROMBOPROPHYLAXIS WITH LMWH (thrombosis, including unusual sites such as the internal jugular vein, is the major killer), PARACENTESIS for tense ascites, strict input/output. DIURETICS ARE CONTRAINDICATED while intravascularly depleted.**
-- **Prevention: identify high-risk women (PCOS, young, low BMI, high antral follicle count, high AMH, previous OHSS); use ANTAGONIST protocols with a GnRH AGONIST TRIGGER instead of hCG; "coast" or cancel the cycle; CABERGOLINE; and a FREEZE-ALL strategy with deferred transfer.**
+- **Prevention: identify high-risk women (PCOS, young, low BMI, high antral follicle count, high AMH, previous OHSS); use ANTAGONIST protocols with a GnRH AGONIST TRIGGER instead of hCG; “coast” or cancel the cycle; CABERGOLINE; and a FREEZE-ALL strategy with deferred transfer.**
 - **Also complicated by OVARIAN TORSION and cyst rupture** — the enlarged ovaries are heavy and mobile.
 
 **EXAM CONNECTION:** Enlarged multifollicular ovaries + free fluid + gonadotrophin therapy → **OHSS**.
@@ -3171,7 +3171,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **MUST KNOW:**
 
 - **OBSTRUCTIVE causes: congenital bilateral absence of the vas deferens (associated with CFTR/CYSTIC FIBROSIS mutations — SCREEN THE PARTNER), vasectomy, epididymal obstruction after infection (tuberculosis, gonorrhoea, chlamydia), ejaculatory duct obstruction.**
-- **NON-OBSTRUCTIVE causes: KLINEFELTER SYNDROME (47,XXY), Y-chromosome AZF MICRODELETIONS, cryptorchidism, mumps orchitis, chemo/radiotherapy, varicocele, heat. PRE-TESTICULAR: hypogonadotrophic hypogonadism (Kallmann's), hyperprolactinaemia, and exogenous ANABOLIC STEROIDS (common and reversible).**
+- **NON-OBSTRUCTIVE causes: KLINEFELTER SYNDROME (47,XXY), Y-chromosome AZF MICRODELETIONS, cryptorchidism, mumps orchitis, chemo/radiotherapy, varicocele, heat. PRE-TESTICULAR: hypogonadotrophic hypogonadism (Kallmann’s), hyperprolactinaemia, and exogenous ANABOLIC STEROIDS (common and reversible).**
 - **AZFa/AZFb DELETIONS PREDICT NO SPERM RETRIEVAL — the one genetic result that makes surgery futile.** Otherwise Sertoli-cell-only may be **FOCAL**, so **MICRO-TESE still retrieves sperm in ~20–40%** for ICSI.
 - **ALWAYS PERFORM A KARYOTYPE AND Y-MICRODELETION ANALYSIS before ICSI in non-obstructive azoospermia** — the abnormality is transmitted to sons.
 - **Semen VOLUME matters: a LOW-VOLUME, acidic, FRUCTOSE-NEGATIVE ejaculate suggests EJACULATORY DUCT OBSTRUCTION or absent vas. POST-EJACULATORY URINALYSIS detects RETROGRADE EJACULATION (diabetes, bladder neck surgery, alpha-blockers).**
@@ -3179,7 +3179,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **KLINEFELTER (47,XXY) is the commonest genetic cause of male infertility: small firm testes, tall stature with long limbs, gynaecomastia, high FSH and LH with low testosterone, hyalinised tubules** — sperm can still sometimes be retrieved by micro-TESE.
 - **Treatment: OBSTRUCTIVE — surgical reconstruction or sperm retrieval (PESA/MESA) with ICSI (excellent results). NON-OBSTRUCTIVE — micro-TESE with ICSI; donor sperm if none. There is NO medical treatment that restores spermatogenesis in germ cell aplasia.**
 
-**EXAM CONNECTION:** "Differentiate obstructive from testicular cause" → **testicular biopsy**. Tubules containing only Sertoli cells → **Sertoli-cell-only syndrome**.
+**EXAM CONNECTION:** “Differentiate obstructive from testicular cause” → **testicular biopsy**. Tubules containing only Sertoli cells → **Sertoli-cell-only syndrome**.
 
 **REMEMBER:** *FSH is a blood test of the tubules — no germ cells means no inhibin, so FSH rises while testosterone stays normal.*
 
@@ -3200,11 +3200,11 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **MUST KNOW:**
 
 - **WHO 2021 reference limits: volume ≥1.4 mL; pH 7.2–7.8; concentration ≥16 million/mL; total count ≥39 million/ejaculate; TOTAL motility ≥42%; PROGRESSIVE motility ≥30%; normal forms >4%; vitality ≥54%; leucocytes <1 million/mL.**
-- **Collect after 2–7 days' abstinence, examine within 1 hour, and REPEAT abnormal samples after 3 months** (a spermatogenic cycle is ~74 days plus ~14 days' transit).
+- **Collect after 2–7 days’ abstinence, examine within 1 hour, and REPEAT abnormal samples after 3 months** (a spermatogenic cycle is ~74 days plus ~14 days’ transit).
 - **Terminology: OLIGOZOOSPERMIA (low count), ASTHENOZOOSPERMIA (low motility), TERATOZOOSPERMIA (abnormal forms), AZOOSPERMIA (none), ASPERMIA (no ejaculate), NECROZOOSPERMIA (all dead).**
 - **Leucocytes >1 million/mL suggests genital tract infection (pyospermia).**
 
-**EXAM CONNECTION:** "Most important marker" → **morphology**. The parameter values are asked separately as pure numbers.
+**EXAM CONNECTION:** “Most important marker” → **morphology**. The parameter values are asked separately as pure numbers.
 
 **REMEMBER:** *Shape decides whether a sperm can do its job.*
 
@@ -3216,7 +3216,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** **Normal semen analysis + documented ovulation + patent tubes = UNEXPLAINED INFERTILITY, about 25% (10–30%) of infertile couples.** Overall causation: **male factor ~30–40%, ovulatory ~25%, tubal/peritoneal ~25–35%, uterine/cervical ~5–10%, unexplained ~25%** (with overlap).
 
-**UNDERSTAND:** "Unexplained" means **the standard tests were normal, not that nothing is wrong.** The routine work-up cannot detect **oocyte quality, fertilisation capacity, sperm function despite normal morphology, subtle endometriosis, implantation failure or gamete transport problems** — which is exactly why treatment is **EMPIRICAL**, working either by **increasing the number of gametes brought together** (superovulation and IUI) or by **bypassing the unknown step entirely** (IVF/ICSI).
+**UNDERSTAND:** “Unexplained” means **the standard tests were normal, not that nothing is wrong.** The routine work-up cannot detect **oocyte quality, fertilisation capacity, sperm function despite normal morphology, subtle endometriosis, implantation failure or gamete transport problems** — which is exactly why treatment is **EMPIRICAL**, working either by **increasing the number of gametes brought together** (superovulation and IUI) or by **bypassing the unknown step entirely** (IVF/ICSI).
 
 **MUST KNOW:**
 
@@ -3238,14 +3238,14 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 132. Vaginal Discharge — Reading the Slide
 
-**PEARL:** **FROTHY, FOUL-SMELLING, YELLOW-GREEN discharge with intense itching and a "STRAWBERRY CERVIX" (colpitis macularis) = *TRICHOMONAS VAGINALIS*** — **jerky, motile flagellated organisms on a saline wet mount**, vaginal pH **>4.5**. Treat with **METRONIDAZOLE 2 g single dose (or 500 mg BD × 7 days) AND TREAT THE PARTNER** — it is the **only sexually transmitted one** of the three common vaginitides.
+**PEARL:** **FROTHY, FOUL-SMELLING, YELLOW-GREEN discharge with intense itching and a “STRAWBERRY CERVIX” (colpitis macularis) = *TRICHOMONAS VAGINALIS*** — **jerky, motile flagellated organisms on a saline wet mount**, vaginal pH **>4.5**. Treat with **METRONIDAZOLE 2 g single dose (or 500 mg BD × 7 days) AND TREAT THE PARTNER** — it is the **only sexually transmitted one** of the three common vaginitides.
 
-**UNDERSTAND:** The three causes are separated by **pH and microscopy**, and the reason is microbiological: **candidiasis leaves the lactobacilli intact so the pH stays ACIDIC (<4.5), whereas bacterial vaginosis and trichomoniasis both DISPLACE the lactobacilli and raise the pH above 4.5.** The strawberry cervix is **punctate subepithelial haemorrhage** from the parasite's direct cytopathic contact — trichomonas is the only one of the three that is genuinely **inflammatory** (hence itching, dysuria and dyspareunia). It is seen in only **2–5% on naked-eye examination** (far more on colposcopy), so its absence never excludes the diagnosis, but its presence is near-diagnostic.
+**UNDERSTAND:** The three causes are separated by **pH and microscopy**, and the reason is microbiological: **candidiasis leaves the lactobacilli intact so the pH stays ACIDIC (<4.5), whereas bacterial vaginosis and trichomoniasis both DISPLACE the lactobacilli and raise the pH above 4.5.** The strawberry cervix is **punctate subepithelial haemorrhage** from the parasite’s direct cytopathic contact — trichomonas is the only one of the three that is genuinely **inflammatory** (hence itching, dysuria and dyspareunia). It is seen in only **2–5% on naked-eye examination** (far more on colposcopy), so its absence never excludes the diagnosis, but its presence is near-diagnostic.
 
 **MUST KNOW:**
 
-- **BACTERIAL VAGINOSIS: thin, homogeneous, GREY-WHITE discharge with a FISHY odour, pH >4.5, "CLUE CELLS", POSITIVE WHIFF (AMSEL) TEST with 10% KOH — with FEW OR NO pus cells and NO inflammation (hence "vaginosis", not "vaginitis"). Overgrowth of *Gardnerella*, anaerobes and *Mobiluncus* with LOSS OF LACTOBACILLI. AMSEL'S CRITERIA: 3 of 4. Treat with metronidazole; PARTNER TREATMENT NOT REQUIRED. Associated with PRETERM LABOUR, PROM and postpartum endometritis.**
-- **VULVOVAGINAL CANDIDIASIS: thick, curdy, WHITE "cottage-cheese" discharge adherent to the vaginal wall, intense itching and erythema, pH NORMAL (<4.5), pseudohyphae and budding yeasts on KOH. Predisposed by pregnancy, DIABETES, antibiotics, steroids, immunosuppression. Topical or oral azoles (fluconazole avoided in the first trimester); PARTNER TREATMENT NOT REQUIRED.**
+- **BACTERIAL VAGINOSIS: thin, homogeneous, GREY-WHITE discharge with a FISHY odour, pH >4.5, “CLUE CELLS”, POSITIVE WHIFF (AMSEL) TEST with 10% KOH — with FEW OR NO pus cells and NO inflammation (hence “vaginosis”, not “vaginitis”). Overgrowth of *Gardnerella*, anaerobes and *Mobiluncus* with LOSS OF LACTOBACILLI. AMSEL’S CRITERIA: 3 of 4. Treat with metronidazole; PARTNER TREATMENT NOT REQUIRED. Associated with PRETERM LABOUR, PROM and postpartum endometritis.**
+- **VULVOVAGINAL CANDIDIASIS: thick, curdy, WHITE “cottage-cheese” discharge adherent to the vaginal wall, intense itching and erythema, pH NORMAL (<4.5), pseudohyphae and budding yeasts on KOH. Predisposed by pregnancy, DIABETES, antibiotics, steroids, immunosuppression. Topical or oral azoles (fluconazole avoided in the first trimester); PARTNER TREATMENT NOT REQUIRED.**
 - **pH is the fastest bedside discriminator: normal pH → candida; raised pH → BV or trichomonas.**
 - **TRICHOMONAS in pregnancy is associated with preterm birth and low birth weight, and it increases HIV transmission — offer HIV and STI screening.** NAAT is the most sensitive test.
 - **METRONIDAZOLE is safe in pregnancy** (avoid the 2 g single dose in the first trimester where possible) — warn about the **DISULFIRAM-LIKE REACTION with alcohol**.
@@ -3275,12 +3275,12 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Organisms: sexually transmitted — CHLAMYDIA (commonest), gonococcus, *Mycoplasma genitalium*, trichomonas; pyogenic aerobes — staphylococci, streptococci, *E. coli*; anaerobes — *Bacteroides*, *Peptostreptococcus*; ACTINOMYCES — commonest in IUCD users.**
 - **GENITAL TUBERCULOSIS is the only PID that does NOT spread sexually — it is HAEMATOGENOUS, and is therefore the commonest PID in VIRGINS. It presents with INFERTILITY and HYPOMENORRHOEA, not pain.**
 - **Diagnosis is CLINICAL: cervical motion, uterine or adnexal tenderness with lower abdominal pain — treat empirically because of the cost of missing it.**
-- **Sequelae: tubal infertility, ectopic pregnancy, chronic pelvic pain, tubo-ovarian abscess, and FITZ-HUGH–CURTIS SYNDROME (perihepatitis with "violin-string" adhesions).**
+- **Sequelae: tubal infertility, ectopic pregnancy, chronic pelvic pain, tubo-ovarian abscess, and FITZ-HUGH–CURTIS SYNDROME (perihepatitis with “violin-string” adhesions).**
 - **Treatment: CEFTRIAXONE + DOXYCYCLINE + METRONIDAZOLE; treat partners; remove an IUCD only if there is no response.** For uncomplicated gonorrhoea: **ceftriaxone 500 mg IM single dose** (plus doxycycline if chlamydia is not excluded).
 - **Gonorrhoea also causes pharyngitis, dysuria and PROCTITIS.**
 - **PYOMETRA — pus in the uterus — is most often from SENILE ENDOMETRITIS among benign causes; among malignancies, CARCINOMA CERVIX is commonest, then endometrial carcinoma.**
 
-**EXAM CONNECTION:** "Most common cause of PID" → **Chlamydia**. The genital-TB-in-virgins point is a separate favourite.
+**EXAM CONNECTION:** “Most common cause of PID” → **Chlamydia**. The genital-TB-in-virgins point is a separate favourite.
 
 **REMEMBER:** *The silent infection causes the most damage.*
 
@@ -3298,14 +3298,14 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **MUST KNOW:**
 
-- **Degrees of UTERINE prolapse (Shaw's): FIRST — external os stays above the introitus. SECOND — os descends to/through the introitus but the body remains inside. THIRD — cervix, body and fundus lie OUTSIDE. PROCIDENTIA — the whole uterus with complete vaginal eversion.**
-- **The main supports are the MACKENRODT'S (CARDINAL) and UTEROSACRAL ligaments plus the LEVATOR ANI — the round and broad ligaments provide little support.**
+- **Degrees of UTERINE prolapse (Shaw’s): FIRST — external os stays above the introitus. SECOND — os descends to/through the introitus but the body remains inside. THIRD — cervix, body and fundus lie OUTSIDE. PROCIDENTIA — the whole uterus with complete vaginal eversion.**
+- **The main supports are the MACKENRODT’S (CARDINAL) and UTEROSACRAL ligaments plus the LEVATOR ANI — the round and broad ligaments provide little support.**
 - **Management: pelvic floor muscle training and a PESSARY for mild disease or when surgery is unsuitable (elderly, unfit, wishing further children). For THIRD-DEGREE prolapse in a postmenopausal woman, VAGINAL HYSTERECTOMY WITH PELVIC FLOOR REPAIR (with McCall culdoplasty/vault suspension) is standard.**
-- **FOTHERGILL'S (MANCHESTER) OPERATION — amputation of the cervix with plication of the cardinal ligaments and anterior colporrhaphy — PRESERVES the uterus and is chosen in a young woman with prolapse and cervical elongation who wants to retain her uterus; it causes cervical stenosis, infertility and mid-trimester loss.** **SLING operations are for VAULT prolapse (sacrocolpopexy) or stress incontinence.** **The SHIRODKAR procedure is a cervical CERCLAGE — nothing to do with prolapse.**
-- **LE FORT'S COLPOCLEISIS: vaginal flaps excised from the ANTERIOR and POSTERIOR walls and the raw areas apposed in the midline, obliterating the vagina. Reserved for ELDERLY, FRAIL, SEXUALLY INACTIVE women with procidentia. A PAP SMEAR AND ENDOMETRIAL BIOPSY ARE MANDATORY BEFOREHAND**, since the cervix and endometrium become inaccessible; **coitus is no longer possible** and stress incontinence may be unmasked.
+- **FOTHERGILL’S (MANCHESTER) OPERATION — amputation of the cervix with plication of the cardinal ligaments and anterior colporrhaphy — PRESERVES the uterus and is chosen in a young woman with prolapse and cervical elongation who wants to retain her uterus; it causes cervical stenosis, infertility and mid-trimester loss.** **SLING operations are for VAULT prolapse (sacrocolpopexy) or stress incontinence.** **The SHIRODKAR procedure is a cervical CERCLAGE — nothing to do with prolapse.**
+- **LE FORT’S COLPOCLEISIS: vaginal flaps excised from the ANTERIOR and POSTERIOR walls and the raw areas apposed in the midline, obliterating the vagina. Reserved for ELDERLY, FRAIL, SEXUALLY INACTIVE women with procidentia. A PAP SMEAR AND ENDOMETRIAL BIOPSY ARE MANDATORY BEFOREHAND**, since the cervix and endometrium become inaccessible; **coitus is no longer possible** and stress incontinence may be unmasked.
 - **Risk factors: vaginal delivery (especially instrumental and prolonged second stage), multiparity, ageing and menopause, obesity, chronic cough and constipation, connective tissue disorders.**
 
-**EXAM CONNECTION:** "Deepest part causing cystocele and enterocele" → **pubococcygeus**.
+**EXAM CONNECTION:** “Deepest part causing cystocele and enterocele” → **pubococcygeus**.
 
 **REMEMBER:** *The levator ani is a shelf, not a sling — tear the pubococcygeus and everything slides through the gap.*
 
@@ -3352,12 +3352,12 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **URETEROVAGINAL, VESICOVAGINAL, VESICOUTERINE and URETHROVAGINAL fistulae all occur; a UTEROURETHRAL fistula has never been reported.**
 - **VESICOUTERINE FISTULA follows CAESAREAN SECTION, uterine rupture or placenta accreta and produces YOUSSEF SYNDROME — AMENORRHOEA + CYCLICAL HAEMATURIA (MENOURIA) + URINARY CONTINENCE (no vaginal leak, because the cervix acts as a valve).** Many close with **prolonged catheterisation**; otherwise repair is abdominal.
 - **Localising the leak: VESICOVAGINAL — continuous leak, bladder empty. URETEROVAGINAL — continuous leak WITH normal voiding preserved. URETHROVAGINAL — leak only during voiding.** The **THREE-SWAB (dye) TEST** localises the level; cystoscopy with retrograde studies confirms it.
-- **Obstetric fistulae come with the wider "OBSTRUCTED LABOUR INJURY COMPLEX" — foot drop (lumbosacral trunk injury), vaginal stenosis, secondary infertility, amenorrhoea and profound social ostracism. Prevention is timely obstetric care — the partograph.**
+- **Obstetric fistulae come with the wider “OBSTRUCTED LABOUR INJURY COMPLEX” — foot drop (lumbosacral trunk injury), vaginal stenosis, secondary infertility, amenorrhoea and profound social ostracism. Prevention is timely obstetric care — the partograph.**
 - **Principles of repair: adequate exposure, wide mobilisation, TENSION-FREE closure in layers without overlapping suture lines, interposition of healthy tissue (MARTIUS labial fat pad, omentum, gracilis), and PROLONGED POSTOPERATIVE BLADDER DRAINAGE (10–14 days) — the single most important postoperative factor.**
 - **Preoperative preparation: treat infection, give oestrogen in postmenopausal women to improve tissue quality, correct anaemia and nutrition.**
 - **Radiation-induced fistulae appear late (months to years), are ischaemic and heal poorly** — they usually need tissue interposition or urinary diversion.
 
-**EXAM CONNECTION:** "Does not cause fistula" → **hysteroscopy**; cyclical haematuria with amenorrhoea and no vaginal leak → **vesicouterine fistula**.
+**EXAM CONNECTION:** “Does not cause fistula” → **hysteroscopy**; cyclical haematuria with amenorrhoea and no vaginal leak → **vesicouterine fistula**.
 
 **REMEMBER:** *Wait six weeks for clean tissue — and the first repair is the best chance you will get.*
 
@@ -3368,22 +3368,22 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ---
 
-### 137. Gartner's Cyst versus Cystocele
+### 137. Gartner’s Cyst versus Cystocele
 
-**PEARL:** **GARTNER'S CYST is a retention cyst of the WOLFFIAN (mesonephric) duct remnant** in the **ANTERIOR or anterolateral vaginal wall.** It is **NOT REDUCIBLE, has NO COUGH IMPULSE, has WELL-DEFINED margins, and the OVERLYING MUCOSA IS TENSE, SHINY AND HAS LOST ITS RUGAE.** A **CYSTOCELE is REDUCIBLE, HAS a cough impulse, has ill-defined margins, and RETAINS the vaginal rugae.**
+**PEARL:** **GARTNER’S CYST is a retention cyst of the WOLFFIAN (mesonephric) duct remnant** in the **ANTERIOR or anterolateral vaginal wall.** It is **NOT REDUCIBLE, has NO COUGH IMPULSE, has WELL-DEFINED margins, and the OVERLYING MUCOSA IS TENSE, SHINY AND HAS LOST ITS RUGAE.** A **CYSTOCELE is REDUCIBLE, HAS a cough impulse, has ill-defined margins, and RETAINS the vaginal rugae.**
 
-**UNDERSTAND:** The distinction is between **a discrete cyst within the vaginal wall and a herniation of the bladder behind an intact vaginal wall**. Because the cystocele is simply the vaginal wall pushed backwards, **its mucosa remains normal, rugose and mobile**, and it behaves like any hernia — reducible, with an impulse on coughing. The Gartner's cyst **stretches and thins the mucosa over it**, obliterating the rugae. **The clinching test: a metal catheter passed per urethra can be felt beneath the vaginal wall in a cystocele, but NOT under a Gartner's cyst.**
+**UNDERSTAND:** The distinction is between **a discrete cyst within the vaginal wall and a herniation of the bladder behind an intact vaginal wall**. Because the cystocele is simply the vaginal wall pushed backwards, **its mucosa remains normal, rugose and mobile**, and it behaves like any hernia — reducible, with an impulse on coughing. The Gartner’s cyst **stretches and thins the mucosa over it**, obliterating the rugae. **The clinching test: a metal catheter passed per urethra can be felt beneath the vaginal wall in a cystocele, but NOT under a Gartner’s cyst.**
 
 **MUST KNOW:**
 
-- **Gartner's cysts are usually small, asymptomatic and incidental — EXCISED only if large or symptomatic. Large ones may be associated with ipsilateral RENAL ANOMALIES (the mesonephric duct also forms the ureteric bud) — image the urinary tract.**
-- **Vaginal wall lump differential: GARTNER'S CYST (anterolateral, Wolffian); INCLUSION/implantation DERMOID (posterior wall, at an old episiotomy or tear); BARTHOLIN'S CYST (posterolateral at the introitus, 4 and 8 o'clock — treated by MARSUPIALISATION, and BIOPSIED in women over 40 to exclude carcinoma); SKENE'S duct cyst (periurethral); URETHRAL DIVERTICULUM (a tender anterior mass with post-void dribbling and purulent discharge on compression); urethrocele or cystocele.**
+- **Gartner’s cysts are usually small, asymptomatic and incidental — EXCISED only if large or symptomatic. Large ones may be associated with ipsilateral RENAL ANOMALIES (the mesonephric duct also forms the ureteric bud) — image the urinary tract.**
+- **Vaginal wall lump differential: GARTNER’S CYST (anterolateral, Wolffian); INCLUSION/implantation DERMOID (posterior wall, at an old episiotomy or tear); BARTHOLIN’S CYST (posterolateral at the introitus, 4 and 8 o’clock — treated by MARSUPIALISATION, and BIOPSIED in women over 40 to exclude carcinoma); SKENE’S duct cyst (periurethral); URETHRAL DIVERTICULUM (a tender anterior mass with post-void dribbling and purulent discharge on compression); urethrocele or cystocele.**
 - **Anterior compartment prolapse: CYSTOCELE (upper anterior wall, bladder) and URETHROCELE (lower anterior wall). Posterior: RECTOCELE and ENTEROCELE (contains small bowel — the only one that may transilluminate or gurgle).**
-- **MÜLLERIAN (paramesonephric) remnants form the tubes, uterus, cervix and upper vagina; WOLFFIAN remnants persist as Gartner's duct, the epoophoron and paroophoron.**
+- **MÜLLERIAN (paramesonephric) remnants form the tubes, uterus, cervix and upper vagina; WOLFFIAN remnants persist as Gartner’s duct, the epoophoron and paroophoron.**
 
-**EXAM CONNECTION:** "Differentiated from cystocele by all EXCEPT" → **presence of rugae** (they are LOST in Gartner's cyst).
+**EXAM CONNECTION:** “Differentiated from cystocele by all EXCEPT” → **presence of rugae** (they are LOST in Gartner’s cyst).
 
-**REMEMBER:** *A cystocele reduces and keeps its rugae; a Gartner's cyst does neither.*
+**REMEMBER:** *A cystocele reduces and keeps its rugae; a Gartner’s cyst does neither.*
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6acbb8557a68426e82495020892da39bx346x394.PNG)
@@ -3394,7 +3394,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 138. Genuine Stress Incontinence
 
-**PEARL:** **TYPE III genuine stress incontinence is due to INTRINSIC SPHINCTER DEFICIENCY.** **TYPE I — loss of the posterior urethrovesical angle. TYPE II — that plus URETHRAL HYPERMOBILITY. TYPE III — a fixed, non-functioning "lead-pipe"/"drainpipe" urethra.** GSI is **involuntary leakage on raised intra-abdominal pressure WITHOUT detrusor contraction.**
+**PEARL:** **TYPE III genuine stress incontinence is due to INTRINSIC SPHINCTER DEFICIENCY.** **TYPE I — loss of the posterior urethrovesical angle. TYPE II — that plus URETHRAL HYPERMOBILITY. TYPE III — a fixed, non-functioning “lead-pipe”/“drainpipe” urethra.** GSI is **involuntary leakage on raised intra-abdominal pressure WITHOUT detrusor contraction.**
 
 **UNDERSTAND:** The distinction **determines the operation**. Types I and II are **anatomical** — the urethra is intrinsically competent but descends out of the abdominal pressure zone, so **re-suspending or supporting it (a MID-URETHRAL SLING, TVT or TOT, or a BURCH colposuspension) restores continence.** Type III is a **functional failure of the sphincter itself**, which no amount of support will fix — hence **bulking agents, a pubovaginal fascial sling, or an artificial urinary sphincter**.
 
@@ -3406,7 +3406,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Investigations: a bladder diary, cough stress test, post-void residual volume, urinalysis to exclude infection, and URODYNAMICS before surgery or when the picture is unclear** (to confirm the leakage is not detrusor-driven). **The Q-TIP TEST demonstrates urethral hypermobility (>30° excursion on straining).**
 - **Risk factors: vaginal delivery (especially instrumental and prolonged second stage), pudendal nerve injury, ageing and menopause, obesity, chronic cough and constipation, previous pelvic surgery.**
 
-**EXAM CONNECTION:** "Type III GSI is due to" → **intrinsic sphincter deficiency**.
+**EXAM CONNECTION:** “Type III GSI is due to” → **intrinsic sphincter deficiency**.
 
 **REMEMBER:** *Types I and II are a urethra that has fallen; type III is a urethra that has failed — and supporting it will not help.*
 
@@ -3430,7 +3430,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Non-contraceptive benefits of COCs: reduced OVARIAN and ENDOMETRIAL CANCER risk (persisting for decades), less dysmenorrhoea and menorrhagia, improved acne, fewer functional ovarian cysts and less benign breast disease, control of PCOS symptoms. Risks: VTE, and a small increase in cervical and breast cancer risk.**
 - **ABSOLUTE contraindications to COCs: <6 weeks postpartum if breastfeeding, smoking ≥15 cigarettes/day over age 35, hypertension ≥160/100, VTE or known thrombophilia, ischaemic heart disease or stroke, MIGRAINE WITH AURA at any age, current breast cancer, severe cirrhosis/liver tumour, and major surgery with prolonged immobilisation.**
 
-**EXAM CONNECTION:** "OCPs act by all EXCEPT" → **increase GnRH release**; "not a mechanism of POPs" → **kills sperm**.
+**EXAM CONNECTION:** “OCPs act by all EXCEPT” → **increase GnRH release**; “not a mechanism of POPs” → **kills sperm**.
 
 **REMEMBER:** *Combined pills stop the egg; mini-pills stop the sperm at the cervix. The OCP is a brake on the hypothalamus, not a stimulus.*
 
@@ -3450,8 +3450,8 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **DROSPIRENONE is a spironolactone analogue — ANTI-ANDROGENIC (useful in acne, hirsutism, PCOS) and ANTI-MINERALOCORTICOID (less fluid retention, but a risk of HYPERKALAEMIA with ACE inhibitors, ARBs, NSAIDs or potassium-sparing diuretics). CYPROTERONE ACETATE is the most potently anti-androgenic progestogen.**
 - **Missing pills in the FIRST WEEK with unprotected intercourse in the preceding 5 days is where EMERGENCY CONTRACEPTION is most clearly indicated;** the second week is least risky.
 - **Vomiting within 2–3 hours or severe diarrhoea is treated as a missed pill.** For **POPs the window is much narrower: >3 hours (traditional) or >12 hours (desogestrel) → take at once plus BARRIER PROTECTION FOR 48 HOURS.**
-- **ENZYME-INDUCING drugs reduce efficacy: RIFAMPICIN, phenytoin, carbamazepine, phenobarbitone, ST JOHN'S WORT, and antiretrovirals. Broad-spectrum antibiotics generally do NOT (an old myth), except rifamycins.**
-- **EXTENDED/CONTINUOUS regimens (deliberately skipping the hormone-free interval) are safe and used for endometriosis, menorrhagia, dysmenorrhoea, PMS and menstrual migraine.** **Starting on day 1–5 of the cycle needs no additional protection; a later "quick start" needs 7 days of barrier.**
+- **ENZYME-INDUCING drugs reduce efficacy: RIFAMPICIN, phenytoin, carbamazepine, phenobarbitone, ST JOHN’S WORT, and antiretrovirals. Broad-spectrum antibiotics generally do NOT (an old myth), except rifamycins.**
+- **EXTENDED/CONTINUOUS regimens (deliberately skipping the hormone-free interval) are safe and used for endometriosis, menorrhagia, dysmenorrhoea, PMS and menstrual migraine.** **Starting on day 1–5 of the cycle needs no additional protection; a later “quick start” needs 7 days of barrier.**
 - **The iron tablets in Mala-N/D fill the 7 hormone-free days — maintaining the daily-pill habit and addressing anaemia, a public-health design feature.**
 
 **EXAM CONNECTION:** Brand-composition recall — **Loette = 20 µg, the lowest**. Two pills missed in the third week → **take 2 pills the same day and continue**.
@@ -3498,12 +3498,12 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Copper IUCD side effects: MENORRHAGIA and DYSMENORRHOEA (the commonest reasons for removal — give iron and remove if bleeding persists), expulsion (highest in the first year), perforation (~1 in 1000, related to insertion technique).**
 - **The LNG-IUS causes irregular spotting initially then AMENORRHOEA — a therapeutic benefit. It is FIRST-LINE MEDICAL TREATMENT FOR HEAVY MENSTRUAL BLEEDING, and is also used for adenomyosis, endometrial hyperplasia, and endometrial protection during HRT and tamoxifen therapy.**
 - **The copper IUCD is the MOST EFFECTIVE EMERGENCY CONTRACEPTIVE (within 5 days) and then continues as long-term contraception.**
-- **Contraindications: pregnancy, undiagnosed vaginal bleeding, active pelvic infection or cervicitis, a distorted cavity (fibroids, anomalies), genital malignancy, and — for the LNG-IUS — breast cancer. WILSON'S DISEASE and copper allergy contraindicate copper devices.**
+- **Contraindications: pregnancy, undiagnosed vaginal bleeding, active pelvic infection or cervicitis, a distorted cavity (fibroids, anomalies), genital malignancy, and — for the LNG-IUS — breast cancer. WILSON’S DISEASE and copper allergy contraindicate copper devices.**
 - **PREGNANCY WITH AN IUCD IN SITU: exclude ectopic; if intrauterine and the threads are visible, REMOVE the device** (leaving it raises the risk of miscarriage, septic abortion and preterm birth).
 - **PID risk is confined largely to the first 20 days after insertion** (pre-existing infection carried up at insertion), not to the device itself. **ACTINOMYCES is the organism most associated with IUCD users.**
 - **Timing: any time pregnancy can reasonably be excluded; within 48 HOURS of delivery (PPIUCD — a major Indian programme intervention) or after 6 weeks; and immediately after an uncomplicated abortion.** Insertion between 48 hours and 4 weeks carries high expulsion and perforation risk.
 
-**EXAM CONNECTION:** "Silver-containing IUCD" → **Nova-T**.
+**EXAM CONNECTION:** “Silver-containing IUCD” → **Nova-T**.
 
 **REMEMBER:** *Silver keeps the copper from crumbling — three years becomes five. Mirena 5 years and less bleeding; CuT 380A 10 years and more bleeding.*
 
@@ -3515,7 +3515,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** DMPA is **150 mg IM (or 104 mg subcutaneous) every 3 months (13 weeks)**, with a **GRACE PERIOD of up to 4 WEEKS late** — a woman **14 days late may simply receive her injection, with no back-up and no pregnancy test.** Beyond 4 weeks, do a **urine pregnancy test first** and advise 7 days of back-up. **DMPA DOES protect against endometrial carcinoma** — the statement that it does not is false.
 
-**UNDERSTAND:** The grace period exists because DMPA's **ovulation-suppressing levels persist well beyond the nominal 12–13 weeks** — its effect is limited by **slow release from the intramuscular depot**, not a sharp cut-off. And every benefit follows from **continuous, unopposed progestogen action**: the endometrium becomes **thin and atrophic**, which simultaneously **reduces bleeding** and **removes the oestrogen-driven proliferation that leads to hyperplasia and carcinoma**. That same atrophy explains the commonest side effect — **irregular spotting progressing to amenorrhoea** — a therapeutic effect misread as a problem, and the main reason women discontinue.
+**UNDERSTAND:** The grace period exists because DMPA’s **ovulation-suppressing levels persist well beyond the nominal 12–13 weeks** — its effect is limited by **slow release from the intramuscular depot**, not a sharp cut-off. And every benefit follows from **continuous, unopposed progestogen action**: the endometrium becomes **thin and atrophic**, which simultaneously **reduces bleeding** and **removes the oestrogen-driven proliferation that leads to hyperplasia and carcinoma**. That same atrophy explains the commonest side effect — **irregular spotting progressing to amenorrhoea** — a therapeutic effect misread as a problem, and the main reason women discontinue.
 
 **MUST KNOW:**
 
@@ -3525,7 +3525,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **If started within the first 7 days of the cycle no back-up is needed; if later, use back-up for 7 days.**
 - **Related long-acting methods: implants (etonogestrel, levonorgestrel) and the LNG-IUS. Compare the ANTARA programme (India) — injectable MPA offered free under the national family planning programme.**
 
-**EXAM CONNECTION:** "Which statement is NOT true?" — the false option **denies a genuine protective effect**. The grace-period stem gives the number of days late: **within 4 weeks → just inject; beyond 4 weeks → pregnancy test first.**
+**EXAM CONNECTION:** “Which statement is NOT true?” — the false option **denies a genuine protective effect**. The grace-period stem gives the number of days late: **within 4 weeks → just inject; beyond 4 weeks → pregnancy test first.**
 
 **REMEMBER:** *Progestogen thins the endometrium — less bleeding, less cancer, less fertility for a while. And four weeks of grace: inject and reassure.*
 
@@ -3539,7 +3539,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 144. Female Sterilisation — Site, Techniques and Eponyms
 
-**PEARL:** The **ISTHMUS is the commonest site of tubal ligation** — the **NARROWEST part of the tube**, making occlusion secure while **preserving the ampulla and fimbria** so **reversal remains possible**. **KROENER'S procedure = FIMBRIECTOMY. POMEROY is the commonest technique; UCHIDA has the lowest failure rate and best preserves reversibility; IRVING is the most reliable but needs a laparotomy.**
+**PEARL:** The **ISTHMUS is the commonest site of tubal ligation** — the **NARROWEST part of the tube**, making occlusion secure while **preserving the ampulla and fimbria** so **reversal remains possible**. **KROENER’S procedure = FIMBRIECTOMY. POMEROY is the commonest technique; UCHIDA has the lowest failure rate and best preserves reversibility; IRVING is the most reliable but needs a laparotomy.**
 
 **UNDERSTAND:** Tubal segments differ functionally: the **AMPULLA is where fertilisation occurs and the FIMBRIAE capture the ovum**, so destroying them precludes reversal. The **isthmus is narrow, thick-walled and muscular**, so a small excision reliably occludes it while leaving **long healthy segments for later anastomosis**. The techniques then differ in **how much tube they destroy and where the cut ends go** — burying the proximal stump in myometrium (Irving) or broad ligament (Uchida) separates the ends permanently, driving failure toward zero; simply tying a loop (Pomeroy) is quick but leaves the ends adjacent, allowing recanalisation.
 
@@ -3549,12 +3549,12 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **LAPAROSCOPIC: FALOPE RING (Yoon), FILSHIE CLIP, HULKA CLIP — the CLIPS DESTROY THE LEAST TUBE and are the most reversible.**
 - **FAILURE ~1 in 200 (0.5%) over 10 years; when it fails the pregnancy is DISPROPORTIONATELY LIKELY TO BE ECTOPIC — so any pregnancy after sterilisation is ectopic until proved otherwise.**
 - **Timing: INTERVAL (ideally day 5–10 of the cycle, after excluding pregnancy), POSTPARTUM (within 7 days — the tube is easily reached just below the umbilicus), or with caesarean or concurrent MTP.**
-- **Counselling: sterilisation must be regarded as PERMANENT. Written informed consent from the WOMAN ALONE is sufficient — THE SPOUSE'S CONSENT IS NOT REQUIRED under Indian law.**
+- **Counselling: sterilisation must be regarded as PERMANENT. Written informed consent from the WOMAN ALONE is sufficient — THE SPOUSE’S CONSENT IS NOT REQUIRED under Indian law.**
 - **Complications: bleeding, injury to bowel/bladder/vessels, anaesthetic risk, failure, and the disputed POST-TUBAL LIGATION SYNDROME. It does NOT cause menstrual disturbance or early menopause.**
 - **REVERSAL by microsurgical anastomosis succeeds best after CLIP or RING occlusion of the ISTHMUS with ≥4 cm of residual tube; otherwise IVF is preferred.**
 - **Tubal ligation is PROTECTIVE against ovarian cancer, and OPPORTUNISTIC SALPINGECTOMY is increasingly performed instead**, since high-grade serous cancers arise in the fimbria.
 
-**EXAM CONNECTION:** "Most common site and reason" → **isthmus, because it is the narrowest part**. Eponym matching: **Kroener = fimbriectomy** is the most-asked pairing.
+**EXAM CONNECTION:** “Most common site and reason” → **isthmus, because it is the narrowest part**. Eponym matching: **Kroener = fimbriectomy** is the most-asked pairing.
 
 **REMEMBER:** *Tie the narrow isthmus and leave the ampulla alone — that is what keeps reversal possible. Kroener takes the fimbriae; Pomeroy takes a loop.*
 
@@ -3579,10 +3579,10 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 - **Other male methods: CONDOMS (the only method that also prevents STIs), VASECTOMY, TESTOSTERONE ENANTHATE and androgen/progestin combinations (trial stage), and RISUG (Reversible Inhibition of Sperm Under Guidance — an Indian polymer injected into the vas).**
 - **VASECTOMY: AZOOSPERMIA IS NOT IMMEDIATE — alternative contraception must be used until a semen analysis is clear, usually after ~3 months or 20 ejaculations.** Complications: haematoma, infection, **SPERM GRANULOMA**, chronic post-vasectomy pain, recanalisation (~1 in 2000). **NO-SCALPEL vasectomy is the preferred technique.**
-- **Contraceptive effectiveness ranking (typical use): implants and IUDs (most effective, "LARC") > injectables > pills > condoms > withdrawal and fertility awareness.**
+- **Contraceptive effectiveness ranking (typical use): implants and IUDs (most effective, “LARC”) > injectables > pills > condoms > withdrawal and fertility awareness.**
 - **The LACTATIONAL AMENORRHOEA METHOD is ~98% effective ONLY if ALL THREE hold: fully/nearly fully breastfeeding, AMENORRHOEIC, and within 6 MONTHS of delivery.**
 
-**EXAM CONNECTION:** "Hypokalaemic paralysis" → **gossypol**.
+**EXAM CONNECTION:** “Hypokalaemic paralysis” → **gossypol**.
 
 **REMEMBER:** *Cottonseed stops sperm and drops the potassium.*
 
@@ -3592,7 +3592,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 146. Return of Fertility and Postpartum Contraception
 
-**PEARL:** **The mean time to the first menstruation after delivery is 7–9 WEEKS.** In **NON-LACTATING** women ovulation can return **as early as 4 WEEKS** (80% menstruate by 12 weeks); in **LACTATING** women at about **10 weeks or later**. **The "RULE OF 3s": start contraception in the 3rd POSTPARTUM WEEK if not (or only partially) breastfeeding, and in the 3rd POSTPARTUM MONTH if fully breastfeeding.**
+**PEARL:** **The mean time to the first menstruation after delivery is 7–9 WEEKS.** In **NON-LACTATING** women ovulation can return **as early as 4 WEEKS** (80% menstruate by 12 weeks); in **LACTATING** women at about **10 weeks or later**. **The “RULE OF 3s”: start contraception in the 3rd POSTPARTUM WEEK if not (or only partially) breastfeeding, and in the 3rd POSTPARTUM MONTH if fully breastfeeding.**
 
 **UNDERSTAND:** Lactation delays fertility because **suckling-induced PROLACTIN suppresses pulsatile GnRH** and therefore LH — the basis of the lactational amenorrhoea method. But the suppression is **incomplete and unpredictable, and OVULATION PRECEDES THE FIRST PERIOD** — which is exactly why waiting for menstruation before starting contraception is unsafe.
 
@@ -3604,7 +3604,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **MALA-N is the national programme COC (EE 30 µg + levonorgestrel 0.15 mg, free); MALA-D is the socially marketed version.**
 - **Breastfeeding also reduces maternal breast and ovarian cancer risk and speeds involution (oxytocin release).**
 
-**EXAM CONNECTION:** "Mean time for first menstruation postpartum" → **7–9 weeks**. In the contraceptive-choice stem, the distractors are eliminated by the **bleeding pattern** and the COC is permitted by the **time since delivery** — read both.
+**EXAM CONNECTION:** “Mean time for first menstruation postpartum” → **7–9 weeks**. In the contraceptive-choice stem, the distractors are eliminated by the **bleeding pattern** and the COC is permitted by the **time since delivery** — read both.
 
 **REMEMBER:** *Ovulation comes before the first period — start contraception at three weeks, or three months if fully breastfeeding.*
 
@@ -3628,7 +3628,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **ALL Müllerian anomalies are strongly associated with RENAL TRACT ANOMALIES (unilateral renal agenesis in up to 30–40%) — ALWAYS IMAGE THE KIDNEYS.**
 - **MRKH (class I): 46,XX, absent uterus and upper two-thirds of the vagina with a blind pouch, NORMAL OVARIES (so normal breasts, normal pubic and axillary hair, normal testosterone), presenting as primary amenorrhoea WITHOUT pain (no endometrium). Treat with vaginal dilatation or vaginoplasty; fertility requires surrogacy or uterine transplantation.**
 - **Obstetric consequences generally: recurrent miscarriage, preterm birth, malpresentation (especially breech and transverse lie), higher caesarean rate.**
-- **Postoperatively after septal resection, oestrogen and/or an intrauterine balloon or device may be used to prevent ASHERMAN'S adhesions.**
+- **Postoperatively after septal resection, oestrogen and/or an intrauterine balloon or device may be used to prevent ASHERMAN’S adhesions.**
 
 **EXAM CONNECTION:** Flat-topped fundus without a fundal bulge → **arcuate uterus, class VI**. Among four real operations, pick the **hysteroscopic** one.
 
@@ -3646,7 +3646,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** A teenager with **DYSMENORRHOEA and a TRANSVERSE VAGINAL SEPTUM is at high risk of ENDOMETRIOSIS** — outflow obstruction forces menstrual blood **RETROGRADELY through the tubes into the peritoneal cavity**. **The key discriminator between obstructive anomalies is whether she is BLEEDING: imperforate hymen, transverse septum and MRKH all give PRIMARY AMENORRHOEA with cyclical pain, whereas OHVIRA gives NORMAL MENSES with escalating pain** (one of two duplicated systems is blocked).
 
-**UNDERSTAND:** Obstructive anomalies are a **natural experiment proving Sampson's hypothesis** — endometriosis prevalence in obstructed tracts is very high and **often regresses once the obstruction is relieved**. The sequence is **CYCLICAL PAIN with amenorrhoea → HAEMATOCOLPOS/HAEMATOMETRA → haematosalpinx → endometriosis and adhesions.** In OHVIRA the renal anomaly is obligatory because the **mesonephric (Wolffian) duct induces both the ureteric bud and the fusion of the Müllerian ducts** — one embryological insult, two organs.
+**UNDERSTAND:** Obstructive anomalies are a **natural experiment proving Sampson’s hypothesis** — endometriosis prevalence in obstructed tracts is very high and **often regresses once the obstruction is relieved**. The sequence is **CYCLICAL PAIN with amenorrhoea → HAEMATOCOLPOS/HAEMATOMETRA → haematosalpinx → endometriosis and adhesions.** In OHVIRA the renal anomaly is obligatory because the **mesonephric (Wolffian) duct induces both the ureteric bud and the fusion of the Müllerian ducts** — one embryological insult, two organs.
 
 **MUST KNOW:**
 
@@ -3670,7 +3670,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** **5α-REDUCTASE DEFICIENCY: 46,XY raised female, presenting at puberty with PRIMARY AMENORRHOEA, VIRILISATION (clitoromegaly), POOR BREAST DEVELOPMENT, a blind vaginal pouch and TESTOSTERONE IN THE MALE RANGE** — a **MALE PSEUDOHERMAPHRODITE (46,XY DSD: male gonads with female or ambiguous external genitalia).** **COMPLETE ANDROGEN INSENSITIVITY: 46,XY, female phenotype, NO uterus, GOOD BREASTS, SCANTY/ABSENT pubic hair.** **SWYER (complete gonadal dysgenesis): 46,XY, female phenotype, NORMAL UTERUS, streak gonads, absent breast development, HIGH FSH.**
 
-**UNDERSTAND:** Work forwards through the developmental sequence and each syndrome falls out. **SRY makes the testis; the testis makes AMH (regresses the Müllerian ducts) and TESTOSTERONE (builds the Wolffian ducts); 5α-REDUCTASE converts testosterone to DHT, which builds the EXTERNAL male genitalia and prostate.** Block **SRY** → no testis → **no AMH (uterus PRESENT)** and no androgen. Block the **androgen receptor** → AMH still works (**no uterus**) but no virilisation ever, while testosterone is **aromatised to oestrogen unopposed** so breasts develop well. Block only **5α-reductase** → internal male structures normal and no uterus, but **external genitalia female until the pubertal testosterone surge forces virilisation** — "penis at twelve".
+**UNDERSTAND:** Work forwards through the developmental sequence and each syndrome falls out. **SRY makes the testis; the testis makes AMH (regresses the Müllerian ducts) and TESTOSTERONE (builds the Wolffian ducts); 5α-REDUCTASE converts testosterone to DHT, which builds the EXTERNAL male genitalia and prostate.** Block **SRY** → no testis → **no AMH (uterus PRESENT)** and no androgen. Block the **androgen receptor** → AMH still works (**no uterus**) but no virilisation ever, while testosterone is **aromatised to oestrogen unopposed** so breasts develop well. Block only **5α-reductase** → internal male structures normal and no uterus, but **external genitalia female until the pubertal testosterone surge forces virilisation** — “penis at twelve”.
 
 **MUST KNOW:**
 
@@ -3696,9 +3696,9 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 150. Fetal Testosterone and Sexual Differentiation
 
-**PEARL:** **hCG FROM THE PLACENTA is the INITIAL stimulus for testosterone production by the fetal Leydig cells** (hCG and LH share a receptor); **from about the 8th–12th week, FETAL PITUITARY LH takes over.** Sex determination depends on the **SRY gene**, which converts the indifferent gonad into a testis; **female development occurs in its ABSENCE — the "default" pathway.**
+**PEARL:** **hCG FROM THE PLACENTA is the INITIAL stimulus for testosterone production by the fetal Leydig cells** (hCG and LH share a receptor); **from about the 8th–12th week, FETAL PITUITARY LH takes over.** Sex determination depends on the **SRY gene**, which converts the indifferent gonad into a testis; **female development occurs in its ABSENCE — the “default” pathway.**
 
-**UNDERSTAND:** The fetal pituitary is not yet functional when masculinisation must begin, so **the placenta supplies the trophic signal** — the fetoplacental unit acting as one endocrine organ. The consequence is examinable: **SECOND-TRIMESTER genital development is hCG-dependent, whereas THIRD-TRIMESTER penile growth and TESTICULAR DESCENT depend on fetal pituitary LH** — which is why boys with **hypogonadotrophic hypogonadism (Kallmann's) are born with a MICROPENIS and undescended testes but NORMAL male genital structures.**
+**UNDERSTAND:** The fetal pituitary is not yet functional when masculinisation must begin, so **the placenta supplies the trophic signal** — the fetoplacental unit acting as one endocrine organ. The consequence is examinable: **SECOND-TRIMESTER genital development is hCG-dependent, whereas THIRD-TRIMESTER penile growth and TESTICULAR DESCENT depend on fetal pituitary LH** — which is why boys with **hypogonadotrophic hypogonadism (Kallmann’s) are born with a MICROPENIS and undescended testes but NORMAL male genital structures.**
 
 **MUST KNOW:**
 
@@ -3708,7 +3708,7 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **hCG is also the basis of pregnancy testing (detectable in serum ~8–9 days post-fertilisation, doubling every 48 hours early, peaking at 8–10 weeks), maintains the CORPUS LUTEUM until the luteoplacental shift at 7–9 weeks, and — sharing the α-subunit with TSH — can stimulate the thyroid.**
 - **AMH is also produced by the granulosa cells of the adult ovary and is the best marker of OVARIAN RESERVE.**
 
-**EXAM CONNECTION:** "What stimulates fetal testosterone production" → **hCG from the placenta**.
+**EXAM CONNECTION:** “What stimulates fetal testosterone production” → **hCG from the placenta**.
 
 **REMEMBER:** *The placenta starts the testis working; the fetal pituitary takes over later.*
 
@@ -3730,9 +3730,9 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **The rectal examination determining parametrial extension is what separates cervical stage IIB from IB. OVARIAN AND ENDOMETRIAL CANCERS ARE STAGED SURGICALLY.**
 - **It also detects: uterosacral NODULARITY of endometriosis, rectal involvement by tumour, haemorrhoids and fissures, and a rectovaginal septal mass.**
 - **In children, examine under anaesthesia when needed; a hymen-sparing approach is essential.**
-- **CERVICAL MOTION TENDERNESS ("chandelier sign") on bimanual examination suggests PID, ectopic pregnancy or peritonitis.**
+- **CERVICAL MOTION TENDERNESS (“chandelier sign”) on bimanual examination suggests PID, ectopic pregnancy or peritonitis.**
 
-**EXAM CONNECTION:** "Indications of rectal examination EXCEPT" → **staging of ovarian malignancy**.
+**EXAM CONNECTION:** “Indications of rectal examination EXCEPT” → **staging of ovarian malignancy**.
 
 **REMEMBER:** *Only the rectal finger reaches the parametrium — which is why cervical cancer is staged with it and ovarian cancer is not.*
 
@@ -3744,18 +3744,18 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **PEARL:** The **PIPELLE (a thin flexible plastic suction cannula) is used for OFFICE ENDOMETRIAL SAMPLING** — **NO cervical dilatation, NO anaesthesia**, nearly painless, ~90% accurate for endometrial carcinoma. Its limitation is that it is **BLIND — FOCAL lesions (polyps, focal hyperplasia, submucous fibroids) can be MISSED**, so persistent bleeding after a negative Pipelle demands **HYSTEROSCOPY**.
 
-**UNDERSTAND:** A Pipelle samples only **a fraction of the cavity's surface**, so it performs excellently for **DIFFUSE processes (endometrial carcinoma is usually global by the time it bleeds)** and poorly for **focal ones**. That single distinction dictates the algorithm: **a positive result is trustworthy; a NEGATIVE result in a woman who keeps bleeding is not.** The same logic governs D&C — **a curette only knows what is inside the cavity**, so it cannot answer questions about endometriosis (outside), PID (tubal/peritoneal) or cervical cancer (diagnosed by colposcopy and cervical biopsy).
+**UNDERSTAND:** A Pipelle samples only **a fraction of the cavity’s surface**, so it performs excellently for **DIFFUSE processes (endometrial carcinoma is usually global by the time it bleeds)** and poorly for **focal ones**. That single distinction dictates the algorithm: **a positive result is trustworthy; a NEGATIVE result in a woman who keeps bleeding is not.** The same logic governs D&C — **a curette only knows what is inside the cavity**, so it cannot answer questions about endometriosis (outside), PID (tubal/peritoneal) or cervical cancer (diagnosed by colposcopy and cervical biopsy).
 
 **MUST KNOW:**
 
-- **Match the instrument to the sample: AYRE'S SPATULA — ectocervix/squamocolumnar junction for a Pap smear; CYTOBRUSH — endocervical canal; PIPELLE/Sharman curette — endometrium; HEGAR'S DILATORS then a SIMS/sharp curette — D&C; VOLSELLUM/tenaculum — to steady the cervix; UTERINE SOUND — cavity length and direction.**
+- **Match the instrument to the sample: AYRE’S SPATULA — ectocervix/squamocolumnar junction for a Pap smear; CYTOBRUSH — endocervical canal; PIPELLE/Sharman curette — endometrium; HEGAR’S DILATORS then a SIMS/sharp curette — D&C; VOLSELLUM/tenaculum — to steady the cervix; UTERINE SOUND — cavity length and direction.**
 - **FRACTIONAL CURETTAGE samples the ENDOCERVIX FIRST then the ENDOMETRIUM SEPARATELY — it tells you whether an endometrial carcinoma has involved the cervix, changing the stage and the surgery.**
-- **HYSTEROSCOPY is the gold standard for the cavity because it is a DIRECT-VISION, TARGETED biopsy** — indicated for a negative or insufficient blind sample with continued bleeding, suspected polyps or submucous fibroids, and Asherman's syndrome. **It has largely replaced blind D&C**, which samples less than half the cavity.
+- **HYSTEROSCOPY is the gold standard for the cavity because it is a DIRECT-VISION, TARGETED biopsy** — indicated for a negative or insufficient blind sample with continued bleeding, suspected polyps or submucous fibroids, and Asherman’s syndrome. **It has largely replaced blind D&C**, which samples less than half the cavity.
 - **Indications for endometrial sampling: POSTMENOPAUSAL BLEEDING (mandatory), AUB over age 40–45, younger women with risk factors (obesity, PCOS, anovulation, tamoxifen, Lynch syndrome), endometrial thickness >4 mm after the menopause, atypical glandular cells on a Pap smear, and infertility work-up for TUBERCULOUS ENDOMETRITIS (a PREMENSTRUAL sample).**
 - **D&C therapeutic uses: evacuation of incomplete/missed abortion, MTP, endometrial polyps, retained products, and molar evacuation (by SUCTION, not sharp curettage).**
 - **Complications: UTERINE PERFORATION (commonest — highest in the retroverted uterus and in pregnancy), cervical laceration, haemorrhage, infection, and ASHERMAN SYNDROME.** **Contraindications: pregnancy and acute pelvic infection.**
 
-**EXAM CONNECTION:** Image of a thin flexible cannula → **endometrial sampling**. An instrument-image question followed by "which other condition is this done for" — pick the one **inside the uterine cavity**.
+**EXAM CONNECTION:** Image of a thin flexible cannula → **endometrial sampling**. An instrument-image question followed by “which other condition is this done for” — pick the one **inside the uterine cavity**.
 
 **REMEMBER:** *A Pipelle that finds cancer is right; a Pipelle that finds nothing in a woman still bleeding proves nothing. A curette only knows what is inside the cavity.*
 
@@ -3800,10 +3800,10 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 - **Immediate complications: haemorrhage, severe pain and shock, urinary retention, infection, TETANUS, HIV and hepatitis transmission from shared instruments, and death.**
 - **Long-term: chronic pain and dyspareunia, KELOID and DERMOID INCLUSION CYSTS, urinary and menstrual obstruction, recurrent UTI, infertility, sexual dysfunction, PTSD and depression.**
 - **Obstetric: prolonged and obstructed second stage, extensive perineal tears, PPH, fistula, higher caesarean rates, increased perinatal death. DEFIBULATION (anterior midline incision) is performed ideally ANTENATALLY in the second trimester, or in labour; RE-INFIBULATION AFTER DELIVERY IS UNETHICAL AND ILLEGAL.**
-- **It has NO health benefits, is a violation of human rights, is usually performed on girls between infancy and 15 years, and is illegal in most countries. Health workers must never perform it — "medicalisation" is explicitly condemned by WHO.**
-- **The term "female circumcision" is inaccurate and should be avoided.**
+- **It has NO health benefits, is a violation of human rights, is usually performed on girls between infancy and 15 years, and is illegal in most countries. Health workers must never perform it — “medicalisation” is explicitly condemned by WHO.**
+- **The term “female circumcision” is inaccurate and should be avoided.**
 
-**EXAM CONNECTION:** "Infibulation is which type" → **Type III**.
+**EXAM CONNECTION:** “Infibulation is which type” → **Type III**.
 
 **REMEMBER:** *Type three seals the opening — that is what makes it the one that obstructs labour.*
 
@@ -3813,15 +3813,15 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 ### 155. The MTP Act (as amended, 2021)
 
-**PEARL:** **Up to 20 WEEKS — ONE registered medical practitioner's opinion. 20 to 24 WEEKS — TWO practitioners' opinions, and ONLY for SPECIFIED CATEGORIES (survivors of rape/incest, minors, women with a change in marital status during pregnancy, women with disability, mentally ill women, fetal malformation, humanitarian/disaster settings). BEYOND 24 WEEKS — only for SUBSTANTIAL FETAL ABNORMALITY, on the approval of a STATE MEDICAL BOARD.** **FAILURE OF CONTRACEPTION is a valid indication ONLY UP TO 20 WEEKS** — and it now applies to **any woman and her partner**, not only married couples.
+**PEARL:** **Up to 20 WEEKS — ONE registered medical practitioner’s opinion. 20 to 24 WEEKS — TWO practitioners’ opinions, and ONLY for SPECIFIED CATEGORIES (survivors of rape/incest, minors, women with a change in marital status during pregnancy, women with disability, mentally ill women, fetal malformation, humanitarian/disaster settings). BEYOND 24 WEEKS — only for SUBSTANTIAL FETAL ABNORMALITY, on the approval of a STATE MEDICAL BOARD.** **FAILURE OF CONTRACEPTION is a valid indication ONLY UP TO 20 WEEKS** — and it now applies to **any woman and her partner**, not only married couples.
 
-**UNDERSTAND:** The gestational thresholds track **fetal viability and procedural risk**, while the "specified categories" exist because the 2021 amendment was designed to **extend access to women whose circumstances change late or who discover problems late**, without opening a general late-termination provision. That is exactly why **contraceptive failure — a circumstance known from the outset — did NOT get the extended limit.**
+**UNDERSTAND:** The gestational thresholds track **fetal viability and procedural risk**, while the “specified categories” exist because the 2021 amendment was designed to **extend access to women whose circumstances change late or who discover problems late**, without opening a general late-termination provision. That is exactly why **contraceptive failure — a circumstance known from the outset — did NOT get the extended limit.**
 
 **MUST KNOW:**
 
-- **CONSENT: the WOMAN'S OWN written consent alone is sufficient — THE HUSBAND'S CONSENT IS NOT REQUIRED. For a MINOR (<18) or a MENTALLY ILL/unsound woman, the written consent of the GUARDIAN is required.** **Confidentiality is statutory** — revealing her name or particulars, except to a person authorised by law, is a punishable offence.
-- **In a MINOR, the POCSO Act mandates reporting of sexual offences**, though the identity may be withheld from the police report at the woman's request under the amended rules.
-- **Grounds: risk to the woman's LIFE, risk of grave injury to her PHYSICAL OR MENTAL HEALTH, SUBSTANTIAL FETAL ABNORMALITY, pregnancy from RAPE (presumed to cause grave mental injury), and CONTRACEPTIVE FAILURE.**
+- **CONSENT: the WOMAN’S OWN written consent alone is sufficient — THE HUSBAND’S CONSENT IS NOT REQUIRED. For a MINOR (<18) or a MENTALLY ILL/unsound woman, the written consent of the GUARDIAN is required.** **Confidentiality is statutory** — revealing her name or particulars, except to a person authorised by law, is a punishable offence.
+- **In a MINOR, the POCSO Act mandates reporting of sexual offences**, though the identity may be withheld from the police report at the woman’s request under the amended rules.
+- **Grounds: risk to the woman’s LIFE, risk of grave injury to her PHYSICAL OR MENTAL HEALTH, SUBSTANTIAL FETAL ABNORMALITY, pregnancy from RAPE (presumed to cause grave mental injury), and CONTRACEPTIVE FAILURE.**
 - **Methods: FIRST TRIMESTER — MEDICAL (MIFEPRISTONE 200 mg then MISOPROSTOL 24–48 hours later, approved up to 9 weeks in India) or SURGICAL (manual/electric VACUUM ASPIRATION, or D&E). SECOND TRIMESTER — mifepristone plus misoprostol, D&E, or (historically) extra-amniotic ETHACRIDINE LACTATE and intra-amniotic hypertonic saline.**
 - **The procedure must be done in an APPROVED facility by a registered practitioner with prescribed training; contraception must be offered afterwards, and ANTI-D given to Rh-negative women.**
 - **The PCPNDT ACT is separate and prohibits SEX DETERMINATION — do not confuse the two laws.**
@@ -3856,6 +3856,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 [^5]: **International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome (2023)**, Monash University with ESHRE and ASRM — serum AMH as an alternative to ultrasound for polycystic ovarian morphology in adults; neither test required when irregular cycles and hyperandrogenism coexist; neither recommended in adolescents. <https://academic.oup.com/humrep/article/38/9/1655/7241786>
 
-[^6]: **WHO guideline for screening and treatment of cervical pre-cancer lesions for cervical cancer prevention, 2nd edition** (HPV DNA detection as the preferred primary screening test); India's NP-NCD operational guidance (VIA every 5 years, ages 30–65); and the **introduction of a single-dose HPV vaccine for 14-year-old girls into India's Universal Immunisation Programme, February 2026** (Press Information Bureau, Ministry of Health and Family Welfare). <https://www.who.int/publications/i/item/9789240030824>
+[^6]: **WHO guideline for screening and treatment of cervical pre-cancer lesions for cervical cancer prevention, 2nd edition** (HPV DNA detection as the preferred primary screening test); India’s NP-NCD operational guidance (VIA every 5 years, ages 30–65); and the **introduction of a single-dose HPV vaccine for 14-year-old girls into India’s Universal Immunisation Programme, February 2026** (Press Information Bureau, Ministry of Health and Family Welfare). <https://www.who.int/publications/i/item/9789240030824>
 
-[^7]: **The Medical Termination of Pregnancy (Amendment) Act, 2021 and the MTP (Amendment) Rules, 2021** — one practitioner's opinion up to 20 weeks, two from 20 to 24 weeks for the specified categories, and a State Medical Board beyond 24 weeks for substantial foetal abnormality; contraceptive failure extended to any woman and her partner. <https://www.indiacode.nic.in/handle/123456789/2320>
+[^7]: **The Medical Termination of Pregnancy (Amendment) Act, 2021 and the MTP (Amendment) Rules, 2021** — one practitioner’s opinion up to 20 weeks, two from 20 to 24 weeks for the specified categories, and a State Medical Board beyond 24 weeks for substantial foetal abnormality; contraceptive failure extended to any woman and her partner. <https://www.indiacode.nic.in/handle/123456789/2320>

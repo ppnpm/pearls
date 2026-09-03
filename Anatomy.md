@@ -32,7 +32,7 @@
 - **Parotid = pure serous · Submandibular = mixed (serous predominant) · Sublingual = mixed (mucous predominant)**.
 - Pancreatic excretory duct = **simple columnar**; parotid excretory duct = **striated/stratified columnar**.
 
-**EXAM CONNECTION:** "Feature differentiating exocrine pancreas from parotid" → **absence of striated ducts**. The commonest alternative answer is **centroacinar cells present**.
+**EXAM CONNECTION:** “Feature differentiating exocrine pancreas from parotid” → **absence of striated ducts**. The commonest alternative answer is **centroacinar cells present**.
 
 **REMEMBER:** *Saliva needs modifying (striated ducts); pancreatic juice does not.*
 
@@ -48,7 +48,7 @@
 
 **MUST KNOW:**
 
-- Distinguishing the three on a slide: **tonsil — surface squamous epithelium + crypts, no capsule beneath (only a hemicapsule)**; **thymus — lobules, cortex + medulla, HASSALL'S CORPUSCLES**; **lymph node — complete capsule + subcapsular sinus + hilum**; **spleen — white pulp around a central arteriole in a sea of red pulp**.
+- Distinguishing the three on a slide: **tonsil — surface squamous epithelium + crypts, no capsule beneath (only a hemicapsule)**; **thymus — lobules, cortex + medulla, HASSALL’S CORPUSCLES**; **lymph node — complete capsule + subcapsular sinus + hilum**; **spleen — white pulp around a central arteriole in a sea of red pulp**.
 
 - ![figure](images/2026-08-17-09-10-13-Tonsil---Palatine-tonsil-high-power-3-scaled-1852572992.jpg)
 
@@ -58,15 +58,15 @@
 
 - ![figure](images/2026-08-17-09-09-24-block3_18-2619484696.jpg)
 
-- The tonsil has **efferent lymphatics only, no afferents** (unlike a lymph node) — it drains to the **jugulodigastric node**, the "tonsillar node".
+- The tonsil has **efferent lymphatics only, no afferents** (unlike a lymph node) — it drains to the **jugulodigastric node**, the “tonsillar node”.
 
 - Main arterial supply = **tonsillar branch of the facial artery**; the vessel behind reactionary haemorrhage after tonsillectomy is the **paratonsillar vein**.
 
-- **Waldeyer's ring:** pharyngeal (adenoid), tubal, palatine and lingual tonsils.
+- **Waldeyer’s ring:** pharyngeal (adenoid), tubal, palatine and lingual tonsils.
 
 **EXAM CONNECTION:** A slide with squamous epithelium **plus** lymphoid follicles → tonsil. If squamous epithelium is absent, it is a node.
 
-**REMEMBER:** *Squamous epithelium + crypts = tonsil; Hassall's corpuscles = thymus; capsule + sinus = lymph node.*
+**REMEMBER:** *Squamous epithelium + crypts = tonsil; Hassall’s corpuscles = thymus; capsule + sinus = lymph node.*
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/06df04378e8941ad80566a7bbdb4083c.JPEG)
@@ -90,10 +90,10 @@
 
 - **Primary (non-motile) cilium: 9+0**, a sensory antenna — its dysfunction causes the **ciliopathies** (polycystic kidney disease, Bardet–Biedl, Meckel–Gruber, nephronophthisis).
 - **Kartagener syndrome (primary ciliary dyskinesia)** — dynein arm defect → **bronchiectasis, sinusitis, situs inversus** and **infertility** (immotile sperm flagella and non-functioning tubal cilia) → high risk of **ectopic pregnancy**.
-- The **hair cells of the inner ear** have "stereocilia" too — same name, also actin-based and non-motile, but mechanosensory.
+- The **hair cells of the inner ear** have “stereocilia” too — same name, also actin-based and non-motile, but mechanosensory.
 - Cilia in the fallopian tube are **oestrogen-dependent** and beat toward the uterus, moving the ovum.
 
-**EXAM CONNECTION:** "Structures in the image are found at all these sites EXCEPT" → **epididymis**.
+**EXAM CONNECTION:** “Structures in the image are found at all these sites EXCEPT” → **epididymis**.
 
 **REMEMBER:** *Epididymis has stereocilia — actin, non-motile, absorptive; not cilia.*
 
@@ -109,16 +109,16 @@
 
 **PEARL:** The **SUBMUCOSA** is the strongest layer of the oesophagus and of the bowel generally — it is the layer that **holds sutures** in any anastomosis.
 
-**UNDERSTAND:** Strength comes from **dense collagen and elastic fibres**; muscle and mucosa tear through. A "**seromuscular**" suture that misses the submucosa will cut out — which is why every reliable bowel anastomosis must include it.
+**UNDERSTAND:** Strength comes from **dense collagen and elastic fibres**; muscle and mucosa tear through. A “**seromuscular**” suture that misses the submucosa will cut out — which is why every reliable bowel anastomosis must include it.
 
 **MUST KNOW:**
 
 - **The oesophagus has NO SEROSA** (only adventitia, except the short intra-abdominal part) — this is why **oesophageal anastomoses leak more** than other GI anastomoses and why oesophageal cancer spreads early.
-- The submucosa also carries the **submucosal (Meissner's) plexus**, and the **arterial and venous plexuses** — hence brisk bleeding from ulcers eroding into it (and why the **oesophageal varices are submucosal**).
-- **Auerbach's (myenteric) plexus** lies between the circular and longitudinal muscle layers; both plexuses are absent in **Hirschsprung's disease**.
+- The submucosa also carries the **submucosal (Meissner’s) plexus**, and the **arterial and venous plexuses** — hence brisk bleeding from ulcers eroding into it (and why the **oesophageal varices are submucosal**).
+- **Auerbach’s (myenteric) plexus** lies between the circular and longitudinal muscle layers; both plexuses are absent in **Hirschsprung’s disease**.
 - Practical corollary: **single-layer extramucosal interrupted anastomosis** is now standard, deliberately catching submucosa while excluding mucosa.
 
-**EXAM CONNECTION:** Direct recall; also asked as "why do oesophageal anastomoses leak?" → no serosa.
+**EXAM CONNECTION:** Direct recall; also asked as “why do oesophageal anastomoses leak?” → no serosa.
 
 **REMEMBER:** *Submucosa holds the stitch; the oesophagus has no serosa, so it leaks.*
 
@@ -138,12 +138,12 @@
 **MUST KNOW:**
 
 - **Woven bone is NORMAL only in the fetus and in fracture callus.** In an adult, woven bone in an unexpected place is **pathological**.
-- Found in: **fracture callus, Paget's disease, fibrous dysplasia, osteogenesis imperfecta, hyperparathyroidism (brown tumour), and OSTEOSARCOMA** (malignant osteoid).
-- **Paget's disease** — the pathognomonic **"mosaic/jigsaw" pattern of cement lines** from alternating resorption and disordered woven-bone formation; **raised ALP with normal calcium and phosphate**.
+- Found in: **fracture callus, Paget’s disease, fibrous dysplasia, osteogenesis imperfecta, hyperparathyroidism (brown tumour), and OSTEOSARCOMA** (malignant osteoid).
+- **Paget’s disease** — the pathognomonic **“mosaic/jigsaw” pattern of cement lines** from alternating resorption and disordered woven-bone formation; **raised ALP with normal calcium and phosphate**.
 - Woven bone is **remodelled into lamellar bone** over months — the basis of fracture remodelling in children.
 - Under **polarised light**, woven bone looks disorganised, lamellar bone shows regular birefringent lamellae.
 
-**EXAM CONNECTION:** "Most characteristic feature of woven/immature bone" → **random collagen orientation** (Haversian system is the lamellar-bone distractor).
+**EXAM CONNECTION:** “Most characteristic feature of woven/immature bone” → **random collagen orientation** (Haversian system is the lamellar-bone distractor).
 
 **REMEMBER:** *Woven = fast, random, weak — normal only in the fetus and in callus.*
 
@@ -166,7 +166,7 @@
 - **Krause end bulbs** — mucocutaneous junctions; **Merkel cells** are the origin of the aggressive **Merkel cell carcinoma** (Merkel cell polyomavirus).
 - All these signals travel in the **dorsal column–medial lemniscus** pathway.
 
-**EXAM CONNECTION:** "Meissner corpuscles are present in" → **papillary dermis** (basal epidermis is where **Merkel cells** are — the intended trap).
+**EXAM CONNECTION:** “Meissner corpuscles are present in” → **papillary dermis** (basal epidermis is where **Merkel cells** are — the intended trap).
 
 **REMEMBER:** *Meissner is shallow and fine; Pacinian is deep and buzzy.*
 
@@ -190,17 +190,17 @@
 - **In the hand, the capitate and hamate ossify first (2–3 months)**, and the **pisiform is last (~9–12 years)** — the basis of the **bone age** assessment (Greulich–Pyle atlas).
 - **Delayed appearance of ossification centres** → **congenital hypothyroidism** (a screening clue), rickets, achondroplasia.
 
-**EXAM CONNECTION:** Asked in Anatomy as "when does the talus ossification centre appear" and in Forensic Medicine as "which centres indicate a viable fetus".
+**EXAM CONNECTION:** Asked in Anatomy as “when does the talus ossification centre appear” and in Forensic Medicine as “which centres indicate a viable fetus”.
 
-**REMEMBER:** *At birth: femur lower end, tibia upper end, calcaneus, talus, cuboid — the "term baby" set.*
+**REMEMBER:** *At birth: femur lower end, tibia upper end, calcaneus, talus, cuboid — the “term baby” set.*
 
 `Q11645`
 
 ---
 
-### 8. Hilton's Law
+### 8. Hilton’s Law
 
-**PEARL:** **Hilton's law:** the **nerve supplying a joint also supplies the muscles that move that joint AND the skin overlying their insertions**.
+**PEARL:** **Hilton’s law:** the **nerve supplying a joint also supplies the muscles that move that joint AND the skin overlying their insertions**.
 
 **UNDERSTAND:** This is a developmental consequence, not a coincidence — joint capsule, the muscles that act across it and the overlying dermatome all arise from the **same somite level**, so they carry the same segmental innervation. Clinically it explains **referred pain**: an inflamed joint produces pain felt in the skin over the distal insertion of its muscles, and a protective **reflex spasm** in exactly the muscles that would move it.
 
@@ -209,9 +209,9 @@
 - Classic example: the **hip joint** is supplied by **femoral, obturator and sciatic** nerves — the **obturator branch is why hip pathology (Perthes, slipped capital femoral epiphysis, septic arthritis) presents as KNEE pain**, since the obturator nerve also supplies the knee. Always **examine the hip in a child complaining of knee pain**.
 - The **elbow** is supplied by musculocutaneous, median, ulnar and radial nerves; the **shoulder** by axillary, suprascapular and lateral pectoral; the **knee** by femoral, obturator, tibial and common peroneal.
 - Corollaries: joint distension causes reflex inhibition of the surrounding muscles (quadriceps wasting in knee effusion), and intra-articular anaesthetic relieves pain referred to the skin.
-- Related eponymous principles worth keeping separate: **Wolff's law** (bone remodels along lines of stress), **Head's law** (visceral pain referred to the somatic dermatome sharing the spinal segment), **Davis's law** (soft tissue remodels along imposed demands).
+- Related eponymous principles worth keeping separate: **Wolff’s law** (bone remodels along lines of stress), **Head’s law** (visceral pain referred to the somatic dermatome sharing the spinal segment), **Davis’s law** (soft tissue remodels along imposed demands).
 
-**EXAM CONNECTION:** Either a direct definition question, or the applied version — "a child with knee pain and a normal knee examination" → the answer lies in the **hip**.
+**EXAM CONNECTION:** Either a direct definition question, or the applied version — “a child with knee pain and a normal knee examination” → the answer lies in the **hip**.
 
 **REMEMBER:** *One nerve for the joint, its movers, and the skin over them — so hip pain shows up at the knee.*
 
@@ -234,9 +234,9 @@
 - **Adductor magnus:** **adductor part — obturator nerve; hamstring (ischiocondylar) part — tibial division of the sciatic**.
 - **Pectineus:** femoral, sometimes with an accessory obturator supply.
 - **Sternocleidomastoid and trapezius** have a **motor supply from the spinal accessory nerve and proprioceptive fibres from C2–C4** — sometimes counted here.
-- **Median nerve in the carpal tunnel:** compression causes loss of **thumb OPPOSITION** (opponens pollicis) with **abductor pollicis brevis** weakness — thenar wasting, sensory loss over the lateral 3½ digits with **sparing of the palm** (the palmar cutaneous branch passes superficial to the retinaculum). **Adduction of the thumb (adductor pollicis) and flexion of the distal phalanx (FPL) can be preserved or ulnar-supplied**, which is why "cannot oppose" is the answer.
+- **Median nerve in the carpal tunnel:** compression causes loss of **thumb OPPOSITION** (opponens pollicis) with **abductor pollicis brevis** weakness — thenar wasting, sensory loss over the lateral 3½ digits with **sparing of the palm** (the palmar cutaneous branch passes superficial to the retinaculum). **Adduction of the thumb (adductor pollicis) and flexion of the distal phalanx (FPL) can be preserved or ulnar-supplied**, which is why “cannot oppose” is the answer.
 
-**EXAM CONNECTION:** "Which is NOT a hybrid muscle" — the trap is any muscle with **two bellies** (omohyoid, occipitofrontalis) that nonetheless has a **single nerve**.
+**EXAM CONNECTION:** “Which is NOT a hybrid muscle” — the trap is any muscle with **two bellies** (omohyoid, occipitofrontalis) that nonetheless has a **single nerve**.
 
 **REMEMBER:** *Two nerves, not two bellies — the omohyoid only looks the part.*
 
@@ -290,7 +290,7 @@
 - **Type VII** = anchoring fibrils → targeted in **dystrophic epidermolysis bullosa**.
 - Disease links: **Osteogenesis imperfecta = type I** defect; **Alport syndrome = type IV** (α5 chain); **Goodpasture = anti-type IV (α3, NC1 domain)**.
 
-**EXAM CONNECTION:** Two mirror-image stems appear: "Type I collagen is **NOT** seen in ___" → **elastic cartilage**; and "Type I collagen **IS** present in which cartilage" → **fibrocartilage**. Both hinge on the same fact.
+**EXAM CONNECTION:** Two mirror-image stems appear: “Type I collagen is **NOT** seen in ___” → **elastic cartilage**; and “Type I collagen **IS** present in which cartilage” → **fibrocartilage**. Both hinge on the same fact.
 
 **REMEMBER:** *One is bone, two is cartilage, three is reticular, four is the floor.*
 
@@ -306,17 +306,17 @@
 
 **PEARL:** The **space of Disse (perisinusoidal space)** lies **between the hepatocyte and the sinusoidal endothelium**. **Kupffer cells are NOT in it** — they sit **within the sinusoidal lining**.
 
-**UNDERSTAND:** The sinusoidal endothelium is **fenestrated and lacks a basement membrane**, so plasma filters freely into Disse's space and bathes the hepatocyte microvilli directly. That direct plasma-to-hepatocyte contact is the whole point — it is what lets the liver clear and synthesise plasma proteins so efficiently.
+**UNDERSTAND:** The sinusoidal endothelium is **fenestrated and lacks a basement membrane**, so plasma filters freely into Disse’s space and bathes the hepatocyte microvilli directly. That direct plasma-to-hepatocyte contact is the whole point — it is what lets the liver clear and synthesise plasma proteins so efficiently.
 
 **MUST KNOW:**
 
 - **Contents:** blood plasma, **hepatocyte microvilli**, **hepatic stellate (Ito) cells**, reticular fibres, and some fat cells.
 - **Ito cells store vitamin A**; on activation they transform into **myofibroblasts** and lay down collagen — the **central event in hepatic fibrosis and cirrhosis**.
 - **Kupffer cells** = stellate macrophages of the mononuclear phagocyte system, **intraluminal**, adherent to the endothelium.
-- **Capillarisation of the sinusoids** (loss of fenestrae + new basement membrane) in cirrhosis blocks exchange across Disse's space.
+- **Capillarisation of the sinusoids** (loss of fenestrae + new basement membrane) in cirrhosis blocks exchange across Disse’s space.
 - Lymph of the liver originates in the space of Disse — hence the **protein-rich ascites** of hepatic outflow obstruction.
 
-**EXAM CONNECTION:** "Space of Disse contains all EXCEPT" → **Kupffer cells**. Microvilli, plasma and fat cells are all genuinely present, which is what makes the question work.
+**EXAM CONNECTION:** “Space of Disse contains all EXCEPT” → **Kupffer cells**. Microvilli, plasma and fat cells are all genuinely present, which is what makes the question work.
 
 **REMEMBER:** *Disse is the moat around the hepatocyte; Kupffer patrols the river, not the moat.*
 
@@ -340,7 +340,7 @@
 - Its distribution defines the field at risk in **urothelial (transitional cell) carcinoma** — hence field change and multifocal tumours from calyx to prostatic urethra; this is why smokers with haematuria need imaging of the **whole tract**.
 - **Schistosoma haematobium** causes **squamous** cell carcinoma of the bladder — squamous metaplasia overriding the native urothelium.
 
-**EXAM CONNECTION:** "Transitional epithelium lines all EXCEPT" → **membranous urethra**. The minor calyx is the distractor most often wrongly picked — it *is* lined by urothelium.
+**EXAM CONNECTION:** “Transitional epithelium lines all EXCEPT” → **membranous urethra**. The minor calyx is the distractor most often wrongly picked — it *is* lined by urothelium.
 
 **REMEMBER:** *Urothelium runs calyx to prostate, then quits.*
 
@@ -361,7 +361,7 @@
 
 ---
 
-*Cross-references: Horner syndrome, corneal reflex, and eye dimensions also relate to the Ophthalmology file; Kanavel's sign and prostate volume to Surgery.*
+*Cross-references: Horner syndrome, corneal reflex, and eye dimensions also relate to the Ophthalmology file; Kanavel’s sign and prostate volume to Surgery.*
 
 ---
 
@@ -385,7 +385,7 @@
 
 - **Unequal** conotruncal division → **Tetralogy of Fallot**; **non-spiral** division → **transposition of the great arteries**; **absent** division → **persistent truncus arteriosus**.
 
-**EXAM CONNECTION:** A model/diagram of the looping heart tube with a segment marked → asked for the derivative. "Infundibulum" is the give-away for conus cordis.
+**EXAM CONNECTION:** A model/diagram of the looping heart tube with a segment marked → asked for the derivative. “Infundibulum” is the give-away for conus cordis.
 
 **REMEMBER:** *Bulbus cordis, top to bottom: right ventricle → both outflows → great vessel roots.*
 
@@ -399,19 +399,19 @@
 
 ### 16. Wolffian vs Müllerian Remnants in the Male
 
-**PEARL:** In the male, only **two structures survive from the paramesonephric (Müllerian) duct: the appendix of testis and the prostatic utricle.** Everything else on the usual list — trigone, proximal prostatic urethra, spermatic pathway, appendix of epididymis (and **Gartner's duct** in the female) — is **Wolffian (mesonephric)**.
+**PEARL:** In the male, only **two structures survive from the paramesonephric (Müllerian) duct: the appendix of testis and the prostatic utricle.** Everything else on the usual list — trigone, proximal prostatic urethra, spermatic pathway, appendix of epididymis (and **Gartner’s duct** in the female) — is **Wolffian (mesonephric)**.
 
 **UNDERSTAND:** Sertoli cells secrete **anti-Müllerian hormone (AMH)**, which regresses the Müllerian ducts; Leydig cell **testosterone** maintains the Wolffian ducts. Two hormones, two independent systems — which is why the failures are dissociable.
 
 **MUST KNOW:**
 
-- **Wolffian derivatives (male) — "SEED":** **S**eminal vesicle, **E**jaculatory duct, **E**pididymis, **D**uctus deferens (+ ureteric bud and trigone).
+- **Wolffian derivatives (male) — “SEED”:** **S**eminal vesicle, **E**jaculatory duct, **E**pididymis, **D**uctus deferens (+ ureteric bud and trigone).
 - **Müllerian derivatives (female):** fallopian tubes, uterus, cervix, **upper 1/3 of vagina**. The lower vagina is from the urogenital sinus.
 - **Persistent Müllerian duct syndrome** = AMH or AMH-receptor defect: a normally virilised male with a uterus and tubes.
 - **Androgen insensitivity syndrome**: AMH works (no uterus) but testosterone cannot (no Wolffian structures, female external genitalia) — a **blind-ending vagina**.
 - The **prostatic utricle** is the male homologue of the vagina/uterus — it opens on the **seminal colliculus (verumontanum)**.
 
-**EXAM CONNECTION:** "All arise from the Wolffian duct EXCEPT" → **prostatic utricle**.
+**EXAM CONNECTION:** “All arise from the Wolffian duct EXCEPT” → **prostatic utricle**.
 
 **REMEMBER:** *In the male, only the appendix of testis and the prostatic utricle are Müllerian leftovers.*
 
@@ -438,7 +438,7 @@
 - Anencephaly is associated with **polyhydramnios** (no swallowing centre).
 - **Craniorachischisis** = total failure of closure — the most severe form.
 
-**EXAM CONNECTION:** Asked as "adult representation of the anterior neuropore" → **lamina terminalis** (the anterior wall of the 3rd ventricle).
+**EXAM CONNECTION:** Asked as “adult representation of the anterior neuropore” → **lamina terminalis** (the anterior wall of the 3rd ventricle).
 
 **REMEMBER:** *Anterior closes day 25 (anencephaly), posterior day 28 (spina bifida) — folate before conception.*
 
@@ -459,12 +459,12 @@
 
 **MUST KNOW:**
 
-- Imaging: **enlarged posterior fossa with a high tentorium ("torcular-lambdoid inversion")**, cystic 4th ventricle, absent vermis.
+- Imaging: **enlarged posterior fossa with a high tentorium (“torcular-lambdoid inversion”)**, cystic 4th ventricle, absent vermis.
 - Associated: **agenesis of the corpus callosum (splenium)**, and **90% develop hydrocephalus**.
 - **Contrast — Arnold–Chiari II:** the opposite geometry, a **SMALL posterior fossa** with **downward herniation of the cerebellar vermis and medulla** through the foramen magnum; almost always with **meningomyelocele** and hydrocephalus.
 - **Chiari I** = tonsillar descent >5 mm only, presents in adults with cough headache and **syringomyelia**.
 
-**EXAM CONNECTION:** Neonate with respiratory distress/seizures + CT showing cystic 4th ventricle → Dandy–Walker. The examiner's alternative is always Arnold–Chiari.
+**EXAM CONNECTION:** Neonate with respiratory distress/seizures + CT showing cystic 4th ventricle → Dandy–Walker. The examiner’s alternative is always Arnold–Chiari.
 
 **REMEMBER:** *Dandy–Walker: big posterior fossa, missing vermis, blocked exits. Chiari: small posterior fossa, everything pushed down.*
 
@@ -477,18 +477,18 @@
 
 ### 19. Pituitary — Dual Origin
 
-**PEARL:** **Adenohypophysis (anterior) develops from SURFACE ECTODERM** — Rathke's pouch, an upgrowth from the roof of the stomatodeum. **Neurohypophysis (posterior) develops from NEUROECTODERM** — a downgrowth of the diencephalon.
+**PEARL:** **Adenohypophysis (anterior) develops from SURFACE ECTODERM** — Rathke’s pouch, an upgrowth from the roof of the stomatodeum. **Neurohypophysis (posterior) develops from NEUROECTODERM** — a downgrowth of the diencephalon.
 
 **UNDERSTAND:** Two tissues of different origin meet and fuse. That explains everything downstream: the anterior lobe **makes** its own hormones (it is glandular epithelium), while the posterior lobe only **stores and releases** hormones made in the hypothalamus (it is neural tissue, just axon terminals).
 
 **MUST KNOW:**
 
-- The **posterior wall of Rathke's pouch → pars intermedia**; the anterior wall's upward extension → **pars tuberalis**.
-- Remnants of Rathke's pouch give **craniopharyngioma** — suprasellar, **calcified**, in children, with **bitemporal hemianopia** (classically lower quadrants first) and growth failure. Histology: "**machinery oil**" cyst fluid, wet keratin.
+- The **posterior wall of Rathke’s pouch → pars intermedia**; the anterior wall’s upward extension → **pars tuberalis**.
+- Remnants of Rathke’s pouch give **craniopharyngioma** — suprasellar, **calcified**, in children, with **bitemporal hemianopia** (classically lower quadrants first) and growth failure. Histology: “**machinery oil**” cyst fluid, wet keratin.
 - The anterior pituitary has **no direct arterial supply of consequence** — it is fed by the **hypothalamo-hypophyseal PORTAL system**, which is why it is uniquely vulnerable to ischaemia in **Sheehan syndrome**.
 - The **posterior pituitary bright spot on T1 MRI** is stored vasopressin — **its absence indicates central diabetes insipidus**.
 
-**EXAM CONNECTION:** "Hypophysis cerebri arises from" → **surface ectoderm + neuroectoderm**.
+**EXAM CONNECTION:** “Hypophysis cerebri arises from” → **surface ectoderm + neuroectoderm**.
 
 **REMEMBER:** *Front from the mouth (makes hormones); back from the brain (stores them).*
 
@@ -508,11 +508,11 @@
 **MUST KNOW:**
 
 - The **corpus callosum grows front to back — genu → body → splenium** — but **myelinates back to front**. This is why in **partial agenesis, the SPLENIUM is missing** (it is formed last), and why the rostrum is affected in some patterns.
-- **Agenesis of the corpus callosum:** "**colpocephaly**" (dilated occipital horns) and a **racing-car sign**; associated with **Dandy–Walker, Chiari II, Aicardi syndrome**.
+- **Agenesis of the corpus callosum:** “**colpocephaly**” (dilated occipital horns) and a **racing-car sign**; associated with **Dandy–Walker, Chiari II, Aicardi syndrome**.
 - The **septum pellucidum** is the part of the lamina terminalis stretched between the corpus callosum and fornix — **absent septum pellucidum** suggests **septo-optic dysplasia (de Morsier)**.
 - **Splenium of the corpus callosum** is a classic site for **Marchiafava–Bignami disease** (alcoholics) and for **cytotoxic lesions in mild encephalopathy (MERS)**.
 
-**EXAM CONNECTION:** "First commissure to develop" → anterior commissure. Also: "commissures at the lamina terminalis" → anterior + hippocampal + corpus callosum.
+**EXAM CONNECTION:** “First commissure to develop” → anterior commissure. Also: “commissures at the lamina terminalis” → anterior + hippocampal + corpus callosum.
 
 **REMEMBER:** *Anterior commissure first, corpus callosum last — and the splenium is the last part of the last.*
 
@@ -527,17 +527,17 @@
 
 **PEARL:** The 1st (mandibular) arch, nerve **V3**, gives the **muscles of mastication + mylohyoid, anterior belly of digastric, TENSOR TYMPANI and TENSOR VELI PALATINI**.
 
-**UNDERSTAND:** **"Tensor = Trigeminal."** Both tensors in the head belong to the first arch. **Levator veli palatini is 4th arch (vagus)** — the perennial "except" answer.
+**UNDERSTAND:** **“Tensor = Trigeminal.”** Both tensors in the head belong to the first arch. **Levator veli palatini is 4th arch (vagus)** — the perennial “except” answer.
 
 **MUST KNOW:**
 
 - **Arch → nerve:** 1st = **V3** · 2nd = **VII** · 3rd = **IX** · 4th & 6th = **X** (superior laryngeal and recurrent laryngeal respectively).
 - **2nd arch muscles:** muscles of **facial expression**, **stapedius**, **stylohyoid**, posterior belly of digastric.
 - **3rd arch:** stylopharyngeus only. **4th:** cricothyroid, levator veli palatini, pharyngeal constrictors. **6th:** all other intrinsic laryngeal muscles.
-- **Skeletal derivatives, 1st arch (Meckel's cartilage):** **malleus and incus**, mandible, sphenomandibular ligament. **2nd (Reichert's):** **stapes**, styloid process, lesser horn and upper body of hyoid.
+- **Skeletal derivatives, 1st arch (Meckel’s cartilage):** **malleus and incus**, mandible, sphenomandibular ligament. **2nd (Reichert’s):** **stapes**, styloid process, lesser horn and upper body of hyoid.
 - **Treacher Collins syndrome = 1st and 2nd arch defect** (malar hypoplasia, micrognathia, conductive deafness, coloboma).
 
-**EXAM CONNECTION:** "Least likely to arise from the 1st arch" → **levator veli palatini**.
+**EXAM CONNECTION:** “Least likely to arise from the 1st arch” → **levator veli palatini**.
 
 **REMEMBER:** *TENSOR = TRIGEMINAL; levator veli palatini is vagal.*
 
@@ -549,7 +549,7 @@
 
 **PEARL:** The oocyte arrests in **PROPHASE I from fetal life until ovulation** (up to ~50 years), then arrests again in **METAPHASE II**, and only **completes meiosis II after fertilisation**.
 
-**UNDERSTAND:** The first arrest is the price of the "all oocytes made before birth" strategy — a cell that sits with its chromosomes paired for decades accumulates errors in its spindle and cohesin proteins. Hence the striking maternal-age effect.
+**UNDERSTAND:** The first arrest is the price of the “all oocytes made before birth” strategy — a cell that sits with its chromosomes paired for decades accumulates errors in its spindle and cohesin proteins. Hence the striking maternal-age effect.
 
 **MUST KNOW:**
 
@@ -559,7 +559,7 @@
 - **Spermatogenesis has no arrest** — it runs continuously from puberty (~64–74 days per cycle), which is why **paternal age effects are point mutations (achondroplasia, Apert, Marfan)** rather than aneuploidy.
 - **Meiosis occurs in the ADULT ovary** — it does **not** occur in a prepubertal testis (spermatogenesis starts at puberty).
 
-**EXAM CONNECTION:** "Meiosis occurs in" → **adult ovary** (prepubertal testis is the trap).
+**EXAM CONNECTION:** “Meiosis occurs in” → **adult ovary** (prepubertal testis is the trap).
 
 **REMEMBER:** *Arrested at prophase I for decades, at metaphase II until fertilisation — the reason old eggs miscount chromosomes.*
 
@@ -578,7 +578,7 @@
 
 **MUST KNOW:**
 
-- Notochordal origin explains **CHORDOMA** — a slow-growing, locally aggressive midline tumour arising at the **clivus/spheno-occipital region** and the **sacrococcygeal region** (the two ends of the notochord). Histology: **physaliphorous ("bubble-bearing") cells**.
+- Notochordal origin explains **CHORDOMA** — a slow-growing, locally aggressive midline tumour arising at the **clivus/spheno-occipital region** and the **sacrococcygeal region** (the two ends of the notochord). Histology: **physaliphorous (“bubble-bearing”) cells**.
 - Disc herniation: the nucleus pulposus prolapses **postero-laterally**, where the **posterior longitudinal ligament is narrowest** — hence it usually compresses the **traversing (next lower) root**: an **L4–L5 disc typically causes L5 radiculopathy**.
 - **Vertebral body = sclerotome; the resegmentation of sclerotomes** (caudal half of one + cranial half of the next) is why each vertebra spans two segments and the segmental artery ends up on the body.
 - The disc is **avascular in adults** — it is nourished by diffusion through the vertebral end plates, which is why it heals poorly and degenerates.
@@ -609,10 +609,10 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 
 - **Somites appear from day 20 at ~3 pairs/day, reaching 42–44 pairs — used to age the embryo.** Sclerotome cells migrate around the notochord and neural tube; **resegmentation** (caudal half of one sclerotome fusing with the cranial half of the next) is what allows spinal nerves to emerge between vertebrae and muscles to span joints.
 - **Notochord derivative: NUCLEUS PULPOSUS**; persistence causes **chordoma** (clivus and sacrococcygeal).
-- **Neural crest — the "fourth germ layer": dorsal root and autonomic ganglia, Schwann cells, adrenal MEDULLA, melanocytes, enteric nervous system, aorticopulmonary septum, most of the skull and facial bones, odontoblasts, parafollicular C cells.** Neurocristopathies: **Hirschsprung disease, DiGeorge, neurofibromatosis, Waardenburg syndrome, phaeochromocytoma, neuroblastoma**.
+- **Neural crest — the “fourth germ layer”: dorsal root and autonomic ganglia, Schwann cells, adrenal MEDULLA, melanocytes, enteric nervous system, aorticopulmonary septum, most of the skull and facial bones, odontoblasts, parafollicular C cells.** Neurocristopathies: **Hirschsprung disease, DiGeorge, neurofibromatosis, Waardenburg syndrome, phaeochromocytoma, neuroblastoma**.
 - **Intermediate mesoderm: pronephros → mesonephros → metanephros (definitive kidney), gonads and their ducts.**
 - **Endoderm: gut epithelium, liver, pancreas, thyroid, parathyroids, thymus, tympanic cavity, bladder and urethral epithelium, lung epithelium.**
-- **Ectoderm: epidermis, CNS and PNS neurons, lens, inner ear, anterior pituitary (Rathke's pouch), enamel.**
+- **Ectoderm: epidermis, CNS and PNS neurons, lens, inner ear, anterior pituitary (Rathke’s pouch), enamel.**
 
 **EXAM CONNECTION:** An embryo image with a labelled mesodermal column. Ask **which column** — nearest the neural tube is paraxial (**bones and muscles**), the thin bridge is intermediate (**kidney**), the outer sheets are lateral plate (**serous membranes**).
 
@@ -644,7 +644,7 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 - Thumb and little finger have their **own** abductors, so dorsal interossei skip them.
 - All interossei are **ulnar nerve**; they flex the MCP and extend the IP joints — the mechanism of the **ulnar claw** when they fail.
 
-**EXAM CONNECTION:** Classic "all form the dorsal digital expansion of the middle finger EXCEPT" → the **palmar interosseous**.
+**EXAM CONNECTION:** Classic “all form the dorsal digital expansion of the middle finger EXCEPT” → the **palmar interosseous**.
 
 **REMEMBER:** *The middle finger is the axis — it cannot adduct toward itself, so no palmar interosseous.*
 
@@ -666,12 +666,12 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 
 **MUST KNOW:**
 
-- **From ROOTS:** dorsal scapular (C5), long thoracic (C5,6,7 — "**wing**s of C5-6-7"), and the phrenic contribution (C5).
+- **From ROOTS:** dorsal scapular (C5), long thoracic (C5,6,7 — “**wing**s of C5-6-7”), and the phrenic contribution (C5).
 - **From TRUNKS (upper only):** **suprascapular nerve** and nerve to subclavius.
 - **From CORDS:** all the terminal branches + lateral/medial pectoral, thoraco­dorsal, upper and lower subscapular, medial cutaneous nerves.
-- Divisions lie **behind the clavicle** — the anatomical reason they are "passing through", not branching.
+- Divisions lie **behind the clavicle** — the anatomical reason they are “passing through”, not branching.
 
-**EXAM CONNECTION:** Straight one-liner: "Which part of the brachial plexus gives no branches?" → **divisions**.
+**EXAM CONNECTION:** Straight one-liner: “Which part of the brachial plexus gives no branches?” → **divisions**.
 
 **REMEMBER:** *Behind the clavicle the plexus is only re-sorting — no branches from divisions.*
 
@@ -688,13 +688,13 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 **MUST KNOW:**
 
 - Cubital fossa contents, **medial → lateral: MBBR** — **M**edian nerve, **B**rachial artery, **B**iceps tendon, **R**adial nerve.
-- Median = **"labourer's / eye of the hand"**; supplies **LOAF** muscles in the hand (lateral 2 **L**umbricals, **O**pponens pollicis, **A**bductor pollicis brevis, **F**lexor pollicis brevis).
+- Median = **“labourer’s / eye of the hand”**; supplies **LOAF** muscles in the hand (lateral 2 **L**umbricals, **O**pponens pollicis, **A**bductor pollicis brevis, **F**lexor pollicis brevis).
 - **Deformity triad:** **ape thumb = median · claw hand = ulnar · wrist drop = radial**.
 - **Ulnar paradox:** a *higher* ulnar lesion gives a *less* obvious claw (FDP also paralysed).
-- **Pointing index / "hand of benediction" on making a fist** = high median lesion; **Ochsner clasp test** demonstrates it.
+- **Pointing index / “hand of benediction” on making a fist** = high median lesion; **Ochsner clasp test** demonstrates it.
 - ![figure](images/2026-08-16-15-23-13-Median-nerve-injury-18-2048-2666371284.webp)
 
-**EXAM CONNECTION:** Image of the cubital fossa with a structure arrowed → identify the nerve, then predict the deficit. Index fingertip sensation is the median's give-away.
+**EXAM CONNECTION:** Image of the cubital fossa with a structure arrowed → identify the nerve, then predict the deficit. Index fingertip sensation is the median’s give-away.
 
 **REMEMBER:** *Median owns the index fingertip — front and back.*
 
@@ -724,7 +724,7 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 - **Scapular movements:** retraction = **middle trapezius + rhomboids** (dorsal scapular nerve, C5); protraction = **serratus anterior + pectoralis minor**; elevation = trapezius + levator scapulae; depression is largely by gravity.
 - Painful arc **60–120°** = supraspinatus impingement; painful arc **at the end of range** = acromioclavicular pathology.
 
-**EXAM CONNECTION:** Asked both ways — "which muscle initiates abduction" (supraspinatus) and "which is not involved in overhead abduction" (pectoralis major).
+**EXAM CONNECTION:** Asked both ways — “which muscle initiates abduction” (supraspinatus) and “which is not involved in overhead abduction” (pectoralis major).
 
 **REMEMBER:** *Supraspinatus starts it, deltoid carries it, scapula finishes it.*
 
@@ -741,17 +741,17 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 
 **PEARL:** Of the **20 intrinsic hand muscles, the ULNAR nerve supplies 15**; the **median supplies only 5 (LOAF)**.
 
-**UNDERSTAND:** The median nerve is the nerve of **precision** — it powers the thumb and the two radial lumbricals, the muscles of pinch and fine manipulation. The ulnar is the nerve of **power grip and fine finger positioning** — hence "**musician's nerve**".
+**UNDERSTAND:** The median nerve is the nerve of **precision** — it powers the thumb and the two radial lumbricals, the muscles of pinch and fine manipulation. The ulnar is the nerve of **power grip and fine finger positioning** — hence “**musician’s nerve**”.
 
 **MUST KNOW:**
 
 - **Median in the hand — LOAF:** lateral 2 **L**umbricals, **O**pponens pollicis, **A**bductor pollicis brevis, **F**lexor pollicis brevis (superficial head).
 - **Ulnar:** all **hypothenar** muscles, **palmaris brevis**, **all 8 interossei**, **adductor pollicis**, **medial 2 lumbricals** (and the deep head of FPB).
-- **Froment's sign** (thumb IP flexion when gripping paper) = weak **adductor pollicis** = ulnar palsy — the single best bedside ulnar test.
+- **Froment’s sign** (thumb IP flexion when gripping paper) = weak **adductor pollicis** = ulnar palsy — the single best bedside ulnar test.
 - **Ulnar paradox:** a **higher** lesion produces a **less** obvious claw, because FDP to the ring and little fingers is also paralysed and cannot flex the IP joints.
-- **Card test** (adduction) tests Palmer interossei; **Egawa's sign** tests middle finger abduction.
+- **Card test** (adduction) tests Palmer interossei; **Egawa’s sign** tests middle finger abduction.
 
-**EXAM CONNECTION:** Direct numerical question (15 vs 5), or clinically via Froment's sign.
+**EXAM CONNECTION:** Direct numerical question (15 vs 5), or clinically via Froment’s sign.
 
 **REMEMBER:** *Ulnar owns 15 of 20 — the median only gets LOAF.*
 
@@ -769,14 +769,14 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 
 **MUST KNOW:**
 
-- **Axillary nerve (C5, C6)** supplies **deltoid and teres minor**, with the **upper lateral cutaneous nerve of the arm** giving the "**regimental badge**" sensory patch over the deltoid.
+- **Axillary nerve (C5, C6)** supplies **deltoid and teres minor**, with the **upper lateral cutaneous nerve of the arm** giving the “**regimental badge**” sensory patch over the deltoid.
 - **Test axillary nerve integrity BEFORE and AFTER reducing a shoulder dislocation** — sensation over the regimental badge area is the quickest bedside check (deltoid power is too painful to test acutely).
 - **Supraspinatus is NOT a boundary** — the standard distractor.
-- **Triangular space** (above teres major, lateral to long head of triceps, medial to... ) transmits the **circumflex scapular artery**; **triangular interval** (below teres major) transmits the **RADIAL nerve and profunda brachii**.
+- **Triangular space** (above teres major, lateral to long head of triceps, medial to… ) transmits the **circumflex scapular artery**; **triangular interval** (below teres major) transmits the **RADIAL nerve and profunda brachii**.
 - ![figure](images/2026-08-17-13-57-37-Mnemonic-of-axillary-spaces-1767041284.jpg)
 - **Quadrangular space syndrome** — compression by fibrous bands → posterior shoulder pain and deltoid/teres minor weakness in overhead athletes.
 
-**EXAM CONNECTION:** "All are boundaries of the quadrangular space EXCEPT" → supraspinatus.
+**EXAM CONNECTION:** “All are boundaries of the quadrangular space EXCEPT” → supraspinatus.
 
 **REMEMBER:** *Quadrangular = axillary nerve; triangular interval = radial nerve.*
 
@@ -790,18 +790,18 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 
 ### 31. Carpal Bones: Superlatives
 
-**PEARL:** **Capitate is the largest carpal bone and ossifies first; pisiform is the smallest, ossifies last (~12 years), and is a sesamoid in the tendon of flexor carpi ulnaris.** A pisiform is therefore **not seen** on a young child's wrist X-ray.
+**PEARL:** **Capitate is the largest carpal bone and ossifies first; pisiform is the smallest, ossifies last (~12 years), and is a sesamoid in the tendon of flexor carpi ulnaris.** A pisiform is therefore **not seen** on a young child’s wrist X-ray.
 
 **UNDERSTAND:** Ossification of the carpus proceeds in a **spiral starting at the capitate**, roughly one bone per year — which is exactly why carpal ossification is used to estimate **bone age** in children. The pisiform is last because it is not a true carpal bone at all but a sesamoid, and sesamoids ossify late.
 
 **MUST KNOW:**
 
-- Order of ossification: **capitate → hamate (both by 6 months) → triquetral (3 yr) → lunate (4 yr) → scaphoid, trapezium, trapezoid (5–6 yr) → pisiform (9–12 yr)**. Mnemonic: **"C**apitate **H**as **T**hree **L**ittle **T**iny **T**humbs, **S**ays **P**isiform."
+- Order of ossification: **capitate → hamate (both by 6 months) → triquetral (3 yr) → lunate (4 yr) → scaphoid, trapezium, trapezoid (5–6 yr) → pisiform (9–12 yr)**. Mnemonic: **“C**apitate **H**as **T**hree **L**ittle **T**iny **T**humbs, **S**ays **P**isiform.”
 - **Scaphoid** — most commonly **fractured** carpal bone; tenderness in the **anatomical snuffbox**; blood supply enters **distally** → proximal pole **avascular necrosis and non-union**; initial X-ray is often normal → **immobilise and repeat in 10–14 days or do MRI**.
 - **Lunate** — most commonly **dislocated** carpal bone (anteriorly, causing acute **median nerve** compression); **Kienböck disease** = avascular necrosis of the lunate.
-- Proximal row lateral→medial: **scaphoid, lunate, triquetral, pisiform**; distal row: **trapezium, trapezoid, capitate, hamate**. The **hook of hamate** guards the **ulnar nerve in Guyon's canal**.
+- Proximal row lateral→medial: **scaphoid, lunate, triquetral, pisiform**; distal row: **trapezium, trapezoid, capitate, hamate**. The **hook of hamate** guards the **ulnar nerve in Guyon’s canal**.
 
-**EXAM CONNECTION:** Either the superlative recall (largest/smallest/first/last) or an X-ray of a child's wrist asking which bone is absent — remember the film shows a growing skeleton, so the **pisiform is missing**.
+**EXAM CONNECTION:** Either the superlative recall (largest/smallest/first/last) or an X-ray of a child’s wrist asking which bone is absent — remember the film shows a growing skeleton, so the **pisiform is missing**.
 
 **REMEMBER:** *Capitate is the biggest and the first; pisiform is the tiniest, a sesamoid, and the last.*
 
@@ -817,16 +817,16 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 
 **PEARL:** **Pectoralis major → FLEXION (also adduction and medial rotation). Supraspinatus → ABDUCTION (the first 0–15°). Infraspinatus → LATERAL rotation. Latissimus dorsi → EXTENSION (also adduction and medial rotation).**
 
-**UNDERSTAND:** A muscle's action is predicted by **where it lies relative to the joint's axis**. Muscles running **anteriorly (pectoralis major, anterior deltoid, coracobrachialis) flex**; those running **posteriorly (latissimus dorsi, posterior deltoid, teres major) extend**. Muscles running **superior to the joint (supraspinatus, deltoid) abduct**, and those attaching to the **posterior aspect of the greater tubercle (infraspinatus, teres minor) rotate laterally**, while those on the **lesser tubercle (subscapularis) rotate medially**.
+**UNDERSTAND:** A muscle’s action is predicted by **where it lies relative to the joint’s axis**. Muscles running **anteriorly (pectoralis major, anterior deltoid, coracobrachialis) flex**; those running **posteriorly (latissimus dorsi, posterior deltoid, teres major) extend**. Muscles running **superior to the joint (supraspinatus, deltoid) abduct**, and those attaching to the **posterior aspect of the greater tubercle (infraspinatus, teres minor) rotate laterally**, while those on the **lesser tubercle (subscapularis) rotate medially**.
 
 **MUST KNOW:**
 
-- **Rotator cuff — "SITS": Supraspinatus (abduction 0–15°, suprascapular nerve), Infraspinatus (lateral rotation, suprascapular), Teres minor (lateral rotation, AXILLARY nerve), Subscapularis (MEDIAL rotation, upper and lower subscapular nerves).** The cuff's main job is to **hold the humeral head in the glenoid** during movement.
+- **Rotator cuff — “SITS”: Supraspinatus (abduction 0–15°, suprascapular nerve), Infraspinatus (lateral rotation, suprascapular), Teres minor (lateral rotation, AXILLARY nerve), Subscapularis (MEDIAL rotation, upper and lower subscapular nerves).** The cuff’s main job is to **hold the humeral head in the glenoid** during movement.
 - **Abduction sequence: supraspinatus 0–15° → deltoid 15–90° → trapezius and serratus anterior rotate the scapula beyond 90°** (scapulohumeral rhythm **2:1**). **Serratus anterior palsy (long thoracic nerve) → winging of the scapula and inability to raise the arm above 90°.**
 - **Painful arc 60–120°** = **supraspinatus tendinitis/subacromial impingement**; the supraspinatus tendon is relatively avascular near its insertion and is the **commonest cuff tendon to tear**.
-- **Latissimus dorsi** — "the climber's muscle": adduction, extension and medial rotation, supplied by the **thoracodorsal nerve**; used as a **myocutaneous flap** for breast reconstruction.
+- **Latissimus dorsi** — “the climber’s muscle”: adduction, extension and medial rotation, supplied by the **thoracodorsal nerve**; used as a **myocutaneous flap** for breast reconstruction.
 - **Teres major** — adduction and medial rotation (lower subscapular nerve). **Teres minor is a lateral rotator** — the two teres muscles act oppositely, a favourite trap.
-- **Axillary nerve** (C5–C6) — wraps the surgical neck of the humerus; injured in **shoulder dislocation and surgical neck fracture** → deltoid paralysis and a **"regimental badge" area of sensory loss**.
+- **Axillary nerve** (C5–C6) — wraps the surgical neck of the humerus; injured in **shoulder dislocation and surgical neck fracture** → deltoid paralysis and a **“regimental badge” area of sensory loss**.
 
 **EXAM CONNECTION:** A four-way matching grid. Anchor two you are certain of — **supraspinatus = abduction** and **infraspinatus = lateral rotation** — and the rest follows by elimination.
 
@@ -839,21 +839,21 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 
 ---
 
-### 33. Kanavel's Signs — Flexor Sheath Infection
+### 33. Kanavel’s Signs — Flexor Sheath Infection
 
-**PEARL:** **Kanavel's four signs = infectious flexor tenosynovitis**, the surgical emergency of the hand.
+**PEARL:** **Kanavel’s four signs = infectious flexor tenosynovitis**, the surgical emergency of the hand.
 
 **UNDERSTAND:** Pus inside a **closed synovial sheath** raises pressure fast. The finger adopts **slight flexion** because that is the position of maximum sheath volume — least painful. **Passive extension** stretches the inflamed sheath and is therefore the most exquisitely painful manoeuvre, and the earliest sign to appear.
 
 **MUST KNOW:**
 
-- The four signs: **(1) fusiform ("sausage") swelling, (2) finger held in slight flexion, (3) tenderness along the whole flexor sheath, (4) severe pain on passive extension** — the most reliable/earliest.
+- The four signs: **(1) fusiform (“sausage”) swelling, (2) finger held in slight flexion, (3) tenderness along the whole flexor sheath, (4) severe pain on passive extension** — the most reliable/earliest.
 - Distinguishes true sheath infection from a **superficial or localised abscess**, which is tender only focally.
 - Sheath anatomy matters: **thumb and little finger sheaths communicate with the radial and ulnar bursae** → infection tracks into the forearm as a **horseshoe abscess**.
 - Treatment: **urgent surgical drainage plus IV antibiotics** — delay causes tendon necrosis and adhesion.
-- Contrast with **trigger finger** (stenosing tenosynovitis, painless clicking) and **Dupuytren's** (painless fixed flexion, palmar fascia nodule).
+- Contrast with **trigger finger** (stenosing tenosynovitis, painless clicking) and **Dupuytren’s** (painless fixed flexion, palmar fascia nodule).
 
-**EXAM CONNECTION:** Single-liner: "Kanavel's sign positive → diagnosis?" → **tenosynovitis**. Distractors are all the painless chronic finger conditions.
+**EXAM CONNECTION:** Single-liner: “Kanavel’s sign positive → diagnosis?” → **tenosynovitis**. Distractors are all the painless chronic finger conditions.
 
 **REMEMBER:** *Sausage, semi-flexed, sheath-tender, screams on extension.*
 
@@ -873,10 +873,10 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 **MUST KNOW:**
 
 - **AIN** is a **purely motor** branch of the median nerve — supplies **FPL, lateral half of flexor digitorum profundus (index, middle), and pronator quadratus**. **No sensory loss** in AIN palsy.
-- The sign: **"OK sign" cannot be made** — the patient makes a triangle instead, because FPL and FDP cannot flex the terminal phalanges. Also called the **pinch/Kiloh–Nevin sign**.
+- The sign: **“OK sign” cannot be made** — the patient makes a triangle instead, because FPL and FDP cannot flex the terminal phalanges. Also called the **pinch/Kiloh–Nevin sign**.
 - **FPB has dual supply** (superficial head median, deep head ulnar) → useless as an isolated test.
 - **Median nerve at the wrist** is tested by **abductor pollicis brevis** (the pen test) — thenar abduction.
-- High median lesions give the **Benediction hand** and a positive **Ochsner's clasping test**.
+- High median lesions give the **Benediction hand** and a positive **Ochsner’s clasping test**.
 
 **EXAM CONNECTION:** Supracondylar fracture stems rotate through the nerves. The discriminator is *which movement*: **IP flexion of thumb → AIN**; thumb **abduction → recurrent median at wrist**; wrist drop → radial; claw → ulnar.
 
@@ -903,7 +903,7 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 - Axillary artery branches by part: **1st — superior thoracic; 2nd — thoracoacromial, lateral thoracic; 3rd — subscapular, anterior + posterior circumflex humeral.** (Mnemonic: **1, 2, 3**.)
 - The **posterior circumflex humeral** accompanies the **axillary nerve** through the **quadrangular space** — both are injured in surgical neck fractures and shoulder dislocation.
 
-**EXAM CONNECTION:** "Brachial artery blockage — flow decreased in all EXCEPT" → **anterior circumflex humeral**. The question is really testing where the axillary artery ends.
+**EXAM CONNECTION:** “Brachial artery blockage — flow decreased in all EXCEPT” → **anterior circumflex humeral**. The question is really testing where the axillary artery ends.
 
 **REMEMBER:** *Circumflex humerals belong to the axilla, collaterals belong to the arm.*
 
@@ -958,7 +958,7 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 
 **PEARL:** Paralysis of **gluteus medius and minimus (superior gluteal nerve)** → when the patient stands on the **affected** leg, the pelvis **sags on the opposite, unsupported side**.
 
-**UNDERSTAND:** During single-leg stance, the abductors of the **weight-bearing** hip contract to hold the opposite hemipelvis up. If they fail, that support is lost and the free side drops. The patient then lurches the trunk *toward* the weak side to bring the centre of gravity over the hip — the "lurching" or compensated Trendelenburg gait.
+**UNDERSTAND:** During single-leg stance, the abductors of the **weight-bearing** hip contract to hold the opposite hemipelvis up. If they fail, that support is lost and the free side drops. The patient then lurches the trunk *toward* the weak side to bring the centre of gravity over the hip — the “lurching” or compensated Trendelenburg gait.
 
 **MUST KNOW:**
 
@@ -969,7 +969,7 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 
 **EXAM CONNECTION:** Photograph or video of gait with the pelvis dropping on one side → identify the **injured nerve on the opposite (standing) side**.
 
-**REMEMBER:** *The sound side sags; the lesion is on the side you're standing on.*
+**REMEMBER:** *The sound side sags; the lesion is on the side you’re standing on.*
 
 **IMAGES:**
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/d1f73584d624b7b8de11c9e899b2f684.webp)
@@ -989,12 +989,12 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 
 **MUST KNOW:**
 
-- **CTEV components — "CAVE":** **C**avus (midfoot), **A**dductus (forefoot), **V**arus (hindfoot), **E**quinus (ankle). Correct in that order.
+- **CTEV components — “CAVE”:** **C**avus (midfoot), **A**dductus (forefoot), **V**arus (hindfoot), **E**quinus (ankle). Correct in that order.
 - **Treatment of CTEV = Ponseti serial casting** started in the first weeks, usually with a percutaneous **tenotomy of the tendo Achilles**, then a foot abduction brace. Correct in the **CAVE order — equinus last**.
 - **Calcaneovalgus is usually postural** (intrauterine packing), has an excellent prognosis, and resolves with passive stretching. Its important differential is **congenital vertical talus** (rigid rocker-bottom foot) — that one needs surgery.
 - Always examine the **spine and hips** — clubfoot is associated with **spina bifida, arthrogryposis and DDH**.
 
-**EXAM CONNECTION:** Straight definition-matching question. Also asked as "the most common type of clubfoot" → **equinovarus**.
+**EXAM CONNECTION:** Straight definition-matching question. Also asked as “the most common type of clubfoot” → **equinovarus**.
 
 **REMEMBER:** *Equinus points down like a horse; calcaneus walks on the heel.*
 
@@ -1007,7 +1007,7 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 
 ### 40. Femoral Triangle
 
-**PEARL:** **Base = inguinal ligament · Lateral = medial border of SARTORIUS · Medial = medial border of ADDUCTOR LONGUS.** Floor (mnemonic **"API-P"**): **adductor longus, pectineus, psoas major, iliacus**.
+**PEARL:** **Base = inguinal ligament · Lateral = medial border of SARTORIUS · Medial = medial border of ADDUCTOR LONGUS.** Floor (mnemonic **“API-P”**): **adductor longus, pectineus, psoas major, iliacus**.
 
 **UNDERSTAND:** The boundary is defined by the **medial** margin of sartorius even though sartorius forms the **lateral** wall — a wording trap that catches candidates every year.
 
@@ -1019,7 +1019,7 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 - **Femoral hernia** is **below and lateral** to the pubic tubercle; **inguinal hernia** is **above and medial** — the single most reliable clinical discriminator.
 - **Femoral artery puncture** is done **below the mid-inguinal point**, over the femoral head, so it can be compressed.
 
-**EXAM CONNECTION:** "Lateral boundary of the femoral triangle" → **medial margin of sartorius** (not "lateral margin").
+**EXAM CONNECTION:** “Lateral boundary of the femoral triangle” → **medial margin of sartorius** (not “lateral margin”).
 
 **REMEMBER:** *Sartorius laterally, adductor longus medially, inguinal ligament above — and NAVEL inside.*
 
@@ -1039,11 +1039,11 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 **MUST KNOW:**
 
 - **Lisfranc injury is the most commonly MISSED foot injury** — up to 20% missed on initial radiographs. Suspect it with midfoot pain, inability to weight-bear, and **plantar ecchymosis of the midfoot** (highly specific).
-- Radiographic clue: **widening of the gap between the 1st and 2nd metatarsal bases (>2 mm)**, or a **"fleck sign"** (avulsed ligament fragment); use **weight-bearing** views or CT.
+- Radiographic clue: **widening of the gap between the 1st and 2nd metatarsal bases (>2 mm)**, or a **“fleck sign”** (avulsed ligament fragment); use **weight-bearing** views or CT.
 - Treatment: **ORIF/fusion if displaced ≥2 mm** — missed injuries lead to midfoot arthritis and collapse.
-- Other named foot ligaments: **spring (plantar calcaneonavicular) ligament** supports the head of the talus and the **medial longitudinal arch**; **Chopart's** = midtarsal joint (talonavicular + calcaneocuboid); **deltoid** = medial ankle.
+- Other named foot ligaments: **spring (plantar calcaneonavicular) ligament** supports the head of the talus and the **medial longitudinal arch**; **Chopart’s** = midtarsal joint (talonavicular + calcaneocuboid); **deltoid** = medial ankle.
 
-**EXAM CONNECTION:** Direct match — "ligament connecting medial cuneiform to base of 2nd metatarsal".
+**EXAM CONNECTION:** Direct match — “ligament connecting medial cuneiform to base of 2nd metatarsal”.
 
 **REMEMBER:** *Lisfranc keys the 2nd metatarsal to the medial cuneiform — miss it and the midfoot collapses.*
 
@@ -1068,7 +1068,7 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 - **Key differential — L5 radiculopathy:** also gives foot drop, but **inversion is WEAK** (tibialis posterior is tibial nerve but L5 root) and **hip abduction is weak**; in a common peroneal palsy **inversion is preserved**.
 - Foot drop **with intact eversion** = deep peroneal only; foot drop **with weak eversion** = common peroneal.
 
-**EXAM CONNECTION:** Labelled lower-limb image → "injury at which site causes failure of dorsiflexion" → the fibular neck.
+**EXAM CONNECTION:** Labelled lower-limb image → “injury at which site causes failure of dorsiflexion” → the fibular neck.
 
 **REMEMBER:** *Fibular neck = foot drop. Check inversion to separate it from an L5 root lesion.*
 
@@ -1082,15 +1082,15 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 
 ### 43. Knee Bursae — The Named Knees
 
-**PEARL:** **Prepatellar bursitis = "housemaid's knee"** (kneeling upright, e.g. scrubbing floors). **Superficial infrapatellar bursitis = "clergyman's knee"** (kneeling more erect, e.g. praying). The **suprapatellar bursa communicates with the joint cavity**.
+**PEARL:** **Prepatellar bursitis = “housemaid’s knee”** (kneeling upright, e.g. scrubbing floors). **Superficial infrapatellar bursitis = “clergyman’s knee”** (kneeling more erect, e.g. praying). The **suprapatellar bursa communicates with the joint cavity**.
 
 **UNDERSTAND:** The difference is where the pressure falls: kneeling with the trunk forward loads the **patella** (prepatellar); kneeling bolt upright loads the **tibial tubercle** (infrapatellar).
 
 **MUST KNOW:**
 
 - Because the **suprapatellar bursa is continuous with the joint**, it distends in any knee effusion — this is what you milk down when eliciting the **patellar tap** and the **bulge/wipe test**.
-- **Semimembranosus bursa → Baker's (popliteal) cyst**, communicating with the joint in adults; rupture mimics a **DVT**.
-- **Pes anserine bursitis** — medial knee pain below the joint line, at the insertion of **Sartorius, Gracilis, Semitendinosus ("Say Grace before Tea")**.
+- **Semimembranosus bursa → Baker’s (popliteal) cyst**, communicating with the joint in adults; rupture mimics a **DVT**.
+- **Pes anserine bursitis** — medial knee pain below the joint line, at the insertion of **Sartorius, Gracilis, Semitendinosus (“Say Grace before Tea”)**.
 - **Deep infrapatellar bursa** does **not** communicate with the joint and is not associated with a named occupation.
 - Septic bursitis (staphylococcal) is common in prepatellar and olecranon bursae because they are so superficial.
 
@@ -1109,9 +1109,9 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 
 ### 44. Medial vs Lateral Plantar Nerve
 
-**PEARL:** The **medial plantar nerve supplies only FOUR muscles — "LAFF": First Lumbrical, Abductor hallucis, Flexor digitorum brevis, Flexor hallucis brevis.** **The lateral plantar nerve supplies EVERYTHING ELSE in the sole** — including **flexor digitorum accessorius (quadratus plantae), all interossei, adductor hallucis, abductor digiti minimi and lumbricals 2–4.**
+**PEARL:** The **medial plantar nerve supplies only FOUR muscles — “LAFF”: First Lumbrical, Abductor hallucis, Flexor digitorum brevis, Flexor hallucis brevis.** **The lateral plantar nerve supplies EVERYTHING ELSE in the sole** — including **flexor digitorum accessorius (quadratus plantae), all interossei, adductor hallucis, abductor digiti minimi and lumbricals 2–4.**
 
-**UNDERSTAND:** The two plantar nerves are the foot's exact counterparts of the hand's median and ulnar nerves — and the pattern is the same: the **medial nerve (median equivalent) takes the big-toe side and the first lumbrical; the lateral nerve (ulnar equivalent) takes the interossei, adductor and the remaining lumbricals**. Learning the short medial list is the whole task; everything not on it is lateral.
+**UNDERSTAND:** The two plantar nerves are the foot’s exact counterparts of the hand’s median and ulnar nerves — and the pattern is the same: the **medial nerve (median equivalent) takes the big-toe side and the first lumbrical; the lateral nerve (ulnar equivalent) takes the interossei, adductor and the remaining lumbricals**. Learning the short medial list is the whole task; everything not on it is lateral.
 
 **MUST KNOW:**
 
@@ -1119,12 +1119,12 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 - **Sensory:** medial plantar → **medial sole and medial 3½ toes** (median-nerve equivalent); lateral plantar → **lateral sole and lateral 1½ toes**.
 - **Layers of the sole:** 1st — abductor hallucis, flexor digitorum brevis, abductor digiti minimi; **2nd — flexor accessorius (quadratus plantae) and the four lumbricals**, with the long flexor tendons; 3rd — flexor hallucis brevis, adductor hallucis, flexor digiti minimi brevis; 4th — **interossei** and the tendons of peroneus longus and tibialis posterior.
 - **Quadratus plantae (flexor accessorius)** corrects the oblique pull of flexor digitorum longus so the toes flex straight — it has **no counterpart in the hand**.
-- Contents of the tarsal tunnel, front to back — **"Tom, Dick And Very Nervous Harry": Tibialis posterior, flexor Digitorum longus, posterior tibial Artery, Vein, tibial Nerve, flexor Hallucis longus.**
+- Contents of the tarsal tunnel, front to back — **“Tom, Dick And Very Nervous Harry”: Tibialis posterior, flexor Digitorum longus, posterior tibial Artery, Vein, tibial Nerve, flexor Hallucis longus.**
 - **Tibial nerve injury** → loss of plantarflexion and toe flexion, **clawing of the toes**, loss of sole sensation (**a plantar ulcer risk — as in leprosy and diabetes**), and a **calcaneovalgus** foot.
 
 **EXAM CONNECTION:** The list-matching question. Recall **LAFF as medial**; anything else named — **quadratus plantae, interossei, adductor hallucis** — is **lateral**.
 
-**ALSO KNOW:** **Tarsal tunnel contents, anterior → posterior: "Tom, Dick And Very Nervous Harry"** — **T**ibialis posterior, flexor **D**igitorum longus, posterior tibial **A**rtery, **V**ein, tibial **N**erve, flexor **H**allucis longus.
+**ALSO KNOW:** **Tarsal tunnel contents, anterior → posterior: “Tom, Dick And Very Nervous Harry”** — **T**ibialis posterior, flexor **D**igitorum longus, posterior tibial **A**rtery, **V**ein, tibial **N**erve, flexor **H**allucis longus.
 
 **REMEMBER:** *LAFF is medial; the rest of the sole is lateral.*
 
@@ -1151,15 +1151,15 @@ GEMELLUS INFERIOR and quadratus femoris — NERVE TO QUADRATUS FEMORIS.
 
 The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep cervical fascia.**
 
-**UNDERSTAND:** The gluteal nerve supply follows the **muscles' functional grouping**, not their position: the **abductors (medius, minimus, TFL) share one nerve (superior gluteal)** because they act together to stabilise the pelvis in single-leg stance, while the **great extensor (maximus) has its own (inferior gluteal)**. The small lateral rotators are supplied by the nerve to the muscle they are fused with — **gemellus superior with obturator internus, gemellus inferior with quadratus femoris**, because each gemellus effectively acts as an accessory head of that muscle.
+**UNDERSTAND:** The gluteal nerve supply follows the **muscles’ functional grouping**, not their position: the **abductors (medius, minimus, TFL) share one nerve (superior gluteal)** because they act together to stabilise the pelvis in single-leg stance, while the **great extensor (maximus) has its own (inferior gluteal)**. The small lateral rotators are supplied by the nerve to the muscle they are fused with — **gemellus superior with obturator internus, gemellus inferior with quadratus femoris**, because each gemellus effectively acts as an accessory head of that muscle.
 
 **MUST KNOW:**
 
 - **TRENDELENBURG SIGN — the pelvis DROPS on the UNSUPPORTED (contralateral) side when standing on the affected leg**, indicating failure of the **gluteus medius/minimus** or of the **SUPERIOR GLUTEAL NERVE**; other causes are hip dislocation, coxa vara and a femoral neck fracture. **Intramuscular injections go in the UPPER OUTER QUADRANT to avoid the sciatic nerve.**
 - **Superior gluteal nerve leaves ABOVE piriformis; everything else (inferior gluteal, sciatic, posterior femoral cutaneous, pudendal, nerve to obturator internus and to quadratus femoris) leaves BELOW it.**
 - **Deep cervical fascia layers: INVESTING (encircles the neck; splits for trapezius, sternocleidomastoid, the parotid and submandibular glands, and forms the STYLOMANDIBULAR ligament between the styloid process and the angle of the mandible — separating the parotid from the submandibular gland); PRETRACHEAL (encloses the thyroid — hence movement of a goitre with swallowing); PREVERTEBRAL (over the vertebral column, forming the axillary sheath).**
-- **The SPHENOMANDIBULAR ligament is a remnant of MECKEL'S CARTILAGE (first arch) and is the primary passive support of the mandible; the TEMPOROMANDIBULAR (lateral) ligament is a thickening of the joint capsule.** **The inferior alveolar nerve passes between the sphenomandibular ligament and the ramus** — relevant to dental blocks.
-- **Retropharyngeal ("danger") space** lies between the buccopharyngeal and prevertebral fascia and communicates with the mediastinum — the anatomical basis of descending necrotising mediastinitis.
+- **The SPHENOMANDIBULAR ligament is a remnant of MECKEL’S CARTILAGE (first arch) and is the primary passive support of the mandible; the TEMPOROMANDIBULAR (lateral) ligament is a thickening of the joint capsule.** **The inferior alveolar nerve passes between the sphenomandibular ligament and the ramus** — relevant to dental blocks.
+- **Retropharyngeal (“danger”) space** lies between the buccopharyngeal and prevertebral fascia and communicates with the mediastinum — the anatomical basis of descending necrotising mediastinitis.
 
 **EXAM CONNECTION:** Pure matching. Anchor **maximus = inferior gluteal; medius/minimus = superior gluteal**, and pair each gemellus with its larger companion muscle.
 
@@ -1181,7 +1181,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **MUST KNOW:** The **medial arch is higher and more mobile** (shock absorption); the lateral is low and rigid (weight transmission). Chief supports: **plantar aponeurosis, spring (plantar calcaneonavicular) ligament, and tibialis posterior** — tibialis posterior dysfunction is the commonest cause of acquired **flat foot**.
 
-**REMEMBER:** *Medial = talus + navicular + cuneiforms + 3 metatarsals; lateral = cuboid + last 2. Toes don't count.*
+**REMEMBER:** *Medial = talus + navicular + cuneiforms + 3 metatarsals; lateral = cuboid + last 2. Toes don’t count.*
 
 ---
 
@@ -1217,13 +1217,13 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **MUST KNOW:**
 
-- Mnemonic for the levels: **"I ate ten eggs at twelve"** — **I**VC 8, **E**sophagus 10, **A**orta 12.
+- Mnemonic for the levels: **“I ate ten eggs at twelve”** — **I**VC 8, **E**sophagus 10, **A**orta 12.
 - **T8 caval opening:** IVC + **right phrenic nerve**.
 - **T10 oesophageal hiatus:** oesophagus + **both vagi** + oesophageal branches of the left gastric vessels.
-- **T12 aortic hiatus:** aorta + **thoracic duct** + **azygos vein** (all the "no-pulse" structures).
+- **T12 aortic hiatus:** aorta + **thoracic duct** + **azygos vein** (all the “no-pulse” structures).
 - Loss of the crural pinch → **hiatus hernia and GERD**.
 
-**EXAM CONNECTION:** "Structure passing through the central tendon" → IVC. Also asked in reverse: "which does NOT pass through the diaphragm" → aorta (it passes *behind* it).
+**EXAM CONNECTION:** “Structure passing through the central tendon” → IVC. Also asked in reverse: “which does NOT pass through the diaphragm” → aorta (it passes *behind* it).
 
 **REMEMBER:** *Vein through tendon (open), gut through muscle (squeezed), artery behind everything (untouched).*
 
@@ -1245,10 +1245,10 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 - **Hemiazygos and accessory hemiazygos → azygos** (they cross the midline), *not* the brachiocephalic.
 - **Superior thyroid veins → internal jugular vein**; only the **inferior** thyroid veins reach the brachiocephalic.
 - Tributaries of the brachiocephalic vein: internal thoracic, inferior thyroid, **left superior intercostal**, and vertebral veins.
-- The left superior intercostal vein crosses the **aortic arch** — it is the "**aortic nipple**" seen on a chest radiograph.
+- The left superior intercostal vein crosses the **aortic arch** — it is the “**aortic nipple**” seen on a chest radiograph.
 - ![figure](images/2026-08-16-15-14-30-aortic-nipple.01-3493236613.jpg)
 
-**EXAM CONNECTION:** "Which vein drains into the brachiocephalic vein?" — the three distractors (hemiazygos, right superior intercostal, superior thyroid) all drain elsewhere.
+**EXAM CONNECTION:** “Which vein drains into the brachiocephalic vein?” — the three distractors (hemiazygos, right superior intercostal, superior thyroid) all drain elsewhere.
 
 **REMEMBER:** *Right goes to azygos (its own side); left has to climb to the brachiocephalic.*
 
@@ -1263,17 +1263,17 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **PEARL:** The phrenic nerve (**C3, 4, 5**) runs **anterior to scalenus anterior**, then **anterior to the 2nd part of the subclavian artery but POSTERIOR to the subclavian vein**, and descends in the thorax **ANTERIOR to the lung hilum**.
 
-**UNDERSTAND:** "Anterior to scalenus anterior" is the key exam fact and the key clinical one — the **brachial plexus and subclavian artery pass BEHIND** that muscle, so an interscalene block that spreads anteriorly produces the near-universal **phrenic palsy (~100% with interscalene block)**.
+**UNDERSTAND:** “Anterior to scalenus anterior” is the key exam fact and the key clinical one — the **brachial plexus and subclavian artery pass BEHIND** that muscle, so an interscalene block that spreads anteriorly produces the near-universal **phrenic palsy (~100% with interscalene block)**.
 
 **MUST KNOW:**
 
 - **The phrenic passes ANTERIOR to the hilum; the VAGUS passes POSTERIOR.** The single most-tested relation in the mediastinum.
-- **"C3, 4, 5 keeps the diaphragm alive."** Cord injury above C3 → ventilator dependence.
+- **“C3, 4, 5 keeps the diaphragm alive.”** Cord injury above C3 → ventilator dependence.
 - It is the **sole motor supply** to the diaphragm but also carries **sensation from the central diaphragm, pericardium and mediastinal pleura** — hence **referred shoulder-tip pain (C4 dermatome)** in subphrenic abscess, splenic rupture and after laparoscopy.
 - **Paradoxical elevation of the hemidiaphragm on inspiration** (sniff test on fluoroscopy) = phrenic palsy.
 - On the **left** it is also posterior to the **thoracic duct**; it crosses in front of the internal thoracic artery to enter the thorax.
 
-**EXAM CONNECTION:** Fluoroscopy vignette of paradoxical diaphragm movement → then a question on the nerve's course.
+**EXAM CONNECTION:** Fluoroscopy vignette of paradoxical diaphragm movement → then a question on the nerve’s course.
 
 **REMEMBER:** *Phrenic in front of the hilum, vagus behind; phrenic in front of scalenus anterior, plexus behind.*
 
@@ -1294,11 +1294,11 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 **MUST KNOW:**
 
 - **AV (atrioventricular) cushions come from endocardium**; the **CONOTRUNCAL cushions come from NEURAL CREST**. Hence neural crest disorders (**DiGeorge, 22q11**) give **conotruncal** defects — TOF, truncus arteriosus, interrupted aortic arch.
-- Endocardial cushions also form the **AV valves (mitral and tricuspid) and the septum primum's lower part** — so their failure gives the **AV canal / endocardial cushion defect**, the lesion classically associated with **Down syndrome**.
+- Endocardial cushions also form the **AV valves (mitral and tricuspid) and the septum primum’s lower part** — so their failure gives the **AV canal / endocardial cushion defect**, the lesion classically associated with **Down syndrome**.
 - **Perimembranous VSD ≈ 80%** of all VSDs. A **small VSD gives a LOUDER murmur** (maladie de Roger) — murmur intensity is inversely proportional to defect size.
 - The **AV node and bundle of His lie at the posteroinferior rim** of a perimembranous VSD — the reason for heart block after surgical closure.
 
-**EXAM CONNECTION:** Labelled embryology model → "the marked structure is derived from" → endocardial cushions.
+**EXAM CONNECTION:** Labelled embryology model → “the marked structure is derived from” → endocardial cushions.
 
 **REMEMBER:** *Membranous septum = endocardial cushions = the commonest VSD; conotruncal = neural crest = DiGeorge.*
 
@@ -1322,10 +1322,10 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 - **Ultrasound guidance is now standard** and substantially reduces arterial puncture — the internal jugular is the most ultrasound-friendly.
 - **Tip position** should be at the **SVC–right atrium junction** (at or just above the carina on chest X-ray) — deeper risks tamponade and arrhythmia.
 - Confirm venous placement by **non-pulsatile dark flow / manometry / ultrasound**, not by colour alone.
-- **Air embolism** — prevent by positioning the patient **head-down (Trendelenburg)** for insertion and removal of upper-body lines; treat by **left lateral head-down (Durant's) position** and 100% oxygen.
+- **Air embolism** — prevent by positioning the patient **head-down (Trendelenburg)** for insertion and removal of upper-body lines; treat by **left lateral head-down (Durant’s) position** and 100% oxygen.
 - **Post-procedure chest X-ray** is mandatory for subclavian and IJ lines.
 
-**EXAM CONNECTION:** "Most common complication of central line insertion below the clavicle" → **arterial puncture** (not pneumothorax — that is the most common *serious* one for subclavian).
+**EXAM CONNECTION:** “Most common complication of central line insertion below the clavicle” → **arterial puncture** (not pneumothorax — that is the most common *serious* one for subclavian).
 
 **REMEMBER:** *Commonest = arterial puncture; deadliest = tamponade; left side = chyle; subclavian = pneumothorax.*
 
@@ -1338,7 +1338,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 ### 54. Lung Hilum — Order of Structures
 
-**PEARL:** **Anterior → posterior: pulmonary VEIN → pulmonary ARTERY → BRONCHUS → bronchial artery ("VAB").**
+**PEARL:** **Anterior → posterior: pulmonary VEIN → pulmonary ARTERY → BRONCHUS → bronchial artery (“VAB”).**
 
 **UNDERSTAND:** The bronchus is the most **posterior** structure at both hila — a constant. What differs between sides is the **vertical** arrangement.
 
@@ -1346,7 +1346,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 - **RIGHT hilum:** the **eparterial bronchus (to the upper lobe) is the most SUPERIOR** structure, lying **above the pulmonary artery**. Order superior → inferior: **superior lobar bronchus → pulmonary artery → principal bronchus → inferior pulmonary vein**.
 - ![figure](images/2026-08-17-23-30-09--BEB9A0BB-C3A0-438C-8049-DFA3E84D9B11-.png)
-- **LEFT hilum:** the **pulmonary ARTERY is most superior** (it arches over the left main bronchus). Mnemonic: "**RALS**" — **R**ight **A**nterior, **L**eft **S**uperior (position of the pulmonary artery relative to the bronchus).
+- **LEFT hilum:** the **pulmonary ARTERY is most superior** (it arches over the left main bronchus). Mnemonic: “**RALS**” — **R**ight **A**nterior, **L**eft **S**uperior (position of the pulmonary artery relative to the bronchus).
 - ![figure](images/2026-08-17-23-30-22--04AF0C9B-505F-4BB0-9C06-3D62E926C630-.png)
 - **Right main bronchus is wider, shorter and more vertical** — hence **aspiration and inhaled foreign bodies go right**, most often into the **posterior segment of the right upper lobe (supine)** or the **basal segments of the right lower lobe (erect)**.
 - **Phrenic nerve passes ANTERIOR, vagus POSTERIOR** to the hilum.
@@ -1373,10 +1373,10 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 - **Left varicocele is far commoner (>85%)** because the left testicular vein is **longer, drains at a right angle, and may lack a valve** — plus the left renal vein can be compressed between the **aorta and SMA (nutcracker phenomenon)**.
 - **A new left varicocele that does not empty on lying down demands imaging for a LEFT RENAL CELL CARCINOMA** invading the renal vein — a classic exam and clinical alarm.
 - The **left renal vein crosses ANTERIOR to the aorta, POSTERIOR to the SMA** — the anatomical basis of nutcracker syndrome (haematuria, flank pain).
-- The left renal vein's length is why the **left kidney is preferred for live donor nephrectomy**.
+- The left renal vein’s length is why the **left kidney is preferred for live donor nephrectomy**.
 - Right gonadal vein → IVC directly; right suprarenal → IVC directly (short, hence risky in right adrenalectomy).
 
-**EXAM CONNECTION:** "Which is a tributary of the IVC?" → **left inferior phrenic** (the suprarenal and gonadal options are the traps).
+**EXAM CONNECTION:** “Which is a tributary of the IVC?” → **left inferior phrenic** (the suprarenal and gonadal options are the traps).
 
 **REMEMBER:** *On the left, adrenal and gonad go via the renal vein — but the phrenic goes straight to the IVC.*
 
@@ -1391,7 +1391,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **PEARL:** The 1st sternocostal joint is the only Primary cartilaginous (synchondrosis) — completely immobile. The 2nd–7th are SYNOVIAL
 
-**UNDERSTAND:** The first rib, its cartilage and the manubrium fuse into a rigid unit because the **thoracic inlet must be a fixed frame** — it anchors the scalene muscles, Sibson's fascia and the neurovascular bundle to the arm.
+**UNDERSTAND:** The first rib, its cartilage and the manubrium fuse into a rigid unit because the **thoracic inlet must be a fixed frame** — it anchors the scalene muscles, Sibson’s fascia and the neurovascular bundle to the arm.
 
 **MUST KNOW:**
 
@@ -1400,7 +1400,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 - The **manubriosternal joint (angle of Louis)** is a **symphysis** — the landmark for the **2nd costal cartilage**, the **T4/T5 disc level**, the **carina**, and the **arch of the aorta**.
 - **Rib 1 is the shortest, broadest and most curved**; it has the **scalene tubercle** with the subclavian **vein in front** and **artery + brachial plexus behind** the scalenus anterior.
 
-**EXAM CONNECTION:** "Joint between the sternum and 1st costal cartilage" → **synarthrosis/fibrous** (or primary cartilaginous depending on the text — the point is that it is **immobile and unlike the rest**).
+**EXAM CONNECTION:** “Joint between the sternum and 1st costal cartilage” → **synarthrosis/fibrous** (or primary cartilaginous depending on the text — the point is that it is **immobile and unlike the rest**).
 
 **REMEMBER:** *First rib is a fixed frame; ribs 2–7 need to move, so they get synovial joints.*
 
@@ -1412,7 +1412,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **PEARL:** The **plane of the sternal angle (angle of Louis, T4/T5 disc)** marks the division between the **superior and inferior mediastinum**, and is the level of the **BIFURCATION OF THE PULMONARY TRUNK**, the **beginning and end of the arch of the aorta**, and the **azygos vein arching into the SVC**. The **carina (tracheal bifurcation) lies at T4**, just above.
 
-**UNDERSTAND:** The sternal angle is the single most useful surface landmark in the thorax because so many transitions share the same horizontal plane — the aortic arch begins and ends here, so **above it the vessels are still ascending/descending and below it they are not**. Anything named "arch of aorta" on a cross-section must therefore be **above** this plane (T3–T4), and anything showing **both main bronchi** must be at or just below it.
+**UNDERSTAND:** The sternal angle is the single most useful surface landmark in the thorax because so many transitions share the same horizontal plane — the aortic arch begins and ends here, so **above it the vessels are still ascending/descending and below it they are not**. Anything named “arch of aorta” on a cross-section must therefore be **above** this plane (T3–T4), and anything showing **both main bronchi** must be at or just below it.
 
 **MUST KNOW — structures at the sternal angle (T4/T5):**
 
@@ -1425,9 +1425,9 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 - **Left recurrent laryngeal nerve hooks under the arch**
 - **The trachea and oesophagus are indented here; T4 is the level of the ARCH ON A CT** — so a slice showing the pulmonary trunk splitting is **below** the arch.
 - The **SVC is thin-walled and lies to the right of the ascending aorta**; the aorta is recognisable by its **thick wall** — the practical way to tell them apart on a cadaveric or CT image.
-- Other vertebral levels worth carrying: **T8** — IVC through the diaphragm (**"I ate ten eggs at twelve": T8 IVC, T10 oEsophagus + vagus, T12 Aorta + thoracic duct + azygos**); **L1** — transpyloric plane of Addison (pylorus, hila of kidneys, SMA origin, neck of pancreas, coeliac ganglia); **L4** — aortic bifurcation and the iliac crest.
+- Other vertebral levels worth carrying: **T8** — IVC through the diaphragm (**“I ate ten eggs at twelve”: T8 IVC, T10 oEsophagus + vagus, T12 Aorta + thoracic duct + azygos**); **L1** — transpyloric plane of Addison (pylorus, hila of kidneys, SMA origin, neck of pancreas, coeliac ganglia); **L4** — aortic bifurcation and the iliac crest.
 
-**EXAM CONNECTION:** Cross-sectional image identification. Ask first **"what level is this?"** — visible **main bronchi and a splitting pulmonary trunk = T5**, so the arch cannot be the labelled structure.
+**EXAM CONNECTION:** Cross-sectional image identification. Ask first **“what level is this?”** — visible **main bronchi and a splitting pulmonary trunk = T5**, so the arch cannot be the labelled structure.
 
 **REMEMBER:** *At the sternal angle the aorta arches, the trachea splits, the pulmonary trunk divides and the azygos empties.*
 
@@ -1456,7 +1456,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **EXAM CONNECTION:** A transverse cardiac section with the fibrous tissue between the aortic and mitral valves marked → **subaortic curtain/left fibrous trigone**.
 
-**REMEMBER:** *The fibrous skeleton is the heart's insulating tape — only the His bundle is allowed through.*
+**REMEMBER:** *The fibrous skeleton is the heart’s insulating tape — only the His bundle is allowed through.*
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/a4e63f64e3d64d7c8281be354c422b8b.JPEG)
@@ -1470,7 +1470,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **PEARL:** The **thoracic duct drains everything except the right upper quadrant of the body**. The **right upper limb, right hemithorax and right head/neck** drain via the **right lymphatic duct**.
 
-**UNDERSTAND:** The duct's asymmetry is developmental — it begins in the abdomen at the **cisterna chyli**, ascends on the **right** of the aorta, then **crosses to the left at T5** to end in the **left** venous angle. Everything it passes before crossing therefore belongs to it; only the small territory drained *above and to the right* of the crossing point escapes.
+**UNDERSTAND:** The duct’s asymmetry is developmental — it begins in the abdomen at the **cisterna chyli**, ascends on the **right** of the aorta, then **crosses to the left at T5** to end in the **left** venous angle. Everything it passes before crossing therefore belongs to it; only the small territory drained *above and to the right* of the crossing point escapes.
 
 **MUST KNOW:**
 
@@ -1478,9 +1478,9 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 - Begins at **cisterna chyli (T12/L1)**, enters the thorax through the **aortic hiatus**, is **~45 cm** long.
 - **Chylous effusion / chylothorax** follows injury — chest tube insertion, oesophagectomy, or trauma. Fluid is milky with **triglycerides > 110 mg/dL** and **chylomicrons**.
 - Injury **above T5 → left-sided** chylothorax; **below T5 → right-sided** — because of where the duct crosses.
-- **Virchow's node** (left supraclavicular) enlarges in abdominal malignancy precisely because that region drains via the thoracic duct.
+- **Virchow’s node** (left supraclavicular) enlarges in abdominal malignancy precisely because that region drains via the thoracic duct.
 
-**EXAM CONNECTION:** "Which part is NOT drained by the thoracic duct?" → **right upper limb**. Note the trap: the **left** upper limb *is* drained by it.
+**EXAM CONNECTION:** “Which part is NOT drained by the thoracic duct?” → **right upper limb**. Note the trap: the **left** upper limb *is* drained by it.
 
 **REMEMBER:** *Everything but the right upper quadrant.*
 
@@ -1491,13 +1491,13 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 ---
 
-### 60. Sibson's Fascia
+### 60. Sibson’s Fascia
 
 **PEARL:** The **suprapleural membrane** — attached to the **inner border of the first rib**, covering the **apex of the lung**; the **subclavian vessels pass above/over it**.
 
 **MUST KNOW:** It arises from the transverse process of **C7** and protects the apex against pressure changes during respiration. Its presence explains why the lung apex extends into the **root of the neck**, above the clavicle — hence lung apex injury in neck stab wounds and **Pancoast tumours** invading the brachial plexus and sympathetic chain.
 
-**REMEMBER:** *Sibson's fascia is the roof over the lung apex, from C7 to the first rib.*
+**REMEMBER:** *Sibson’s fascia is the roof over the lung apex, from C7 to the first rib.*
 
 ---
 
@@ -1519,16 +1519,16 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 ### 62. Jejunum vs Ileum
 
-**PEARL:** **Jejunum** — thicker, more vascular wall, **wider lumen usually found empty**, **tall closely-set plicae circulares**, **1–2 arterial arcades with LONG vasa recta**, mesentery with **peritoneal windows**. **Ileum** — thinner wall, narrow lumen usually full, sparse folds, **4–5 arcades with SHORT vasa recta**, fatty mesentery with no windows, **abundant Peyer's patches**.
+**PEARL:** **Jejunum** — thicker, more vascular wall, **wider lumen usually found empty**, **tall closely-set plicae circulares**, **1–2 arterial arcades with LONG vasa recta**, mesentery with **peritoneal windows**. **Ileum** — thinner wall, narrow lumen usually full, sparse folds, **4–5 arcades with SHORT vasa recta**, fatty mesentery with no windows, **abundant Peyer’s patches**.
 
-**UNDERSTAND:** The **arcade count is the surgeon's test** — hold the mesentery up to the light: **few arcades and long straight vessels = jejunum; many arcades and short vessels = ileum**. The fat creeps progressively along the mesentery as you move distally, obliterating the translucent windows.
+**UNDERSTAND:** The **arcade count is the surgeon’s test** — hold the mesentery up to the light: **few arcades and long straight vessels = jejunum; many arcades and short vessels = ileum**. The fat creeps progressively along the mesentery as you move distally, obliterating the translucent windows.
 
 **MUST KNOW:**
 
 - **Jejunum = proximal 2/5, Ileum = distal 3/5** of the ~6 m post-duodenal small bowel.
-- **Peyer's patches are on the ANTIMESENTERIC border, maximal in the terminal ileum** — the site of ulceration and perforation in **typhoid** (2nd–3rd week) and of **transmural inflammation in Crohn's**.
-- The **terminal ileum is the only site of vitamin B12–intrinsic factor and bile salt absorption** — hence B12 deficiency and bile-salt diarrhoea after ileal resection or in Crohn's.
-- **Meckel's diverticulum — rule of 2s:** 2% of population, 2 feet from the ileocaecal valve, 2 inches long, 2 types of ectopic tissue (gastric, pancreatic), presents under 2 years.
+- **Peyer’s patches are on the ANTIMESENTERIC border, maximal in the terminal ileum** — the site of ulceration and perforation in **typhoid** (2nd–3rd week) and of **transmural inflammation in Crohn’s**.
+- The **terminal ileum is the only site of vitamin B12–intrinsic factor and bile salt absorption** — hence B12 deficiency and bile-salt diarrhoea after ileal resection or in Crohn’s.
+- **Meckel’s diverticulum — rule of 2s:** 2% of population, 2 feet from the ileocaecal valve, 2 inches long, 2 types of ectopic tissue (gastric, pancreatic), presents under 2 years.
 
 **EXAM CONNECTION:** Cross-section or gross photograph → identify by **fold density and mesenteric fat/arcades**.
 
@@ -1555,7 +1555,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 - **Structures crossed by the root (superior → inferior):** 3rd part of the **duodenum**, **abdominal aorta**, **IVC**, **right ureter**, right psoas major, right gonadal vessels.
 - **Contents:** superior mesenteric vessels, lymphatics and nodes, autonomic nerves, fat.
-- **Ladd's procedure** for malrotation **broadens the mesenteric base** (plus division of Ladd's bands and appendicectomy) — it does not "un-rotate" the gut.
+- **Ladd’s procedure** for malrotation **broadens the mesenteric base** (plus division of Ladd’s bands and appendicectomy) — it does not “un-rotate” the gut.
 - The **DJ flexure is held by the suspensory ligament of Treitz** — the anatomical landmark separating **upper from lower GI bleeding**.
 
 **EXAM CONNECTION:** Image of the small bowel mesentery → asked for the extent of the attached border.
@@ -1574,16 +1574,16 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **PEARL:** A continuous anastomotic channel running along the mesenteric border of the colon, formed by the **ileocolic, right colic, middle colic, left colic and sigmoid arteries** — i.e. it links the **SMA and IMA territories**.
 
-**UNDERSTAND:** It is the colon's **collateral insurance policy**. If either the SMA or IMA is occluded (or ligated during aortic surgery), the marginal artery can perfuse the whole colon in reverse.
+**UNDERSTAND:** It is the colon’s **collateral insurance policy**. If either the SMA or IMA is occluded (or ligated during aortic surgery), the marginal artery can perfuse the whole colon in reverse.
 
 **MUST KNOW:**
 
 - The **inferior epigastric artery contributes nothing** to it — the standard distractor.
-- **Watershed zones** where the anastomosis is weakest and ischaemic colitis occurs: the **splenic flexure (Griffiths' point, SMA/IMA junction)** and the **rectosigmoid junction (Sudeck's point)**.
+- **Watershed zones** where the anastomosis is weakest and ischaemic colitis occurs: the **splenic flexure (Griffiths’ point, SMA/IMA junction)** and the **rectosigmoid junction (Sudeck’s point)**.
 - The **arc of Riolan (meandering mesenteric artery)** is a separate, more central and inconstant SMA–IMA connection.
-- **Ischaemic colitis** classically presents with left-sided pain and bloody diarrhoea with **"thumbprinting"** on imaging, and is the reason the **IMA is reimplanted or preserved** in AAA repair.
+- **Ischaemic colitis** classically presents with left-sided pain and bloody diarrhoea with **“thumbprinting”** on imaging, and is the reason the **IMA is reimplanted or preserved** in AAA repair.
 
-**EXAM CONNECTION:** "Which is NOT involved in the formation of the marginal artery" → inferior epigastric.
+**EXAM CONNECTION:** “Which is NOT involved in the formation of the marginal artery” → inferior epigastric.
 
 **REMEMBER:** *Drummond runs the whole colon and joins SMA to IMA — it fails at the splenic flexure.*
 
@@ -1608,7 +1608,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 - Portal vein = **splenic + superior mesenteric vein, behind the neck of the pancreas at L2**. The IMV joins the splenic.
 - **TIPS** works by creating a deliberate intrahepatic portosystemic shunt; its price is **encephalopathy**.
 
-**EXAM CONNECTION:** Cirrhosis vignette with haematemesis → "which anastomosis is responsible?" → left gastric–oesophageal.
+**EXAM CONNECTION:** Cirrhosis vignette with haematemesis → “which anastomosis is responsible?” → left gastric–oesophageal.
 
 **REMEMBER:** *Gut veins meeting body-wall veins: gullet, umbilicus, anus — varices, caput, piles.*
 
@@ -1616,23 +1616,23 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 ---
 
-### 66. Cantlie's Line
+### 66. Cantlie’s Line
 
-**PEARL:** The **functional (physiological) division of the liver** runs along **Cantlie's line** — from the **gallbladder fossa to the IVC** — separating the **true right and left lobes**. The **falciform ligament marks only the ANATOMICAL (morphological) lobes**.
+**PEARL:** The **functional (physiological) division of the liver** runs along **Cantlie’s line** — from the **gallbladder fossa to the IVC** — separating the **true right and left lobes**. The **falciform ligament marks only the ANATOMICAL (morphological) lobes**.
 
-**UNDERSTAND:** The functional division follows the **branching of the portal vein, hepatic artery and bile duct** and the plane of the **middle hepatic vein**. The falciform ligament is merely a peritoneal fold and bears no relation to the vascular supply — which is why hepatectomy uses Cantlie's line, not the ligament.
+**UNDERSTAND:** The functional division follows the **branching of the portal vein, hepatic artery and bile duct** and the plane of the **middle hepatic vein**. The falciform ligament is merely a peritoneal fold and bears no relation to the vascular supply — which is why hepatectomy uses Cantlie’s line, not the ligament.
 
 **MUST KNOW:**
 
-- **Couinaud's 8 segments**, each with its own portal triad and hepatic venous drainage — this is why segmental resection is possible.
+- **Couinaud’s 8 segments**, each with its own portal triad and hepatic venous drainage — this is why segmental resection is possible.
 - **Segment I (caudate lobe) is unique** — it drains **directly into the IVC** by its own veins, which is why it is **spared and hypertrophies in Budd–Chiari syndrome**.
 - **Segment IV (quadrate lobe)** lies to the **right** of the falciform ligament but belongs functionally to the **LEFT** lobe — the classic consequence of the two different divisions.
 - **Right lobe ≈ 60–65%** of liver mass — relevant to living-donor transplantation.
 - **Pringle manoeuvre** clamps the **hepatoduodenal ligament (portal triad)** to control bleeding; persistent bleeding thereafter implicates the **hepatic veins or IVC**.
 
-**EXAM CONNECTION:** "What divides the liver into physiological lobes?" → Cantlie's line (also asked as the **cholecysto-vena caval line**, its other name).
+**EXAM CONNECTION:** “What divides the liver into physiological lobes?” → Cantlie’s line (also asked as the **cholecysto-vena caval line**, its other name).
 
-**REMEMBER:** *Falciform is skin-deep; Cantlie's line follows the blood.*
+**REMEMBER:** *Falciform is skin-deep; Cantlie’s line follows the blood.*
 
 **IMAGES:**
 ![explanation](https://image.prepladder.com/content/pU4Rrp2zjkcjjL1RuGMF1740379091.png)
@@ -1648,12 +1648,12 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **PEARL:** Lies **to the LEFT of the 4th part of the duodenum**, and the free edge of its fold contains the **INFERIOR MESENTERIC VEIN**.
 
-**UNDERSTAND:** These recesses are unclosed pockets of the developing peritoneum. Bowel can herniate into them — a **left paraduodenal hernia is the commonest internal hernia** — and because the sac's mouth is bounded by the IMV, blind division of the neck of the sac risks that vein.
+**UNDERSTAND:** These recesses are unclosed pockets of the developing peritoneum. Bowel can herniate into them — a **left paraduodenal hernia is the commonest internal hernia** — and because the sac’s mouth is bounded by the IMV, blind division of the neck of the sac risks that vein.
 
 **MUST KNOW:**
 
 - **Left paraduodenal hernia (fossa of Landzert)** accounts for ~**50%** of internal hernias; the **right (fossa of Waldeyer)** is bounded by the **SMA/ileocolic vessels**.
-- Presentation: **recurrent colicky pain with intermittent obstruction**, and on CT a **"sac-like cluster of small bowel loops"** in the left upper quadrant.
+- Presentation: **recurrent colicky pain with intermittent obstruction**, and on CT a **“sac-like cluster of small bowel loops”** in the left upper quadrant.
 - Repair: reduce the bowel and close the defect **incising the AVASCULAR edge**, never the vessel-bearing edge.
 - Other named recesses: **superior/inferior duodenal, intersigmoid, retrocaecal**.
 
@@ -1668,7 +1668,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 ---
 
-### 68. Houston's Valves
+### 68. Houston’s Valves
 
 ![figure](images/2026-08-17-09-46-06-Rectum-And-Anal-Canal-Valves-of-Houston-3057461536.png)
 
@@ -1678,7 +1678,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **MUST KNOW:**
 
-- The **middle valve (Kohlrausch's, ~7–8 cm from the anal verge, anterior/right)** is the **standard site for rectal biopsy** — it is below the peritoneal reflection, so a full-thickness bite will not enter the peritoneal cavity.
+- The **middle valve (Kohlrausch’s, ~7–8 cm from the anal verge, anterior/right)** is the **standard site for rectal biopsy** — it is below the peritoneal reflection, so a full-thickness bite will not enter the peritoneal cavity.
 - Rectum has **NO mesentery, NO appendices epiploicae, NO sacculations, and the taeniae fan out to form a complete longitudinal coat** — the features that mark the rectosigmoid junction.
 - **Anal canal landmarks** for contrast: **dentate line** (endoderm/ectoderm junction) — above it columnar epithelium, visceral (insensitive), superior rectal vein, internal iliac nodes; below it squamous, somatic (very painful), inferior rectal vein, **inguinal nodes**.
 
@@ -1701,13 +1701,13 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **MUST KNOW:**
 
-- Nerve supply: **nerve to levator ani (S3, S4)** from above and the **inferior rectal branch of the pudendal nerve** from below — "**S3, 4 keeps the pelvis off the floor**".
+- Nerve supply: **nerve to levator ani (S3, S4)** from above and the **inferior rectal branch of the pudendal nerve** from below — “**S3, 4 keeps the pelvis off the floor**”.
 - **Puborectalis forms the anorectal sling**, maintaining the **anorectal angle (~80–90°)** — the key mechanism of **faecal continence**; its relaxation straightens the angle for defaecation.
 - The **levator ani is the most important support of the uterus** (with the cardinal and uterosacral ligaments) — **NOT the broad ligament**.
 - Damage in **prolonged second stage of labour → pelvic organ prolapse and stress incontinence**; the basis of Kegel exercises.
 - The **levator hiatus** transmits the urethra, vagina and anal canal — the weak point.
 
-**EXAM CONNECTION:** Multi-true/false: "which muscles form the pelvic diaphragm" → only the ilio- and pubococcygeus options.
+**EXAM CONNECTION:** Multi-true/false: “which muscles form the pelvic diaphragm” → only the ilio- and pubococcygeus options.
 
 **REMEMBER:** *Only levator ani + coccygeus — obturator internus is a wall, not a floor.*
 
@@ -1727,7 +1727,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 **MUST KNOW:**
 
 - **Anterior division:** superior vesical (from the obliterated umbilical artery), inferior vesical (male) / **vaginal (female)**, **uterine**, middle rectal, **obturator**, **internal pudendal**, **inferior gluteal**.
-- **Uterine artery crosses ABOVE the ureter** — "**water under the bridge**" — ~2 cm lateral to the cervix; the classic site of ureteric injury in hysterectomy.
+- **Uterine artery crosses ABOVE the ureter** — “**water under the bridge**” — ~2 cm lateral to the cervix; the classic site of ureteric injury in hysterectomy.
 - **Internal iliac ligation** for postpartum haemorrhage works by reducing **pulse pressure**, not by stopping flow — rich collaterals maintain perfusion (and fertility).
 - **Superior gluteal artery** exits **above** piriformis with the superior gluteal nerve; **inferior gluteal** exits **below** it — the same rule as the nerves.
 
@@ -1747,7 +1747,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **PEARL:** The **LIENORENAL (splenorenal) ligament contains the SPLENIC VESSELS and the TAIL OF THE PANCREAS.** The **gastrosplenic ligament** carries the **short gastric and left gastroepiploic** vessels.
 
-**UNDERSTAND:** Both are parts of the **dorsal mesogastrium**, split when the spleen develops within it. The pancreatic tail travels in the lienorenal ligament right up to the splenic hilum — so it is **within reach of the surgeon's clamp** during splenectomy.
+**UNDERSTAND:** Both are parts of the **dorsal mesogastrium**, split when the spleen develops within it. The pancreatic tail travels in the lienorenal ligament right up to the splenic hilum — so it is **within reach of the surgeon’s clamp** during splenectomy.
 
 **MUST KNOW:**
 
@@ -1755,9 +1755,9 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 - **Splenic artery = the most tortuous artery in the body**, a branch of the **coeliac trunk**, running along the upper border of the pancreas.
 - Splenectomy risks: **injury to the greater curvature of the stomach** while dividing the short gastrics, and **left lower lobe atelectasis**.
 - **Post-splenectomy:** vaccinate against **pneumococcus, meningococcus and H. influenzae b** (ideally 2 weeks pre-op), plus penicillin prophylaxis — **OPSI risk**. Blood film shows **Howell–Jolly bodies** (confirming a functioning-spleen-free state).
-- The spleen is the "**organ of odd numbers**": **1 × 3 × 5 inches, 7 oz, ribs 9–11**.
+- The spleen is the “**organ of odd numbers**”: **1 × 3 × 5 inches, 7 oz, ribs 9–11**.
 
-**EXAM CONNECTION:** Labelled image → "which structure would you occlude to ligate the splenic artery?" → the lienorenal ligament.
+**EXAM CONNECTION:** Labelled image → “which structure would you occlude to ligate the splenic artery?” → the lienorenal ligament.
 
 **REMEMBER:** *Lienorenal = splenic vessels + pancreatic tail. Gastrosplenic = short gastrics.*
 
@@ -1774,7 +1774,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **PEARL:** **Transpyloric plane = L1 · Subcostal plane (lowest costal margin) = L3 · Intertubercular/intercristal plane = L4–L5.**
 
-**UNDERSTAND:** The **transpyloric plane of Addison** (midway between the suprasternal notch and pubic symphysis, ~a hand's breadth below the xiphisternum) is the single most useful abdominal landmark because so much is arranged on it.
+**UNDERSTAND:** The **transpyloric plane of Addison** (midway between the suprasternal notch and pubic symphysis, ~a hand’s breadth below the xiphisternum) is the single most useful abdominal landmark because so much is arranged on it.
 
 **MUST KNOW:**
 
@@ -1802,12 +1802,12 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **MUST KNOW:**
 
-- **Direct hernia** pushes through **Hesselbach's triangle** — bounded by the **inferior epigastric artery (laterally), rectus abdominis (medially), and the inguinal ligament (below)** — i.e. **MEDIAL to the inferior epigastric artery**. **Indirect hernia** enters the deep ring **LATERAL to it**.
+- **Direct hernia** pushes through **Hesselbach’s triangle** — bounded by the **inferior epigastric artery (laterally), rectus abdominis (medially), and the inguinal ligament (below)** — i.e. **MEDIAL to the inferior epigastric artery**. **Indirect hernia** enters the deep ring **LATERAL to it**.
 - The **shutter mechanism** (arching fibres of internal oblique and transversus contracting to flatten the canal) plus the **flap-valve** and **ball-valve** mechanisms keep the canal closed.
 - **Deep ring** = defect in the **transversalis fascia**, at the **mid-point of the inguinal ligament**; **superficial ring** = defect in the **external oblique aponeurosis**, above and medial to the pubic tubercle.
 - **Inguinal canal contents:** spermatic cord (or round ligament) + **ilioinguinal nerve** (which enters through the side wall, not the deep ring).
 
-**EXAM CONNECTION:** "All are true of the conjoint tendon EXCEPT" → "runs parallel to the inguinal ligament".
+**EXAM CONNECTION:** “All are true of the conjoint tendon EXCEPT” → “runs parallel to the inguinal ligament”.
 
 **REMEMBER:** *Conjoint tendon backs up the superficial ring — obliquely, not in parallel.*
 
@@ -1817,7 +1817,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 ### 74. Median Lobe of the Prostate
 
-**PEARL:** The **median lobe** lies between the ejaculatory ducts and the urethra. When it hypertrophies in **BPH** it projects into the bladder as the **uvula vesicae (Lietaud's uvula)**, obstructing the bladder neck.
+**PEARL:** The **median lobe** lies between the ejaculatory ducts and the urethra. When it hypertrophies in **BPH** it projects into the bladder as the **uvula vesicae (Lietaud’s uvula)**, obstructing the bladder neck.
 
 **UNDERSTAND:** The lobes behave differently because they are different tissues. **BPH arises in the periurethral TRANSITION zone** (median and lateral lobes) — right next to the urethra, so even a small nodule obstructs early. **Carcinoma arises in the PERIPHERAL zone** — far from the urethra, so it grows silently and only obstructs late, but it is palpable per rectum.
 
@@ -1826,12 +1826,12 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 - **Median lobe = BPH · Posterior (peripheral) lobe = CARCINOMA.** This single line answers most prostate anatomy questions.
 - A prominent median lobe causes **a ball-valve effect**, disproportionate obstructive symptoms and **residual urine**, and often makes catheterisation difficult (use a **Coudé tip**).
 - **Trigone of the bladder is mesodermal (mesonephric duct)**; the rest of the bladder is endodermal.
-- **Prostatic venous plexus (of Santorini)** communicates with the **internal vertebral (Batson's) venous plexus** — the route for **osteoblastic vertebral metastases** of prostate cancer, which are **sclerotic** on X-ray and typically involve the **lumbar spine and pelvis**.
+- **Prostatic venous plexus (of Santorini)** communicates with the **internal vertebral (Batson’s) venous plexus** — the route for **osteoblastic vertebral metastases** of prostate cancer, which are **sclerotic** on X-ray and typically involve the **lumbar spine and pelvis**.
 - Normal prostate volume ~**20 cc**; PSA density and free:total PSA help separate BPH from cancer.
 
-**EXAM CONNECTION:** "Which lobe forms the uvula vesicae?" → **median**. Also asked as the lobe involved in BPH vs carcinoma.
+**EXAM CONNECTION:** “Which lobe forms the uvula vesicae?” → **median**. Also asked as the lobe involved in BPH vs carcinoma.
 
-**REMEMBER:** *Median lobe grows into the bladder (BPH); posterior lobe grows into the rectum's reach (cancer).*
+**REMEMBER:** *Median lobe grows into the bladder (BPH); posterior lobe grows into the rectum’s reach (cancer).*
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/07/04/untitled-921.jpg)
@@ -1844,11 +1844,11 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **PEARL:** Root value **L1–L2**. **Afferent = ilioinguinal / femoral branch of the genitofemoral nerve**; **efferent = genital branch of the genitofemoral nerve**. Stroking the **upper medial thigh** elevates the ipsilateral testis.
 
-**UNDERSTAND:** The cremaster muscle is derived from the **internal oblique**, so it keeps that muscle's segmental innervation (L1). The reflex is a **superficial (cutaneous) reflex** — so, unlike a deep tendon reflex, it is **ABSENT in upper motor neuron lesions**, not exaggerated.
+**UNDERSTAND:** The cremaster muscle is derived from the **internal oblique**, so it keeps that muscle’s segmental innervation (L1). The reflex is a **superficial (cutaneous) reflex** — so, unlike a deep tendon reflex, it is **ABSENT in upper motor neuron lesions**, not exaggerated.
 
 **MUST KNOW:**
 
-- **An ABSENT cremasteric reflex is the single most useful bedside sign of TESTICULAR TORSION** (sensitivity ~99%). Torsion also gives a **high-riding, transversely-lying testis** and a **negative Prehn's sign** (elevation does not relieve pain, unlike epididymo-orchitis).
+- **An ABSENT cremasteric reflex is the single most useful bedside sign of TESTICULAR TORSION** (sensitivity ~99%). Torsion also gives a **high-riding, transversely-lying testis** and a **negative Prehn’s sign** (elevation does not relieve pain, unlike epididymo-orchitis).
 - Torsion is a **surgical emergency — explore within 6 hours**; do not delay for imaging if the diagnosis is clinical. Fix **both** testes (bell-clapper deformity is bilateral).
 - Other superficial reflexes and roots: **abdominal — upper T7–T9, lower T10–T12**; **plantar — S1**; **anal wink — S2–S4**; **bulbocavernosus — S2–S4**.
 - The reflex is normally **absent in infants under 6 months and in the elderly** — so its absence is only meaningful in the right age group.
@@ -1874,7 +1874,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 - **Perineal body** — the fibromuscular node between vagina and anus into which insert the **bulbospongiosus, superficial and deep transverse perinei, external anal sphincter and levator ani**; it is the keystone of pelvic floor support, and its disruption predisposes to **prolapse**.
 - Nerve supply and anaesthesia: **pudendal nerve (S2,3,4)** — blocked at the **ischial spine** approached through the vagina.
 
-**EXAM CONNECTION:** "All the following may be damaged EXCEPT" — the answer is always the structure lying **anterior** to the vaginal orifice (urethra, bladder, clitoris).
+**EXAM CONNECTION:** “All the following may be damaged EXCEPT” — the answer is always the structure lying **anterior** to the vaginal orifice (urethra, bladder, clitoris).
 
 **REMEMBER:** *A median cut runs backwards — everything it can hurt is behind the vagina.*
 
@@ -1900,7 +1900,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 - **Spermatic cord — 3-3-3:** three arteries (testicular, deferential/artery to vas, cremasteric); three nerves (**genital branch of genitofemoral**, sympathetics, and ilioinguinal *on* rather than in the cord); three other structures (vas deferens, pampiniform plexus, lymphatics) + processus vaginalis.
 - **Femoral branch of the genitofemoral nerve** passes **beneath the inguinal ligament into the femoral sheath** — never in the canal. It supplies the skin over the femoral triangle and is the **afferent** limb of the cremasteric reflex (the **genital** branch is the efferent).
 
-**EXAM CONNECTION:** Two recurring traps — "deep ring is an opening in transversus abdominis" (false; **fascia transversalis**) and listing the **femoral branch of genitofemoral** or the **inferior epigastric artery** as a canal content (neither is).
+**EXAM CONNECTION:** Two recurring traps — “deep ring is an opening in transversus abdominis” (false; **fascia transversalis**) and listing the **femoral branch of genitofemoral** or the **inferior epigastric artery** as a canal content (neither is).
 
 **REMEMBER:** *Deep ring pierces the transversalis fascia; the femoral branch and the epigastric artery stay outside.*
 
@@ -1931,7 +1931,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 - **Portosystemic anastomoses** (for portal hypertension): **oesophageal (left gastric ↔ azygos) → varices; rectal (superior ↔ middle/inferior rectal) → haemorrhoids; paraumbilical ↔ epigastric → caput medusae; retroperitoneal (veins of Retzius)**.
 - **Renal cell carcinoma** classically invades the renal vein and grows as tumour thrombus into the IVC and right atrium.
 
-**EXAM CONNECTION:** The recurring trap is the **left** gonadal/suprarenal vein. If an option says "left" and names anything other than the **inferior phrenic or renal** vein, it is wrong.
+**EXAM CONNECTION:** The recurring trap is the **left** gonadal/suprarenal vein. If an option says “left” and names anything other than the **inferior phrenic or renal** vein, it is wrong.
 
 **REMEMBER:** *Everything on the left goes through the left renal vein first.*
 
@@ -1948,7 +1948,7 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper pole of each kidney within the perirenal fascia.
 
-**UNDERSTAND:** The shapes are moulded by their neighbours. The **right gland is wedged between the liver's bare area, the IVC and the diaphragm**, which compresses it into a pyramid; the **left gland lies against the stomach, the tail of pancreas and the spleen** along a longer, flatter surface, so it spreads into a crescent over the upper pole of the kidney. The relations also explain the surgical hazard: the **RIGHT suprarenal vein is short and drains directly into the IVC**, making right adrenalectomy the more dangerous operation.
+**UNDERSTAND:** The shapes are moulded by their neighbours. The **right gland is wedged between the liver’s bare area, the IVC and the diaphragm**, which compresses it into a pyramid; the **left gland lies against the stomach, the tail of pancreas and the spleen** along a longer, flatter surface, so it spreads into a crescent over the upper pole of the kidney. The relations also explain the surgical hazard: the **RIGHT suprarenal vein is short and drains directly into the IVC**, making right adrenalectomy the more dangerous operation.
 
 **MUST KNOW:**
 
@@ -1963,13 +1963,13 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 
 - Histology: **cortex (mesodermal) — zona glomerulosa, fasciculata, reticularis**; **medulla (NEURAL CREST) — chromaffin cells secreting adrenaline and noradrenaline**. **Cortisol draining from the cortex induces PNMT in the medulla**, which is why adrenaline is made only here.
 
-- **Phaeochromocytoma — the "10% tumour"** (10% bilateral, extra-adrenal, malignant, familial, in children); **the ORGAN OF ZUCKERKANDL** (near the aortic bifurcation) is the classic extra-adrenal site. Diagnose with **plasma free or 24-hour urinary METANEPHRINES**; **give alpha blockade (phenoxybenzamine) BEFORE beta blockade**.
+- **Phaeochromocytoma — the “10% tumour”** (10% bilateral, extra-adrenal, malignant, familial, in children); **the ORGAN OF ZUCKERKANDL** (near the aortic bifurcation) is the classic extra-adrenal site. Diagnose with **plasma free or 24-hour urinary METANEPHRINES**; **give alpha blockade (phenoxybenzamine) BEFORE beta blockade**.
 
 - **Adrenal incidentaloma:** exclude functionality (metanephrines, dexamethasone suppression, aldosterone:renin) and malignancy; **>4 cm or suspicious imaging → resect**.
 
-**EXAM CONNECTION:** "Which statement is FALSE?" — the false one swaps the two shapes. The left-sided relations (pancreas, spleen) and the retroperitoneal position are always true.
+**EXAM CONNECTION:** “Which statement is FALSE?” — the false one swaps the two shapes. The left-sided relations (pancreas, spleen) and the retroperitoneal position are always true.
 
-**ALSO KNOW:** **Cortex = MESODERM** (coelomic epithelium); **Medulla = NEURAL CREST**. At birth only the **zona glomerulosa and fasciculata** exist — the **zona reticularis appears at about 3 years**. The medulla is effectively a **modified sympathetic ganglion** whose postganglionic neurons lost their axons and became secretory — which is why it is innervated by **preganglionic sympathetic fibres directly** and why its "neurotransmitter" (adrenaline) reaches the blood as a hormone. **GFR — Salt, Sugar, Sex:** **G**lomerulosa → aldosterone; **F**asciculata → cortisol; **R**eticularis → androgens (DHEA). The late appearance of the zona reticularis is the anatomical basis of **adrenarche** (~6–8 years, pubic/axillary hair). Neural crest origin explains the tumours: **phaeochromocytoma and neuroblastoma** are neural crest tumours; **neuroblastoma is the commonest extracranial solid tumour of childhood** and secretes **VMA/HVA**. The fetal adrenal has a large **fetal zone** that produces **DHEA-S** for placental oestriol and involutes after birth. Aldosterone secretion is controlled by **renin–angiotensin and K⁺**, not ACTH — hence the zona glomerulosa is preserved in secondary adrenal insufficiency. *Cortex = mesoderm = steroids. Medulla = neural crest = catecholamines.*
+**ALSO KNOW:** **Cortex = MESODERM** (coelomic epithelium); **Medulla = NEURAL CREST**. At birth only the **zona glomerulosa and fasciculata** exist — the **zona reticularis appears at about 3 years**. The medulla is effectively a **modified sympathetic ganglion** whose postganglionic neurons lost their axons and became secretory — which is why it is innervated by **preganglionic sympathetic fibres directly** and why its “neurotransmitter” (adrenaline) reaches the blood as a hormone. **GFR — Salt, Sugar, Sex:** **G**lomerulosa → aldosterone; **F**asciculata → cortisol; **R**eticularis → androgens (DHEA). The late appearance of the zona reticularis is the anatomical basis of **adrenarche** (~6–8 years, pubic/axillary hair). Neural crest origin explains the tumours: **phaeochromocytoma and neuroblastoma** are neural crest tumours; **neuroblastoma is the commonest extracranial solid tumour of childhood** and secretes **VMA/HVA**. The fetal adrenal has a large **fetal zone** that produces **DHEA-S** for placental oestriol and involutes after birth. Aldosterone secretion is controlled by **renin–angiotensin and K⁺**, not ACTH — hence the zona glomerulosa is preserved in secondary adrenal insufficiency. *Cortex = mesoderm = steroids. Medulla = neural crest = catecholamines.*
 
 **REMEMBER:** *Right is a pyramid squeezed by the liver and cava; left is a crescent draped over the kidney.*
 
@@ -1982,23 +1982,23 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 
 ### 80. Urine Extravasation in Urethral Rupture
 
-**PEARL:** Rupture of the **BULBAR urethra BELOW the perineal membrane** extravasates urine into the **SUPERFICIAL PERINEAL POUCH**, from which it tracks into the **scrotum, penis and anterior abdominal wall** — but **NEVER into the thigh**, because **COLLES' FASCIA is firmly attached to the fascia lata along HOLDEN'S LINE.**
+**PEARL:** Rupture of the **BULBAR urethra BELOW the perineal membrane** extravasates urine into the **SUPERFICIAL PERINEAL POUCH**, from which it tracks into the **scrotum, penis and anterior abdominal wall** — but **NEVER into the thigh**, because **COLLES’ FASCIA is firmly attached to the fascia lata along HOLDEN’S LINE.**
 
-**UNDERSTAND:** The distribution of extravasated urine is a **map of fascial attachments**. The superficial perineal pouch is bounded **below by Colles' fascia (the membranous layer of superficial perineal fascia) and above by the perineal membrane**. Colles' fascia is **continuous anteriorly with Scarpa's fascia of the abdominal wall and with the dartos of the scrotum**, so fluid flows freely in those directions; but it is **anchored posteriorly to the perineal membrane and laterally to the ischiopubic rami and the fascia lata**, so it cannot escape backwards or into the thighs. Knowing the attachments predicts the clinical picture exactly.
+**UNDERSTAND:** The distribution of extravasated urine is a **map of fascial attachments**. The superficial perineal pouch is bounded **below by Colles’ fascia (the membranous layer of superficial perineal fascia) and above by the perineal membrane**. Colles’ fascia is **continuous anteriorly with Scarpa’s fascia of the abdominal wall and with the dartos of the scrotum**, so fluid flows freely in those directions; but it is **anchored posteriorly to the perineal membrane and laterally to the ischiopubic rami and the fascia lata**, so it cannot escape backwards or into the thighs. Knowing the attachments predicts the clinical picture exactly.
 
 **MUST KNOW:**
 
-- **HOLDEN'S LINE: the attachment of Colles' fascia to the fascia lata, running laterally from the pubic tubercle for about 8 cm** — the reason for the "butterfly" perineal haematoma and the sparing of the thigh.
+- **HOLDEN’S LINE: the attachment of Colles’ fascia to the fascia lata, running laterally from the pubic tubercle for about 8 cm** — the reason for the “butterfly” perineal haematoma and the sparing of the thigh.
 - **ABOVE the perineal membrane (a MEMBRANOUS urethral injury, typically with a PELVIC FRACTURE) urine extravasates into the DEEP perineal pouch and the extraperitoneal RETROPUBIC SPACE OF RETZIUS**, giving a suprapubic mass and a **HIGH-RIDING PROSTATE (Vermooten sign)**.
 - **Contents of the SUPERFICIAL perineal pouch: root of the penis (corpora cavernosa and spongiosum with the crura and bulb), the ischiocavernosus, bulbospongiosus and superficial transverse perinei muscles, the perineal branches of the pudendal nerve and vessels, and (in women) the greater vestibular (Bartholin) glands.** **DEEP pouch: the external urethral sphincter, deep transverse perinei, the membranous urethra, bulbourethral (Cowper) glands in the male, and the internal pudendal vessels and dorsal nerve of the penis.**
 - **BLOOD AT THE URETHRAL MEATUS = DO NOT CATHETERISE.** Investigate with a **RETROGRADE URETHROGRAM**; drain with a **SUPRAPUBIC CYSTOSTOMY**.
 - **Anterior (bulbar/penile) injuries follow STRADDLE trauma; posterior (membranous/prostatic) injuries follow PELVIC FRACTURES** and carry higher rates of stricture, incontinence and impotence.
 
-**EXAM CONNECTION:** The key phrase is **"below the perineal membrane"** — that single anatomical relation selects the superficial pouch.
+**EXAM CONNECTION:** The key phrase is **“below the perineal membrane”** — that single anatomical relation selects the superficial pouch.
 
-**ALSO KNOW:** **Posterior (membranous) urethral injury** → **"high-riding prostate"**, blood at the meatus, inability to void, **pelvic fracture** — usually managed by **suprapubic catheter**, then delayed repair. **Do NOT pass a urethral catheter** if urethral injury is suspected (blood at the meatus, perineal bruising) — do a **retrograde urethrogram** first. **Anterior (bulbar) injury** = straddle (fall astride a bar/bicycle).
+**ALSO KNOW:** **Posterior (membranous) urethral injury** → **“high-riding prostate”**, blood at the meatus, inability to void, **pelvic fracture** — usually managed by **suprapubic catheter**, then delayed repair. **Do NOT pass a urethral catheter** if urethral injury is suspected (blood at the meatus, perineal bruising) — do a **retrograde urethrogram** first. **Anterior (bulbar) injury** = straddle (fall astride a bar/bicycle).
 
-**REMEMBER:** *Below the membrane, urine fills the scrotum and belly wall but never the thigh — Holden's line stops it.*
+**REMEMBER:** *Below the membrane, urine fills the scrotum and belly wall but never the thigh — Holden’s line stops it.*
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2a40630ca86346759ce0a42c96007057x468x604.JPEG)
@@ -2019,10 +2019,10 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 
 - The **obturator fascia** thickens as the **tendinous arch of levator ani**, the origin of the pubococcygeus and iliococcygeus — so the wall and floor are structurally continuous.
 - **Obturator internus** exits the **lesser** sciatic foramen and makes a **right-angled turn** around the ischium; **piriformis** exits the **greater** sciatic foramen and is the key to identifying every gluteal structure.
-- The **pudendal nerve and internal pudendal vessels** run in **Alcock's canal** within the obturator fascia — the target of a pudendal block.
+- The **pudendal nerve and internal pudendal vessels** run in **Alcock’s canal** within the obturator fascia — the target of a pudendal block.
 - **Obturator externus** is *not* a pelvic wall — it lies outside, on the external aspect of the obturator membrane.
 
-**EXAM CONNECTION:** "Anterolateral wall of the true pelvis" → **obturator internus**; the trap distractor is **obturator externus**, which is outside the pelvis entirely.
+**EXAM CONNECTION:** “Anterolateral wall of the true pelvis” → **obturator internus**; the trap distractor is **obturator externus**, which is outside the pelvis entirely.
 
 **REMEMBER:** *Internus lines the pelvis, externus leaves it.*
 
@@ -2037,7 +2037,7 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 
 **PEARL:** **Below the arcuate line the posterior rectus sheath is absent** — all three aponeuroses pass **in front**, leaving rectus abdominis on bare **fascia transversalis**. The **arcuate line lies midway between umbilicus and pubic symphysis**.
 
-**UNDERSTAND:** Below this level the aponeuroses all migrate anteriorly, because the developing **inferior epigastric vessels** and the abdominal wall's need for anterior strength over the bladder region override the need for a posterior lamina.
+**UNDERSTAND:** Below this level the aponeuroses all migrate anteriorly, because the developing **inferior epigastric vessels** and the abdominal wall’s need for anterior strength over the bladder region override the need for a posterior lamina.
 
 **MUST KNOW:**
 
@@ -2047,7 +2047,7 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 - **Contents of the sheath:** rectus abdominis, pyramidalis, superior and inferior epigastric vessels, **lower six thoracoabdominal nerves (T7–T11 + subcostal)**.
 - The absent posterior sheath is why a **spigelian/low incisional hernia** and **rectus sheath haematoma** behave differently below the line — blood below the arcuate line spreads freely and can cross the midline.
 
-**EXAM CONNECTION:** Image of a rectus sheath section with the posterior layer missing → the level is **below a point midway between umbilicus and pubic symphysis**. Watch the wording: "midway between umbilicus and symphysis," not xiphisternum.
+**EXAM CONNECTION:** Image of a rectus sheath section with the posterior layer missing → the level is **below a point midway between umbilicus and pubic symphysis**. Watch the wording: “midway between umbilicus and symphysis,” not xiphisternum.
 
 **REMEMBER:** *Below the arcuate line, everything goes in front and the back door is open.*
 
@@ -2063,7 +2063,7 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 
 **PEARL:** The third (horizontal) part of the duodenum crosses at the **L3 level**.
 
-**MUST KNOW:** It is crossed anteriorly by the **superior mesenteric vessels** — compression between the SMA and the aorta causes **superior mesenteric artery (Wilkie's) syndrome**, classically in rapid weight loss (loss of the fat pad narrowing the aortomesenteric angle). Duodenal levels: **1st = L1, 2nd = L1–L3 (receives the ampulla), 3rd = L3, 4th = L2** (ends at the duodenojejunal flexure, held by the **ligament of Treitz**).
+**MUST KNOW:** It is crossed anteriorly by the **superior mesenteric vessels** — compression between the SMA and the aorta causes **superior mesenteric artery (Wilkie’s) syndrome**, classically in rapid weight loss (loss of the fat pad narrowing the aortomesenteric angle). Duodenal levels: **1st = L1, 2nd = L1–L3 (receives the ampulla), 3rd = L3, 4th = L2** (ends at the duodenojejunal flexure, held by the **ligament of Treitz**).
 
 **REMEMBER:** *Third part at L3, squeezed by the SMA.*
 
@@ -2075,7 +2075,7 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 
 **MUST KNOW:** The posterior division has only three branches — **iliolumbar, lateral sacral, superior gluteal**. **Both gluteal arteries are the trap**: superior = posterior division, **inferior = anterior division**.
 
-**REMEMBER:** *Posterior division = "I Love Sex" (Iliolumbar, Lateral sacral, Superior gluteal) — everything else is anterior.*
+**REMEMBER:** *Posterior division = “I Love Sex” (Iliolumbar, Lateral sacral, Superior gluteal) — everything else is anterior.*
 
 ---
 
@@ -2093,7 +2093,7 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 
 **PEARL:** **The cervix is NOT part of the vulva.**
 
-**MUST KNOW:** The vulva (external genitalia) = **mons pubis, labia majora, labia minora, clitoris, vestibule, vestibular bulbs, Bartholin's and Skene's glands, and the hymen**. The vagina and cervix are **internal** genitalia.
+**MUST KNOW:** The vulva (external genitalia) = **mons pubis, labia majora, labia minora, clitoris, vestibule, vestibular bulbs, Bartholin’s and Skene’s glands, and the hymen**. The vagina and cervix are **internal** genitalia.
 
 **REMEMBER:** *Vulva stops at the hymen.*
 
@@ -2116,9 +2116,9 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 - Pretracheal fascia **splits to enclose the thyroid** — this is why the gland **moves on swallowing** (it is tethered to the larynx), the single most useful bedside sign of a thyroid swelling.
 - It also encloses the **recurrent laryngeal nerve** in the tracheo-oesophageal groove.
 - The **investing layer** splits to enclose **two muscles (SCM, trapezius), two glands (parotid, submandibular) and two spaces (suprasternal space of Burns, supraclavicular)**.
-- Infection tracking: pretracheal fascia leads directly into the **superior mediastinum** — hence mediastinitis from Ludwig's angina/retropharyngeal abscess.
+- Infection tracking: pretracheal fascia leads directly into the **superior mediastinum** — hence mediastinitis from Ludwig’s angina/retropharyngeal abscess.
 
-**EXAM CONNECTION:** "Pretracheal fascia encloses all EXCEPT" → **sternocleidomastoid**.
+**EXAM CONNECTION:** “Pretracheal fascia encloses all EXCEPT” → **sternocleidomastoid**.
 
 **REMEMBER:** *Pretracheal = the visceral sleeve; SCM belongs to the investing layer.*
 
@@ -2140,9 +2140,9 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 - Surgical relevance: the **jugular venous arch is the vessel encountered and ligated during tracheostomy** when dissecting in the midline above the sternal notch.
 - The investing layer splits to enclose **two muscles (SCM, trapezius), two glands (parotid, submandibular), two spaces (suprasternal, supraclavicular)**.
 
-**EXAM CONNECTION:** "Not a content of the space of Burns" → **external jugular vein**.
+**EXAM CONNECTION:** “Not a content of the space of Burns” → **external jugular vein**.
 
-**REMEMBER:** *Burns' space holds the jugular ARCH, not the external jugular vein.*
+**REMEMBER:** *Burns’ space holds the jugular ARCH, not the external jugular vein.*
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/34294ba3616e4cb4b7c7b3653eae6903x1280x1718.JPEG)
@@ -2160,11 +2160,11 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 **MUST KNOW:**
 
 - Left RLN loops under the **arch of the aorta, lateral to the ligamentum arteriosum**; right RLN loops under the **right subclavian artery**.
-- **Left RLN palsy is far commoner** — its long mediastinal course exposes it to **bronchogenic carcinoma, aortic arch aneurysm, left atrial enlargement (Ortner's syndrome), mediastinal nodes**.
+- **Left RLN palsy is far commoner** — its long mediastinal course exposes it to **bronchogenic carcinoma, aortic arch aneurysm, left atrial enlargement (Ortner’s syndrome), mediastinal nodes**.
 - A **non-recurrent laryngeal nerve** occurs on the **right** in ~1% — associated with an **aberrant right subclavian artery (arteria lusoria)**; a well-known trap in thyroid surgery.
 - The RLN supplies **all intrinsic laryngeal muscles except cricothyroid** (external laryngeal nerve).
 
-**EXAM CONNECTION:** "Long left recurrent laryngeal nerve is due to persistence of which arch artery?" → **6th**.
+**EXAM CONNECTION:** “Long left recurrent laryngeal nerve is due to persistence of which arch artery?” → **6th**.
 
 **REMEMBER:** *Left keeps its 6th arch (ductus) and pays with a long nerve; right loses it and settles for the 4th.*
 
@@ -2183,9 +2183,9 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 - **Rotundum → V2 (maxillary)** into the pterygopalatine fossa; **Ovale → V3**; **Superior orbital fissure → V1** (with III, IV, VI and the superior ophthalmic vein).
 - The **lesser petrosal nerve (IX)** exits through **ovale** to reach the **otic ganglion** (parotid secretomotor); the **greater petrosal nerve (VII)** goes forward through the foramen lacerum.
 - **Foramen spinosum is absent** when the middle meningeal artery arises from the ophthalmic artery — a recognised variant.
-- **Jugular foramen: IX, X, XI + IGX sinus** ; **Hypoglossal canal: XII alone** (a classic "which has a separate canal" question).
+- **Jugular foramen: IX, X, XI + IGX sinus** ; **Hypoglossal canal: XII alone** (a classic “which has a separate canal” question).
 
-**EXAM CONNECTION:** Skull base photograph with a foramen arrowed → "which structure does NOT pass through?" The middle meningeal artery is almost always the intended trap for foramen ovale.
+**EXAM CONNECTION:** Skull base photograph with a foramen arrowed → “which structure does NOT pass through?” The middle meningeal artery is almost always the intended trap for foramen ovale.
 
 **REMEMBER:** *Ovale is MALE; spinosum carries the MIDDLE meningeal artery.*
 
@@ -2212,13 +2212,13 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 
 - Pterion marks the site of the **anterolateral (sphenoidal) fontanelle**, which closes at ~**3 months**.
 
-- Deep to the pterion lie the **lateral (Sylvian) fissure and the Broca's area** — hence pterional craniotomy is the standard approach to anterior circulation aneurysms.
+- Deep to the pterion lie the **lateral (Sylvian) fissure and the Broca’s area** — hence pterional craniotomy is the standard approach to anterior circulation aneurysms.
 
 - **Asterion** = junction of parietal, occipital and temporal (mastoid); overlies the **transverse–sigmoid sinus junction**.
 
 - ![figure](images/2026-08-16-18-34-36-slide-7-1024-3349804264.jpg)
 
-**EXAM CONNECTION:** Skull photo with the H-shaped suture marked → "incorrect statement" is usually the **accessory** meningeal artery (which is at foramen ovale, not the pterion).
+**EXAM CONNECTION:** Skull photo with the H-shaped suture marked → “incorrect statement” is usually the **accessory** meningeal artery (which is at foramen ovale, not the pterion).
 
 **REMEMBER:** *Thinnest bone over the biggest meningeal artery = extradural haematoma.*
 
@@ -2241,9 +2241,9 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 
 - **Stylopharyngeus is the ONLY muscle supplied by the glossopharyngeal nerve** — a guaranteed one-liner.
 - The **stylomandibular ligament and stylohyoid ligament** also attach here; ossification of the latter with an elongated styloid → **Eagle syndrome** (throat pain on turning the head, referred otalgia).
-- **Riolan's bouquet** is the classic name for the styloid attachments (3 muscles + 2 ligaments).
+- **Riolan’s bouquet** is the classic name for the styloid attachments (3 muscles + 2 ligaments).
 
-**EXAM CONNECTION:** "All these nerves supply muscles attached to the marked structure EXCEPT" → **vagus (X)**.
+**EXAM CONNECTION:** “All these nerves supply muscles attached to the marked structure EXCEPT” → **vagus (X)**.
 
 **REMEMBER:** *Styloid: pharynx-IX, hyoid-VII, tongue-XII — three arches, one spike.*
 
@@ -2259,16 +2259,16 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 
 **PEARL:** All muscles of the palate and pharynx are supplied by the **vagus via the pharyngeal plexus — EXCEPT tensor veli palatini (V3) and stylopharyngeus (IX)**.
 
-**UNDERSTAND:** **"Tensor = Trigeminal."** Both tensors of the head — tensor veli palatini and tensor tympani — are **1st arch** muscles and therefore V3. Everything else palatal is 4th arch (vagus).
+**UNDERSTAND:** **“Tensor = Trigeminal.”** Both tensors of the head — tensor veli palatini and tensor tympani — are **1st arch** muscles and therefore V3. Everything else palatal is 4th arch (vagus).
 
 **MUST KNOW:**
 
 - **Levator veli palatini (vagus) is the main elevator of the soft palate**; tensor veli palatini **opens the auditory tube** on swallowing.
-- Cleft palate disrupts tensor veli palatini's function → **eustachian tube dysfunction → recurrent otitis media with effusion** in cleft children.
-- Vagal palsy → the **uvula deviates AWAY from the lesion** and there is a "**curtain sign**" (posterior pharyngeal wall pulled to the normal side).
+- Cleft palate disrupts tensor veli palatini’s function → **eustachian tube dysfunction → recurrent otitis media with effusion** in cleft children.
+- Vagal palsy → the **uvula deviates AWAY from the lesion** and there is a “**curtain sign**” (posterior pharyngeal wall pulled to the normal side).
 - The **cricothyroid** is the other classic vagal exception, supplied by the **external laryngeal** branch rather than the recurrent laryngeal.
 
-**EXAM CONNECTION:** Image of soft-palate elevation → "which muscle is supplied by the same nerve?" Look for the vagal option among distractors of III, IV, VI and V3.
+**EXAM CONNECTION:** Image of soft-palate elevation → “which muscle is supplied by the same nerve?” Look for the vagal option among distractors of III, IV, VI and V3.
 
 **REMEMBER:** *Tensor veli palatini is trigeminal; every other palatal muscle is vagal.*
 
@@ -2281,7 +2281,7 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 
 ### 94. The Dangerous Layer of the Scalp
 
-**PEARL:** Scalp infection and haematoma collect in the **LOOSE AREOLAR TISSUE**, between the **epicranial aponeurosis and the pericranium** — the "dangerous layer".
+**PEARL:** Scalp infection and haematoma collect in the **LOOSE AREOLAR TISSUE**, between the **epicranial aponeurosis and the pericranium** — the “dangerous layer”.
 
 **UNDERSTAND:** It is dangerous because it contains the **valveless emissary veins** connecting the scalp veins to the **intracranial dural venous sinuses** — so infection travels inward, causing **meningitis or cavernous sinus thrombosis**.
 
@@ -2290,10 +2290,10 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 - **SCALP:** **S**kin, dense **C**onnective tissue, epicranial **A**poneurosis, **L**oose areolar tissue, **P**ericranium.
 - The **first three layers move as one unit** — hence scalping injuries strip them together.
 - **Bleeding in the dense connective tissue layer does NOT spread** (fibrous septa hold the vessels open — which is also why **scalp lacerations bleed profusely and do not retract/stop**).
-- Collection in the loose areolar layer spreads widely and gives the classic "**black eye**" as blood tracks into the eyelids; it stops where the aponeurosis attaches (superior nuchal line and zygomatic arches).
+- Collection in the loose areolar layer spreads widely and gives the classic “**black eye**” as blood tracks into the eyelids; it stops where the aponeurosis attaches (superior nuchal line and zygomatic arches).
 - **Subperiosteal (cephalhaematoma) collections are LIMITED BY SUTURES**; **subaponeurotic (subgaleal) collections CROSS SUTURES** — the key distinction in neonates.
 
-**EXAM CONNECTION:** Post-laceration infection vignette → "between which layers?" → aponeurosis and pericranium.
+**EXAM CONNECTION:** Post-laceration infection vignette → “between which layers?” → aponeurosis and pericranium.
 
 **REMEMBER:** *Layer 4 is dangerous — emissary veins carry infection to the sinuses.*
 
@@ -2333,20 +2333,20 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 
 ---
 
-### 96. The "Magic of C6"
+### 96. The “Magic of C6”
 
-**PEARL:** At **C6** you find the **cricoid cartilage**, the **cricopharyngeal junction (narrowest part of the oesophagus)**, and the **carotid (Chassaignac's) tubercle** — the anterior tubercle of the C6 transverse process against which the **common carotid pulse is compressed**.
+**PEARL:** At **C6** you find the **cricoid cartilage**, the **cricopharyngeal junction (narrowest part of the oesophagus)**, and the **carotid (Chassaignac’s) tubercle** — the anterior tubercle of the C6 transverse process against which the **common carotid pulse is compressed**.
 
 **UNDERSTAND:** An artery is only palpable when it can be pressed against something hard. The carotid tubercle is that hard backstop — which is also why it is the landmark for **stellate ganglion block** and for an **anterior approach to the cervical spine**.
 
 **MUST KNOW:**
 
 - **Also at C6:** **larynx becomes trachea**, **pharynx becomes oesophagus**, **middle thyroid vein** and the **inferior thyroid artery** cross, **vertebral artery enters the transverse foramen** (i.e. the C6 foramen transversarium is the entry point).
-- **Cricoid cartilage is the ONLY complete cartilaginous ring** in the airway — the reason **cricoid pressure (Sellick's manoeuvre)** can occlude the oesophagus, and the reason the **subglottis is the narrowest part of the paediatric airway** (and the site of post-intubation stenosis).
-- **Killian's dehiscence** — between thyropharyngeus and cricopharyngeus at this level — is where a **Zenker's (pharyngeal) pouch** herniates.
+- **Cricoid cartilage is the ONLY complete cartilaginous ring** in the airway — the reason **cricoid pressure (Sellick’s manoeuvre)** can occlude the oesophagus, and the reason the **subglottis is the narrowest part of the paediatric airway** (and the site of post-intubation stenosis).
+- **Killian’s dehiscence** — between thyropharyngeus and cricopharyngeus at this level — is where a **Zenker’s (pharyngeal) pouch** herniates.
 - Other quick levels: **C3 = hyoid**, **C4 = thyroid cartilage upper border/carotid bifurcation**, **C7 = vertebra prominens**.
 
-**EXAM CONNECTION:** "Common carotid pulse is felt at the level of" → **cricoid cartilage (C6)**.
+**EXAM CONNECTION:** “Common carotid pulse is felt at the level of” → **cricoid cartilage (C6)**.
 
 **REMEMBER:** *C6 — the four Cs: Cricoid, Cricopharyngeus, Carotid tubercle, Common carotid pulse.*
 
@@ -2371,7 +2371,7 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 - **Atrophic glossitis (loss of filiform papillae)** → iron, B12, folate, riboflavin, niacin deficiency; **Plummer–Vinson syndrome**.
 - Taste buds also occur on the **soft palate, epiglottis and pharynx** — not just the tongue.
 
-**EXAM CONNECTION:** "Which papilla does not have taste buds?" → **filiform**.
+**EXAM CONNECTION:** “Which papilla does not have taste buds?” → **filiform**.
 
 **REMEMBER:** *Filiform = friction, not flavour.*
 
@@ -2388,13 +2388,13 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 
 **PEARL:** The **ANTERIOR division is mainly MOTOR** (muscles of mastication) plus the sensory **buccal nerve**. The **POSTERIOR division is mainly SENSORY**: **auriculotemporal, lingual, and inferior alveolar**.
 
-**UNDERSTAND:** V3 is the only trigeminal division with a **motor root**, and that motor root is funnelled almost entirely into the anterior division. Remembering "**anterior = motor, with one sensory exception (buccal)**" resolves most questions.
+**UNDERSTAND:** V3 is the only trigeminal division with a **motor root**, and that motor root is funnelled almost entirely into the anterior division. Remembering “**anterior = motor, with one sensory exception (buccal)**” resolves most questions.
 
 ![figure](images/2026-08-17-14-01-41-070417_0934_MandibularN1-1789354177.jpg)
 
 **MUST KNOW:**
 
-- **Auriculotemporal nerve** encircles the **middle meningeal artery** and loops **behind the TMJ**; it carries the **parotid secretomotor fibres from the otic ganglion (IX)** — hence **Frey's syndrome (gustatory sweating)** after parotidectomy, when these fibres misdirect to sweat glands.
+- **Auriculotemporal nerve** encircles the **middle meningeal artery** and loops **behind the TMJ**; it carries the **parotid secretomotor fibres from the otic ganglion (IX)** — hence **Frey’s syndrome (gustatory sweating)** after parotidectomy, when these fibres misdirect to sweat glands.
 - **Lingual nerve** arcs **BELOW/around the submandibular duct** (crossing from lateral to medial) — a much-loved relation; it carries the **chorda tympani (VII)** for taste and submandibular secretomotor fibres.
 - **Inferior alveolar → mental nerve** (terminal). Both are **posterior** division — the classic trap.
 - **Inferior alveolar nerve block** is the standard dental block; **lingual nerve injury** is a recognised complication of third-molar extraction.
@@ -2419,12 +2419,12 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 - **The four ganglia:** **Ciliary → III** (sphincter pupillae, ciliary muscle; rides V1) · **Pterygopalatine → VII** (lacrimal, nasal, palatine; rides V2 → zygomatic → lacrimal nerve) · **Submandibular → VII** via **chorda tympani + lingual** (submandibular, sublingual) · **Otic → IX** via the **lesser petrosal** (parotid; rides the **auriculotemporal** nerve, V3).
 - **Only the ciliary ganglion is III; the otic is IX; the other two are VII.**
 - **Vidian nerve = greater petrosal (parasympathetic) + deep petrosal (sympathetic)** — **Vidian neurectomy** was the classical operation for intractable **vasomotor rhinitis**.
-- **Crocodile tears (gustatory lacrimation)** = aberrant regeneration of VII fibres after **Bell's palsy**, misrouting salivary fibres to the lacrimal gland — the pterygopalatine analogue of **Frey's syndrome** (which involves the otic ganglion/auriculotemporal nerve).
-- **Sluder's neuralgia** = pterygopalatine ganglion neuralgia.
+- **Crocodile tears (gustatory lacrimation)** = aberrant regeneration of VII fibres after **Bell’s palsy**, misrouting salivary fibres to the lacrimal gland — the pterygopalatine analogue of **Frey’s syndrome** (which involves the otic ganglion/auriculotemporal nerve).
+- **Sluder’s neuralgia** = pterygopalatine ganglion neuralgia.
 
-**EXAM CONNECTION:** Skull image marking the pterygopalatine fossa → "which ganglion is affected?"
+**EXAM CONNECTION:** Skull image marking the pterygopalatine fossa → “which ganglion is affected?”
 
-**REMEMBER:** *Ciliary-III, Otic-IX, and the two "wet face" ganglia (pterygopalatine and submandibular) are VII.*
+**REMEMBER:** *Ciliary-III, Otic-IX, and the two “wet face” ganglia (pterygopalatine and submandibular) are VII.*
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/09/05/screenshot-2024-09-05-140551.png)
@@ -2462,21 +2462,21 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 
 ### 101. External Carotid Artery Branches and Two Named Structures
 
-**PEARL:** The **ASCENDING PHARYNGEAL artery is the only MEDIAL branch of the external carotid artery**. The **median nerve is the "eye of the hand"**. The **piriformis is the "key muscle of the gluteal region"**.
+**PEARL:** The **ASCENDING PHARYNGEAL artery is the only MEDIAL branch of the external carotid artery**. The **median nerve is the “eye of the hand”**. The **piriformis is the “key muscle of the gluteal region”**.
 
 **UNDERSTAND:** The ascending pharyngeal is medial because it is the **first and smallest branch**, arising from the medial wall right at the bifurcation and running straight up between the pharynx and the internal carotid — the only direction with unclaimed space.
 
 The **piriformis** earns its name because it emerges through the **greater sciatic foramen** and every other structure entering or leaving the gluteal region is described in relation to it — above it, below it, or through it.
 
-And the **median nerve** supplies sensation to the **thumb, index and middle finger pulps** — the tactile "reading" surfaces of the hand — so its loss makes the hand functionally blind.
+And the **median nerve** supplies sensation to the **thumb, index and middle finger pulps** — the tactile “reading” surfaces of the hand — so its loss makes the hand functionally blind.
 
 **MUST KNOW:**
 
-- **ECA branches — "Some Anatomists Like Freaking Out Poor Medical Students":** **S**uperior thyroid (anterior), **A**scending pharyngeal (**medial**), **L**ingual (anterior), **F**acial (anterior), **O**ccipital (posterior), **P**osterior auricular (posterior), **M**axillary and **S**uperficial temporal (terminal, within the parotid). **The internal carotid gives NO branches in the neck** — a classic distinguishing question.
+- **ECA branches — “Some Anatomists Like Freaking Out Poor Medical Students”:** **S**uperior thyroid (anterior), **A**scending pharyngeal (**medial**), **L**ingual (anterior), **F**acial (anterior), **O**ccipital (posterior), **P**osterior auricular (posterior), **M**axillary and **S**uperficial temporal (terminal, within the parotid). **The internal carotid gives NO branches in the neck** — a classic distinguishing question.
 - **Structures above piriformis (through the greater sciatic foramen):** superior gluteal nerve and vessels. **Below piriformis:** inferior gluteal nerve and vessels, **sciatic nerve**, posterior femoral cutaneous nerve, pudendal nerve and internal pudendal vessels, nerve to obturator internus and to quadratus femoris. **The pudendal nerve and internal pudendal vessels re-enter the pelvis through the LESSER sciatic foramen** (around the ischial spine — the site of the pudendal block).
 - **Piriformis syndrome:** buttock pain with sciatica, worse on sitting and internal rotation; the sciatic nerve pierces the muscle in ~10% of people.
 - **Intramuscular gluteal injections go in the UPPER OUTER QUADRANT** to avoid the sciatic nerve; injury causes **foot drop**.
-- **Median nerve — "labourer's nerve"** is another name (it powers most of the long flexors); **ulnar nerve is the "musician's nerve"** (fine intrinsic movements); **radial nerve is the "great extensor"**. Median palsy gives an **"ape/simian hand"** with loss of opposition; a high median lesion gives the **"hand of benediction"** (pointing/Benediction sign) on attempted fist closure.
+- **Median nerve — “labourer’s nerve”** is another name (it powers most of the long flexors); **ulnar nerve is the “musician’s nerve”** (fine intrinsic movements); **radial nerve is the “great extensor”**. Median palsy gives an **“ape/simian hand”** with loss of opposition; a high median lesion gives the **“hand of benediction”** (pointing/Benediction sign) on attempted fist closure.
 
 **EXAM CONNECTION:** Pure one-line recall — but the ECA branch question is asked most often by **direction (anterior/posterior/medial/terminal)** rather than by name.
 
@@ -2499,7 +2499,7 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 **MUST KNOW:**
 
 - The **anterior ethmoidal artery is the principal supply of the anterior/superior septum** and is the target in **posterior or refractory EPISTAXIS from the anterosuperior nasal cavity**; the **sphenopalatine artery** (maxillary/external carotid) supplies most posterior epistaxis.
-- **Little's/Kiesselbach's area** on the anteroinferior septum — the site of >90% of anterior epistaxis — is supplied by the anastomosis of the **anterior ethmoidal, sphenopalatine, greater palatine, and superior labial arteries**.
+- **Little’s/Kiesselbach’s area** on the anteroinferior septum — the site of >90% of anterior epistaxis — is supplied by the anastomosis of the **anterior ethmoidal, sphenopalatine, greater palatine, and superior labial arteries**.
 - **The cribriform plate** lies medial to the ethmoid roof and is **thinner than the fovea ethmoidalis** — the **Keros classification** grades how deep the olfactory fossa lies (Keros III has the highest risk of iatrogenic CSF leak).
 - Other structures on a coronal sinus CT: **maxillary sinus and its ostium, the osteomeatal complex (uncinate process, ethmoidal infundibulum, hiatus semilunaris, ethmoidal bulla), the middle turbinate and the lamina papyracea** — the paper-thin medial orbital wall that separates the ethmoid air cells from orbital fat.
 - **Optic nerve** appears as an oval structure **within the orbit**, more posteriorly, alongside the extraocular muscles.
@@ -2517,16 +2517,16 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 
 ### 103. Secretomotor Pathway to the Lacrimal Gland
 
-**PEARL: **Lacrimal secretomotor fibres run:** superior salivatory nucleus → facial nerve → GREATER PETROSAL nerve → joins the deep petrosal nerve to form the NERVE OF THE PTERYGOID CANAL (VIDIAN) → PTERYGOPALATINE GANGLION (synapse) → MAXILLARY nerve (V2) through the FORAMEN ROTUNDUM → zygomatic → zygomaticotemporal → communicating  branch → LACRIMAL nerve (V1) → gland.**
+**PEARL: **Lacrimal secretomotor fibres run:** superior salivatory nucleus → facial nerve → GREATER PETROSAL nerve → joins the deep petrosal nerve to form the NERVE OF THE PTERYGOID CANAL (VIDIAN) → PTERYGOPALATINE GANGLION (synapse) → MAXILLARY nerve (V2) through the FORAMEN ROTUNDUM → zygomatic → zygomaticotemporal → communicating branch → LACRIMAL nerve (V1) → gland.**
 
-**UNDERSTAND:** Parasympathetic fibres are **"hitch-hikers"** — they have no independent route to their target, so they travel along whichever somatic nerve is heading the right way. This is why the pathway crosses **three different cranial nerves (VII → V2 → V1)** and why a lesion anywhere along that chain — greater petrosal nerve, pterygopalatine ganglion, maxillary nerve or zygomatic branch — causes **reduced lacrimation and a dry, gritty eye**.
+**UNDERSTAND:** Parasympathetic fibres are **“hitch-hikers”** — they have no independent route to their target, so they travel along whichever somatic nerve is heading the right way. This is why the pathway crosses **three different cranial nerves (VII → V2 → V1)** and why a lesion anywhere along that chain — greater petrosal nerve, pterygopalatine ganglion, maxillary nerve or zygomatic branch — causes **reduced lacrimation and a dry, gritty eye**.
 
 **MUST KNOW:**
 
 - **The four parasympathetic ganglia of the head and their hitch-hiking pattern: CILIARY (from CN III via the nerve to inferior oblique → short ciliary nerves → sphincter pupillae and ciliary muscle); PTERYGOPALATINE (CN VII via greater petrosal → lacrimal gland and nasal/palatine glands); SUBMANDIBULAR (CN VII via CHORDA TYMPANI, which joins the LINGUAL nerve → submandibular and sublingual glands); OTIC (CN IX via the lesser petrosal nerve → AURICULOTEMPORAL nerve → PAROTID gland).**
 - **CROCODILE TEARS (gustatory lacrimation)** — aberrant regeneration after a **proximal facial nerve palsy**, misdirecting salivatory fibres to the lacrimal gland, so the patient weeps when eating. **FREY SYNDROME (gustatory sweating)** is the equivalent after parotidectomy, with auriculotemporal fibres regrowing into sweat glands.
 - **Facial nerve lesion localisation by what is lost: proximal to the geniculate ganglion → lacrimation lost (Schirmer test), plus hyperacusis, taste and motor loss; distal to the stapedial branch → taste and motor only; at the stylomastoid foramen → motor only.**
-- **Foramina and their contents (high-yield): SUPERIOR ORBITAL FISSURE — III, IV, V1, VI, superior ophthalmic vein; FORAMEN ROTUNDUM — V2; FORAMEN OVALE — V3, accessory meningeal artery, lesser petrosal nerve ("OVALe = Otic ganglion's V3, Accessory meningeal, Lesser petrosal"); FORAMEN SPINOSUM — MIDDLE MENINGEAL artery; JUGULAR FORAMEN — IX, X, XI and the sigmoid sinus; HYPOGLOSSAL CANAL — XII; INTERNAL ACOUSTIC MEATUS — VII and VIII; OPTIC CANAL — optic nerve and ophthalmic artery.**
+- **Foramina and their contents (high-yield): SUPERIOR ORBITAL FISSURE — III, IV, V1, VI, superior ophthalmic vein; FORAMEN ROTUNDUM — V2; FORAMEN OVALE — V3, accessory meningeal artery, lesser petrosal nerve (“OVALe = Otic ganglion’s V3, Accessory meningeal, Lesser petrosal”); FORAMEN SPINOSUM — MIDDLE MENINGEAL artery; JUGULAR FORAMEN — IX, X, XI and the sigmoid sinus; HYPOGLOSSAL CANAL — XII; INTERNAL ACOUSTIC MEATUS — VII and VIII; OPTIC CANAL — optic nerve and ophthalmic artery.**
 - **Reflex tearing** is triggered via the **nasociliary/ophthalmic afferent** limb — corneal irritation.
 
 **EXAM CONNECTION:** The question asks which **foramen** the secretomotor fibres traverse — after the pterygopalatine ganglion they ride V2, so the answer is **foramen rotundum**.
@@ -2545,16 +2545,16 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 
 **PEARL:** The hyoglossus is the **key landmark of the submandibular region**. **Lingual NERVE is superficial; lingual ARTERY is deep.**
 
-**UNDERSTAND:** The lingual artery reaches the tongue by diving **medial (deep) to hyoglossus** — this is precisely why hyoglossus is the surgical landmark for ligating it. Everything that must reach the *floor of the mouth* (nerves, ducts, glands) stays **lateral/superficial**; everything travelling **into the tongue's substance from the pharynx** runs deep.
+**UNDERSTAND:** The lingual artery reaches the tongue by diving **medial (deep) to hyoglossus** — this is precisely why hyoglossus is the surgical landmark for ligating it. Everything that must reach the *floor of the mouth* (nerves, ducts, glands) stays **lateral/superficial**; everything travelling **into the tongue’s substance from the pharynx** runs deep.
 
 **MUST KNOW:**
 
 - **Superficial (lateral):** lingual **nerve** + submandibular ganglion, **hypoglossal nerve**, deep lingual vein, submandibular duct and deep part of the gland, sublingual gland, styloglossus, mylohyoid, digastric tendon.
 - **Deep (medial):** **glossopharyngeal nerve**, **lingual artery**, **stylohyoid ligament**, genioglossus, middle constrictor, inferior longitudinal muscle.
-- Mnemonic: the two structures with **"lingual"** in the name split — **nerve superficial, artery deep**.
-- The lingual artery is ligated in the **Lesser's/Pirogov triangle** (hypoglossal nerve above, digastric tendon below, posterior border of mylohyoid in front).
+- Mnemonic: the two structures with **“lingual”** in the name split — **nerve superficial, artery deep**.
+- The lingual artery is ligated in the **Lesser’s/Pirogov triangle** (hypoglossal nerve above, digastric tendon below, posterior border of mylohyoid in front).
 
-**EXAM CONNECTION:** Always asked as "which is **NOT** a deep relation" → the answer is the **lingual nerve**. The reverse stem ("not superficial") answers **lingual artery** or **glossopharyngeal nerve**.
+**EXAM CONNECTION:** Always asked as “which is **NOT** a deep relation” → the answer is the **lingual nerve**. The reverse stem (“not superficial”) answers **lingual artery** or **glossopharyngeal nerve**.
 
 **REMEMBER:** *The nerve rides over it, the artery burrows under it.*
 
@@ -2566,9 +2566,9 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 
 ---
 
-### 105. Frey's Syndrome — Auriculotemporal Nerve
+### 105. Frey’s Syndrome — Auriculotemporal Nerve
 
-**PEARL:** **Frey's syndrome = gustatory sweating** from **aberrant regeneration of the auriculotemporal nerve** after parotid surgery or trauma.
+**PEARL:** **Frey’s syndrome = gustatory sweating** from **aberrant regeneration of the auriculotemporal nerve** after parotid surgery or trauma.
 
 **UNDERSTAND:** The auriculotemporal nerve carries **parasympathetic secretomotor fibres to the parotid** and runs alongside **sympathetic fibres to the facial sweat glands and vessels**. Both are **cholinergic at the end organ** — sweat glands are the famous sympathetic exception. After the nerve is cut, regrowing salivary parasympathetics can therefore plug straight into sweat glands and be read as valid input, so a **salivary stimulus produces sweating**.
 
@@ -2576,9 +2576,9 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 
 - Presents weeks to months post-parotidectomy: **sweating, flushing and warmth over the preauricular skin while eating** or even smelling food.
 - Confirmed by the **Minor starch–iodine test** (blue-black discoloration over the affected skin).
-- Treatment: **botulinum toxin** into the affected skin (first line), topical **aluminium chloride** antiperspirant, **tympanic neurectomy** (Jacobson's nerve) for refractory cases.
+- Treatment: **botulinum toxin** into the affected skin (first line), topical **aluminium chloride** antiperspirant, **tympanic neurectomy** (Jacobson’s nerve) for refractory cases.
 - Prevention: interposing a **thick skin flap, SMAS flap or temporoparietal fascia** at surgery.
-- The parasympathetic path: **IX → tympanic (Jacobson's) → lesser petrosal → otic ganglion → auriculotemporal → parotid.**
+- The parasympathetic path: **IX → tympanic (Jacobson’s) → lesser petrosal → otic ganglion → auriculotemporal → parotid.**
 
 **EXAM CONNECTION:** Stem gives Botox into preauricular skin and asks which nerve underwent aberrant innervation → **auriculotemporal**. The facial nerve is the distractor because it is the nerve *at risk* in parotid surgery — but it is motor, not secretomotor.
 
@@ -2601,7 +2601,7 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 - **Delayed closure** (>2 years): **hypothyroidism, rickets, Down syndrome, achondroplasia, osteogenesis imperfecta, raised ICP, cleidocranial dysostosis**.
 - Used clinically for **subdural tap** and **cranial ultrasound** — the acoustic window closes when the fontanelle does.
 
-**EXAM CONNECTION:** Asked as "last fontanelle to close" (**anterior**) or as the closure timing table. The paediatric cross-link — causes of delayed closure — is the more common INI-CET form.
+**EXAM CONNECTION:** Asked as “last fontanelle to close” (**anterior**) or as the closure timing table. The paediatric cross-link — causes of delayed closure — is the more common INI-CET form.
 
 **REMEMBER:** *Four bones, largest gap, last to shut.*
 
@@ -2630,13 +2630,13 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 
 **MUST KNOW:** Genioglossus is also the **safety muscle of the tongue** — its paralysis (bilateral) causes the tongue to fall back and obstruct the airway. **Upper motor neuron** lesions deviate the tongue **away** from the lesion (towards the hemiplegic side); **lower motor neuron/XII nerve** lesions deviate **towards** the lesion, with wasting and fasciculation.
 
-**REMEMBER:** *The tongue points to the lesion (LMN) — "lick your wounds".*
+**REMEMBER:** *The tongue points to the lesion (LMN) — “lick your wounds”.*
 
 ---
 
 ### 109. Risorius
 
-**PEARL:** The **risorius** (the "grinning" muscle) is supplied by the **facial nerve (CN VII)** — as are all muscles of facial expression.
+**PEARL:** The **risorius** (the “grinning” muscle) is supplied by the **facial nerve (CN VII)** — as are all muscles of facial expression.
 
 **MUST KNOW:** VII supplies all **second pharyngeal arch** muscles: facial expression, **stapedius, stylohyoid, posterior belly of digastric**. Muscles of mastication (first arch) are supplied by **V3**.
 
@@ -2648,7 +2648,7 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 
 **PEARL:** Formed by **C2 and C3** (cervical plexus) — sensory to the skin over the **ear and parotid region**.
 
-**MUST KNOW:** It is the nerve commonly **sacrificed in parotidectomy** (numb earlobe), and is a favourite **nerve graft donor**. Its involvement is a classic sign of **thickened nerves in leprosy**. **Frey's syndrome** (gustatory sweating after parotid surgery) involves aberrant auriculotemporal fibres, not this nerve.
+**MUST KNOW:** It is the nerve commonly **sacrificed in parotidectomy** (numb earlobe), and is a favourite **nerve graft donor**. Its involvement is a classic sign of **thickened nerves in leprosy**. **Frey’s syndrome** (gustatory sweating after parotid surgery) involves aberrant auriculotemporal fibres, not this nerve.
 
 **REMEMBER:** *C2–C3, over the parotid — numb ear after parotidectomy.*
 
@@ -2658,7 +2658,7 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 
 **PEARL:** A branch of the **thyrocervical trunk** (from the **first part of the subclavian artery**). It ascends anterior to the medial border of **scalenus anterior**, turns medially just below the **C6 transverse process**, and descends on **longus colli** to the lower pole of the thyroid.
 
-**MUST KNOW:** It has an intimate relation to the **recurrent laryngeal nerve** — ligate it **away from the gland (laterally)** to spare the nerve; the superior thyroid artery is ligated **close to the gland** to spare the **external laryngeal nerve** (the "nerve of Amelita Galli-Curci", supplying cricothyroid). The **C6 landmark** is also where the carotid tubercle (Chassaignac) lies.
+**MUST KNOW:** It has an intimate relation to the **recurrent laryngeal nerve** — ligate it **away from the gland (laterally)** to spare the nerve; the superior thyroid artery is ligated **close to the gland** to spare the **external laryngeal nerve** (the “nerve of Amelita Galli-Curci”, supplying cricothyroid). The **C6 landmark** is also where the carotid tubercle (Chassaignac) lies.
 
 **REMEMBER:** *Inferior thyroid artery + recurrent laryngeal nerve — tie it far from the gland.*
 
@@ -2687,7 +2687,7 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 **MUST KNOW:**
 
 - **Ciliary body parts: PARS PLICATA (anterior, with the ciliary processes that SECRETE AQUEOUS and anchor the zonules — highly vascular) and PARS PLANA (posterior, flat, avascular, ~4 mm wide, ending at the ORA SERRATA).**
-- **Wet (neovascular) AMD: choroidal neovascularisation through breaks in Bruch's membrane, presenting with rapid central visual loss and METAMORPHOPSIA (distortion — detected on the AMSLER GRID); diagnosed by OCT and fluorescein/ICG angiography; treated with intravitreal ANTI-VEGF (ranibizumab, aflibercept, bevacizumab).** **DRY AMD: drusen and geographic atrophy, slower loss; no anti-VEGF — the AREDS-2 antioxidant and zinc formulation slows progression in intermediate disease.**
+- **Wet (neovascular) AMD: choroidal neovascularisation through breaks in Bruch’s membrane, presenting with rapid central visual loss and METAMORPHOPSIA (distortion — detected on the AMSLER GRID); diagnosed by OCT and fluorescein/ICG angiography; treated with intravitreal ANTI-VEGF (ranibizumab, aflibercept, bevacizumab).** **DRY AMD: drusen and geographic atrophy, slower loss; no anti-VEGF — the AREDS-2 antioxidant and zinc formulation slows progression in intermediate disease.**
 - **Complications of intravitreal injection: ENDOPHTHALMITIS (the most feared — pain and visual loss over days; treat with vitreous tap and intravitreal antibiotics), raised intraocular pressure, cataract, retinal detachment and vitreous haemorrhage.** Use **strict asepsis with povidone-iodine — the single most important preventive step** — and a lid speculum.
 - **Other intravitreal agents: steroids (triamcinolone, dexamethasone implant) for macular oedema, and antibiotics/antivirals for endophthalmitis and viral retinitis.**
 - **The ora serrata is also the landmark for scleral buckling and cryotherapy** in retinal detachment.
@@ -2742,7 +2742,7 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 - **Full visual acuity (6/6) is attained by ~6 years** of age.
 - The **choroid is derived from neural crest cells**.
 
-**MUST KNOW:** Failure of proper development of the angle/Schlemm's canal → **congenital glaucoma (buphthalmos)**. Amblyopia must be treated before visual maturity is complete — hence the urgency of treating squint/cataract in early childhood.
+**MUST KNOW:** Failure of proper development of the angle/Schlemm’s canal → **congenital glaucoma (buphthalmos)**. Amblyopia must be treated before visual maturity is complete — hence the urgency of treating squint/cataract in early childhood.
 
 **REMEMBER:** *24 mm eye, Schlemm at 4 months, adult vision by 6 years, choroid from neural crest.*
 
@@ -2752,7 +2752,7 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 
 **PEARL:** The tarsal plates are **NOT cartilage** — they are firm, dense **fibrous connective tissue**.
 
-**MUST KNOW:** They contain the **Meibomian (tarsal) glands** — modified sebaceous glands whose blockage causes a **chalazion**. The **superior tarsal muscle (Müller's)** inserts on the upper tarsal plate.
+**MUST KNOW:** They contain the **Meibomian (tarsal) glands** — modified sebaceous glands whose blockage causes a **chalazion**. The **superior tarsal muscle (Müller’s)** inserts on the upper tarsal plate.
 
 **REMEMBER:** *Tarsal plate = fibrous, not cartilage; it houses the Meibomian glands.*
 
@@ -2760,23 +2760,23 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 
 ### 119. Horner Syndrome — Ptosis
 
-**PEARL:** Ptosis in Horner syndrome is due to paralysis of the **superior tarsal muscle (Müller's muscle)**, which is **sympathetically innervated** (fibres originating around **T1**).
+**PEARL:** Ptosis in Horner syndrome is due to paralysis of the **superior tarsal muscle (Müller’s muscle)**, which is **sympathetically innervated** (fibres originating around **T1**).
 
-**UNDERSTAND:** Because Müller's muscle contributes only ~2 mm of lid elevation, Horner's ptosis is **partial** — unlike the complete ptosis of a third nerve palsy (levator palpebrae superioris, supplied by CN III).
+**UNDERSTAND:** Because Müller’s muscle contributes only ~2 mm of lid elevation, Horner’s ptosis is **partial** — unlike the complete ptosis of a third nerve palsy (levator palpebrae superioris, supplied by CN III).
 
-**MUST KNOW: **Full triad:** partial ptosis, miosis, anhidrosis** (± apparent enophthalmos and "upside-down ptosis" of the lower lid). Causes: **Pancoast tumour (T1 root)**, carotid dissection, brainstem stroke (lateral medullary), neck surgery/trauma.
+**MUST KNOW: **Full triad:** partial ptosis, miosis, anhidrosis** (± apparent enophthalmos and “upside-down ptosis” of the lower lid). Causes: **Pancoast tumour (T1 root)**, carotid dissection, brainstem stroke (lateral medullary), neck surgery/trauma.
 
-**REMEMBER:** *Partial ptosis + small pupil = sympathetic (Müller's); complete ptosis + big pupil = CN III.*
+**REMEMBER:** *Partial ptosis + small pupil = sympathetic (Müller’s); complete ptosis + big pupil = CN III.*
 
 ---
 
-### 120. Whitnall's Tubercle
+### 120. Whitnall’s Tubercle
 
-**PEARL:** The **check ligament of the lateral rectus** attaches to **Whitnall's (lateral orbital) tubercle**.
+**PEARL:** The **check ligament of the lateral rectus** attaches to **Whitnall’s (lateral orbital) tubercle**.
 
-**MUST KNOW:** The tubercle lies on the **zygomatic bone**, ~1 cm below the frontozygomatic suture, and is also the attachment for the **lateral palpebral ligament, the lateral horn of the levator aponeurosis, and Lockwood's suspensory ligament**.
+**MUST KNOW:** The tubercle lies on the **zygomatic bone**, ~1 cm below the frontozygomatic suture, and is also the attachment for the **lateral palpebral ligament, the lateral horn of the levator aponeurosis, and Lockwood’s suspensory ligament**.
 
-**REMEMBER:** *Whitnall's tubercle is the lateral anchor of the orbit.*
+**REMEMBER:** *Whitnall’s tubercle is the lateral anchor of the orbit.*
 
 ---
 
@@ -2786,9 +2786,9 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 
 **UNDERSTAND:** The thin **orbital floor (maxillary) and medial wall (lamina papyracea)** give way first, acting as a pressure-release valve that **protects the globe** — the fracture is protective, not just destructive.
 
-**MUST KNOW: **Features:** enophthalmos, diplopia on upgaze from inferior rectus/orbital fat entrapment, infraorbital nerve anaesthesia**, and a **teardrop sign** on coronal CT. A child with a "white-eyed" **trapdoor** fracture and oculocardiac reflex (nausea, bradycardia) needs **urgent** surgery.
+**MUST KNOW: **Features:** enophthalmos, diplopia on upgaze from inferior rectus/orbital fat entrapment, infraorbital nerve anaesthesia**, and a **teardrop sign** on coronal CT. A child with a “white-eyed” **trapdoor** fracture and oculocardiac reflex (nausea, bradycardia) needs **urgent** surgery.
 
-**REMEMBER:** *The floor breaks so the eye doesn't — look for upgaze diplopia and cheek numbness.*
+**REMEMBER:** *The floor breaks so the eye doesn’t — look for upgaze diplopia and cheek numbness.*
 
 ---
 
@@ -2796,7 +2796,7 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 
 **PEARL:** The **incudomalleolar joint is a saddle joint**.
 
-**MUST KNOW:** The **incudostapedial joint is a ball-and-socket** joint. Both are **synovial** joints — among the very few in the head. Ossicular chain gives a **lever advantage**, part of the middle ear's ~22:1 impedance matching.
+**MUST KNOW:** The **incudostapedial joint is a ball-and-socket** joint. Both are **synovial** joints — among the very few in the head. Ossicular chain gives a **lever advantage**, part of the middle ear’s ~22:1 impedance matching.
 
 **REMEMBER:** *Malleus–incus = saddle; incus–stapes = ball and socket.*
 
@@ -2808,7 +2808,7 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 
 **MUST KNOW:** It is an **end artery** — hence **AICA occlusion causes sudden ipsilateral deafness and vertigo**, along with facial palsy and ipsilateral facial sensory loss (lateral pontine syndrome). This distinguishes AICA from **PICA** (lateral medullary/Wallenberg), which spares hearing.
 
-**REMEMBER:** *AICA feeds the inner ear — AICA stroke makes you deaf, PICA doesn't.*
+**REMEMBER:** *AICA feeds the inner ear — AICA stroke makes you deaf, PICA doesn’t.*
 
 ---
 
@@ -2831,7 +2831,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 - **Exception worth remembering:** postganglionic sympathetics to **sweat glands are cholinergic** — which is why anticholinergics cause anhidrosis and hyperthermia.
 - Grey rami are unmyelinated (**type C fibres**) — hence slow conduction.
 
-**EXAM CONNECTION:** Asked as "All are true about grey rami EXCEPT" → answer is **"preganglionic"**. Also asked as "which rami are present at all spinal levels" → **grey**.
+**EXAM CONNECTION:** Asked as “All are true about grey rami EXCEPT” → answer is **“preganglionic”**. Also asked as “which rami are present at all spinal levels” → **grey**.
 
 **REMEMBER:** *White is myelinated and limited (T1–L2); grey is grey-matter-bound, unmyelinated and everywhere.*
 
@@ -2846,7 +2846,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **PEARL:** Purkinje cells are the **only output neuron of the cerebellar cortex**, and their output is **inhibitory (GABAergic) onto the deep cerebellar nuclei.**![figure](images/2026-08-16-15-06-30--BC7DA5D2-F35E-4712-BAA8-AD06B94DD6D4-.png)
 
-**UNDERSTAND:** Everything entering the cerebellum (mossy and climbing fibres) excites the deep nuclei directly. The cortex then *sculpts* that excitation by inhibiting it through Purkinje cells — so the cerebellum's net effect on movement is fine modulation, not initiation.
+**UNDERSTAND:** Everything entering the cerebellum (mossy and climbing fibres) excites the deep nuclei directly. The cortex then *sculpts* that excitation by inhibiting it through Purkinje cells — so the cerebellum’s net effect on movement is fine modulation, not initiation.
 
 **MUST KNOW:**
 
@@ -2855,9 +2855,9 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 - **Granule cells are the only excitatory (glutamatergic) neuron of the cerebellar cortex**; all others (Purkinje, basket, stellate, Golgi) are inhibitory.
 - Purkinje cell loss → **alcoholic cerebellar degeneration** (anterior vermis → gait ataxia) and **paraneoplastic cerebellar degeneration (anti-Yo)**.
 
-**EXAM CONNECTION:** Image of large flask-shaped cells in a single row → "which structure does this cell inhibit?" → **deep cerebellar nuclei**.
+**EXAM CONNECTION:** Image of large flask-shaped cells in a single row → “which structure does this cell inhibit?” → **deep cerebellar nuclei**.
 
-**REMEMBER:** *Purkinje = the only exit, and it always says "no".*
+**REMEMBER:** *Purkinje = the only exit, and it always says “no”.*
 
 **IMAGE:** Large flask-shaped somata in a single row at the molecular–granular junction. **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/e940abf2e54740389ec12805f147a230.JPEG)
@@ -2875,11 +2875,11 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **MUST KNOW:**
 
 - Three-neuron chain: **1st order — dorsal root ganglion → 2nd order — nucleus gracilis/cuneatus (medulla), crosses as internal arcuate fibres → 3rd order — VPL of thalamus → primary somatosensory cortex** via the posterior limb of the internal capsule.
-- **Gracilis = lower limb (medial), Cuneatus = upper limb (lateral)** — "**gracile is for the legs**", present only above T6.
+- **Gracilis = lower limb (medial), Cuneatus = upper limb (lateral)** — “**gracile is for the legs**”, present only above T6.
 - Contrast the **spinothalamic** tract: **1st**-order synapses and the **2nd** order crosses **at the level of entry in the cord** (via the anterior white commissure, over 1–2 segments).
 - That difference in crossing level is the whole basis of the **dissociated sensory loss** in **Brown-Séquard** and **syringomyelia**.
 
-**EXAM CONNECTION:** "Medial lemniscus is a continuation of ___" → fasciculus gracilis/cuneatus. Also asked as the site of decussation → **medulla (sensory decussation)**, distinct from the **pyramidal (motor) decussation** lower down.
+**EXAM CONNECTION:** “Medial lemniscus is a continuation of ___” → fasciculus gracilis/cuneatus. Also asked as the site of decussation → **medulla (sensory decussation)**, distinct from the **pyramidal (motor) decussation** lower down.
 
 **REMEMBER:** *Dorsal columns cross late (in the medulla); spinothalamic crosses immediately.*
 
@@ -2890,20 +2890,20 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 ---
 
-### 127. The "Anaesthetist's Artery"
+### 127. The “Anaesthetist’s Artery”
 
-**PEARL:** The **facial artery** is the anaesthetist's artery — palpable against the mandible at the **anteroinferior angle of the masseter**. Its facial branches are **inferior labial, superior labial, lateral nasal and angular (terminal)**.
+**PEARL:** The **facial artery** is the anaesthetist’s artery — palpable against the mandible at the **anteroinferior angle of the masseter**. Its facial branches are **inferior labial, superior labial, lateral nasal and angular (terminal)**.
 
-**UNDERSTAND:** It is the anaesthetist's artery because it is the pulse most accessible at the head end of a draped, intubated patient.
+**UNDERSTAND:** It is the anaesthetist’s artery because it is the pulse most accessible at the head end of a draped, intubated patient.
 
 **MUST KNOW:**
 
 - **Mental artery is NOT a facial branch** — it comes from the **inferior alveolar artery**, a branch of the **maxillary** artery, and emerges through the mental foramen.
 - The facial artery is **tortuous** — an adaptation allowing movement of the mandible, lips and pharynx without tearing.
 - Cervical branches (before it crosses the mandible): **ascending palatine, tonsillar, glandular, submental**. The **tonsillar branch is the main supply of the palatine tonsil** — the vessel that bleeds after tonsillectomy.
-- The **angular artery anastomoses with the ophthalmic (ICA)** — the anatomical basis of the **"danger area of the face"** and of skin necrosis/blindness after facial filler injection.
+- The **angular artery anastomoses with the ophthalmic (ICA)** — the anatomical basis of the **“danger area of the face”** and of skin necrosis/blindness after facial filler injection.
 
-**EXAM CONNECTION:** Given as a long stem describing the artery's course, then "which is NOT a branch" → **mental**.
+**EXAM CONNECTION:** Given as a long stem describing the artery’s course, then “which is NOT a branch” → **mental**.
 
 **REMEMBER:** *Facial artery does lips and nose; the chin (mental) belongs to the maxillary artery.*
 
@@ -2940,12 +2940,12 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **PEARL:** A **ventral pontine** lesion giving **ipsilateral CN VI palsy (convergent squint, diplopia) + ipsilateral LMN CN VII palsy + contralateral hemiplegia**.
 
-**UNDERSTAND:** This is a classic **"crossed" (alternating) hemiplegia**: cranial nerve signs are ipsilateral because the nerve is damaged *after* its nucleus but *before* it leaves; the limb weakness is contralateral because the corticospinal tract has not yet decussated (it crosses lower, in the medulla).
+**UNDERSTAND:** This is a classic **“crossed” (alternating) hemiplegia**: cranial nerve signs are ipsilateral because the nerve is damaged *after* its nucleus but *before* it leaves; the limb weakness is contralateral because the corticospinal tract has not yet decussated (it crosses lower, in the medulla).
 
 **MUST KNOW:**
 
 - The **facial palsy is lower motor neuron** (whole half of the face, including forehead) — this separates it from a cortical stroke.
-- **Foville syndrome** = Millard–Gubler **plus a gaze palsy** (PPRF/ MLF involvement) — the patient's eyes look *away* from the lesion.
+- **Foville syndrome** = Millard–Gubler **plus a gaze palsy** (PPRF/ MLF involvement) — the patient’s eyes look *away* from the lesion.
 - **Weber (midbrain)** = ipsilateral **III** + contralateral hemiplegia. **Benedikt** = III + contralateral **tremor** (red nucleus). **Claude** = III + contralateral **ataxia**.
 - **Rule of thumb:** the cranial nerve tells you the level — **III = midbrain, VI/VII = pons, IX–XII = medulla**.
 
@@ -2998,7 +2998,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 - **Recurrent artery of Heubner** (from the proximal ACA) supplies the **anterior limb of the internal capsule and head of caudate** → contralateral **face and arm** weakness — a confusing ACA-territory exception.
 - The **ACA also supplies the fornix and corpus callosum** (anteromedial central branches).
 
-**EXAM CONNECTION:** "Blockage of the artery supplying the marked area will cause all EXCEPT" → **ataxia**.
+**EXAM CONNECTION:** “Blockage of the artery supplying the marked area will cause all EXCEPT” → **ataxia**.
 
 **REMEMBER:** *ACA drops the leg and the bladder; MCA drops the face, arm and speech.*
 
@@ -3017,13 +3017,13 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **MUST KNOW:**
 
-- **Parkinson's disease:** loss of nigrostriatal dopamine → underactive direct + overactive indirect → **too much braking → hypokinesia, rigidity, bradykinesia**.
+- **Parkinson’s disease:** loss of nigrostriatal dopamine → underactive direct + overactive indirect → **too much braking → hypokinesia, rigidity, bradykinesia**.
 - **Hemiballismus:** lesion of the **subthalamic nucleus** (classically a lacunar infarct) → indirect pathway fails → **wild flinging movements of the contralateral limbs**.
-- **Huntington's disease:** loss of **striatal GABAergic neurons of the indirect pathway** first → chorea; caudate atrophy → "**boxcar ventricles**" on imaging.
+- **Huntington’s disease:** loss of **striatal GABAergic neurons of the indirect pathway** first → chorea; caudate atrophy → “**boxcar ventricles**” on imaging.
 - ![figure](images/2026-08-16-19-30-51-OIP-2370234387.jpg)
-- **Deep brain stimulation targets = STN or GPi** — precisely the nodes that are overactive in Parkinson's.
+- **Deep brain stimulation targets = STN or GPi** — precisely the nodes that are overactive in Parkinson’s.
 
-**EXAM CONNECTION:** Asked as a sequencing question ("arrange the structures of the direct pathway") and as a clinical vignette (hemiballismus → STN).
+**EXAM CONNECTION:** Asked as a sequencing question (“arrange the structures of the direct pathway”) and as a clinical vignette (hemiballismus → STN).
 
 **REMEMBER:** *Direct pathway releases the brake; indirect pathway presses it. Dopamine always favours movement.*
 
@@ -3038,18 +3038,18 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 ### 133. Internal Capsule — Posterior Limb
 
-**PEARL:** The **corticospinal fibres run in the POSTERIOR limb**, not the anterior. Blood supply of the posterior limb: **Charcot's artery (lenticulostriate branch of MCA), anterior choroidal artery (from ICA), and posterolateral branches of the PCA**.
+**PEARL:** The **corticospinal fibres run in the POSTERIOR limb**, not the anterior. Blood supply of the posterior limb: **Charcot’s artery (lenticulostriate branch of MCA), anterior choroidal artery (from ICA), and posterolateral branches of the PCA**.
 
 **UNDERSTAND:** The internal capsule is where the entire motor and sensory output of the hemisphere is compressed into a few millimetres — so a tiny lacunar infarct produces a dense **pure motor hemiplegia** affecting face, arm and leg equally, with no cortical signs (no aphasia, no neglect, no visual field defect).
 
 **MUST KNOW:**
 
 - **Contents by part:** *anterior limb* — frontopontine and thalamocortical (anterior thalamic radiation); **genus — corticobulbar**; *posterior limb* — **corticospinal (somatotopic: face → arm → leg, front to back)**, then sensory (thalamocortical), then **optic radiation (retrolentiform)** and **auditory radiation (sublentiform)**.
-- **The recurrent artery of Heubner (from ACA) supplies the ANTERIOR limb** — the classic "which is NOT a supply of the posterior limb" answer.
-- The **lenticulostriate arteries are the "arteries of cerebral haemorrhage"** — the commonest site of hypertensive intracerebral bleed (putamen/internal capsule).
+- **The recurrent artery of Heubner (from ACA) supplies the ANTERIOR limb** — the classic “which is NOT a supply of the posterior limb” answer.
+- The **lenticulostriate arteries are the “arteries of cerebral haemorrhage”** — the commonest site of hypertensive intracerebral bleed (putamen/internal capsule).
 - The **anterior choroidal artery** has a notoriously vulnerable territory — its occlusion gives the triad of **hemiplegia, hemianaesthesia and homonymous hemianopia**.
 
-**EXAM CONNECTION:** Ankle clonus / UMN signs image → "which region does NOT contain the damaged fibres" → **anterior limb of internal capsule**.
+**EXAM CONNECTION:** Ankle clonus / UMN signs image → “which region does NOT contain the damaged fibres” → **anterior limb of internal capsule**.
 
 **REMEMBER:** *Motor is posterior; Heubner is anterior.*
 
@@ -3078,9 +3078,9 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 - **Anterior nucleus** ← **mammillothalamic tract** → cingulate gyrus (Papez circuit) → lesion causes **amnesia**; its largest subdivision is the **anteroVENTRAL** nucleus.
 - **Dorsomedial nucleus** ← hypothalamus/amygdala → **prefrontal cortex**; mediates emotional colouring of sensation (target of the old prefrontal leucotomy).
 - The **EXTERNAL medullary lamina** separates the thalamus from the **reticular nucleus** — the only thalamic nucleus that does **not** project to the cortex (it is GABAergic and gates the rest; central to spike-wave generation in **absence seizures**).
-- **Pulvinar** — visual attention; the classic **"pulvinar sign"** on MRI in variant CJD.
+- **Pulvinar** — visual attention; the classic **“pulvinar sign”** on MRI in variant CJD.
 
-**EXAM CONNECTION:** "Internal medullary lamina divides the thalamus into ___ parts" → **three**. Also matched-pairs questions on nucleus ↔ connection.
+**EXAM CONNECTION:** “Internal medullary lamina divides the thalamus into ___ parts” → **three**. Also matched-pairs questions on nucleus ↔ connection.
 
 **REMEMBER:** *Y-shaped lamina makes three groups; everything but smell changes trains here.*
 
@@ -3092,7 +3092,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 ---
 
-### 135. Tuffier's (Intercristal) Line
+### 135. Tuffier’s (Intercristal) Line
 
 **PEARL:** The line joining the **highest points of the iliac crests** crosses the **body of L4 or the L4–L5 interspace** — the surface landmark for **lumbar puncture and spinal anaesthesia**.
 
@@ -3104,7 +3104,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 - Layers pierced: **skin → subcutaneous fat → supraspinous ligament → interspinous ligament → LIGAMENTUM FLAVUM (loss of resistance) → epidural space → dura → arachnoid**. The needle does **not** pierce the posterior longitudinal ligament.
 - **Dural sac ends at S2** (level of the PSIS) — hence caudal blocks entering through the **sacral hiatus** stay below it.
 - **Contraindications to LP:** raised ICP with focal signs/papilloedema, local infection, coagulopathy — image the head first if there are focal signs.
-- Tuffier's line is **less reliable in obesity and pregnancy**, where it tends to be estimated **too high** — ultrasound is preferred.
+- Tuffier’s line is **less reliable in obesity and pregnancy**, where it tends to be estimated **too high** — ultrasound is preferred.
 
 **EXAM CONNECTION:** Torso diagram with a line drawn → asked for the vertebral level.
 
@@ -3122,7 +3122,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **PEARL:** In the floor of the 4th ventricle, from **MEDIAL to LATERAL**: **General visceral → Special visceral → General somatic → Special somatic** afferent columns.
 
-**UNDERSTAND:** The neural tube's **alar plate becomes sensory, the basal plate motor**. When the roof of the 4th ventricle opens out like a book, the alar plate is swung **laterally** — so all **sensory (afferent) nuclei end up lateral** and all **motor (efferent) nuclei medial**, separated by the **sulcus limitans**.
+**UNDERSTAND:** The neural tube’s **alar plate becomes sensory, the basal plate motor**. When the roof of the 4th ventricle opens out like a book, the alar plate is swung **laterally** — so all **sensory (afferent) nuclei end up lateral** and all **motor (efferent) nuclei medial**, separated by the **sulcus limitans**.
 
 **MUST KNOW:**
 
@@ -3151,14 +3151,14 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **MUST KNOW:**
 
-- It is the **thickest ligament pierced during lumbar puncture and epidural anaesthesia** — the **"loss of resistance"** felt is the needle passing through it into the epidural space.
-- Its **tough, gritty feel** is the operator's warning that the dura is only millimetres ahead.
+- It is the **thickest ligament pierced during lumbar puncture and epidural anaesthesia** — the **“loss of resistance”** felt is the needle passing through it into the epidural space.
+- Its **tough, gritty feel** is the operator’s warning that the dura is only millimetres ahead.
 - **Ligamentum nuchae** is the other great elastic ligament (the upward continuation of the supraspinous ligament).
 - **Lumbar canal stenosis → neurogenic claudication:** pain on walking **relieved by leaning forward or sitting** (flexion opens the canal), with **preserved peripheral pulses** — the discriminator from vascular claudication. Patients characteristically walk uphill or push a trolley comfortably.
 
 **EXAM CONNECTION:** One-liner on its composition; also asked via the loss-of-resistance technique.
 
-**REMEMBER:** *Yellow ligament, yellow elastin — the "give" you feel before the epidural space.*
+**REMEMBER:** *Yellow ligament, yellow elastin — the “give” you feel before the epidural space.*
 
 `Q11485`
 
@@ -3168,16 +3168,16 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **PEARL:** Occlusion of the **thalamogeniculate branches (supplying VPL/VPM)** → contralateral hemisensory loss that begins as **numbness and evolves into intense spontaneous BURNING pain**, with **allodynia** — and **normal motor power**.
 
-**UNDERSTAND:** It is a **deafferentation (central) pain**. When the thalamic relay is destroyed, the cortex loses its normal input and generates pain spontaneously — the pain **appears weeks to months later, during "recovery"**, which is what makes it so counter-intuitive.
+**UNDERSTAND:** It is a **deafferentation (central) pain**. When the thalamic relay is destroyed, the cortex loses its normal input and generates pain spontaneously — the pain **appears weeks to months later, during “recovery”**, which is what makes it so counter-intuitive.
 
 **MUST KNOW:**
 
 - The stimulus is often trivial and non-painful — **cold water, light touch, clothing** — a hallmark of allodynia.
 - It is **notoriously refractory to opioids**; treat with **amitriptyline, gabapentin/pregabalin, lamotrigine**.
-- Other thalamic signs: **contralateral hemiataxia, choreoathetosis ("thalamic hand"), and hemianopia** if the geniculate bodies are involved.
+- Other thalamic signs: **contralateral hemiataxia, choreoathetosis (“thalamic hand”), and hemianopia** if the geniculate bodies are involved.
 - Contrast with **VPL lesion alone** (pure sensory stroke — the classic **lacunar syndrome**) which is painless.
 
-**EXAM CONNECTION:** Vignette of "burning pain on touching cold water, sensory loss, normal motor function" with a labelled brain image → **thalamus**.
+**EXAM CONNECTION:** Vignette of “burning pain on touching cold water, sensory loss, normal motor function” with a labelled brain image → **thalamus**.
 
 **REMEMBER:** *Thalamic stroke that goes numb, then burns — and touch becomes torture.*
 
@@ -3193,16 +3193,16 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **PEARL:** At the **SUPERIOR colliculus** — the **rubrospinal (ventral tegmental)** and **tectospinal (dorsal tegmental)** decussations. At the **INFERIOR colliculus** — the **superior cerebellar peduncle** and the **trochlear nerve** decussations.
 
-**UNDERSTAND:** The superior colliculus is the **visual/orienting** level (tectospinal = head turning to visual stimuli); the inferior colliculus is the **auditory** level and also where the cerebellum's outflow crosses to reach the opposite red nucleus and thalamus.
+**UNDERSTAND:** The superior colliculus is the **visual/orienting** level (tectospinal = head turning to visual stimuli); the inferior colliculus is the **auditory** level and also where the cerebellum’s outflow crosses to reach the opposite red nucleus and thalamus.
 
 **MUST KNOW:**
 
-- **Superior colliculus level:** contains the **oculomotor nucleus and Edinger–Westphal nucleus**; lesion here → **Parinaud's syndrome** (up-gaze palsy, light–near dissociation, convergence-retraction nystagmus) — classically from a **pinealoma**.
+- **Superior colliculus level:** contains the **oculomotor nucleus and Edinger–Westphal nucleus**; lesion here → **Parinaud’s syndrome** (up-gaze palsy, light–near dissociation, convergence-retraction nystagmus) — classically from a **pinealoma**.
 - **Inferior colliculus level:** contains the **trochlear nucleus**; **CN IV is the only cranial nerve to emerge dorsally and the only one to decussate**.
-- The **superior cerebellar peduncle decussation** is why cerebellar signs are **ipsilateral**: the cerebellum crosses to the opposite red nucleus/thalamus, which then projects to the opposite (i.e. original) side's body via the crossed corticospinal tract — a **double crossing**.
+- The **superior cerebellar peduncle decussation** is why cerebellar signs are **ipsilateral**: the cerebellum crosses to the opposite red nucleus/thalamus, which then projects to the opposite (i.e. original) side’s body via the crossed corticospinal tract — a **double crossing**.
 - The **red nucleus** sits at the superior colliculus level; **Benedikt syndrome** = III palsy + contralateral tremor.
 
-**EXAM CONNECTION:** "Decussation of the superior cerebellar peduncle occurs at" → **midbrain (inferior colliculus level)**.
+**EXAM CONNECTION:** “Decussation of the superior cerebellar peduncle occurs at” → **midbrain (inferior colliculus level)**.
 
 **REMEMBER:** *Superior colliculus: rubro- and tectospinal. Inferior colliculus: SCP and trochlear.*
 
@@ -3216,7 +3216,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 ### 140. Intracranial Bleeds — Match the Vessel
 
-**PEARL:** **Extradural = middle meningeal ARTERY** (biconvex/lentiform, does **not** cross sutures, lucid interval). **Subdural = bridging cortical VEINS** (crescentic, **crosses** sutures). **Hypertensive intracerebral = lenticulostriate artery ("Charcot's artery of cerebral haemorrhage")**. **Subarachnoid = berry aneurysm** of the circle of Willis.
+**PEARL:** **Extradural = middle meningeal ARTERY** (biconvex/lentiform, does **not** cross sutures, lucid interval). **Subdural = bridging cortical VEINS** (crescentic, **crosses** sutures). **Hypertensive intracerebral = lenticulostriate artery (“Charcot’s artery of cerebral haemorrhage”)**. **Subarachnoid = berry aneurysm** of the circle of Willis.
 
 **UNDERSTAND:** The shape follows the anatomy. Extradural blood must **strip dura off bone**, which is firmly attached at sutures — so it is limited but bulges inward. Subdural blood lies in a **potential space with no such attachments**, so it spreads thinly and widely.
 
@@ -3254,7 +3254,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 - **Straight leg raise (Lasègue)** is positive with L5/S1 roots; **femoral stretch test** for L2–L4.
 - **Foot drop differential:** **L5 radiculopathy** (weak inversion **and** hip abduction, sensory loss extending up the lateral leg) vs **common peroneal palsy** (inversion **preserved**).
 - **Cauda equina syndrome — red flags:** **saddle anaesthesia, urinary retention with overflow incontinence, bilateral sciatica, lax anal tone** → **emergency MRI and decompression**.
-- **S1 = "Standing on 1 toe"** (plantarflexion); **L5 = "Lift the 5 toes"** (dorsiflexion).
+- **S1 = “Standing on 1 toe”** (plantarflexion); **L5 = “Lift the 5 toes”** (dorsiflexion).
 
 **EXAM CONNECTION:** Vignette of radiating pain after lifting → map the sensory territory to the root. Pain to the **little toe with a lost ankle jerk = S1**.
 
@@ -3277,7 +3277,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 - **Superior oblique action: INtorsion, depression (greatest when the eye is ADducted), and abduction.** Test it by asking the patient to look **down and IN**.
 - **Palsy →** vertical diplopia **worst on looking down and in** — patients complain going **down stairs and reading**; there is a compensatory **head tilt AWAY from the affected side**.
-- **Park's 3-step test** localises a IV nerve palsy; the **Bielschowsky head-tilt test** is positive (diplopia worsens on tilting toward the affected side).
+- **Park’s 3-step test** localises a IV nerve palsy; the **Bielschowsky head-tilt test** is positive (diplopia worsens on tilting toward the affected side).
 - It is the **thinnest cranial nerve with the fewest axons**, and it runs in the **lateral wall of the cavernous sinus** (with III, V1, V2) — **VI is the only one INSIDE the sinus, next to the carotid**, which is why VI palsy is the earliest sign in cavernous sinus thrombosis.
 - **CN IV is the only cranial nerve to arise from the dorsum — and the only motor nerve that is fully crossed.**
 
@@ -3301,12 +3301,12 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **MUST KNOW:**
 
-- **Mammillary body damage → Wernicke–Korsakoff syndrome** (thiamine deficiency): **Wernicke's triad = confusion + ophthalmoplegia + ataxia**; **Korsakoff = anterograde amnesia + confabulation**. Give **thiamine BEFORE glucose** — glucose first precipitates Wernicke's.
+- **Mammillary body damage → Wernicke–Korsakoff syndrome** (thiamine deficiency): **Wernicke’s triad = confusion + ophthalmoplegia + ataxia**; **Korsakoff = anterograde amnesia + confabulation**. Give **thiamine BEFORE glucose** — glucose first precipitates Wernicke’s.
 - **Bilateral hippocampal damage** (herpes simplex encephalitis — which targets the **temporal lobes**; hypoxia;[the famous patient H.M.](https://en.wikipedia.org/wiki/Henry_Molaison)) → dense anterograde amnesia with intact procedural memory.
 - The **fornix is the main efferent of the hippocampus**; the **anterior thalamic nucleus** is its thalamic relay (hence anterior thalamic strokes cause amnesia).
 - **Amygdala is NOT part of Papez** proper — it handles emotional valence and fear (bilateral loss → **Klüver–Bucy syndrome**: hyperorality, hypersexuality, placidity, visual agnosia).
 
-**EXAM CONNECTION:** Labelled image of the fornix → "efferents go to which thalamic nucleus?" → **anterior**.
+**EXAM CONNECTION:** Labelled image of the fornix → “efferents go to which thalamic nucleus?” → **anterior**.
 
 **REMEMBER:** *Hippocampus → fornix → mammillary → anterior thalamus → cingulate. Break it anywhere and memory stops recording.*
 
@@ -3323,7 +3323,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **PEARL:** The **spinal cord ends at L1–L2** in the adult, but the **DURAL SAC ends at S2** — the level of the **posterior superior iliac spine**.
 
-**UNDERSTAND:** The vertebral column outgrows the cord in fetal life ("**ascent of the cord**"), so the cord ends high while the dura continues down to S2. The gap between L2 and S2 is a **CSF-filled sac containing only the cauda equina** — a safe target.
+**UNDERSTAND:** The vertebral column outgrows the cord in fetal life (“**ascent of the cord**”), so the cord ends high while the dura continues down to S2. The gap between L2 and S2 is a **CSF-filled sac containing only the cauda equina** — a safe target.
 
 **MUST KNOW:**
 
@@ -3333,7 +3333,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 - **Tethered cord syndrome** = conus below L2 in an adult, associated with **spina bifida occulta, lipoma, and the cutaneous markers (hairy patch, dimple, naevus)**.
 - **PSIS = S2 = dural sac end** is one of the most reliable surface landmarks in the body.
 
-**EXAM CONNECTION:** "Dural sac ends at" → **S2**; often linked to the PSIS as the surface marker.
+**EXAM CONNECTION:** “Dural sac ends at” → **S2**; often linked to the PSIS as the surface marker.
 
 **REMEMBER:** *Cord stops at L1–L2, dura at S2 (PSIS) — the safe window in between is where you tap.*
 
@@ -3348,7 +3348,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **PEARL:** **Spinal nucleus = PAIN and TEMPERATURE.** **Principal (pontine) nucleus = TOUCH.** **Mesencephalic nucleus = PROPRIOCEPTION.**
 
-**UNDERSTAND:** The **spinal nucleus of V descends all the way to C2–C3**, effectively continuous with the substantia gelatinosa of the cord — it is the face's version of the spinothalamic system. That descent is why a **medullary** lesion knocks out facial pain sensation.
+**UNDERSTAND:** The **spinal nucleus of V descends all the way to C2–C3**, effectively continuous with the substantia gelatinosa of the cord — it is the face’s version of the spinothalamic system. That descent is why a **medullary** lesion knocks out facial pain sensation.
 
 **MUST KNOW:**
 
@@ -3358,7 +3358,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 - **Lateral medullary syndrome** → **ipsilateral facial pain/temperature loss** (spinal nucleus of V) + contralateral body loss (spinothalamic) = **crossed sensory loss**.
 - **Corneal reflex:** afferent **V1 (long ciliary → nasociliary)**, efferent **VII**. Its loss is the earliest sign of an **acoustic neuroma** enlarging in the cerebellopontine angle.
 
-**EXAM CONNECTION:** "Sensation carried by the 2nd-order neuron of the spinal nucleus of V" → **pain (and temperature)**.
+**EXAM CONNECTION:** “Sensation carried by the 2nd-order neuron of the spinal nucleus of V” → **pain (and temperature)**.
 
 **REMEMBER:** *Spinal = pain, Principal = touch, Mesencephalic = proprioception (and it lives inside the CNS).*
 
@@ -3371,7 +3371,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 ### 146. Brainstem Localisation — The Rule of 4s
 
-**PEARL:** **Four midline "M" structures** — **M**otor pathway (corticospinal), **M**edial lemniscus, **M**edial longitudinal fasciculus, **M**otor nuclei of the midline cranial nerves (**III, IV, VI, XII**). **Four lateral "S" structures** — **S**pinocerebellar, **S**pinothalamic, **S**ensory nucleus of V, **S**ympathetic.
+**PEARL:** **Four midline “M” structures** — **M**otor pathway (corticospinal), **M**edial lemniscus, **M**edial longitudinal fasciculus, **M**otor nuclei of the midline cranial nerves (**III, IV, VI, XII**). **Four lateral “S” structures** — **S**pinocerebellar, **S**pinothalamic, **S**ensory nucleus of V, **S**ympathetic.
 
 **UNDERSTAND: **Two more rules complete it:** 4 cranial nerves each in the midbrain-and-above (I–IV), pons (V–VIII), and medulla (IX–XII)**; and the **midline motor nerves are those that divide equally into 12 (III, IV, VI, XII)**. Between them you can localise any brainstem stroke from the bedside.
 
@@ -3383,7 +3383,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 - **Ipsilateral Horner** always means the **lateral** brainstem (descending sympathetics) — a quick discriminator.
 - **INO (internuclear ophthalmoplegia)** = MLF lesion → failure of **adduction** with **nystagmus of the abducting eye**; bilateral INO in a young person = **multiple sclerosis**.
 
-**EXAM CONNECTION:** A vignette of "right facial weakness with right facial pain/temperature loss and left leg pain/temperature loss" → **lateral pons**.
+**EXAM CONNECTION:** A vignette of “right facial weakness with right facial pain/temperature loss and left leg pain/temperature loss” → **lateral pons**.
 
 **REMEMBER:** *Four Ms in the midline, four Ss on the side; the cranial nerve tells you the floor.*
 
@@ -3403,12 +3403,12 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **MUST KNOW:**
 
-- **Nuclei, lateral → medial: "Don't Eat Greasy Food" — Dentate, Emboliform, Globose, Fastigial.**
+- **Nuclei, lateral → medial: “Don’t Eat Greasy Food” — Dentate, Emboliform, Globose, Fastigial.**
 - Functional divisions: **Vestibulocerebellum (flocculonodular) → balance and eye movements** (lesion → truncal ataxia, nystagmus — **medulloblastoma in children**); **Spinocerebellum (vermis/paravermis) → gait and trunk** (lesion → **gait ataxia**, as in alcoholic degeneration of the anterior vermis); **Cerebrocerebellum (lateral hemispheres → dentate) → planning and coordination of skilled limb movement** (lesion → **limb dysmetria, intention tremor, dysdiadochokinesia**).
 - **Peduncles:** **inferior = mostly afferent** (from cord and olive), **middle = afferent** (from pontine nuclei — the largest), **superior = the main EFFERENT** (plus the ventral spinocerebellar afferent).
 - **Purkinje → deep nuclei is inhibitory; deep nuclei output is excitatory.**
 
-**EXAM CONNECTION:** Labelled cerebellar section → "the marked structure gives origin to which fibres?" → **dentato-rubral**.
+**EXAM CONNECTION:** Labelled cerebellar section → “the marked structure gives origin to which fibres?” → **dentato-rubral**.
 
 **REMEMBER:** *Dentate out via the superior peduncle to red nucleus and thalamus — cerebellar signs stay on the same side.*
 
@@ -3424,7 +3424,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **PEARL:** **Projection fibres** connect cortex to structures **outside the cortex** (spinal cord, brainstem, thalamus); **association fibres** connect areas **within the SAME hemisphere**; **commissural fibres** cross **between the hemispheres**.
 
-**UNDERSTAND:** The classification is purely about the endpoints, so any tract can be placed by asking "does it leave the cerebrum, stay in one hemisphere, or cross the midline?" The internal capsule looks like a bundle of everything, but it is the great **projection** highway — it is where corticospinal, corticobulbar and thalamocortical fibres funnel between cortex and brainstem.
+**UNDERSTAND:** The classification is purely about the endpoints, so any tract can be placed by asking “does it leave the cerebrum, stay in one hemisphere, or cross the midline?” The internal capsule looks like a bundle of everything, but it is the great **projection** highway — it is where corticospinal, corticobulbar and thalamocortical fibres funnel between cortex and brainstem.
 
 **MUST KNOW:**
 
@@ -3465,7 +3465,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 - **Papez circuit:** hippocampus → fornix → **mammillary body → anterior thalamic nucleus** → cingulate → entorhinal cortex → hippocampus. Mammillary body damage in **Wernicke–Korsakoff** (thiamine deficiency) breaks this loop → **anterograde amnesia and confabulation**.
 - **Thalamic (Dejerine–Roussy) syndrome:** VPL infarct → contralateral hemianaesthesia followed by intense **burning central pain**.
 
-**EXAM CONNECTION:** Matching-style: "X projects to which thalamic nucleus?" Mammillary body → anterior; cerebellum → VL; optic tract → LGB; taste → VPM.
+**EXAM CONNECTION:** Matching-style: “X projects to which thalamic nucleus?” Mammillary body → anterior; cerebellum → VL; optic tract → LGB; taste → VPM.
 
 **REMEMBER:** *Memory goes to the front (anterior), the body to VPL, the face to VPM.*
 
@@ -3481,7 +3481,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **PEARL:** The **superior cerebellar peduncle is almost entirely efferent**, and its fibres **decussate in the caudal midbrain** to reach the **contralateral red nucleus and thalamus**.
 
-**UNDERSTAND:** The cerebellum influences movement on the **same** side of the body. Its output crosses once in the SCP, then the corticospinal tract crosses again in the pyramids — a **double crossing** that returns control to the ipsilateral limb. This is the anatomical basis of "cerebellar signs are ipsilateral."
+**UNDERSTAND:** The cerebellum influences movement on the **same** side of the body. Its output crosses once in the SCP, then the corticospinal tract crosses again in the pyramids — a **double crossing** that returns control to the ipsilateral limb. This is the anatomical basis of “cerebellar signs are ipsilateral.”
 
 **MUST KNOW:**
 
@@ -3490,7 +3490,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 - **Inferior peduncle** — **mixed**: afferents from spinal cord and brainstem (dorsal spinocerebellar tract, olivocerebellar) + efferents to vestibular nuclei.
 - **Purkinje cells** are the **sole output of the cerebellar cortex**, are **inhibitory (GABA)**, and relay to the **dentate** nucleus.
 
-**EXAM CONNECTION:** "Fibres from the superior cerebellar peduncle terminate at ___" → **red nucleus**. Distractors are the fastigial and inferior olivary nuclei — the olive *sends* climbing fibres, it does not receive them.
+**EXAM CONNECTION:** “Fibres from the superior cerebellar peduncle terminate at ___” → **red nucleus**. Distractors are the fastigial and inferior olivary nuclei — the olive *sends* climbing fibres, it does not receive them.
 
 **REMEMBER:** *Superior out, middle in, inferior both.*
 
@@ -3514,11 +3514,11 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 - Anterior to posterior: **rostrum** (orbitofrontal) → **genu** (frontal, anterior-most) → **body/trunk** (temporal, parietal) → **isthmus** → **splenium** (occipital, thickest).
 - The **hippocampus lies inferior to the splenium** but is **not** connected to it — hippocampal output goes via the **fornix**.
-- **Agenesis of the corpus callosum** → colpocephaly and the "racing-car"/Viking-helmet sign on coronal imaging; associated with **Aicardi syndrome**.
+- **Agenesis of the corpus callosum** → colpocephaly and the “racing-car”/Viking-helmet sign on coronal imaging; associated with **Aicardi syndrome**.
 - **Marchiafava–Bignami disease** = alcohol-related **demyelination/necrosis of the corpus callosum**.
 - Callosal section → **split-brain**; **alien hand syndrome** is a classic sequel.
 
-**EXAM CONNECTION:** Image-based: "structure marked A [splenium] connects to ___" → **striate cortex**. Hippocampus is the intended distractor because of its proximity.
+**EXAM CONNECTION:** Image-based: “structure marked A [splenium] connects to ___” → **striate cortex**. Hippocampus is the intended distractor because of its proximity.
 
 **REMEMBER:** *Genu forward for frontal, splenium back for sight.*
 
@@ -3537,19 +3537,19 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **PEARL:** **Associative visual agnosia** — cannot name an object by sight but recognises it by **touch, or by describing its texture, colour and pattern** — localises to the **inferior temporal lobe (occipitotemporal junction)**.
 
-**UNDERSTAND:** Vision splits into two streams after V1. The **ventral "what" stream** runs into the inferior temporal lobe and attaches **meaning** to a percept; the **dorsal "where" stream** goes parietal. A ventral lesion leaves the image intact but strips it of identity — so perception is preserved, naming is not, and other sensory routes to the same concept still work.
+**UNDERSTAND:** Vision splits into two streams after V1. The **ventral “what” stream** runs into the inferior temporal lobe and attaches **meaning** to a percept; the **dorsal “where” stream** goes parietal. A ventral lesion leaves the image intact but strips it of identity — so perception is preserved, naming is not, and other sensory routes to the same concept still work.
 
 **MUST KNOW:**
 
 - **Apperceptive** agnosia = the percept itself is distorted, cannot copy or match shapes → **parieto-occipital** lesion.
 - **Associative** agnosia = normal percept, can copy a drawing but cannot identify it → **occipitotemporal / inferior temporal**.
 - **Prosopagnosia** (face blindness) = associative agnosia of the **fusiform face area**, bilateral or right inferior temporal.
-- **Occipital lobe (V1)** lesion → **cortical blindness**, **achromatopsia**, **Anton's syndrome** (blindness with denial).
+- **Occipital lobe (V1)** lesion → **cortical blindness**, **achromatopsia**, **Anton’s syndrome** (blindness with denial).
 - **Dorsal stream/bilateral parieto-occipital** → **Balint syndrome**: optic ataxia, oculomotor apraxia, simultanagnosia.
 
 **EXAM CONNECTION:** The stem always includes the giveaway that the patient **can identify the object by another modality** — that single clause converts it from blindness to agnosia and sends the answer to the temporal lobe.
 
-**REMEMBER:** *"What" is temporal, "where" is parietal — agnosia loses the what.*
+**REMEMBER:** *“What” is temporal, “where” is parietal — agnosia loses the what.*
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/985d9f9c21e142b787a38323bc997372x600x535.JPEG)
@@ -3580,7 +3580,7 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **EXAM CONNECTION:** Contrast **lateral medullary (Wallenberg, PICA)**: ipsilateral facial pain/temperature loss with contralateral body loss, **Horner syndrome, dysphagia/hoarseness (IX, X), vertigo, ataxia — and NO hemiplegia**.
 
-**REMEMBER:** *Medial = motor + medial lemniscus + XII (all the "M"s). Lateral = everything else, no weakness.*
+**REMEMBER:** *Medial = motor + medial lemniscus + XII (all the “M”s). Lateral = everything else, no weakness.*
 
 ---
 

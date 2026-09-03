@@ -22,14 +22,14 @@
 
 ### 1. Feedback and Feed-Forward Control
 
-**PEARL:** ***FEED-FORWARD (ANTICIPATORY) CONTROL ACTS BEFORE THE REGULATED VARIABLE HAS CHANGED — the classic example is TEMPERATURE REGULATION***, where the hypothalamus responds to SKIN receptors and initiates shivering or sweating before core temperature moves. Other examples: the **CEPHALIC PHASE of gastric secretion, the rise in heart rate and ventilation at the very start of (or even in anticipation of) exercise, and the cerebellum's predictive role in movement.** ***GAIN = CORRECTION ÷ REMAINING ERROR; the kidney's control of blood volume has a gain approaching INFINITY*** because it corrects the error completely.
+**PEARL:** ***FEED-FORWARD (ANTICIPATORY) CONTROL ACTS BEFORE THE REGULATED VARIABLE HAS CHANGED — the classic example is TEMPERATURE REGULATION***, where the hypothalamus responds to SKIN receptors and initiates shivering or sweating before core temperature moves. Other examples: the **CEPHALIC PHASE of gastric secretion, the rise in heart rate and ventilation at the very start of (or even in anticipation of) exercise, and the cerebellum’s predictive role in movement.** ***GAIN = CORRECTION ÷ REMAINING ERROR; the kidney’s control of blood volume has a gain approaching INFINITY*** because it corrects the error completely.
 
-**UNDERSTAND:** Negative feedback is inherently **REACTIVE — it can only respond once an error exists**, so some deviation is unavoidable and the "gain" measures how small that residual error is. Feed-forward control removes that limitation by **using an EARLY-WARNING signal that predicts the disturbance** (cold skin predicts falling core temperature; the sight of food predicts a gastric load). Its weakness is the mirror image: it acts on a prediction, so it can be **wrong** — which is why the body always pairs it with negative feedback for final correction.
+**UNDERSTAND:** Negative feedback is inherently **REACTIVE — it can only respond once an error exists**, so some deviation is unavoidable and the “gain” measures how small that residual error is. Feed-forward control removes that limitation by **using an EARLY-WARNING signal that predicts the disturbance** (cold skin predicts falling core temperature; the sight of food predicts a gastric load). Its weakness is the mirror image: it acts on a prediction, so it can be **wrong** — which is why the body always pairs it with negative feedback for final correction.
 
 **MUST KNOW:**
 
 - **Gain arithmetic: if BP falls from 100 to 80 mmHg and the baroreflex restores it to 96, the ***CORRECTION is 16 and the ERROR is 4, so GAIN = 4.*** A gain of 0 means total failure; ***INFINITE GAIN means the variable returns exactly to set point — achieved by the RENAL–BODY FLUID mechanism for blood volume and pressure.***
-- ***POSITIVE FEEDBACK is used where an EXPLOSIVE, all-or-none event is needed: the sodium influx of the ACTION POTENTIAL, the LH SURGE before ovulation, OXYTOCIN in labour (the FERGUSON REFLEX), the CLOTTING cascade, and complement activation.*** Uncontrolled positive feedback is otherwise pathological — the "vicious cycle" of decompensated cardiogenic shock.
+- ***POSITIVE FEEDBACK is used where an EXPLOSIVE, all-or-none event is needed: the sodium influx of the ACTION POTENTIAL, the LH SURGE before ovulation, OXYTOCIN in labour (the FERGUSON REFLEX), the CLOTTING cascade, and complement activation.*** Uncontrolled positive feedback is otherwise pathological — the “vicious cycle” of decompensated cardiogenic shock.
 - **Homeostatic set points can be reset physiologically:** *FEVER is a raised hypothalamic set point (prostaglandin E2-mediated) — hence the patient FEELS COLD AND SHIVERS while the temperature rises***; this is why antipyretics (which block prostaglandin synthesis) work but physical cooling alone fights the thermostat.
 - **The components of any control system — ***SENSOR, INTEGRATOR/CONTROL CENTRE, EFFECTOR*** — are worth naming for any example asked (baroreceptor/medulla/heart and vessels; osmoreceptor/hypothalamus/kidney; thermoreceptor/hypothalamus/skin and muscle).
 - **Circadian regulation by the ***SUPRACHIASMATIC NUCLEUS***, entrained by light through the retinohypothalamic tract and expressed through melatonin, is an anticipatory system on a 24-hour scale.
@@ -69,16 +69,16 @@
 
 ### 3. Cellular Organelles and Secretory Polarity
 
-**PEARL:** ***IN SEROUS ACINAR CELLS (pancreas, parotid, submandibular gland) THE GOLGI APPARATUS LIES SUPRANUCLEARLY*** — between the basally placed nucleus and the apical secretory granules — reflecting the cell's strict **BASAL-to-APICAL secretory polarity.**
+**PEARL:** ***IN SEROUS ACINAR CELLS (pancreas, parotid, submandibular gland) THE GOLGI APPARATUS LIES SUPRANUCLEARLY*** — between the basally placed nucleus and the apical secretory granules — reflecting the cell’s strict **BASAL-to-APICAL secretory polarity.**
 
-**UNDERSTAND:** A protein-secreting cell is organised as a **production line**, and its histology is that line made visible: ***BASAL nucleus and dense ROUGH ENDOPLASMIC RETICULUM (hence the basal BASOPHILIA on H&E) → SUPRANUCLEAR GOLGI (packaging and post-translational modification) → APICAL ZYMOGEN GRANULES (hence the apical EOSINOPHILIA) → exocytosis into the lumen.*** Recognising the direction of the line lets you read any gland's slide.
+**UNDERSTAND:** A protein-secreting cell is organised as a **production line**, and its histology is that line made visible: ***BASAL nucleus and dense ROUGH ENDOPLASMIC RETICULUM (hence the basal BASOPHILIA on H&E) → SUPRANUCLEAR GOLGI (packaging and post-translational modification) → APICAL ZYMOGEN GRANULES (hence the apical EOSINOPHILIA) → exocytosis into the lumen.*** Recognising the direction of the line lets you read any gland’s slide.
 
 **MUST KNOW:**
 
 - **The secretory pathway:** *signal peptide → ROUGH ER (synthesis, N-linked glycosylation, folding, quality control) → transport vesicles → GOLGI (cis to trans: O-linked glycosylation, sulphation, phosphorylation, sorting) → secretory or lysosomal vesicles.*** ***MANNOSE-6-PHOSPHATE IS THE TAG DIRECTING ENZYMES TO LYSOSOMES — its failure causes I-CELL DISEASE (inclusion-cell disease), where lysosomal enzymes are secreted into the blood instead.***
 - **Organelle-disease pairings:** *LYSOSOMES — the storage diseases (Tay-Sachs, Gaucher, Niemann–Pick, Hurler); PEROXISOMES — ZELLWEGER syndrome, X-linked adrenoleukodystrophy, Refsum disease; MITOCHONDRIA — MELAS, MERRF, LHON (MATERNAL inheritance, HETEROPLASMY explaining variable severity); SMOOTH ER — drug metabolism and steroid synthesis, hypertrophied in hepatocytes after enzyme induction; PROTEASOME — degradation of ubiquitin-tagged proteins (target of bortezomib).***
 - **Cell types by organelle predominance:** *STEROID-secreting cells (adrenal cortex, Leydig, corpus luteum) are packed with SMOOTH ER, mitochondria with TUBULAR CRISTAE and LIPID DROPLETS — and, because steroids are made on demand and diffuse out, they have NO secretory granules; PROTEIN-secreting cells have abundant ROUGH ER and Golgi.***
-- **Cilia:** *"9+2" motile axoneme with DYNEIN arms (defective in PRIMARY CILIARY DYSKINESIA) versus the "9+0" PRIMARY (non-motile, sensory) cilium — whose dysfunction causes the CILIOPATHIES (polycystic kidney disease, Bardet–Biedl, nephronophthisis).***
+- **Cilia:** *“9+2” motile axoneme with DYNEIN arms (defective in PRIMARY CILIARY DYSKINESIA) versus the “9+0” PRIMARY (non-motile, sensory) cilium — whose dysfunction causes the CILIOPATHIES (polycystic kidney disease, Bardet–Biedl, nephronophthisis).***
 - **Cytoskeleton:** *MICROFILAMENTS (actin — cell shape and motility; targets of cytochalasin and phalloidin), INTERMEDIATE FILAMENTS (tissue-specific — CYTOKERATIN in epithelium, DESMIN in muscle, GFAP in glia, VIMENTIN in mesenchyme, NEUROFILAMENTS — the basis of immunohistochemical tumour typing), and MICROTUBULES (tubulin — mitotic spindle, axonal transport; targets of COLCHICINE, VINCA ALKALOIDS, TAXANES, griseofulvin and mebendazole).***
 
 **EXAM CONNECTION:** Position of the Golgi in serous acinar cells → **supranuclear**.
@@ -99,7 +99,7 @@
 
 - **Heat loss at rest in a temperate environment:** *RADIATION ~60%, EVAPORATION ~22% (including INSENSIBLE loss from skin and lungs), CONVECTION ~15%, CONDUCTION ~3%.***
 - ***HEAT PRODUCTION*** comes from basal metabolism, ***SHIVERING (which can raise production 3–5 fold — controlled by the POSTERIOR hypothalamus)*** and non-shivering thermogenesis in ***BROWN ADIPOSE TISSUE (UNCOUPLING PROTEIN-1/thermogenin — important in NEONATES, who cannot shiver)***, plus thyroid and catecholamine effects.
-- **Hypothalamic organisation:** *the ANTERIOR/preoptic hypothalamus responds to HEAT (sweating, vasodilatation — "A/C"), the POSTERIOR responds to COLD (shivering, vasoconstriction, piloerection).*** Damage causes poikilothermia.
+- **Hypothalamic organisation:** *the ANTERIOR/preoptic hypothalamus responds to HEAT (sweating, vasodilatation — “A/C”), the POSTERIOR responds to COLD (shivering, vasoconstriction, piloerection).*** Damage causes poikilothermia.
 - ***FEVER IS A RESET SET-POINT (pyrogens → PGE2 in the OVLT) — the patient FEELS COLD AND SHIVERS while the temperature climbs; HEATSTROKE IS A FAILURE OF DISSIPATION WITH A NORMAL SET POINT (hot, dry skin, altered mental state, temperature >40 °C — treat with RAPID PHYSICAL COOLING, and antipyretics DO NOT work). MALIGNANT HYPERTHERMIA and NEUROLEPTIC MALIGNANT SYNDROME are drug-induced hypermetabolic states, treated with DANTROLENE.***
 - **Normal temperature varies with a ***CIRCADIAN RHYTHM (lowest ~6 a.m., highest ~4–6 p.m.), the MENSTRUAL CYCLE (a rise of 0.3–0.5 °C after ovulation — progesterone, the basis of basal body temperature charting), age, exercise and feeding.***
 
@@ -120,14 +120,14 @@
 **MUST KNOW:**
 
 - ***CHLORIDE IS NEAR EQUILIBRIUM IN MOST CELLS, WHICH IS WHY OPENING CHLORIDE CHANNELS (GABA-A, glycine) IS INHIBITORY — it CLAMPS the membrane at rest and resists depolarisation (shunting inhibition), even when little chloride actually moves.*** In immature neurones the chloride gradient is reversed (NKCC1 dominant), so ***GABA IS EXCITATORY IN THE NEONATE — an explanation for the different behaviour of neonatal seizures.***
-- **The ***Na+/K+-ATPase*** (3 Na+ out, 2 K+ in per ATP) is ***ELECTROGENIC***, contributing a few millivolts directly and, far more importantly, maintaining the gradients on which everything else depends — it consumes about a third of the body's resting ATP and is inhibited by ***DIGOXIN and by OUABAIN.***
+- **The ***Na+/K+-ATPase*** (3 Na+ out, 2 K+ in per ATP) is ***ELECTROGENIC***, contributing a few millivolts directly and, far more importantly, maintaining the gradients on which everything else depends — it consumes about a third of the body’s resting ATP and is inhibited by ***DIGOXIN and by OUABAIN.***
 - **Clinical potassium physiology follows directly:** *HYPERKALAEMIA raises E_K (less negative) → resting potential drifts up → sodium channels inactivate → weakness and dangerous cardiac conduction block (peaked T waves → wide QRS → sine wave); HYPOKALAEMIA hyperpolarises → weakness, U waves and arrhythmias.***
-- **Calcium's role is different:** *HYPOcalcaemia does NOT change the equilibrium potential much but LOWERS THE THRESHOLD for sodium channel opening (loss of membrane "stabilisation") → TETANY; HYPERcalcaemia raises the threshold → lethargy and weakness.***
+- **Calcium’s role is different:** *HYPOcalcaemia does NOT change the equilibrium potential much but LOWERS THE THRESHOLD for sodium channel opening (loss of membrane “stabilisation”) → TETANY; HYPERcalcaemia raises the threshold → lethargy and weakness.***
 - **Transport types worth naming:** *PRIMARY ACTIVE (Na+/K+-ATPase, H+/K+-ATPase, Ca2+-ATPase, ABC transporters such as P-GLYCOPROTEIN/MDR1 — an efflux pump at the gut, blood–brain, blood–testis and placental barriers); SECONDARY ACTIVE (SGLT1 in the intestine and SGLT2 in the kidney — the basis of ORS and of SGLT2 inhibitors); FACILITATED DIFFUSION (GLUT family — GLUT4 is the INSULIN-DEPENDENT transporter of muscle and fat, GLUT2 the high-capacity sensor of liver and beta cell).***
 
 **EXAM CONNECTION:** Equilibrium potential of chloride (100 out, 10 in) → **−60 mV**; ORS works through → **SGLT1**.
 
-**REMEMBER:** *Every ion has a voltage it "wants"; the membrane sits wherever the open channels drag it.*
+**REMEMBER:** *Every ion has a voltage it “wants”; the membrane sits wherever the open channels drag it.*
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/9e65cb4f41a6492a8013df434d57ea87.JPEG)
@@ -138,7 +138,7 @@
 
 ### 6. Regulation of Glycogen Phosphorylase
 
-**PEARL:** In **muscle**, **Ca²⁺ released during contraction binds CALMODULIN (the δ subunit of phosphorylase kinase) and activates phosphorylase kinase WITHOUT phosphorylation** — so glycogenolysis is switched on by the very signal that initiates contraction. **Insulin and glucose-6-phosphate INHIBIT** glycogen phosphorylase; **cAMP-dependent protein kinase A (not "cAMP-independent") activates it hormonally.**
+**PEARL:** In **muscle**, **Ca²⁺ released during contraction binds CALMODULIN (the δ subunit of phosphorylase kinase) and activates phosphorylase kinase WITHOUT phosphorylation** — so glycogenolysis is switched on by the very signal that initiates contraction. **Insulin and glucose-6-phosphate INHIBIT** glycogen phosphorylase; **cAMP-dependent protein kinase A (not “cAMP-independent”) activates it hormonally.**
 
 **UNDERSTAND:** The cell needs glucose exactly when it starts to contract, and it would be wasteful to wait for a hormone to arrive from elsewhere. Calcium is already the contraction signal, so linking it directly to phosphorylase kinase gives **instantaneous local coupling of fuel supply to demand**. The hormonal route (adrenaline/glucagon → cAMP → PKA → phosphorylase kinase → phosphorylase *a*) is the slower, systemic overlay for whole-body needs.
 
@@ -147,10 +147,10 @@
 - **Cascade:** glucagon (liver) or adrenaline (liver and muscle) → **GPCR → adenylyl cyclase → cAMP → PKA → phosphorylase kinase (b→a) → glycogen phosphorylase (b→a)** — an **amplification cascade**. **Insulin** opposes it by activating **protein phosphatase-1**, which dephosphorylates and inactivates phosphorylase while **activating glycogen synthase**.
 - **Allosteric control differs by tissue: in MUSCLE, AMP activates and ATP/G6P inhibit** phosphorylase b (energy-charge sensing); **in LIVER, free GLUCOSE is the allosteric inhibitor** (the liver serves the blood, not itself).
 - **Muscle has no glucose-6-phosphatase**, so muscle glycogen cannot raise blood glucose — it is consumed locally. Only **liver and kidney** release free glucose.
-- **Glycogen storage diseases:** **von Gierke (I) — glucose-6-phosphatase**: severe fasting hypoglycaemia, lactic acidosis, hepatomegaly, hyperuricaemia, hyperlipidaemia. **Pompe (II) — lysosomal acid maltase**: cardiomegaly and hypotonia ("**Pompe trashes the pump**"). **Cori (III) — debranching enzyme**: milder, with limit dextrins. **McARDLE (V) — MUSCLE phosphorylase**: exercise intolerance, cramps, **myoglobinuria, a "SECOND WIND" phenomenon, and NO rise in lactate on ischaemic exercise testing**. **Hers (VI) — liver phosphorylase**: mild hypoglycaemia and hepatomegaly.
+- **Glycogen storage diseases:** **von Gierke (I) — glucose-6-phosphatase**: severe fasting hypoglycaemia, lactic acidosis, hepatomegaly, hyperuricaemia, hyperlipidaemia. **Pompe (II) — lysosomal acid maltase**: cardiomegaly and hypotonia (“**Pompe trashes the pump**”). **Cori (III) — debranching enzyme**: milder, with limit dextrins. **McARDLE (V) — MUSCLE phosphorylase**: exercise intolerance, cramps, **myoglobinuria, a “SECOND WIND” phenomenon, and NO rise in lactate on ischaemic exercise testing**. **Hers (VI) — liver phosphorylase**: mild hypoglycaemia and hepatomegaly.
 - **Glycogen phosphorylase requires PYRIDOXAL PHOSPHATE (vitamin B6)** as a cofactor — an easily forgotten fact and a favourite one-liner.
 
-**EXAM CONNECTION:** The question tests activators versus inhibitors. **Ca²⁺ activates (muscle); insulin and G6P inhibit.** Watch for the word "cAMP-**independent**", which inverts a true statement.
+**EXAM CONNECTION:** The question tests activators versus inhibitors. **Ca²⁺ activates (muscle); insulin and G6P inhibit.** Watch for the word “cAMP-**independent**”, which inverts a true statement.
 
 **REMEMBER:** *The calcium that contracts the muscle also unlocks its glycogen.*
 
@@ -165,7 +165,7 @@
 
 **PEARL:** **PARACRINE — a mediator acts on NEIGHBOURING cells** (e.g. endothelin-1, histamine, nitric oxide, prostaglandins). **AUTOCRINE — the cell acts on ITSELF** (IL-2 on the activated T cell, growth factors in tumours). **ENDOCRINE — the hormone travels in the BLOODSTREAM to distant targets.** **Merocrine is a mode of SECRETION, not a signalling class.**
 
-**UNDERSTAND:** The categories are defined purely by **how far the signal travels before it binds its receptor**, and that distance dictates the signal's properties. **Paracrine mediators are short-lived and rapidly degraded** (nitric oxide has a half-life of seconds) — they have to be, or they would spill into the circulation and act systemically. **Endocrine hormones must be stable and are often protein-bound** so they survive the journey. **Autocrine loops are the mechanism of self-amplification** — and their dysregulation is a classic route to malignant proliferation.
+**UNDERSTAND:** The categories are defined purely by **how far the signal travels before it binds its receptor**, and that distance dictates the signal’s properties. **Paracrine mediators are short-lived and rapidly degraded** (nitric oxide has a half-life of seconds) — they have to be, or they would spill into the circulation and act systemically. **Endocrine hormones must be stable and are often protein-bound** so they survive the journey. **Autocrine loops are the mechanism of self-amplification** — and their dysregulation is a classic route to malignant proliferation.
 
 **MUST KNOW:**
 
@@ -174,7 +174,7 @@
 - **Classic paracrine examples worth naming: endothelin-1 and nitric oxide from endothelium, histamine from mast cells, somatostatin from pancreatic delta cells acting on adjacent alpha and beta cells, and the growth factors of wound healing.**
 - **Receptor types: G-protein coupled (7-transmembrane), ligand-gated ion channels, enzyme-linked (receptor tyrosine kinases), and INTRACELLULAR/nuclear receptors** — the last used by **lipophilic ligands: steroids, thyroid hormone, vitamin D and retinoids**, which cross the membrane and act as transcription factors.
 
-**EXAM CONNECTION:** A diagram showing a cell releasing a mediator onto its **immediate neighbours** = paracrine. "Merocrine" in the options is a category error and is always wrong.
+**EXAM CONNECTION:** A diagram showing a cell releasing a mediator onto its **immediate neighbours** = paracrine. “Merocrine” in the options is a category error and is always wrong.
 
 **REMEMBER:** *Auto = itself, para = the neighbour, endo = the bloodstream.*
 
@@ -194,15 +194,15 @@
 
 **MUST KNOW:**
 
-- Each marker reflects the organelle's **function**: catalase detoxifies the H₂O₂ that peroxisomal oxidases generate; **glucose-6-phosphatase sits in the ER** because the final step of gluconeogenesis and glycogenolysis occurs in its lumen; **galactosyl transferase** performs Golgi glycosylation.
+- Each marker reflects the organelle’s **function**: catalase detoxifies the H₂O₂ that peroxisomal oxidases generate; **glucose-6-phosphatase sits in the ER** because the final step of gluconeogenesis and glycogenolysis occurs in its lumen; **galactosyl transferase** performs Golgi glycosylation.
 - **5′-nucleotidase is a plasma membrane marker** and clinically a **cholestatic liver enzyme** (rises with ALP in biliary obstruction, and unlike ALP is not raised in bone disease).
 - **Peroxisomal functions: β-oxidation of very-long-chain fatty acids, plasmalogen synthesis, bile acid synthesis** — failure gives **Zellweger syndrome (absent peroxisomes)** and **X-linked adrenoleukodystrophy**.
 - **Plasma membrane lipids: phospholipids (lecithin, cephalin, phosphatidylserine), sphingomyelin and CHOLESTEROL — but NOT triglycerides.** Cholesterol modulates fluidity; the membrane is **asymmetric**, with phosphatidylserine confined to the inner leaflet (its externalisation signals apoptosis).
 - **Plasma carrier proteins: thyroxine — thyroxine-binding globulin and PREALBUMIN (transthyretin); vitamin B12 — TRANSCOBALAMIN II; free haemoglobin — HAPTOGLOBIN; free haem — HAEMOPEXIN; iron — transferrin; copper — caeruloplasmin; retinol — retinol-binding protein.**
 
-**EXAM CONNECTION:** Matching questions, often as "all are mitochondrial markers EXCEPT" → **5′-nucleotidase**.
+**EXAM CONNECTION:** Matching questions, often as “all are mitochondrial markers EXCEPT” → **5′-nucleotidase**.
 
-**REMEMBER:** *The marker enzyme does the organelle's characteristic job.*
+**REMEMBER:** *The marker enzyme does the organelle’s characteristic job.*
 
 `MF7394, MA4659, MF7313, MB9565`
 
@@ -214,7 +214,7 @@
 
 **MUST KNOW:**
 
-- They transmit signals **both ways** ("**outside-in and inside-out signalling**") — so they mediate not just adhesion but **migration, proliferation and survival (anoikis when detached)**.
+- They transmit signals **both ways** (“**outside-in and inside-out signalling**”) — so they mediate not just adhesion but **migration, proliferation and survival (anoikis when detached)**.
 - Clinical links: **leucocyte adhesion deficiency type 1** = defective **β2 integrin (CD18)** → delayed umbilical cord separation, recurrent bacterial infections **without pus**, and marked **leucocytosis**; **glycoprotein IIb/IIIa** is the platelet integrin — deficient in **Glanzmann thrombasthenia** and blocked by **abciximab/tirofiban**; **natalizumab** targets α4 integrin in multiple sclerosis.
 - Other adhesion families: **cadherins** (cell–cell, calcium-dependent), **selectins** (leucocyte rolling), **immunoglobulin superfamily** (ICAM/VCAM).
 
@@ -251,7 +251,7 @@
 - **Skeletal muscle CAN be tetanised: increasing stimulus frequency causes ***FREQUENCY SUMMATION → INCOMPLETE (unfused) TETANUS → COMPLETE (fused) TETANUS***, and the ***TETANISING FREQUENCY = 1 ÷ CONTRACTION TIME*** (a contraction period of 30 ms gives ~33 Hz). Force is also graded by ***MULTIPLE FIBRE (motor unit) SUMMATION, recruited by the SIZE PRINCIPLE — small motor units first.***
 - ***LOCAL ANAESTHETICS bind the INACTIVATED state from inside the channel — hence their USE-DEPENDENCE (they work best on rapidly firing fibres); CLASS I ANTIARRHYTHMICS do the same in cardiac muscle.***
 - **Hyperkalaemia depolarises the resting membrane and holds sodium channels inactivated → ***a flaccid paralysis and a heart that cannot conduct***; hypocalcaemia lowers the threshold and causes tetany (Trousseau and Chvostek signs).**
-- **The "supernormal period" after the relative refractory period is a brief window of increased excitability — the electrophysiological basis of the ***R-ON-T PHENOMENON*** triggering ventricular fibrillation.
+- **The “supernormal period” after the relative refractory period is a brief window of increased excitability — the electrophysiological basis of the ***R-ON-T PHENOMENON*** triggering ventricular fibrillation.
 
 **EXAM CONNECTION:** Cause of the absolute refractory period → **closure of the inactivation gate of the sodium channel**; tetanising frequency from a tracing → **1/contraction period**.
 
@@ -268,7 +268,7 @@
 
 ### 12. The Sarcomere and the Cross-Bridge Cycle
 
-**PEARL:** ***THE Z-LINE IS MADE OF ALPHA-ACTININ***, which anchors the thin (actin) filaments. ***TITIN connects the Z-LINE TO THE M-LINE*** (the giant elastic scaffold responsible for passive tension) and ***DESMIN links Z-lines to the plasma membrane.*** In the cross-bridge cycle, ***THE MYOSIN HEAD DETACHES FROM ACTIN WHEN ATP BINDS*** — ATP hydrolysis then "cocks" the head; ***the POWER STROKE occurs on RELEASE OF ADP AND Pi.***
+**PEARL:** ***THE Z-LINE IS MADE OF ALPHA-ACTININ***, which anchors the thin (actin) filaments. ***TITIN connects the Z-LINE TO THE M-LINE*** (the giant elastic scaffold responsible for passive tension) and ***DESMIN links Z-lines to the plasma membrane.*** In the cross-bridge cycle, ***THE MYOSIN HEAD DETACHES FROM ACTIN WHEN ATP BINDS*** — ATP hydrolysis then “cocks” the head; ***the POWER STROKE occurs on RELEASE OF ADP AND Pi.***
 
 **UNDERSTAND:** ***ATP IS NEEDED FOR RELAXATION, NOT JUST CONTRACTION*** — and that single fact explains ***RIGOR MORTIS***: when ATP is exhausted after death, the myosin heads remain locked to actin and the muscle becomes rigid until the proteins autolyse. It also explains why the contraction cycle can continue as long as calcium and ATP are present, and why ischaemic muscle becomes stiff and painful.
 
@@ -277,7 +277,7 @@
 - **Band anatomy:** *A BAND (thick filaments — length NEVER changes during contraction), I BAND (thin filaments only — SHORTENS), H ZONE (thick only — SHORTENS), M LINE (thick filament anchor), Z LINE (thin filament anchor).*** Between two Z lines is a ***SARCOMERE.*** The sliding-filament theory follows: filaments slide, they do not shorten.
 - **Excitation–contraction coupling: action potential → T-tubule → ***DIHYDROPYRIDINE RECEPTOR (a voltage sensor in skeletal muscle) → RYANODINE RECEPTOR → calcium release from the sarcoplasmic reticulum → calcium binds TROPONIN C → TROPOMYOSIN moves off the myosin-binding site → cross-bridging.*** ***IN CARDIAC MUSCLE the DHPR is a true calcium channel and extracellular calcium triggers CALCIUM-INDUCED CALCIUM RELEASE*** — hence cardiac (unlike skeletal) contraction depends on extracellular calcium.
 - **Relaxation requires ***SERCA to pump calcium back into the sarcoplasmic reticulum (an ATP-dependent step) — its regulator PHOSPHOLAMBAN is the target of beta-adrenergic stimulation, which speeds relaxation (lusitropy).***
-- ***SMOOTH MUSCLE has NO troponin: calcium binds CALMODULIN → activates MYOSIN LIGHT-CHAIN KINASE → phosphorylates myosin; relaxation needs MYOSIN LIGHT-CHAIN PHOSPHATASE.*** The "LATCH state" allows sustained tone at minimal ATP cost, and NO/cGMP causes relaxation (the basis of nitrates and sildenafil).
+- ***SMOOTH MUSCLE has NO troponin: calcium binds CALMODULIN → activates MYOSIN LIGHT-CHAIN KINASE → phosphorylates myosin; relaxation needs MYOSIN LIGHT-CHAIN PHOSPHATASE.*** The “LATCH state” allows sustained tone at minimal ATP cost, and NO/cGMP causes relaxation (the basis of nitrates and sildenafil).
 - **The LENGTH–TENSION relationship (optimal overlap at resting length) and the FORCE–VELOCITY curve (velocity falls as load rises) are the two classic muscle graphs.**
 
 **EXAM CONNECTION:** Constituent of the Z-line → **alpha-actinin**; myosin head detaches from actin by → **binding of ATP**.
@@ -296,7 +296,7 @@
 
 ### 13. Excitation–Contraction Coupling in Skeletal versus Cardiac Muscle
 
-**PEARL:** ***IN SKELETAL MUSCLE THE DIHYDROPYRIDINE RECEPTOR AND THE RYANODINE RECEPTOR ARE COUPLED MECHANICALLY (a direct protein–protein interaction) — NOT chemically or electrically.*** The T-tubule DHPR acts purely as a **VOLTAGE SENSOR**, physically tugging open the sarcoplasmic reticulum's RyR1. Consequently ***CALCIUM COMES ENTIRELY FROM THE SARCOPLASMIC RETICULUM AND EXTRACELLULAR CALCIUM IS NOT REQUIRED FOR SKELETAL MUSCLE CONTRACTION.***
+**PEARL:** ***IN SKELETAL MUSCLE THE DIHYDROPYRIDINE RECEPTOR AND THE RYANODINE RECEPTOR ARE COUPLED MECHANICALLY (a direct protein–protein interaction) — NOT chemically or electrically.*** The T-tubule DHPR acts purely as a **VOLTAGE SENSOR**, physically tugging open the sarcoplasmic reticulum’s RyR1. Consequently ***CALCIUM COMES ENTIRELY FROM THE SARCOPLASMIC RETICULUM AND EXTRACELLULAR CALCIUM IS NOT REQUIRED FOR SKELETAL MUSCLE CONTRACTION.***
 
 **UNDERSTAND:** This is the single sharpest contrast in muscle physiology. ***CARDIAC muscle uses the DHPR as a REAL calcium channel: extracellular calcium enters and triggers CALCIUM-INDUCED CALCIUM RELEASE from RyR2*** — so ***CARDIAC CONTRACTION FAILS IN A CALCIUM-FREE MEDIUM WHILE SKELETAL CONTRACTION CONTINUES***, and it explains why calcium channel blockers are negatively inotropic on the heart but do not weaken skeletal muscle.
 
@@ -304,7 +304,7 @@
 
 - **The full skeletal sequence:** *motor neurone → ACETYLCHOLINE at the endplate → nicotinic receptors → increased Na+/K+ conductance → END-PLATE POTENTIAL (a local, graded, non-propagated potential) → muscle action potential → T-tubule → DHPR → RyR1 → calcium from the TERMINAL CISTERNAE → troponin C → contraction.***
 - ***MALIGNANT HYPERTHERMIA IS AN RyR1 DEFECT*** (triggered by volatile anaesthetics and suxamethonium — masseter spasm, rising end-tidal CO2, rigidity, hyperthermia, rhabdomyolysis; treated with ***DANTROLENE***, which blocks RyR1); ***CENTRAL CORE DISEASE shares the mutation.*** Mutations in the DHPR cause ***HYPOKALAEMIC PERIODIC PARALYSIS.***
-- **T-tubule arrangement:** *SKELETAL — at the A–I junction, TWO per sarcomere ("TRIADS"); CARDIAC — at the Z-line, ONE per sarcomere ("DYADS"); SMOOTH MUSCLE has caveolae instead.***
+- **T-tubule arrangement:** *SKELETAL — at the A–I junction, TWO per sarcomere (“TRIADS”); CARDIAC — at the Z-line, ONE per sarcomere (“DYADS”); SMOOTH MUSCLE has caveolae instead.***
 - **Neuromuscular junction disorders map onto this pathway:** *MYASTHENIA GRAVIS — POSTsynaptic acetylcholine receptor antibodies (fatigable weakness, DECREMENT on repetitive stimulation, improves with edrophonium); LAMBERT–EATON — PRESYNAPTIC voltage-gated CALCIUM channel antibodies (weakness IMPROVING with exercise, INCREMENT on high-frequency stimulation, small cell lung cancer); BOTULINUM TOXIN — blocks acetylcholine RELEASE (SNARE proteins); ORGANOPHOSPHATES — excess acetylcholine.***
 - **Motor unit physiology:** *the SIZE PRINCIPLE (small, slow, fatigue-resistant type I units recruited first), and the innervation ratio (3:1 in extraocular muscle for precision, 2000:1 in gastrocnemius for power).***
 
@@ -349,7 +349,7 @@
 - **Intrafusal fibres:** **nuclear BAG fibres (dynamic and static) — signal RATE of change of length (velocity), via Ia afferents**; **nuclear CHAIN fibres — signal STATIC length, via group II afferents**. Both are non-contractile centrally (few actin/myosin filaments) — that region is the receptor.
 - **Stretch (myotatic) reflex:** muscle stretched → Ia afferent → **monosynaptic** excitation of the alpha motor neuron of the same muscle + **reciprocal inhibition** of the antagonist. This is the knee jerk; it is the **only monosynaptic reflex in the body**.
 - **GOLGI TENDON ORGAN** — the complementary receptor: lies **in series in the tendon**, senses **TENSION (force)** not length, is supplied by **group Ib** afferents, and produces **inverse stretch reflex / autogenic INHIBITION** (the clasp-knife phenomenon) — protecting against excessive force.
-- **Gamma loop hyperactivity** underlies **spasticity in upper motor neuron lesions**; **decerebrate rigidity** is a gamma-driven ("gamma rigidity") exaggeration of the stretch reflex.
+- **Gamma loop hyperactivity** underlies **spasticity in upper motor neuron lesions**; **decerebrate rigidity** is a gamma-driven (“gamma rigidity”) exaggeration of the stretch reflex.
 - **Fibre types by size and speed: Ia (Aα) — spindle primary, fastest; Ib — Golgi tendon organ; II (Aβ) — spindle secondary and touch; III (Aδ) — fast pain and cold; IV (C) — slow pain, warmth, unmyelinated.** Sensitivity to **local anaesthetic is greatest in small unmyelinated fibres; to pressure/ischaemia greatest in large myelinated fibres.**
 
 **EXAM CONNECTION:** An image of a spindle with the intrafusal fibres marked. **Intrafusal = gamma**, and if the sensory ending is marked, **primary = Ia, annulospiral**.
@@ -405,7 +405,7 @@
 - **Skeletal muscle** relies almost entirely on **SR calcium via the ryanodine receptor mechanically coupled to the DHP receptor**; **cardiac muscle needs extracellular calcium entry to trigger calcium-induced calcium release** — which is why cardiac muscle is sensitive to calcium channel blockers and skeletal muscle is not.
 - Energy sources during exercise, in order: **stored ATP (1–2 s) → PHOSPHOCREATINE (up to ~10 s — the source for a 100 m dash) → anaerobic glycolysis (up to ~1–2 min) → oxidative metabolism (beyond that)**.
 
-**EXAM CONNECTION:** Two separate questions from one cycle: "contraction ends when" → **calcium falls**; "myosin ceases contact with actin when" → **ATP binds the head**.
+**EXAM CONNECTION:** Two separate questions from one cycle: “contraction ends when” → **calcium falls**; “myosin ceases contact with actin when” → **ATP binds the head**.
 
 **REMEMBER:** *Calcium starts it, ATP binding lets go, SERCA finishes it.*
 
@@ -425,7 +425,7 @@
 
 **MUST KNOW:**
 
-- Clinical consequence of pressure block: **sleeping on the arm gives weakness and loss of touch (A fibres) with PRESERVED pain (C fibres)** — the classic "Saturday night palsy" pattern and the stem in the exam.
+- Clinical consequence of pressure block: **sleeping on the arm gives weakness and loss of touch (A fibres) with PRESERVED pain (C fibres)** — the classic “Saturday night palsy” pattern and the stem in the exam.
 - Clinical consequence of local anaesthetic: the order of loss is **pain and temperature → touch → pressure → motor**, and recovery is in reverse.
 - Fibre classes: **Aα — motor and proprioception (Ia, Ib)**; **Aβ — touch and pressure (II)**; **Aγ — muscle spindle motor**; **Aδ — fast pain and cold (III)**; **B — preganglionic autonomic**; **C — slow pain, warmth, postganglionic sympathetic (IV)**.
 - **Conduction velocity ∝ diameter and myelination**; Aα is fastest (~120 m/s), C slowest (~1 m/s).
@@ -475,11 +475,11 @@
 
 **PEARL:** ***ERYTHROPOIETIN ACTS EARLIEST ON THE BURST-FORMING UNIT–ERYTHROID (BFU-E)***, although the ***COLONY-FORMING UNIT–ERYTHROID (CFU-E) HAS THE HIGHEST DENSITY OF EPO RECEPTORS*** and is most dependent on it. Globin switching: ***EMBRYONIC (epsilon, zeta) → FETAL HbF (α2γ2) → ADULT HbA (α2β2), with HbA2 (α2δ2) minor.*** ***GAMMA-chain production peaks in fetal life and falls to negligible levels by about 6 MONTHS postnatally; ALPHA chains are made throughout, from the first weeks of gestation.***
 
-**UNDERSTAND:** The alpha chain's continuous production is the key clinical insight: ***ALPHA-thalassaemia presents IN UTERO OR AT BIRTH (Hb Bart's hydrops), whereas BETA-thalassaemia and sickle cell disease present at 4–6 MONTHS***, when gamma chains are replaced by the defective beta chains. It is also why ***HbF PROTECTS***, and why raising it (hydroxyurea) is therapeutic in sickle cell disease.
+**UNDERSTAND:** The alpha chain’s continuous production is the key clinical insight: ***ALPHA-thalassaemia presents IN UTERO OR AT BIRTH (Hb Bart’s hydrops), whereas BETA-thalassaemia and sickle cell disease present at 4–6 MONTHS***, when gamma chains are replaced by the defective beta chains. It is also why ***HbF PROTECTS***, and why raising it (hydroxyurea) is therapeutic in sickle cell disease.
 
 **MUST KNOW:**
 
-- **Erythropoietin is made by ***PERITUBULAR INTERSTITIAL FIBROBLASTS OF THE RENAL CORTEX (85–90%) and the liver (10–15%)***, in response to hypoxia sensed through ***HIF-1-alpha (stabilised when prolyl hydroxylase is inhibited by low oxygen — the 2019 Nobel Prize, and the target of the new "HIF stabiliser" drugs)***. Hence ***ANAEMIA OF CKD (low EPO) and POLYCYTHAEMIA in renal cell carcinoma, hepatoma, cerebellar haemangioblastoma, phaeochromocytoma and uterine fibroids.***
+- **Erythropoietin is made by ***PERITUBULAR INTERSTITIAL FIBROBLASTS OF THE RENAL CORTEX (85–90%) and the liver (10–15%)***, in response to hypoxia sensed through ***HIF-1-alpha (stabilised when prolyl hydroxylase is inhibited by low oxygen — the 2019 Nobel Prize, and the target of the new “HIF stabiliser” drugs)***. Hence ***ANAEMIA OF CKD (low EPO) and POLYCYTHAEMIA in renal cell carcinoma, hepatoma, cerebellar haemangioblastoma, phaeochromocytoma and uterine fibroids.***
 - **Requirements for erythropoiesis: ***IRON, B12, FOLATE, protein, copper, and the hormones EPO, thyroxine, androgens and cortisol.*** Maturation sequence: ***proerythroblast → basophilic → polychromatophilic → orthochromatic erythroblast → RETICULOCYTE (nucleus extruded) → erythrocyte***, taking about 7 days, with a red cell lifespan of ***120 DAYS.***
 - ***HbF has a HIGHER OXYGEN AFFINITY (a LEFT-SHIFTED curve) because gamma chains bind 2,3-BPG POORLY*** — the mechanism by which the fetus extracts oxygen from maternal blood.
 - **Oxygen–haemoglobin curve shifts:** *RIGHT (less affinity, more unloading) — raised CO2, H+ (BOHR effect), temperature and 2,3-BPG, and HbS; LEFT — the opposite, plus HbF, methaemoglobin, CARBOXYHAEMOGLOBIN and stored blood.***
@@ -504,7 +504,7 @@
 
 **MUST KNOW:**
 
-- ***THE "STORAGE LESION": progressive fall in 2,3-BPG (a LEFT-SHIFTED curve, so stored blood unloads oxygen poorly for the first 24 hours after transfusion), fall in ATP, loss of membrane and shape change (echinocytes), RISING PLASMA POTASSIUM AND HAEMOGLOBIN, falling pH, and accumulation of microaggregates.***
+- ***THE “STORAGE LESION”: progressive fall in 2,3-BPG (a LEFT-SHIFTED curve, so stored blood unloads oxygen poorly for the first 24 hours after transfusion), fall in ATP, loss of membrane and shape change (echinocytes), RISING PLASMA POTASSIUM AND HAEMOGLOBIN, falling pH, and accumulation of microaggregates.***
 - **Massive transfusion complications:** *CITRATE TOXICITY causing HYPOCALCAEMIA (perioral tingling, tetany, prolonged QT, hypotension) — give calcium; HYPERKALAEMIA (from the storage lesion); HYPOTHERMIA (use a blood warmer); DILUTIONAL COAGULOPATHY AND THROMBOCYTOPENIA; and metabolic ALKALOSIS later, as citrate is metabolised to bicarbonate.***
 - **Component storage:** *RED CELLS at 2–6 °C; PLATELETS at 20–24 °C WITH CONTINUOUS AGITATION for only 5 DAYS (hence the highest bacterial contamination risk of any component); FRESH FROZEN PLASMA at −30 °C for a year; CRYOPRECIPITATE (fibrinogen, factor VIII, vWF, factor XIII, fibronectin) similarly.***
 - **Transfusion reactions:** *ACUTE HAEMOLYTIC (ABO incompatibility — a CLERICAL error; fever, loin pain, haemoglobinuria, DIC — STOP THE TRANSFUSION IMMEDIATELY); FEBRILE NON-HAEMOLYTIC (cytokines/leucocytes — prevented by leucodepletion); ALLERGIC/anaphylactic (IgA deficiency); TRALI (donor anti-HLA antibodies — non-cardiogenic pulmonary oedema within 6 hours); TACO (circulatory overload); DELAYED haemolytic; and TA-GvHD (prevented by IRRADIATION).***
@@ -526,12 +526,12 @@
 
 **PEARL:** ***BARORECEPTOR AFFERENTS (glossopharyngeal from the carotid sinus, vagus from the aortic arch) TERMINATE IN THE NUCLEUS TRACTUS SOLITARIUS.*** The circuit: **rise in BP → baroreceptor firing ↑ → NTS → excites the CAUDAL ventrolateral medulla → INHIBITS the ROSTRAL ventrolateral medulla → sympathetic outflow falls; NTS also stimulates the cardiovagal centre → parasympathetic outflow rises → HR and BP fall.** The ***BEZOLD–JARISCH REFLEX*** — bradycardia, hypotension and apnoea from stimulation of cardiopulmonary vagal C fibres — is triggered by ***SEROTONIN***, capsaicin, veratridine and phenyl biguanide.
 
-**UNDERSTAND:** Baroreceptors are ***RATE-SENSITIVE STRETCH RECEPTORS THAT RESET WITHIN 1–2 DAYS***, which is why they buffer *acute*, beat-to-beat changes but ***DO NOT CONTROL LONG-TERM BLOOD PRESSURE*** — that is the kidney's job, via pressure natriuresis. Conversely, the Bezold–Jarisch reflex is the paradoxical response: stimulation of ventricular receptors in an underfilled, vigorously contracting heart produces bradycardia and vasodilatation instead of tachycardia — the mechanism of ***VASOVAGAL SYNCOPE, of syncope in aortic stenosis and inferior myocardial infarction, and of bradycardia after spinal anaesthesia.***
+**UNDERSTAND:** Baroreceptors are ***RATE-SENSITIVE STRETCH RECEPTORS THAT RESET WITHIN 1–2 DAYS***, which is why they buffer *acute*, beat-to-beat changes but ***DO NOT CONTROL LONG-TERM BLOOD PRESSURE*** — that is the kidney’s job, via pressure natriuresis. Conversely, the Bezold–Jarisch reflex is the paradoxical response: stimulation of ventricular receptors in an underfilled, vigorously contracting heart produces bradycardia and vasodilatation instead of tachycardia — the mechanism of ***VASOVAGAL SYNCOPE, of syncope in aortic stenosis and inferior myocardial infarction, and of bradycardia after spinal anaesthesia.***
 
 **MUST KNOW:**
 
 - ***STANDING UP: venous pooling → reduced venous return and stroke volume → BP falls → BARORECEPTOR FIRING DECREASES (the immediate event) → vagal tone withdrawn and sympathetic tone increased → tachycardia, increased contractility and peripheral/mesenteric vasoconstriction.*** Failure of this sequence causes ***ORTHOSTATIC HYPOTENSION (a fall of ≥20 mmHg systolic or ≥10 diastolic within 3 minutes of standing)*** — seen in autonomic neuropathy, hypovolaemia and with antihypertensives.
-- **Other reflexes to hold together:** *CHEMORECEPTOR reflex (carotid and aortic bodies — hypoxia, hypercapnia, acidosis → hyperventilation and sympathetic activation); CUSHING REFLEX (raised intracranial pressure → HYPERTENSION, BRADYCARDIA, IRREGULAR RESPIRATION); BAINBRIDGE REFLEX (atrial stretch → tachycardia); VALSALVA'S four phases; and the DIVING REFLEX (bradycardia with peripheral vasoconstriction).***
+- **Other reflexes to hold together:** *CHEMORECEPTOR reflex (carotid and aortic bodies — hypoxia, hypercapnia, acidosis → hyperventilation and sympathetic activation); CUSHING REFLEX (raised intracranial pressure → HYPERTENSION, BRADYCARDIA, IRREGULAR RESPIRATION); BAINBRIDGE REFLEX (atrial stretch → tachycardia); VALSALVA’S four phases; and the DIVING REFLEX (bradycardia with peripheral vasoconstriction).***
 - **Carotid sinus massage exploits the baroreflex to terminate supraventricular tachycardia; ***CAROTID SINUS HYPERSENSITIVITY causes syncope in the elderly, and massage is avoided with carotid bruits.***
 - **PULSE PRESSURE = systolic − diastolic. It is determined by ***STROKE VOLUME and ARTERIAL COMPLIANCE***; a WIDE pulse pressure in the elderly reflects ***REDUCED ARTERIAL COMPLIANCE (stiff arteries — systolic rises, diastolic falls)***, and also occurs in aortic regurgitation, thyrotoxicosis, anaemia, PDA and AV fistula. A NARROW pulse pressure suggests aortic stenosis, tamponade, heart failure or hypovolaemic shock.
 - **Mean arterial pressure ≈ diastolic + one-third of pulse pressure; ***MAP = CARDIAC OUTPUT × SYSTEMIC VASCULAR RESISTANCE.***
@@ -556,7 +556,7 @@
 - **Diseases of junctions, which make the topic examinable:** *PEMPHIGUS VULGARIS (antibodies against DESMOGLEIN — intraepidermal blisters, positive Nikolsky sign) versus BULLOUS PEMPHIGOID (antibodies against HEMIDESMOSOMES — subepidermal, tense blisters); ARRHYTHMOGENIC RIGHT VENTRICULAR CARDIOMYOPATHY (DESMOSOMAL protein mutations); CHARCOT–MARIE–TOOTH X-linked (CONNEXIN 32); and CONNEXIN 26 mutations causing NON-SYNDROMIC DEAFNESS.***
 - **ELECTRICAL versus CHEMICAL synapses:** *ELECTRICAL — gap junctions/CONNEXONS, CYTOPLASMIC CONTINUITY, BIDIRECTIONAL, essentially NO SYNAPTIC DELAY, cannot be inhibitory or amplified; CHEMICAL — a cleft, a transmitter, UNIDIRECTIONAL, ~0.5 ms delay, capable of amplification, inhibition and PLASTICITY (the basis of learning).*** Most CNS synapses are chemical; electrical synapses are found in cardiac and smooth muscle, the retina, and some brainstem nuclei.
 - **Cardiac muscle cells: single central nucleus, branching fibres, abundant mitochondria (~30% of cell volume — reflecting obligate aerobic metabolism), T-tubules at the Z-line, and ***LYSOSOMES CONCENTRATED IN THE PERINUCLEAR REGION***, so a region of a cell devoid of nuclei is also devoid of lysosomes.
-- **Skeletal muscle: multinucleate with peripheral nuclei, T-tubules at the A–I junction (two per sarcomere, hence "triads"); cardiac muscle has "dyads".**
+- **Skeletal muscle: multinucleate with peripheral nuclei, T-tubules at the A–I junction (two per sarcomere, hence “triads”); cardiac muscle has “dyads”.**
 
 **EXAM CONNECTION:** Junctions in cardiac muscle, all EXCEPT → **zonula occludens**; difference of an electrical synapse → **connexons are involved**.
 
@@ -571,19 +571,19 @@
 
 ### 24. The Cardiac Cycle in Sequence
 
-**PEARL:** After the **P WAVE** the order is: ***"a" WAVE IN THE JVP (atrial contraction) → FIRST HEART SOUND (mitral/tricuspid closure, beginning isovolumetric contraction) → T WAVE (ventricular repolarisation) → RAPID VENTRICULAR FILLING (after the second sound and isovolumetric relaxation, when the mitral valve opens).***
+**PEARL:** After the **P WAVE** the order is: ***“a” WAVE IN THE JVP (atrial contraction) → FIRST HEART SOUND (mitral/tricuspid closure, beginning isovolumetric contraction) → T WAVE (ventricular repolarisation) → RAPID VENTRICULAR FILLING (after the second sound and isovolumetric relaxation, when the mitral valve opens).***
 
-**UNDERSTAND:** The rule that makes the whole cycle memorable is that ***ELECTRICAL EVENTS PRECEDE THE MECHANICAL EVENTS THEY CAUSE***: P wave → atrial contraction → "a" wave; QRS → ventricular contraction → S1; T wave → repolarisation → relaxation → S2 and then filling. ***RAPID FILLING IS THEREFORE LATE — it comes AFTER the T wave, not before it***, which is exactly the trap in the question.
+**UNDERSTAND:** The rule that makes the whole cycle memorable is that ***ELECTRICAL EVENTS PRECEDE THE MECHANICAL EVENTS THEY CAUSE***: P wave → atrial contraction → “a” wave; QRS → ventricular contraction → S1; T wave → repolarisation → relaxation → S2 and then filling. ***RAPID FILLING IS THEREFORE LATE — it comes AFTER the T wave, not before it***, which is exactly the trap in the question.
 
 **MUST KNOW:**
 
-- **JVP waves:** *"a" — ATRIAL contraction (ABSENT IN ATRIAL FIBRILLATION; GIANT/CANNON "a" waves in tricuspid stenosis, pulmonary hypertension and COMPLETE HEART BLOCK, where the atrium contracts against a closed tricuspid valve). "c" — bulging of the tricuspid valve during isovolumetric contraction. "x" descent — atrial relaxation and downward displacement of the valve ring. "v" — atrial FILLING against a closed valve (GIANT "cv" waves in TRICUSPID REGURGITATION). "y" descent — tricuspid opening and rapid ventricular filling (SHARP in constrictive pericarditis — FRIEDREICH'S SIGN; ABSENT in TAMPONADE).***
+- **JVP waves:** *“a” — ATRIAL contraction (ABSENT IN ATRIAL FIBRILLATION; GIANT/CANNON “a” waves in tricuspid stenosis, pulmonary hypertension and COMPLETE HEART BLOCK, where the atrium contracts against a closed tricuspid valve). “c” — bulging of the tricuspid valve during isovolumetric contraction. “x” descent — atrial relaxation and downward displacement of the valve ring. “v” — atrial FILLING against a closed valve (GIANT “cv” waves in TRICUSPID REGURGITATION). “y” descent — tricuspid opening and rapid ventricular filling (SHARP in constrictive pericarditis — FRIEDREICH’S SIGN; ABSENT in TAMPONADE).***
 - **Heart sounds:** *S1 — mitral then tricuspid closure (loud in mitral stenosis and short PR; soft in mitral regurgitation and long PR). S2 — aortic then pulmonary closure, with NORMAL physiological splitting on INSPIRATION (increased venous return delays P2); WIDE FIXED SPLIT — ASD; PARADOXICAL (reversed) SPLIT — LBBB, severe aortic stenosis. S3 — rapid filling into a compliant or volume-loaded ventricle (normal in the young; heart failure and mitral regurgitation in adults). S4 — atrial contraction into a STIFF ventricle (hypertension, aortic stenosis, HCM) — ***AND IS ALWAYS ABSENT IN ATRIAL FIBRILLATION.***
 - **The pressure–volume loop:** *END-DIASTOLIC VOLUME ~120 mL, END-SYSTOLIC ~50 mL, stroke volume ~70 mL, ejection fraction ~55–70%.*** ***CONTRACTILITY IS REPRESENTED BY THE SLOPE OF THE END-SYSTOLIC PRESSURE–VOLUME RELATIONSHIP (ESPVR) — so a FALL IN CONTRACTILITY CHANGES THE SLOPE OF THE END-SYSTOLIC (not the end-diastolic) LINE***, shifting it downward and to the right. The end-diastolic pressure–volume relationship reflects ***COMPLIANCE***, not contractility.
 - **Preload = EDV/end-diastolic wall stress (FRANK–STARLING: more stretch → more force, from improved actin–myosin overlap and calcium sensitivity); afterload = the wall stress the ventricle must overcome (LAPLACE: T = P × r ÷ 2h — the reason a dilated ventricle is at a mechanical disadvantage).**
 - **Coronary flow occurs predominantly in ***DIASTOLE***, so tachycardia (which shortens diastole) is doubly harmful in ischaemia.
 
-**EXAM CONNECTION:** Sequence after the P wave → **"a" wave → S1 → T wave → rapid filling**; decreased contractility → **change in the slope of the end-systolic pressure–volume curve**.
+**EXAM CONNECTION:** Sequence after the P wave → **“a” wave → S1 → T wave → rapid filling**; decreased contractility → **change in the slope of the end-systolic pressure–volume curve**.
 
 **REMEMBER:** *Every mechanical event trails the electrical one that caused it — and filling comes last.*
 
@@ -606,13 +606,13 @@
 **MUST KNOW:**
 
 - **Reflex arc:** ↑BP → ↑stretch → ↑afferent firing → NTS → **increased vagal (parasympathetic) output and inhibition of sympathetic outflow** → bradycardia, vasodilatation, ↓BP. A **negative feedback loop** operating beat to beat.
-- **Carotid sinus → CN IX (Hering's nerve); AORTIC ARCH → CN X (vagus, "aortic nerve/nerve of Cyon")**. Both terminate in the NTS.
+- **Carotid sinus → CN IX (Hering’s nerve); AORTIC ARCH → CN X (vagus, “aortic nerve/nerve of Cyon”)**. Both terminate in the NTS.
 - Baroreceptors are **most sensitive between 60 and 180 mmHg** and **RAPIDLY ADAPT** — so they buffer **acute** changes (e.g. standing up) but **reset in chronic hypertension** and therefore do not cause or correct it long-term.
 - **Carotid sinus massage** slows the heart — diagnostic in supraventricular tachycardia; **carotid sinus hypersensitivity** causes syncope in the elderly (avoid in carotid bruits/stenosis).
 - **Chemoreceptors:** **carotid body (CN IX)** and **aortic bodies (CN X)** respond to **↓PaO₂ (<60 mmHg), ↑PaCO₂ and ↑H⁺** — the carotid body has the **highest blood flow per gram of any tissue**. Distinguish from **central chemoreceptors** in the ventral medulla, which respond to **CSF H⁺/CO₂** and drive most of the normal ventilatory response.
 - **Low-pressure (volume) receptors** in the atria and great veins → **Bainbridge reflex** and ANP release.
 
-**EXAM CONNECTION:** "Which statement is INCORRECT?" — the false one misplaces the receptors in the media/smooth muscle. Everything about **adventitia, CN IX and cation channels** is true.
+**EXAM CONNECTION:** “Which statement is INCORRECT?” — the false one misplaces the receptors in the media/smooth muscle. Everything about **adventitia, CN IX and cation channels** is true.
 
 **REMEMBER:** *Stretch is felt on the outside of the vessel — adventitia, via the ninth nerve.*
 
@@ -626,7 +626,7 @@
 
 ### 26. The SA Node Action Potential
 
-**PEARL:** **Phase 0 of the SA (and AV) nodal action potential is due to CALCIUM influx through L-type channels ONLY** — there is **no fast sodium current**, no phase 1 and no plateau. The **unstable phase 4 "prepotential" is driven by the funny current (If, a sodium influx through HCN channels), decaying K⁺ efflux, and T-type calcium channels**.
+**PEARL:** **Phase 0 of the SA (and AV) nodal action potential is due to CALCIUM influx through L-type channels ONLY** — there is **no fast sodium current**, no phase 1 and no plateau. The **unstable phase 4 “prepotential” is driven by the funny current (If, a sodium influx through HCN channels), decaying K⁺ efflux, and T-type calcium channels**.
 
 **UNDERSTAND:** The nodal resting potential is only about **−55 to −60 mV**, at which voltage the **fast sodium channels are permanently inactivated** — they simply cannot open. The cell therefore has to depolarise using the slower L-type calcium current, which is why **nodal upstrokes are slow, conduction through the AV node is slow, and the node has no stable resting potential**. Everything about pacemaker behaviour and about the drugs that act on it follows from that single fact.
 
@@ -638,7 +638,7 @@
 - Drug targets: **IVABRADINE blocks the funny current (If) → pure heart-rate reduction with no effect on contractility or blood pressure**; **verapamil, diltiazem and beta-blockers slow AV nodal conduction (L-type calcium and cAMP)**; **adenosine causes transient AV block — the drug of choice for terminating SVT**; **digoxin acts vagally on the AV node**.
 - **The AV node is calcium-dependent too**, which is why **calcium channel blockers and beta-blockers prolong the PR interval** and are used for rate control in atrial fibrillation.
 
-**EXAM CONNECTION:** "Phase 0 in the SA node is due to…" — the answer is **calcium alone**. The distractor "sodium and calcium" describes phase 4, not phase 0.
+**EXAM CONNECTION:** “Phase 0 in the SA node is due to…” — the answer is **calcium alone**. The distractor “sodium and calcium” describes phase 4, not phase 0.
 
 **REMEMBER:** *Too depolarised for sodium channels — the node has to rise on calcium.*
 
@@ -657,13 +657,13 @@
 
 **MUST KNOW:**
 
-- **Widened pulse pressure: ageing/atherosclerosis (commonest), AORTIC REGURGITATION (the widest — "water-hammer"/COLLAPSING pulse, with Corrigan's, de Musset's, Quincke's, Duroziez' and Traube's signs), thyrotoxicosis, anaemia, fever, pregnancy, arteriovenous fistula, patent ductus arteriosus, beri-beri, and complete heart block.**
-- **NARROWED pulse pressure: AORTIC STENOSIS (pulsus PARVUS ET TARDUS), cardiac TAMPONADE (with PULSUS PARADOXUS — an inspiratory fall >10 mmHg — plus raised JVP and muffled heart sounds: BECK'S TRIAD), constrictive pericarditis, hypovolaemic shock, and heart failure with a low stroke volume.**
+- **Widened pulse pressure: ageing/atherosclerosis (commonest), AORTIC REGURGITATION (the widest — “water-hammer”/COLLAPSING pulse, with Corrigan’s, de Musset’s, Quincke’s, Duroziez’ and Traube’s signs), thyrotoxicosis, anaemia, fever, pregnancy, arteriovenous fistula, patent ductus arteriosus, beri-beri, and complete heart block.**
+- **NARROWED pulse pressure: AORTIC STENOSIS (pulsus PARVUS ET TARDUS), cardiac TAMPONADE (with PULSUS PARADOXUS — an inspiratory fall >10 mmHg — plus raised JVP and muffled heart sounds: BECK’S TRIAD), constrictive pericarditis, hypovolaemic shock, and heart failure with a low stroke volume.**
 - **Isolated systolic hypertension is the commonest form of hypertension over 60 and is a STRONG independent predictor of cardiovascular risk** — treat it (thiazide or calcium channel blocker first-line), taking care to avoid excessive diastolic lowering.
 - **Mean arterial pressure = diastolic + ⅓ pulse pressure** — weighted toward diastole because diastole occupies two-thirds of the cardiac cycle at normal heart rates (and proportionally less as the rate rises).
 - Related pulse abnormalities: **pulsus alternans (severe LV failure), pulsus bisferiens (mixed aortic valve disease, HOCM), and radio-femoral delay (coarctation).**
 
-**EXAM CONNECTION:** "What has DECREASED?" — everything else on the list would **narrow** the pulse pressure if reduced. Only **compliance** widens it by falling.
+**EXAM CONNECTION:** “What has DECREASED?” — everything else on the list would **narrow** the pulse pressure if reduced. Only **compliance** widens it by falling.
 
 **REMEMBER:** *A stiff pipe cannot absorb the beat — systolic soars, diastolic sags.*
 
@@ -671,7 +671,7 @@
 
 ---
 
-### 28. Poiseuille's Law
+### 28. Poiseuille’s Law
 
 **PEARL:** **Flow ∝ (pressure gradient × radius⁴) / (viscosity × length).** Doubling the **radius multiplies flow by 16**; doubling the **length halves it**.
 
@@ -681,10 +681,10 @@
 
 - Worked example: radius doubled (**×16**) and length doubled (**÷2**) → net **8-fold increase** in flow.
 - **Resistance = 8ηL/πr⁴**; **total peripheral resistance is determined mainly by the arterioles**.
-- **Series resistances add; parallel resistances reduce total resistance** — hence the systemic circulation's parallel organ beds keep total resistance low.
+- **Series resistances add; parallel resistances reduce total resistance** — hence the systemic circulation’s parallel organ beds keep total resistance low.
 - **Viscosity** rises with **haematocrit** (polycythaemia) and falls in anaemia; **Fahraeus–Lindqvist effect** — apparent viscosity falls in vessels < 300 µm as red cells stream axially.
 - The law assumes **laminar flow of a Newtonian fluid**; turbulence (predicted by a **Reynolds number > 2000**) increases resistance and generates **bruits and murmurs**.
-- **Laplace's law (T = Pr)** is the complementary rule — explaining why dilated ventricles and aneurysms face rising wall tension and why small alveoli would collapse into large ones without surfactant.
+- **Laplace’s law (T = Pr)** is the complementary rule — explaining why dilated ventricles and aneurysms face rising wall tension and why small alveoli would collapse into large ones without surfactant.
 
 **EXAM CONNECTION:** Compute the radius factor and the length factor separately, then combine.
 
@@ -702,7 +702,7 @@
 
 **PEARL:** **Changing CONTRACTILITY changes the SLOPE of the end-systolic pressure–volume relationship (ESPVR).** Changing **preload or compliance** shifts the **end-diastolic (EDPVR)** curve.
 
-**UNDERSTAND:** The **ESPVR line is the ventricle's intrinsic force-generating capacity** — the maximum pressure it can develop at any given volume, independent of loading conditions. Because it is load-independent, its **slope (Ees) is the best measure of contractility**. Reduced contractility flattens that slope, so the loop's upper-left corner shifts right and down: the ventricle empties less at any pressure.
+**UNDERSTAND:** The **ESPVR line is the ventricle’s intrinsic force-generating capacity** — the maximum pressure it can develop at any given volume, independent of loading conditions. Because it is load-independent, its **slope (Ees) is the best measure of contractility**. Reduced contractility flattens that slope, so the loop’s upper-left corner shifts right and down: the ventricle empties less at any pressure.
 
 **MUST KNOW:**
 
@@ -732,7 +732,7 @@
 
 ### 30. Respiratory Control and Lung Volumes
 
-**PEARL:** ***THE PRE-BÖTZINGER COMPLEX IN THE MEDULLA IS THE PACEMAKER THAT GENERATES THE RESPIRATORY RHYTHM.*** The ***DORSAL RESPIRATORY GROUP*** drives quiet inspiration, the ***VENTRAL group is largely expiratory (active only in forced breathing)***, the ***PNEUMOTAXIC CENTRE (pons) SWITCHES OFF INSPIRATION (limiting tidal volume and raising rate)*** and the ***APNEUSTIC CENTRE PROLONGS it.*** ***ANATOMICAL DEAD SPACE IS MEASURED BY THE SINGLE-BREATH NITROGEN (FOWLER'S) METHOD; PHYSIOLOGICAL DEAD SPACE BY THE BOHR EQUATION.***
+**PEARL:** ***THE PRE-BÖTZINGER COMPLEX IN THE MEDULLA IS THE PACEMAKER THAT GENERATES THE RESPIRATORY RHYTHM.*** The ***DORSAL RESPIRATORY GROUP*** drives quiet inspiration, the ***VENTRAL group is largely expiratory (active only in forced breathing)***, the ***PNEUMOTAXIC CENTRE (pons) SWITCHES OFF INSPIRATION (limiting tidal volume and raising rate)*** and the ***APNEUSTIC CENTRE PROLONGS it.*** ***ANATOMICAL DEAD SPACE IS MEASURED BY THE SINGLE-BREATH NITROGEN (FOWLER’S) METHOD; PHYSIOLOGICAL DEAD SPACE BY THE BOHR EQUATION.***
 
 **UNDERSTAND:** ***THE MOST POWERFUL MINUTE-TO-MINUTE DRIVE TO BREATHE IS CO2 — sensed by CENTRAL chemoreceptors in the ventral medulla, which respond not to CO2 itself but to the H+ generated when CO2 crosses the blood–brain barrier into CSF*** (H+ cannot cross). Hypoxia acts only through the ***PERIPHERAL chemoreceptors (carotid and aortic bodies) and only below a PaO2 of about 60 mmHg.*** This asymmetry explains both the shape of the ventilatory response curves and the clinical warning about oxygen therapy in chronic CO2 retention.
 
@@ -742,7 +742,7 @@
 - **Dead space increases with ***upright posture, neck extension, age, positive-pressure ventilation and anticholinergics (bronchodilatation); it decreases when supine, with neck flexion and with an artificial airway (which bypasses the upper airway).***
 - **The ***RESPIRATORY QUOTIENT = CO2 produced ÷ O2 consumed: CARBOHYDRATE 1.0, PROTEIN 0.8, FAT 0.7***, mixed diet ~0.82 (200 ÷ 250 = 0.8). ***A HIGH-CARBOHYDRATE LOAD RAISES CO2 PRODUCTION — relevant when weaning a patient from a ventilator.***
 - **The single-breath nitrogen curve also yields the ***CLOSING VOLUME (phase III–IV transition)***, which increases with age and smoking — the physiological basis of small-airway closure and V/Q mismatch.
-- **Other control facts:** *HERING–BREUER inflation reflex (vagal, protective at large tidal volumes), J-receptors (juxtacapillary — rapid shallow breathing in pulmonary oedema), irritant receptors, and the loss of central drive in ONDINE'S CURSE (congenital central hypoventilation, PHOX2B).***
+- **Other control facts:** *HERING–BREUER inflation reflex (vagal, protective at large tidal volumes), J-receptors (juxtacapillary — rapid shallow breathing in pulmonary oedema), irritant receptors, and the loss of central drive in ONDINE’S CURSE (congenital central hypoventilation, PHOX2B).***
 
 **EXAM CONNECTION:** Pacemaker of breathing → **pre-Bötzinger complex**; single-breath nitrogen method measures → **dead space**; lung recoiling without the chest wall → **minimum volume**; RQ 200/250 → **0.8**.
 
@@ -767,8 +767,8 @@
 - ***CENTRAL chemoreceptors (ventral medulla) respond to H+ IN THE CSF generated by CO2 — they account for ~80% of the ventilatory response to CO2 and are the DOMINANT minute-to-minute drive.*** ***PERIPHERAL chemoreceptors respond to LOW PaO2 (below ~60 mmHg), to H+ and, more rapidly, to CO2 — and are the ONLY sensors of hypoxia.***
 - **Clinical corollaries:** *in CHRONIC CO2 RETENTION the central chemoreceptors are blunted (CSF bicarbonate compensates) so HYPOXIC DRIVE MATTERS MORE — hence controlled oxygen therapy (target SpO2 88–92%)***; and ***METABOLIC ACIDOSIS drives ventilation through the PERIPHERAL chemoreceptors, since H+ cannot cross the blood–brain barrier.***
 - **The carotid body also mediates the ***CHEMORECEPTOR REFLEX (bradycardia and vasoconstriction if ventilation is prevented — the diving response) and contributes to sympathetic activation in heart failure and obstructive sleep apnoea.***
-- **Airway resistance:** *THE MEDIUM-SIZED BRONCHI (roughly the 4th to 8th generation) CONTRIBUTE THE GREATEST SHARE OF RESISTANCE.*** Although resistance in a single small airway is high (R ∝ 1/r⁴, Poiseuille), the ***SMALL AIRWAYS ARE ARRANGED IN PARALLEL AND HAVE AN ENORMOUS TOTAL CROSS-SECTIONAL AREA***, so their combined resistance is low. This is why ***SMALL-AIRWAY DISEASE IS A "SILENT ZONE" — extensive damage occurs before resistance measurably rises.***
-- ***AT FUNCTIONAL RESIDUAL CAPACITY THE AIRWAY (alveolar) PRESSURE IS ZERO*** — the lung's inward recoil exactly balances the chest wall's outward recoil, and airflow is nil.
+- **Airway resistance:** *THE MEDIUM-SIZED BRONCHI (roughly the 4th to 8th generation) CONTRIBUTE THE GREATEST SHARE OF RESISTANCE.*** Although resistance in a single small airway is high (R ∝ 1/r⁴, Poiseuille), the ***SMALL AIRWAYS ARE ARRANGED IN PARALLEL AND HAVE AN ENORMOUS TOTAL CROSS-SECTIONAL AREA***, so their combined resistance is low. This is why ***SMALL-AIRWAY DISEASE IS A “SILENT ZONE” — extensive damage occurs before resistance measurably rises.***
+- ***AT FUNCTIONAL RESIDUAL CAPACITY THE AIRWAY (alveolar) PRESSURE IS ZERO*** — the lung’s inward recoil exactly balances the chest wall’s outward recoil, and airflow is nil.
 
 **EXAM CONNECTION:** Ion involved in peripheral oxygen sensing → **potassium**; highest airway resistance → **bronchi (medium-sized airways)**; volume at which airway pressure is zero → **FRC**.
 
@@ -808,7 +808,7 @@
 
 **PEARL:** **Surfactant deficiency → INCREASED surface tension → DECREASED compliance.** The lung becomes stiff and prone to alveolar collapse.
 
-**UNDERSTAND:** Surface tension at the air–liquid interface **pulls the alveolus inward**, and by **Laplace's law (P = 2T/r)** the collapsing pressure is **greatest in the smallest alveoli**. Surfactant lowers surface tension **disproportionately more as the alveolus shrinks** (the molecules crowd together), equalising the pressures and preventing small alveoli emptying into large ones. Without it, more pressure is needed for every unit of expansion — the definition of low compliance.
+**UNDERSTAND:** Surface tension at the air–liquid interface **pulls the alveolus inward**, and by **Laplace’s law (P = 2T/r)** the collapsing pressure is **greatest in the smallest alveoli**. Surfactant lowers surface tension **disproportionately more as the alveolus shrinks** (the molecules crowd together), equalising the pressures and preventing small alveoli emptying into large ones. Without it, more pressure is needed for every unit of expansion — the definition of low compliance.
 
 **MUST KNOW:**
 
@@ -849,7 +849,7 @@
 - **Nucleus ambiguus** — motor to pharynx and larynx (IX, X, XI); **inferior salivatory nucleus** — parotid secretion via IX; **rostral ventrolateral medulla** — sympathetic vasomotor outflow.
 - **ACE inhibitor cough** results from **bradykinin and substance P accumulation** sensitising these same airway afferents.
 
-**EXAM CONNECTION:** "Receives the sensory stimuli" → **nucleus tractus solitarius**. The other options are all efferent or autonomic output nuclei.
+**EXAM CONNECTION:** “Receives the sensory stimuli” → **nucleus tractus solitarius**. The other options are all efferent or autonomic output nuclei.
 
 **REMEMBER:** *All visceral sensation lands in the solitary nucleus.*
 
@@ -863,9 +863,9 @@
 
 ### 35. Renal Transport Maximum
 
-**PEARL:** ***EXCRETION = FILTERED LOAD − REABSORPTION.*** With a plasma glucose of 200 mg/dL (2 mg/mL) and a GFR of 90 mL/min, the filtered load is **180 mg/min**; if the tubular transport maximum (Tm) is **150 mg/min**, the excreted glucose is **180 − 150 = 30 mg/min.** ***THE RENAL THRESHOLD FOR GLUCOSE (~180 mg/dL) IS LOWER THAN THE Tm because of "SPLAY"*** — heterogeneity of nephrons, some of which saturate earlier than others.
+**PEARL:** ***EXCRETION = FILTERED LOAD − REABSORPTION.*** With a plasma glucose of 200 mg/dL (2 mg/mL) and a GFR of 90 mL/min, the filtered load is **180 mg/min**; if the tubular transport maximum (Tm) is **150 mg/min**, the excreted glucose is **180 − 150 = 30 mg/min.** ***THE RENAL THRESHOLD FOR GLUCOSE (~180 mg/dL) IS LOWER THAN THE Tm because of “SPLAY”*** — heterogeneity of nephrons, some of which saturate earlier than others.
 
-**UNDERSTAND:** Glucose is reabsorbed by ***SECONDARY ACTIVE TRANSPORT via SGLT2 (90%, proximal, high capacity/low affinity) and SGLT1 (10%, high affinity)***, powered by the sodium gradient created by the basolateral Na+/K+-ATPase. Because carriers are finite, the process is ***SATURABLE — this is what Tm means.*** Every "Tm-limited" substance behaves the same way: **amino acids, phosphate, sulphate, urate and bicarbonate.** By contrast, ***PAH SECRETION is also Tm-limited, while sodium reabsorption is GRADIENT-TIME limited and urea is flow-dependent.***
+**UNDERSTAND:** Glucose is reabsorbed by ***SECONDARY ACTIVE TRANSPORT via SGLT2 (90%, proximal, high capacity/low affinity) and SGLT1 (10%, high affinity)***, powered by the sodium gradient created by the basolateral Na+/K+-ATPase. Because carriers are finite, the process is ***SATURABLE — this is what Tm means.*** Every “Tm-limited” substance behaves the same way: **amino acids, phosphate, sulphate, urate and bicarbonate.** By contrast, ***PAH SECRETION is also Tm-limited, while sodium reabsorption is GRADIENT-TIME limited and urea is flow-dependent.***
 
 **MUST KNOW:**
 
@@ -889,7 +889,7 @@
 
 ### 36. Vasopressin Escape and Water Handling
 
-**PEARL:** ***"VASOPRESSIN ESCAPE" IN SIADH IS CAUSED BY DOWNREGULATION OF AQUAPORIN-2*** in the collecting duct after prolonged exposure to high ADH. It is a protective adaptation: water reabsorption falls despite persistently high ADH, so the patient reaches a **new steady state and the hyponatraemia stops worsening.**
+**PEARL:** ***“VASOPRESSIN ESCAPE” IN SIADH IS CAUSED BY DOWNREGULATION OF AQUAPORIN-2*** in the collecting duct after prolonged exposure to high ADH. It is a protective adaptation: water reabsorption falls despite persistently high ADH, so the patient reaches a **new steady state and the hyponatraemia stops worsening.**
 
 **UNDERSTAND:** Escape is an example of a general principle — ***RECEPTOR/EFFECTOR DOWNREGULATION AFTER SUSTAINED STIMULATION*** — and it is what prevents SIADH from being uniformly fatal. It also explains the observation that most SIADH patients are ***EUVOLAEMIC rather than oedematous***: the initial water retention expands volume, which triggers natriuresis (via suppressed aldosterone and released natriuretic peptides), so the patient loses SALT as well as retaining water — ***HENCE A HIGH URINE SODIUM AND A DILUTIONAL HYPONATRAEMIA WITHOUT OEDEMA.***
 
@@ -936,9 +936,9 @@
 
 ### 38. The Countercurrent Mechanism and the Juxtaglomerular Apparatus
 
-**PEARL: **The countercurrent MULTIPLIER requires:** *(1) HIGH WATER PERMEABILITY OF THE THIN DESCENDING LIMB (aquaporin-1), (2) ACTIVE Na+/Cl− TRANSPORT OUT OF THE THICK ASCENDING LIMB (NKCC2 — the "single effect"), and (3) CONTINUOUS TUBULAR FLOW from proximal to distal tubule.*** The ***THIN ascending limb is passively permeable and is NOT the primary component***; the ***VASA RECTA are countercurrent EXCHANGERS (passive)*** which preserve the gradient. In the juxtaglomerular apparatus, the ***MACULA DENSA cells are the CHEMORECEPTORS that sense luminal NaCl and, when it is high, CONSTRICT THE AFFERENT ARTERIOLE (via adenosine) to LOWER GFR — tubuloglomerular feedback.***
+**PEARL: **The countercurrent MULTIPLIER requires:** *(1) HIGH WATER PERMEABILITY OF THE THIN DESCENDING LIMB (aquaporin-1), (2) ACTIVE Na+/Cl− TRANSPORT OUT OF THE THICK ASCENDING LIMB (NKCC2 — the “single effect”), and (3) CONTINUOUS TUBULAR FLOW from proximal to distal tubule.*** The ***THIN ascending limb is passively permeable and is NOT the primary component***; the ***VASA RECTA are countercurrent EXCHANGERS (passive)*** which preserve the gradient. In the juxtaglomerular apparatus, the ***MACULA DENSA cells are the CHEMORECEPTORS that sense luminal NaCl and, when it is high, CONSTRICT THE AFFERENT ARTERIOLE (via adenosine) to LOWER GFR — tubuloglomerular feedback.***
 
-**UNDERSTAND:** The genius of the loop is that a **small, achievable "single effect" (a 200 mOsm gradient generated by the thick ascending limb) is MULTIPLIED along the length of the loop by countercurrent flow** into a corticomedullary gradient of 1200–1400 mOsm/kg. The ***THICK ASCENDING LIMB IS THE "DILUTING SEGMENT" — it is IMPERMEABLE TO WATER***, so it removes salt without water and delivers HYPOTONIC fluid to the distal tubule. That is why ***LOOP DIURETICS ABOLISH BOTH THE ABILITY TO CONCENTRATE AND THE ABILITY TO DILUTE URINE.***
+**UNDERSTAND:** The genius of the loop is that a **small, achievable “single effect” (a 200 mOsm gradient generated by the thick ascending limb) is MULTIPLIED along the length of the loop by countercurrent flow** into a corticomedullary gradient of 1200–1400 mOsm/kg. The ***THICK ASCENDING LIMB IS THE “DILUTING SEGMENT” — it is IMPERMEABLE TO WATER***, so it removes salt without water and delivers HYPOTONIC fluid to the distal tubule. That is why ***LOOP DIURETICS ABOLISH BOTH THE ABILITY TO CONCENTRATE AND THE ABILITY TO DILUTE URINE.***
 
 **MUST KNOW:**
 
@@ -996,12 +996,12 @@
 **MUST KNOW:**
 
 - **Loop diuretics (furosemide) block NKCC2 → abolish the lumen-positive potential → so they cause not only natriuresis but also HYPERCALCIURIA and HYPOMAGNESAEMIA.** This is why furosemide is used to treat **hypercalcaemia** (after volume repletion) and why **thiazides do the opposite — they INCREASE calcium reabsorption in the DCT and are used to prevent calcium stones.**
-- **BARTTER syndrome** = a genetic defect of NKCC2/ROMK/CLC-Kb — a "furosemide-like" state: **hypokalaemic metabolic alkalosis, hypercalciuria with nephrocalcinosis, normal or low BP, high renin and aldosterone**. **GITELMAN syndrome** = a defect of the **DCT thiazide-sensitive NCC** — "thiazide-like": **hypokalaemic alkalosis with HYPOcalciuria and HYPOmagnesaemia**.
-- **The thick ascending limb is the "diluting segment"** — it reabsorbs solute but is **IMPERMEABLE TO WATER**, so tubular fluid leaves it hypotonic. This is the basis of the **countercurrent multiplier** and of the medullary concentration gradient; **urea recycling in the inner medulla** contributes the rest.
+- **BARTTER syndrome** = a genetic defect of NKCC2/ROMK/CLC-Kb — a “furosemide-like” state: **hypokalaemic metabolic alkalosis, hypercalciuria with nephrocalcinosis, normal or low BP, high renin and aldosterone**. **GITELMAN syndrome** = a defect of the **DCT thiazide-sensitive NCC** — “thiazide-like”: **hypokalaemic alkalosis with HYPOcalciuria and HYPOmagnesaemia**.
+- **The thick ascending limb is the “diluting segment”** — it reabsorbs solute but is **IMPERMEABLE TO WATER**, so tubular fluid leaves it hypotonic. This is the basis of the **countercurrent multiplier** and of the medullary concentration gradient; **urea recycling in the inner medulla** contributes the rest.
 - Segment-by-segment reabsorption: **PCT ~65% of Na⁺ (isosmotic) → thin descending limb (water only) → THICK ASCENDING LIMB ~25% of Na⁺ (solute only) → DCT ~5% (NCC, PTH-driven Ca²⁺) → collecting duct (ENaC under aldosterone, aquaporin-2 under ADH).**
-- **Loop diuretics also inhibit the macula densa's ability to sense chloride → stimulate renin release**, and reduce the medullary gradient, abolishing urinary concentrating ability.
+- **Loop diuretics also inhibit the macula densa’s ability to sense chloride → stimulate renin release**, and reduce the medullary gradient, abolishing urinary concentrating ability.
 
-**EXAM CONNECTION:** "Which cation is recirculated?" — **potassium**, via ROMK. The follow-up is usually the consequence: **calcium and magnesium reabsorption**.
+**EXAM CONNECTION:** “Which cation is recirculated?” — **potassium**, via ROMK. The follow-up is usually the consequence: **calcium and magnesium reabsorption**.
 
 **REMEMBER:** *Potassium leaks back to keep the pump fed — and its positive charge pulls calcium along with it.*
 
@@ -1051,10 +1051,10 @@
 **MUST KNOW:**
 
 - **The slow wave oscillates between about ***−65 and −45 mV***; spikes appear once the threshold (~−40 mV) is crossed. The BER is present everywhere except the ***OESOPHAGUS AND PROXIMAL STOMACH.***
-- **Motility patterns:** *SEGMENTATION (mixing, during feeding) versus PERISTALSIS (propulsion — the "law of the gut": contraction above, relaxation below, mediated by the myenteric plexus with ACh/substance P and NO/VIP respectively) and the MIGRATING MOTOR COMPLEX ("housekeeper" waves every 90–120 minutes in the FASTING state, driven by MOTILIN — which is why ERYTHROMYCIN, a motilin agonist, is a prokinetic).***
+- **Motility patterns:** *SEGMENTATION (mixing, during feeding) versus PERISTALSIS (propulsion — the “law of the gut”: contraction above, relaxation below, mediated by the myenteric plexus with ACh/substance P and NO/VIP respectively) and the MIGRATING MOTOR COMPLEX (“housekeeper” waves every 90–120 minutes in the FASTING state, driven by MOTILIN — which is why ERYTHROMYCIN, a motilin agonist, is a prokinetic).***
 - ***LOSS OF THE INTERSTITIAL CELLS OF CAJAL IS IMPLICATED IN DIABETIC GASTROPARESIS AND CHRONIC INTESTINAL PSEUDO-OBSTRUCTION; GIST TUMOURS ARISE FROM THESE CELLS (c-KIT/CD117 positive).***
 - **Gastric emptying:** *LIQUIDS EMPTY FASTER THAN SOLIDS; fats, acid, hypertonicity and amino acids in the duodenum SLOW emptying through the ENTEROGASTRIC REFLEX and CCK/secretin/GIP.***
-- **The enteric nervous system ("the second brain") comprises the ***MYENTERIC (AUERBACH) plexus — motility — and the SUBMUCOSAL (MEISSNER) plexus — secretion and blood flow***; their congenital absence distally is HIRSCHSPRUNG disease, and their destruction by *T. cruzi* gives megacolon and achalasia.
+- **The enteric nervous system (“the second brain”) comprises the ***MYENTERIC (AUERBACH) plexus — motility — and the SUBMUCOSAL (MEISSNER) plexus — secretion and blood flow***; their congenital absence distally is HIRSCHSPRUNG disease, and their destruction by *T. cruzi* gives megacolon and achalasia.
 
 **EXAM CONNECTION:** Least frequency of slow waves → **stomach (3–4/min)**.
 
@@ -1071,9 +1071,9 @@
 
 ### 43. Gastric Acid Secretion
 
-**PEARL:** ***THE PARIETAL CELL SECRETES H+ INTO THE LUMEN IN EXCHANGE FOR K+, VIA THE H+/K+-ATPase (the proton pump).*** Inside the cell, ***CARBONIC ANHYDRASE converts CO2 + H2O to H+ and HCO3−; the BICARBONATE LEAVES BASOLATERALLY IN EXCHANGE FOR Cl− (the "ALKALINE TIDE" — a postprandial rise in venous pH), and that Cl− then follows H+ into the lumen to form HCl.*** ***GASTRIN is a POLYPEPTIDE secreted by G CELLS OF THE GASTRIC ANTRUM, mainly in the GASTRIC phase, and has a TROPHIC action on the gastric mucosa.***
+**PEARL:** ***THE PARIETAL CELL SECRETES H+ INTO THE LUMEN IN EXCHANGE FOR K+, VIA THE H+/K+-ATPase (the proton pump).*** Inside the cell, ***CARBONIC ANHYDRASE converts CO2 + H2O to H+ and HCO3−; the BICARBONATE LEAVES BASOLATERALLY IN EXCHANGE FOR Cl− (the “ALKALINE TIDE” — a postprandial rise in venous pH), and that Cl− then follows H+ into the lumen to form HCl.*** ***GASTRIN is a POLYPEPTIDE secreted by G CELLS OF THE GASTRIC ANTRUM, mainly in the GASTRIC phase, and has a TROPHIC action on the gastric mucosa.***
 
-**UNDERSTAND:** Gastrin's trophic effect explains a pair of mirror-image clinical pictures. ***ZOLLINGER–ELLISON SYNDROME (gastrin >1000 pg/mL) → acid hypersecretion AND HYPERTROPHY of the oxyntic mucosa***, with ulcers in unusual places (distal duodenum, jejunum) and diarrhoea. ***ANTRECTOMY (removal of the G cells) → LOW gastrin → reduced acid AND ATROPHY of the gastric mucosa.*** In both, the mucosal mass tracks the gastrin level, not the acid.
+**UNDERSTAND:** Gastrin’s trophic effect explains a pair of mirror-image clinical pictures. ***ZOLLINGER–ELLISON SYNDROME (gastrin >1000 pg/mL) → acid hypersecretion AND HYPERTROPHY of the oxyntic mucosa***, with ulcers in unusual places (distal duodenum, jejunum) and diarrhoea. ***ANTRECTOMY (removal of the G cells) → LOW gastrin → reduced acid AND ATROPHY of the gastric mucosa.*** In both, the mucosal mass tracks the gastrin level, not the acid.
 
 **MUST KNOW:**
 
@@ -1099,11 +1099,11 @@
 
 **PEARL:** ***THE GASTRIN FAMILY = GASTRIN + CHOLECYSTOKININ (they share the same C-terminal pentapeptide); THE SECRETIN FAMILY = SECRETIN, GLUCAGON, VIP AND GIP.*** ***CCK BELONGS TO THE GASTRIN FAMILY, NOT THE SECRETIN FAMILY.*** Others (motilin, ghrelin, somatostatin) belong to neither.
 
-**UNDERSTAND:** The families are not arbitrary — ***MEMBERS SHARE STRUCTURE AND THEREFORE SHARE ACTIONS AND CROSS-REACT AT RECEPTORS.*** Gastrin and CCK share their active C-terminal pentapeptide, which is why ***CCK STIMULATES ACID SECRETION WEAKLY AND WHY HIGH-DOSE GASTRIN CAN CONTRACT THE GALLBLADDER.*** Similarly, the secretin family's shared backbone explains why VIP overlaps with secretin's actions — and why a ***VIPoma produces a secretin-like watery diarrhoea (WDHA syndrome).***
+**UNDERSTAND:** The families are not arbitrary — ***MEMBERS SHARE STRUCTURE AND THEREFORE SHARE ACTIONS AND CROSS-REACT AT RECEPTORS.*** Gastrin and CCK share their active C-terminal pentapeptide, which is why ***CCK STIMULATES ACID SECRETION WEAKLY AND WHY HIGH-DOSE GASTRIN CAN CONTRACT THE GALLBLADDER.*** Similarly, the secretin family’s shared backbone explains why VIP overlaps with secretin’s actions — and why a ***VIPoma produces a secretin-like watery diarrhoea (WDHA syndrome).***
 
 **MUST KNOW:**
 
-- **Stimulus → hormone → action:** *GASTRIN (antral G cells; stimulus = distension, peptides, vagus) → acid, pepsinogen, mucosal growth. CCK (I cells, duodenum/jejunum; stimulus = FAT AND AMINO ACIDS) → GALLBLADDER CONTRACTION, sphincter of Oddi relaxation, pancreatic ENZYME secretion, satiety, slows gastric emptying. SECRETIN (S cells; stimulus = ACID, pH <4.5) → pancreatic and biliary BICARBONATE ("nature's antacid"), inhibits gastrin. GIP (K cells; stimulus = glucose and fat) → INSULIN release (the incretin effect) and inhibits acid. MOTILIN (fasting) → the MIGRATING MOTOR COMPLEX. GHRELIN (stomach, PRE-prandial) → HUNGER and growth hormone release. SOMATOSTATIN (D cells) → universal inhibitor.***
+- **Stimulus → hormone → action:** *GASTRIN (antral G cells; stimulus = distension, peptides, vagus) → acid, pepsinogen, mucosal growth. CCK (I cells, duodenum/jejunum; stimulus = FAT AND AMINO ACIDS) → GALLBLADDER CONTRACTION, sphincter of Oddi relaxation, pancreatic ENZYME secretion, satiety, slows gastric emptying. SECRETIN (S cells; stimulus = ACID, pH <4.5) → pancreatic and biliary BICARBONATE (“nature’s antacid”), inhibits gastrin. GIP (K cells; stimulus = glucose and fat) → INSULIN release (the incretin effect) and inhibits acid. MOTILIN (fasting) → the MIGRATING MOTOR COMPLEX. GHRELIN (stomach, PRE-prandial) → HUNGER and growth hormone release. SOMATOSTATIN (D cells) → universal inhibitor.***
 - ***CHOLERETICS increase BILE SECRETION — the most potent being BILE SALTS THEMSELVES (the enterohepatic circulation is the main driver of bile flow); secretin (hormonal) and vagal stimulation also act. CHOLAGOGUES cause GALLBLADDER CONTRACTION — the prototype is CCK.***
 - **Bile physiology: ~95% of bile salts are reabsorbed in the ***TERMINAL ILEUM*** and recirculate 6–8 times daily; ***ILEAL RESECTION therefore causes bile salt diarrhoea, steatorrhoea, fat-soluble vitamin deficiency, GALLSTONES and OXALATE renal stones.***
 - **Pancreatic secretion has an ***ENZYME component (acinar, CCK/vagal) and a BICARBONATE component (ductal, SECRETIN)***; enzymes are secreted as zymogens and activated by ***ENTEROKINASE (enteropeptidase) → trypsin → the rest*** — premature intrapancreatic activation being the basis of pancreatitis.
@@ -1120,17 +1120,17 @@
 
 **PEARL:** ***THE SECRETOMOTOR (parasympathetic) FIBRES TO THE PAROTID RELAY IN THE OTIC GANGLION*** (glossopharyngeal → lesser petrosal nerve → otic ganglion → auriculotemporal nerve); the submandibular and sublingual glands relay in the ***SUBMANDIBULAR ganglion*** (facial → chorda tympani → lingual nerve). ***SALIVA CARRIES THE HIGHEST DAILY SECRETION OF POTASSIUM of any GI fluid***, and ***SALIVARY (and pancreatic) AMYLASE IS ACTIVATED BY CHLORIDE.***
 
-**UNDERSTAND:** Saliva's composition is explained by ***TWO-STAGE PRODUCTION: the ACINUS makes an ISOTONIC primary secretion, and the DUCT then REABSORBS Na+ and Cl− WHILE SECRETING K+ AND HCO3− — but the duct is relatively IMPERMEABLE TO WATER***, so the final saliva is ***HYPOTONIC AND POTASSIUM-RICH.*** At ***HIGH FLOW RATES there is less time for ductal modification, so saliva becomes MORE ISOTONIC (higher sodium, lower potassium)*** — the classic flow-rate graph. In cystic fibrosis and in aldosterone excess this ductal handling is deranged (hence the sweat test, which uses the same principle in sweat ducts).
+**UNDERSTAND:** Saliva’s composition is explained by ***TWO-STAGE PRODUCTION: the ACINUS makes an ISOTONIC primary secretion, and the DUCT then REABSORBS Na+ and Cl− WHILE SECRETING K+ AND HCO3− — but the duct is relatively IMPERMEABLE TO WATER***, so the final saliva is ***HYPOTONIC AND POTASSIUM-RICH.*** At ***HIGH FLOW RATES there is less time for ductal modification, so saliva becomes MORE ISOTONIC (higher sodium, lower potassium)*** — the classic flow-rate graph. In cystic fibrosis and in aldosterone excess this ductal handling is deranged (hence the sweat test, which uses the same principle in sweat ducts).
 
 **MUST KNOW:**
 
 - ***SALIVARY SECRETION IS ALMOST ENTIRELY PARASYMPATHETIC (unlike almost every other secretion, which is dual-controlled): PARASYMPATHETIC stimulation gives COPIOUS WATERY saliva with vasodilatation; SYMPATHETIC stimulation gives SCANTY, THICK, PROTEIN-RICH saliva*** — the dry mouth of fear.
-- **Composition and functions:** *alpha-amylase (ptyalin), LINGUAL LIPASE from VON EBNER'S GLANDS (serous glands around the circumvallate papillae — active at pH 3–6, NOT inhibited by bile salts, so it works into the stomach and is especially important in NEONATES), LYSOZYME, LACTOFERRIN, secretory IgA, mucins, and bicarbonate for buffering.***
+- **Composition and functions:** *alpha-amylase (ptyalin), LINGUAL LIPASE from VON EBNER’S GLANDS (serous glands around the circumvallate papillae — active at pH 3–6, NOT inhibited by bile salts, so it works into the stomach and is especially important in NEONATES), LYSOZYME, LACTOFERRIN, secretory IgA, mucins, and bicarbonate for buffering.***
 - **Daily volume ~1–1.5 L; the ***SUBMANDIBULAR gland contributes most at rest (~70%), the PAROTID most on stimulation.***
-- **Clinical:** *XEROSTOMIA (Sjögren syndrome, anticholinergics, radiotherapy) → rampant dental caries and candidiasis; MUMPS parotitis; sialolithiasis (commonest in the SUBMANDIBULAR duct, because its secretion is more mucinous and it drains uphill); and FREY'S SYNDROME (gustatory sweating after parotid surgery — misdirected regeneration of auriculotemporal parasympathetic fibres into sweat glands).***
-- **Amylase digests starch's ***internal alpha-1,4 linkages ONLY — it CANNOT break the ALPHA-1,6 BRANCH POINTS, which are hydrolysed by ISOMALTASE (alpha-dextrinase) at the brush border***, along with maltase, sucrase, lactase and trehalase.
+- **Clinical:** *XEROSTOMIA (Sjögren syndrome, anticholinergics, radiotherapy) → rampant dental caries and candidiasis; MUMPS parotitis; sialolithiasis (commonest in the SUBMANDIBULAR duct, because its secretion is more mucinous and it drains uphill); and FREY’S SYNDROME (gustatory sweating after parotid surgery — misdirected regeneration of auriculotemporal parasympathetic fibres into sweat glands).***
+- **Amylase digests starch’s ***internal alpha-1,4 linkages ONLY — it CANNOT break the ALPHA-1,6 BRANCH POINTS, which are hydrolysed by ISOMALTASE (alpha-dextrinase) at the brush border***, along with maltase, sucrase, lactase and trehalase.
 
-**EXAM CONNECTION:** Secretomotor fibres to the parotid → **otic ganglion**; highest daily potassium secretion → **saliva**; salivary amylase is activated by → **chloride**; enzyme hydrolysing the 1,6 linkage → **isomaltase**; gland secreting lingual lipase → **von Ebner's gland**.
+**EXAM CONNECTION:** Secretomotor fibres to the parotid → **otic ganglion**; highest daily potassium secretion → **saliva**; salivary amylase is activated by → **chloride**; enzyme hydrolysing the 1,6 linkage → **isomaltase**; gland secreting lingual lipase → **von Ebner’s gland**.
 
 **REMEMBER:** *The duct takes sodium out and puts potassium in — hypotonic, potassium-rich saliva.*
 
@@ -1145,7 +1145,7 @@
 
 **PEARL:** ***LIPIDS ARE ABSORBED PASSIVELY*** (monoglycerides and fatty acids diffuse from micelles across the enterocyte membrane), whereas glucose, galactose and amino acids require ***ACTIVE, SODIUM-COUPLED transport.*** ***SHORT-CHAIN FATTY ACIDS ARE ABSORBED MAXIMALLY IN THE COLON***, where they ***PROMOTE (not inhibit) SODIUM ABSORPTION***, exert a ***TROPHIC effect on colonocytes***, combat inflammation and help maintain acid–base balance. ***POTASSIUM IS SECRETED, NOT ABSORBED, IN THE COLON.***
 
-**UNDERSTAND:** The colon's job is **salvage**, and short-chain fatty acids are the currency. Colonic bacteria ferment ***dietary fibre and resistant starch into ACETATE, PROPIONATE and BUTYRATE (~80 mmol/L in the lumen)***; ***BUTYRATE IS THE PREFERRED FUEL OF THE COLONOCYTE***, and SCFA absorption is coupled to sodium and therefore to water — which is why fermentable fibre is both an energy salvage system and an antidiarrhoeal. It also explains ***DIVERSION COLITIS*** in defunctioned bowel (no substrate, starved colonocytes).
+**UNDERSTAND:** The colon’s job is **salvage**, and short-chain fatty acids are the currency. Colonic bacteria ferment ***dietary fibre and resistant starch into ACETATE, PROPIONATE and BUTYRATE (~80 mmol/L in the lumen)***; ***BUTYRATE IS THE PREFERRED FUEL OF THE COLONOCYTE***, and SCFA absorption is coupled to sodium and therefore to water — which is why fermentable fibre is both an energy salvage system and an antidiarrhoeal. It also explains ***DIVERSION COLITIS*** in defunctioned bowel (no substrate, starved colonocytes).
 
 **MUST KNOW:**
 
@@ -1178,7 +1178,7 @@
 - **Protection against autodigestion: zymogen packaging, a ***PANCREATIC SECRETORY TRYPSIN INHIBITOR (SPINK1)***, and rapid degradation of prematurely activated trypsin. ***MUTATIONS IN PRSS1 (cationic trypsinogen, resisting inactivation) OR SPINK1 CAUSE HEREDITARY PANCREATITIS***, and gallstone or alcohol-induced intra-acinar activation causes acute pancreatitis.
 - ***PEPSIN is secreted as PEPSINOGEN by CHIEF CELLS and is activated by ACID (pH <5, optimum 1.6–3.2) — and is IRREVERSIBLY INACTIVATED in the alkaline duodenum***; it is helpful but NOT essential (total gastrectomy does not cause protein malnutrition).
 - **Amino acid absorption uses several ***SODIUM-COUPLED carriers, each for a class*** — the basis of two classic diseases:** *CYSTINURIA (defective dibasic amino acid transport — cystine STONES) and HARTNUP DISEASE (neutral amino acids — a PELLAGRA-like rash and ataxia from tryptophan loss).***
-- ***NEONATES ABSORB INTACT IMMUNOGLOBULINS BY PINOCYTOSIS (the FcRn receptor) — the basis of passive immunity from colostrum*** — a capacity lost after gut "closure" in the first weeks.
+- ***NEONATES ABSORB INTACT IMMUNOGLOBULINS BY PINOCYTOSIS (the FcRn receptor) — the basis of passive immunity from colostrum*** — a capacity lost after gut “closure” in the first weeks.
 - **Carbohydrate digestion in parallel:** *amylase splits internal alpha-1,4 bonds only; brush-border MALTASE, SUCRASE, LACTASE and ISOMALTASE (for the alpha-1,6 branch points) finish the job; monosaccharides are absorbed by SGLT1 (glucose, galactose) and GLUT5 (fructose).*** ***LACTASE IS THE FIRST BRUSH-BORDER ENZYME LOST IN MUCOSAL INJURY AND THE LAST TO RECOVER*** — hence post-infectious lactose intolerance.
 
 **EXAM CONNECTION:** Trypsinogen → trypsin by → **removal of a few amino acids**; NOT an endopeptidase → **carboxypeptidase**; PepT1 absorbs → **dipeptides**.
@@ -1230,7 +1230,7 @@
 - ***THE DEFAECATION REFLEX: rectal distension → RECTOANAL INHIBITORY REFLEX (INTERNAL anal sphincter, smooth muscle, relaxes involuntarily; the EXTERNAL sphincter, striated and pudendal-innervated, is under voluntary control) → the intrinsic myenteric reflex, greatly reinforced by the PARASYMPATHETIC (S2–4) reflex.*** ***THE RECTOANAL INHIBITORY REFLEX IS ABSENT IN HIRSCHSPRUNG DISEASE — the basis of anorectal manometry as a diagnostic test.***
 - **The ***MIGRATING MOTOR COMPLEX*** sweeps the fasting gut every 90–120 minutes (motilin-driven) and is abolished by eating; its loss allows ***SMALL INTESTINAL BACTERIAL OVERGROWTH*** (in scleroderma, diabetes and after surgery).
 - **Transit times to quote:** *oesophagus 2–3 seconds; stomach 2–4 hours; small intestine 3–5 hours; colon 24–48 hours (the sigmoid and rectum accounting for much of the delay).***
-- **Segmentation (mixing) predominates during digestion and peristalsis (propulsion) between meals; the ***"LAW OF THE GUT" (contraction proximal, relaxation distal) is myenteric and mediated by ACh/substance P and by NO/VIP respectively.***
+- **Segmentation (mixing) predominates during digestion and peristalsis (propulsion) between meals; the ***“LAW OF THE GUT” (contraction proximal, relaxation distal) is myenteric and mediated by ACh/substance P and by NO/VIP respectively.***
 
 **EXAM CONNECTION:** Does NOT increase small intestinal motility → **secretin**; longest transit time → **colon**; maximum colonic motility → **sigmoid colon**; rectal inflation increases peristalsis in → **the distal colon**.
 
@@ -1244,11 +1244,11 @@
 
 **PEARL:** The **migrating motor complex (MMC)** is the **FASTING/INTERDIGESTIVE** motility pattern — it is **active between meals, ABOLISHED by eating**, recurs every **90–120 minutes**, sweeps **aborally from stomach to terminal ileum**, and is initiated by **MOTILIN** from **M cells** of the duodenum and jejunum.
 
-**UNDERSTAND:** The MMC is the gut's **housekeeper**. Its job is to sweep residual food, secretions, desquamated cells and bacteria distally so the small bowel is not colonised — which is precisely why it must run when the gut is **empty** and must stop when food arrives (you do not want to sweep a meal through before it is absorbed). Loss of the MMC — in **diabetic autonomic neuropathy, scleroderma, blind loops** — leads to **small intestinal bacterial overgrowth**.
+**UNDERSTAND:** The MMC is the gut’s **housekeeper**. Its job is to sweep residual food, secretions, desquamated cells and bacteria distally so the small bowel is not colonised — which is precisely why it must run when the gut is **empty** and must stop when food arrives (you do not want to sweep a meal through before it is absorbed). Loss of the MMC — in **diabetic autonomic neuropathy, scleroderma, blind loops** — leads to **small intestinal bacterial overgrowth**.
 
 **MUST KNOW:**
 
-- **Four phases:** I — quiescence (~40–60% of the cycle); II — irregular contractions; **III — the "activity front", intense regular contractions at maximal frequency (5–12 min) — the phase that does the sweeping**; IV — brief transition.
+- **Four phases:** I — quiescence (~40–60% of the cycle); II — irregular contractions; **III — the “activity front”, intense regular contractions at maximal frequency (5–12 min) — the phase that does the sweeping**; IV — brief transition.
 - **Motilin** rises cyclically in the fasting state and triggers phase III. **ERYTHROMYCIN is a MOTILIN RECEPTOR AGONIST** — hence its use as a **prokinetic in gastroparesis and before endoscopy in upper GI bleeding**, and its implication in **infantile hypertrophic pyloric stenosis**.
 - **Feeding abolishes the MMC** and replaces it with the **fed pattern (segmentation)** — mediated by vagal input and gut hormones (**gastrin, CCK**).
 - Other GI motility facts: **basic electrical rhythm (slow waves) is generated by the INTERSTITIAL CELLS OF CAJAL** — 3/min in the stomach, 12/min duodenum, 8/min ileum, 3–8/min colon; slow waves set the maximum frequency of contraction but only spikes cause contraction.
@@ -1294,14 +1294,14 @@
 
 **PEARL:** ***LEPTIN — secreted by ADIPOCYTES — PLAYS A PERMISSIVE ROLE IN PUBERTY***, signalling that energy stores are sufficient for reproduction. It accelerates ***GnRH PULSATILITY***; leptin-deficient (ob/ob) mice are infertile and regain fertility with leptin, and leptin induces precocious puberty in immature mice.
 
-**UNDERSTAND:** A "***PERMISSIVE***" hormone does not itself trigger the process — it grants permission for another signal to work. Reproduction is metabolically expensive, so evolution links it to fat stores: ***the true gatekeeper is the KISSPEPTIN–GnRH pulse generator, and leptin tells it whether the body can afford to start.*** This explains two everyday clinical observations: ***OBESITY IS ASSOCIATED WITH EARLIER MENARCHE, while ANOREXIA NERVOSA, INTENSE ATHLETIC TRAINING AND SEVERE UNDERNUTRITION CAUSE HYPOTHALAMIC AMENORRHOEA*** — a low-leptin state switching reproduction off.
+**UNDERSTAND:** A “***PERMISSIVE***” hormone does not itself trigger the process — it grants permission for another signal to work. Reproduction is metabolically expensive, so evolution links it to fat stores: ***the true gatekeeper is the KISSPEPTIN–GnRH pulse generator, and leptin tells it whether the body can afford to start.*** This explains two everyday clinical observations: ***OBESITY IS ASSOCIATED WITH EARLIER MENARCHE, while ANOREXIA NERVOSA, INTENSE ATHLETIC TRAINING AND SEVERE UNDERNUTRITION CAUSE HYPOTHALAMIC AMENORRHOEA*** — a low-leptin state switching reproduction off.
 
 **MUST KNOW:**
 
 - **The pubertal cascade:** *loss of childhood inhibition of the GnRH pulse generator → PULSATILE GnRH (initially nocturnal) → LH and FSH → gonadal steroids.*** ***CONTINUOUS GnRH (as with leuprolide) SUPPRESSES the axis — the basis of treatment for precocious puberty, endometriosis, fibroids and prostate cancer.*** ***ADRENARCHE (DHEA-driven pubic and axillary hair) precedes and is INDEPENDENT of gonadarche.***
 - **Sequence:** *GIRLS — THELARCHE (breast bud, ~10–11 y) → pubarche → GROWTH SPURT → MENARCHE (the growth spurt occurs EARLY, before menarche). BOYS — TESTICULAR ENLARGEMENT (≥4 mL, the FIRST sign, ~11–12 y) → pubarche → penile growth → GROWTH SPURT LATE.*** Tanner staging applies to both. Precocious puberty is defined as <8 years in girls and <9 in boys.
-- **Leptin's other actions: reduces appetite (via hypothalamic POMC/CART neurones, opposing NPY/AgRP), increases energy expenditure, and modulates immunity. ***COMMON HUMAN OBESITY IS A STATE OF HIGH LEPTIN WITH LEPTIN RESISTANCE — congenital leptin deficiency is rare but dramatically leptin-responsive.***
-- **Appetite regulators worth pairing:** *GHRELIN (the only orexigenic gut hormone — rises before meals, "hunger hormone"), PYY, GLP-1 and CCK (satiety), and INSULIN and AMYLIN (adiposity signals).***
+- **Leptin’s other actions: reduces appetite (via hypothalamic POMC/CART neurones, opposing NPY/AgRP), increases energy expenditure, and modulates immunity. ***COMMON HUMAN OBESITY IS A STATE OF HIGH LEPTIN WITH LEPTIN RESISTANCE — congenital leptin deficiency is rare but dramatically leptin-responsive.***
+- **Appetite regulators worth pairing:** *GHRELIN (the only orexigenic gut hormone — rises before meals, “hunger hormone”), PYY, GLP-1 and CCK (satiety), and INSULIN and AMYLIN (adiposity signals).***
 - ***DHEA-SULPHATE IS SECRETED ALMOST EXCLUSIVELY BY THE ADRENAL CORTEX*** (the ovary lacks DHEA sulphotransferase), which is why ***A MARKEDLY RAISED DHEAS IN A HIRSUTE/VIRILISED WOMAN POINTS TO AN ADRENAL SOURCE, WHILE A RAISED TESTOSTERONE POINTS TO THE OVARY.***
 
 **EXAM CONNECTION:** Permissive hormone for puberty → **leptin**; hormone secreted exclusively by the adrenal → **DHEA-S**.
@@ -1321,7 +1321,7 @@
 **MUST KNOW:**
 
 - **PTH actions: ***BONE — stimulates osteoclastic resorption INDIRECTLY (osteoblasts express RANKL; osteoclasts have no PTH receptor). KIDNEY — INCREASES calcium reabsorption in the distal tubule, DECREASES phosphate reabsorption in the proximal tubule (phosphaturic), and ACTIVATES 1-ALPHA-HYDROXYLASE. GUT — indirectly increases calcium absorption via calcitriol.*** Net: ***CALCIUM UP, PHOSPHATE DOWN*** — the signature of primary hyperparathyroidism.
-- **Primary hyperparathyroidism presents as ***"STONES, BONES, ABDOMINAL GROANS AND PSYCHIC MOANS"***, with ***OSTEITIS FIBROSA CYSTICA, subperiosteal resorption of the radial side of the middle phalanges, a "PEPPER-POT" SKULL and BROWN TUMOURS***; ***A SHORT QT*** on ECG. Most cases today are asymptomatic hypercalcaemia found on testing.
+- **Primary hyperparathyroidism presents as ***“STONES, BONES, ABDOMINAL GROANS AND PSYCHIC MOANS”***, with ***OSTEITIS FIBROSA CYSTICA, subperiosteal resorption of the radial side of the middle phalanges, a “PEPPER-POT” SKULL and BROWN TUMOURS***; ***A SHORT QT*** on ECG. Most cases today are asymptomatic hypercalcaemia found on testing.
 - ***RENAL OSTEODYSTROPHY (CKD–MBD) combines secondary hyperparathyroidism, osteomalacia and adynamic bone disease; treatment is phosphate binders, calcium and active vitamin D analogues (calcitriol, paricalcitol) and CINACALCET (a CALCIMIMETIC that activates the calcium-sensing receptor and lowers PTH).***
 - **The differential of hypercalcaemia:** *PRIMARY HYPERPARATHYROIDISM AND MALIGNANCY account for ~90%*** (malignancy via PTHrP, bone metastases or 1,25-vitamin D from lymphoma); also sarcoidosis, thyrotoxicosis, thiazides, lithium, milk-alkali syndrome, immobilisation and ***FAMILIAL HYPOCALCIURIC HYPERCALCAEMIA (a CaSR mutation with a LOW urinary calcium — the crucial mimic to exclude before parathyroid surgery).***
 - **Acute severe hypercalcaemia is treated with ***AGGRESSIVE SALINE HYDRATION FIRST***, then bisphosphonate (calcitonin for speed; steroids for vitamin-D-mediated causes).
@@ -1350,7 +1350,7 @@
 
 **EXAM CONNECTION:** Maximum oogonia → **5th month of intrauterine life**; reductional division → **primary to secondary spermatocyte**; repeat sperm count after treatment → **80–90 days**; capacitation time → **6–8 hours**.
 
-**REMEMBER:** *A woman's eggs are all counted before she is born; a man's are three months old.*
+**REMEMBER:** *A woman’s eggs are all counted before she is born; a man’s are three months old.*
 
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/74a9a0d852fbf3359e6724d324b33838.webp)
@@ -1365,12 +1365,12 @@
 
 **PEARL:** ***IMPLANTATION OCCURS 6–10 DAYS AFTER FERTILISATION*** (apposition → adhesion → invasion). The trophectoderm differentiates into an inner ***CYTOTROPHOBLAST (the LANGHANS LAYER, made of LANGHANS CELLS) and an outer multinucleate SYNCYTIOTROPHOBLAST.*** The endometrium after implantation is the ***DECIDUA: DECIDUA BASALIS (beneath the embryo, over the chorion frondosum — this forms the MATERNAL PLACENTA), DECIDUA CAPSULARIS (covering the embryo at the abembryonic pole) and DECIDUA PARIETALIS (lining the rest of the uterus).***
 
-**UNDERSTAND:** The placenta's architecture is decided by ***where the blood supply is best.*** Villi initially cover the whole chorion; those at the embryonic pole, richly supplied by the decidua basalis, proliferate into the ***CHORION FRONDOSUM (the definitive placenta)***, while those at the abembryonic pole, poorly supplied under the thinning decidua capsularis, atrophy into the smooth ***CHORION LAEVE.*** As the sac grows, chorion laeve fuses with decidua parietalis and ***OBLITERATES THE UTERINE CAVITY*** — which is why the "membranes" that rupture in labour are the fused amniochorionic membrane.
+**UNDERSTAND:** The placenta’s architecture is decided by ***where the blood supply is best.*** Villi initially cover the whole chorion; those at the embryonic pole, richly supplied by the decidua basalis, proliferate into the ***CHORION FRONDOSUM (the definitive placenta)***, while those at the abembryonic pole, poorly supplied under the thinning decidua capsularis, atrophy into the smooth ***CHORION LAEVE.*** As the sac grows, chorion laeve fuses with decidua parietalis and ***OBLITERATES THE UTERINE CAVITY*** — which is why the “membranes” that rupture in labour are the fused amniochorionic membrane.
 
 **MUST KNOW:**
 
 - ***THE SYNCYTIOTROPHOBLAST IS THE INVASIVE, HORMONE-PRODUCING LAYER — it makes hCG (which rescues the corpus luteum), human placental lactogen, oestrogen and progesterone***, and it has ***NO MHC CLASS I/II ANTIGENS***, one of the mechanisms of immune tolerance of the fetus. The cytotrophoblast is the proliferative stem layer that replenishes it.
-- ***hCG IS DETECTABLE ~8–9 DAYS AFTER FERTILISATION, DOUBLES EVERY 48 HOURS IN EARLY NORMAL PREGNANCY AND PEAKS AT 8–10 WEEKS*** — the basis of pregnancy testing, of following an ectopic pregnancy, and of the "discriminatory zone" (an intrauterine sac should be visible on transvaginal ultrasound once hCG exceeds ~1500–2000 IU/L).
+- ***hCG IS DETECTABLE ~8–9 DAYS AFTER FERTILISATION, DOUBLES EVERY 48 HOURS IN EARLY NORMAL PREGNANCY AND PEAKS AT 8–10 WEEKS*** — the basis of pregnancy testing, of following an ectopic pregnancy, and of the “discriminatory zone” (an intrauterine sac should be visible on transvaginal ultrasound once hCG exceeds ~1500–2000 IU/L).
 - **The placenta is ***HAEMOCHORIAL (maternal blood bathes the chorion directly)***; failure of the second wave of trophoblastic invasion of the spiral arteries underlies ***PRE-ECLAMPSIA AND FETAL GROWTH RESTRICTION.*** Abnormally deep invasion gives ***PLACENTA ACCRETA/INCRETA/PERCRETA*** — strongly associated with previous caesarean section and placenta praevia.
 - **Ectopic implantation is commonest in the ***AMPULLA of the tube***; abnormal low implantation gives ***PLACENTA PRAEVIA.*** Implantation bleeding may be mistaken for a period.
 - **The corpus luteum sustains the pregnancy until the ***LUTEOPLACENTAL SHIFT AT 7–9 WEEKS***, after which the placenta takes over progesterone production — the reason luteal support matters only in the first trimester.
@@ -1393,7 +1393,7 @@
 
 ### 56. Central Control of Appetite
 
-**PEARL:** ***THE CELL BODIES OF OREXIN (hypocretin) NEURONES LIE IN THE LATERAL HYPOTHALAMIC AREA — THE "HUNGER CENTRE"; the VENTROMEDIAL NUCLEUS IS THE "SATIETY CENTRE".*** The ***ARCUATE NUCLEUS*** contains the two opposing populations: ***NPY/AgRP neurones (orexigenic) and POMC/CART neurones (anorexigenic).***
+**PEARL:** ***THE CELL BODIES OF OREXIN (hypocretin) NEURONES LIE IN THE LATERAL HYPOTHALAMIC AREA — THE “HUNGER CENTRE”; the VENTROMEDIAL NUCLEUS IS THE “SATIETY CENTRE”.*** The ***ARCUATE NUCLEUS*** contains the two opposing populations: ***NPY/AgRP neurones (orexigenic) and POMC/CART neurones (anorexigenic).***
 
 **UNDERSTAND:** The classic lesion experiments follow directly and are still examined: ***DESTROY THE LATERAL HYPOTHALAMUS AND THE ANIMAL STOPS EATING (aphagia and starvation); DESTROY THE VENTROMEDIAL NUCLEUS AND IT EATS RELENTLESSLY (hyperphagia and obesity — hence the obesity of hypothalamic tumours, craniopharyngioma and after hypothalamic surgery or radiotherapy).*** The arcuate nucleus sits outside the blood–brain barrier at the median eminence, which is precisely why it can sample circulating ***LEPTIN, INSULIN, GHRELIN and PYY.***
 
@@ -1407,7 +1407,7 @@
 
 **EXAM CONNECTION:** Cell bodies of orexinergic neurones → **lateral hypothalamic area**.
 
-**REMEMBER:** *Lateral = "let's eat"; ventromedial = "very much done".*
+**REMEMBER:** *Lateral = “let’s eat”; ventromedial = “very much done”.*
 
 `Q10703`
 
@@ -1419,7 +1419,7 @@
 
 **UNDERSTAND:** The zones are functionally separated by **which enzymes they express and which signal drives them**. Only the glomerulosa has **aldosterone synthase (CYP11B2)**, and it is controlled by **angiotensin II and potassium — NOT by ACTH** — which is why **aldosterone secretion is preserved in secondary adrenal insufficiency (pituitary failure)** while cortisol collapses. Only the fasciculata and reticularis have **17α- hydroxylase**, the gateway to cortisol and androgens, and both are **ACTH-driven** — which is why ACTH excess causes hypercortisolism *and* hirsutism.
 
-**MUST KNOW — mnemonic: "GFR — Salt, Sugar, Sex; the deeper you go, the sweeter it gets."**
+**MUST KNOW — mnemonic: “GFR — Salt, Sugar, Sex; the deeper you go, the sweeter it gets.”**
 
 - **Aldosterone** acts on the **principal cells of the distal tubule and collecting duct** → Na⁺ and water reabsorption, **K⁺ and H⁺ excretion**. Excess (**Conn syndrome**) → hypertension, **hypokalaemia and metabolic alkalosis with suppressed renin**; deficiency → hyperkalaemia and acidosis.
 - **Cortisol:** gluconeogenesis, proteolysis, lipolysis with central fat redistribution, anti-inflammatory/immunosuppressive, permissive for catecholamines, and (in excess) mineralocorticoid activity via saturation of **11β-HSD2** — the mechanism of hypertension and hypokalaemia in **ectopic ACTH syndrome** and in **liquorice** ingestion.
@@ -1439,7 +1439,7 @@
 
 ---
 
-### 58. Thyroid Hormone Storage and Serotonin's GI Role
+### 58. Thyroid Hormone Storage and Serotonin’s GI Role
 
 **PEARL:** **Thyroid hormone is stored bound to thyroglobulin in the follicular colloid for 2–3 MONTHS** — the largest hormone reserve in the body.
 
@@ -1454,7 +1454,7 @@
 - **Integrins bind extracellular matrix — FIBRONECTIN, laminin and collagen** — and link it to the intracellular cytoskeleton; **cadherins mediate cell-to-cell adhesion; selectins mediate leucocyte rolling**.
 - **Type II membrane proteins** have their **signal-anchor sequence internal, near the N-terminus, with the N-terminus remaining CYTOPLASMIC** (type I proteins have a cleaved N-terminal signal sequence and an extracellular N-terminus).
 
-**EXAM CONNECTION:** Number recall (**2–3 months**), and the "all increase acid secretion EXCEPT" question answering **serotonin**.
+**EXAM CONNECTION:** Number recall (**2–3 months**), and the “all increase acid secretion EXCEPT” question answering **serotonin**.
 
 **REMEMBER:** *The thyroid keeps months of hormone in its colloid bank.*
 
@@ -1473,14 +1473,14 @@
 
 **PEARL:** ***THE ONLY FIBRES THAT SYNAPSE DIRECTLY ON THE PURKINJE CELL ARE THE CLIMBING FIBRES, WHICH ARISE EXCLUSIVELY FROM THE INFERIOR OLIVARY NUCLEUS*** (one climbing fibre per Purkinje cell, with a powerful all-or-none effect). All other inputs arrive as ***MOSSY FIBRES → granule cells → PARALLEL FIBRES → Purkinje cells.*** ***PURKINJE OUTPUT IS ALWAYS INHIBITORY (GABA) AND THE DEEP NUCLEAR OUTPUT IS ALWAYS EXCITATORY.*** In the retina, ***RODS AND CONES ARE THE FIRST-ORDER NEURONES***, bipolar cells second-order and ganglion cells third-order.
 
-**UNDERSTAND:** The cerebellum's single output cell being **inhibitory** is the key to its function: it works by ***SCULPTING — selectively suppressing the tonic excitatory drive of the deep nuclei***, thereby smoothing and timing movement rather than initiating it. The climbing fibre's one-to-one, high-power connection provides the ***"ERROR SIGNAL" that produces LONG-TERM DEPRESSION at parallel-fibre synapses — the cellular basis of MOTOR LEARNING.***
+**UNDERSTAND:** The cerebellum’s single output cell being **inhibitory** is the key to its function: it works by ***SCULPTING — selectively suppressing the tonic excitatory drive of the deep nuclei***, thereby smoothing and timing movement rather than initiating it. The climbing fibre’s one-to-one, high-power connection provides the ***“ERROR SIGNAL” that produces LONG-TERM DEPRESSION at parallel-fibre synapses — the cellular basis of MOTOR LEARNING.***
 
 **MUST KNOW:**
 
 - **Cerebellar functional divisions:** *VESTIBULOCEREBELLUM (flocculonodular lobe) — balance, eye movements; lesions cause TRUNCAL ATAXIA AND NYSTAGMUS (medulloblastoma in children). SPINOCEREBELLUM (vermis and paravermis) — gait and posture; the VERMIS is damaged by ALCOHOL, causing a wide-based GAIT ATAXIA. CEREBROCEREBELLUM (lateral hemispheres) — planning and coordination of skilled limb movement; lesions cause INTENTION TREMOR, DYSMETRIA, DYSDIADOCHOKINESIA.***
 - ***CEREBELLAR SIGNS ARE IPSILATERAL*** (the double decussation), unlike cortical lesions. The classic signs: ***DANISH — Dysdiadochokinesia, Ataxia, Nystagmus, Intention tremor, Slurred/scanning speech, Hypotonia.***
-- **Deep nuclei from medial to lateral: ***"Don't Eat Greasy Food" — Dentate, Emboliform, Globose, Fastigial.*** Peduncles: ***INFERIOR (mostly afferent — olivocerebellar, spinocerebellar), MIDDLE (afferent — pontocerebellar, the largest), SUPERIOR (mainly EFFERENT — dentatorubrothalamic).***
-- **Visual pathway: ***rods/cones → bipolar → ganglion cells → optic nerve → CHIASM (nasal fibres decussate) → optic tract → LATERAL GENICULATE BODY → optic radiations (MEYER'S LOOP in the temporal lobe carries the SUPERIOR quadrant) → occipital cortex.*** Lesion patterns: ***optic nerve — ipsilateral blindness; CHIASM — BITEMPORAL HEMIANOPIA (pituitary tumour); tract — homonymous hemianopia; Meyer's loop — superior quadrantanopia ("PIE IN THE SKY"); occipital — homonymous hemianopia WITH MACULAR SPARING.***
+- **Deep nuclei from medial to lateral: ***“Don’t Eat Greasy Food” — Dentate, Emboliform, Globose, Fastigial.*** Peduncles: ***INFERIOR (mostly afferent — olivocerebellar, spinocerebellar), MIDDLE (afferent — pontocerebellar, the largest), SUPERIOR (mainly EFFERENT — dentatorubrothalamic).***
+- **Visual pathway: ***rods/cones → bipolar → ganglion cells → optic nerve → CHIASM (nasal fibres decussate) → optic tract → LATERAL GENICULATE BODY → optic radiations (MEYER’S LOOP in the temporal lobe carries the SUPERIOR quadrant) → occipital cortex.*** Lesion patterns: ***optic nerve — ipsilateral blindness; CHIASM — BITEMPORAL HEMIANOPIA (pituitary tumour); tract — homonymous hemianopia; Meyer’s loop — superior quadrantanopia (“PIE IN THE SKY”); occipital — homonymous hemianopia WITH MACULAR SPARING.***
 - **Phototransduction is worth one line:** *LIGHT HYPERPOLARISES the photoreceptor*** (rhodopsin → transducin → phosphodiesterase → fall in cGMP → sodium channels CLOSE) — the only receptor that responds to its stimulus by hyperpolarising.
 
 **EXAM CONNECTION:** Fibres reaching the Purkinje cell directly → **inferior olivary nucleus (climbing fibres)**; first-order neurone of the optic pathway → **rods and cones**.
@@ -1493,13 +1493,13 @@
 
 ### 60. Pain Modulation
 
-**PEARL:** ***TRANSCUTANEOUS ELECTRICAL NERVE STIMULATION (and rubbing a painful area) WORKS BY THE GATE CONTROL THEORY*** — stimulation of large-diameter ***A-BETA (touch) and A-ALPHA (proprioception) fibres activates inhibitory interneurones in the SUBSTANTIA GELATINOSA (lamina II) of the dorsal horn, closing the "gate" on A-delta and C fibre nociceptive transmission.*** Separately, the ***PERIAQUEDUCTAL GREY MATTER (with the raphe nuclei) IS THE ORIGIN OF THE DESCENDING ANALGESIC PATHWAY***, acting through the rostral ventromedial medulla and the release of ***ENDOGENOUS OPIOIDS.***
+**PEARL:** ***TRANSCUTANEOUS ELECTRICAL NERVE STIMULATION (and rubbing a painful area) WORKS BY THE GATE CONTROL THEORY*** — stimulation of large-diameter ***A-BETA (touch) and A-ALPHA (proprioception) fibres activates inhibitory interneurones in the SUBSTANTIA GELATINOSA (lamina II) of the dorsal horn, closing the “gate” on A-delta and C fibre nociceptive transmission.*** Separately, the ***PERIAQUEDUCTAL GREY MATTER (with the raphe nuclei) IS THE ORIGIN OF THE DESCENDING ANALGESIC PATHWAY***, acting through the rostral ventromedial medulla and the release of ***ENDOGENOUS OPIOIDS.***
 
 **UNDERSTAND:** These are the two great endogenous analgesic systems, and they are anatomically distinct: ***GATE CONTROL IS SEGMENTAL (spinal, same dermatome) while the PAG–raphe system is DESCENDING (supraspinal).*** Understanding both explains most non-pharmacological analgesia — TENS, massage, acupuncture, counter-irritants and the reflexive rubbing of a bruise all work at the gate — while **morphine, stress-induced analgesia and placebo analgesia all work through the descending opioid pathway (and placebo analgesia is REVERSED BY NALOXONE, the classic proof).**
 
 **MUST KNOW:**
 
-- **Pain fibres:** *A-DELTA (thinly myelinated, FAST — sharp, well-localised "first" pain, glutamate) and C fibres (unmyelinated, SLOW — dull, burning, poorly localised "second" pain, SUBSTANCE P and glutamate).*** Both synapse in the dorsal horn and ascend in the ***SPINOTHALAMIC TRACT (crossing WITHIN 1–2 SEGMENTS of entry — hence the dissociated sensory loss of SYRINGOMYELIA and BROWN-SÉQUARD).***
+- **Pain fibres:** *A-DELTA (thinly myelinated, FAST — sharp, well-localised “first” pain, glutamate) and C fibres (unmyelinated, SLOW — dull, burning, poorly localised “second” pain, SUBSTANCE P and glutamate).*** Both synapse in the dorsal horn and ascend in the ***SPINOTHALAMIC TRACT (crossing WITHIN 1–2 SEGMENTS of entry — hence the dissociated sensory loss of SYRINGOMYELIA and BROWN-SÉQUARD).***
 - **Descending inhibition uses ***SEROTONIN (raphe) and NORADRENALINE (locus coeruleus)*** — which is exactly why ***TRICYCLICS AND SNRIs (duloxetine) ARE ANALGESIC IN NEUROPATHIC PAIN AT DOSES BELOW THEIR ANTIDEPRESSANT RANGE.***
 - **The endogenous opioids:** *BETA-ENDORPHIN (from POMC), ENKEPHALINS and DYNORPHINS***, acting at mu, delta and kappa receptors.
 - ***REFERRED PAIN*** arises from convergence of visceral and somatic afferents on the same dorsal horn neurones (cardiac pain to the left arm, diaphragmatic to the shoulder tip via C3–5, ureteric to the groin).
@@ -1553,7 +1553,7 @@
 - ***WORKING MEMORY (a form of short-term memory holding information for immediate use) DEPENDS ON THE DORSOLATERAL PREFRONTAL CORTEX***; consolidation from short- to long-term memory requires ***PROTEIN SYNTHESIS AND LONG-TERM POTENTIATION (an NMDA-receptor/calcium-dependent strengthening of synapses, the cellular model of learning).***
 - **Amnesia types:** *ANTEROGRADE (cannot form new memories — hippocampal) versus RETROGRADE (loss of past memories, typically with a temporal gradient); TRANSIENT GLOBAL AMNESIA; and the confabulation of KORSAKOFF psychosis (mammillary body damage from THIAMINE deficiency).***
 - **Dietary fibre:** *SOLUBLE (pectin, gums, inulin, psyllium — fermented by colonic bacteria to SHORT-CHAIN FATTY ACIDS, lowering cholesterol and slowing glucose absorption) versus INSOLUBLE (cellulose, hemicellulose, lignin — bulking agents that speed transit).*** Benefits: bulkier stool, shorter transit, and reduced risk of ***constipation, DIVERTICULAR DISEASE, colorectal carcinoma, type 2 diabetes and coronary artery disease.*** Recommended intake is about 25–30 g/day.
-- ***SHORT-CHAIN FATTY ACIDS (especially BUTYRATE) ARE THE PREFERRED FUEL OF THE COLONOCYTE*** — the basis of the "bowel rest" paradox and of interest in the microbiome.
+- ***SHORT-CHAIN FATTY ACIDS (especially BUTYRATE) ARE THE PREFERRED FUEL OF THE COLONOCYTE*** — the basis of the “bowel rest” paradox and of interest in the microbiome.
 - **Nutritional therapy in inflammatory bowel disease:** *EXCLUSIVE ENTERAL NUTRITION INDUCES REMISSION IN CROHN DISEASE (particularly in children, where it avoids steroids) — but does NOT maintain remission, and ULCERATIVE COLITIS DOES NOT RESPOND to dietary intervention.***
 
 **EXAM CONNECTION:** Duration of short-term memory → **30–300 seconds**; NOT a significant dietary fibre → **gums**; nutritional therapy in IBD → **inducing remission in Crohn disease**.
@@ -1568,19 +1568,19 @@
 
 **PEARL:** ***THE STRIATUM (caudate + putamen) IS THE INPUT NUCLEUS*** of the basal ganglia — receiving excitatory glutamatergic corticostriate and thalamostriate fibres. The ***OUTPUT is from the GLOBUS PALLIDUS INTERNA and SUBSTANTIA NIGRA PARS RETICULATA, and is INHIBITORY (GABA), projecting to the thalamus. GLUTAMATE within the basal ganglia comes chiefly from the SUBTHALAMIC NUCLEUS*** (the only excitatory nucleus in the circuit). Lesion–syndrome pairs: ***STRIATUM → CHOREA; GLOBUS PALLIDUS → ATHETOSIS; SUBTHALAMIC NUCLEUS → HEMIBALLISMUS; SUBSTANTIA NIGRA → PARKINSONISM.***
 
-**UNDERSTAND:** The circuit is best held as ***two opposing loops from the striatum: the DIRECT pathway (D1 receptors, excited by dopamine) INHIBITS GPi → DISINHIBITS the thalamus → FACILITATES movement; the INDIRECT pathway (D2 receptors, INHIBITED by dopamine) runs striatum → GPe → subthalamic nucleus → GPi → INHIBITS the thalamus → SUPPRESSES movement.*** ***DOPAMINE THEREFORE PROMOTES MOVEMENT THROUGH BOTH PATHWAYS AT ONCE*** — which is why its loss in Parkinson disease produces akinesia, and why loss of the subthalamic nucleus (the brake's engine) produces the wild flinging of hemiballismus.
+**UNDERSTAND:** The circuit is best held as ***two opposing loops from the striatum: the DIRECT pathway (D1 receptors, excited by dopamine) INHIBITS GPi → DISINHIBITS the thalamus → FACILITATES movement; the INDIRECT pathway (D2 receptors, INHIBITED by dopamine) runs striatum → GPe → subthalamic nucleus → GPi → INHIBITS the thalamus → SUPPRESSES movement.*** ***DOPAMINE THEREFORE PROMOTES MOVEMENT THROUGH BOTH PATHWAYS AT ONCE*** — which is why its loss in Parkinson disease produces akinesia, and why loss of the subthalamic nucleus (the brake’s engine) produces the wild flinging of hemiballismus.
 
 **MUST KNOW:**
 
 - **Functions of the basal ganglia:** *PLANNING AND PROGRAMMING of movement (speed, direction, amplitude), regulation of muscle TONE, posture, and COGNITIVE/behavioural roles (especially the CAUDATE — hence obsessive–compulsive disorder and executive dysfunction).*** ***MAINTENANCE OF EQUILIBRIUM IS A CEREBELLAR AND VESTIBULAR FUNCTION — NOT a basal ganglia one.***
 - **Neurotransmitters:** *nigrostriatal — DOPAMINE; striatal output and pallidal projections — GABA; subthalamic output — GLUTAMATE; striatal interneurones — ACETYLCHOLINE*** (which is why anticholinergics help the tremor of Parkinson disease, by restoring the dopamine–acetylcholine balance).
-- **Disease pairs:** *PARKINSON DISEASE — loss of nigrostriatal dopamine with LEWY BODIES (alpha-synuclein): bradykinesia, RESTING "PILL-ROLLING" TREMOR, COGWHEEL RIGIDITY and postural instability. HUNTINGTON DISEASE — CAG repeat, ATROPHY OF THE CAUDATE ("boxcar ventricles"), loss of the INDIRECT pathway → chorea, with anticipation and psychiatric change. WILSON DISEASE — copper in the putamen ("FACE OF THE GIANT PANDA" sign). SYDENHAM CHOREA — post-streptococcal antibodies against basal ganglia.***
+- **Disease pairs:** *PARKINSON DISEASE — loss of nigrostriatal dopamine with LEWY BODIES (alpha-synuclein): bradykinesia, RESTING “PILL-ROLLING” TREMOR, COGWHEEL RIGIDITY and postural instability. HUNTINGTON DISEASE — CAG repeat, ATROPHY OF THE CAUDATE (“boxcar ventricles”), loss of the INDIRECT pathway → chorea, with anticipation and psychiatric change. WILSON DISEASE — copper in the putamen (“FACE OF THE GIANT PANDA” sign). SYDENHAM CHOREA — post-streptococcal antibodies against basal ganglia.***
 - ***DEEP BRAIN STIMULATION OF THE SUBTHALAMIC NUCLEUS OR GPi IS THE SURGICAL TREATMENT OF ADVANCED PARKINSON DISEASE*** — a direct clinical application of the circuit diagram.
 - **Contrast the cerebellum:** *its inputs are MOSSY fibres (many sources, via the pontine nuclei) and CLIMBING fibres (from the INFERIOR OLIVE ONLY — the OLIVOCEREBELLAR tract, one per Purkinje cell); its signs are IPSILATERAL; and it corrects movement in real time rather than planning it.***
 
 **EXAM CONNECTION:** Afferent input of the basal ganglia → **striatum**; glutamate synthesised mainly in → **subthalamic nucleus**; globus pallidus lesion → **athetosis**; least likely affected in basal ganglia haemorrhage → **maintenance of equilibrium**; climbing fibres → **olivocerebellar**.
 
-**REMEMBER:** *Direct pathway says go, indirect says stop — dopamine votes "go" at both.*
+**REMEMBER:** *Direct pathway says go, indirect says stop — dopamine votes “go” at both.*
 
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/4561f5bd2dc31a672ddd9fb47af9c4ac.webp)
@@ -1606,14 +1606,14 @@
 | **Theta** | **4–7 Hz** | Drowsiness, **NREM stages 1–2**, normal in children |
 | **Delta** | **0.5–4 Hz** | **Deep sleep (NREM stage 3 — slow-wave sleep)**, infants; **pathological if awake in an adult** |
 
-- **Sleep architecture:** **NREM 1** — theta, loss of alpha; **NREM 2** — **sleep spindles and K complexes** (the most time is spent here); **NREM 3** — **delta**, the deepest sleep, when **sleepwalking, night terrors, bed-wetting and growth-hormone release** occur; **REM** — a **desynchronised, "awake-like" beta EEG with muscle atonia**, dreaming, **sawtooth waves**, and increased brain oxygen consumption ("paradoxical sleep").
+- **Sleep architecture:** **NREM 1** — theta, loss of alpha; **NREM 2** — **sleep spindles and K complexes** (the most time is spent here); **NREM 3** — **delta**, the deepest sleep, when **sleepwalking, night terrors, bed-wetting and growth-hormone release** occur; **REM** — a **desynchronised, “awake-like” beta EEG with muscle atonia**, dreaming, **sawtooth waves**, and increased brain oxygen consumption (“paradoxical sleep”).
 - **REM latency is shortened in depression**, with reduced slow-wave sleep and early morning awakening. **Benzodiazepines suppress NREM 3 and REM.**
 - **Amplitude and frequency are inversely related** — delta is the slowest and largest, beta the fastest and smallest.
 - EEG uses: **epilepsy** (3 Hz spike-and-wave in **absence seizures**; **hypsarrhythmia** in West syndrome), **encephalopathy** (**triphasic waves** in hepatic encephalopathy), **SSPE** (periodic complexes), **CJD** (periodic sharp waves), and **brain death** (electrocerebral silence).
 
 **EXAM CONNECTION:** The state described in the stem is the whole question. **Eyes closed and relaxed → alpha, 8–13 Hz.** The distractors always attach the wrong frequency to the right wave.
 
-**REMEMBER:** *Close your eyes and alpha appears; open them and it's gone.*
+**REMEMBER:** *Close your eyes and alpha appears; open them and it’s gone.*
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture36_HSqgaRr.jpg)
@@ -1632,9 +1632,9 @@
 
 - **Otoacoustic emissions (OAEs) are generated by the OUTER hair cells** — which is why OAE testing screens for cochlear (sensorineural) hearing loss in newborns, and why **absent OAEs with a normal ABR indicates auditory neuropathy**.
 - **Outer hair cells are the most vulnerable structures in the cochlea** — damaged first by **noise, ototoxic drugs (aminoglycosides, cisplatin, loop diuretics) and ageing**, and their loss at the **basal turn** explains the characteristic **high-frequency (4000 Hz) notch** of noise-induced loss and the high-frequency loss of presbycusis.
-- **Tonotopic organisation: the BASE of the cochlea codes HIGH frequencies (narrow, stiff basilar membrane); the APEX codes LOW frequencies** (wide, floppy) — von Békésy's travelling wave.
+- **Tonotopic organisation: the BASE of the cochlea codes HIGH frequencies (narrow, stiff basilar membrane); the APEX codes LOW frequencies** (wide, floppy) — von Békésy’s travelling wave.
 - **Transduction:** stereocilia deflect toward the tallest → **tip links open K⁺ channels** → K⁺ (from the potassium-rich **endolymph**, generated by the **stria vascularis**) enters → depolarisation → glutamate release onto the **spiral ganglion** afferents.
-- **Pathway: cochlear nerve → cochlear nuclei → superior olivary complex → lateral lemniscus → inferior colliculus → medial geniculate body → auditory cortex (Heschl's gyrus, area 41/42)** — largely **bilateral above the cochlear nuclei**, which is why a unilateral cortical lesion does not cause deafness.
+- **Pathway: cochlear nerve → cochlear nuclei → superior olivary complex → lateral lemniscus → inferior colliculus → medial geniculate body → auditory cortex (Heschl’s gyrus, area 41/42)** — largely **bilateral above the cochlear nuclei**, which is why a unilateral cortical lesion does not cause deafness.
 
 **EXAM CONNECTION: **The statement set inverts the roles. Anchor:** inner cells SEND the signal (afferent), outer cells AMPLIFY it (efferent).**
 
@@ -1646,16 +1646,16 @@
 
 ### 66. TENS and the Gate Control Theory
 
-**PEARL:** **Transcutaneous electrical nerve stimulation (TENS) relieves pain by the GATE CONTROL THEORY** — stimulating **large-diameter Aβ (touch) fibres**, which activate inhibitory interneurons in the **substantia gelatinosa (Rexed lamina II)** and "close the gate" on pain transmission from small **Aδ and C** fibres.
+**PEARL:** **Transcutaneous electrical nerve stimulation (TENS) relieves pain by the GATE CONTROL THEORY** — stimulating **large-diameter Aβ (touch) fibres**, which activate inhibitory interneurons in the **substantia gelatinosa (Rexed lamina II)** and “close the gate” on pain transmission from small **Aδ and C** fibres.
 
-**UNDERSTAND:** Melzack and Wall's insight was that the dorsal horn is not a relay but a **gate whose opening is set by the BALANCE of large- and small-fibre input**. Small pain fibres **inhibit the inhibitory interneuron** (opening the gate); large touch fibres **excite it** (closing the gate). This is why **rubbing an injured area genuinely reduces pain**, why TENS works, and why **loss of large-fibre input in a peripheral neuropathy produces spontaneous burning pain** — the gate is left permanently open.
+**UNDERSTAND:** Melzack and Wall’s insight was that the dorsal horn is not a relay but a **gate whose opening is set by the BALANCE of large- and small-fibre input**. Small pain fibres **inhibit the inhibitory interneuron** (opening the gate); large touch fibres **excite it** (closing the gate). This is why **rubbing an injured area genuinely reduces pain**, why TENS works, and why **loss of large-fibre input in a peripheral neuropathy produces spontaneous burning pain** — the gate is left permanently open.
 
 **MUST KNOW:**
 
 - **Descending inhibition is a separate mechanism**: the **periaqueductal grey → nucleus raphe magnus → dorsal horn**, using **serotonin, noradrenaline and endogenous OPIOIDS (enkephalin, endorphin, dynorphin)** — this is how **opioids, SNRIs and tricyclics** relieve pain, and how **stress-induced analgesia** works. **Naloxone reverses it.**
-- **Pain fibres: Aδ — myelinated, FAST, sharp, well-localised "first" pain (also cold); C — unmyelinated, SLOW, dull, burning, poorly localised "second" pain (also warmth).** They synapse in **laminae I, II and V** and ascend in the **spinothalamic tract** (which crosses within 1–2 segments) to **VPL → somatosensory cortex** (discriminative), with collaterals to the **reticular formation and limbic system** (affective component).
+- **Pain fibres: Aδ — myelinated, FAST, sharp, well-localised “first” pain (also cold); C — unmyelinated, SLOW, dull, burning, poorly localised “second” pain (also warmth).** They synapse in **laminae I, II and V** and ascend in the **spinothalamic tract** (which crosses within 1–2 segments) to **VPL → somatosensory cortex** (discriminative), with collaterals to the **reticular formation and limbic system** (affective component).
 - **Referred pain** is explained by **convergence of visceral and somatic afferents onto the same second-order neuron** (the convergence–projection theory).
-- **TENS parameters: HIGH-frequency, low-intensity TENS works via the gate (rapid onset, naloxone-INSENSITIVE); LOW-frequency, high-intensity ("acupuncture-like") TENS works via endogenous opioids (slower onset, naloxone-REVERSIBLE).**
+- **TENS parameters: HIGH-frequency, low-intensity TENS works via the gate (rapid onset, naloxone-INSENSITIVE); LOW-frequency, high-intensity (“acupuncture-like”) TENS works via endogenous opioids (slower onset, naloxone-REVERSIBLE).**
 - **Substance P and glutamate** are the principal excitatory transmitters of primary afferents; **capsaicin** depletes substance P (hence its topical analgesic use).
 
 **EXAM CONNECTION:** The mechanism named for **peripheral, segmental, large-fibre** modulation is the **gate control theory**; anything involving the brainstem and opioids is **descending inhibition**.

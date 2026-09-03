@@ -33,12 +33,12 @@
 
 **PEARL:** **Intracellular protein ≈ 16 g/dL** versus **plasma ≈ 7 g/dL and interstitial fluid ≈ 2 g/dL**. **Na⁺ 140 outside / 10 inside; K⁺ 4 outside / 140 inside; Cl⁻ 100 / 4; free Ca²⁺ 2.5 mmol/L outside but only 0.1 µmol/L inside.**
 
-**UNDERSTAND:** The extraordinary **10 000-fold calcium gradient** is what makes calcium such a powerful second messenger — a tiny absolute influx produces an enormous *relative* change in concentration. The sodium and potassium gradients are maintained by the **Na⁺/K⁺-ATPase (3 Na out, 2 K in)**, which consumes a large share of the body's resting ATP.
+**UNDERSTAND:** The extraordinary **10 000-fold calcium gradient** is what makes calcium such a powerful second messenger — a tiny absolute influx produces an enormous *relative* change in concentration. The sodium and potassium gradients are maintained by the **Na⁺/K⁺-ATPase (3 Na out, 2 K in)**, which consumes a large share of the body’s resting ATP.
 
 **MUST KNOW:**
 
-- **Protein is the major intracellular ANION** (with phosphate and organic anions), balancing the high intracellular potassium — the reason cells cannot simply be "washed out".
-- The high intracellular protein concentration exerts an **oncotic pull** that would swell and burst the cell — prevented by the **Na⁺/K⁺-ATPase extruding sodium** (the "double Donnan" effect). **Any failure of this pump — ischaemia, hypoxia, ouabain — causes CELLULAR SWELLING, the earliest morphological change of reversible cell injury.**
+- **Protein is the major intracellular ANION** (with phosphate and organic anions), balancing the high intracellular potassium — the reason cells cannot simply be “washed out”.
+- The high intracellular protein concentration exerts an **oncotic pull** that would swell and burst the cell — prevented by the **Na⁺/K⁺-ATPase extruding sodium** (the “double Donnan” effect). **Any failure of this pump — ischaemia, hypoxia, ouabain — causes CELLULAR SWELLING, the earliest morphological change of reversible cell injury.**
 - **Plasma protein (albumin) generates the oncotic pressure (~25 mmHg)** holding fluid in the capillary — hypoalbuminaemia therefore causes oedema.
 - **Body fluid compartments (60-40-20 rule):** total body water **60%** of body weight, **ICF 40%**, **ECF 20%** (interstitial 15%, plasma 5%).
 - **A rise in intracellular free calcium is the final common pathway of irreversible cell injury**, activating phospholipases, proteases, endonucleases and ATPases.
@@ -81,14 +81,14 @@
 
 **MUST KNOW:**
 
-- **"One slow red ox"** — type **1**, **slow**, **red**, **ox**idative.
+- **“One slow red ox”** — type **1**, **slow**, **red**, **ox**idative.
 - **Postural muscles (soleus, erector spinae) are type I dominant**; **extraocular muscles and the gastrocnemius are type II dominant.**
 - **Endurance training increases mitochondria and oxidative capacity**; **resistance training hypertrophies type II fibres**. Fibre type proportion is largely genetically determined.
 - **Type II fibres are preferentially lost in ageing (sarcopenia), disuse atrophy, and steroid myopathy** — which is why the elderly lose power before endurance and why falls result from slow corrective movements.
 - **Denervation and reinnervation produce FIBRE TYPE GROUPING** on muscle biopsy — a hallmark of chronic neurogenic atrophy, demonstrated with **ATPase staining**.
 - **Myoglobin has a hyperbolic dissociation curve and a P50 of ~1 mmHg** — it releases oxygen only at very low tissue tensions, i.e. it is a **storage**, not a transport, protein.
 
-**EXAM CONNECTION:** "True regarding type 1 fibre" → **slow twitch** (the distractors say fast, white, or no myoglobin).
+**EXAM CONNECTION:** “True regarding type 1 fibre” → **slow twitch** (the distractors say fast, white, or no myoglobin).
 
 **REMEMBER:** *One slow red ox — type I is slow, red and oxidative.*
 
@@ -106,12 +106,12 @@
 
 - **The triad: intravascular HAEMOLYSIS (haemoglobinuria, classically the first morning urine), THROMBOSIS at unusual sites (hepatic/Budd–Chiari, cerebral, mesenteric veins — the leading cause of death), and CYTOPENIAS/marrow failure.**
 - **PIG-A is X-linked**, which is why a **single somatic mutation in one haematopoietic stem cell** is enough to produce the clone (there is no second allele to protect).
-- **Diagnosis is by FLOW CYTOMETRY for CD55 and CD59 deficiency** (and **FLAER**) — the old **Ham's acid haemolysis and sucrose lysis tests are obsolete**.
+- **Diagnosis is by FLOW CYTOMETRY for CD55 and CD59 deficiency** (and **FLAER**) — the old **Ham’s acid haemolysis and sucrose lysis tests are obsolete**.
 - **Treatment: ECULIZUMAB / ravulizumab (anti-C5)** — which dramatically reduces haemolysis and thrombosis, but **mandates MENINGOCOCCAL VACCINATION** because blocking C5 abolishes the terminal complement pathway.
 - **PNH overlaps with aplastic anaemia and MDS** — small PNH clones are found in a substantial fraction of aplastic anaemia patients.
 - **Contrast the other intrinsic red cell defects:** **hereditary spherocytosis — spectrin/ankyrin/band 3 (membrane skeleton)**; **G6PD deficiency — enzyme, X-linked**; **pyruvate kinase deficiency — enzyme, autosomal recessive**.
 
-**EXAM CONNECTION:** "Synthesis of GPI-anchored proteins is affected in" → **PNH**.
+**EXAM CONNECTION:** “Synthesis of GPI-anchored proteins is affected in” → **PNH**.
 
 **REMEMBER:** *No anchor, no CD55/CD59, no brake on complement — haemolysis and thrombosis.*
 
@@ -123,7 +123,7 @@
 
 **PEARL: **The four families:** CADHERINS (Ca²⁺-dependent, HOMOphilic), INTEGRINS (heterophilic, α+β subunits), SELECTINS (bind carbohydrate ligands), and the IMMUNOGLOBULIN superfamily (ICAM, VCAM, PECAM)**.
 
-**UNDERSTAND: **They divide the work of adhesion:** cadherins hold like cells together (cell–cell)**; **integrins anchor cells to the extracellular matrix (cell–matrix)** and link the outside of the cell to its **actin cytoskeleton**; **selectins are the low-affinity "catch and roll" molecules**; Ig-family CAMs mediate the firm arrest that follows.
+**UNDERSTAND: **They divide the work of adhesion:** cadherins hold like cells together (cell–cell)**; **integrins anchor cells to the extracellular matrix (cell–matrix)** and link the outside of the cell to its **actin cytoskeleton**; **selectins are the low-affinity “catch and roll” molecules**; Ig-family CAMs mediate the firm arrest that follows.
 
 **MUST KNOW:**
 
@@ -133,7 +133,7 @@
 - **Integrins bind the RGD (Arg-Gly-Asp) motif** of matrix proteins — the basis of the **GpIIb/IIIa inhibitors (abciximab, eptifibatide, tirofiban)**, since GpIIb/IIIa is the platelet integrin that binds fibrinogen.
 - **Desmosomes use desmogleins (a cadherin)** — the target of autoantibodies in **pemphigus vulgaris**.
 
-**EXAM CONNECTION:** "The cell adhesion molecule is" → **all of the above**.
+**EXAM CONNECTION:** “The cell adhesion molecule is” → **all of the above**.
 
 **REMEMBER:** *Selectins roll them, integrins stop them, PECAM lets them through — and cadherins hold tissue together.*
 
@@ -143,7 +143,7 @@
 
 ### 6. Cystic Fibrosis: Why Sweat Chloride Rises but Pancreatic Chloride Falls
 
-**PEARL:** In cystic fibrosis, **sweat chloride is HIGH (>60 mmol/L is diagnostic)** but **chloride (and fluid) in pancreatic juice and airway secretions is LOW** — because **CFTR's normal job is opposite in the two tissues: it REABSORBS chloride in the sweat duct and SECRETES chloride in the pancreas and airway.**
+**PEARL:** In cystic fibrosis, **sweat chloride is HIGH (>60 mmol/L is diagnostic)** but **chloride (and fluid) in pancreatic juice and airway secretions is LOW** — because **CFTR’s normal job is opposite in the two tissues: it REABSORBS chloride in the sweat duct and SECRETES chloride in the pancreas and airway.**
 
 **UNDERSTAND:** CFTR is a **cAMP-gated chloride channel**, and its direction of transport is determined by where it sits and by the electrochemical gradient of that epithelium. In the **sweat duct** it sits on the luminal membrane to **retrieve** salt from the primary secretion (conserving sodium chloride), so its loss leaves salt in the sweat. In the **pancreatic duct and airway** it sits on the apical membrane to **secrete** chloride, and **water follows osmotically**, so its loss produces **thick, dehydrated, viscid secretions** that obstruct ducts. One defective channel, two opposite consequences — and the whole disease follows.
 
@@ -165,20 +165,20 @@
 
 ### 7. The Proteasome and Ubiquitin
 
-**PEARL:** The **proteasome degrades polyubiquitinated proteins** — it is the cell's **ATP-dependent, cytosolic protein-destruction machine**.
+**PEARL:** The **proteasome degrades polyubiquitinated proteins** — it is the cell’s **ATP-dependent, cytosolic protein-destruction machine**.
 
 **UNDERSTAND:** Degradation must be **selective and irreversible**, so it cannot happen loose in the cytosol. The **26S proteasome** solves this with a barrel whose proteolytic sites face **inward**: only proteins actively unfolded and threaded through the regulatory cap can reach them. **Ubiquitin is the address label** that licenses that entry.
 
 **MUST KNOW:**
 
 - Tagging cascade: **E1 (activating) → E2 (conjugating) → E3 (ligase, confers substrate specificity)**. A chain of **at least four ubiquitins** is the degradation signal.
-- **N-end rule / PEST sequences** determine a protein's half-life.
+- **N-end rule / PEST sequences** determine a protein’s half-life.
 - Clinical relevance: proteasomes generate the peptides loaded onto **MHC class I** for CD8 T cells.
 - Drug link: **bortezomib and carfilzomib** are proteasome inhibitors used in **multiple myeloma** — plasma cells make so much immunoglobulin that they depend on proteasomal clearance of misfolded protein.
 - Disease links: **HPV E6 → E3-ligase-mediated destruction of p53**; **von Hippel–Lindau protein** is an E3 ligase for **HIF-1α**; **parkin** (E3 ligase) mutations cause juvenile Parkinsonism.
 - Contrast: **lysosome** degrades extracellular/membrane proteins and organelles (autophagy); **proteasome** handles cytosolic and nuclear proteins.
 
-**EXAM CONNECTION:** Straight recall — "function of the proteasome" → **protein degradation**. The pharmacology cross-link (bortezomib in myeloma) is the harder second-order question.
+**EXAM CONNECTION:** Straight recall — “function of the proteasome” → **protein degradation**. The pharmacology cross-link (bortezomib in myeloma) is the harder second-order question.
 
 **REMEMBER:** *Ubiquitin is the tag, the proteasome is the shredder.*
 
@@ -207,7 +207,7 @@
 - **Allosteric inhibitors** are non-competitive by definition — they bind a separate regulatory site and change enzyme conformation, and they mediate **feedback regulation** (e.g. **haem inhibits ALA synthase, cholesterol inhibits HMG-CoA reductase, CTP inhibits aspartate transcarbamoylase, ATP and citrate inhibit PFK-1 while AMP and fructose-2,6-BP activate it**).
 - **A low Km means HIGH affinity.** **Hexokinase has a low Km (works at low glucose, in all tissues); GLUCOKINASE has a high Km** (only acts when glucose is plentiful, in liver and β-cells) — the classic comparison.
 
-**EXAM CONNECTION:** "True regarding non-competitive inhibition" → **constant Km, decreased Vmax**. Also "an allosteric modifier participates in feedback regulation".
+**EXAM CONNECTION:** “True regarding non-competitive inhibition” → **constant Km, decreased Vmax**. Also “an allosteric modifier participates in feedback regulation”.
 
 **REMEMBER:** *Competitive raises Km; non-competitive lowers Vmax; uncompetitive lowers both.*
 
@@ -228,12 +228,12 @@
 **MUST KNOW:**
 
 - **Creatine kinase: CK-BB (CK-1) — brain · CK-MB (CK-2) — MYOCARDIUM · CK-MM (CK-3) — skeletal muscle.** **CK-MB rises at 4–6 h, peaks at 24 h and normalises by 48–72 h** — which is why it (not troponin) is used to detect **RE-infarction**. **Troponin I/T is more sensitive and specific but stays elevated for 7–10 days.**
-- **LDH isoenzymes: LDH-1 (heart, RBC) and LDH-2 (RES).** Normally LDH-2 > LDH-1; a **"FLIPPED" ratio (LDH-1 > LDH-2) indicates myocardial infarction or haemolysis**. **LDH-5** is liver and skeletal muscle.
-- **Alkaline phosphatase isoenzymes** distinguish **bone from liver** disease — the liver fraction is **heat-stable** ("bone burns, liver lasts"), and **GGT rises with the liver fraction but not with bone**.
+- **LDH isoenzymes: LDH-1 (heart, RBC) and LDH-2 (RES).** Normally LDH-2 > LDH-1; a **“FLIPPED” ratio (LDH-1 > LDH-2) indicates myocardial infarction or haemolysis**. **LDH-5** is liver and skeletal muscle.
+- **Alkaline phosphatase isoenzymes** distinguish **bone from liver** disease — the liver fraction is **heat-stable** (“bone burns, liver lasts”), and **GGT rises with the liver fraction but not with bone**.
 - **Hexokinase vs glucokinase** are the classic Km contrast: **hexokinase — low Km (high affinity), all tissues, inhibited by G6P**; **glucokinase — high Km (low affinity), liver and β-cells, induced by insulin, NOT inhibited by G6P**. Glucokinase mutations cause **MODY 2**.
 - **Amylase isoenzymes (salivary vs pancreatic)** separate pancreatitis from parotid or macroamylasaemia causes of a raised amylase.
 
-**EXAM CONNECTION:** "All true about isoenzymes EXCEPT" → "**they have the same number of charged amino acids**".
+**EXAM CONNECTION:** “All true about isoenzymes EXCEPT” → “**they have the same number of charged amino acids**”.
 
 **REMEMBER:** *Same reaction, different molecule — and it is the charge difference that lets you localise the organ.*
 
@@ -267,7 +267,7 @@
 
 **MUST KNOW:**
 
-- **Cyanide poisoning:** inhibits cytochrome c oxidase → cells cannot use oxygen → **"arterialised" bright red venous blood, normal PaO2 with high lactate, bitter almond odour**, and a **narrow arteriovenous oxygen difference**. **Treatment: hydroxocobalamin (best), sodium thiosulphate, or the nitrite–thiosulphate kit** (nitrites create methaemoglobin, which scavenges cyanide as cyanmethaemoglobin).
+- **Cyanide poisoning:** inhibits cytochrome c oxidase → cells cannot use oxygen → **“arterialised” bright red venous blood, normal PaO2 with high lactate, bitter almond odour**, and a **narrow arteriovenous oxygen difference**. **Treatment: hydroxocobalamin (best), sodium thiosulphate, or the nitrite–thiosulphate kit** (nitrites create methaemoglobin, which scavenges cyanide as cyanmethaemoglobin).
 - **Uncouplers dissipate the proton gradient** — so **electron transport ACCELERATES but no ATP is made**; the energy appears as **HEAT**. Hence **DNP causes hyperthermia and death** (a notorious illegal slimming agent), **aspirin overdose causes hyperpyrexia**, and **brown adipose tissue uses UCP-1 (thermogenin) for non-shivering thermogenesis in neonates**.
 - **Oligomycin blocks ATP synthase**, so the proton gradient builds up and **electron transport secondarily stops** — the basis of the classic experiment in the question.
 - **P:O ratio ≈ 2.5 for NADH and 1.5 for FADH2** — because FADH2 enters at complex II and pumps fewer protons.
@@ -287,16 +287,16 @@
 
 **PEARL:** **Phosphoenolpyruvate has the HIGHEST free energy of hydrolysis (−61.9 kJ/mol)** — higher than carbamoyl phosphate, 1,3-bisphosphoglycerate, creatine phosphate, and ATP itself (−30.5 kJ/mol).
 
-**UNDERSTAND:** PEP's energy comes not from the phosphate bond alone but from what happens **after** hydrolysis — the enol form of pyruvate produced **tautomerises spontaneously to the far more stable keto form**, and that extra drop in free energy is captured in the ΔG. This is why the pyruvate kinase step is **irreversible** and why gluconeogenesis must spend **two** high-energy bonds (pyruvate carboxylase + PEPCK) to climb back over it.
+**UNDERSTAND:** PEP’s energy comes not from the phosphate bond alone but from what happens **after** hydrolysis — the enol form of pyruvate produced **tautomerises spontaneously to the far more stable keto form**, and that extra drop in free energy is captured in the ΔG. This is why the pyruvate kinase step is **irreversible** and why gluconeogenesis must spend **two** high-energy bonds (pyruvate carboxylase + PEPCK) to climb back over it.
 
 **MUST KNOW:**
 
 - **Descending order:** **PEP > carbamoyl phosphate > 1,3-bisphosphoglycerate > creatine phosphate > ATP > glucose-1-phosphate > fructose-6-phosphate > glucose-6-phosphate > glycerol-3-phosphate.**
 - **ATP sits in the MIDDLE of the scale** — deliberately. That is what makes it the **universal energy currency**: it can accept phosphate from higher-energy compounds and donate it to lower-energy ones.
 - **Substrate-level phosphorylation** occurs at exactly the high-energy steps: **1,3-BPG → 3-PG (phosphoglycerate kinase)**, **PEP → pyruvate (pyruvate kinase)** in glycolysis, and **succinyl-CoA → succinate (GTP)** in the TCA cycle.
-- **Creatine phosphate is the muscle's energy buffer** — regenerating ATP within seconds through **creatine kinase (the Lohmann reaction)**.
+- **Creatine phosphate is the muscle’s energy buffer** — regenerating ATP within seconds through **creatine kinase (the Lohmann reaction)**.
 
-**EXAM CONNECTION:** "Which has the highest energy yield?" → **phosphoenolpyruvate**.
+**EXAM CONNECTION:** “Which has the highest energy yield?” → **phosphoenolpyruvate**.
 
 **REMEMBER:** *PEP tops the list; ATP sits in the middle — which is exactly why ATP can be a currency.*
 
@@ -313,13 +313,13 @@
 **MUST KNOW:**
 
 - **Succinate dehydrogenase is the only TCA cycle enzyme that is membrane-bound** — because it is simultaneously **complex II of the ETC**, feeding FADH2 directly into coenzyme Q.
-- **ATP synthase (complex V) has an F0 proton channel in the membrane and an F1 catalytic head projecting into the matrix** — the "lollipop" particles seen on electron microscopy. **Oligomycin blocks F0.**
+- **ATP synthase (complex V) has an F0 proton channel in the membrane and an F1 catalytic head projecting into the matrix** — the “lollipop” particles seen on electron microscopy. **Oligomycin blocks F0.**
 - **The inner membrane is folded into CRISTAE** to maximise surface area and is **rich in CARDIOLIPIN**; the **outer membrane contains PORINS** and is freely permeable to small molecules.
 - **Cytochrome c sits in the intermembrane space** — and its **release into the cytosol triggers APOPTOSIS** (activating Apaf-1 and caspase-9, the intrinsic pathway).
 - **Shuttles exist because NADH cannot cross the inner membrane:** the **malate–aspartate shuttle** (liver, heart — yields NADH, 2.5 ATP) and the **glycerol phosphate shuttle** (muscle, brain — yields FADH2, only 1.5 ATP).
 - **Mitochondria are maternally inherited and contain their own circular DNA and 70S-like ribosomes** — the endosymbiont legacy, and the reason **aminoglycosides can cause mitochondrial ototoxicity**.
 
-**EXAM CONNECTION:** "Which enzyme is NOT in the mitochondrial matrix?" → **ATP synthase** (inner membrane).
+**EXAM CONNECTION:** “Which enzyme is NOT in the mitochondrial matrix?” → **ATP synthase** (inner membrane).
 
 **REMEMBER:** *Anything touching the proton gradient lives in the inner membrane; the soluble pathways float in the matrix.*
 
@@ -342,11 +342,11 @@
 - **Treatment: HYDROXOCOBALAMIN (Cyanokit) is first-line** — it binds cyanide to form cyanocobalamin, which is renally excreted, and it is **safe in the smoke-inhalation victim who may also have carbon monoxide poisoning**. **Sodium thiosulphate** supplies sulphur for rhodanese to make thiocyanate.
 - **The older nitrite–thiosulphate kit (amyl nitrite, sodium nitrite) works by deliberately creating METHAEMOGLOBIN**, which scavenges cyanide as cyanmethaemoglobin — but it **must NOT be used if carbon monoxide poisoning is also possible**, since it further reduces oxygen-carrying capacity.
 - **Contrast CARBON MONOXIDE:** also blocks complex IV *and* binds haemoglobin with ~240× the affinity of oxygen — **cherry-red skin, falsely NORMAL pulse oximetry, normal PaO2, low measured saturation on co-oximetry**; treat with **100% oxygen, or hyperbaric oxygen**.
-- **Hydrogen sulfide** ("rotten eggs", sewer gas) has the same complex IV mechanism.
+- **Hydrogen sulfide** (“rotten eggs”, sewer gas) has the same complex IV mechanism.
 
-**EXAM CONNECTION:** Autopsy with bitter almond odour → "which change is associated?" → **increased mixed venous saturation**.
+**EXAM CONNECTION:** Autopsy with bitter almond odour → “which change is associated?” → **increased mixed venous saturation**.
 
-**REMEMBER:** *Tissues can't use the oxygen, so the venous blood comes back red and the lactate soars.*
+**REMEMBER:** *Tissues can’t use the oxygen, so the venous blood comes back red and the lactate soars.*
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7fdce35a5184493da5256b2517142930x1280x2560.JPEG)
@@ -368,7 +368,7 @@
 - **Heteroplasmy and the threshold effect** explain the variable severity within one family; **mitochondrial inheritance is exclusively maternal** — an affected father transmits to none of his children.
 - **MERRF has ragged red fibres; MELAS may too. LHON does not** (no myopathy).
 
-**EXAM CONNECTION:** The stem always plants **"previously normal development"** plus **lactic acidosis**, and the image is the ragged red fibre. The muscular dystrophies (Duchenne, Becker, myotonic) are the distractors — none causes lactic acidosis or stroke.
+**EXAM CONNECTION:** The stem always plants **“previously normal development”** plus **lactic acidosis**, and the image is the ragged red fibre. The muscular dystrophies (Duchenne, Becker, myotonic) are the distractors — none causes lactic acidosis or stroke.
 
 **REMEMBER:** *Normal, then strokes that ignore the arteries — mitochondria.*
 
@@ -432,7 +432,7 @@
 
 ### 19. Warburg Effect
 
-**PEARL:** Tumour cells take up glucose avidly and produce **LACTATE even in the presence of oxygen** — "**aerobic glycolysis**" — despite glycolysis yielding only 2 ATP versus 36 from oxidative phosphorylation.
+**PEARL:** Tumour cells take up glucose avidly and produce **LACTATE even in the presence of oxygen** — “**aerobic glycolysis**” — despite glycolysis yielding only 2 ATP versus 36 from oxidative phosphorylation.
 
 **UNDERSTAND:** A dividing cell needs **carbon skeletons more than it needs ATP**. Complete oxidation burns glucose all the way to CO2 and water, leaving nothing to build with. Glycolytic intermediates, in contrast, are the raw material for **nucleotides (via the HMP shunt), lipids and amino acids**. The cancer cell is trading efficiency for building blocks.
 
@@ -444,9 +444,9 @@
 - **Raised serum LDH** is a marker of tumour bulk and a **prognostic factor in lymphoma, germ cell tumours and melanoma**.
 - Contrast with the **Pasteur effect** (oxygen suppressing glycolysis in normal cells) — the Warburg effect is its failure.
 
-**EXAM CONNECTION:** "Cancer cells consume more glucose by which process?" → **increased lactate production even in the presence of oxygen**.
+**EXAM CONNECTION:** “Cancer cells consume more glucose by which process?” → **increased lactate production even in the presence of oxygen**.
 
-**ALSO KNOW:** A dividing cell's limiting requirement is **building material, not energy**. Complete oxidation of glucose in mitochondria yields ~32 ATP but converts every carbon into CO₂ — it **burns the raw material**. Glycolysis yields only 2 ATP, but it leaves the carbons available: **glucose-6-phosphate feeds the pentose phosphate pathway (ribose for nucleotides and NADPH for lipid synthesis), 3-phosphoglycerate feeds serine and glycine synthesis, and pyruvate/citrate exported from mitochondria feeds fatty acid synthesis**. A proliferating cell therefore deliberately trades ATP efficiency for anabolic flux. Consequences: **massively increased glucose uptake — the basis of FDG-PET imaging** — and **lactate production even in the presence of oxygen** (mitochondria are usually intact and functional, contrary to Warburg's original hypothesis). Drivers: **oncogenes (MYC, RAS, PI3K/AKT) upregulate GLUT transporters, hexokinase 2, PKM2 and LDH-A; HIF-1α does the same under hypoxia; loss of p53 removes the brake.** The **exported lactate acidifies the tumour microenvironment**, which promotes invasion, angiogenesis and immune evasion — a further advantage. Metabolic reprogramming is now a recognised **hallmark of cancer** (Hanahan and Weinberg), alongside sustained proliferative signalling, evasion of growth suppressors, resisting apoptosis, replicative immortality, angiogenesis, invasion/metastasis, immune evasion and genome instability. Compare normal cells: **quiescent cells maximise ATP per glucose (oxidative phosphorylation); proliferating cells — including activated LYMPHOCYTES and embryonic tissue — also use aerobic glycolysis**, so the Warburg effect is a proliferation programme, not a uniquely malignant one.
+**ALSO KNOW:** A dividing cell’s limiting requirement is **building material, not energy**. Complete oxidation of glucose in mitochondria yields ~32 ATP but converts every carbon into CO₂ — it **burns the raw material**. Glycolysis yields only 2 ATP, but it leaves the carbons available: **glucose-6-phosphate feeds the pentose phosphate pathway (ribose for nucleotides and NADPH for lipid synthesis), 3-phosphoglycerate feeds serine and glycine synthesis, and pyruvate/citrate exported from mitochondria feeds fatty acid synthesis**. A proliferating cell therefore deliberately trades ATP efficiency for anabolic flux. Consequences: **massively increased glucose uptake — the basis of FDG-PET imaging** — and **lactate production even in the presence of oxygen** (mitochondria are usually intact and functional, contrary to Warburg’s original hypothesis). Drivers: **oncogenes (MYC, RAS, PI3K/AKT) upregulate GLUT transporters, hexokinase 2, PKM2 and LDH-A; HIF-1α does the same under hypoxia; loss of p53 removes the brake.** The **exported lactate acidifies the tumour microenvironment**, which promotes invasion, angiogenesis and immune evasion — a further advantage. Metabolic reprogramming is now a recognised **hallmark of cancer** (Hanahan and Weinberg), alongside sustained proliferative signalling, evasion of growth suppressors, resisting apoptosis, replicative immortality, angiogenesis, invasion/metastasis, immune evasion and genome instability. Compare normal cells: **quiescent cells maximise ATP per glucose (oxidative phosphorylation); proliferating cells — including activated LYMPHOCYTES and embryonic tissue — also use aerobic glycolysis**, so the Warburg effect is a proliferation programme, not a uniquely malignant one.
 
 **REMEMBER:** *Cancer cells burn glucose badly on purpose — they want the bricks, not the fuel.*
 
@@ -471,7 +471,7 @@
 - **NADPH is also used by cytochrome P450**, by **nitric oxide synthase**, and by **aldose reductase** (the polyol pathway — which consumes NADPH and thereby contributes to oxidative damage in **diabetic cataract and neuropathy**).
 - **NADH, by contrast, feeds complex I of the ETC** — it is an energy currency, not a building one.
 
-**EXAM CONNECTION:** "NADPH is used in" → **fatty acid synthesis**.
+**EXAM CONNECTION:** “NADPH is used in” → **fatty acid synthesis**.
 
 **REMEMBER:** *NADH burns, NADPH builds — and NADPH also keeps glutathione reduced.*
 
@@ -491,9 +491,9 @@
 - **Macular corneal dystrophy** is a defect of keratan sulfate synthesis (**CHST6**) — the only corneal dystrophy that is **autosomal recessive** and the one that causes diffuse stromal clouding to the periphery.
 - **The other GAGs:** **hyaluronic acid** — the only one that is **NOT sulphated and NOT protein-bound**; found in synovial fluid and vitreous. **Chondroitin sulfate** — the most abundant, in cartilage. **Dermatan sulfate** — skin, blood vessels, heart valves. **Heparan sulfate** — basement membranes (and provides the **negative charge barrier of the GBM**). **Heparin** — mast cells, the most negatively charged molecule in the body.
 - **Mucopolysaccharidoses** (lysosomal enzyme defects) accumulate GAGs: **Hurler (α-L-iduronidase, AR)** — coarse facies, **corneal clouding**, hepatosplenomegaly, dysostosis multiplex, early death; **Hunter (iduronate sulfatase, X-LINKED)** — similar but **NO corneal clouding** and milder; **Morquio (keratan sulfate)** — skeletal dysplasia with **normal intelligence** and **atlantoaxial instability**; **Sanfilippo (heparan sulfate)** — severe **behavioural/neurological** disease with mild somatic features.
-- **Hunter vs Hurler: "Hunters need clear vision to shoot, and hunting is for boys."**
+- **Hunter vs Hurler: “Hunters need clear vision to shoot, and hunting is for boys.”**
 
-**EXAM CONNECTION:** "GAG responsible for corneal transparency" → **keratan sulfate**.
+**EXAM CONNECTION:** “GAG responsible for corneal transparency” → **keratan sulfate**.
 
 **REMEMBER:** *Keratan sulfate: no uronic acid, and it keeps the cornea clear.*
 
@@ -508,7 +508,7 @@
 
 **PEARL:** **E1 = pyruvate dehydrogenase (TPP) · E2 = dihydrolipoyl transacetylase (lipoic acid + CoA) · E3 = dihydrolipoyl dehydrogenase (FAD + NAD⁺).** It performs the **irreversible oxidative decarboxylation of pyruvate to acetyl-CoA**.
 
-**UNDERSTAND:** Five cofactors, and **all five are B vitamins** — **"Tender Loving Care For Nancy": Thiamine (B1), Lipoic acid, CoA (B5/pantothenate), FAD (B2), NAD (B3/niacin)**. That is why so many B-vitamin deficiencies converge on **lactic acidosis**: if PDH stalls, pyruvate is diverted to lactate.
+**UNDERSTAND:** Five cofactors, and **all five are B vitamins** — **“Tender Loving Care For Nancy”: Thiamine (B1), Lipoic acid, CoA (B5/pantothenate), FAD (B2), NAD (B3/niacin)**. That is why so many B-vitamin deficiencies converge on **lactic acidosis**: if PDH stalls, pyruvate is diverted to lactate.
 
 **MUST KNOW:**
 
@@ -533,9 +533,9 @@
 
 ### 23. Fructosamine
 
-**PEARL:** Fructosamine measures **non-enzymatic glycation of SERUM PROTEINS — mainly ALBUMIN**. It reflects glycaemic control over the **preceding 2–3 weeks**, versus **HbA1c's 8–12 weeks**.
+**PEARL:** Fructosamine measures **non-enzymatic glycation of SERUM PROTEINS — mainly ALBUMIN**. It reflects glycaemic control over the **preceding 2–3 weeks**, versus **HbA1c’s 8–12 weeks**.
 
-**UNDERSTAND:** The two tests differ only in **which protein you are measuring the sugar on** — and therefore in that protein's lifespan. **Albumin's half-life is ~20 days**; the **red cell's is 120 days**. Choose the marker whose turnover matches the window you care about.
+**UNDERSTAND:** The two tests differ only in **which protein you are measuring the sugar on** — and therefore in that protein’s lifespan. **Albumin’s half-life is ~20 days**; the **red cell’s is 120 days**. Choose the marker whose turnover matches the window you care about.
 
 **MUST KNOW:**
 
@@ -545,7 +545,7 @@
 - **HbA1c diagnostic cut-offs:** **≥6.5% diabetes; 5.7–6.4% prediabetes**. Typical target **<7%**.
 - The underlying chemistry is the **Maillard reaction** — a Schiff base rearranging to a stable **Amadori product**, and eventually to **advanced glycation end-products (AGEs)**, which drive the microvascular complications of diabetes.
 
-**EXAM CONNECTION:** "Fructosamine is obtained by glycation of" → **albumin**.
+**EXAM CONNECTION:** “Fructosamine is obtained by glycation of” → **albumin**.
 
 **REMEMBER:** *Albumin lives 3 weeks, red cells live 3 months — pick the marker to match the window.*
 
@@ -566,7 +566,7 @@
 - **Do not confuse the galactosidases:** **α-galactosidase A deficiency = FABRY disease**; **β-galactocerebrosidase deficiency = KRABBE disease**; **α-galactosidase supplements** are for beans (raffinose/stachyose), not milk.
 - **Galactosaemia** is a different problem entirely — **galactose-1-phosphate uridyltransferase (GALT)** deficiency: neonatal jaundice, hepatomegaly, cataracts (galactitol), **E. coli sepsis**, and intellectual disability — treated by **eliminating galactose/lactose**, with screening by the **urine reducing substances positive but glucose oxidase strip negative** clue.
 
-**EXAM CONNECTION:** "Supplement containing which enzyme?" → **β-galactosidase**.
+**EXAM CONNECTION:** “Supplement containing which enzyme?” → **β-galactosidase**.
 
 **REMEMBER:** *Lactase = β-galactosidase. α-galactosidase is Fabry; β-galactocerebrosidase is Krabbe.*
 
@@ -602,7 +602,7 @@
 
 **PEARL:** **Pyruvate kinase is INHIBITED by ATP, ALANINE, glucagon and noradrenaline**, and **ACTIVATED by fructose-1,6-bisphosphate (feed-forward) and insulin**.
 
-**UNDERSTAND:** Each inhibitor is a **signal that glucose should be spared**. **ATP** says energy is plentiful. **Alanine** signals abundant gluconeogenic substrate (it is pyruvate's amino counterpart). **Glucagon** signals fasting. Conversely **fructose-1,6-bisphosphate — the product of the earlier PFK-1 step — feeds forward** to prime the last step of glycolysis.
+**UNDERSTAND:** Each inhibitor is a **signal that glucose should be spared**. **ATP** says energy is plentiful. **Alanine** signals abundant gluconeogenic substrate (it is pyruvate’s amino counterpart). **Glucagon** signals fasting. Conversely **fructose-1,6-bisphosphate — the product of the earlier PFK-1 step — feeds forward** to prime the last step of glycolysis.
 
 **MUST KNOW:**
 
@@ -612,11 +612,11 @@
 - **Pyruvate kinase DEFICIENCY** is the **second commonest red cell enzymopathy after G6PD** — autosomal recessive, chronic **non-spherocytic haemolytic anaemia**, with **increased 2,3-BPG shifting the curve RIGHT** (so patients tolerate anaemia surprisingly well); the film shows **echinocytes**, and splenectomy helps.
 - **Citrate is the key cross-talk molecule** — it inhibits PFK-1 (stop glycolysis) and activates acetyl-CoA carboxylase (start fatty acid synthesis).
 
-**EXAM CONNECTION:** "Inhibitor of pyruvate kinase" → **all of the above** (ATP, alanine, glucagon).
+**EXAM CONNECTION:** “Inhibitor of pyruvate kinase” → **all of the above** (ATP, alanine, glucagon).
 
 **ALSO KNOW:** PK deficiency causes **haemolytic anaemia** — the **commonest glycolytic enzyme defect** causing haemolysis (second overall to G6PD). **Autosomal recessive**, non-spherocytic; RBCs cannot make ATP (they have no mitochondria) → membrane pump failure. **2,3-BPG accumulates** upstream → right-shifted O₂ curve → **anaemia is better tolerated** than the haemoglobin level suggests. Blood film: **echinocytes/burr cells**. *PK deficiency: low ATP, high 2,3-BPG — anaemic but comfortable.*
 
-**REMEMBER:** *ATP, alanine and glucagon all say "we don't need to burn glucose" — so they switch pyruvate kinase off.*
+**REMEMBER:** *ATP, alanine and glucagon all say “we don’t need to burn glucose” — so they switch pyruvate kinase off.*
 
 `Q10767`
 
@@ -632,11 +632,11 @@
 
 - **Treatment is IMMEDIATE and complete removal of galactose/lactose** — stop breastfeeding, use a **soy-based (lactose-free) formula**. Delay costs the brain.
 - Even with perfect treatment, long-term complications persist: **learning and speech difficulties, motor problems, and HYPERGONADOTROPIC HYPOGONADISM / premature ovarian failure in girls** — because galactose toxicity to the ovary occurs prenatally.
-- **Urine reducing substances (Benedict's test) POSITIVE but urine GLUCOSE OXIDASE STRIP NEGATIVE** — the classic bedside discriminator for a non-glucose reducing sugar. Confirm by **RBC GALT enzyme assay**.
+- **Urine reducing substances (Benedict’s test) POSITIVE but urine GLUCOSE OXIDASE STRIP NEGATIVE** — the classic bedside discriminator for a non-glucose reducing sugar. Confirm by **RBC GALT enzyme assay**.
 - **Compare the milder variant: GALACTOKINASE deficiency** — **cataracts ONLY** (galactitol still forms), with **no liver, kidney or brain disease and no sepsis risk**, because galactose-1-phosphate never accumulates. That contrast tells you which metabolite causes which damage.
 - **Newborn screening** for galactosaemia is included in many programmes precisely because treatment is simple and delay is catastrophic.
 
-**EXAM CONNECTION:** Neonate with jaundice, hepatomegaly and vomiting on breast milk → "most susceptible to sepsis by" → ***E. coli***.
+**EXAM CONNECTION:** Neonate with jaundice, hepatomegaly and vomiting on breast milk → “most susceptible to sepsis by” → ***E. coli***.
 
 **REMEMBER:** *Galactose-1-phosphate poisons the organs and the neutrophils; galactitol clouds the lens.*
 
@@ -664,10 +664,10 @@
 | **GLUT-5** | Intestine, sperm | **FRUCTOSE** transporter |
 | **SGLT1 / SGLT2** | Intestine / renal PCT | **Sodium-coupled ACTIVE transport**; SGLT1 underlies **ORS**, SGLT2 is the target of **gliflozins** |
 
-- **GLUT-2's low affinity is the basis of glucose sensing in the β cell:** uptake rises in proportion to blood glucose → glucokinase (also high Km) → ATP → **closure of the K-ATP channel** → depolarisation → calcium influx → insulin release. **Sulfonylureas close the same K-ATP channel** pharmacologically.
+- **GLUT-2’s low affinity is the basis of glucose sensing in the β cell:** uptake rises in proportion to blood glucose → glucokinase (also high Km) → ATP → **closure of the K-ATP channel** → depolarisation → calcium influx → insulin release. **Sulfonylureas close the same K-ATP channel** pharmacologically.
 - **Hexokinase (low Km, inhibited by G6P, ubiquitous) vs GLUCOKINASE (high Km, not inhibited by G6P, liver and β cell, induced by insulin)** — MODY 2 is a glucokinase mutation.
 
-**EXAM CONNECTION:** "Insulin-independent EXCEPT" — the answer is always the **GLUT-4 tissue** (muscle, heart or fat).
+**EXAM CONNECTION:** “Insulin-independent EXCEPT” — the answer is always the **GLUT-4 tissue** (muscle, heart or fat).
 
 **REMEMBER:** *Brain and red cells never wait for insulin; muscle and fat always do.*
 
@@ -701,7 +701,7 @@
 
 **MUST KNOW:**
 
-- No NADPH → no reduced glutathione → oxidized haemoglobin precipitates as **Heinz bodies** → **"bite cells"** after splenic removal.
+- No NADPH → no reduced glutathione → oxidized haemoglobin precipitates as **Heinz bodies** → **“bite cells”** after splenic removal.
 - Triggers: **primaquine, dapsone, sulfonamides, nitrofurantoin, naphthalene, fava beans, infection**.
 - **X-linked recessive**; test **after** the acute episode (reticulocytes have higher enzyme, giving false normal results).
 
@@ -715,21 +715,21 @@
 
 **PEARL:** Glycogen phosphorylase is the **rate-limiting enzyme of glycogenolysis**, and in **MUSCLE it is activated by CALCIUM** (via the calmodulin δ-subunit of phosphorylase kinase). It is **inhibited by insulin, glucose-6-phosphate, ATP, and (in liver) glucose**.
 
-**UNDERSTAND:** The calcium link is elegant physiology: the **same calcium signal that triggers muscle contraction simultaneously switches on the fuel supply**. Phosphorylase kinase's **δ subunit IS calmodulin**, so contraction and glycogenolysis are coupled by design — no hormone required.
+**UNDERSTAND:** The calcium link is elegant physiology: the **same calcium signal that triggers muscle contraction simultaneously switches on the fuel supply**. Phosphorylase kinase’s **δ subunit IS calmodulin**, so contraction and glycogenolysis are coupled by design — no hormone required.
 
 **MUST KNOW:**
 
 - **Hormonal route:** **glucagon (liver only) and adrenaline (liver and muscle)** → GPCR → **adenylyl cyclase → cAMP → PKA → phosphorylase kinase → phosphorylase a**. **Muscle has NO glucagon receptors** — a frequently tested point.
 - **Glycogen phosphorylase uses PYRIDOXAL PHOSPHATE (B6)** as its coenzyme — the only enzyme in carbohydrate metabolism that does.
 - It cleaves **α-1,4 bonds** to release **glucose-1-phosphate**, and stops **4 residues from a branch point (limit dextrin)**; the **debranching enzyme** (with its transferase and α-1,6-glucosidase activities) then releases **free glucose**.
-- **Glycogen storage diseases:** **von Gierke (I, glucose-6-phosphatase)** — severe fasting hypoglycaemia, lactic acidosis, hyperuricaemia; **Pompe (II, lysosomal acid maltase)** — cardiomegaly, "**Pompe wrecks the pump**"; **Cori (III, debranching)**; **McArdle (V, MUSCLE phosphorylase)** — exercise intolerance, cramps, **myoglobinuria**, **"second wind" phenomenon**, and a **flat lactate curve on the ischaemic exercise test**; **Hers (VI, liver phosphorylase)** — mild.
+- **Glycogen storage diseases:** **von Gierke (I, glucose-6-phosphatase)** — severe fasting hypoglycaemia, lactic acidosis, hyperuricaemia; **Pompe (II, lysosomal acid maltase)** — cardiomegaly, “**Pompe wrecks the pump**”; **Cori (III, debranching)**; **McArdle (V, MUSCLE phosphorylase)** — exercise intolerance, cramps, **myoglobinuria**, **“second wind” phenomenon**, and a **flat lactate curve on the ischaemic exercise test**; **Hers (VI, liver phosphorylase)** — mild.
 - **Insulin activates PROTEIN PHOSPHATASE-1**, which simultaneously **dephosphorylates phosphorylase (off) and glycogen synthase (on)** — one switch, opposite effects.
 
-**EXAM CONNECTION:** "Glycogen phosphorylase is activated by" → **calcium** (insulin, G6P and protein phosphatase are all inhibitors — the distractors).
+**EXAM CONNECTION:** “Glycogen phosphorylase is activated by” → **calcium** (insulin, G6P and protein phosphatase are all inhibitors — the distractors).
 
-**ALSO KNOW:** **Muscle** phosphorylase has a binding site for **5′-AMP**, which allosterically activates the **dephosphorylated (inactive) b form** — the liver isoenzyme lacks this. Muscle serves *itself*: a rising AMP means the muscle is low on energy, so glycogen breaks down without waiting for a hormone. The liver serves *the body* — it responds to **glucagon**, not to its own energy state. *AMP activates muscle phosphorylase (local need); glucagon runs the liver one (body's need).*
+**ALSO KNOW:** **Muscle** phosphorylase has a binding site for **5′-AMP**, which allosterically activates the **dephosphorylated (inactive) b form** — the liver isoenzyme lacks this. Muscle serves *itself*: a rising AMP means the muscle is low on energy, so glycogen breaks down without waiting for a hormone. The liver serves *the body* — it responds to **glucagon**, not to its own energy state. *AMP activates muscle phosphorylase (local need); glucagon runs the liver one (body’s need).*
 
-**REMEMBER:** *Calcium contracts the muscle and feeds it at the same time — phosphorylase kinase's δ subunit is calmodulin.*
+**REMEMBER:** *Calcium contracts the muscle and feeds it at the same time — phosphorylase kinase’s δ subunit is calmodulin.*
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dafecd9ee2034003b574e81dbcebbfdax1280x2560.JPEG)
@@ -746,12 +746,12 @@
 
 **MUST KNOW:**
 
-- **The mirror image is CORI disease (GSD III, DEBRANCHING enzyme)** — glycogen with **SHORT outer chains (limit dextrin)**, because phosphorylase can only chew to within 4 residues of a branch and then stops. **"Andersen = can't build branches (long chains); Cori = can't remove them (short chains)."**
-- **The high-yield GSD list:** **I von Gierke (glucose-6-phosphatase)** — severe fasting hypoglycaemia, **lactic acidosis, hyperuricaemia, hyperlipidaemia**, doll-like face, massive hepatomegaly, **NO splenomegaly**; **II Pompe (lysosomal acid α-glucosidase)** — **cardiomegaly and hypotonia**, "**Pompe wrecks the pump**", the only lysosomal one, treated by **enzyme replacement**; **III Cori**; **IV Andersen** (cirrhosis, death in childhood); **V McArdle (muscle phosphorylase)** — **exercise intolerance, cramps, myoglobinuria, "second wind", FLAT lactate curve on ischaemic exercise testing**; **VI Hers (liver phosphorylase)** — mild.
+- **The mirror image is CORI disease (GSD III, DEBRANCHING enzyme)** — glycogen with **SHORT outer chains (limit dextrin)**, because phosphorylase can only chew to within 4 residues of a branch and then stops. **“Andersen = can’t build branches (long chains); Cori = can’t remove them (short chains).”**
+- **The high-yield GSD list:** **I von Gierke (glucose-6-phosphatase)** — severe fasting hypoglycaemia, **lactic acidosis, hyperuricaemia, hyperlipidaemia**, doll-like face, massive hepatomegaly, **NO splenomegaly**; **II Pompe (lysosomal acid α-glucosidase)** — **cardiomegaly and hypotonia**, “**Pompe wrecks the pump**”, the only lysosomal one, treated by **enzyme replacement**; **III Cori**; **IV Andersen** (cirrhosis, death in childhood); **V McArdle (muscle phosphorylase)** — **exercise intolerance, cramps, myoglobinuria, “second wind”, FLAT lactate curve on ischaemic exercise testing**; **VI Hers (liver phosphorylase)** — mild.
 - **Distinguishing I from III clinically:** von Gierke has **lactic acidosis and hyperuricaemia**; Cori does not (gluconeogenesis is intact) and has **muscle involvement plus raised CK**.
 - **A normal rise in venous lactate after ischaemic forearm exercise excludes McArdle disease**; a flat curve with a rise in **ammonia** confirms effort was adequate.
 
-**EXAM CONNECTION:** The biopsy description of the glycogen's **chain length** is the whole question.
+**EXAM CONNECTION:** The biopsy description of the glycogen’s **chain length** is the whole question.
 
 **REMEMBER:** *Long chains = Andersen (no branching). Short chains = Cori (no debranching).*
 
@@ -777,7 +777,7 @@
 - **Glucose-6-phosphate allosterically ACTIVATES glycogen synthase** and inhibits phosphorylase.
 - **Glycogen stores: liver ~100 g (exports glucose for the body), muscle ~400 g (for its own use only).**
 
-**EXAM CONNECTION:** "Primer acting as acceptor of glucose residues in glycogen synthesis" → **protein (glycogenin)**.
+**EXAM CONNECTION:** “Primer acting as acceptor of glucose residues in glycogen synthesis” → **protein (glycogenin)**.
 
 **REMEMBER:** *Glycogen synthase can only lengthen a chain — glycogenin starts it, on itself.*
 
@@ -812,7 +812,7 @@
 
 ### 36. Glycogen Synthase Deficiency (GSD 0)
 
-**PEARL:** **Absent liver glycogen with NO hepatomegaly** = **glycogen synthase deficiency (GSD type 0)** — the only glycogen "storage" disease in which there is **nothing stored**.
+**PEARL:** **Absent liver glycogen with NO hepatomegaly** = **glycogen synthase deficiency (GSD type 0)** — the only glycogen “storage” disease in which there is **nothing stored**.
 
 **UNDERSTAND:** Every other GSD has a **degradative** block, so glycogen accumulates and the liver enlarges. Type 0 blocks **synthesis**, so the liver is small and empty. The clinical signature follows directly: **fasting hypoglycaemia and ketosis** (nothing to mobilise), but **postprandial hyperglycaemia and lactic acidosis** (nowhere to store the incoming glucose).
 
@@ -824,7 +824,7 @@
 - Regulation of the enzyme: **glycogen synthase is active when DEPHOSPHORYLATED** (insulin), inactive when phosphorylated (glucagon/adrenaline via cAMP) — the **exact opposite of phosphorylase**, which is active when phosphorylated. One kinase, opposite effects — that reciprocity is the whole logic of glycogen control.
 - Contrast **von Gierke (I)**: massive hepatomegaly, fasting hypoglycaemia, lactic acidosis, **hyperuricaemia and hyperlipidaemia**.
 
-**EXAM CONNECTION:** The discriminating phrase is **"liver examination revealed no glycogen"** (or absent hepatomegaly). Every other option in the list causes glycogen to accumulate.
+**EXAM CONNECTION:** The discriminating phrase is **“liver examination revealed no glycogen”** (or absent hepatomegaly). Every other option in the list causes glycogen to accumulate.
 
 **REMEMBER:** *No glycogen at all means the synthase, not the phosphorylase.*
 
@@ -851,7 +851,7 @@
 - **The brain adapts to use ketones for ~2/3 of its energy in prolonged starvation** — the reason prolonged fasting spares muscle protein.
 - **Cholesterol synthesis is highest in the LIVER**, plus adrenal cortex, gonads and intestine; **all nucleated cells can make it**; the pathway also produces **isoprenoids, ubiquinone, dolichol and farnesyl groups** — which explains statin side effects and their pleiotropic actions.
 
-**EXAM CONNECTION:** "Which enzyme is NOT used in cholesterol synthesis?" → **HMG-CoA lyase**.
+**EXAM CONNECTION:** “Which enzyme is NOT used in cholesterol synthesis?” → **HMG-CoA lyase**.
 
 **REMEMBER:** *Cytosol REDUCES HMG-CoA to cholesterol; mitochondria CLEAVE it to ketones.*
 
@@ -866,17 +866,17 @@
 
 **PEARL:** **Amphipathic (membrane-forming):** phospholipids, sphingolipids, glycolipids, **cholesterol**, free fatty acids. **NEUTRAL (not amphipathic): TRIACYLGLYCEROL and CHOLESTERYL ESTERS.**
 
-**UNDERSTAND:** A molecule is amphipathic only if it has **both a polar head and a nonpolar tail**. Esterifying a fatty acid onto glycerol's last hydroxyl, or onto cholesterol's only hydroxyl, **caps the polar group** — the molecule becomes entirely hydrophobic.
+**UNDERSTAND:** A molecule is amphipathic only if it has **both a polar head and a nonpolar tail**. Esterifying a fatty acid onto glycerol’s last hydroxyl, or onto cholesterol’s only hydroxyl, **caps the polar group** — the molecule becomes entirely hydrophobic.
 
 **MUST KNOW:**
 
 - This is exactly why **triacylglycerol and cholesteryl esters form the CORE of lipoproteins and of the adipocyte fat droplet**, while **phospholipids, free cholesterol and apoproteins form the SURFACE monolayer**. Structure follows chemistry.
 - **Lipoprotein cores:** **chylomicrons and VLDL are triglyceride-rich; LDL and HDL are cholesteryl-ester-rich.**
 - **Cholesterol IS amphipathic** (its 3-OH group) — which is why it intercalates into membranes and modulates fluidity: it **reduces fluidity above the transition temperature and increases it below**, i.e. it is a fluidity **buffer**.
-- **Amphipathic bile salts** are nature's detergents — they emulsify dietary fat and form **mixed micelles** for absorption.
-- **Membrane structure:** the **fluid mosaic model**; **flippases and floppases (ATP-dependent) and scramblases** maintain asymmetry — **phosphatidylserine is normally kept on the inner leaflet**, and its **externalisation is the "eat me" signal of APOPTOSIS** (and the basis of the **annexin V** assay) and a trigger for coagulation.
+- **Amphipathic bile salts** are nature’s detergents — they emulsify dietary fat and form **mixed micelles** for absorption.
+- **Membrane structure:** the **fluid mosaic model**; **flippases and floppases (ATP-dependent) and scramblases** maintain asymmetry — **phosphatidylserine is normally kept on the inner leaflet**, and its **externalisation is the “eat me” signal of APOPTOSIS** (and the basis of the **annexin V** assay) and a trigger for coagulation.
 
-**EXAM CONNECTION:** "Which is NOT amphipathic?" → **triglycerides**.
+**EXAM CONNECTION:** “Which is NOT amphipathic?” → **triglycerides**.
 
 **REMEMBER:** *Esterify the last polar group and the lipid goes neutral — straight to the core of the droplet.*
 
@@ -893,7 +893,7 @@
 **MUST KNOW:**
 
 - **Congenital adrenal hyperplasia — read it off the pathway:** **21-hydroxylase deficiency (>90%)** — **↓cortisol, ↓aldosterone (SALT WASTING), ↑androgens (virilisation, ambiguous genitalia in girls)**; raised **17-hydroxyprogesterone** is the diagnostic marker. **11β-hydroxylase** — ↓cortisol, ↑**11-deoxycorticosterone** (a mineralocorticoid) → **HYPERTENSION with virilisation**. **17α-hydroxylase** — ↓cortisol, ↓androgens (**no virilisation; girls fail to develop, boys are undervirilised**) with **HYPERTENSION and hypokalaemia**.
-- **The two hypertensive CAHs are 11β and 17α; the salt-loser is 21.** ("**Deficiency of 21 loses salt; 11 and 17 raise the pressure.**")
+- **The two hypertensive CAHs are 11β and 17α; the salt-loser is 21.** (“**Deficiency of 21 loses salt; 11 and 17 raise the pressure.**”)
 - **Aromatase (CYP19)** converts androgens to oestrogens — inhibited by **anastrozole/letrozole** in breast cancer; **placental aromatase deficiency** virilises both mother and female fetus.
 - **5α-reductase** converts testosterone to the far more potent **DHT** (external genitalia, prostate) — inhibited by **finasteride**; its deficiency gives 46,XY DSD with virilisation at puberty.
 - **All steroidogenic enzymes except 3β-HSD are cytochrome P450 enzymes.**
@@ -913,14 +913,14 @@
 
 **PEARL:** **Cardiolipin (diphosphatidylglycerol) is the phospholipid found ONLY in the INNER MITOCHONDRIAL MEMBRANE.** Its defective remodelling (**tafazzin/TAZ gene, X-linked**) causes **BARTH SYNDROME**: **dilated cardiomyopathy + skeletal myopathy + NEUTROPENIA + short stature**.
 
-**UNDERSTAND:** Cardiolipin has **four acyl chains** (rather than the usual two), giving it a **conical shape** that lets it curve the membrane into cristae and act as a molecular "glue" holding the **ETC supercomplexes** together. Disturb it and oxidative phosphorylation fails in the tissues that need it most — heart and muscle.
+**UNDERSTAND:** Cardiolipin has **four acyl chains** (rather than the usual two), giving it a **conical shape** that lets it curve the membrane into cristae and act as a molecular “glue” holding the **ETC supercomplexes** together. Disturb it and oxidative phosphorylation fails in the tissues that need it most — heart and muscle.
 
 **MUST KNOW:**
 
 - **Cardiolipin is the antigen used in the VDRL and RPR tests** — which is precisely why they are **NON-treponemal** and give **BIOLOGICAL FALSE POSITIVES**: pregnancy, **antiphospholipid syndrome and SLE**, leprosy, malaria, TB, viral infections, IV drug use, and old age.
 - **Anti-cardiolipin antibodies** are one of the three criteria antibodies for **antiphospholipid syndrome** (with lupus anticoagulant and anti-β2-glycoprotein I) — causing **arterial and venous thrombosis and recurrent pregnancy loss**, with the paradox of a **prolonged aPTT in vitro but thrombosis in vivo**.
 - **Cardiolipin externalisation is an early signal of APOPTOSIS**, releasing cytochrome c from the inner membrane.
-- **Other phospholipids to keep distinct:** **cephalin (phosphatidylethanolamine)** — nervous tissue; **lecithin (phosphatidylcholine)** — the major membrane phospholipid and, as **dipalmitoyl-phosphatidylcholine, the main SURFACTANT** (hence the **L:S ratio ≥2** for fetal lung maturity); **phosphatidylinositol** — the source of **IP3 and DAG** second messengers; **phosphatidylserine** — the apoptotic "eat me" signal.
+- **Other phospholipids to keep distinct:** **cephalin (phosphatidylethanolamine)** — nervous tissue; **lecithin (phosphatidylcholine)** — the major membrane phospholipid and, as **dipalmitoyl-phosphatidylcholine, the main SURFACTANT** (hence the **L:S ratio ≥2** for fetal lung maturity); **phosphatidylinositol** — the source of **IP3 and DAG** second messengers; **phosphatidylserine** — the apoptotic “eat me” signal.
 
 **EXAM CONNECTION:** Cardiomyopathy + myopathy + mitochondrial dysfunction named as Barth syndrome → **cardiolipin**.
 
@@ -966,11 +966,11 @@
 
 - **Methionine is lipotropic because it donates methyl groups (as SAM) to make choline**; **folate and B12 are lipotropic because they regenerate methionine** from homocysteine. The whole list is one methyl-group story.
 - **Causes of fatty liver worth mapping onto this mechanism:** **alcohol** (NADH excess → ↑triglyceride synthesis + ↓β-oxidation), **protein-energy malnutrition/kwashiorkor** (no apoprotein to build VLDL), **carbon tetrachloride and puromycin** (block protein synthesis), **obesity/insulin resistance (NAFLD)**, pregnancy, tetracycline, valproate.
-- **Kwashiorkor's fatty liver is the pure "no apoprotein" model** — which is why it responds to protein repletion.
+- **Kwashiorkor’s fatty liver is the pure “no apoprotein” model** — which is why it responds to protein repletion.
 - **Choline is now classified as an essential nutrient**; deficiency in TPN causes hepatic steatosis.
 - **Lecithin (phosphatidylcholine)** doubles as the **lung surfactant** (as dipalmitoyl-phosphatidylcholine) and as the substrate of **LCAT** in HDL maturation.
 
-**EXAM CONNECTION:** "Lipotropic factors are all EXCEPT" → **arginine**.
+**EXAM CONNECTION:** “Lipotropic factors are all EXCEPT” → **arginine**.
 
 **ALSO KNOW:** Most act as **methyl donors** needed to synthesize **phosphatidylcholine**, which is essential for packaging fat into **VLDL** for export.
 
@@ -994,7 +994,7 @@
 - **LCAT deficiency / fish-eye disease:** **corneal opacification**, anaemia, proteinuria.
 - **Key apoproteins:** **A-I — activates LCAT (HDL)** · **B-48 — chylomicron (intestine)** · **B-100 — VLDL/LDL, the LDL receptor ligand** · **C-II — activates LIPOPROTEIN LIPASE** · **C-III — inhibits LPL** · **E — remnant/chylomicron uptake by the liver (apo E4 = Alzheimer risk; E2/E2 = type III hyperlipidaemia)**.
 
-**EXAM CONNECTION:** "All have low or near-absent HDL EXCEPT" → **abetalipoproteinaemia**.
+**EXAM CONNECTION:** “All have low or near-absent HDL EXCEPT” → **abetalipoproteinaemia**.
 
 **REMEMBER:** *Apo A-I builds HDL; apo B builds everything else. Abetalipoproteinaemia loses apo B and keeps HDL.*
 
@@ -1010,14 +1010,14 @@
 
 **MUST KNOW:**
 
-- **Non-selective NSAIDs → gastric erosion/ulcer, renal impairment (especially with hypovolaemia, ACE inhibitors and diuretics — the "triple whammy"), bleeding tendency, and bronchospasm in aspirin-sensitive asthma.**
+- **Non-selective NSAIDs → gastric erosion/ulcer, renal impairment (especially with hypovolaemia, ACE inhibitors and diuretics — the “triple whammy”), bleeding tendency, and bronchospasm in aspirin-sensitive asthma.**
 - **COX-2 selective (celecoxib, etoricoxib) → fewer GI events but INCREASED cardiovascular risk** — the reason **rofecoxib was withdrawn**. Renal toxicity is **not** reduced (COX-2 is constitutive in the kidney).
-- **ASPIRIN is unique: it acetylates COX IRREVERSIBLY.** Since the **platelet has no nucleus and cannot resynthesise COX-1**, a single low dose suppresses thromboxane for the platelet's whole 7–10 day life — the entire basis of once-daily low-dose aspirin for cardioprotection. Endothelium, having a nucleus, restores prostacyclin within hours.
+- **ASPIRIN is unique: it acetylates COX IRREVERSIBLY.** Since the **platelet has no nucleus and cannot resynthesise COX-1**, a single low dose suppresses thromboxane for the platelet’s whole 7–10 day life — the entire basis of once-daily low-dose aspirin for cardioprotection. Endothelium, having a nucleus, restores prostacyclin within hours.
 - **Paracetamol** is a weak COX inhibitor centrally with little peripheral anti-inflammatory action — hence antipyretic and analgesic but not anti-inflammatory, and **gastric-safe**.
 - **COX-3** is a splice variant described in dogs; **not established in humans** — a trap option.
 - **NSAIDs in pregnancy** cause **premature closure of the ductus arteriosus** — and the same mechanism makes **indomethacin/ibuprofen the treatment for a patent ductus** in preterm neonates, while **prostaglandin E1 keeps it open** in duct-dependent congenital heart disease.
 
-**EXAM CONNECTION:** "Which COX increases during inflammation?" → **COX-2**.
+**EXAM CONNECTION:** “Which COX increases during inflammation?” → **COX-2**.
 
 **REMEMBER:** *COX-1 housekeeps (stomach, platelets, kidney); COX-2 inflames. Aspirin kills COX-1 in the platelet for life.*
 
@@ -1036,11 +1036,11 @@
 - **Regulation: bile acids returning in the enterohepatic circulation activate the FARNESOID X RECEPTOR (FXR), which suppresses CYP7A1** — classic negative feedback.
 - **This is exactly how BILE ACID SEQUESTRANTS (cholestyramine, colesevelam) work** — they bind bile acids in the gut, interrupt enterohepatic recirculation, release the FXR brake, and force the liver to consume cholesterol to make more bile acids. Side effects: **constipation, and malabsorption of fat-soluble vitamins and other drugs**; they **raise triglycerides**.
 - **Primary bile acids = cholic and chenodeoxycholic acid** (conjugated with **glycine or taurine** to make them water-soluble at duodenal pH). **Secondary bile acids = deoxycholic and lithocholic**, made by **gut bacteria (dehydroxylation)**.
-- **~95% of bile acids are reabsorbed in the TERMINAL ILEUM** — so ileal resection or Crohn's disease causes **bile-salt diarrhoea** and, with greater loss, **fat malabsorption and gallstones**.
+- **~95% of bile acids are reabsorbed in the TERMINAL ILEUM** — so ileal resection or Crohn’s disease causes **bile-salt diarrhoea** and, with greater loss, **fat malabsorption and gallstones**.
 - **Vitamin C deficiency impairs 7α-hydroxylation** — one reason scurvy is associated with hypercholesterolaemia.
-- **Compare the other "7" compound: 7-DEHYDROcholesterol is the skin precursor of VITAMIN D** (converted by UVB) — the classic distractor.
+- **Compare the other “7” compound: 7-DEHYDROcholesterol is the skin precursor of VITAMIN D** (converted by UVB) — the classic distractor.
 
-**EXAM CONNECTION:** "First intermediate in the conversion of cholesterol to bile acids" → **7α-hydroxycholesterol** (7-dehydrocholesterol is the vitamin D trap).
+**EXAM CONNECTION:** “First intermediate in the conversion of cholesterol to bile acids” → **7α-hydroxycholesterol** (7-dehydrocholesterol is the vitamin D trap).
 
 **REMEMBER:** *7α-hydroxylase is the only real exit for cholesterol — and bile acid binders press the accelerator.*
 
@@ -1063,7 +1063,7 @@
 - **Primary carnitine deficiency** → weakness, cardiomyopathy, hypoketotic hypoglycaemia; treated with **carnitine**.
 - **Odd-chain fatty acids yield propionyl-CoA → (biotin-dependent carboxylase) → methylmalonyl-CoA → (B12) → succinyl-CoA** — the only part of a fatty acid that is gluconeogenic.
 
-**EXAM CONNECTION:** "Enzyme required for the only energy-requiring step" → **thiokinase**.
+**EXAM CONNECTION:** “Enzyme required for the only energy-requiring step” → **thiokinase**.
 
 **REMEMBER:** *Thiokinase pays two ATP up front; the carnitine shuttle controls the rate; malonyl-CoA is the switch.*
 
@@ -1082,10 +1082,10 @@
 - **Reverse cholesterol transport pathway:** peripheral cell cholesterol → **ABCA1 transporter** → nascent (discoidal) HDL → **LCAT (activated by apo A-I)** → mature spherical HDL → delivered to the liver via **SR-B1**, or transferred to VLDL/LDL in exchange for triglyceride by **CETP**.
 - **Familial LCAT deficiency:** cholesterol accumulates in peripheral tissues → **CORNEAL OPACITY, haemolytic anaemia, proteinuria and renal failure**, with **very low HDL**. **Fish-eye disease** is the partial form (corneal opacity alone).
 - **Tangier disease = ABCA1 defect** — the earlier step; large **orange tonsils**, neuropathy, near-absent HDL.
-- **HDL's protective actions** go beyond cholesterol efflux: **anti-oxidant, anti-inflammatory, anti-thrombotic, and endothelium-protective** — which is why **raising HDL pharmacologically (niacin, CETP inhibitors) has repeatedly FAILED to reduce events**, even though low HDL is a strong risk marker. A key evidence-based nuance.
+- **HDL’s protective actions** go beyond cholesterol efflux: **anti-oxidant, anti-inflammatory, anti-thrombotic, and endothelium-protective** — which is why **raising HDL pharmacologically (niacin, CETP inhibitors) has repeatedly FAILED to reduce events**, even though low HDL is a strong risk marker. A key evidence-based nuance.
 - **Apo A-I is the major HDL apoprotein; apo B-100 the LDL ligand; apo C-II activates lipoprotein lipase; apo E mediates remnant uptake.**
 
-**EXAM CONNECTION:** "Activator of the key enzyme in reverse cholesterol transport" → **apo A-I**.
+**EXAM CONNECTION:** “Activator of the key enzyme in reverse cholesterol transport” → **apo A-I**.
 
 **REMEMBER:** *Apo A-I switches on LCAT, which buries cholesterol in the HDL core so more can keep flowing in.*
 
@@ -1102,12 +1102,12 @@
 **MUST KNOW:**
 
 - **Two branches from arachidonic acid:** **COX (PGH2 synthase) → prostaglandins, prostacyclin and thromboxane**; **LIPOXYGENASE → leukotrienes and lipoxins**.
-- **This explains why NSAIDs can precipitate ASTHMA** ("aspirin-exacerbated respiratory disease") — blocking COX **shunts arachidonic acid down the lipoxygenase pathway**, generating more bronchoconstrictor **cysteinyl leukotrienes (LTC4, D4, E4 — the old "slow-reacting substance of anaphylaxis")**.
+- **This explains why NSAIDs can precipitate ASTHMA** (“aspirin-exacerbated respiratory disease”) — blocking COX **shunts arachidonic acid down the lipoxygenase pathway**, generating more bronchoconstrictor **cysteinyl leukotrienes (LTC4, D4, E4 — the old “slow-reacting substance of anaphylaxis”)**.
 - **Drugs by target:** steroids → phospholipase A2 · NSAIDs → COX · **zileuton → 5-lipoxygenase** · **montelukast/zafirlukast → leukotriene receptor** · low-dose aspirin → platelet COX-1 (thromboxane).
 - **Key mediators:** **TXA2 — platelet aggregation and vasoconstriction (from platelets)**; **PGI2 (prostacyclin) — the opposite, from endothelium**; **PGE2 — fever, pain, vasodilation, gastric mucus and bicarbonate**; **LTB4 — a powerful neutrophil chemoattractant**.
 - **Arachidonic acid is a 20-carbon (eicosa-) polyunsaturated fatty acid** derived from **linoleic acid**, an essential fatty acid.
 
-**EXAM CONNECTION:** "First step in the synthesis of eicosanoids" → **activation of hydrolase (phospholipase A2)**.
+**EXAM CONNECTION:** “First step in the synthesis of eicosanoids” → **activation of hydrolase (phospholipase A2)**.
 
 **REMEMBER:** *Nothing happens until phospholipase A2 cuts arachidonic acid loose — which is why steroids block both arms.*
 
@@ -1134,7 +1134,7 @@
 
 **EXAM CONNECTION: **The answer hinges on two words:** fetal** (not maternal) and **long-chain** (not medium-chain). All four options are permutations of those two variables.
 
-**REMEMBER:** *The baby's enzyme defect poisons the mother's liver.*
+**REMEMBER:** *The baby’s enzyme defect poisons the mother’s liver.*
 
 `MD3506`
 
@@ -1154,7 +1154,7 @@
 - Secondary carnitine deficiency: **valproate**, haemodialysis, prematurity.
 - Contrast **MCAD deficiency** — the commonest FAO defect, presents with hypoketotic hypoglycaemia after a fasting illness, but **CK and muscle are usually spared**.
 
-**EXAM CONNECTION:** "Which transporter deficiency" — the stem gives **exercise intolerance + myoglobinuria + high CK**. Creatine is the distractor; creatine has nothing to do with mitochondrial transport.
+**EXAM CONNECTION:** “Which transporter deficiency” — the stem gives **exercise intolerance + myoglobinuria + high CK**. Creatine is the distractor; creatine has nothing to do with mitochondrial transport.
 
 **REMEMBER:** *Long chains need a ferry; short chains swim.*
 
@@ -1176,10 +1176,10 @@
 - **HSL** — inside the **adipocyte**, hydrolyses stored TAG, active in the **fasting** state, stimulated by **glucagon/adrenaline (cAMP–PKA)**, **inhibited by insulin**.
 - **LPL** — on the **capillary endothelium**, hydrolyses TAG in **chylomicrons and VLDL**, active in the **fed** state, **induced by insulin**, activated by **apoC-II**, inhibited by **apoC-III**.
 - **LPL deficiency or apoC-II deficiency = Type I hyperlipoproteinaemia** — massive chylomicronaemia, **eruptive xanthomas, lipaemia retinalis, pancreatitis**; **not atherogenic**.
-- **Heparin releases LPL** from the endothelium into plasma ("post-heparin lipolytic activity") — the classical assay.
+- **Heparin releases LPL** from the endothelium into plasma (“post-heparin lipolytic activity”) — the classical assay.
 - Diabetic dyslipidaemia triad: **high TG, low HDL, small dense LDL**.
 
-**EXAM CONNECTION:** The question is a two-variable grid — you must get **both** directions right. Insulin's rule ("**in**sulin **in**duces LPL, **in**hibits HSL") settles it.
+**EXAM CONNECTION:** The question is a two-variable grid — you must get **both** directions right. Insulin’s rule (“**in**sulin **in**duces LPL, **in**hibits HSL”) settles it.
 
 **REMEMBER:** *Fed enzyme is LPL, fasting enzyme is HSL — insulin flips both.*
 
@@ -1236,7 +1236,7 @@
 - **Orotic aciduria differential:** **OTC deficiency (with hyperammonaemia)** vs **hereditary orotic aciduria (megaloblastic anaemia, NO hyperammonaemia — treated with uridine)**.
 - **Glutamate + NH3 → glutamine** consumes ATP; **glutaminase** in the kidney runs it backwards to excrete NH4⁺ and is **upregulated in acidosis**.
 
-**EXAM CONNECTION:** "Ammonia in the brain is detoxified to form" → **glutamine**.
+**EXAM CONNECTION:** “Ammonia in the brain is detoxified to form” → **glutamine**.
 
 **REMEMBER:** *Brain and gut send glutamine; muscle sends alanine; only the liver makes urea.*
 
@@ -1252,7 +1252,7 @@
 
 **MUST KNOW:**
 
-- **Type I:** infantile **liver failure**, coagulopathy, **renal Fanconi syndrome with rickets**, a "**boiled cabbage**" odour, and a markedly **increased risk of hepatocellular carcinoma**. **Succinylacetone in urine is diagnostic** (and it also inhibits ALA dehydratase, causing a **porphyria-like crisis**).
+- **Type I:** infantile **liver failure**, coagulopathy, **renal Fanconi syndrome with rickets**, a “**boiled cabbage**” odour, and a markedly **increased risk of hepatocellular carcinoma**. **Succinylacetone in urine is diagnostic** (and it also inhibits ALA dehydratase, causing a **porphyria-like crisis**).
 - **Treatment of type I = NITISINONE (NTBC)** — which **blocks the pathway UPSTREAM** (at 4-HPPD) so the toxic downstream metabolites are never formed — plus a **low tyrosine and phenylalanine diet**. A beautiful example of therapeutic pathway logic.
 - **Type II:** **painful palmoplantar hyperkeratosis and dendritic corneal ULCERS** (tyrosine crystals) with intellectual disability — treated by dietary restriction alone.
 - **Related tyrosine pathway disorders:** **alkaptonuria** (homogentisate oxidase — **urine darkens on standing, ochronosis, arthritis**), **albinism** (tyrosinase), **PKU** (phenylalanine hydroxylase or **BH4** — musty odour, treat with a low-phenylalanine diet and **avoid aspartame**).
@@ -1269,18 +1269,18 @@
 
 **PEARL:** A defect in the **dibasic amino acid transporter of the proximal tubule and gut** → urinary loss of **Cystine, Ornithine, Lysine, Arginine (COLA)**. **Only CYSTINE is insoluble**, so only **cystine stones** form.
 
-**UNDERSTAND:** All four amino acids are lost, but the clinical disease is entirely due to solubility. Cystine's solubility is **~250 mg/L at pH 7** and rises steeply above **pH 7.5** — which is why the whole of medical management is **dilution and alkalinisation**.
+**UNDERSTAND:** All four amino acids are lost, but the clinical disease is entirely due to solubility. Cystine’s solubility is **~250 mg/L at pH 7** and rises steeply above **pH 7.5** — which is why the whole of medical management is **dilution and alkalinisation**.
 
 **MUST KNOW:**
 
 - **Autosomal recessive** (SLC3A1/SLC7A9); **cystine stones account for only 1–2% of all stones but a much higher proportion of PAEDIATRIC stones** — a recurrent-stone-former in childhood should be screened.
-- **Crystals: flat, HEXAGONAL, translucent** — pathognomonic on urine microscopy. **Stones are FAINTLY RADIO-OPAQUE ("ground glass") because of the sulphur** — they are visible on X-ray but poorly, and they are **hard and resistant to lithotripsy**.
+- **Crystals: flat, HEXAGONAL, translucent** — pathognomonic on urine microscopy. **Stones are FAINTLY RADIO-OPAQUE (“ground glass”) because of the sulphur** — they are visible on X-ray but poorly, and they are **hard and resistant to lithotripsy**.
 - **Screening test: sodium cyanide–nitroprusside test** (positive above ~75 mg/L).
 - **Treatment ladder:** **high fluid intake (>3 L/day, including at night) → urinary alkalinisation to pH >7.5 with potassium citrate → low sodium and moderate protein diet → chelation with penicillamine or tiopronin (α-MPG)** if these fail. **Captopril** is a third-line option.
 - **Do not confuse with CYSTINOSIS** — a lysosomal transport defect causing cystine crystal accumulation in **tissues**, with **renal Fanconi syndrome** and corneal crystals; treated with **cysteamine**.
 - **Histidine is not part of COLA** — it is not a dibasic amino acid handled by this transporter.
 
-**EXAM CONNECTION:** Hexagonal crystal image + "which is NOT seen in the urine?" → **histidine**.
+**EXAM CONNECTION:** Hexagonal crystal image + “which is NOT seen in the urine?” → **histidine**.
 
 **REMEMBER:** *COLA is lost, but only Cystine precipitates — so dilute it and alkalinise it.*
 
@@ -1299,13 +1299,13 @@
 
 **MUST KNOW:**
 
-- **Homocystinuria vs MARFAN — the exam's favourite discrimination:** both are tall with **arachnodactyly and ectopia lentis**. But homocystinuria has **DOWNWARD and inward lens dislocation**, **intellectual disability**, **THROMBOEMBOLISM** (the main cause of death), osteoporosis, and is **autosomal recessive**. **Marfan: UPWARD and outward lens dislocation, normal intellect, AORTIC ROOT DILATATION and dissection, autosomal dominant (FBN1).**
+- **Homocystinuria vs MARFAN — the exam’s favourite discrimination:** both are tall with **arachnodactyly and ectopia lentis**. But homocystinuria has **DOWNWARD and inward lens dislocation**, **intellectual disability**, **THROMBOEMBOLISM** (the main cause of death), osteoporosis, and is **autosomal recessive**. **Marfan: UPWARD and outward lens dislocation, normal intellect, AORTIC ROOT DILATATION and dissection, autosomal dominant (FBN1).**
 - **Treatment:** **high-dose pyridoxine (B6)** — about **50% are responsive**; plus **low-methionine diet, cysteine supplementation, and BETAINE** (which remethylates homocysteine back to methionine by an alternative route), and folate/B12.
 - **Homocysteine is thrombogenic** — it damages endothelium and activates factor V; this is why these children have strokes and DVTs.
 - Other causes of hyperhomocysteinaemia: **B12, folate and B6 deficiency**, and the **MTHFR** polymorphism.
-- **Cystathionine β-synthase requires B6; methionine synthase requires B12 and folate** — a clean way to keep the pathway's vitamin dependencies straight.
+- **Cystathionine β-synthase requires B6; methionine synthase requires B12 and folate** — a clean way to keep the pathway’s vitamin dependencies straight.
 
-**EXAM CONNECTION:** Marfanoid habitus + dislocated lens + the named enzyme → "which amino acid to supplement?" → **cysteine**.
+**EXAM CONNECTION:** Marfanoid habitus + dislocated lens + the named enzyme → “which amino acid to supplement?” → **cysteine**.
 
 **ALSO KNOW:** Add **folate and B12** — they drive the alternative remethylation route. Type II homocystinuria = defective **methylcobalamin** formation; **MTHFR deficiency** is another remethylation cause — these have **low or normal methionine**, unlike classic CBS deficiency where **methionine is high**.
 
@@ -1333,9 +1333,9 @@
 - **Suspect a urea cycle defect** in a neonate who is well for 24–48 hours, then develops **vomiting, lethargy, seizures, hyperammonaemia and a RESPIRATORY ALKALOSIS with a NORMAL anion gap** (ammonia stimulates the respiratory centre). **Respiratory alkalosis in an encephalopathic neonate is the giveaway** — organic acidaemias give a metabolic **acidosis** instead.
 - **OTC deficiency is the commonest and is X-linked**, with **raised orotic acid and a low BUN**.
 
-**EXAM CONNECTION:** "Which amino acid provides phenylbutyrate('s conjugation partner)?" → **glutamate** (via glutamine).
+**EXAM CONNECTION:** “Which amino acid provides phenylbutyrate(’s conjugation partner)?” → **glutamate** (via glutamine).
 
-**ALSO KNOW:** In a urea cycle defect the problem is not that nitrogen is being made too fast, but that its only exit — urea — is closed. So the treatment is to build a **new exit**: attach the nitrogen to a molecule the kidney can excrete. Benzoate removes **one nitrogen per molecule** (via glycine); phenylacetate removes **two** (glutamine carries two nitrogen atoms), which is why phenylbutyrate is the more efficient scavenger. Both are called **nitrogen scavengers** for exactly this reason. **Urea cycle:** CPS-1 (mitochondria, activated by **N-acetylglutamate**) → OTC → argininosuccinate synthase → argininosuccinate lyase → arginase. **Ornithine transcarbamylase (OTC) deficiency is the commonest and the only X-LINKED one**; all others are autosomal recessive. **OTC deficiency: high ammonia, LOW/normal citrulline, and HIGH urinary OROTIC ACID** (carbamoyl phosphate spills into pyrimidine synthesis) with **no acidosis**. Contrast **CPS-1 deficiency** — low citrulline, **low/normal orotic acid**. Presentation: a previously well **neonate** who, after starting protein feeds, becomes lethargic, vomits, hyperventilates (**respiratory ALKALOSIS from ammonia stimulating the respiratory centre — a key discriminator from organic acidaemias, which cause metabolic ACIDOSIS with high anion gap**), then seizures, coma and cerebral oedema. Long term: protein-restricted diet, oral scavengers, arginine/citrulline supplementation; **liver transplantation is curative**. **Ammonia is neurotoxic** because it depletes **α-ketoglutarate** (TCA cycle arrest) and generates **glutamine, an osmolyte that swells astrocytes** → cerebral oedema. *Benzoate takes glycine's nitrogen out as hippurate — a side door when urea is shut.*
+**ALSO KNOW:** In a urea cycle defect the problem is not that nitrogen is being made too fast, but that its only exit — urea — is closed. So the treatment is to build a **new exit**: attach the nitrogen to a molecule the kidney can excrete. Benzoate removes **one nitrogen per molecule** (via glycine); phenylacetate removes **two** (glutamine carries two nitrogen atoms), which is why phenylbutyrate is the more efficient scavenger. Both are called **nitrogen scavengers** for exactly this reason. **Urea cycle:** CPS-1 (mitochondria, activated by **N-acetylglutamate**) → OTC → argininosuccinate synthase → argininosuccinate lyase → arginase. **Ornithine transcarbamylase (OTC) deficiency is the commonest and the only X-LINKED one**; all others are autosomal recessive. **OTC deficiency: high ammonia, LOW/normal citrulline, and HIGH urinary OROTIC ACID** (carbamoyl phosphate spills into pyrimidine synthesis) with **no acidosis**. Contrast **CPS-1 deficiency** — low citrulline, **low/normal orotic acid**. Presentation: a previously well **neonate** who, after starting protein feeds, becomes lethargic, vomits, hyperventilates (**respiratory ALKALOSIS from ammonia stimulating the respiratory centre — a key discriminator from organic acidaemias, which cause metabolic ACIDOSIS with high anion gap**), then seizures, coma and cerebral oedema. Long term: protein-restricted diet, oral scavengers, arginine/citrulline supplementation; **liver transplantation is curative**. **Ammonia is neurotoxic** because it depletes **α-ketoglutarate** (TCA cycle arrest) and generates **glutamine, an osmolyte that swells astrocytes** → cerebral oedema. *Benzoate takes glycine’s nitrogen out as hippurate — a side door when urea is shut.*
 
 **REMEMBER:** *Benzoate takes glycine (1 N); phenylacetate takes glutamine (2 N) — both walk nitrogen out past the urea cycle.*
 
@@ -1347,7 +1347,7 @@
 
 **PEARL:** **Creatine is NOT a neurotransmitter.** It is synthesised from **glycine + arginine (→ guanidoacetate, in kidney) then methylated by SAM (in liver)**, and stored in muscle as **creatine phosphate**.
 
-**UNDERSTAND:** Creatine phosphate is the muscle's **immediate energy buffer** — it regenerates ATP in the first seconds of contraction via **creatine kinase (the Lohmann reaction)**, before glycolysis and oxidative phosphorylation catch up.
+**UNDERSTAND:** Creatine phosphate is the muscle’s **immediate energy buffer** — it regenerates ATP in the first seconds of contraction via **creatine kinase (the Lohmann reaction)**, before glycolysis and oxidative phosphorylation catch up.
 
 **MUST KNOW:**
 
@@ -1357,7 +1357,7 @@
 - **Serum creatinine depends on MUSCLE MASS** — so it is misleadingly low in the **elderly, cachectic, cirrhotic and in women**, hiding significant renal impairment. Use **eGFR equations** or **cystatin C**.
 - **Creatine kinase isoenzymes: CK-MM (muscle), CK-MB (myocardium), CK-BB (brain)**.
 
-**EXAM CONNECTION:** "Which is NOT a neurotransmitter derived from amino acids?" → **creatine**.
+**EXAM CONNECTION:** “Which is NOT a neurotransmitter derived from amino acids?” → **creatine**.
 
 **REMEMBER:** *Creatine is a battery, not a messenger — glycine + arginine + SAM.*
 
@@ -1379,7 +1379,7 @@
 - **False positives for urinary 5-HIAA:** bananas, pineapple, avocado, walnuts, tomatoes, kiwi, and drugs (paracetamol, guaifenesin) — the patient must avoid these for 48 hours. **Chromogranin A** is the other key marker.
 - **Treatment: octreotide** (somatostatin analogue) for symptoms and carcinoid crisis; **telotristat** blocks tryptophan hydroxylase.
 
-**EXAM CONNECTION:** "Which enzyme produces the excreted metabolite?" → **monoamine oxidase**.
+**EXAM CONNECTION:** “Which enzyme produces the excreted metabolite?” → **monoamine oxidase**.
 
 **REMEMBER:** *MAO makes 5-HIAA. Carcinoid steals tryptophan — so look for pellagra and right-heart valves.*
 
@@ -1404,7 +1404,7 @@
 - **There is no specific treatment** — the damage is irreversible, so prevention is everything.
 - **OSTEOlathyrism is a different entity** — caused by **β-aminopropionitrile (BAPN)** from *Lathyrus odoratus*, which **inhibits LYSYL OXIDASE**, giving skeletal deformity and connective tissue weakness (compare with **copper deficiency/Menkes**, same enzyme).
 
-**EXAM CONNECTION:** "Amino acid implicated in neurolathyrism" → **homoarginine** (β-ODAP is the other correct answer when offered).
+**EXAM CONNECTION:** “Amino acid implicated in neurolathyrism” → **homoarginine** (β-ODAP is the other correct answer when offered).
 
 **REMEMBER:** *Khesari dal → β-ODAP → excitotoxic spastic paraplegia, motor only. Osteolathyrism is BAPN and lysyl oxidase.*
 
@@ -1420,15 +1420,15 @@
 
 **MUST KNOW:**
 
-- **This is why BH4 deficiency causes "MALIGNANT PKU" (~2% of hyperphenylalaninaemia).** A **low-phenylalanine diet alone does NOT work**, because tyrosine and tryptophan hydroxylation also fail — so **dopamine and serotonin cannot be made**. These children need **BH4 plus L-DOPA and 5-hydroxytryptophan**. Every newborn with a raised phenylalanine must be screened for a BH4 defect.
+- **This is why BH4 deficiency causes “MALIGNANT PKU” (~2% of hyperphenylalaninaemia).** A **low-phenylalanine diet alone does NOT work**, because tyrosine and tryptophan hydroxylation also fail — so **dopamine and serotonin cannot be made**. These children need **BH4 plus L-DOPA and 5-hydroxytryptophan**. Every newborn with a raised phenylalanine must be screened for a BH4 defect.
 - **SAPROPTERIN dihydrochloride is synthetic BH4** — used both for BH4-deficient PKU and for the ~20–30% of classical PKU patients who are **BH4-responsive**.
 - **BH4 uncoupling of nitric oxide synthase** (when BH4 is oxidised) makes NOS produce **superoxide instead of NO** — a mechanism of endothelial dysfunction in diabetes, hypertension and atherosclerosis.
 - **Tyrosine hydroxylase is the rate-limiting enzyme of CATECHOLAMINE synthesis**; **tryptophan hydroxylase is rate-limiting for SEROTONIN.**
 - **Homogentisate oxidase** — the alkaptonuria enzyme — is a **dioxygenase using iron**, not BH4.
 
-**EXAM CONNECTION:** "BH4 is a coenzyme for all EXCEPT" → **homogentisate oxidase**.
+**EXAM CONNECTION:** “BH4 is a coenzyme for all EXCEPT” → **homogentisate oxidase**.
 
-**ALSO KNOW:** **Malignant PKU** = BH4 deficiency (dihydropteridine reductase or BH4 synthesis defect) → **dietary phenylalanine restriction alone fails**, because dopamine and serotonin synthesis are also blocked → give **BH4 + L-DOPA + 5-HTP**. Sapropterin (BH4) also helps some classic PKU patients. *BH4 = 3 hydroxylases + NOS; if restricting phenylalanine doesn't work, suspect BH4.*
+**ALSO KNOW:** **Malignant PKU** = BH4 deficiency (dihydropteridine reductase or BH4 synthesis defect) → **dietary phenylalanine restriction alone fails**, because dopamine and serotonin synthesis are also blocked → give **BH4 + L-DOPA + 5-HTP**. Sapropterin (BH4) also helps some classic PKU patients. *BH4 = 3 hydroxylases + NOS; if restricting phenylalanine doesn’t work, suspect BH4.*
 
 **REMEMBER:** *BH4 hydroxylates the three aromatic amino acids and makes NO — lose it and you get malignant PKU.*
 
@@ -1444,7 +1444,7 @@
 
 **MUST KNOW:**
 
-- **Classic neonatal presentation:** well for a few days, then **poor feeding, vomiting, lethargy**, then the striking **alternating hypertonia and hypotonia — "boxing and bicycling" movements**, opisthotonus, seizures, coma and **cerebral oedema**.
+- **Classic neonatal presentation:** well for a few days, then **poor feeding, vomiting, lethargy**, then the striking **alternating hypertonia and hypotonia — “boxing and bicycling” movements**, opisthotonus, seizures, coma and **cerebral oedema**.
 - **The hypoglycaemia, if present, is NOT corrected by glucose** — a useful discriminating clue.
 - **DNPH (2,4-dinitrophenylhydrazine) test detects ketoacids** in urine — positive here; the **ferric chloride test** is the classical screen for PKU.
 - **ALLOISOLEUCINE is the most specific diagnostic marker** on plasma amino acid analysis (it is not present in other conditions).
@@ -1469,14 +1469,14 @@
 
 **MUST KNOW:**
 
-- **Clinical picture if untreated:** **intellectual disability, microcephaly, seizures, "MOUSY/musty" odour** (phenylacetate), **eczema**, and **fair skin, blond hair and blue eyes** — because **tyrosine is the precursor of melanin**.
+- **Clinical picture if untreated:** **intellectual disability, microcephaly, seizures, “MOUSY/musty” odour** (phenylacetate), **eczema**, and **fair skin, blond hair and blue eyes** — because **tyrosine is the precursor of melanin**.
 - **Newborn screening (Guthrie test) is done AFTER 48–72 hours of protein feeding** — sampling too early gives a false negative.
-- **Diet must be started within the first weeks of life** and is now recommended **"for life"** — relaxing it in adulthood causes cognitive and psychiatric decline.
+- **Diet must be started within the first weeks of life** and is now recommended **“for life”** — relaxing it in adulthood causes cognitive and psychiatric decline.
 - **MATERNAL PKU is a distinct and vital concept:** a well-treated PKU mother who relaxes her diet exposes the fetus to high phenylalanine, causing **microcephaly, intellectual disability, congenital heart disease and IUGR — in a fetus that does not itself have PKU**. Strict control must begin **before conception**.
 - **Avoid ASPARTAME** — it is hydrolysed to phenylalanine.
 - **Always exclude BH4 deficiency** in any raised phenylalanine (see the BH4 pearl).
 
-**EXAM CONNECTION:** Multi-select on management — the wrong option is always **"tyrosine restriction"** (it is supplementation), and **taliglucerase** (that is for Gaucher).
+**EXAM CONNECTION:** Multi-select on management — the wrong option is always **“tyrosine restriction”** (it is supplementation), and **taliglucerase** (that is for Gaucher).
 
 **REMEMBER:** *Restrict phenylalanine, SUPPLEMENT tyrosine — and treat the mother before she conceives.*
 
@@ -1498,7 +1498,7 @@
 - **Two amino acids do NOT undergo transamination: LYSINE and THREONINE.**
 - **Glutaminase** (a different enzyme) hydrolyses glutamine to glutamate + ammonia — important in the **kidney**, where it is upregulated in acidosis to excrete NH4⁺.
 
-**EXAM CONNECTION:** "Enzyme involved in oxidative deamination" → **glutamate dehydrogenase**.
+**EXAM CONNECTION:** “Enzyme involved in oxidative deamination” → **glutamate dehydrogenase**.
 
 **REMEMBER:** *Transaminases pass the nitrogen around; only glutamate dehydrogenase sets it free.*
 
@@ -1519,11 +1519,11 @@
 
 - **AGT is a peroxisomal, pyridoxine (B6)-dependent enzyme** — so **high-dose PYRIDOXINE benefits a subset (about a third) of type I patients**, and a trial is mandatory. Also: **high fluid intake, citrate, and neutral phosphate**.
 - **Definitive treatment is COMBINED LIVER–KIDNEY transplantation** — the liver must be replaced because that is where the missing enzyme belongs; a kidney alone would simply be destroyed again. **Lumasiran (an siRNA)** now reduces oxalate production.
-- **Secondary (far commoner) causes of hyperoxaluria:** **ENTERIC hyperoxaluria** after ileal resection/Crohn's or bariatric surgery (unabsorbed fat binds calcium, leaving oxalate free to be absorbed — treat with **calcium supplements WITH meals** and a low-fat, low-oxalate diet), **ethylene glycol poisoning**, and excess vitamin C.
-- **Calcium oxalate is the commonest urinary stone overall**; crystals are **"envelope-shaped" (dihydrate) or dumb-bell (monohydrate)**.
+- **Secondary (far commoner) causes of hyperoxaluria:** **ENTERIC hyperoxaluria** after ileal resection/Crohn’s or bariatric surgery (unabsorbed fat binds calcium, leaving oxalate free to be absorbed — treat with **calcium supplements WITH meals** and a low-fat, low-oxalate diet), **ethylene glycol poisoning**, and excess vitamin C.
+- **Calcium oxalate is the commonest urinary stone overall**; crystals are **“envelope-shaped” (dihydrate) or dumb-bell (monohydrate)**.
 - **Ethylene glycol poisoning** produces oxalate crystals, a **high anion-gap metabolic acidosis with an osmolar gap** and **HYPOcalcaemia** — treated with **fomepizole**.
 
-**EXAM CONNECTION:** "Primary hyperoxaluria is a defect in the metabolism of" → **glycine**.
+**EXAM CONNECTION:** “Primary hyperoxaluria is a defect in the metabolism of” → **glycine**.
 
 **REMEMBER:** *Glycine → glyoxylate → oxalate. Fix the liver, not just the kidney.*
 
@@ -1539,11 +1539,11 @@
 
 **MUST KNOW:**
 
-- **Autosomal recessive; the first human disease shown to follow Mendelian inheritance (Garrod's "inborn error of metabolism", 1902).**
+- **Autosomal recessive; the first human disease shown to follow Mendelian inheritance (Garrod’s “inborn error of metabolism”, 1902).**
 - Clinical course: **dark urine from infancy → ochronotic pigmentation of sclerae and ear cartilage in the third decade → ochronotic arthropathy (spine first, then large joints) with disc calcification on X-ray**; also aortic valve calcification, renal and prostatic stones.
-- Urine tests: **darkens on standing/alkalinisation**; **Benedict's reagent gives a greenish-brown precipitate with a BLUE-BLACK supernatant**; **ferric chloride → transient blue-green**; homogentisic acid is a **reducing substance**, so it gives a false-positive urine "sugar".
+- Urine tests: **darkens on standing/alkalinisation**; **Benedict’s reagent gives a greenish-brown precipitate with a BLUE-BLACK supernatant**; **ferric chloride → transient blue-green**; homogentisic acid is a **reducing substance**, so it gives a false-positive urine “sugar”.
 - Treatment: mainly symptomatic; **high-dose vitamin C** (antioxidant, slows polymerisation) and protein restriction have limited effect; **nitisinone** (which blocks 4-hydroxyphenylpyruvate dioxygenase upstream) reduces homogentisic acid and is the emerging therapy.
-- **Tyrosine metabolism disorders to keep separate:** - **Tyrosinaemia type I** — fumarylacetoacetate hydrolase deficiency; **liver failure, renal Fanconi syndrome, "boiled cabbage" odour, succinylacetone in urine, hepatocellular carcinoma**; treat with **nitisinone**. - **Tyrosinaemia type II (Richner–Hanhart)** — tyrosine aminotransferase; **corneal ulcers/dendritic keratitis + palmoplantar hyperkeratosis + intellectual disability**. - **Albinism** — tyrosinase deficiency. - **Phenylketonuria** — phenylalanine hydroxylase; **musty/mousy odour, fair hair and eczema, intellectual disability**; **Guthrie test screening**, low-phenylalanine diet, and **maternal PKU causes fetal microcephaly and heart defects**.
+- **Tyrosine metabolism disorders to keep separate:** **Tyrosinaemia type I** — fumarylacetoacetate hydrolase deficiency; **liver failure, renal Fanconi syndrome, “boiled cabbage” odour, succinylacetone in urine, hepatocellular carcinoma**; treat with **nitisinone**. **Tyrosinaemia type II (Richner–Hanhart)** — tyrosine aminotransferase; **corneal ulcers/dendritic keratitis + palmoplantar hyperkeratosis + intellectual disability**. **Albinism** — tyrosinase deficiency. **Phenylketonuria** — phenylalanine hydroxylase; **musty/mousy odour, fair hair and eczema, intellectual disability**; **Guthrie test screening**, low-phenylalanine diet, and **maternal PKU causes fetal microcephaly and heart defects**.
 
 **EXAM CONNECTION:** Palmoplantar/cartilage pigmentation plus **calcified discs** is alkaptonuria; the urine reagent description is the confirming detail.
 
@@ -1568,7 +1568,7 @@
 - **B6 (pyridoxal phosphate)** is also the cofactor for **transaminases (ALT/AST), δ-ALA synthase (haem synthesis), glycogen phosphorylase, decarboxylases (GABA, dopamine, serotonin, histamine synthesis), and kynureninase**. **Isoniazid causes B6 deficiency → peripheral neuropathy and seizures** — hence prophylactic pyridoxine, which is also the antidote in INH overdose.
 - **MTHFR deficiency** raises homocysteine with a **LOW methionine**; **CBS deficiency raises both homocysteine and METHIONINE** — the discriminating pair.
 
-**EXAM CONNECTION:** "Which enzyme benefits from pyridoxine?" — the B6-dependent enzymes are **CBS and cystathionase**; the stem's answer is CBS because it is the rate-limiting step that actually lowers homocysteine.
+**EXAM CONNECTION:** “Which enzyme benefits from pyridoxine?” — the B6-dependent enzymes are **CBS and cystathionase**; the stem’s answer is CBS because it is the rate-limiting step that actually lowers homocysteine.
 
 **REMEMBER:** *B6 pushes homocysteine forward to cysteine; B12 and folate push it back to methionine.*
 
@@ -1606,7 +1606,7 @@
 
 **PEARL:** **Arginine is the semi-essential amino acid** — adults synthesise enough, but **children in growth cannot**. (Histidine is the second in most lists.)
 
-**UNDERSTAND:** Arginine is made in the **urea cycle**, but the cycle's purpose is to *dispose* of nitrogen, and most arginine made there is immediately cleaved by **arginase** to urea and ornithine. The net yield is barely enough for an adult in nitrogen balance and falls short during the **anabolic demand of growth, pregnancy, trauma and sepsis**.
+**UNDERSTAND:** Arginine is made in the **urea cycle**, but the cycle’s purpose is to *dispose* of nitrogen, and most arginine made there is immediately cleaved by **arginase** to urea and ornithine. The net yield is barely enough for an adult in nitrogen balance and falls short during the **anabolic demand of growth, pregnancy, trauma and sepsis**.
 
 **MUST KNOW:**
 
@@ -1615,7 +1615,7 @@
 - **Purely ketogenic: leucine and lysine.** Purely glucogenic: most others. **Both:** phenylalanine, tyrosine, tryptophan, isoleucine, threonine.
 - Arginine is the precursor of **nitric oxide, creatine, urea, and polyamines**.
 
-**EXAM CONNECTION:** "Semi-essential amino acid" → **arginine**. Histidine is accepted by some texts but is listed as fully essential in most standard sources — pick arginine when both appear.
+**EXAM CONNECTION:** “Semi-essential amino acid” → **arginine**. Histidine is accepted by some texts but is listed as fully essential in most standard sources — pick arginine when both appear.
 
 **REMEMBER:** *The urea cycle makes arginine but spends it immediately.*
 
@@ -1627,9 +1627,9 @@
 
 **PEARL:** **Proline, lysine, threonine, hydroxyproline.**
 
-**MUST KNOW:** Transamination needs a **free α-amino group** — proline and hydroxyproline have an **imino** group; lysine's ε-amino group and threonine's structure preclude it. **Lysine and leucine are the purely ketogenic** amino acids.
+**MUST KNOW:** Transamination needs a **free α-amino group** — proline and hydroxyproline have an **imino** group; lysine’s ε-amino group and threonine’s structure preclude it. **Lysine and leucine are the purely ketogenic** amino acids.
 
-**REMEMBER:** *"PLTH" — Proline, Lysine, Threonine, Hydroxyproline never transaminate.*
+**REMEMBER:** *“PLTH” — Proline, Lysine, Threonine, Hydroxyproline never transaminate.*
 
 ---
 
@@ -1692,7 +1692,7 @@
 - **Collagen types worth memorising:** **I — bone, skin, tendon (commonest)** · **II — cartilage, vitreous, nucleus pulposus** · **III — reticulin, granulation tissue, blood vessels, uterus** · **IV — BASEMENT MEMBRANE** (Goodpasture, Alport) · **VII — anchoring fibrils (dystrophic epidermolysis bullosa)**.
 - **Ehlers–Danlos vascular type = type III collagen defect** — arterial and bowel rupture.
 
-**EXAM CONNECTION:** "Which collagen is involved in wound healing?" → **type III**.
+**EXAM CONNECTION:** “Which collagen is involved in wound healing?” → **type III**.
 
 **REMEMBER:** *Type III builds the scaffold fast; type I makes it strong — and 80% is as good as it gets.*
 
@@ -1714,7 +1714,7 @@
 - **Insulin receptor = receptor TYROSINE KINASE** (α2β2 tetramer) → IRS-1 → PI3K/Akt (metabolic) and MAPK (growth).
 - **Hydrolysis of the disulphide bonds destroys activity entirely** — the bonds hold the two chains together.
 
-**EXAM CONNECTION:** Image of the insulin molecule → "which modification changes biological activity?" → **changes at B-chain 29–30**.
+**EXAM CONNECTION:** Image of the insulin molecule → “which modification changes biological activity?” → **changes at B-chain 29–30**.
 
 **REMEMBER:** *Break up the hexamer at B28–30 and you get fast insulin; shift the pI and you get slow insulin.*
 
@@ -1738,9 +1738,9 @@
 - **Buffering capacity is MAXIMUM when pH = pKa, NOT at the pI** — a frequently confused pair. (**Henderson–Hasselbalch: pH = pKa + log[A⁻]/[HA]**; a buffer works best within ±1 pH unit of its pKa.)
 - **Everyday example:** the curdling of milk — **casein has a pI of 4.6**, so lactic acid produced by bacteria drops the pH to that point and the protein precipitates.
 - **Isoelectric focusing** separates proteins by pI in a pH gradient — the first dimension of **2-D gel electrophoresis**, and the technique behind **HbA1c** and haemoglobin variant analysis.
-- **Clinical link:** **at physiological pH 7.4, albumin (pI ~4.7) is negatively charged** — which is why the **glomerular basement membrane's negative charge repels it**, and why loss of that charge barrier causes **selective proteinuria in minimal change disease**.
+- **Clinical link:** **at physiological pH 7.4, albumin (pI ~4.7) is negatively charged** — which is why the **glomerular basement membrane’s negative charge repels it**, and why loss of that charge barrier causes **selective proteinuria in minimal change disease**.
 
-**EXAM CONNECTION:** "Which method CANNOT be used to precipitate proteins?" → **moving pH away from the isoelectric pH**.
+**EXAM CONNECTION:** “Which method CANNOT be used to precipitate proteins?” → **moving pH away from the isoelectric pH**.
 
 **REMEMBER:** *At the pI, charge is zero, repulsion is zero, and the protein falls out.*
 
@@ -1752,7 +1752,7 @@
 
 **PEARL:** **Selenocysteine is encoded by UGA** (normally a stop codon), read through when a **SECIS element** is present in the 3′ UTR. Selenoenzymes: **GLUTATHIONE PEROXIDASE, DEIODINASE, and THIOREDOXIN REDUCTASE**.
 
-**UNDERSTAND:** All three are **redox enzymes** — selenium's chemistry makes it a better electron donor than sulphur, so evolution inserted it precisely where fast redox catalysis matters most: destroying peroxides, activating thyroid hormone, and regenerating reduced thioredoxin.
+**UNDERSTAND:** All three are **redox enzymes** — selenium’s chemistry makes it a better electron donor than sulphur, so evolution inserted it precisely where fast redox catalysis matters most: destroying peroxides, activating thyroid hormone, and regenerating reduced thioredoxin.
 
 **MUST KNOW:**
 
@@ -1775,17 +1775,17 @@
 
 **PEARL:** **Quaternary structure requires MORE THAN ONE polypeptide chain.** **MYOGLOBIN is a single chain — so it has NO quaternary structure**, stopping at tertiary. Haemoglobin (α2β2), immunoglobulin (2 heavy + 2 light) and collagen (triple helix) all have one.
 
-**UNDERSTAND:** The functional consequence is the whole point of the myoglobin–haemoglobin comparison. **Cooperativity requires subunits talking to each other** — so **haemoglobin has a SIGMOID dissociation curve** (allosteric, cooperative, responsive to 2,3-BPG, pH and CO2), while **myoglobin's is a HYPERBOLA** with high affinity, ideal for **storing** oxygen in muscle rather than delivering it.
+**UNDERSTAND:** The functional consequence is the whole point of the myoglobin–haemoglobin comparison. **Cooperativity requires subunits talking to each other** — so **haemoglobin has a SIGMOID dissociation curve** (allosteric, cooperative, responsive to 2,3-BPG, pH and CO2), while **myoglobin’s is a HYPERBOLA** with high affinity, ideal for **storing** oxygen in muscle rather than delivering it.
 
 **MUST KNOW:**
 
 - **Primary** — amino acid sequence (peptide bonds). **Secondary** — α-helix and β-pleated sheet, held by **hydrogen bonds**. **Tertiary** — 3-D folding, held by **hydrophobic interactions (the main force), disulphide bonds, ionic and hydrogen bonds**. **Quaternary** — assembly of subunits.
 - **Denaturation destroys secondary/tertiary/quaternary structure but leaves the PRIMARY structure intact** — hence a denatured protein loses function but keeps its sequence.
 - **β-pleated sheet is the structure of AMYLOID** — the **β-pleated sheet configuration is what gives apple-green birefringence under polarised light with Congo red**, regardless of which protein formed it.
-- **Collagen's triple helix is unique** — three left-handed helices wound into a right-handed superhelix, with **glycine at every third residue** (the only residue small enough for the core), plus **hydroxyproline and hydroxylysine**.
+- **Collagen’s triple helix is unique** — three left-handed helices wound into a right-handed superhelix, with **glycine at every third residue** (the only residue small enough for the core), plus **hydroxyproline and hydroxylysine**.
 - **Proline breaks α-helices** (no amide hydrogen and a rigid ring); glycine allows tight turns.
 
-**EXAM CONNECTION:** "Which protein CANNOT have quaternary structure?" → **myoglobin**.
+**EXAM CONNECTION:** “Which protein CANNOT have quaternary structure?” → **myoglobin**.
 
 **REMEMBER:** *One chain, no quaternary — and no cooperativity, which is why myoglobin stores and haemoglobin delivers.*
 
@@ -1801,14 +1801,14 @@
 
 **MUST KNOW:**
 
-- **DYSTROPHIN deficiency = DUCHENNE muscular dystrophy** (X-linked, frameshift/deletion → **absent** protein): onset by 3–5 years, **calf pseudohypertrophy, GOWERS' SIGN, waddling gait**, markedly **raised CK**, cardiomyopathy, wheelchair by ~12. **BECKER** = in-frame mutation → **truncated but partly functional** protein, milder and later. Dystrophin mutations also cause **X-linked dilated cardiomyopathy**.
+- **DYSTROPHIN deficiency = DUCHENNE muscular dystrophy** (X-linked, frameshift/deletion → **absent** protein): onset by 3–5 years, **calf pseudohypertrophy, GOWERS’ SIGN, waddling gait**, markedly **raised CK**, cardiomyopathy, wheelchair by ~12. **BECKER** = in-frame mutation → **truncated but partly functional** protein, milder and later. Dystrophin mutations also cause **X-linked dilated cardiomyopathy**.
 - **Titin (TTN) truncating mutations are the commonest genetic cause of DILATED CARDIOMYOPATHY**.
 - **Desmin** mutations cause **desminopathy/myofibrillar myopathy** with cardiac conduction disease; desmin is also the **immunohistochemical marker of muscle differentiation** (rhabdomyosarcoma, leiomyosarcoma).
 - **Nebulin** mutations cause **nemaline myopathy**.
 - **Calcineurin** is a **calmodulin-regulated protein phosphatase** — the target of **ciclosporin and tacrolimus**, and a mediator of **cardiac hypertrophy**.
 - **Sarcomere anatomy:** **A band (constant length, myosin) · I band and H zone shorten on contraction · Z line to Z line = one sarcomere · titin runs Z line to M line.**
 
-**EXAM CONNECTION:** Straight protein ↔ function matching; α-actinin for "stabilises actin".
+**EXAM CONNECTION:** Straight protein ↔ function matching; α-actinin for “stabilises actin”.
 
 **REMEMBER:** *Titin is the spring, nebulin the ruler, α-actinin the anchor, dystrophin the tether that fails in Duchenne.*
 
@@ -1818,7 +1818,7 @@
 
 ### 83. Colour Reactions for Amino Acids
 
-**PEARL:** **Pauly's test → imidazole ring → HISTIDINE** (red with diazotised sulfanilic acid). It also gives an **orange** colour with tyrosine's phenol group.
+**PEARL:** **Pauly’s test → imidazole ring → HISTIDINE** (red with diazotised sulfanilic acid). It also gives an **orange** colour with tyrosine’s phenol group.
 
 **UNDERSTAND:** Every one of these tests detects a **specific chemical group, not a whole molecule**. Learn the group and the amino acid follows automatically — the indole ring can only be tryptophan, the guanidino group can only be arginine.
 
@@ -1827,14 +1827,14 @@
 - **Ninhydrin** → all **α-amino acids** (purple; proline gives yellow).
 - **Biuret** → **two or more peptide bonds** (violet) — hence detects protein, not free amino acids.
 - **Xanthoproteic** → **benzene ring** of aromatic amino acids (yellow with nitric acid).
-- **Millon's / Folin–Ciocalteu** → **phenol group → tyrosine**.
+- **Millon’s / Folin–Ciocalteu** → **phenol group → tyrosine**.
 - **Hopkins–Cole** → **indole ring → tryptophan**.
 - **Sakaguchi** → **guanidino group → arginine**.
 - **Nitroprusside / sulfur (lead acetate) test** → **sulfhydryl → cysteine**.
-- **Pauly's** → **imidazole → histidine**.
-- Clinical anchor: **benign histidinaemia** (histidase deficiency) is the "harmless inborn error" in the stem.
+- **Pauly’s** → **imidazole → histidine**.
+- Clinical anchor: **benign histidinaemia** (histidase deficiency) is the “harmless inborn error” in the stem.
 
-**EXAM CONNECTION:** Pure matching. Pauly's/histidine and Sakaguchi/arginine are the two most frequently asked.
+**EXAM CONNECTION:** Pure matching. Pauly’s/histidine and Sakaguchi/arginine are the two most frequently asked.
 
 **REMEMBER:** *Pauly points to the imidazole.*
 
@@ -1882,15 +1882,15 @@
 
 **MUST KNOW:**
 
-- **Clinical tetrad:** **hyperuricaemia with gout and orange "sand" (urate crystals) in the nappy**, **dystonia/choreoathetosis**, **spasticity with intellectual disability**, and the pathognomonic **compulsive SELF-MUTILATION** (biting lips and fingers) — which is a compulsion, not insensitivity to pain.
+- **Clinical tetrad:** **hyperuricaemia with gout and orange “sand” (urate crystals) in the nappy**, **dystonia/choreoathetosis**, **spasticity with intellectual disability**, and the pathognomonic **compulsive SELF-MUTILATION** (biting lips and fingers) — which is a compulsion, not insensitivity to pain.
 - **The basal ganglia depend heavily on the salvage pathway** and have low de novo capacity — hence the movement disorder. There is also striatal **dopamine depletion**.
 - **Allopurinol treats the urate and prevents nephropathy and gout — but does NOTHING for the neurological disease.** That dissociation is the most important therapeutic point, and proves the neurology is not urate-mediated.
 - **Partial HGPRT deficiency = Kelley–Seegmiller syndrome** — gout and urate stones, with little or no neurological disease.
 - **Contrast with adenosine deaminase (ADA) deficiency** — the other classic purine enzyme defect, causing **SCID**.
 
-**EXAM CONNECTION:** "What is responsible for the neurological features?" → **increased PRPP** (allopurinol/xanthine oxidase inhibition is the distractor).
+**EXAM CONNECTION:** “What is responsible for the neurological features?” → **increased PRPP** (allopurinol/xanthine oxidase inhibition is the distractor).
 
-**REMEMBER:** *No salvage → PRPP piles up → de novo runs wild → urate. But the brain's problem is the lost salvage itself.*
+**REMEMBER:** *No salvage → PRPP piles up → de novo runs wild → urate. But the brain’s problem is the lost salvage itself.*
 
 `Q9532`
 
@@ -1904,13 +1904,13 @@
 
 **MUST KNOW:**
 
-- **Two distinct mechanisms raise urate — memorise the split.** **(a) Overproduction:** Lesch–Nyhan (PRPP excess), PRPP synthetase overactivity, myeloproliferative disease and **tumour lysis syndrome**, high purine diet. **(b) Underexcretion:** **lactic acidosis and ketoacidosis** (organic anions compete for the renal urate transporter), **alcohol**, **thiazide and loop diuretics**, low-dose aspirin, ciclosporin, renal failure, lead ("saturnine gout").
+- **Two distinct mechanisms raise urate — memorise the split.** **(a) Overproduction:** Lesch–Nyhan (PRPP excess), PRPP synthetase overactivity, myeloproliferative disease and **tumour lysis syndrome**, high purine diet. **(b) Underexcretion:** **lactic acidosis and ketoacidosis** (organic anions compete for the renal urate transporter), **alcohol**, **thiazide and loop diuretics**, low-dose aspirin, ciclosporin, renal failure, lead (“saturnine gout”).
 - **Von Gierke and fructose intolerance raise urate BY BOTH ROUTES** — lactate accumulation blocks excretion, and **ATP depletion/phosphate trapping accelerates purine degradation**. **Fructose is the only sugar that traps inorganic phosphate**, which is why fructose and sucrose-rich diets (and high-fructose corn syrup) raise urate.
 - **Hereditary fructose intolerance (aldolase B):** vomiting and **profound hypoglycaemia after fructose/sucrose ingestion** — because **fructose-1-phosphate inhibits glycogen phosphorylase and aldolase**; children develop a protective **aversion to sweets** and have **excellent dentition**. Treat by excluding fructose, sucrose and sorbitol.
 - **Essential fructosuria (fructokinase) is entirely BENIGN** — the key contrast.
 - **Tumour lysis syndrome:** hyperuricaemia, **hyperkalaemia, hyperphosphataemia, hypocalcaemia** → prevent with hydration and **rasburicase** (urate oxidase — contraindicated in G6PD deficiency).
 
-**EXAM CONNECTION:** "All could cause raised uric acid EXCEPT" → **xanthine oxidase deficiency**.
+**EXAM CONNECTION:** “All could cause raised uric acid EXCEPT” → **xanthine oxidase deficiency**.
 
 **REMEMBER:** *Xanthine oxidase makes urate — so losing it lowers urate. Fructose and lactate raise it.*
 
@@ -1926,7 +1926,7 @@
 
 **MUST KNOW:**
 
-- **Purine synthesis builds the ring ON the ribose** ("**start with the sugar**"); **pyrimidine synthesis builds the ring FIRST and attaches the sugar later** — the single most useful contrast between the two pathways.
+- **Purine synthesis builds the ring ON the ribose** (“**start with the sugar**”); **pyrimidine synthesis builds the ring FIRST and attaches the sugar later** — the single most useful contrast between the two pathways.
 - **Purine ring atoms come from: glycine (the whole C-N-C backbone), aspartate, glutamine ×2, CO2, and N10-formyl-THF ×2** — so **folate antagonists block purine synthesis**.
 - **Pyrimidine synthesis: rate-limiting enzyme CPS-II (cytosolic, uses glutamine)** — distinguish from **CPS-I (mitochondrial, uses ammonia, urea cycle)**. **Orotic aciduria** results from a defect in UMP synthase → **megaloblastic anaemia unresponsive to B12/folate, treated with URIDINE**.
 - **Drugs acting here:** **methotrexate (DHFR)**, **6-mercaptopurine and azathioprine** (inhibit PRPP amidotransferase; metabolised by **xanthine oxidase — so allopurinol dangerously potentiates them**, and by **TPMT — whose deficiency causes severe myelosuppression**), **mycophenolate (IMP dehydrogenase)**, **hydroxyurea (ribonucleotide reductase)**, **5-FU (thymidylate synthase)**.
@@ -1948,14 +1948,14 @@
 
 **MUST KNOW:**
 
-- **SCID = defects in BOTH humoral and cell-mediated immunity** → **severe, recurrent infections from the first months of life** with **Candida, *Pneumocystis jirovecii*, CMV, RSV, Pseudomonas** and other opportunists, plus **chronic diarrhoea and failure to thrive**. The "**bubble boy**" disease.
+- **SCID = defects in BOTH humoral and cell-mediated immunity** → **severe, recurrent infections from the first months of life** with **Candida, *Pneumocystis jirovecii*, CMV, RSV, Pseudomonas** and other opportunists, plus **chronic diarrhoea and failure to thrive**. The “**bubble boy**” disease.
 - **Critical management rules:** **NEVER give LIVE vaccines (BCG, OPV, rotavirus, MMR — BCG-osis is a real hazard in India, where BCG is given at birth)**; **irradiate and CMV-screen all blood products** to prevent transfusion-associated **graft-versus-host disease**.
 - **Definitive treatment is HAEMATOPOIETIC STEM CELL TRANSPLANT**, best before 3.5 months of age. **ADA-SCID was the first human disease treated with GENE THERAPY** and can also be treated with **PEG-ADA**.
 - **Other SCID genotypes:** **ADA deficiency (AR)**, **JAK3** (the γc signalling partner — an AR phenocopy of X-linked SCID), **IL-7Rα**, and **RAG1/RAG2 defects** (failure of V(D)J recombination — **Omenn syndrome** when partial).
 - **Defective non-homologous end joining (Artemis, DNA-PK, ligase IV) also causes SCID** with radiosensitivity — so that statement in the question is **true**, not the exception.
 - **Clue on investigation: LYMPHOPENIA with an ABSENT THYMIC SHADOW** on chest X-ray. **TREC (T-cell receptor excision circle) assay** is the newborn screening test.
 
-**EXAM CONNECTION:** "Which statement is INCORRECT?" → "**the X-linked form is due to adenosine deaminase deficiency**".
+**EXAM CONNECTION:** “Which statement is INCORRECT?” → “**the X-linked form is due to adenosine deaminase deficiency**”.
 
 **REMEMBER:** *X-linked SCID = common γ chain (T− B+ NK−). ADA deficiency is the recessive one, and it kills all three lineages.*
 
@@ -1982,7 +1982,7 @@
 
 **PEARL:** Synthetic, **non-hydrolyzable analogues of nucleoside triphosphates** (e.g. AMP-PNP, GTPγS) are research tools that separate the effects of **phosphoryl transfer** from effects due to mere **occupancy of allosteric nucleotide-binding sites**.
 
-**REMEMBER:** *They bind but can't be hydrolysed — so any effect must come from binding alone.*
+**REMEMBER:** *They bind but can’t be hydrolysed — so any effect must come from binding alone.*
 
 ---
 
@@ -1992,9 +1992,9 @@
 
 ### 93. The 5′ Cap of Eukaryotic mRNA
 
-**PEARL:** The **7-methylguanosine ("guanyl") cap** does three jobs: it **mediates attachment of the mRNA to the ribosome**, is **required for processing of the primary transcript**, and **protects against 5′ exonucleases**.
+**PEARL:** The **7-methylguanosine (“guanyl”) cap** does three jobs: it **mediates attachment of the mRNA to the ribosome**, is **required for processing of the primary transcript**, and **protects against 5′ exonucleases**.
 
-**UNDERSTAND:** The cap is added **co-transcriptionally**, via an unusual **5′-to-5′ triphosphate linkage** — a backwards bond that no exonuclease recognises. It is simultaneously a stability device and an identity tag saying "this is a mature mRNA, translate me".
+**UNDERSTAND:** The cap is added **co-transcriptionally**, via an unusual **5′-to-5′ triphosphate linkage** — a backwards bond that no exonuclease recognises. It is simultaneously a stability device and an identity tag saying “this is a mature mRNA, translate me”.
 
 **MUST KNOW:**
 
@@ -2004,7 +2004,7 @@
 - **Cap-snatching** by **influenza virus** steals host caps for its own mRNAs — the target of **baloxavir**.
 - **Initiation** requires **eIF4E** (the cap-binding protein) — a downstream target of **mTOR** signalling, and an oncogenic node.
 
-**EXAM CONNECTION:** "Attachment of eukaryotic mRNA to the ribosome is mediated by" → **guanyl cap** (Shine–Dalgarno is the prokaryotic distractor).
+**EXAM CONNECTION:** “Attachment of eukaryotic mRNA to the ribosome is mediated by” → **guanyl cap** (Shine–Dalgarno is the prokaryotic distractor).
 
 **REMEMBER:** *Cap = eukaryote, Shine–Dalgarno = prokaryote. The cap is a backwards bond no nuclease can chew.*
 
@@ -2016,7 +2016,7 @@
 
 **PEARL:** A substitution between amino acids of the **same chemical class** usually leaves protein function intact — e.g. **glutamine → asparagine** (both **uncharged polar**).
 
-**UNDERSTAND:** What a protein "cares about" is **charge, polarity and size at that position**. Swap in a chemically similar residue and the local folding and interactions are preserved; swap in one of a different class (nonpolar for polar, or acidic for neutral) and you may abolish a hydrogen bond, a salt bridge or the hydrophobic core.
+**UNDERSTAND:** What a protein “cares about” is **charge, polarity and size at that position**. Swap in a chemically similar residue and the local folding and interactions are preserved; swap in one of a different class (nonpolar for polar, or acidic for neutral) and you may abolish a hydrogen bond, a salt bridge or the hydrophobic core.
 
 **MUST KNOW:**
 
@@ -2025,7 +2025,7 @@
 - **Mutation nomenclature:** **silent** (same amino acid — wobble position) · **missense** (**conservative vs non-conservative**) · **nonsense** (premature stop) · **frameshift** (insertion/deletion not a multiple of 3 — usually most severe).
 - **Proline and glycine are the special cases** — proline kinks the backbone (breaks helices) and glycine allows tight turns, so substituting either is rarely tolerated (e.g. **glycine substitutions in collagen → osteogenesis imperfecta**).
 
-**EXAM CONNECTION:** "Which substitution would have NO effect on protein function?" → **glutamine replaced by asparagine**.
+**EXAM CONNECTION:** “Which substitution would have NO effect on protein function?” → **glutamine replaced by asparagine**.
 
 **REMEMBER:** *Same class, same function. Sickle cell is what happens when you change class.*
 
@@ -2045,9 +2045,9 @@
 - **Distinguish the three mechanisms:** **V(D)J recombination** (in the bone marrow, before antigen exposure — creates the *initial* diversity, uses **RAG1/RAG2**, whose deficiency causes **SCID**) · **somatic hypermutation** (after antigen, in germinal centres — improves **affinity**) · **class switching** (changes the **isotype/constant region** but not the specificity).
 - **Affinity vs avidity:** affinity = strength of a single binding site; **avidity = total binding strength** — which is why **IgM (pentameric, 10 sites) has low affinity but high avidity**, making it an excellent early agglutinator.
 - Germinal centre reactions continue for **weeks after infection or vaccination** — the biological reason **booster doses spaced further apart give better antibody quality**.
-- Germinal centre B cells are the cell of origin of **follicular lymphoma and Burkitt lymphoma**; AID's off-target activity contributes to those translocations.
+- Germinal centre B cells are the cell of origin of **follicular lymphoma and Burkitt lymphoma**; AID’s off-target activity contributes to those translocations.
 
-**EXAM CONNECTION:** "Affinity maturation is because of" → **somatic hypermutation**. Gene rearrangement (V(D)J) is the intended distractor.
+**EXAM CONNECTION:** “Affinity maturation is because of” → **somatic hypermutation**. Gene rearrangement (V(D)J) is the intended distractor.
 
 **REMEMBER:** *V(D)J makes variety before antigen; hypermutation makes quality after it.*
 
@@ -2059,17 +2059,17 @@
 
 **PEARL:** Codon–anticodon pairing obeys strict Watson–Crick rules for the **first two bases** but is **loose at the THIRD base** — which is why the genetic code is **DEGENERATE** and why fewer than 61 tRNAs are needed.
 
-**UNDERSTAND:** The **first base of the anticodon** (which pairs with the **third base of the codon**) is not held rigidly by the ribosome, so it can "wobble". **INOSINE**, in particular, can pair with **U, C or A** — letting one tRNA read three codons.
+**UNDERSTAND:** The **first base of the anticodon** (which pairs with the **third base of the codon**) is not held rigidly by the ribosome, so it can “wobble”. **INOSINE**, in particular, can pair with **U, C or A** — letting one tRNA read three codons.
 
 **MUST KNOW:**
 
 - **Properties of the genetic code:** **degenerate/redundant** (multiple codons per amino acid) but **UNAMBIGUOUS** (each codon specifies only one amino acid); **non-overlapping**; **non-punctuated** (comma-less); and **nearly universal** — the notable exception being **mitochondrial DNA**, where **UGA = tryptophan**, not stop.
 - **Only methionine (AUG) and tryptophan (UGG) have a single codon** — so they have no wobble protection. **Leucine, serine and arginine have six codons each.**
 - **Clinical consequence:** a mutation in the **third base is often SILENT** (a synonymous/wobble mutation), while first- and second-base mutations usually change the amino acid. This is why third-base positions are more variable across species.
-- **Stop codons: UAA, UAG, UGA** — "**U Are Away, U Are Gone, U Go Away**".
+- **Stop codons: UAA, UAG, UGA** — “**U Are Away, U Are Gone, U Go Away**”.
 - **Start codon AUG = methionine** (formyl-methionine in prokaryotes and mitochondria).
 
-**EXAM CONNECTION:** "Wobble hypothesis explains which property of the genetic code?" → **degeneracy**.
+**EXAM CONNECTION:** “Wobble hypothesis explains which property of the genetic code?” → **degeneracy**.
 
 **REMEMBER:** *The third base wobbles — so the code is degenerate, but never ambiguous.*
 
@@ -2095,9 +2095,9 @@
 - **Ragged red fibres** on modified Gomori trichrome = subsarcolemmal accumulation of abnormal mitochondria.
 - mtDNA is also the basis of **maternal lineage forensic identification** (useful for degraded samples, since there are many copies per cell).
 
-**EXAM CONNECTION:** Multi-statement question — the false ones are usually "encodes ALL ETC proteins" and "genetic code identical to nuclear".
+**EXAM CONNECTION:** Multi-statement question — the false ones are usually “encodes ALL ETC proteins” and “genetic code identical to nuclear”.
 
-**REMEMBER:** *Mother's line only, thousands of copies, high mutation rate — and heteroplasmy explains why siblings differ.*
+**REMEMBER:** *Mother’s line only, thousands of copies, high mutation rate — and heteroplasmy explains why siblings differ.*
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/83d6d116e37041048e4b17bb665fae6ex1280x903.PNG)
@@ -2110,17 +2110,17 @@
 
 **PEARL:** miRNA binds the **3′ UNTRANSLATED REGION** of a target mRNA → cleavage or translational repression. This is **post-transcriptional gene silencing (RNA interference)**.
 
-**UNDERSTAND:** Because pairing is only **partial** (mainly through a 6–8 nucleotide "seed" region), a **single miRNA can regulate hundreds of mRNAs**, and one mRNA can be targeted by many miRNAs. This is a network-level dimmer switch, not an on/off switch — which is why miRNAs are so central to development and cancer.
+**UNDERSTAND:** Because pairing is only **partial** (mainly through a 6–8 nucleotide “seed” region), a **single miRNA can regulate hundreds of mRNAs**, and one mRNA can be targeted by many miRNAs. This is a network-level dimmer switch, not an on/off switch — which is why miRNAs are so central to development and cancer.
 
 **MUST KNOW:**
 
 - **Pathway: miRNA gene → pri-miRNA → (DROSHA, in the nucleus) → pre-miRNA → (EXPORTIN-5) → cytoplasm → (DICER) → mature miRNA duplex → RISC (with Argonaute) → target mRNA 3′ UTR.**
 - **miRNA vs siRNA:** miRNA is **endogenous** and binds **imperfectly** (usually repressing translation, many targets); **siRNA is usually exogenous/synthetic**, binds with **perfect complementarity**, and **cleaves** one specific target. **siRNA therapeutics** are now in clinical use (e.g. **patisiran** for hereditary ATTR amyloidosis, **inclisiran** for hypercholesterolaemia).
-- **In cancer:** miRNAs act as **oncogenes ("oncomiRs", e.g. miR-155, miR-21)** or **tumour suppressors (let-7, miR-15/16 — deleted in CLL)**. **Circulating miRNA profiles** are being developed as biomarkers.
+- **In cancer:** miRNAs act as **oncogenes (“oncomiRs”, e.g. miR-155, miR-21)** or **tumour suppressors (let-7, miR-15/16 — deleted in CLL)**. **Circulating miRNA profiles** are being developed as biomarkers.
 - **Fire and Mello won the 2006 Nobel Prize** for RNA interference; the 2024 Prize went to **Ambros and Ruvkun** for microRNA discovery.
 - Roughly **60% of human protein-coding genes** are estimated to be miRNA-regulated.
 
-**EXAM CONNECTION:** "miRNA binds to which part of the mRNA?" → **3′ UTR**.
+**EXAM CONNECTION:** “miRNA binds to which part of the mRNA?” → **3′ UTR**.
 
 **REMEMBER:** *Drosha in the nucleus, Dicer in the cytoplasm, and the landing site is the 3′ UTR.*
 
@@ -2140,7 +2140,7 @@
 **MUST KNOW:**
 
 - Despite the old name, **HNPCC patients do NOT have hundreds of polyps** — they have **few polyps that progress rapidly** (the accelerated adenoma–carcinoma sequence), typically **right-sided** and at a **young age (~45)**. Contrast **FAP (APC gene)**, which has **>100 polyps**.
-- **Amsterdam II criteria — the "3-2-1 rule":** **3** affected relatives (one a first-degree relative of the other two), across **2** successive generations, with **1** diagnosed under **50**, and FAP excluded.
+- **Amsterdam II criteria — the “3-2-1 rule”:** **3** affected relatives (one a first-degree relative of the other two), across **2** successive generations, with **1** diagnosed under **50**, and FAP excluded.
 - **Extracolonic cancers:** **ENDOMETRIAL (the commonest in women — often the sentinel cancer)**, ovary, stomach, small bowel, pancreas, and **transitional cell carcinoma of the ureter and renal pelvis**. **Muir–Torre** variant adds sebaceous tumours; **Turcot** adds brain tumours.
 - **MSI-high tumours have a HIGH MUTATIONAL BURDEN and respond well to IMMUNE CHECKPOINT INHIBITORS (pembrolizumab)** — one of the most clinically important genotype–therapy links in oncology.
 - Universal **MMR immunohistochemistry / MSI testing** on all colorectal and endometrial cancers is now standard.
@@ -2167,7 +2167,7 @@
 - **Cytidine deaminase performs RNA EDITING** — converting a CAA codon to a **UAA stop** in intestinal apoB mRNA, producing **apoB-48** (intestine) from the same gene that makes **apoB-100** (liver).
 - **AID (activation-induced cytidine deaminase)** drives **somatic hypermutation and class switching** in B cells.
 
-**EXAM CONNECTION:** "Deamination of methylated cytosine forms" → **thymine**.
+**EXAM CONNECTION:** “Deamination of methylated cytosine forms” → **thymine**.
 
 **REMEMBER:** *Methylated C deaminates to T — a legal base, so the repair system never notices. That is why CpG is a hotspot.*
 
@@ -2186,10 +2186,10 @@
 - **Promoter elements:** the **TATA box (~−25)**, CAAT box, GC box; **RNA polymerase II** transcribes mRNA (and is inhibited by **α-amanitin**, the death cap toxin); **Pol I → rRNA, Pol III → tRNA**.
 - Enhancers work through **histone acetylation (HATs → open, active chromatin)** vs **deacetylation (HDACs → closed, silenced)**, and **DNA methylation of CpG islands → silencing**. These are the **epigenetic** controls — heritable changes in expression **without a change in DNA sequence**.
 - **Clinical relevance of looping:** an enhancer can be brought to the wrong gene by a translocation — **t(8;14) in Burkitt lymphoma** places **MYC** under the **immunoglobulin heavy chain enhancer**, driving constitutive expression. The same logic underlies **t(14;18) BCL2 in follicular lymphoma**.
-- **Silencers/repressors** are the mirror image; **insulators** limit an enhancer's reach.
+- **Silencers/repressors** are the mirror image; **insulators** limit an enhancer’s reach.
 - **HDAC inhibitors (vorinostat, valproate)** and **DNA methyltransferase inhibitors (azacitidine, decitabine)** are epigenetic drugs in clinical use.
 
-**EXAM CONNECTION:** "True statement about enhancers" → they **recruit chromatin and modify regulatory mechanisms**; the distractors all claim they must be close to, or upstream of, the promoter.
+**EXAM CONNECTION:** “True statement about enhancers” → they **recruit chromatin and modify regulatory mechanisms**; the distractors all claim they must be close to, or upstream of, the promoter.
 
 **REMEMBER:** *Promoters must be adjacent; enhancers can be anywhere and just loop over.*
 
@@ -2212,7 +2212,7 @@
 - **Drugs causing folate deficiency:** methotrexate, trimethoprim, phenytoin, sulfasalazine, alcohol.
 - **THF carries one-carbon units** received from **serine, glycine and histidine** (hence the **FIGLU excretion test**).
 
-**EXAM CONNECTION:** "Misincorporation of uracil into DNA is seen in deficiency of" → **folate**.
+**EXAM CONNECTION:** “Misincorporation of uracil into DNA is seen in deficiency of” → **folate**.
 
 **REMEMBER:** *No folate, no thymidine — so uracil goes in, and futile repair shreds the DNA.*
 
@@ -2234,9 +2234,9 @@
 - **Distinguish clearly: REVERSION corrects the original mutation (back mutation); SUPPRESSION leaves it in place and compensates elsewhere.**
 - **Intragenic suppression** — a second mutation within the same gene (e.g. a **+1 frameshift compensated by a −1 frameshift** downstream, restoring the reading frame in between). **Intergenic suppression** — a mutation in a different gene, classically a tRNA.
 - This is not merely academic: **read-through (nonsense-suppression) therapy** is a real drug strategy — **ataluren** for nonsense-mutation Duchenne muscular dystrophy, and **aminoglycosides** promote stop-codon read-through experimentally in **cystic fibrosis (class I mutations)**.
-- **Nonsense-mediated decay** is the cell's opposing mechanism — it destroys transcripts containing premature stop codons, and it is why many nonsense mutations produce no protein at all.
+- **Nonsense-mediated decay** is the cell’s opposing mechanism — it destroys transcripts containing premature stop codons, and it is why many nonsense mutations produce no protein at all.
 
-**EXAM CONNECTION:** "Which mutation results in reversal to wild-type phenotype when the mutant gene is suppressed?" → **mutations in tRNA**.
+**EXAM CONNECTION:** “Which mutation results in reversal to wild-type phenotype when the mutant gene is suppressed?” → **mutations in tRNA**.
 
 **REMEMBER:** *A mutant tRNA misreads the stop codon back into an amino acid — the error stays, the phenotype recovers.*
 
@@ -2260,7 +2260,7 @@
 - **Proteolytic cleavage** activates zymogens (trypsinogen, pepsinogen, clotting factors, **proinsulin → insulin + C-peptide**).
 - **hnRNA (heterogeneous nuclear RNA)** is the pool of primary transcripts; only a fraction survives processing to become mature mRNA.
 
-**EXAM CONNECTION:** "Which is NOT a post-transcriptional modification?" → **glycosylation**.
+**EXAM CONNECTION:** “Which is NOT a post-transcriptional modification?” → **glycosylation**.
 
 **REMEMBER:** *If it happens to RNA it is transcriptional; sugars go on proteins, so glycosylation is translational.*
 
@@ -2278,7 +2278,7 @@
 
 - **Worked example:** mRNA 5′-**AGUCUCA**-3′ → coding strand 5′-AGTCTCA-3′ → complement 3′-TCAGAGT-5′ → **written 5′→3′ = TGAGACT**. The trap answer is **TCAGAGT** (correct bases, unreversed).
 - **RNA polymerase reads the template 3′→5′ and synthesises mRNA 5′→3′** — the same directionality rule as DNA polymerase.
-- **Promoter/"upstream" is toward the 5′ end of the coding strand**, and numbering starts at **+1** at the transcription start site (the TATA box sits at about **−25**).
+- **Promoter/“upstream” is toward the 5′ end of the coding strand**, and numbering starts at **+1** at the transcription start site (the TATA box sits at about **−25**).
 - **DNA replication:** **leading strand continuous, lagging strand in Okazaki fragments**, joined by **DNA ligase**; **primase** lays down the RNA primer, because DNA polymerase cannot start de novo.
 
 **EXAM CONNECTION:** Given an mRNA sequence, asked for the template strand — the whole question is whether you remembered to **reverse for directionality**.
@@ -2293,17 +2293,17 @@
 
 **PEARL:** **Ricin inactivates the EUKARYOTIC 28S ribosomal RNA** (of the 60S subunit) by **cleaving off a single adenine base** — an N-glycosidase action that permanently stops elongation.
 
-**UNDERSTAND:** It is catalytic, not stoichiometric — **one ricin molecule can inactivate thousands of ribosomes**, which is why the lethal dose is measured in micrograms. This is also why it has been explored as the "warhead" of **immunotoxins**, linked to antibodies to kill tumour cells.
+**UNDERSTAND:** It is catalytic, not stoichiometric — **one ricin molecule can inactivate thousands of ribosomes**, which is why the lethal dose is measured in micrograms. This is also why it has been explored as the “warhead” of **immunotoxins**, linked to antibodies to kill tumour cells.
 
 **MUST KNOW:**
 
 - Ricin comes from the **castor bean (*Ricinus communis*)** — of note in Forensic Medicine, where the seeds are also a known abortifacient/homicidal poison; there is **no antidote**.
 - **Ribosome refresher:** **prokaryotic 70S = 50S + 30S**; **eukaryotic 80S = 60S + 40S**. This difference is the basis of antibiotic selectivity.
 - **Protein synthesis inhibitors worth pairing with this:** **DIPHTHERIA toxin and PSEUDOMONAS exotoxin A — ADP-ribosylate elongation factor eEF-2 (eukaryotic)**; **Shiga toxin and Shiga-like (verotoxin, EHEC O157:H7) — also cleave the 28S/60S subunit**, exactly like ricin, causing **haemolytic uraemic syndrome**.
-- **Antibacterial ribosome inhibitors: 30S — aminoglycosides and tetracyclines ("buy AT 30"); 50S — chloramphenicol, clindamycin, macrolides, linezolid ("CCEL at 50")**.
+- **Antibacterial ribosome inhibitors: 30S — aminoglycosides and tetracyclines (“buy AT 30”); 50S — chloramphenicol, clindamycin, macrolides, linezolid (“CCEL at 50”)**.
 - **Cycloheximide** inhibits eukaryotic ribosomes (a lab tool); **puromycin** inhibits both.
 
-**EXAM CONNECTION:** Straight recall — **28S**. The distractors offer prokaryotic subunit numbers (30S/50S) applied to "eukaryotic", which is internally contradictory.
+**EXAM CONNECTION:** Straight recall — **28S**. The distractors offer prokaryotic subunit numbers (30S/50S) applied to “eukaryotic”, which is internally contradictory.
 
 **REMEMBER:** *Ricin and Shiga toxin both attack the big eukaryotic subunit (28S); diphtheria attacks eEF-2.*
 
@@ -2319,9 +2319,9 @@
 
 **MUST KNOW:**
 
-- **Eukaryotic polymerases:** **Pol I → rRNA (nucleolus) · Pol II → mRNA (the α-amanitin target, most sensitive) · Pol III → tRNA and 5S rRNA.** ("**I, II, III → r, m, t**".)
+- **Eukaryotic polymerases:** **Pol I → rRNA (nucleolus) · Pol II → mRNA (the α-amanitin target, most sensitive) · Pol III → tRNA and 5S rRNA.** (“**I, II, III → r, m, t**”.)
 - **Amanita phalloides poisoning is a classic forensic/toxicology case:** a characteristic **delay of 6–24 hours** before symptoms (which lulls both patient and doctor), then severe **gastroenteritis**, an apparent **improvement at 24–48 h**, and then **FULMINANT HEPATIC FAILURE** at 3–5 days. Management is supportive plus **silibinin, high-dose penicillin G, N-acetylcysteine**, and **liver transplantation**.
-- The **long latent period distinguishes it from the "early-onset" mushroom poisonings** (muscarine, psilocybin, gastrointestinal irritants), which begin within 2 hours and are rarely fatal — a genuinely useful triage rule: **late onset = dangerous mushroom**.
+- The **long latent period distinguishes it from the “early-onset” mushroom poisonings** (muscarine, psilocybin, gastrointestinal irritants), which begin within 2 hours and are rarely fatal — a genuinely useful triage rule: **late onset = dangerous mushroom**.
 - **Other transcription/translation inhibitors:** **actinomycin D** (intercalates DNA, blocks RNA polymerase in both), **rifampicin** (bacterial RNA polymerase β subunit), **fluoroquinolones** (DNA gyrase/topoisomerase), **etoposide** (topoisomerase II), **irinotecan** (topoisomerase I).
 
 **EXAM CONNECTION:** Death cap mushroom vignette → **RNA polymerase**.
@@ -2346,7 +2346,7 @@
 - Translation: **initiation** (eIF2-GTP, Met-tRNAi, small subunit scanning to the AUG in Kozak context; in prokaryotes fMet and the Shine–Dalgarno sequence), **elongation** (EF1α/EF-Tu brings aa-tRNA to the **A site**, peptidyl transferase — a **ribozyme, 28S/23S rRNA** — forms the bond, EF2/EF-G translocates), **termination** at UAA/UAG/UGA by release factors.
 - Antibiotic and toxin targets: **30S — aminoglycosides (misreading), tetracyclines (block A site)**; **50S — chloramphenicol (peptidyl transferase), macrolides/clindamycin (translocation), linezolid (initiation complex)**; **diphtheria toxin and Pseudomonas exotoxin A ADP-ribosylate eEF-2**; **ricin** depurinates 28S rRNA; **shiga toxin** inactivates 60S.
 
-**EXAM CONNECTION:** The stem gives a mischarged tRNA and asks where the amino acid ends up. **The anticodon decides — the amino acid goes to the codon of the tRNA's original identity.**
+**EXAM CONNECTION:** The stem gives a mischarged tRNA and asks where the amino acid ends up. **The anticodon decides — the amino acid goes to the codon of the tRNA’s original identity.**
 
 **REMEMBER:** *The ribosome reads the address on the envelope, not the letter inside.*
 
@@ -2357,22 +2357,22 @@
 
 ---
 
-### 109. Chargaff's Rule and Single-Stranded Genomes
+### 109. Chargaff’s Rule and Single-Stranded Genomes
 
-**PEARL:** **Chargaff's rule (A = T, G = C) applies only to DOUBLE-STRANDED DNA.** In **HIV — a single-stranded RNA virus — adenine does not equal thymine** (indeed there is no thymine at all; RNA uses **uracil**).
+**PEARL:** **Chargaff’s rule (A = T, G = C) applies only to DOUBLE-STRANDED DNA.** In **HIV — a single-stranded RNA virus — adenine does not equal thymine** (indeed there is no thymine at all; RNA uses **uracil**).
 
-**UNDERSTAND:** The equality exists because every base on one strand is **hydrogen-bonded to its complement on the other**, so their totals must match. Remove the complementary strand and the constraint disappears — a single strand can have any base composition. This is why Chargaff's ratios were the crucial clue to the **double helix**: the equality itself implied pairing.
+**UNDERSTAND:** The equality exists because every base on one strand is **hydrogen-bonded to its complement on the other**, so their totals must match. Remove the complementary strand and the constraint disappears — a single strand can have any base composition. This is why Chargaff’s ratios were the crucial clue to the **double helix**: the equality itself implied pairing.
 
 **MUST KNOW:**
 
-- Chargaff's rule holds for **E. coli, human nuclear and mitochondrial DNA, and herpesviruses (dsDNA)** — all double-stranded.
+- Chargaff’s rule holds for **E. coli, human nuclear and mitochondrial DNA, and herpesviruses (dsDNA)** — all double-stranded.
 - **Exceptions to remember: ssRNA viruses (HIV, influenza, polio), ssDNA viruses (PARVOVIRUS B19), and any single-stranded nucleic acid.**
 - Base pairing: **A–T with 2 hydrogen bonds; G–C with 3** — hence **GC-rich DNA has a higher melting temperature (Tm)**.
 - **A + G (purines) = T + C (pyrimidines)** in dsDNA; the **(A+T)/(G+C) ratio is species-specific** and varies widely.
 - In RNA, **A pairs with U** in secondary structures (tRNA stems); **uracil replaces thymine** because thymine (5-methyl-uracil) is more costly to make and is reserved for DNA, where its methyl group allows **repair enzymes to recognise deaminated cytosine (which becomes uracil) as damage**.
 - Watson–Crick base pairs are **isosteric**, giving the helix a uniform diameter.
 
-**EXAM CONNECTION:** "In which organism is A ≠ T?" — pick the **single-stranded** genome. HIV (ssRNA) and parvovirus B19 (ssDNA) are the two answers ever used.
+**EXAM CONNECTION:** “In which organism is A ≠ T?” — pick the **single-stranded** genome. HIV (ssRNA) and parvovirus B19 (ssDNA) are the two answers ever used.
 
 **REMEMBER:** *No partner strand, no Chargaff.*
 
@@ -2406,7 +2406,7 @@
 
 **PEARL:** **DNA replication, transcription and DNA repair synthesis all proceed 5′→3′** (nucleotides are added to the free 3′-OH). **RNA EDITING does not** — it is a **post-transcriptional base modification at specific sites**, not a directional polymerisation.
 
-**UNDERSTAND: **The 5′→3′ rule is a consequence of the chemistry:** all polymerases catalyse attack of the growing chain's free 3′-hydroxyl on the α-phosphate of the incoming nucleoside triphosphate**, and the energy for the bond comes from the incoming nucleotide's own pyrophosphate. Extension in the 3′→5′ direction would put the energy source at the growing end, so proofreading removal of a mismatched base would strip the chain's activating group — chemically unworkable. RNA editing is a different reaction entirely: an enzyme **deaminates or inserts a base at a defined site**, so no direction applies.
+**UNDERSTAND: **The 5′→3′ rule is a consequence of the chemistry:** all polymerases catalyse attack of the growing chain’s free 3′-hydroxyl on the α-phosphate of the incoming nucleoside triphosphate**, and the energy for the bond comes from the incoming nucleotide’s own pyrophosphate. Extension in the 3′→5′ direction would put the energy source at the growing end, so proofreading removal of a mismatched base would strip the chain’s activating group — chemically unworkable. RNA editing is a different reaction entirely: an enzyme **deaminates or inserts a base at a defined site**, so no direction applies.
 
 **MUST KNOW:**
 
@@ -2416,7 +2416,7 @@
 - **Translation reads mRNA 5′→3′ and builds protein from the N-terminus to the C-terminus.**
 - **Telomerase** is a reverse transcriptase carrying its own RNA template, extending the 3′ end to solve the end-replication problem.
 
-**EXAM CONNECTION:** "Which does NOT occur 5′→3′?" — the answer is the process that is **not polymerisation at all** (RNA editing; occasionally "exonuclease proofreading" is offered).
+**EXAM CONNECTION:** “Which does NOT occur 5′→3′?” — the answer is the process that is **not polymerisation at all** (RNA editing; occasionally “exonuclease proofreading” is offered).
 
 **REMEMBER:** *Every polymerase adds to a 3′-OH — editing just rewrites a letter in place.*
 
@@ -2441,7 +2441,7 @@
 - Contrast the mechanisms: **RNA editing** changes a base; **alternative splicing** changes which exons are kept (e.g. **membrane vs secreted IgM**); **RNA interference** silences the message.
 - Apolipoprotein quick list: **apoA-I** activates **LCAT**; **apoC-II** activates **lipoprotein lipase**; **apoC-III** inhibits it; **apoE** mediates remnant uptake.
 
-**EXAM CONNECTION:** "ApoB-48 synthesis involves ___" → **RNA editing**. Alternative splicing is the distractor — it is the right answer for **IgM/IgD** and for **calcitonin/CGRP**, not for apoB.
+**EXAM CONNECTION:** “ApoB-48 synthesis involves ___” → **RNA editing**. Alternative splicing is the distractor — it is the right answer for **IgM/IgD** and for **calcitonin/CGRP**, not for apoB.
 
 **REMEMBER:** *One gene, one transcript, one edited base — 48% of a protein.*
 
@@ -2466,7 +2466,7 @@
 - **Enhancers** work at a distance and in either orientation; **promoters** must sit immediately upstream (**TATA box ~ −25**).
 - The lac operon is **polycistronic** — *z, y, a* on one mRNA. Eukaryotic mRNA is **monocistronic**.
 
-**EXAM CONNECTION:** "Protein produced by a regulatory gene" → **repressor**. All three distractors (operon, promoter, inducer) are non-protein by definition.
+**EXAM CONNECTION:** “Protein produced by a regulatory gene” → **repressor**. All three distractors (operon, promoter, inducer) are non-protein by definition.
 
 **REMEMBER:** *Only the repressor is a protein; the rest is DNA.*
 
@@ -2491,7 +2491,7 @@
 - Clinical epigenetics: **genomic imprinting** (Prader–Willi/Angelman), **X-inactivation (Barr body)**, and **tumour-suppressor silencing by promoter hypermethylation** (e.g. **MLH1** in sporadic MSI colorectal cancer, **MGMT** in glioma — MGMT methylation predicts **temozolomide response**).
 - **Euchromatin** = open, acetylated, transcriptionally active; **heterochromatin** = condensed, methylated, silent.
 
-**EXAM CONNECTION:** "Two devices eukaryotes use to regulate transcription" → **DNA methylation and histone acetylation**. Every distractor pairs the right process with the wrong molecule (DNA acetylation, histone amplification) — no such things.
+**EXAM CONNECTION:** “Two devices eukaryotes use to regulate transcription” → **DNA methylation and histone acetylation**. Every distractor pairs the right process with the wrong molecule (DNA acetylation, histone amplification) — no such things.
 
 **REMEMBER:** *Methylate the DNA to mute it; acetylate the histone to open it.*
 
@@ -2522,17 +2522,17 @@
 
 **PEARL:** **SOUTHERN = DNA · NORTHERN = RNA · WESTERN = protein.** **RT-PCR** starts from **RNA** (reverse transcriptase → cDNA); **real-time (quantitative) PCR** measures product **as it is made, cycle by cycle**.
 
-**UNDERSTAND:** "**SNoW DRoP**" — **S**outhern-**D**NA, **N**orthern-**R**NA, **W**estern-**P**rotein. Note the semantic trap in the abbreviation: **RT-PCR = REVERSE TRANSCRIPTASE PCR** (converts RNA to cDNA), while **real-time PCR = quantitative PCR (qPCR)**. They are different techniques with confusingly similar names.
+**UNDERSTAND:** “**SNoW DRoP**” — **S**outhern-**D**NA, **N**orthern-**R**NA, **W**estern-**P**rotein. Note the semantic trap in the abbreviation: **RT-PCR = REVERSE TRANSCRIPTASE PCR** (converts RNA to cDNA), while **real-time PCR = quantitative PCR (qPCR)**. They are different techniques with confusingly similar names.
 
 **MUST KNOW:**
 
 - **To QUANTIFY an mRNA you need BOTH: RT-PCR followed by real-time PCR (RT-qPCR).** Real-time PCR alone can only quantify DNA. This is exactly the logic of a **SARS-CoV-2 RT-PCR** and of **HIV/HCV viral load** assays.
 - **Southern blot** is still the reference method for **trinucleotide repeat expansions** (fragile X, myotonic dystrophy) — large expansions that PCR amplifies poorly.
 - **Western blot** was the classical **confirmatory** test for HIV (now largely replaced by 4th-generation antigen/antibody assays and RNA testing).
-- **Sanger sequencing** is the "chain-termination" gold standard for single genes and for confirming NGS findings; **next-generation sequencing (Illumina, Ion Torrent, 454)** does massively parallel sequencing — the basis of exome/genome panels.
+- **Sanger sequencing** is the “chain-termination” gold standard for single genes and for confirming NGS findings; **next-generation sequencing (Illumina, Ion Torrent, 454)** does massively parallel sequencing — the basis of exome/genome panels.
 - **Southwestern blot** = DNA-binding proteins; **FISH** = chromosomal localisation; **microarray** = expression of thousands of genes at once.
 
-**EXAM CONNECTION:** "Which technique is based on RNA?" → **RT-PCR** (Northern blot is the other correct answer if offered).
+**EXAM CONNECTION:** “Which technique is based on RNA?” → **RT-PCR** (Northern blot is the other correct answer if offered).
 
 **REMEMBER:** *SNoW DRoP. And RT-PCR converts, real-time PCR counts.*
 
@@ -2549,12 +2549,12 @@
 **MUST KNOW:**
 
 - **CRISPR is a BACTERIAL ADAPTIVE IMMUNE SYSTEM** against bacteriophages — clustered regularly interspaced short palindromic repeats storing fragments of prior invaders, complementing restriction-modification systems.
-- Cas9 requires a **PAM sequence (NGG)** adjacent to the target — this is what prevents it from cutting the bacterium's own CRISPR array.
+- Cas9 requires a **PAM sequence (NGG)** adjacent to the target — this is what prevents it from cutting the bacterium’s own CRISPR array.
 - **Clinical arrival:** **exagamglogene autotemcel (Casgevy)** — a CRISPR therapy approved for **sickle cell disease and β-thalassaemia**, which works by disrupting **BCL11A** to reactivate fetal haemoglobin.
 - **Concerns:** **off-target cleavage**, mosaicism, and germline editing ethics.
 - **The other DNA repair pathways to keep distinct:** **nucleotide excision repair** (bulky/UV pyrimidine dimers — defective in **xeroderma pigmentosum**), **base excision repair** (single damaged bases, uses **glycosylase**), **mismatch repair** (replication errors — defective in **HNPCC/Lynch syndrome**, giving microsatellite instability), **homologous recombination** (double-strand breaks — **BRCA1/2**, the basis of **PARP-inhibitor synthetic lethality**), and **NHEJ** (defective in **ataxia telangiectasia**).
 
-**EXAM CONNECTION:** "Repair mechanism associated with CRISPR-Cas9" → **non-homologous end joining**.
+**EXAM CONNECTION:** “Repair mechanism associated with CRISPR-Cas9” → **non-homologous end joining**.
 
 **REMEMBER:** *Cas9 cuts, NHEJ botches the repair — and a botched repair is a knockout.*
 
@@ -2596,7 +2596,7 @@
 
 **PEARL:** **G banding** (Giemsa) — the routine karyotype. **Q banding** — quinacrine fluorescence. **R banding** — reverse Giemsa (light and dark inverted). **C banding** — **CENTROMERIC constitutive heterochromatin**, used to identify **DICENTRIC chromosomes**. **T banding** — telomeres. **NOR staining** — nucleolar organiser regions (acrocentric satellites).
 
-**UNDERSTAND:** Each stain targets a different kind of chromatin. **C banding stains constitutive heterochromatin, which is concentrated at the CENTROMERE** — so it is the only technique that answers "how many centromeres does this chromosome have?"
+**UNDERSTAND:** Each stain targets a different kind of chromatin. **C banding stains constitutive heterochromatin, which is concentrated at the CENTROMERE** — so it is the only technique that answers “how many centromeres does this chromosome have?”
 
 **MUST KNOW:**
 
@@ -2605,7 +2605,7 @@
 - **Karyotyping steps:** peripheral blood in **heparin** → culture with **PHYTOHAEMAGGLUTININ** (a mitogen, to stimulate lymphocyte division) → incubate **72 hours at 37°C** → arrest in metaphase with **COLCHICINE** (a spindle poison) → hypotonic solution to swell cells → fix, spread and stain.
 - **Dicentric chromosomes** are inherently unstable (they break at anaphase) and are a classic marker of **radiation exposure** — the **dicentric assay is the gold-standard biological dosimeter**.
 
-**EXAM CONNECTION:** "Banding technique used for dicentric chromosomes" → **C banding**. Also the sequencing question on karyotyping steps.
+**EXAM CONNECTION:** “Banding technique used for dicentric chromosomes” → **C banding**. Also the sequencing question on karyotyping steps.
 
 **REMEMBER:** *C banding for Centromeres — so C banding counts the dicentrics.*
 
@@ -2629,7 +2629,7 @@
 - **The other special PCRs:** **nested PCR** (two sequential primer pairs → very high specificity, used for low-copy targets) · **multiplex PCR** (many targets at once) · **real-time/quantitative PCR** (measures product each cycle) · **RT-PCR** (starts from RNA) · **hot-start PCR** (reduces non-specific amplification).
 - **PCR components:** template, primers, **thermostable Taq polymerase** (from *Thermus aquaticus*), dNTPs, Mg²⁺ buffer; **steps = denaturation (94–96°C) → annealing (50–65°C) → extension (72°C)**, amplifying **exponentially (2ⁿ)**.
 
-**EXAM CONNECTION:** "Best method for detection of mutations with low allele frequency" → **droplet digital PCR**.
+**EXAM CONNECTION:** “Best method for detection of mutations with low allele frequency” → **droplet digital PCR**.
 
 **REMEMBER:** *Split the sample into thousands of droplets and the rare mutant is no longer outnumbered.*
 
@@ -2642,7 +2642,7 @@
 
 ### 121. Sanger Sequencing — Why ddNTPs
 
-**PEARL:** **Dideoxynucleotides (ddNTPs) lack the 3′-hydroxyl group**, so once incorporated **no further nucleotide can be added** — the chain terminates. Hence "**chain-termination sequencing**".
+**PEARL:** **Dideoxynucleotides (ddNTPs) lack the 3′-hydroxyl group**, so once incorporated **no further nucleotide can be added** — the chain terminates. Hence “**chain-termination sequencing**”.
 
 **UNDERSTAND:** DNA is extended by a **phosphodiester bond between the 3′-OH of the growing chain and the 5′-phosphate of the incoming nucleotide**. Remove that 3′-OH and elongation is impossible. Randomly incorporating a small proportion of ddNTPs generates a **nested set of fragments, each ending at a known base** — read the lengths, read the sequence.
 
@@ -2654,7 +2654,7 @@
 - **NGS (Illumina, Ion Torrent, 454)** is massively parallel — millions of short reads at once — enabling exomes, genomes and panels; **third-generation (PacBio, Nanopore)** gives very long single-molecule reads.
 - **The same 3′-OH logic underlies antiviral nucleoside analogues:** **zidovudine (AZT), acyclovir and tenofovir are chain terminators** — a beautiful pharmacology–biochemistry crossover.
 
-**EXAM CONNECTION:** "In Sanger sequencing ddNTP is used because" → **it does not allow further elongation of DNA**.
+**EXAM CONNECTION:** “In Sanger sequencing ddNTP is used because” → **it does not allow further elongation of DNA**.
 
 **REMEMBER:** *No 3′-OH, no next bond — the chain stops, and the length tells you the base.*
 
@@ -2674,12 +2674,12 @@
 **MUST KNOW:**
 
 - **HGPRT salvages hypoxanthine and guanine; APRT salvages adenine.** **Complete HGPRT deficiency → LESCH–NYHAN SYNDROME** — X-linked, with **hyperuricaemia, gout, choreoathetosis, spasticity, intellectual disability and compulsive SELF-MUTILATION**; treat hyperuricaemia with **allopurinol** (which does not help the neurology).
-- **The salvage pathway is far cheaper than de novo** — which is why the brain and bone marrow depend on it heavily, explaining Lesch–Nyhan's neurological phenotype.
+- **The salvage pathway is far cheaper than de novo** — which is why the brain and bone marrow depend on it heavily, explaining Lesch–Nyhan’s neurological phenotype.
 - **De novo purine synthesis begins with PRPP**; its rate-limiting enzyme is **PRPP amidotransferase**, feedback-inhibited by AMP/GMP.
 - **Monoclonal antibody naming:** **-momab** (mouse), **-ximab** (chimeric), **-zumab** (humanised), **-umab** (fully human).
 - The technique was developed by **Köhler and Milstein** (Nobel Prize 1984).
 
-**EXAM CONNECTION:** "Which biochemical process is used by monoclonal antibodies in hybridoma technology?" → **purine salvage pathway**.
+**EXAM CONNECTION:** “Which biochemical process is used by monoclonal antibodies in hybridoma technology?” → **purine salvage pathway**.
 
 **ALSO KNOW:** **Aminopterin blocks dihydrofolate reductase**, shutting down **de novo** purine and thymidylate synthesis. Cells can survive only by **salvaging** the supplied hypoxanthine (needs **HGPRT**) and thymidine (needs thymidine kinase). The **myeloma cells lack HGPRT** so they die; the **unfused B lymphocytes have HGPRT but are mortal** and die out in culture. Only the **hybridoma — immortal from the myeloma, HGPRT-competent and antibody-secreting from the B cell — survives**. The selection is entirely a piece of metabolic logic. **De novo purine synthesis** starts from **PRPP** (rate-limiting enzyme **PRPP amidotransferase**, inhibited by AMP/GMP) and requires **glycine, glutamine, aspartate, CO₂ and formate (from THF)**. Drugs exploiting these pathways: **methotrexate (DHFR), 6-mercaptopurine and azathioprine (converted by HGPRT — hence inactive in Lesch–Nyhan; toxicity greatly increased by allopurinol and in TPMT deficiency), 5-fluorouracil (thymidylate synthase), mycophenolate (IMP dehydrogenase), hydroxyurea (ribonucleotide reductase)**. Monoclonal antibodies are now largely **humanised or fully human** (transgenic mice, phage display) to avoid the **human anti-mouse antibody (HAMA)** response.
 
@@ -2696,17 +2696,17 @@
 
 **PEARL:** **ChIP studies PROTEIN–DNA interactions and HISTONE MODIFICATIONS** — it uses an antibody to pull down a protein together with the DNA it is bound to.
 
-**UNDERSTAND: **The logic is:** cross-link protein to DNA in living cells (formaldehyde) → shear the chromatin → immunoprecipitate with an antibody against your protein of interest → reverse the cross-links → identify the co-purified DNA.** You are asking the genome, "where exactly was this protein sitting?"
+**UNDERSTAND: **The logic is:** cross-link protein to DNA in living cells (formaldehyde) → shear the chromatin → immunoprecipitate with an antibody against your protein of interest → reverse the cross-links → identify the co-purified DNA.** You are asking the genome, “where exactly was this protein sitting?”
 
 **MUST KNOW:**
 
 - **ChIP-seq** (ChIP followed by next-generation sequencing) maps **transcription factor binding sites and histone marks genome-wide** — the backbone of the **ENCODE** project.
 - **Key histone marks:** **H3K4me3 → active promoters · H3K27ac → active enhancers · H3K27me3 → Polycomb-repressed · H3K9me3 → heterochromatin.**
-- **Acetylation (HATs) opens chromatin and activates; deacetylation (HDACs) closes and silences** — because acetylation neutralises the positive charge on lysine, weakening the histone's grip on negatively charged DNA. **A clean charge-based explanation worth remembering.**
+- **Acetylation (HATs) opens chromatin and activates; deacetylation (HDACs) closes and silences** — because acetylation neutralises the positive charge on lysine, weakening the histone’s grip on negatively charged DNA. **A clean charge-based explanation worth remembering.**
 - **Do not confuse the techniques:** **EMSA/gel shift** — also protein–DNA, but *in vitro*; **co-immunoprecipitation** — protein–protein; **Southwestern blot** — DNA-binding proteins; **PCR** — amplification; **FISH** — localisation.
 - Epigenetic drugs targeting this machinery: **HDAC inhibitors (vorinostat, romidepsin, valproate)** and **hypomethylating agents (azacitidine, decitabine)** in myelodysplastic syndrome.
 
-**EXAM CONNECTION:** "ChIP is used for" → **protein–DNA interactions and histone modifications**.
+**EXAM CONNECTION:** “ChIP is used for” → **protein–DNA interactions and histone modifications**.
 
 **REMEMBER:** *Cross-link, shear, pull down with an antibody — ChIP tells you where a protein sits on the genome.*
 
@@ -2721,17 +2721,17 @@
 
 **PEARL:** **RT-PCR and Northern blot detect RNA.** Southern = DNA, Northern = RNA, Western = protein.
 
-**UNDERSTAND:** RNA cannot be amplified directly by a DNA polymerase, so **reverse transcriptase must first make cDNA** — that extra step is exactly what the "RT" names, and it is what makes the method RNA-specific.
+**UNDERSTAND:** RNA cannot be amplified directly by a DNA polymerase, so **reverse transcriptase must first make cDNA** — that extra step is exactly what the “RT” names, and it is what makes the method RNA-specific.
 
 **MUST KNOW:**
 
 - **SNoW DRoP**: **S**outhern–**D**NA, **N**orthern–**R**NA, **W**estern–**P**rotein.
 - **RT-PCR** quantifies **mRNA expression** and is how **RNA viruses (SARS-CoV-2, HIV viral load, HCV)** are detected. Do not confuse with **real-time (quantitative) PCR** — the abbreviations collide.
 - **Southwestern blot** = DNA-binding proteins. **Far-Western** = protein–protein interaction.
-- **Sanger** appears in two different senses: **Sanger's reagent (1-fluoro-2,4-dinitrobenzene)** for the **N-terminal amino acid** — insulin was the first protein sequenced — and **Sanger dideoxy sequencing** for DNA.
+- **Sanger** appears in two different senses: **Sanger’s reagent (1-fluoro-2,4-dinitrobenzene)** for the **N-terminal amino acid** — insulin was the first protein sequenced — and **Sanger dideoxy sequencing** for DNA.
 - **G-banding** = Giemsa staining of trypsin-treated metaphase chromosomes → karyotype (AT-rich bands stain dark).
 
-**EXAM CONNECTION:** "Method used to detect RNA" → **RT-PCR**. Note that Northern blot is also correct but is usually absent from the options; when both appear, RT-PCR is the intended modern answer.
+**EXAM CONNECTION:** “Method used to detect RNA” → **RT-PCR**. Note that Northern blot is also correct but is usually absent from the options; when both appear, RT-PCR is the intended modern answer.
 
 **REMEMBER:** *RT means you must copy RNA into DNA first.*
 
@@ -2796,17 +2796,17 @@
 
 **PEARL:** **Flushing** (prostaglandin-mediated — **pre-treat with aspirin**), **HYPERGLYCAEMIA/insulin resistance**, **HYPERURICAEMIA (gout)**, **hepatotoxicity**, and the distinctive **CYSTOID MACULAR OEDEMA**.
 
-**UNDERSTAND:** Niacin's flushing is a **prostaglandin D2** effect on dermal vessels, mediated via the **GPR109A receptor on Langerhans cells** — which is exactly why aspirin (a COX inhibitor) abolishes it and why the flush is dose-dependent and tachyphylactic.
+**UNDERSTAND:** Niacin’s flushing is a **prostaglandin D2** effect on dermal vessels, mediated via the **GPR109A receptor on Langerhans cells** — which is exactly why aspirin (a COX inhibitor) abolishes it and why the flush is dose-dependent and tachyphylactic.
 
 **MUST KNOW:**
 
-- **Niacin causes hyperglycaemia** — so in a diabetic on niacin for hypertriglyceridaemia, **monitor blood glucose at least weekly**. This is the "use cautiously" answer.
-- **Niacin's lipid profile is the best of any single agent** — it is the **most effective drug at raising HDL**, and it lowers LDL, triglycerides and **lipoprotein(a)**. Despite this, **outcome trials (AIM-HIGH, HPS2-THRIVE) failed to show benefit on top of statins**, so its use has collapsed — a favourite "evidence vs mechanism" teaching point.
+- **Niacin causes hyperglycaemia** — so in a diabetic on niacin for hypertriglyceridaemia, **monitor blood glucose at least weekly**. This is the “use cautiously” answer.
+- **Niacin’s lipid profile is the best of any single agent** — it is the **most effective drug at raising HDL**, and it lowers LDL, triglycerides and **lipoprotein(a)**. Despite this, **outcome trials (AIM-HIGH, HPS2-THRIVE) failed to show benefit on top of statins**, so its use has collapsed — a favourite “evidence vs mechanism” teaching point.
 - **Niacin macular oedema is CYSTOID and NOT associated with leakage on fluorescein angiography** — distinguishing it from diabetic macular oedema; it resolves on stopping the drug.
-- **Deficiency = PELLAGRA — the 4 Ds: Dermatitis (photosensitive, CASAL'S NECKLACE), Diarrhoea, Dementia, Death.** Causes: maize-based diet (niacin is bound as niacytin), **Hartnup disease** (tryptophan malabsorption), **carcinoid syndrome** (tryptophan diverted to serotonin), and **ISONIAZID** (competes with B6, needed for the tryptophan→niacin conversion).
+- **Deficiency = PELLAGRA — the 4 Ds: Dermatitis (photosensitive, CASAL’S NECKLACE), Diarrhoea, Dementia, Death.** Causes: maize-based diet (niacin is bound as niacytin), **Hartnup disease** (tryptophan malabsorption), **carcinoid syndrome** (tryptophan diverted to serotonin), and **ISONIAZID** (competes with B6, needed for the tryptophan→niacin conversion).
 - **60 mg of tryptophan → 1 mg of niacin**, requiring **B6, B2 and iron**.
 
-**EXAM CONNECTION:** "Which vitamin in supraphysiological doses causes macular oedema and cysts?" → **B3 (niacin)**. Or the diabetic caution question.
+**EXAM CONNECTION:** “Which vitamin in supraphysiological doses causes macular oedema and cysts?” → **B3 (niacin)**. Or the diabetic caution question.
 
 **REMEMBER:** *Niacin: flushes the skin, raises the sugar, raises the urate, and swells the macula.*
 
@@ -2818,7 +2818,7 @@
 
 **PEARL:** Giving **folate alone in B12 deficiency corrects the ANAEMIA but allows the NEUROLOGICAL damage to progress** — subacute combined degeneration.
 
-**UNDERSTAND:** B12 has **two** jobs. As **methylcobalamin** it converts homocysteine to methionine, releasing folate from the "**methyl-folate trap**" — giving folate does bypass this and restores DNA synthesis, hence the haematological response. But as **adenosylcobalamin** it converts **methylmalonyl-CoA to succinyl-CoA**, and folate does nothing for that. Accumulated **methylmalonyl-CoA disrupts myelin synthesis** — so the neurology marches on unopposed.
+**UNDERSTAND:** B12 has **two** jobs. As **methylcobalamin** it converts homocysteine to methionine, releasing folate from the “**methyl-folate trap**” — giving folate does bypass this and restores DNA synthesis, hence the haematological response. But as **adenosylcobalamin** it converts **methylmalonyl-CoA to succinyl-CoA**, and folate does nothing for that. Accumulated **methylmalonyl-CoA disrupts myelin synthesis** — so the neurology marches on unopposed.
 
 **MUST KNOW:**
 
@@ -2828,7 +2828,7 @@
 - **B12 deficiency causes neurological disease; folate deficiency does NOT** (but folate deficiency in pregnancy causes **neural tube defects**).
 - **Other causes to remember:** **pernicious anaemia** (anti-intrinsic-factor and anti-parietal-cell antibodies, atrophic gastritis, raised gastric cancer risk), **terminal ileal disease/resection**, **metformin**, **PPIs**, **nitrous oxide abuse**, and fish tapeworm.
 
-**EXAM CONNECTION:** "Blood picture improved but neurology worsened after folate" → **folate therapy consumed the B12 stores / masked B12 deficiency**.
+**EXAM CONNECTION:** “Blood picture improved but neurology worsened after folate” → **folate therapy consumed the B12 stores / masked B12 deficiency**.
 
 **REMEMBER:** *Folate fixes the marrow and abandons the cord.*
 
@@ -2843,17 +2843,17 @@
 
 **PEARL:** **Vitamin B2 (riboflavin) → erythrocyte GLUTATHIONE REDUCTASE activity.** **Vitamin B1 (thiamine) → erythrocyte TRANSKETOLASE activity.**
 
-**UNDERSTAND:** Each vitamin's status is measured through **an enzyme that requires it as a cofactor**: glutathione reductase is a **FAD-flavoenzyme (B2)**; transketolase requires **thiamine pyrophosphate (B1)**. The test adds the cofactor *in vitro* and measures the **activation coefficient** — a large jump in activity means the enzyme was starved of its vitamin.
+**UNDERSTAND:** Each vitamin’s status is measured through **an enzyme that requires it as a cofactor**: glutathione reductase is a **FAD-flavoenzyme (B2)**; transketolase requires **thiamine pyrophosphate (B1)**. The test adds the cofactor *in vitro* and measures the **activation coefficient** — a large jump in activity means the enzyme was starved of its vitamin.
 
 **MUST KNOW:**
 
-- **Riboflavin (B2) deficiency — "the mucocutaneous vitamin":** **angular stomatitis, cheilosis, glossitis (magenta tongue), seborrhoeic dermatitis, CORNEAL VASCULARISATION**, and normocytic anaemia. Sources: **milk and dairy** (destroyed by light — hence dark bottles).
+- **Riboflavin (B2) deficiency — “the mucocutaneous vitamin”:** **angular stomatitis, cheilosis, glossitis (magenta tongue), seborrhoeic dermatitis, CORNEAL VASCULARISATION**, and normocytic anaemia. Sources: **milk and dairy** (destroyed by light — hence dark bottles).
 - **Thiamine (B1) deficiency:** **DRY beriberi** (peripheral neuropathy, ataxia, optic atrophy) · **WET beriberi** (**high-output cardiac failure, cardiomegaly, PEDAL OEDEMA**) · **Wernicke encephalopathy** (confusion, ophthalmoplegia, ataxia) → **Korsakoff psychosis** (amnesia, confabulation) · **infantile beriberi** · and **lactic acidosis** (PDH is thiamine-dependent).
 - **ALWAYS GIVE THIAMINE BEFORE GLUCOSE** in a malnourished or alcoholic patient — a glucose load without thiamine precipitates Wernicke encephalopathy.
 - **Thiamine is also depleted by chronic diuretic use and refeeding** — and is central to **refeeding syndrome** along with phosphate.
 - Other functional markers: **B6 — kynureninase / tryptophan load test (xanthurenic acid)**; **vitamin C — leucocyte ascorbate**; **vitamin K — PIVKA-II/prothrombin time**.
 
-**EXAM CONNECTION:** "Enzyme estimated in RBCs to diagnose B2 deficiency" → **glutathione reductase** (transketolase is B1 — the intended trap). And a child with **pedal oedema + cardiomegaly + cheilosis** → **thiamine** (wet beriberi), despite the cheilosis pointing at riboflavin.
+**EXAM CONNECTION:** “Enzyme estimated in RBCs to diagnose B2 deficiency” → **glutathione reductase** (transketolase is B1 — the intended trap). And a child with **pedal oedema + cardiomegaly + cheilosis** → **thiamine** (wet beriberi), despite the cheilosis pointing at riboflavin.
 
 **REMEMBER:** *Glutathione Reductase = riboflavin (both have an R). Transketolase = Thiamine (both have a T).*
 
@@ -2872,14 +2872,14 @@
 
 **MUST KNOW:**
 
-- **"1972" — factors 10, 9, 7, 2.** Mnemonic for the vitamin-K-dependent factors.
-- **WARFARIN inhibits VITAMIN K EPOXIDE REDUCTASE (VKORC1)**, preventing regeneration of reduced vitamin K. It therefore has **no effect on already-circulating factors** — hence a **delayed onset of 48–72 hours**, governed by each factor's half-life.
+- **“1972” — factors 10, 9, 7, 2.** Mnemonic for the vitamin-K-dependent factors.
+- **WARFARIN inhibits VITAMIN K EPOXIDE REDUCTASE (VKORC1)**, preventing regeneration of reduced vitamin K. It therefore has **no effect on already-circulating factors** — hence a **delayed onset of 48–72 hours**, governed by each factor’s half-life.
 - **Factor VII has the SHORTEST half-life (~4–6 hours)**, so the **PT/INR rises first** — which is why INR monitors warfarin. But **PROTEIN C also has a short half-life**, so the first 24–48 hours of warfarin are **transiently PROTHROMBOTIC** → **warfarin-induced skin necrosis** (especially in protein C deficiency) → **always bridge with heparin**.
 - **Vitamin K deficiency prolongs BOTH PT and aPTT** (it hits both pathways), corrects with **fresh frozen plasma or PCC** acutely and **vitamin K** over hours.
 - **Haemorrhagic disease of the newborn** — sterile gut, low stores, low breast-milk vitamin K → prevented by **IM vitamin K at birth**.
 - **Osteocalcin and matrix Gla protein** are the non-clotting vitamin-K-dependent proteins (bone and vascular calcification).
 
-**EXAM CONNECTION:** "Which zymogens require γ-glutamyl carboxylase?" → **II, VII, IX, X**. Beware options substituting VIII or XI.
+**EXAM CONNECTION:** “Which zymogens require γ-glutamyl carboxylase?” → **II, VII, IX, X**. Beware options substituting VIII or XI.
 
 **REMEMBER:** *1972 plus C, S and Z — carboxylated to grip calcium; warfarin blocks the recycling of vitamin K.*
 
@@ -2901,9 +2901,9 @@
 - **THF receives one-carbon units from SERINE (the major donor), GLYCINE and HISTIDINE**, and delivers them to **purine synthesis, thymidylate synthesis, and methionine regeneration**.
 - **FIGLU excretion is now largely historical** (superseded by serum/red-cell folate and homocysteine) but remains a favourite exam association: **FIGLU = histidine = folate**.
 - **Histidine** is also the precursor of **HISTAMINE** (by histidine decarboxylase, a **B6-dependent** enzyme) and is **semi-essential in children**. **Histidinaemia** (histidase deficiency) is a benign condition.
-- **Compare the other "load/excretion" tests:** **xanthurenic acid after a tryptophan load → B6 deficiency**; **methylmalonic acid → B12 deficiency**; **homocysteine → B12, folate or B6**.
+- **Compare the other “load/excretion” tests:** **xanthurenic acid after a tryptophan load → B6 deficiency**; **methylmalonic acid → B12 deficiency**; **homocysteine → B12, folate or B6**.
 
-**EXAM CONNECTION:** "FIGLU is an intermediate in the metabolism of" → **histidine**.
+**EXAM CONNECTION:** “FIGLU is an intermediate in the metabolism of” → **histidine**.
 
 **ALSO KNOW: **Histidine derivatives:** carnosine** (β-alanine + histidine, in brain and muscle), **anserine** (β-alanine + 1-methylhistidine — a marker of **meat consumption**), **ergothioneine** (diet-derived antioxidant), and **histamine** (by decarboxylation). *FIGLU up = folate down; histidine gives carnosine, anserine, histamine.*
 
@@ -2927,9 +2927,9 @@
 - **Full toxicity picture:** **CNS** — pseudotumour cerebri, bulging fontanelle in infants; **liver** — hepatomegaly, hyperlipidaemia, cirrhosis; **bone** — **painful bony exostoses/cortical thickening, hypercalcaemia, and fracture risk**; **skin** — dryness, cheilitis, **desquamation, alopecia**; **haem** — anaemia.
 - **TERATOGENICITY is the most important point.** **Isotretinoin (13-cis-retinoic acid) is absolutely contraindicated in pregnancy** — craniofacial, cardiac and CNS malformations. Two forms of contraception and pregnancy testing are mandatory (iPLEDGE-type programmes), continuing **1 month after stopping isotretinoin** and **3 years after acitretin**.
 - **Other causes of pseudotumour cerebri worth knowing together:** **obesity in young women (the commonest), tetracyclines/doxycycline, retinoids, nalidixic acid, steroid withdrawal, OCPs, and vitamin A excess.** Treat with **weight loss, acetazolamide**, and **optic nerve sheath fenestration or CSF shunting** if vision is threatened.
-- **Vitamin A DEFICIENCY** is the mirror image and far commoner in India: **night blindness (earliest) → conjunctival xerosis → BITOT'S SPOTS → corneal xerosis → keratomalacia**, plus follicular hyperkeratosis and increased infection/measles mortality. **WHO/NPCB prophylaxis: 100 000 IU at 9 months, then 200 000 IU every 6 months to age 5.**
+- **Vitamin A DEFICIENCY** is the mirror image and far commoner in India: **night blindness (earliest) → conjunctival xerosis → BITOT’S SPOTS → corneal xerosis → keratomalacia**, plus follicular hyperkeratosis and increased infection/measles mortality. **WHO/NPCB prophylaxis: 100 000 IU at 9 months, then 200 000 IU every 6 months to age 5.**
 
-**EXAM CONNECTION:** Young woman on "high-dose vitamin supplements" with papilloedema and normal imaging → **vitamin A**.
+**EXAM CONNECTION:** Young woman on “high-dose vitamin supplements” with papilloedema and normal imaging → **vitamin A**.
 
 **REMEMBER:** *Too little vitamin A blinds at night; too much raises the pressure in the head — and deforms the fetus.*
 
@@ -2937,21 +2937,21 @@
 
 ---
 
-### 133. Wald's Visual Cycle — Retinal
+### 133. Wald’s Visual Cycle — Retinal
 
 **PEARL:** The form of vitamin A active **in the retina is RETINAL (11-cis-retinaldehyde)**, bound to **opsin** to form **rhodopsin**. Light isomerises it to **all-trans-retinal**, bleaching the pigment and triggering the nerve impulse.
 
-**UNDERSTAND:** The three forms of vitamin A do three different jobs, which is why the question specifies "in the retina": **RETINOL** is the transport and storage form (bound to **retinol-binding protein**); **RETINAL** is the **vision** form; **RETINOIC ACID** governs **epithelial differentiation and gene transcription** (via nuclear RAR/RXR receptors) — and **retinoic acid CANNOT be converted back to retinal**, which is why retinoic acid treats skin disease but **does not cure night blindness**.
+**UNDERSTAND:** The three forms of vitamin A do three different jobs, which is why the question specifies “in the retina”: **RETINOL** is the transport and storage form (bound to **retinol-binding protein**); **RETINAL** is the **vision** form; **RETINOIC ACID** governs **epithelial differentiation and gene transcription** (via nuclear RAR/RXR receptors) — and **retinoic acid CANNOT be converted back to retinal**, which is why retinoic acid treats skin disease but **does not cure night blindness**.
 
 **MUST KNOW:**
 
-- **Night blindness (nyctalopia) is the EARLIEST sign** of deficiency, because rods have the highest rhodopsin turnover. Sequence: **night blindness → conjunctival xerosis → BITOT'S SPOTS → corneal xerosis → keratomalacia (softening, "soft cornea") → blindness**.
-- **Bitot's spots** are foamy, triangular, keratinised patches on the temporal conjunctiva — **reversible**; **keratomalacia is NOT** and is a medical emergency.
+- **Night blindness (nyctalopia) is the EARLIEST sign** of deficiency, because rods have the highest rhodopsin turnover. Sequence: **night blindness → conjunctival xerosis → BITOT’S SPOTS → corneal xerosis → keratomalacia (softening, “soft cornea”) → blindness**.
+- **Bitot’s spots** are foamy, triangular, keratinised patches on the temporal conjunctiva — **reversible**; **keratomalacia is NOT** and is a medical emergency.
 - **Vitamin A also maintains all mucosal epithelium** — hence **follicular hyperkeratosis (phrynoderma)**, and the strong link between deficiency and **measles mortality and diarrhoeal disease** (WHO gives vitamin A in measles).
 - **ATRA (all-trans-retinoic acid) is curative therapy in ACUTE PROMYELOCYTIC LEUKAEMIA (t(15;17), PML-RARα)** — it forces differentiation; watch for **differentiation (retinoic acid) syndrome**.
 - **Zinc deficiency mimics vitamin A deficiency**, because zinc is needed for retinol-binding protein synthesis and for retinol dehydrogenase.
 
-**EXAM CONNECTION:** "Which is deficient in his RETINA?" → **retinal** (retinol is the trap — correct for the body, wrong for the retina).
+**EXAM CONNECTION:** “Which is deficient in his RETINA?” → **retinal** (retinol is the trap — correct for the body, wrong for the retina).
 
 **ALSO KNOW:** **Nyctalopia (night blindness) is the earliest SYMPTOM**; **loss of sensitivity to green light is the earliest FEATURE/sign**. *Green sensitivity is lost first; night blindness is complained of first.*
 
@@ -2973,12 +2973,12 @@
 **MUST KNOW:**
 
 - The same blocked reaction explains the **raised HOMOCYSTEINE** in B12 deficiency (homocysteine cannot be remethylated to methionine) — and hence the vascular risk.
-- **B12's SECOND reaction is the one folate cannot rescue:** **methylmalonyl-CoA mutase** (needing adenosylcobalamin) → so **methylmalonic acid rises in B12 but NOT folate deficiency** — the discriminating test — and its accumulation causes the **demyelination of subacute combined degeneration**.
+- **B12’s SECOND reaction is the one folate cannot rescue:** **methylmalonyl-CoA mutase** (needing adenosylcobalamin) → so **methylmalonic acid rises in B12 but NOT folate deficiency** — the discriminating test — and its accumulation causes the **demyelination of subacute combined degeneration**.
 - **This is exactly why giving folate alone in B12 deficiency corrects the blood picture but lets the neurology progress.**
-- **Giving folate "unmasks" nothing biochemically — it simply bypasses the trap** by supplying THF directly for DNA synthesis.
+- **Giving folate “unmasks” nothing biochemically — it simply bypasses the trap** by supplying THF directly for DNA synthesis.
 - **B12 absorption pathway (a favourite):** dietary B12 → bound by **R-binder/haptocorrin in saliva** → pancreatic proteases release it in the duodenum → binds **INTRINSIC FACTOR (from gastric parietal cells)** → absorbed in the **TERMINAL ILEUM** via cubilin → carried by **transcobalamin II**. A lesion at any point causes deficiency: **pernicious anaemia, gastrectomy, pancreatic insufficiency, ileal disease/resection, fish tapeworm, bacterial overgrowth**.
 
-**EXAM CONNECTION:** "Folate trap refers to" → **accumulation of methyl-tetrahydrofolate**.
+**EXAM CONNECTION:** “Folate trap refers to” → **accumulation of methyl-tetrahydrofolate**.
 
 **REMEMBER:** *Methyl-THF is a one-way door and B12 holds the only key.*
 
@@ -3004,7 +3004,7 @@
 - **Vitamin K deficiency prolongs the PT first** (factor VII, shortest half-life) and later the aPTT; it **corrects with FFP/PCC immediately** and with vitamin K over 6–12 hours.
 - **Fat-soluble vitamin absorption needs bile** — so **obstructive jaundice, cholestasis, coeliac disease and cystic fibrosis** cause vitamin K deficiency.
 
-**EXAM CONNECTION:** "Source of vitamin K in green leafy vegetables" → **phylloquinone**.
+**EXAM CONNECTION:** “Source of vitamin K in green leafy vegetables” → **phylloquinone**.
 
 **REMEMBER:** *K1 from plants, K2 from bacteria, K3 from the factory — and never K3 in a newborn.*
 
@@ -3014,20 +3014,20 @@
 
 ### 136. Pellagra — Every Route to Niacin Deficiency
 
-**PEARL:** Pellagra = **DERMATITIS (photosensitive, CASAL'S NECKLACE), DIARRHOEA, DEMENTIA, DEATH**. It occurs not only from dietary lack but from **anything that blocks the tryptophan → niacin pathway**: **HARTNUP disease, CARCINOID syndrome, PYRIDOXINE (B6) deficiency, maize-based diets, jowar (sorghum), and ISONIAZID.**
+**PEARL:** Pellagra = **DERMATITIS (photosensitive, CASAL’S NECKLACE), DIARRHOEA, DEMENTIA, DEATH**. It occurs not only from dietary lack but from **anything that blocks the tryptophan → niacin pathway**: **HARTNUP disease, CARCINOID syndrome, PYRIDOXINE (B6) deficiency, maize-based diets, jowar (sorghum), and ISONIAZID.**
 
 **UNDERSTAND:** **60 mg of tryptophan yields 1 mg of niacin**, and that conversion needs **B6 (for kynureninase), riboflavin and iron**. So the disease appears whenever tryptophan is **not absorbed** (Hartnup), **diverted elsewhere** (carcinoid → serotonin), **cannot be converted** (B6 deficiency, isoniazid), or **not bioavailable in the food** (maize).
 
 **MUST KNOW:**
 
 - **HARTNUP disease:** autosomal recessive defect (**SLC6A19**) in the transport of **neutral amino acids** in the **renal PCT and intestine** → **neutral aminoaciduria**, pellagra-like rash and cerebellar ataxia, often intermittent. Treat with **nicotinamide and a high-protein diet**.
-- **Maize:** niacin is bound as **NIACYTIN** and is unavailable — released by **alkali treatment ("nixtamalisation" with lime water)**, the traditional practice that protects Central American populations.
+- **Maize:** niacin is bound as **NIACYTIN** and is unavailable — released by **alkali treatment (“nixtamalisation” with lime water)**, the traditional practice that protects Central American populations.
 - **Jowar/sorghum:** high **LEUCINE** content inhibits **quinolinate phosphoribosyltransferase (QPRT)** — the mechanism of pellagra in parts of India despite adequate tryptophan.
 - **Isoniazid** competes with B6 → give **pyridoxine prophylaxis**, especially in malnourished, pregnant, diabetic, alcoholic and HIV patients.
-- The **dermatitis is strictly photosensitive and symmetrical** — the **Casal's necklace** around the neck, and the **glove-and-stocking distribution** on sun-exposed limbs. The tongue is **beefy red**.
-- **Wernicke's encephalopathy is THIAMINE (B1), not niacin** — the intended distractor.
+- The **dermatitis is strictly photosensitive and symmetrical** — the **Casal’s necklace** around the neck, and the **glove-and-stocking distribution** on sun-exposed limbs. The tongue is **beefy red**.
+- **Wernicke’s encephalopathy is THIAMINE (B1), not niacin** — the intended distractor.
 
-**EXAM CONNECTION:** Photosensitive dermatitis + diarrhoea + depression + red tongue, then "which is NOT associated?" → **Wernicke's encephalopathy**.
+**EXAM CONNECTION:** Photosensitive dermatitis + diarrhoea + depression + red tongue, then “which is NOT associated?” → **Wernicke’s encephalopathy**.
 
 **REMEMBER:** *Anything that steals, blocks or hides tryptophan gives pellagra — Hartnup, carcinoid, B6 lack, maize and jowar.*
 
@@ -3042,7 +3042,7 @@
 
 **PEARL:** **Avidin in raw egg white binds biotin irreversibly** and blocks its absorption. **Megaloblastic anaemia is NOT a feature** of biotin deficiency.
 
-**UNDERSTAND:** Biotin's job is **carboxylation**, not one-carbon transfer. Megaloblastic anaemia requires disrupted **thymidylate/DNA synthesis**, which is the domain of **folate and B12**. Biotin's carboxylases sit in gluconeogenesis and fatty-acid synthesis — nowhere near DNA — so the marrow is spared.
+**UNDERSTAND:** Biotin’s job is **carboxylation**, not one-carbon transfer. Megaloblastic anaemia requires disrupted **thymidylate/DNA synthesis**, which is the domain of **folate and B12**. Biotin’s carboxylases sit in gluconeogenesis and fatty-acid synthesis — nowhere near DNA — so the marrow is spared.
 
 **MUST KNOW:**
 
@@ -3051,7 +3051,7 @@
 - The **four biotin-dependent carboxylases**: **pyruvate carboxylase, acetyl-CoA carboxylase, propionyl-CoA carboxylase, β-methylcrotonyl-CoA carboxylase**. (Note: **CO₂ fixation** — biotin is the CO₂ carrier.)
 - Contrast neighbours: **B2** → cheilosis, magenta tongue, seborrhoeic dermatitis; **B5** → **burning feet syndrome**; **B3** → pellagra; **B12/folate** → megaloblastic anaemia.
 
-**EXAM CONNECTION:** "Bodybuilder eating raw eggs — LEAST likely finding" → **megaloblastic anaemia**. Everything else offered is a genuine biotin sign.
+**EXAM CONNECTION:** “Bodybuilder eating raw eggs — LEAST likely finding” → **megaloblastic anaemia**. Everything else offered is a genuine biotin sign.
 
 **REMEMBER:** *Biotin carries carbon dioxide, not one-carbon units — so no megaloblasts.*
 
@@ -3073,7 +3073,7 @@
 - Alcohol impairs **thiamine absorption and TPP synthesis**; alcoholics are the classic at-risk group.
 - Other causes of lactic acidosis worth pairing: **metformin, PDH deficiency, mitochondrial disease, sepsis, biotin deficiency**.
 
-**EXAM CONNECTION:** Two forms — "why does thiamine deficiency reduce energy production" (**PDH/α-KGDH coenzyme**) and "which coenzyme deficiency causes lactic acidosis" (**thiamine**). Both point to PDH.
+**EXAM CONNECTION:** Two forms — “why does thiamine deficiency reduce energy production” (**PDH/α-KGDH coenzyme**) and “which coenzyme deficiency causes lactic acidosis” (**thiamine**). Both point to PDH.
 
 **REMEMBER:** *Block PDH and pyruvate has nowhere to go but lactate.*
 
@@ -3085,17 +3085,17 @@
 
 **PEARL:** Scurvy bleeds because **vitamin C is the cofactor for prolyl and lysyl hydroxylase** — without hydroxylation, the collagen **triple helix cannot form stable cross-links**, so vessel walls fail.
 
-**UNDERSTAND:** Hydroxyproline is what allows the interchain **hydrogen bonding** that holds the triple helix together. Under-hydroxylated procollagen is **unstable and degraded**. The tissues that fail first are those with the **highest collagen turnover** — blood vessel walls, gums, periosteum — which is exactly the distribution of scurvy's bleeding.
+**UNDERSTAND:** Hydroxyproline is what allows the interchain **hydrogen bonding** that holds the triple helix together. Under-hydroxylated procollagen is **unstable and degraded**. The tissues that fail first are those with the **highest collagen turnover** — blood vessel walls, gums, periosteum — which is exactly the distribution of scurvy’s bleeding.
 
 **MUST KNOW:**
 
 - Bleeding signs: **perifollicular haemorrhage** (pathognomonic), **corkscrew hairs**, gum swelling and bleeding (only if teeth are present), ecchymoses at pressure points, **subperiosteal haemorrhage** (painful pseudoparalysis in children).
-- Radiological signs in infantile scurvy: **Frankel's white line**, **Trümmerfeld zone**, **Pelkan spur**, **Wimberger's ring sign**, **scorbutic rosary** (sharply angulated, unlike the rounded rachitic rosary).
+- Radiological signs in infantile scurvy: **Frankel’s white line**, **Trümmerfeld zone**, **Pelkan spur**, **Wimberger’s ring sign**, **scorbutic rosary** (sharply angulated, unlike the rounded rachitic rosary).
 - Also causes **impaired wound healing, osteoid failure, anaemia** (impaired iron absorption + folate metabolism).
 - Vitamin C is also required for **dopamine β-hydroxylase**, **carnitine synthesis**, and reduces **Fe³⁺ → Fe²⁺** for absorption.
 - **Coagulation tests are NORMAL in scurvy** — the defect is in the vessel, not the clotting cascade. That distinguishes it from vitamin K deficiency.
 
-**EXAM CONNECTION:** "Bleeding gums and bruising in scurvy is due to ___" → **defective collagen formation**. "Inhibition of clotting factors" is the trap — that is vitamin K.
+**EXAM CONNECTION:** “Bleeding gums and bruising in scurvy is due to ___” → **defective collagen formation**. “Inhibition of clotting factors” is the trap — that is vitamin K.
 
 **REMEMBER:** *Vitamin C builds the vessel wall, vitamin K builds the clot.*
 
@@ -3146,7 +3146,7 @@
 **MUST KNOW:**
 
 - **Dry beriberi** = peripheral neuropathy; **Wernicke encephalopathy** = confusion + ophthalmoplegia + ataxia; **Korsakoff** = confabulation and amnesia. **Infantile beriberi** in breastfed infants of thiamine-deficient mothers (aphonic cry).
-- **Always give thiamine BEFORE glucose** in an alcoholic — glucose loading precipitates Wernicke's.
+- **Always give thiamine BEFORE glucose** in an alcoholic — glucose loading precipitates Wernicke’s.
 - **Riboflavin deficiency causes cheilosis/angular stomatitis but NOT pedal oedema or cardiomegaly** — the exam contrast.
 
 **REMEMBER:** *Wet beriberi = wet lungs and big heart = thiamine, not riboflavin.*
@@ -3157,10 +3157,10 @@
 
 **PEARL:**
 
-- **Thiamine:** erythrocyte **transketolase** activity (apotransketolase before and after adding **thiamine diphosphate** in vitro — the "TPP effect").
+- **Thiamine:** erythrocyte **transketolase** activity (apotransketolase before and after adding **thiamine diphosphate** in vitro — the “TPP effect”).
 - **Riboflavin:** erythrocyte **glutathione reductase** activity coefficient (a **FAD**-containing flavoenzyme).
 
-**MUST KNOW:** Thiamine diphosphate is also the coenzyme for **pyruvate dehydrogenase, α-ketoglutarate dehydrogenase and branched-chain ketoacid dehydrogenase**. Riboflavin's active forms are **FMN and FAD**.
+**MUST KNOW:** Thiamine diphosphate is also the coenzyme for **pyruvate dehydrogenase, α-ketoglutarate dehydrogenase and branched-chain ketoacid dehydrogenase**. Riboflavin’s active forms are **FMN and FAD**.
 
 **REMEMBER:** *Transketolase = B1 status; glutathione reductase = B2 status.*
 
@@ -3178,15 +3178,15 @@
 
 **MUST KNOW:**
 
-- **Menkes ("kinky hair") disease:** **depigmented, brittle, kinky hair (pili torti)**, failure to thrive, **progressive neurodegeneration and seizures**, **tortuous arteries and vascular rupture** (elastin cross-linking fails), bone fractures and wormian bones, hypothermia; **low serum copper and low caeruloplasmin**; usually fatal in early childhood.
-- **WILSON DISEASE is the mirror image — ATP7B** (chromosome 13), autosomal recessive, causing **copper ACCUMULATION** in liver, brain and cornea: **Kayser–Fleischer rings, hepatitis/cirrhosis, tremor and parkinsonism, psychiatric change**; **low caeruloplasmin with HIGH urinary copper**; treated with **penicillamine, trientine and zinc**. **"MenKes = Kinky hair and Keeps nothing (deficiency). WilsoN = Not able to excrete (overload)."**
+- **Menkes (“kinky hair”) disease:** **depigmented, brittle, kinky hair (pili torti)**, failure to thrive, **progressive neurodegeneration and seizures**, **tortuous arteries and vascular rupture** (elastin cross-linking fails), bone fractures and wormian bones, hypothermia; **low serum copper and low caeruloplasmin**; usually fatal in early childhood.
+- **WILSON DISEASE is the mirror image — ATP7B** (chromosome 13), autosomal recessive, causing **copper ACCUMULATION** in liver, brain and cornea: **Kayser–Fleischer rings, hepatitis/cirrhosis, tremor and parkinsonism, psychiatric change**; **low caeruloplasmin with HIGH urinary copper**; treated with **penicillamine, trientine and zinc**. **“MenKes = Kinky hair and Keeps nothing (deficiency). WilsoN = Not able to excrete (overload).”**
 - **Other cuproenzymes:** **cytochrome c oxidase, superoxide dismutase, tyrosinase (hence hypopigmentation), dopamine β-hydroxylase, ferroxidase (caeruloplasmin — which is why copper deficiency causes a SIDEROBLASTIC-like ANAEMIA and neutropenia)**.
 - **Collagen cross-linking also needs vitamin C** (for prolyl and lysyl **hydroxylase**) — but that is **hydroxylation**, an earlier step. **Scurvy = defective hydroxylation; Menkes = defective cross-linking.**
 - **Ehlers–Danlos** includes a **kyphoscoliotic type from lysyl HYDROXYLASE deficiency** — worth distinguishing from lysyl oxidase.
 
 **EXAM CONNECTION:** The stem names copper and lysyl oxidase → **Menkes disease** (scurvy and EDS are the distractors).
 
-**REMEMBER:** *Copper cross-links collagen. Menkes can't absorb it; Wilson can't excrete it.*
+**REMEMBER:** *Copper cross-links collagen. Menkes can’t absorb it; Wilson can’t excrete it.*
 
 `Q9223`
 
@@ -3202,12 +3202,12 @@
 
 - **Chelators for active disease: D-PENICILLAMINE** (watch for **paradoxical initial neurological worsening**, nephrotic syndrome, lupus-like reaction, marrow suppression, and give **pyridoxine** with it) or **TRIENTINE** (better tolerated, increasingly first-line).
 - **Diagnostic profile: LOW serum caeruloplasmin, LOW total serum copper but HIGH FREE copper, HIGH 24-hour urinary copper**, and the gold standard **raised hepatic copper on biopsy (>250 µg/g dry weight)**.
-- **KAYSER–FLEISCHER RINGS** (copper in Descemet's membrane, seen on **slit lamp**) are present in nearly all patients with **neurological** disease, but only ~50% with hepatic-only disease. **Sunflower cataract** is the other ocular sign.
-- **Neurological picture:** tremor (**"wing-beating"**), dysarthria, dystonia, parkinsonism, and **psychiatric change**; MRI shows the **"face of the giant panda"** sign in the midbrain.
+- **KAYSER–FLEISCHER RINGS** (copper in Descemet’s membrane, seen on **slit lamp**) are present in nearly all patients with **neurological** disease, but only ~50% with hepatic-only disease. **Sunflower cataract** is the other ocular sign.
+- **Neurological picture:** tremor (**“wing-beating”**), dysarthria, dystonia, parkinsonism, and **psychiatric change**; MRI shows the **“face of the giant panda”** sign in the midbrain.
 - **Suspect Wilson disease in any young person with unexplained liver disease, a movement disorder, or Coombs-NEGATIVE haemolytic anaemia**, and always in **acute liver failure with a LOW alkaline phosphatase and an ALP:bilirubin ratio <4**.
 - **A low-copper diet** (avoid liver, shellfish, nuts, chocolate, mushrooms) supports treatment. Treatment is **lifelong**.
 
-**EXAM CONNECTION:** Adolescent + jaundice + transaminitis + low caeruloplasmin → "which mineral is used in treatment?" → **zinc**.
+**EXAM CONNECTION:** Adolescent + jaundice + transaminitis + low caeruloplasmin → “which mineral is used in treatment?” → **zinc**.
 
 **REMEMBER:** *Zinc induces metallothionein and traps copper in the gut — chelators pull it out of tissue.*
 
@@ -3219,7 +3219,7 @@
 
 **PEARL:** **Zinc is the cofactor of CARBONIC ANHYDRASE** — and of >300 metalloenzymes including **alcohol dehydrogenase, alkaline phosphatase, DNA and RNA polymerases, matrix metalloproteinases, and extracellular superoxide dismutase**.
 
-**UNDERSTAND:** Zinc's role is **structural and catalytic rather than redox** — unlike iron and copper, zinc has only one oxidation state, so it can sit in an enzyme's active site to polarise a substrate without generating free radicals. That chemical safety is why it is used so widely, and why **zinc fingers** are the commonest DNA-binding motif in transcription factors.
+**UNDERSTAND:** Zinc’s role is **structural and catalytic rather than redox** — unlike iron and copper, zinc has only one oxidation state, so it can sit in an enzyme’s active site to polarise a substrate without generating free radicals. That chemical safety is why it is used so widely, and why **zinc fingers** are the commonest DNA-binding motif in transcription factors.
 
 **MUST KNOW:**
 
@@ -3230,7 +3230,7 @@
 - **Excess zinc causes COPPER deficiency** — sideroblastic-type anaemia, neutropenia and myelopathy (seen with denture cream abuse and over-supplementation).
 - **Contrast the other trace-element enzymes:** **xanthine oxidase — molybdenum**; **glutathione peroxidase — selenium**; **lysyl oxidase and cytochrome oxidase — copper**; **catalase and peroxidase — iron**.
 
-**EXAM CONNECTION:** "Zinc is a cofactor of" → **carbonic anhydrase**.
+**EXAM CONNECTION:** “Zinc is a cofactor of” → **carbonic anhydrase**.
 
 **REMEMBER:** *Zinc: taste, wound healing, gonads, immunity — and carbonic anhydrase.*
 
@@ -3240,7 +3240,7 @@
 
 ### 148. Selenocysteine Enzymes
 
-**PEARL:** **Thioredoxin reductase, glutathione peroxidase, and the deiodinase converting T4 → T3** use **selenocysteine** (the "21st amino acid", coded by **UGA** with a SECIS element).
+**PEARL:** **Thioredoxin reductase, glutathione peroxidase, and the deiodinase converting T4 → T3** use **selenocysteine** (the “21st amino acid”, coded by **UGA** with a SECIS element).
 
 **MUST KNOW:** Selenium deficiency → **Keshan disease** (cardiomyopathy) and Kashin–Beck disease; it also impairs peripheral T4→T3 conversion → **low T3**.
 
@@ -3259,12 +3259,12 @@
 **MUST KNOW:**
 
 - **ALA SYNTHASE is the rate-limiting enzyme** of haem synthesis (mitochondrial, needs **pyridoxal phosphate/B6**, and is **feedback-inhibited by haem**) — but it is **NOT the enzyme inhibited by lead**. That is the intended trap.
-- **Clinical lead poisoning:** **abdominal colic**, **peripheral motor neuropathy (wrist/foot drop)**, encephalopathy in children, **anaemia with BASOPHILIC STIPPLING** (lead also inhibits pyrimidine-5′-nucleotidase, so ribosomal RNA is not degraded), **Burton's line** on the gums, **lead lines** in the metaphyses on X-ray, and **renal Fanconi syndrome**.
+- **Clinical lead poisoning:** **abdominal colic**, **peripheral motor neuropathy (wrist/foot drop)**, encephalopathy in children, **anaemia with BASOPHILIC STIPPLING** (lead also inhibits pyrimidine-5′-nucleotidase, so ribosomal RNA is not degraded), **Burton’s line** on the gums, **lead lines** in the metaphyses on X-ray, and **renal Fanconi syndrome**.
 - **Chelation: CaNa2-EDTA, dimercaprol (BAL), DMSA (succimer — oral, paediatric), D-penicillamine.**
 - **Compare the porphyrias:** **acute intermittent porphyria** (porphobilinogen deaminase) — abdominal pain + neuropsychiatric signs, **no photosensitivity**, urine darkens on standing; **porphyria cutanea tarda** (uroporphyrinogen decarboxylase) — the commonest, photosensitive blistering, associated with **HCV, alcohol and iron**; **erythropoietic protoporphyria** (ferrochelatase) — painful non-blistering photosensitivity.
 - **Lead poisoning mimics AIP** clinically (both give abdominal pain and neuropathy) but lead has **anaemia with stippling**, which AIP does not.
 
-**EXAM CONNECTION:** Child eating old paint + abdominal pain + limb weakness → "enzyme defect" → **ALA dehydratase**.
+**EXAM CONNECTION:** Child eating old paint + abdominal pain + limb weakness → “enzyme defect” → **ALA dehydratase**.
 
 **REMEMBER:** *ALA synthase is rate-limiting; ALA DEhydratase is what lead destroys.*
 
@@ -3279,7 +3279,7 @@
 
 **PEARL:** **DIRECT positive = CONJUGATED hyperbilirubinaemia** (obstructive or hepatocellular). **INDIRECT positive = UNCONJUGATED** (haemolysis, Gilbert, Crigler–Najjar).
 
-**UNDERSTAND:** The reagent (**diazotised sulfanilic acid**) can only reach bilirubin that is **water-soluble**. **Conjugated bilirubin reacts immediately in water = "direct"**. **Unconjugated bilirubin is albumin-bound and lipid-soluble**, so it needs **methanol (an accelerator)** to react — giving **total** bilirubin. **Indirect = total − direct.**
+**UNDERSTAND:** The reagent (**diazotised sulfanilic acid**) can only reach bilirubin that is **water-soluble**. **Conjugated bilirubin reacts immediately in water = “direct”**. **Unconjugated bilirubin is albumin-bound and lipid-soluble**, so it needs **methanol (an accelerator)** to react — giving **total** bilirubin. **Indirect = total − direct.**
 
 **MUST KNOW:**
 
@@ -3311,7 +3311,7 @@
 - **Downstream:** bilirubin → albumin-bound to liver → **conjugated by UDP-glucuronyl transferase** → bile → gut bacteria **deconjugate and reduce it to urobilinogen** → most excreted as **stercobilinogen** (faecal colour), some reabsorbed (enterohepatic) and a fraction excreted in urine as **urobilin**.
 - **Contrast with SYNTHESIS:** glycine + succinyl-CoA → **ALA (by ALA synthase, the rate-limiting step, in mitochondria)** → porphobilinogen → … → protoporphyrin IX → **ferrochelatase inserts iron**.
 
-**EXAM CONNECTION:** "Which is NOT a haem breakdown product?" → **ALA**.
+**EXAM CONNECTION:** “Which is NOT a haem breakdown product?” → **ALA**.
 
 **REMEMBER:** *Breakdown gives CO, iron and biliverdin. ALA belongs to the build, not the breakdown.*
 
@@ -3330,14 +3330,14 @@
 
 **MUST KNOW:**
 
-- **Acute Intermittent Porphyria (porphobilinogen deaminase):** the classic **"acute abdomen with no signs"** — severe abdominal pain, vomiting, **peripheral neuropathy, psychosis, seizures, and SIADH/hyponatraemia**, with **NO photosensitivity**. **Urine darkens to port-wine colour on standing in light.**
-- **AIP precipitants — the "P450 inducers":** **barbiturates, phenytoin, carbamazepine, sulfonamides, griseofulvin, rifampicin, alcohol, oestrogens/OCP, fasting, infection, stress.** Any drug that induces cytochrome P450 consumes haem, de-represses **ALA synthase**, and floods the blocked pathway.
-- **Treatment of an acute attack: IV HAEM (haem arginate) and high-dose glucose ("glucose loading")** — both suppress ALA synthase. **Avoid the precipitating drugs**; treat pain with opiates, tachycardia with **β-blockers**, and never with barbiturates.
+- **Acute Intermittent Porphyria (porphobilinogen deaminase):** the classic **“acute abdomen with no signs”** — severe abdominal pain, vomiting, **peripheral neuropathy, psychosis, seizures, and SIADH/hyponatraemia**, with **NO photosensitivity**. **Urine darkens to port-wine colour on standing in light.**
+- **AIP precipitants — the “P450 inducers”:** **barbiturates, phenytoin, carbamazepine, sulfonamides, griseofulvin, rifampicin, alcohol, oestrogens/OCP, fasting, infection, stress.** Any drug that induces cytochrome P450 consumes haem, de-represses **ALA synthase**, and floods the blocked pathway.
+- **Treatment of an acute attack: IV HAEM (haem arginate) and high-dose glucose (“glucose loading”)** — both suppress ALA synthase. **Avoid the precipitating drugs**; treat pain with opiates, tachycardia with **β-blockers**, and never with barbiturates.
 - **Variegate porphyria and hereditary coproporphyria have BOTH** neurovisceral attacks **and** photosensitivity — the hybrids.
 - **PCT (uroporphyrinogen decarboxylase)** is the **commonest porphyria**: photosensitive **blistering and skin fragility on the dorsum of the hands, hypertrichosis**, strongly linked to **hepatitis C, alcohol, oestrogens and iron overload**; treated with **venesection and low-dose hydroxychloroquine**.
 - **Erythropoietic protoporphyria (ferrochelatase)** gives **painful, burning, NON-blistering photosensitivity** in childhood.
 
-**EXAM CONNECTION:** "Which is NOT a hepatic porphyria?" → **erythropoietic protoporphyria**.
+**EXAM CONNECTION:** “Which is NOT a hepatic porphyria?” → **erythropoietic protoporphyria**.
 
 **REMEMBER:** *ALA and PBG hurt the nerves; porphyrins burn the skin. Hepatic acute attacks, erythropoietic photosensitivity.*
 
@@ -3414,7 +3414,7 @@
 - **RQ of the whole body ≈ 0.82** on a normal Indian mixed diet.
 - Do not confuse with the **respiratory exchange ratio (RER)**, which is the measured value and can transiently exceed 1 during hyperventilation or intense exercise (bicarbonate buffering of lactate).
 
-**EXAM CONNECTION:** "Highest RQ immediately after consumption" → **mixed diet** (because carbohydrate is oxidised first). Pure carbohydrate would be the answer if offered.
+**EXAM CONNECTION:** “Highest RQ immediately after consumption” → **mixed diet** (because carbohydrate is oxidised first). Pure carbohydrate would be the answer if offered.
 
 **REMEMBER:** *Carbs 1, protein 0.8, fat 0.7 — and above 1 means you are making fat.*
 
@@ -3432,12 +3432,12 @@
 
 - **Total daily energy expenditure has three components: basal/resting metabolic rate (~60–70%), physical activity (~20–30%), and the thermic effect of food (~10%).**
 - The high SDA of protein is part of why **high-protein diets aid weight loss** and why protein promotes satiety.
-- **Practical corollary:** SDA must be accounted for when calculating a patient's caloric requirement — feed the calculated requirement plus the thermic cost.
+- **Practical corollary:** SDA must be accounted for when calculating a patient’s caloric requirement — feed the calculated requirement plus the thermic cost.
 - **BMR is raised in:** fever (**~13% per 1°C / 7% per °F**), hyperthyroidism, pregnancy and lactation, cold exposure, sympathetic activity, and burns. **Lowered in:** hypothyroidism, starvation and malnutrition (an adaptive fall of up to 30%), sleep, and ageing.
 - **BMR is measured in the postabsorptive state (12 h fast), at complete physical and mental rest, in a thermoneutral environment** — a definition frequently examined.
 - **Do not confuse SDA with the respiratory quotient** — SDA is about energy cost, RQ about fuel type.
 
-**EXAM CONNECTION:** "Specific dynamic action is maximum for" → **proteins**.
+**EXAM CONNECTION:** “Specific dynamic action is maximum for” → **proteins**.
 
 **ALSO KNOW:** SDA (diet-induced thermogenesis / thermic effect of food) — the extra energy needed for digestion, absorption and disposal of nutrients — is **maximum for PROTEIN (~30%)**. Carbohydrate ~5–10%, fat ~2–5%, mixed diet ~10%. High protein cost comes from deamination and urea synthesis.
 
@@ -3449,7 +3449,7 @@
 
 ### 157. Basal Metabolic Rate — Up or Down
 
-**PEARL:** BMR is **decreased in starvation, PEM, hypothyroidism and Addison's disease**; **increased in fever, hyperthyroidism, cold exposure, cachexia and Cushing's**.
+**PEARL:** BMR is **decreased in starvation, PEM, hypothyroidism and Addison’s disease**; **increased in fever, hyperthyroidism, cold exposure, cachexia and Cushing’s**.
 
 **UNDERSTAND:** BMR tracks **thyroid hormone and sympathetic drive**. Starvation is an **adaptive down-regulation** — the body suppresses T3 (**low T3 syndrome**, increased reverse T3) to conserve fuel. Cachexia looks similar but is the opposite metabolically: it is driven by **inflammatory cytokines (TNF-α, IL-6)** that *raise* metabolic rate despite the wasting.
 
@@ -3461,7 +3461,7 @@
 - Measured after **12 h fasting, complete rest, thermoneutral environment** — historically by **indirect calorimetry (Benedict–Roth)**; classically assessed clinically as the best index of **thyroid function** before assays existed.
 - **Specific dynamic action (thermic effect of food)** is highest for **protein (~30%)**, lowest for fat.
 
-**EXAM CONNECTION:** "Which causes DECREASED BMR" → **starvation**. Cachexia is the trap because it also involves weight loss — but it *raises* BMR.
+**EXAM CONNECTION:** “Which causes DECREASED BMR” → **starvation**. Cachexia is the trap because it also involves weight loss — but it *raises* BMR.
 
 **REMEMBER:** *Starvation conserves, cachexia consumes.*
 
@@ -3493,11 +3493,11 @@
 
 - **The three irreversible glycolytic steps and their gluconeogenic bypasses:** **hexokinase/glucokinase ↔ glucose-6-phosphatase** · **PFK-1 ↔ fructose-1,6-bisphosphatase** · **pyruvate kinase ↔ pyruvate carboxylase + PEPCK**.
 - **Fructose-2,6-bisphosphate is the master switch:** insulin raises it → **activates PFK-1 and inhibits fructose-1,6-bisphosphatase** (glycolysis on). Glucagon lowers it (via PKA phosphorylating PFK-2/FBPase-2) → gluconeogenesis on.
-- **Pyruvate carboxylase is allosterically activated by ACETYL-CoA** — the elegant logic being that abundant fatty-acid-derived acetyl-CoA in fasting signals "make glucose, don't burn it".
+- **Pyruvate carboxylase is allosterically activated by ACETYL-CoA** — the elegant logic being that abundant fatty-acid-derived acetyl-CoA in fasting signals “make glucose, don’t burn it”.
 - **Glucose-6-phosphatase is present only in LIVER, KIDNEY and INTESTINE** — which is why **muscle glycogen cannot raise blood glucose**, and why its deficiency causes **von Gierke disease (GSD I)** with severe fasting hypoglycaemia, lactic acidosis, hyperuricaemia and hyperlipidaemia.
 - **Gluconeogenesis cannot be made from ACETYL-CoA / even-chain fatty acids** — hence fat cannot be converted to glucose (except the glycerol backbone and odd-chain fatty acids via propionyl-CoA).
 
-**EXAM CONNECTION:** "Which enzyme activity DECREASES in fasting?" → **PFK-1**.
+**EXAM CONNECTION:** “Which enzyme activity DECREASES in fasting?” → **PFK-1**.
 
 **REMEMBER:** *Insulin turns on PFK-1; glucagon turns on the four bypass enzymes — via fructose-2,6-bisphosphate.*
 
@@ -3519,10 +3519,10 @@
 - **An overnight fast (~11–12 hours) is still the GLYCOGENOLYSIS phase** — this is the point the question tests. Gluconeogenesis *begins* at 4–6 hours but does not dominate until glycogen is gone.
 - **MUSCLE GLYCOGEN CANNOT RAISE BLOOD GLUCOSE** — muscle lacks **glucose-6-phosphatase**. It can only use its own glycogen locally, or export the carbon as **lactate (Cori cycle)** or **alanine (glucose–alanine cycle)**.
 - **Gluconeogenic substrates:** **glucogenic amino acids (mainly alanine and glutamine)**, **glycerol** from lipolysis, **lactate**, and **propionate** (from odd-chain fatty acids). **Acetyl-CoA and even-chain fatty acids are NOT gluconeogenic.**
-- **Prolonged starvation:** ketones supply up to **two-thirds of the brain's energy**, protein breakdown falls sharply, and **the RBC remains obligately glycolytic** (no mitochondria).
-- **Only leucine and lysine are purely ketogenic** ("**L**eucine and **L**ysine"); the rest are glucogenic or both.
+- **Prolonged starvation:** ketones supply up to **two-thirds of the brain’s energy**, protein breakdown falls sharply, and **the RBC remains obligately glycolytic** (no mitochondria).
+- **Only leucine and lysine are purely ketogenic** (“**L**eucine and **L**ysine”); the rest are glucogenic or both.
 
-**EXAM CONNECTION:** "Dinner at 8 pm, tested at 7 am — source of blood glucose?" → **hepatic glycogenolysis**. The seductive wrong answer is gluconeogenesis.
+**EXAM CONNECTION:** “Dinner at 8 pm, tested at 7 am — source of blood glucose?” → **hepatic glycogenolysis**. The seductive wrong answer is gluconeogenesis.
 
 **REMEMBER:** *Under 18 hours = liver glycogen. Beyond that = gluconeogenesis. Muscle glycogen never counts.*
 
@@ -3549,7 +3549,7 @@
 - **The three metabolic routes for ethanol:** **alcohol dehydrogenase** (cytosol, main), **MEOS/CYP2E1** (induced by chronic use — explains tolerance and **enhanced paracetamol hepatotoxicity**), and catalase (minor). **Acetaldehyde dehydrogenase** is inhibited by **disulfiram** and is genetically deficient in many East Asians (the flushing reaction).
 - **Alcoholics are thiamine-deficient**, which independently blocks PDH and worsens lactic acidosis.
 
-**EXAM CONNECTION:** Chronic alcoholic with gout → "biochemical changes" → **increased urate and lactate** (note the distractor "decreased NADH/NAD⁺" — it is *increased*).
+**EXAM CONNECTION:** Chronic alcoholic with gout → “biochemical changes” → **increased urate and lactate** (note the distractor “decreased NADH/NAD⁺” — it is *increased*).
 
 **ALSO KNOW:** Alcohol dehydrogenase (and ALDH) oxidize ethanol while **reducing NAD⁺ to NADH** → a **high NADH/NAD⁺ ratio**.
 
@@ -3563,7 +3563,7 @@
 
 **PEARL:** **CORI cycle: muscle LACTATE → liver → glucose.** **CAHILL (glucose–alanine) cycle: muscle ALANINE → liver → glucose + urea.** **GLYCEROL comes from ADIPOSE tissue lipolysis — not from muscle.**
 
-**UNDERSTAND:** Both cycles export the muscle's problem to the liver. Anaerobic muscle must regenerate **NAD⁺** to keep glycolysis running, so it reduces pyruvate to lactate; the liver takes the lactate back and pays the ATP cost of remaking glucose. The alanine cycle does the same job while **simultaneously carrying nitrogen** from muscle protein breakdown to the liver for urea synthesis.
+**UNDERSTAND:** Both cycles export the muscle’s problem to the liver. Anaerobic muscle must regenerate **NAD⁺** to keep glycolysis running, so it reduces pyruvate to lactate; the liver takes the lactate back and pays the ATP cost of remaking glucose. The alanine cycle does the same job while **simultaneously carrying nitrogen** from muscle protein breakdown to the liver for urea synthesis.
 
 **MUST KNOW:**
 
@@ -3571,9 +3571,9 @@
 - **Alanine is the major gluconeogenic amino acid**; it is made by **transamination of pyruvate** in muscle.
 - **Glycerol** enters gluconeogenesis as **glycerol-3-phosphate → DHAP**; the fatty acid tails cannot be converted to glucose.
 - **Muscle lacks glucose-6-phosphatase**, so it can never release free glucose — hence these shuttles exist at all.
-- **Lactate is also a fuel in its own right** (the "lactate shuttle") for heart and brain, and clearance failure — not overproduction alone — is what makes lactate a mortality marker in shock.
+- **Lactate is also a fuel in its own right** (the “lactate shuttle”) for heart and brain, and clearance failure — not overproduction alone — is what makes lactate a mortality marker in shock.
 
-**EXAM CONNECTION:** Diagram of liver–muscle exchange with a molecule masked → "can be all EXCEPT" → **glycerol** (it comes from adipose tissue).
+**EXAM CONNECTION:** Diagram of liver–muscle exchange with a molecule masked → “can be all EXCEPT” → **glycerol** (it comes from adipose tissue).
 
 **REMEMBER:** *Muscle sends lactate (Cori) and alanine (Cahill); fat sends glycerol.*
 
@@ -3594,7 +3594,7 @@
 
 **MUST KNOW:**
 
-- **"TAy-SAchs = no organomegaly" / "NiemANN-Pick = orgANomegaly."** Both are **autosomal recessive** and both are commoner in **Ashkenazi Jews**.
+- **“TAy-SAchs = no organomegaly” / “NiemANN-Pick = orgANomegaly.”** Both are **autosomal recessive** and both are commoner in **Ashkenazi Jews**.
 - **Tay-Sachs:** normal at birth, then **exaggerated startle response to sound**, regression of milestones, macrocephaly, blindness, death by 2–4 years. Enzyme: **hexosaminidase A**. **Sandhoff disease** (hex A **and** B) looks identical **but HAS organomegaly**.
 - **Niemann–Pick:** also has **foamy/sea-blue histiocytes** in the marrow.
 - **GAUCHER (glucocerebrosidase) is the commonest lysosomal storage disorder** — hepatosplenomegaly, **bone crises and Erlenmeyer flask femur**, thrombocytopenia, **crumpled tissue paper macrophages**; **NO cherry-red spot**. Treated with **enzyme replacement (imiglucerase)**.
@@ -3617,10 +3617,10 @@
 
 **MUST KNOW:**
 
-- **Classic presentation in a boy/young man:** **acroparaesthesia — burning pain in the hands and feet ("Fabry crises")**, often the first symptom and frequently misdiagnosed as growing pains or rheumatic disease; **HYPOHIDROSIS with heat and exercise intolerance**; **angiokeratomas** in a "bathing trunk" distribution (umbilicus to knees); **corneal verticillata (whorl-like opacity)**; then **proteinuria → renal failure**, **hypertrophic cardiomyopathy**, and **early stroke**.
+- **Classic presentation in a boy/young man:** **acroparaesthesia — burning pain in the hands and feet (“Fabry crises”)**, often the first symptom and frequently misdiagnosed as growing pains or rheumatic disease; **HYPOHIDROSIS with heat and exercise intolerance**; **angiokeratomas** in a “bathing trunk” distribution (umbilicus to knees); **corneal verticillata (whorl-like opacity)**; then **proteinuria → renal failure**, **hypertrophic cardiomyopathy**, and **early stroke**.
 - **Corneal verticillata is also caused by AMIODARONE, chloroquine and indomethacin** — a useful cross-link.
 - **Treatment: enzyme replacement (agalsidase)** and the oral chaperone **migalastat**.
-- **Female carriers are often symptomatic** because of **lyonisation (random X-inactivation)** — so "X-linked recessive" does not mean women are spared. Fabry is one of the best examples of this.
+- **Female carriers are often symptomatic** because of **lyonisation (random X-inactivation)** — so “X-linked recessive” does not mean women are spared. Fabry is one of the best examples of this.
 - **The other sphingolipidoses (all AR):** Gaucher, Niemann–Pick, Tay-Sachs, Krabbe, metachromatic leukodystrophy.
 
 **EXAM CONNECTION:** Burning hands + angiokeratoma + renal impairment → then asked for the **mode of inheritance** → **X-linked recessive**.
@@ -3642,11 +3642,11 @@
 - **Plasmalogens are major components of MYELIN** — their deficiency contributes directly to the profound neurological impairment.
 - **Clinical picture:** severe **hypotonia with depressed reflexes**, **high forehead, large fontanelle, widely separated sutures**, epicanthal folds, seizures, hepatomegaly, **renal cysts**, and **calcific stippling of the epiphyses (chondrodysplasia punctata)**. Death usually within the first year.
 - **The peroxisomal disease spectrum:** **Zellweger (most severe) → neonatal adrenoleukodystrophy → infantile Refsum** — a continuum of PEX defects.
-- **X-linked adrenoleukodystrophy (ABCD1)** is the single-enzyme cousin — **VLCFA accumulation with adrenal insufficiency and demyelination** (the "Lorenzo's oil" disease).
+- **X-linked adrenoleukodystrophy (ABCD1)** is the single-enzyme cousin — **VLCFA accumulation with adrenal insufficiency and demyelination** (the “Lorenzo’s oil” disease).
 - **Refsum disease** is the pure **α-oxidation** defect (see the separate pearl).
 - **Peroxisomes also contain CATALASE**, destroying the H2O2 they generate.
 
-**EXAM CONNECTION:** "Which finding would NOT be seen?" → **elevated plasmalogens** (they are decreased).
+**EXAM CONNECTION:** “Which finding would NOT be seen?” → **elevated plasmalogens** (they are decreased).
 
 **ALSO KNOW:** Mutations in **PEX (peroxin)** genes → failure to import proteins into peroxisomes → **defective β-oxidation of VLCFA, defective α-oxidation, and impaired synthesis of bile acids and plasmalogens**.
 
@@ -3690,7 +3690,7 @@
 
 - **ATLANTOAXIAL INSTABILITY from odontoid hypoplasia is the life-threatening feature** — these patients risk **cervical cord compression during neck extension**, i.e. **at intubation**. Every Morquio patient needs cervical spine imaging and extreme care with airway manipulation. This is the single most clinically important point.
 - **The MPS comparison table:** **Hurler (MPS I, α-L-iduronidase, AR)** — coarse facies, **CORNEAL CLOUDING**, hepatosplenomegaly, dysostosis multiplex, intellectual disability, death in childhood. **Hunter (MPS II, iduronate-2-sulfatase, X-LINKED)** — similar but **NO corneal clouding**, milder, with **pebbly ivory skin lesions**. **Sanfilippo (MPS III, heparan sulfate)** — **severe behavioural/neurological disease with MILD somatic features** — the reverse pattern. **Morquio (MPS IV)** — skeletal, **normal intellect**, corneal clouding present.
-- **"Hunters need clear vision to shoot, and hunting is for boys"** — Hunter has no corneal clouding and is X-linked.
+- **“Hunters need clear vision to shoot, and hunting is for boys”** — Hunter has no corneal clouding and is X-linked.
 - **Chondroitin sulfate is the MOST ABUNDANT GAG in the body** — cartilage, bone, CNS extracellular matrix; repeating units of **glucuronic acid + N-acetylgalactosamine**.
 - **Treatment: enzyme replacement therapy** (elosulfase alfa for Morquio A, laronidase for Hurler, idursulfase for Hunter) and **haematopoietic stem cell transplant** for Hurler if done early.
 
@@ -3714,7 +3714,7 @@
 
 **MUST KNOW:**
 
-- **The hoarse cry in an infant with "arthritis" is the diagnostic giveaway** — juvenile idiopathic arthritis does not cause it. Progressive **airway compromise** is a leading cause of death.
+- **The hoarse cry in an infant with “arthritis” is the diagnostic giveaway** — juvenile idiopathic arthritis does not cause it. Progressive **airway compromise** is a leading cause of death.
 - Also called **Farber lipogranulomatosis**; features include hepatosplenomegaly, failure to thrive and progressive neurological decline.
 - **Placing it on the sphingolipid map:** ceramide + phosphocholine = **sphingomyelin (Niemann–Pick, sphingomyelinase)**; ceramide + glucose = **glucocerebroside (Gaucher, glucocerebrosidase)**; ceramide + galactose = **galactocerebroside (Krabbe, galactocerebrosidase)**; sulfated = **sulfatide (metachromatic leukodystrophy, arylsulfatase A)**; with oligosaccharide chains = **gangliosides (Tay-Sachs/Sandhoff, hexosaminidase)** and **globotriaosylceramide (Fabry, α-galactosidase A)**.
 - All sphingolipidoses are **autosomal recessive except FABRY (X-linked)**.
@@ -3724,7 +3724,7 @@
 
 **ALSO KNOW:** Deficiency of **ceramidase** (ceramide → sphingosine + fatty acid). Presents with **painful swollen joints, subcutaneous nodules, progressive deformity, a hoarse cry** (laryngeal nodules), breathing difficulty, developmental delay and failure to thrive.
 
-**REMEMBER:** *Ceramide is the hub — Farber blocks its final breakdown, and the baby's cry goes hoarse.*
+**REMEMBER:** *Ceramide is the hub — Farber blocks its final breakdown, and the baby’s cry goes hoarse.*
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a017a6d45196402e81ffe7e36e3d7b92x268x201.JPEG)
@@ -3735,7 +3735,7 @@
 
 ### 169. Gaucher Disease
 
-**PEARL:** **Gaucher disease = glucocerebrosidase (β-glucosidase) deficiency** — the **commonest lysosomal storage disorder** — with **"crumpled tissue paper" macrophages** in the marrow.
+**PEARL:** **Gaucher disease = glucocerebrosidase (β-glucosidase) deficiency** — the **commonest lysosomal storage disorder** — with **“crumpled tissue paper” macrophages** in the marrow.
 
 **UNDERSTAND:** The undegraded **glucocerebroside** accumulates inside **macrophages**, not neurons, in the common type. Because macrophages populate the **spleen, liver and marrow**, the disease presents as **organomegaly and cytopenias** rather than as neurodegeneration — and the engorged cytoplasm forms the wrinkled-paper fibrillary appearance.
 
@@ -3747,7 +3747,7 @@
 - Compare the sphingolipidoses: **Tay-Sachs** = hexosaminidase A, cherry-red spot, **no hepatosplenomegaly**; **Niemann-Pick A** = **sphingomyelinase**, cherry-red spot **WITH** hepatosplenomegaly, **foamy hepatocytes and zebra bodies**; **Krabbe** = galactocerebrosidase, globoid cells; **Fabry** = α-galactosidase A, **X-linked**, angiokeratoma and neuropathic pain.
 - Cherry-red spot discriminator: **splenomegaly present → Niemann-Pick; absent → Tay-Sachs**.
 
-**EXAM CONNECTION:** Image-driven. "Crumpled tissue paper" → Gaucher → **glucocerebrosidase**; "foamy cells + zebra bodies + cherry-red spot + organomegaly" → Niemann-Pick A → **sphingomyelinase**.
+**EXAM CONNECTION:** Image-driven. “Crumpled tissue paper” → Gaucher → **glucocerebrosidase**; “foamy cells + zebra bodies + cherry-red spot + organomegaly” → Niemann-Pick A → **sphingomyelinase**.
 
 **REMEMBER:** *Crumpled paper stores glucose-cerebroside; foamy cells store sphingomyelin.*
 
@@ -3774,7 +3774,7 @@
 - **Sanfilippo (MPS III)** is the reverse — severe **behavioural/neurodegenerative** disease with mild somatic features.
 - Beyond MPS: **Gaucher → imiglucerase**; **Fabry → agalsidase**; **Pompe → alglucosidase alfa**.
 
-**EXAM CONNECTION:** Trade names are asked directly. Anchor **Naglazyme–Maroteaux–Lamy** and **Aldurazyme–Hurler**; the "-sulfase" endings track the sulfatase deficiencies.
+**EXAM CONNECTION:** Trade names are asked directly. Anchor **Naglazyme–Maroteaux–Lamy** and **Aldurazyme–Hurler**; the “-sulfase” endings track the sulfatase deficiencies.
 
 **REMEMBER:** *Enzyme in the vein cannot reach the brain.*
 
@@ -3786,17 +3786,17 @@
 
 ### 171. Cytochrome P450 and Phase I Metabolism
 
-**PEARL:** Cytochrome P450 **mono-oxygenase requires NADPH and molecular oxygen**: one atom of O₂ goes into the substrate (hydroxylation) and the other becomes water — hence "mono-oxygenase" or "mixed-function oxidase".
+**PEARL:** Cytochrome P450 **mono-oxygenase requires NADPH and molecular oxygen**: one atom of O₂ goes into the substrate (hydroxylation) and the other becomes water — hence “mono-oxygenase” or “mixed-function oxidase”.
 
-**UNDERSTAND:** The reaction is **RH + O₂ + NADPH + H⁺ → ROH + H₂O + NADP⁺**. The system needs a reducing agent because the haem iron must cycle between Fe³⁺ and Fe²⁺ to bind and split oxygen, and **NADPH — not NADH — is the cell's dedicated reductive-biosynthesis currency**, supplied by the **HMP shunt**. That is why the liver and adrenal cortex, the great sites of P450 activity, have such active pentose phosphate pathways.
+**UNDERSTAND:** The reaction is **RH + O₂ + NADPH + H⁺ → ROH + H₂O + NADP⁺**. The system needs a reducing agent because the haem iron must cycle between Fe³⁺ and Fe²⁺ to bind and split oxygen, and **NADPH — not NADH — is the cell’s dedicated reductive-biosynthesis currency**, supplied by the **HMP shunt**. That is why the liver and adrenal cortex, the great sites of P450 activity, have such active pentose phosphate pathways.
 
 **MUST KNOW:**
 
 - **Phase I (oxidation, reduction, hydrolysis)** — introduces or exposes a functional group, usually **inactivating** the drug but sometimes **activating a prodrug** (codeine→morphine, cyclophosphamide, clopidogrel) or creating a **toxic metabolite (paracetamol→NAPQI)**.
 - **Phase II (conjugation)** — glucuronidation, sulfation, acetylation, methylation, glutathione and glycine conjugation — makes the metabolite **water-soluble for excretion**. Generally requires **UDP-glucuronate, PAPS, acetyl-CoA or glutathione**.
-- **CYP inducers ("CRAP GPS"): Carbamazepine, Rifampicin, Alcohol (chronic), Phenytoin, Griseofulvin, Phenobarbitone, Sulfonylureas, St John's wort, smoking** → reduce the effect of warfarin, OCPs, ciclosporin.
-- **CYP inhibitors ("SICKFACES.COM"): Sodium valproate, Isoniazid, Cimetidine, Ketoconazole, Fluconazole, Alcohol (acute), Chloramphenicol, Erythromycin/clarithromycin, Sulfonamides, Ciprofloxacin, Omeprazole, Metronidazole**, grapefruit juice, ritonavir → raise drug levels and cause toxicity.
-- **NADPH's other jobs:** fatty acid and steroid synthesis, **maintaining reduced glutathione (RBC membrane integrity — hence haemolysis in G6PD deficiency)**, **methaemoglobin reduction**, and the **respiratory burst in phagocytes (NADPH oxidase — deficient in chronic granulomatous disease)**.
+- **CYP inducers (“CRAP GPS”): Carbamazepine, Rifampicin, Alcohol (chronic), Phenytoin, Griseofulvin, Phenobarbitone, Sulfonylureas, St John’s wort, smoking** → reduce the effect of warfarin, OCPs, ciclosporin.
+- **CYP inhibitors (“SICKFACES.COM”): Sodium valproate, Isoniazid, Cimetidine, Ketoconazole, Fluconazole, Alcohol (acute), Chloramphenicol, Erythromycin/clarithromycin, Sulfonamides, Ciprofloxacin, Omeprazole, Metronidazole**, grapefruit juice, ritonavir → raise drug levels and cause toxicity.
+- **NADPH’s other jobs:** fatty acid and steroid synthesis, **maintaining reduced glutathione (RBC membrane integrity — hence haemolysis in G6PD deficiency)**, **methaemoglobin reduction**, and the **respiratory burst in phagocytes (NADPH oxidase — deficient in chronic granulomatous disease)**.
 - **NADH (not NADPH)** is the catabolic electron carrier feeding the electron transport chain.
 
 **EXAM CONNECTION:** One-line cofactor recall. **P450 → NADPH**; the distractors (NADH, FAD, FMN) are all real electron carriers used elsewhere.
@@ -3818,8 +3818,8 @@
 **MUST KNOW:**
 
 - **Electrophoretic bands (anode → cathode): ALBUMIN → α1 (α1-antitrypsin) → α2 (α2-MACROGLOBULIN, haptoglobin, caeruloplasmin) → β (transferrin, C3, LDL) → γ (immunoglobulins).**
-- **Classic patterns:** - **Nephrotic syndrome — LOW albumin, LOW γ, TALL α2.** - **Multiple myeloma — a narrow "M spike" in the γ (or β) region**, with immunoparesis of the other immunoglobulins; confirm with **immunofixation and serum free light chains**. - **Chronic liver disease/cirrhosis — low albumin with POLYCLONAL γ elevation and BETA-GAMMA BRIDGING** (raised IgA). - **Chronic inflammation — raised α1 and α2** (acute-phase reactants), low albumin. - **α1-antitrypsin deficiency — an ABSENT/flat α1 band.**
-- **Nephrotic syndrome tetrad: proteinuria >3.5 g/day, hypoalbuminaemia, oedema, hyperlipidaemia** (± lipiduria with **"maltese cross" oval fat bodies**).
+- **Classic patterns:** **Nephrotic syndrome — LOW albumin, LOW γ, TALL α2.** **Multiple myeloma — a narrow “M spike” in the γ (or β) region**, with immunoparesis of the other immunoglobulins; confirm with **immunofixation and serum free light chains**. **Chronic liver disease/cirrhosis — low albumin with POLYCLONAL γ elevation and BETA-GAMMA BRIDGING** (raised IgA). **Chronic inflammation — raised α1 and α2** (acute-phase reactants), low albumin. **α1-antitrypsin deficiency — an ABSENT/flat α1 band.**
+- **Nephrotic syndrome tetrad: proteinuria >3.5 g/day, hypoalbuminaemia, oedema, hyperlipidaemia** (± lipiduria with **“maltese cross” oval fat bodies**).
 - Complications follow the proteins lost: **thrombosis (loss of ANTITHROMBIN III — classically RENAL VEIN THROMBOSIS in membranous nephropathy), infection (loss of IgG and complement factor B → pneumococcal peritonitis), vitamin D deficiency (loss of binding protein), anaemia (transferrin loss)**.
 - **Minimal change disease** is the commonest cause in children (steroid-responsive, effacement of podocyte foot processes on EM); **focal segmental glomerulosclerosis and membranous nephropathy (anti-PLA2R)** predominate in adults.
 
@@ -3838,7 +3838,7 @@
 
 **PEARL:** **Flipped LDH = LDH-1 > LDH-2**, and it indicates **myocardial infarction** (or haemolysis).
 
-**UNDERSTAND:** LDH is a **tetramer of H (heart) and M (muscle) subunits**. Normally serum contains slightly more LDH-2 than LDH-1, because LDH-2 leaks more readily from the larger circulating pool. **Infarcted myocardium is rich in LDH-1**, so its release reverses — "flips" — the usual ratio.
+**UNDERSTAND:** LDH is a **tetramer of H (heart) and M (muscle) subunits**. Normally serum contains slightly more LDH-2 than LDH-1, because LDH-2 leaks more readily from the larger circulating pool. **Infarcted myocardium is rich in LDH-1**, so its release reverses — “flips” — the usual ratio.
 
 **MUST KNOW:**
 
@@ -3848,9 +3848,9 @@
 - **LDH-5** rises in **liver disease and skeletal muscle injury**; total LDH is a marker in **lymphoma, germ cell tumours** (prognostic) and **PCP pneumonia**.
 - The **Rossmann fold** is the **NAD(P)-binding domain** shared by LDH, alcohol dehydrogenase, GAPDH and malate dehydrogenase.
 
-**EXAM CONNECTION:** Definitional recall — "flipped ratio implies" → **LDH-1 > LDH-2**. Options 3 and 4 are noise.
+**EXAM CONNECTION:** Definitional recall — “flipped ratio implies” → **LDH-1 > LDH-2**. Options 3 and 4 are noise.
 
-**REMEMBER:** *The heart's own isoenzyme comes first.*
+**REMEMBER:** *The heart’s own isoenzyme comes first.*
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5fe1affdba0148eb9ad195e5bb2563c3x1024x680.JPEG)

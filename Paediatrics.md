@@ -32,7 +32,7 @@
 
 **PEARL:** A child reaches **HALF OF ADULT HEIGHT AT 2 YEARS (20–24 months)**; birth length ~50 cm → **75 cm at 1 year → 85–90 cm at 2 years**, then ~6 cm/year until puberty. **Height DOUBLES by 4 years and TRIPLES by 12.** On the WHO **WEIGHT-FOR-AGE chart, between −2 SD and −3 SD is MODERATE malnutrition — the mother is TAUGHT HOW TO FEED (home management); BELOW −3 SD is SEVERE malnutrition requiring referral.** **Energy from SATURATED FAT should be <10% of total intake.**
 
-**UNDERSTAND:** The growth chart's power is that it tracks **VELOCITY, not a single point** — a child moving along a low centile is usually normal, while one **CROSSING centiles downwards is in trouble even if still "within normal limits".** That is the whole rationale of plotting serial weights in the mother-and-child protection card, and why **weight gain, not attained weight, is the best measure of a good response to nutritional treatment.**
+**UNDERSTAND:** The growth chart’s power is that it tracks **VELOCITY, not a single point** — a child moving along a low centile is usually normal, while one **CROSSING centiles downwards is in trouble even if still “within normal limits”.** That is the whole rationale of plotting serial weights in the mother-and-child protection card, and why **weight gain, not attained weight, is the best measure of a good response to nutritional treatment.**
 
 **MUST KNOW:**
 
@@ -58,7 +58,7 @@
 
 ### 2. Developmental Milestones — Fine Motor and Handedness
 
-**PEARL:** **HANDEDNESS (established hand preference) appears at about 3 YEARS.** ***HAND PREFERENCE BEFORE 1 YEAR IS ABNORMAL and suggests HEMIPLEGIC CEREBRAL PALSY*** on the opposite side. Drawing milestones: **copies a LINE at 2, CIRCLE at 3, CROSS at 4, SQUARE at 4–5, TRIANGLE at 5–6, DIAMOND at 6–7, CROSS (Doctor's cross)/CYLINDER at ~9, and CUBE at ~11 years.**
+**PEARL:** **HANDEDNESS (established hand preference) appears at about 3 YEARS.** ***HAND PREFERENCE BEFORE 1 YEAR IS ABNORMAL and suggests HEMIPLEGIC CEREBRAL PALSY*** on the opposite side. Drawing milestones: **copies a LINE at 2, CIRCLE at 3, CROSS at 4, SQUARE at 4–5, TRIANGLE at 5–6, DIAMOND at 6–7, CROSS (Doctor’s cross)/CYLINDER at ~9, and CUBE at ~11 years.**
 
 **UNDERSTAND:** Hand dominance requires **maturation of interhemispheric connections and lateralisation of motor control**, which is not complete until the preschool years — so an infant should use both hands equally. **Early preference means the non-preferred hand is not working**, which is the earliest sign of hemiplegic CP long before spasticity is obvious. Forcing a change of handedness later causes frustration and stuttering and should be avoided.
 
@@ -90,7 +90,7 @@
 
 - **Head circumference: 35 cm at birth → 43 cm at 6 months → 47 cm at 1 year → 49 cm at 2 years → 50 cm at 3 years → adult 55–56 cm. Growth of 2 cm/month in the first 3 months, 1 cm/month for the next 3, 0.5 cm/month thereafter in the first year.**
 - ***HEAD CIRCUMFERENCE EXCEEDS CHEST CIRCUMFERENCE UNTIL ABOUT 9–12 MONTHS***, when they equalise; thereafter the chest is larger. Persistence of a larger head beyond a year suggests malnutrition or hydrocephalus.
-- **Approach to short stature: measure PARENTAL HEIGHTS (mid-parental height for genetic potential), plot GROWTH VELOCITY, and check BONE AGE. FAMILIAL short stature — bone age = chronological age, normal velocity, normal puberty timing. CONSTITUTIONAL DELAY — BONE AGE DELAYED, delayed puberty, family history of "late bloomers", eventual normal adult height. PATHOLOGICAL causes — hypothyroidism, GH deficiency, Cushing syndrome, Turner syndrome, chronic disease (renal failure, coeliac disease), skeletal dysplasia and malnutrition.**
+- **Approach to short stature: measure PARENTAL HEIGHTS (mid-parental height for genetic potential), plot GROWTH VELOCITY, and check BONE AGE. FAMILIAL short stature — bone age = chronological age, normal velocity, normal puberty timing. CONSTITUTIONAL DELAY — BONE AGE DELAYED, delayed puberty, family history of “late bloomers”, eventual normal adult height. PATHOLOGICAL causes — hypothyroidism, GH deficiency, Cushing syndrome, Turner syndrome, chronic disease (renal failure, coeliac disease), skeletal dysplasia and malnutrition.**
 - ***THE PATTERN OF WEIGHT VERSUS HEIGHT DISCRIMINATES THE CAUSE:*** in **NUTRITIONAL and chronic-disease short stature the WEIGHT falls off BEFORE the height**; in **ENDOCRINE causes (hypothyroidism, GH deficiency, Cushing) the child is SHORT AND RELATIVELY OVERWEIGHT** — a fat short child needs endocrine work-up, a thin short child needs a nutritional one.
 - **Milestones of counting/drawing worth carrying: draws a line at 2, copies a bridge at 3–4, HOPS at 4, counts 4 pennies at 4 and 10 PENNIES AT 5 years.**
 
@@ -115,9 +115,9 @@
 
 - **Causes of DELAYED eruption: idiopathic (commonest), HYPOTHYROIDISM (also delayed shedding), rickets/vitamin D deficiency, hypoparathyroidism, ECTODERMAL DYSPLASIA (also hypodontia, conical teeth, hypohidrosis, sparse hair), Down syndrome, CLEIDOCRANIAL DYSPLASIA (with absent clavicles, supernumerary teeth) and prematurity/malnutrition.**
 - **PREMATURE (natal/neonatal) teeth present at birth are usually lower incisors and are removed if loose (aspiration risk).**
-- ***HUTCHINSON'S TEETH (notched, peg-shaped upper central incisors) and MULBERRY MOLARS ARE FEATURES OF LATE CONGENITAL SYPHILIS***, part of Hutchinson's triad with interstitial keratitis and sensorineural deafness.
+- ***HUTCHINSON’S TEETH (notched, peg-shaped upper central incisors) and MULBERRY MOLARS ARE FEATURES OF LATE CONGENITAL SYPHILIS***, part of Hutchinson’s triad with interstitial keratitis and sensorineural deafness.
 - **TETRACYCLINES are contraindicated under 8 YEARS and in pregnancy — they chelate calcium and cause PERMANENT YELLOW-BROWN DISCOLOURATION AND ENAMEL HYPOPLASIA. FLUOROSIS from excess fluoride (>1.5 ppm) causes mottling.**
-- **DENTAL CARIES is the commonest chronic disease of childhood; "NURSING BOTTLE CARIES" of the upper incisors follows prolonged bottle-feeding at night.**
+- **DENTAL CARIES is the commonest chronic disease of childhood; “NURSING BOTTLE CARIES” of the upper incisors follows prolonged bottle-feeding at night.**
 
 **EXAM CONNECTION:** Teeth at 3 years → **20**; delayed dentition in a healthy toddler → **idiopathic**.
 
@@ -129,7 +129,7 @@
 
 ### 5. Developmental Screening Tools
 
-**PEARL:** The **TRIVANDRUM DEVELOPMENTAL SCREENING CHART (TDSC) is the tool designed for COMMUNITY-level developmental screening of children 0–6 YEARS IN INDIA** — simple, quick (<5 minutes), requires no test materials and can be used by grassroots workers. **DENVER II** is the classic clinic-based screening test (0–6 years, four domains) but is time-consuming and needs a kit; **PHATAK'S BARODA test** is the Indian adaptation of the Bayley scales; the **AGES AND STAGES QUESTIONNAIRE** is parent-completed.
+**PEARL:** The **TRIVANDRUM DEVELOPMENTAL SCREENING CHART (TDSC) is the tool designed for COMMUNITY-level developmental screening of children 0–6 YEARS IN INDIA** — simple, quick (<5 minutes), requires no test materials and can be used by grassroots workers. **DENVER II** is the classic clinic-based screening test (0–6 years, four domains) but is time-consuming and needs a kit; **PHATAK’S BARODA test** is the Indian adaptation of the Bayley scales; the **AGES AND STAGES QUESTIONNAIRE** is parent-completed.
 
 **UNDERSTAND:** The choice of tool follows the setting, not accuracy alone: a **community screening instrument must be cheap, fast, culturally validated and usable by non-specialists**, because it is applied to thousands of well children to pick out the few needing referral. A **diagnostic instrument (Bayley, DASII, VSMS) is longer, needs training, and is applied only to the few who screen positive.** Confusing screening with diagnostic tools is the trap.
 
@@ -137,12 +137,12 @@
 
 - **Screening vs diagnostic: SCREENING — TDSC, Denver II, ASQ, Baroda screening test. DIAGNOSTIC/assessment — BAYLEY Scales of Infant Development, DASII (Developmental Assessment Scale for Indian Infants), VINELAND SOCIAL MATURITY SCALE (social quotient), Stanford–Binet and WISC (IQ) for older children, and CARS/M-CHAT for autism.**
 - **DEVELOPMENTAL QUOTIENT = (developmental age ÷ chronological age) × 100. INTELLECTUAL DISABILITY grades by IQ: mild 50–69, moderate 35–49, severe 20–34, profound <20.**
-- **Under RASHTRIYA BAL SWASTHYA KARYAKRAM (RBSK), screening covers the "4 Ds" — DEFECTS at birth, DEFICIENCIES, DISEASES and DEVELOPMENTAL DELAYS including disability — for 0–18 years, with referral to District Early Intervention Centres.**
+- **Under RASHTRIYA BAL SWASTHYA KARYAKRAM (RBSK), screening covers the “4 Ds” — DEFECTS at birth, DEFICIENCIES, DISEASES and DEVELOPMENTAL DELAYS including disability — for 0–18 years, with referral to District Early Intervention Centres.**
 - ***ALWAYS CORRECT FOR PREMATURITY UNTIL 2 YEARS OF AGE*** when assessing milestones, or preterm infants will be wrongly labelled delayed.
 - **Upper (limit) ages for key milestones — the referral thresholds: social smile 2 months, head control 4 months, sitting without support 9 months, ***WALKING ALONE 15 MONTHS, FIRST SINGLE WORDS 15 MONTHS***, and 2-word phrases 2 years. Also worth carrying: transferring objects hand to hand at 6 months (signifying the ability to COMPARE objects), immature pincer grasp, bisyllables and waving bye-bye at 9 months, and CRUISING (walking around furniture) at 10–11 months.
 - ***ANY REGRESSION OF ACQUIRED SKILLS IS PATHOLOGICAL AT ANY AGE*** and suggests a neurodegenerative or metabolic disorder.
 
-**EXAM CONNECTION:** Community screening for 0–6 years in India → **Trivandrum chart**; the "4 Ds" → **RBSK**.
+**EXAM CONNECTION:** Community screening for 0–6 years in India → **Trivandrum chart**; the “4 Ds” → **RBSK**.
 
 **REMEMBER:** *Screen fast and wide in the village, diagnose slowly and deeply in the clinic.*
 
@@ -152,9 +152,9 @@
 
 ### 6. Mid-Parental Height
 
-**PEARL:** **MID-PARENTAL (TARGET) HEIGHT: for a BOY = (father's height + mother's height) ÷ 2 + 6.5 cm; for a GIRL = (father's + mother's) ÷ 2 − 6.5 cm.** For a father of 183 cm and mother of 175 cm, a son's target is **(183 + 175)/2 + 6.5 = 179 + 6.5 = 185.5 cm.** The **target range is roughly ±8–10 cm around this value.**
+**PEARL:** **MID-PARENTAL (TARGET) HEIGHT: for a BOY = (father’s height + mother’s height) ÷ 2 + 6.5 cm; for a GIRL = (father’s + mother’s) ÷ 2 − 6.5 cm.** For a father of 183 cm and mother of 175 cm, a son’s target is **(183 + 175)/2 + 6.5 = 179 + 6.5 = 185.5 cm.** The **target range is roughly ±8–10 cm around this value.**
 
-**UNDERSTAND:** The **6.5 cm is HALF the average adult height difference between men and women (about 13 cm).** Adding it for a boy and subtracting it for a girl converts the parental average into the expected height for that child's sex. This is why the calculation matters clinically: **a short child whose height centile matches the target height is genetically short and needs no work-up, whereas a child whose height falls well BELOW the target is pathologically short and does.**
+**UNDERSTAND:** The **6.5 cm is HALF the average adult height difference between men and women (about 13 cm).** Adding it for a boy and subtracting it for a girl converts the parental average into the expected height for that child’s sex. This is why the calculation matters clinically: **a short child whose height centile matches the target height is genetically short and needs no work-up, whereas a child whose height falls well BELOW the target is pathologically short and does.**
 
 **MUST KNOW:**
 
@@ -162,7 +162,7 @@
 - **The UPPER-TO-LOWER SEGMENT RATIO measures proportion (lower segment = pubic symphysis to floor; upper segment = height minus lower segment): about ***1.7 AT BIRTH, 1.3 at 3 years, 1.0 at 7 years, and the ADULT value of ~0.9 by about 10 YEARS.*** A ***HIGH U/L ratio (short limbs) means ACHONDROPLASIA, other skeletal dysplasias, hypothyroidism or rickets; a LOW U/L ratio (short trunk) means spinal disease — vertebral dysplasia, Morquio syndrome or irradiated spine.***
 - **DISPROPORTIONATE short stature is skeletal or metabolic bone disease; PROPORTIONATE short stature is endocrine, nutritional, chronic disease, genetic syndrome or normal variant.**
 - **ARM SPAN also helps: normally less than height before ~10 years and roughly equal to it thereafter; span exceeding height by more than 5 cm suggests MARFAN syndrome or eunuchoid proportions of hypogonadism.**
-- **Measure LENGTH (supine, infantometer) UNDER 2 YEARS and HEIGHT (standing, stadiometer) thereafter — length reads about 0.7 cm more than height, enough to create a false "fall" across the switch.**
+- **Measure LENGTH (supine, infantometer) UNDER 2 YEARS and HEIGHT (standing, stadiometer) thereafter — length reads about 0.7 cm more than height, enough to create a false “fall” across the switch.**
 
 **EXAM CONNECTION:** Straight calculation → **(183+175)/2 + 6.5 = 185.5 cm**.
 
@@ -189,7 +189,7 @@
 - The anterior fontanelle is the **acoustic window for cranial ultrasound in neonates** — the imaging of choice for **intraventricular haemorrhage** in preterms (no radiation, done at the cot side).
 - **All other fontanelles (posterior, two sphenoidal, two mastoid)** close within the first few months.
 
-**EXAM CONNECTION:** Straight recall of closure age, and vignette-based ("delayed closure + constipation + prolonged jaundice" → congenital hypothyroidism).
+**EXAM CONNECTION:** Straight recall of closure age, and vignette-based (“delayed closure + constipation + prolonged jaundice” → congenital hypothyroidism).
 
 **REMEMBER:** *Posterior closes by 2–3 months, anterior by 18 months — late closure means think thyroid or rickets.*
 
@@ -215,7 +215,7 @@
 - **Anthropometry:** weigh to the nearest **100 g**; **standing height is about 0.7–1 cm LESS than recumbent length** (spinal compression) — the classic wrong-number distractor is 1.7 cm; skinfold sites include triceps and **subscapular**.
 - **Head circumference:** 35 cm at birth → 47 cm at 1 yr → 49 cm at 2 yr → 55–56 cm adult.
 
-**EXAM CONNECTION:** Almost always a single-line numeric recall. The traps are substituting the U/L ratio number (1.7) for the height-vs-length difference, and confusing "doubles at 5 months" with "triples at 1 year".
+**EXAM CONNECTION:** Almost always a single-line numeric recall. The traps are substituting the U/L ratio number (1.7) for the height-vs-length difference, and confusing “doubles at 5 months” with “triples at 1 year”.
 
 **REMEMBER:** *5 months double, 1 year triple, 2 years quadruple; six months for milk teeth, six years for permanent.*
 
@@ -232,7 +232,7 @@
 
 ### 9. Bone Age Assessment
 
-**PEARL:** **X-ray of the LEFT HAND AND WRIST is the standard for assessing skeletal (bone) age** — used in disputes over a child's chronological age and in evaluating short stature.
+**PEARL:** **X-ray of the LEFT HAND AND WRIST is the standard for assessing skeletal (bone) age** — used in disputes over a child’s chronological age and in evaluating short stature.
 
 **UNDERSTAND:** The hand and wrist contain **around 30 separate ossification centres maturing in a predictable sequence across the whole of childhood**, all captured in **one low-dose radiograph of a non-dominant, easily positioned part**. No other region offers that density of sequential maturation markers, which is why it is the universal standard.
 
@@ -245,7 +245,7 @@
 - Related growth facts: **birth weight doubles at 5 months, triples at 1 year, quadruples at 2 years and quintuples at 3 years**; a child speaking **2–3 word sentences and stacking a tower of 6 cubes is 2 years old**.
 - **Head control:** marked head lag at 2 months, partial at 3 months, **no head lag when pulled to sit by 4 months**.
 
-**EXAM CONNECTION:** The forensic/sport-dispute stem always points to the **hand and wrist**. Milestones are used in the stem to establish the child's age before a weight calculation.
+**EXAM CONNECTION:** The forensic/sport-dispute stem always points to the **hand and wrist**. Milestones are used in the stem to establish the child’s age before a weight calculation.
 
 **REMEMBER:** *Thirty ossification centres in one small film.*
 
@@ -268,7 +268,7 @@
 - Worked example: height 90 cm, lower segment 45 cm → upper segment 45 → **U:L = 1.0** at 3 years, when it should be **1.3** → **low for age → short trunk → spondyloepiphyseal dysplasia**.
 - **Arm span**: about **2.5 cm less than height at birth**, **equals height at ~11 years**, and slightly exceeds it thereafter. **Arm span much greater than height** → **Marfan syndrome, homocystinuria, Klinefelter**; **arm span much less than height** → short-limbed dysplasias.
 - Proportionate short stature: **constitutional delay, familial, endocrine (GH deficiency, hypothyroidism), chronic disease, malnutrition**. Disproportionate: **skeletal dysplasias, rickets**.
-- **Mid-parental height** predicts genetic target: **(father's + mother's height ± 13 cm) ÷ 2**.
+- **Mid-parental height** predicts genetic target: **(father’s + mother’s height ± 13 cm) ÷ 2**.
 
 **EXAM CONNECTION:** Compute the ratio, compare it with the age-appropriate value, then decide **trunk vs limb**. The numbers in the stem are always sufficient.
 
@@ -288,7 +288,7 @@
 **MUST KNOW:**
 
 - **Familial short stature:** **bone age = chronological age**, normal growth velocity, short parents, normal final height for the family.
-- **Constitutional delay:** **bone age < chronological age**, delayed puberty, *normal* final adult height ("late bloomer").
+- **Constitutional delay:** **bone age < chronological age**, delayed puberty, *normal* final adult height (“late bloomer”).
 - **Pathological:** low growth velocity (<5 cm/yr) — hypothyroidism, GH deficiency, Turner, chronic disease.
 
 **REMEMBER:** *Bone age = age → familial; bone age behind → constitutional or pathological.*
@@ -299,7 +299,7 @@
 
 ### 12. Fetal Lung Maturity and the Fetal Adrenal
 
-**PEARL:** Indicators of **FETAL LUNG MATURITY: LECITHIN:SPHINGOMYELIN RATIO ≥2, the presence of PHOSPHATIDYLGLYCEROL, a POSITIVE SHAKE (Clements' bubble) TEST, a LAMELLAR BODY COUNT >50,000/µL, and the NILE BLUE test showing >50% ORANGE (not blue) CELLS.** The **major steroid product of the FETAL ADRENAL is DHEA/DHEA-S**, the substrate for placental oestrogen synthesis.
+**PEARL:** Indicators of **FETAL LUNG MATURITY: LECITHIN:SPHINGOMYELIN RATIO ≥2, the presence of PHOSPHATIDYLGLYCEROL, a POSITIVE SHAKE (Clements’ bubble) TEST, a LAMELLAR BODY COUNT >50,000/µL, and the NILE BLUE test showing >50% ORANGE (not blue) CELLS.** The **major steroid product of the FETAL ADRENAL is DHEA/DHEA-S**, the substrate for placental oestrogen synthesis.
 
 **UNDERSTAND:** The L:S ratio works because **sphingomyelin stays constant through pregnancy while LECITHIN rises sharply from ~34 weeks as type II pneumocytes mature** — so the ratio is a clock rather than a concentration. **Phosphatidylglycerol appears LAST (~35–36 weeks) and is therefore the most reliable single marker, and it is unaffected by blood or meconium contamination.** The shake test simply asks whether enough surfactant is present to stabilise a ring of bubbles against ethanol.
 
@@ -308,10 +308,10 @@
 - **ANTENATAL CORTICOSTEROIDS (betamethasone 12 mg × 2, 24 hours apart, or dexamethasone 6 mg × 4) accelerate lung maturity when given between 24 and 34 weeks, with maximum benefit 24 hours to 7 days after the course — they reduce RDS, intraventricular haemorrhage, necrotising enterocolitis and neonatal death.**
 - **The FETAL ADRENAL is proportionally huge, dominated by the FETAL ZONE, which lacks 3β-hydroxysteroid dehydrogenase and therefore makes DHEA-S rather than cortisol; the placenta converts DHEA-S to oestriol — which is why LOW maternal OESTRIOL suggests fetal adrenal or placental compromise, anencephaly or a sulfatase deficiency.**
 - **PLACENTAL CRH drives the fetal adrenal to make DHEA-S and cortisol; cortisol then stimulates more placental CRH — a POSITIVE feedback loop that is central to the onset of labour and to lung maturation.**
-- **SURFACTANT (dipalmitoyl phosphatidylcholine) is made by TYPE II PNEUMOCYTES from ~24 weeks, reaching adequate levels by 34–36 weeks; deficiency causes RESPIRATORY DISTRESS SYNDROME with a "GROUND-GLASS" reticulogranular pattern and AIR BRONCHOGRAMS on X-ray, treated with surfactant replacement and CPAP.**
+- **SURFACTANT (dipalmitoyl phosphatidylcholine) is made by TYPE II PNEUMOCYTES from ~24 weeks, reaching adequate levels by 34–36 weeks; deficiency causes RESPIRATORY DISTRESS SYNDROME with a “GROUND-GLASS” reticulogranular pattern and AIR BRONCHOGRAMS on X-ray, treated with surfactant replacement and CPAP.**
 - **Conditions ACCELERATING lung maturity: chronic intrauterine stress, pre-eclampsia, IUGR, prolonged rupture of membranes and maternal steroids. DELAYING it: MATERNAL DIABETES (insulin antagonises cortisol), hydrops and male sex.**
 
-**EXAM CONNECTION:** "Not an indicator of lung maturity" → **Nile blue showing >50% BLUE cells** (it is >50% ORANGE).
+**EXAM CONNECTION:** “Not an indicator of lung maturity” → **Nile blue showing >50% BLUE cells** (it is >50% ORANGE).
 
 **ALSO KNOW:** The **fetal adrenal also produces large amounts of DHEA(-S), the precursor for placental oestrogen synthesis.** The placenta lacks **17α-hydroxylase**, so it cannot make androgens itself and depends on fetal adrenal DHEAS, which it aromatises to **oestriol** — which is why **maternal oestriol reflects fetal wellbeing** and is low in **anencephaly and placental sulfatase deficiency**.
 
@@ -336,9 +336,9 @@
 - **Worked examples: pink body with blue extremities (1) + heart rate 80 (1) + grimace (1) + some flexion (1) + irregular respiration (1) = 5. Central cyanosis (0) + heart rate 60 (1) + grimace (1) + some flexion (1) + irregular gasping (1) = 4.**
 - **Causes of a LOW/false-positive Apgar despite a healthy fetus: PREMATURITY, maternal DRUGS (opioids, sedatives, magnesium sulphate), acute cerebral trauma, precipitate delivery, airway obstruction (choanal atresia), congenital pneumonia/sepsis and hypovolaemia. FALSE-NEGATIVE (a good score despite acidosis): maternal acidosis and high fetal catecholamines.**
 - **The NEONATAL RESUSCITATION sequence: the three questions at birth (term? crying/breathing? good tone?) → warmth, position, clear airway, dry and stimulate → if apnoeic or heart rate <100, POSITIVE PRESSURE VENTILATION (the single most important step) → if heart rate <60 despite effective ventilation, CHEST COMPRESSIONS at 3:1 with ventilation → ADRENALINE. Start term babies on ROOM AIR and preterms on 21–30% oxygen, titrated by saturation targets.**
-- **The four phases of cardiac arrest: PRE-ARREST, NO-FLOW (untreated arrest), LOW-FLOW (CPR in progress) and POST-RESUSCITATION — the "no-flow" phase FOLLOWS, not precedes, the onset of arrest.**
+- **The four phases of cardiac arrest: PRE-ARREST, NO-FLOW (untreated arrest), LOW-FLOW (CPR in progress) and POST-RESUSCITATION — the “no-flow” phase FOLLOWS, not precedes, the onset of arrest.**
 
-**EXAM CONNECTION:** "True about paediatric resuscitation" → **dysrhythmias are usually due to respiratory insufficiency**; Apgar calculations are straight arithmetic.
+**EXAM CONNECTION:** “True about paediatric resuscitation” → **dysrhythmias are usually due to respiratory insufficiency**; Apgar calculations are straight arithmetic.
 
 **REMEMBER:** *Children arrest because they stop breathing — so breathe for them first.*
 
@@ -365,7 +365,7 @@
 - **Preterm nutritional needs: human milk with FORTIFIER, iron from 2–4 weeks, vitamin D and calcium/phosphate supplementation.**
 - **KANGAROO MOTHER CARE — continuous skin-to-skin contact with exclusive breastfeeding and early discharge — reduces mortality, hypothermia, infection and improves growth and bonding: the highest-value low-cost intervention in newborn care.**
 
-**EXAM CONNECTION:** "Infant at risk" → **premature birth at <32 weeks**.
+**EXAM CONNECTION:** “Infant at risk” → **premature birth at <32 weeks**.
 
 **REMEMBER:** *Under 1500 grams or under 32 weeks — or anything that injures the brain — earns lifelong follow-up.*
 
@@ -377,12 +377,12 @@
 
 **PEARL:** **A healthy neonate should pass URINE by 24 HOURS and MECONIUM by 48 HOURS.** A well baby who has **not voided in the first 24 hours needs only CONTINUED BREASTFEEDING AND OBSERVATION** — delay this early is usually benign and reflects low intake. **Failure to pass urine beyond 24 hours, or a poor stream with a palpable bladder, demands evaluation for OBSTRUCTION.**
 
-**UNDERSTAND:** The newborn's urine output in the first day is small because **milk intake is small and the kidney is still concentrating poorly** — so early "anuria" is usually a supply problem, not a kidney problem. The dangerous alternative is **outflow obstruction — POSTERIOR URETHRAL VALVES in a boy** — which is why the examination looks specifically for a **palpable bladder, a weak dribbling stream and a palpable kidney.**
+**UNDERSTAND:** The newborn’s urine output in the first day is small because **milk intake is small and the kidney is still concentrating poorly** — so early “anuria” is usually a supply problem, not a kidney problem. The dangerous alternative is **outflow obstruction — POSTERIOR URETHRAL VALVES in a boy** — which is why the examination looks specifically for a **palpable bladder, a weak dribbling stream and a palpable kidney.**
 
 **MUST KNOW:**
 
-- **Causes of delayed voiding: inadequate intake, renal agenesis/dysplasia, POSTERIOR URETHRAL VALVES (boys — the commonest obstructive cause, with antenatal hydronephrosis, a distended bladder and a "KEYHOLE" sign; diagnosed by MCU and treated by valve ablation), ureteropelvic junction obstruction, ureterocele and neurogenic bladder from spinal dysraphism.**
-- **Delayed passage of MECONIUM beyond 48 hours suggests HIRSCHSPRUNG DISEASE (with abdominal distension and an explosive gush of stool on rectal examination — the "SQUIRT SIGN"; diagnosed by RECTAL SUCTION BIOPSY showing ABSENT GANGLION CELLS with hypertrophied nerve trunks), meconium plug syndrome, meconium ileus (think CYSTIC FIBROSIS), imperforate anus, ILEAL ATRESIA, prematurity, HYPOTHYROIDISM and sepsis.**
+- **Causes of delayed voiding: inadequate intake, renal agenesis/dysplasia, POSTERIOR URETHRAL VALVES (boys — the commonest obstructive cause, with antenatal hydronephrosis, a distended bladder and a “KEYHOLE” sign; diagnosed by MCU and treated by valve ablation), ureteropelvic junction obstruction, ureterocele and neurogenic bladder from spinal dysraphism.**
+- **Delayed passage of MECONIUM beyond 48 hours suggests HIRSCHSPRUNG DISEASE (with abdominal distension and an explosive gush of stool on rectal examination — the “SQUIRT SIGN”; diagnosed by RECTAL SUCTION BIOPSY showing ABSENT GANGLION CELLS with hypertrophied nerve trunks), meconium plug syndrome, meconium ileus (think CYSTIC FIBROSIS), imperforate anus, ILEAL ATRESIA, prematurity, HYPOTHYROIDISM and sepsis.**
 - ***ALWAYS EXAMINE THE ANUS AT BIRTH*** — imperforate anus is easily missed and presents as failure to pass meconium with progressive distension and vomiting.
 - **Bilious (green) vomiting in a neonate is INTESTINAL OBSTRUCTION UNTIL PROVED OTHERWISE — and MALROTATION WITH VOLVULUS is the emergency that must be excluded by an urgent UPPER GI CONTRAST STUDY, since it strangulates the entire midgut within hours.**
 - **Normal urine output thereafter is 1–3 mL/kg/hour; 6 or more wet nappies a day indicates adequate breastfeeding.**
@@ -403,8 +403,8 @@
 
 **MUST KNOW:**
 
-- **The "GOLDEN MINUTE": the initial steps (warmth, position, clear the airway if needed, dry, stimulate) and — if apnoeic or heart rate <100 — the start of PPV must all be achieved within 60 SECONDS of birth.**
-- **Assess response by the HEART RATE (the most sensitive indicator). If PPV is ineffective, run through "MR SOPA" — Mask adjustment, Reposition airway, Suction, Open mouth, Pressure increase, Alternative airway.**
+- **The “GOLDEN MINUTE”: the initial steps (warmth, position, clear the airway if needed, dry, stimulate) and — if apnoeic or heart rate <100 — the start of PPV must all be achieved within 60 SECONDS of birth.**
+- **Assess response by the HEART RATE (the most sensitive indicator). If PPV is ineffective, run through “MR SOPA” — Mask adjustment, Reposition airway, Suction, Open mouth, Pressure increase, Alternative airway.**
 - **Oxygen: start term babies on ROOM AIR (21%) and preterms on 21–30%, titrating to the minute-specific SpO2 targets measured on the RIGHT HAND (pre-ductal) — 60–65% at 1 minute rising to 85–95% by 10 minutes. ***AVOIDING HYPEROXIA IN PRETERMS PREVENTS RETINOPATHY OF PREMATURITY AND CHRONIC LUNG DISEASE.***
 - **DEFERRED CORD CLAMPING is recommended for vigorous term and preterm babies, but EARLY clamping is indicated when the baby is NON-VIGOROUS and needs immediate resuscitation.** **The 2025 AHA/AAP guideline lengthened the interval to AT LEAST 60 SECONDS (from the old 30 seconds), and allows INTACT CORD MILKING only at 28 to 36⁺⁶ weeks when deferred clamping is not possible — NEVER below 28 weeks (intraventricular haemorrhage).** It also permits the **LARYNGEAL MASK AIRWAY AS A PRIMARY DEVICE**, not merely as a fallback to intubation, and reaffirms **VENTILATION as the cornerstone** of the escalation (stimulation → airway → ventilation → oxygen → vascular access → adrenaline → volume).[^1]
 - **MECONIUM ASPIRATION SYNDROME: respiratory distress with a barrel chest, patchy infiltrates and hyperinflation on X-ray, and a risk of AIR LEAK and PERSISTENT PULMONARY HYPERTENSION — managed with oxygen, ventilation, surfactant and inhaled nitric oxide.**
@@ -429,7 +429,7 @@
 
 **MUST KNOW:**
 
-- **ROP is described by ZONE (I central around the disc — worst prognosis, II, III temporal crescent), STAGE (1 demarcation line, 2 ridge, 3 ridge with extraretinal fibrovascular proliferation, 4 partial and 5 total retinal detachment) and the presence of "PLUS DISEASE" (dilated tortuous posterior pole vessels), which indicates activity and the need for treatment.**
+- **ROP is described by ZONE (I central around the disc — worst prognosis, II, III temporal crescent), STAGE (1 demarcation line, 2 ridge, 3 ridge with extraretinal fibrovascular proliferation, 4 partial and 5 total retinal detachment) and the presence of “PLUS DISEASE” (dilated tortuous posterior pole vessels), which indicates activity and the need for treatment.**
 - ***TYPE 1 ROP (zone I any stage with plus, zone I stage 3, or zone II stage 2–3 with plus) REQUIRES TREATMENT WITHIN 72 HOURS*** — laser photocoagulation of the avascular retina, or intravitreal anti-VEGF (bevacizumab/ranibizumab) especially for aggressive posterior ROP.
 - **Risk factors: PREMATURITY and LOW BIRTH WEIGHT (the two strongest), unmonitored/high oxygen, sepsis, apnoea, blood transfusion, and poor postnatal weight gain.**
 - **Other neonatal eye essentials: the RED REFLEX must be checked in every newborn — an ABSENT or white reflex (LEUKOCORIA) means CONGENITAL CATARACT, RETINOBLASTOMA, ROP or Coats disease and requires urgent referral. Newborn visual acuity is about 6/200, and fixation and following develop by 1–2 months.**
@@ -445,9 +445,9 @@
 
 ### 18. Fetal Growth Restriction
 
-**PEARL:** The growth-restricted newborn has an **"OLD MAN" LOOK — loose wrinkled skin with almost no subcutaneous fat, a scaphoid abdomen, and a head that looks disproportionately large — with a WEIGHT DEFICIT out of proportion to length and head circumference; the baby is ALERT with NORMAL REFLEXES** (unlike the lethargic preterm of the same weight). **There is NO fat accumulation anywhere, least of all around the shoulders.**
+**PEARL:** The growth-restricted newborn has an **“OLD MAN” LOOK — loose wrinkled skin with almost no subcutaneous fat, a scaphoid abdomen, and a head that looks disproportionately large — with a WEIGHT DEFICIT out of proportion to length and head circumference; the baby is ALERT with NORMAL REFLEXES** (unlike the lethargic preterm of the same weight). **There is NO fat accumulation anywhere, least of all around the shoulders.**
 
-**UNDERSTAND:** The distinction between **SYMMETRICAL and ASYMMETRICAL restriction is about WHEN the insult acted.** An **EARLY insult (TORCH infection, chromosomal abnormality, drugs) reduces cell NUMBER, so head, length and weight are all proportionately small — SYMMETRICAL, and the prognosis is poor.** A **LATE insult (placental insufficiency, pre-eclampsia, maternal hypertension, malnutrition) leaves cell number intact and reduces cell SIZE, and the fetus redistributes blood to the BRAIN ("BRAIN-SPARING") at the expense of the liver, fat and muscle — ASYMMETRICAL, with a raised head-to-abdomen ratio and a better outcome.**
+**UNDERSTAND:** The distinction between **SYMMETRICAL and ASYMMETRICAL restriction is about WHEN the insult acted.** An **EARLY insult (TORCH infection, chromosomal abnormality, drugs) reduces cell NUMBER, so head, length and weight are all proportionately small — SYMMETRICAL, and the prognosis is poor.** A **LATE insult (placental insufficiency, pre-eclampsia, maternal hypertension, malnutrition) leaves cell number intact and reduces cell SIZE, and the fetus redistributes blood to the BRAIN (“BRAIN-SPARING”) at the expense of the liver, fat and muscle — ASYMMETRICAL, with a raised head-to-abdomen ratio and a better outcome.**
 
 **MUST KNOW:**
 
@@ -469,13 +469,13 @@
 
 **PEARL:** **A STABLE preterm of 33 weeks and 1500 g is fed ENTERALLY — by SPOON, PALADAI or CUP, and by OROGASTRIC/NASOGASTRIC TUBE if intake is inadequate — NOT by intravenous fluids or parenteral nutrition.** The rule follows gestational age: ***SUCK-SWALLOW-BREATHE COORDINATION MATURES AT ABOUT 32–34 WEEKS***, so babies **≥34 weeks breastfeed, 32–34 weeks take cup/paladai feeds, and <32 weeks need gavage (tube) feeding** — with expressed breast milk in every case.
 
-**UNDERSTAND:** The bias towards enteral feeding is not sentimental. **Gut mucosa depends on luminal nutrition**: withholding feeds causes villous atrophy, bacterial translocation and cholestasis, while **early "TROPHIC" (minimal enteral) FEEDS of 10–20 mL/kg/day prime the gut, promote hormone release and shorten the time to full feeds without increasing NEC.** Intravenous nutrition is a bridge for the baby who cannot be fed, never a preference.
+**UNDERSTAND:** The bias towards enteral feeding is not sentimental. **Gut mucosa depends on luminal nutrition**: withholding feeds causes villous atrophy, bacterial translocation and cholestasis, while **early “TROPHIC” (minimal enteral) FEEDS of 10–20 mL/kg/day prime the gut, promote hormone release and shorten the time to full feeds without increasing NEC.** Intravenous nutrition is a bridge for the baby who cannot be fed, never a preference.
 
 **MUST KNOW:**
 
-- ***MOTHER'S OWN MILK IS THE FEED OF CHOICE FOR EVERY PRETERM*** — it reduces NECROTISING ENTEROCOLITIS, sepsis and retinopathy; donor human milk is second choice, formula last. HUMAN MILK FORTIFIER is added for babies <1500 g or <32 weeks to meet protein, calcium and phosphate needs (preventing METABOLIC BONE DISEASE OF PREMATURITY).
+- ***MOTHER’S OWN MILK IS THE FEED OF CHOICE FOR EVERY PRETERM*** — it reduces NECROTISING ENTEROCOLITIS, sepsis and retinopathy; donor human milk is second choice, formula last. HUMAN MILK FORTIFIER is added for babies <1500 g or <32 weeks to meet protein, calcium and phosphate needs (preventing METABOLIC BONE DISEASE OF PREMATURITY).
 - **Enteral feeds are typically started at 15–20 mL/kg/day and advanced by 15–30 mL/kg/day; the total fluid requirement rises from 60–80 mL/kg on day 1 to 150–180 mL/kg/day by the end of the first week.**
-- ***WATCH FOR NECROTISING ENTEROCOLITIS*** — feed intolerance with increasing gastric aspirates, abdominal distension, bilious vomiting and blood in the stool, with PNEUMATOSIS INTESTINALIS (and portal venous gas) on X-ray; management is nil by mouth, gastric decompression, antibiotics and parenteral nutrition, with surgery for perforation (free air/"FOOTBALL" sign).
+- ***WATCH FOR NECROTISING ENTEROCOLITIS*** — feed intolerance with increasing gastric aspirates, abdominal distension, bilious vomiting and blood in the stool, with PNEUMATOSIS INTESTINALIS (and portal venous gas) on X-ray; management is nil by mouth, gastric decompression, antibiotics and parenteral nutrition, with surgery for perforation (free air/“FOOTBALL” sign).
 - **KANGAROO MOTHER CARE — continuous skin-to-skin contact with exclusive breastfeeding — reduces mortality, infection and hypothermia and improves growth, and is recommended for all stable low-birth-weight babies.**
 - **Other preterm essentials: thermoneutral care, vitamin D and iron supplementation, ROP and hearing screening, caffeine for apnoea of prematurity, and monitoring for anaemia of prematurity.**
 
@@ -499,7 +499,7 @@
 
 - **Chest compressions: the two-thumb encircling technique, on the LOWER THIRD OF THE STERNUM, depressing one-third of the anteroposterior diameter, at 90 compressions and 30 breaths per minute (120 events). ***INCREASE OXYGEN TO 100% ONCE COMPRESSIONS BEGIN.***
 - **Volume expansion — NORMAL SALINE or O-negative blood 10 mL/kg over 5–10 minutes — is given for suspected blood loss or shock that persists despite adequate ventilation, compressions and adrenaline.**
-- **Effective ventilation is judged by a RISING HEART RATE first, then chest movement and improving saturation; correct ineffective ventilation with "MR SOPA" before escalating.**
+- **Effective ventilation is judged by a RISING HEART RATE first, then chest movement and improving saturation; correct ineffective ventilation with “MR SOPA” before escalating.**
 - ***SODIUM BICARBONATE, NALOXONE AND ROUTINE ATROPINE HAVE NO PLACE IN DELIVERY-ROOM RESUSCITATION.***
 - **If there is no heart rate after 20 minutes of complete and adequate resuscitation, it is reasonable to stop. Babies ≥36 weeks with moderate-to-severe HYPOXIC-ISCHAEMIC ENCEPHALOPATHY should be considered for THERAPEUTIC HYPOTHERMIA within 6 hours.**
 
@@ -524,9 +524,9 @@
 
 - ***ABSOLUTE INFANT CONTRAINDICATIONS: CLASSIC GALACTOSAEMIA*** (lactose in milk is toxic — soy/lactose-free formula) and, with modification, other inborn errors such as phenylketonuria and MSUD (partial breastfeeding with monitoring).
 - **ABSOLUTE MATERNAL CONTRAINDICATIONS: HTLV-1/2 infection, untreated active TUBERCULOSIS (separate until 2 weeks of treatment — but ***EXPRESSED MILK IS SAFE***, and the infant is given prophylaxis and BCG afterwards), substance abuse, and — in high-income settings with safe formula — maternal HIV. ***IN INDIA AND SIMILAR SETTINGS, EXCLUSIVE BREASTFEEDING WITH MATERNAL ART IS RECOMMENDED FOR HIV-POSITIVE MOTHERS***, because the risks of not breastfeeding exceed the residual transmission risk.
-- **DRUGS genuinely contraindicated: cytotoxic chemotherapy, RADIOACTIVE ISOTOPES (temporary), amiodarone, ergotamine, lithium (with caution/monitoring), retinoids and drugs of abuse. Most antibiotics, analgesics, antihypertensives, antiepileptics, inhaled steroids and vaccines are compatible — ***MOST "CONTRAINDICATIONS" ARE MYTHS THAT NEEDLESSLY END BREASTFEEDING.***
+- **DRUGS genuinely contraindicated: cytotoxic chemotherapy, RADIOACTIVE ISOTOPES (temporary), amiodarone, ergotamine, lithium (with caution/monitoring), retinoids and drugs of abuse. Most antibiotics, analgesics, antihypertensives, antiepileptics, inhaled steroids and vaccines are compatible — ***MOST “CONTRAINDICATIONS” ARE MYTHS THAT NEEDLESSLY END BREASTFEEDING.***
 - **NOT contraindications: mastitis and breast abscess (continue feeding or express — it aids drainage), maternal fever, cracked nipples, jaundice in the baby, engorgement, or the mother having a cold or COVID-19 (with hygiene and masking).**
-- **Breast milk composition to know: SODIUM ~7 mEq/L (low, protecting the immature kidney's limited solute-handling capacity), potassium ~13 mEq/L, protein ~1.1 g/dL, lactose ~7 g/dL, fat ~3.5–4 g/dL, and about 65–70 kcal/100 mL.**
+- **Breast milk composition to know: SODIUM ~7 mEq/L (low, protecting the immature kidney’s limited solute-handling capacity), potassium ~13 mEq/L, protein ~1.1 g/dL, lactose ~7 g/dL, fat ~3.5–4 g/dL, and about 65–70 kcal/100 mL.**
 
 **EXAM CONNECTION:** Maternal viral infection requiring temporary cessation → **herpes simplex (lesions on the breast)**; sodium content of breast milk → **7 mEq/L**.
 
@@ -553,7 +553,7 @@
 - **Absolute contraindications:** **HIV (in settings where safe formula is available — WHO advises breastfeeding with ART where it is not)**, **HTLV-1/2**, active untreated **tuberculosis** (separate for 2 weeks of therapy, expressed milk fine), maternal **chemotherapy/radioisotopes/amiodarone/lithium**, and in the **infant, galactosaemia** (an absolute infant-side contraindication).
 - Continue breastfeeding in maternal **CMV** (term babies), hepatitis A, and mastitis/breast abscess (feeding actually aids drainage).
 
-**EXAM CONNECTION:** Asked as "which infection requires **temporary** cessation" — temporary is the key word, pointing to HSV rather than the permanent HIV/HTLV contraindications.
+**EXAM CONNECTION:** Asked as “which infection requires **temporary** cessation” — temporary is the key word, pointing to HSV rather than the permanent HIV/HTLV contraindications.
 
 **REMEMBER:** *Milk is safe; the lesion is not — cover it or feed from the other side.*
 
@@ -649,14 +649,14 @@
 
 **MUST KNOW:**
 
-- **Causes by AGE OF ONSET: DAYS 1–4 — HIE (commonest), hypoglycaemia, hypocalcaemia, intracranial haemorrhage, drug withdrawal, pyridoxine dependency, galactosaemia. DAYS 4–14 — bacterial MENINGITIS, herpes ENCEPHALITIS, hypocalcaemia (cow's-milk/high-phosphate feeds), inborn errors (urea cycle, aminoacidurias), kernicterus. WEEKS 2–8 — infection, child abuse/subdural haematoma, malformations of cortical development, tuberous sclerosis, Sturge–Weber.**
+- **Causes by AGE OF ONSET: DAYS 1–4 — HIE (commonest), hypoglycaemia, hypocalcaemia, intracranial haemorrhage, drug withdrawal, pyridoxine dependency, galactosaemia. DAYS 4–14 — bacterial MENINGITIS, herpes ENCEPHALITIS, hypocalcaemia (cow’s-milk/high-phosphate feeds), inborn errors (urea cycle, aminoacidurias), kernicterus. WEEKS 2–8 — infection, child abuse/subdural haematoma, malformations of cortical development, tuberous sclerosis, Sturge–Weber.**
 - **Neonatal seizures are often SUBTLE — lip-smacking, cycling or boxing movements, eye deviation, apnoea — rather than generalised tonic–clonic, because the immature cortex cannot propagate a generalised discharge. AMPLITUDE-INTEGRATED EEG is the diagnostic standard.**
 - **JITTERINESS mimics seizures but is STIMULUS-SENSITIVE, STOPS ON GENTLE RESTRAINT, has no autonomic or eye changes, and is a tremor rather than a clonic jerk.**
 - **Immediate work-up: BEDSIDE GLUCOSE FIRST, then calcium, magnesium, sodium, sepsis screen and LUMBAR PUNCTURE, followed by cranial ultrasound/MRI. Correct the metabolic cause before reaching for anticonvulsants — PHENOBARBITONE remains first-line, with levetiracetam and phenytoin as alternatives.**
 - **THERAPEUTIC HYPOTHERMIA (33.5 °C for 72 hours, started within 6 hours) improves outcome in moderate-to-severe HIE in babies ≥35 weeks.**
 - **In an infant of a diabetic mother whose glucose is normal, the next cause to check is CALCIUM (and magnesium) — hypocalcaemia occurs in the first 24–72 hours from delayed parathyroid responsiveness.**
 
-**EXAM CONNECTION:** "Vitamin deficiency causing neonatal seizures" → **pyridoxine**; the causes list → **all four electrolyte abnormalities**.
+**EXAM CONNECTION:** “Vitamin deficiency causing neonatal seizures” → **pyridoxine**; the causes list → **all four electrolyte abnormalities**.
 
 **REMEMBER:** *Check the sugar first, the calcium next — and if nothing works, give pyridoxine.*
 
@@ -672,14 +672,14 @@
 
 **MUST KNOW:**
 
-- **The DISTAL ILEUM and PROXIMAL COLON are most often affected. Radiological signs: dilated bowel loops, a fixed "persistent loop", ***PNEUMATOSIS INTESTINALIS (intramural gas — pathognomonic)***, PORTAL VENOUS GAS (a grave sign), and PNEUMOPERITONEUM indicating PERFORATION.**
-- **BELL'S STAGING: I suspected; II definite (with pneumatosis); III advanced with shock or perforation.**
+- **The DISTAL ILEUM and PROXIMAL COLON are most often affected. Radiological signs: dilated bowel loops, a fixed “persistent loop”, ***PNEUMATOSIS INTESTINALIS (intramural gas — pathognomonic)***, PORTAL VENOUS GAS (a grave sign), and PNEUMOPERITONEUM indicating PERFORATION.**
+- **BELL’S STAGING: I suspected; II definite (with pneumatosis); III advanced with shock or perforation.**
 - **Management: STOP ENTERAL FEEDS, nasogastric decompression, IV fluids and total parenteral nutrition, BROAD-SPECTRUM ANTIBIOTICS, and supportive intensive care. ***SURGERY (laparotomy or peritoneal drainage) IS INDICATED FOR PERFORATION*** or for clinical deterioration despite maximal medical therapy.**
 - **Prevention: ANTENATAL CORTICOSTEROIDS, ***EXCLUSIVE HUMAN (breast) MILK*** — the strongest protective factor — cautious standardised feeding advancement, and PROBIOTICS in selected units. Avoid prolonged empirical antibiotics and H2 blockers, which increase risk.**
 - **Long-term sequelae: intestinal STRICTURE (the commonest, presenting weeks later with obstruction), SHORT BOWEL SYNDROME after resection, cholestasis from TPN, and adverse neurodevelopmental outcome.**
 - **Incidence and mortality rise steeply with FALLING birth weight and gestational age.**
 
-**EXAM CONNECTION:** "All are features of NEC EXCEPT" → **metabolic alkalosis**.
+**EXAM CONNECTION:** “All are features of NEC EXCEPT” → **metabolic alkalosis**.
 
 **REMEMBER:** *Preterm, fed on formula, second week — distension, blood in the stool and gas in the bowel wall.*
 
@@ -692,7 +692,7 @@
 
 ### 30. Breastfeeding Jaundice versus Breast Milk Jaundice
 
-**PEARL:** **BREASTFEEDING ("lack of breast milk") JAUNDICE appears in the FIRST WEEK (days 2–5) from INADEQUATE INTAKE, dehydration and increased ENTEROHEPATIC CIRCULATION — the treatment is MORE AND BETTER FEEDING, not less.** **BREAST MILK JAUNDICE appears LATE — after day 5, PEAKING IN THE SECOND WEEK (around day 10–14) and persisting for weeks — from FACTORS IN THE MILK (β-glucuronidase and others) that inhibit conjugation and increase reabsorption**, in a thriving, well baby. ***BREASTFEEDING IS CONTINUED IN BOTH, INCLUDING DURING PHOTOTHERAPY.***
+**PEARL:** **BREASTFEEDING (“lack of breast milk”) JAUNDICE appears in the FIRST WEEK (days 2–5) from INADEQUATE INTAKE, dehydration and increased ENTEROHEPATIC CIRCULATION — the treatment is MORE AND BETTER FEEDING, not less.** **BREAST MILK JAUNDICE appears LATE — after day 5, PEAKING IN THE SECOND WEEK (around day 10–14) and persisting for weeks — from FACTORS IN THE MILK (β-glucuronidase and others) that inhibit conjugation and increase reabsorption**, in a thriving, well baby. ***BREASTFEEDING IS CONTINUED IN BOTH, INCLUDING DURING PHOTOTHERAPY.***
 
 **UNDERSTAND:** The two are opposites despite the similar names: one is **TOO LITTLE milk, the other is the milk itself.** The mechanism explains the timing — **poor intake means less stool, and every gram of meconium retained returns bilirubin to the circulation through β-glucuronidase deconjugation**, so jaundice appears in the first days alongside weight loss. Breast milk jaundice needs a **week of established feeding for the milk factor to accumulate**, so it peaks later, in a baby who is gaining weight well.
 
@@ -704,7 +704,7 @@
 - ***JAUNDICE IN THE FIRST 24 HOURS IS ALWAYS PATHOLOGICAL*** — think HAEMOLYSIS (Rh or ABO incompatibility, G6PD deficiency, spherocytosis) or congenital infection. Also pathological: total bilirubin above the age-specific phototherapy threshold, a CONJUGATED fraction, or jaundice persisting beyond 2 weeks.
 - **KERNICTERUS (acute bilirubin encephalopathy → athetoid cerebral palsy, sensorineural deafness, upward-gaze palsy and dental dysplasia) is the outcome to be prevented; exchange transfusion is used when phototherapy fails or at exchange-level bilirubin, and IVIG in isoimmune haemolysis.**
 
-**EXAM CONNECTION:** Day 2–3 in a poorly feeding baby → **breastfeeding jaundice**; day 10–14 in a thriving baby → **breast milk jaundice**; "should breastfeeding continue during phototherapy?" → **yes, uninterrupted**.
+**EXAM CONNECTION:** Day 2–3 in a poorly feeding baby → **breastfeeding jaundice**; day 10–14 in a thriving baby → **breast milk jaundice**; “should breastfeeding continue during phototherapy?” → **yes, uninterrupted**.
 
 **REMEMBER:** *Early jaundice means too little milk; late jaundice means the milk itself — and you never stop feeding for either.*
 
@@ -745,7 +745,7 @@
 
 **MUST KNOW:**
 
-- ***IMMEDIATE MANAGEMENT: INTUBATE AND VENTILATE — DO NOT GIVE BAG-AND-MASK VENTILATION***, which inflates the herniated bowel and worsens lung compression — plus a large NASOGASTRIC TUBE ON SUCTION to decompress the gut, gentle "permissive hypercapnia" ventilation to avoid barotrauma, and treatment of pulmonary hypertension with INHALED NITRIC OXIDE, sildenafil and, in selected centres, ECMO. **Surgery is DELAYED until the physiology is stable.**
+- ***IMMEDIATE MANAGEMENT: INTUBATE AND VENTILATE — DO NOT GIVE BAG-AND-MASK VENTILATION***, which inflates the herniated bowel and worsens lung compression — plus a large NASOGASTRIC TUBE ON SUCTION to decompress the gut, gentle “permissive hypercapnia” ventilation to avoid barotrauma, and treatment of pulmonary hypertension with INHALED NITRIC OXIDE, sildenafil and, in selected centres, ECMO. **Surgery is DELAYED until the physiology is stable.**
 - **Types: BOCHDALEK — posterolateral, ~85–90%, LEFT-sided in 80%. MORGAGNI — anterior retrosternal, small, often asymptomatic and found later. Eventration is elevation of an intact but thin diaphragm.**
 - **Diagnosis is usually ANTENATAL on ultrasound; the LUNG-TO-HEAD RATIO and liver position predict severity, and referral to a fetal centre allows consideration of FETOSCOPIC ENDOLUMINAL TRACHEAL OCCLUSION (FETO).**
 - **The chest X-ray showing bowel gas loops in the hemithorax with the tip of the nasogastric tube in the chest is diagnostic; ***the differential is CONGENITAL CYSTIC ADENOMATOID MALFORMATION***, which does not displace the abdominal contents.
@@ -763,19 +763,19 @@
 
 ### 33. Non-Immune Hydrops Fetalis
 
-**PEARL:** **HYDROPS FETALIS = fluid in ≥2 fetal compartments (ascites, pleural or pericardial effusion, skin oedema >5 mm, placentomegaly, polyhydramnios).** ***ABO AND Rh INCOMPATIBILITY CAUSE IMMUNE HYDROPS — everything else is NON-IMMUNE***, which now accounts for **~90% of cases**: cardiac failure (structural defects, arrhythmias), **PARVOVIRUS B19** and other infections, **CHROMOSOMAL anomalies (Turner syndrome, trisomy 21)**, severe anaemia (alpha-thalassaemia major/Bart's hydrops, fetomaternal haemorrhage, twin-twin transfusion), thoracic masses and lymphatic dysplasia.
+**PEARL:** **HYDROPS FETALIS = fluid in ≥2 fetal compartments (ascites, pleural or pericardial effusion, skin oedema >5 mm, placentomegaly, polyhydramnios).** ***ABO AND Rh INCOMPATIBILITY CAUSE IMMUNE HYDROPS — everything else is NON-IMMUNE***, which now accounts for **~90% of cases**: cardiac failure (structural defects, arrhythmias), **PARVOVIRUS B19** and other infections, **CHROMOSOMAL anomalies (Turner syndrome, trisomy 21)**, severe anaemia (alpha-thalassaemia major/Bart’s hydrops, fetomaternal haemorrhage, twin-twin transfusion), thoracic masses and lymphatic dysplasia.
 
 **UNDERSTAND: **Whatever the cause, the final common pathway is the same:** an imbalance between interstitial fluid production and lymphatic return**, driven by **HIGH-OUTPUT CARDIAC FAILURE, ANAEMIA, HYPOPROTEINAEMIA, RAISED CENTRAL VENOUS PRESSURE or LYMPHATIC OBSTRUCTION.** The fetus has **low plasma oncotic pressure, leaky capillaries and poor lymphatic compliance**, so it decompensates into oedema far more readily than a child.
 
 **MUST KNOW:**
 
-- ***PARVOVIRUS B19 IS THE CLASSIC INFECTIOUS CAUSE*** — it infects erythroid progenitors (P antigen receptor) causing aplastic crisis and severe fetal anaemia; detected by a raised MIDDLE CEREBRAL ARTERY PEAK SYSTOLIC VELOCITY on Doppler and treated by INTRAUTERINE TRANSFUSION, after which hydrops can fully resolve. (In children it causes ERYTHEMA INFECTIOSUM — "slapped cheek" fifth disease — and aplastic crisis in sickle cell disease.)
-- **ALPHA-THALASSAEMIA MAJOR (deletion of all four alpha genes, Hb Bart's) is the commonest genetic cause worldwide in South-East Asia and is uniformly fatal without intrauterine transfusion.**
+- ***PARVOVIRUS B19 IS THE CLASSIC INFECTIOUS CAUSE*** — it infects erythroid progenitors (P antigen receptor) causing aplastic crisis and severe fetal anaemia; detected by a raised MIDDLE CEREBRAL ARTERY PEAK SYSTOLIC VELOCITY on Doppler and treated by INTRAUTERINE TRANSFUSION, after which hydrops can fully resolve. (In children it causes ERYTHEMA INFECTIOSUM — “slapped cheek” fifth disease — and aplastic crisis in sickle cell disease.)
+- **ALPHA-THALASSAEMIA MAJOR (deletion of all four alpha genes, Hb Bart’s) is the commonest genetic cause worldwide in South-East Asia and is uniformly fatal without intrauterine transfusion.**
 - **Immune hydrops has become rare because of ANTI-D PROPHYLAXIS; ABO incompatibility causes neonatal jaundice, not hydrops, because the antibodies are largely IgM and the antigens weakly expressed on fetal cells.**
 - **Work-up: detailed ultrasound and fetal echocardiography, maternal blood group and indirect Coombs, Kleihauer–Betke, TORCH and parvovirus serology/PCR, karyotype/microarray by amniocentesis, and MCA Doppler for anaemia.**
 - **Outcome is poor overall; at birth expect the need for airway support, drainage of effusions and management of severe respiratory compromise, so delivery should be in a tertiary centre.**
 
-**EXAM CONNECTION:** "Causes of NON-immune hydrops, all EXCEPT" → **ABO incompatibility**.
+**EXAM CONNECTION:** “Causes of NON-immune hydrops, all EXCEPT” → **ABO incompatibility**.
 
 **REMEMBER:** *Rh and ABO are the immune two; everything else floods the fetus for its own reasons.*
 
@@ -809,15 +809,15 @@
 
 **PEARL:** **CAPUT SUCCEDANEUM — diffuse, soft, pitting oedema of the presenting scalp, PRESENT AT BIRTH, CROSSES SUTURE LINES, resolves in days. CEPHALHAEMATOMA — SUBPERIOSTEAL bleed, appears HOURS after birth, ***LIMITED BY SUTURE LINES (never crosses them)***, firm and fluctuant, resolves over weeks and may CALCIFY. SUBGALEAL HAEMORRHAGE — beneath the epicranial aponeurosis, ***CROSSES SUTURES, boggy and shifting, spreads to the neck and orbits, and CAN EXSANGUINATE THE BABY.***
 
-**UNDERSTAND:** All three are separated by **which anatomical layer the fluid sits in** — and that layer determines both the physical sign and the danger. The **periosteum is firmly attached at the sutures**, so a subperiosteal bleed is confined to one bone. The **subgaleal space is a huge potential space extending from the orbits to the nape**, capable of holding the newborn's ENTIRE BLOOD VOLUME — which is why the one that crosses sutures and feels boggy is the emergency.
+**UNDERSTAND:** All three are separated by **which anatomical layer the fluid sits in** — and that layer determines both the physical sign and the danger. The **periosteum is firmly attached at the sutures**, so a subperiosteal bleed is confined to one bone. The **subgaleal space is a huge potential space extending from the orbits to the nape**, capable of holding the newborn’s ENTIRE BLOOD VOLUME — which is why the one that crosses sutures and feels boggy is the emergency.
 
 **MUST KNOW:**
 
 - ***SUBGALEAL HAEMORRHAGE IS THE KILLER***, classically after VACUUM EXTRACTION; look for a rising head circumference, pallor, tachycardia, hypotension and a falling haematocrit. Management is aggressive volume and blood replacement, correction of coagulopathy and intensive monitoring.
 - **Cephalhaematoma occurs in ~1–2% of births, is commoner with instrumental delivery, and matters chiefly for JAUNDICE (breakdown of extravasated blood) and rarely underlying linear skull fracture or infection. ***DO NOT ASPIRATE IT*** — that risks infection.
-- **Caput needs no treatment; a "chignon" is the equivalent after vacuum delivery.**
-- **Other birth injuries worth carrying: CLAVICLE FRACTURE (the commonest, with a palpable crepitus and asymmetrical Moro — heals without treatment), ERB'S PALSY (C5–C6, "waiter's tip" posture, associated with shoulder dystocia and clavicular fracture, usually recovers), KLUMPKE'S palsy (C8–T1, claw hand with Horner syndrome), FACIAL NERVE palsy (forceps), sternomastoid tumour with torticollis, and subconjunctival haemorrhage.**
-- ***A NEONATE'S CRANIAL SUTURES ARE OPEN — so any expanding scalp collection can bleed massively without the tamponade an adult skull provides.***
+- **Caput needs no treatment; a “chignon” is the equivalent after vacuum delivery.**
+- **Other birth injuries worth carrying: CLAVICLE FRACTURE (the commonest, with a palpable crepitus and asymmetrical Moro — heals without treatment), ERB’S PALSY (C5–C6, “waiter’s tip” posture, associated with shoulder dystocia and clavicular fracture, usually recovers), KLUMPKE’S palsy (C8–T1, claw hand with Horner syndrome), FACIAL NERVE palsy (forceps), sternomastoid tumour with torticollis, and subconjunctival haemorrhage.**
+- ***A NEONATE’S CRANIAL SUTURES ARE OPEN — so any expanding scalp collection can bleed massively without the tamponade an adult skull provides.***
 
 **EXAM CONNECTION:** Swelling limited by suture lines appearing hours after birth → **cephalhaematoma**.
 
@@ -832,13 +832,13 @@
 
 ### 36. The Infant of a Diabetic Mother
 
-**PEARL:** The infant of a diabetic mother is at risk of **HYPOGLYCAEMIA in the first hours — and, just as importantly, HYPOCALCAEMIA (and hypomagnesaemia) at 24–72 hours.** So a baby whose glucose is being monitored must also have **SERUM CALCIUM checked.** The classic baby is **MACROSOMIC and plethoric with a "TOMATO-RED" face**, at risk of birth trauma.
+**PEARL:** The infant of a diabetic mother is at risk of **HYPOGLYCAEMIA in the first hours — and, just as importantly, HYPOCALCAEMIA (and hypomagnesaemia) at 24–72 hours.** So a baby whose glucose is being monitored must also have **SERUM CALCIUM checked.** The classic baby is **MACROSOMIC and plethoric with a “TOMATO-RED” face**, at risk of birth trauma.
 
-**UNDERSTAND:** Everything follows from the **PEDERSEN HYPOTHESIS: maternal glucose crosses the placenta but INSULIN DOES NOT**, so the fetus responds with **islet hyperplasia and HYPERINSULINAEMIA.** After birth the glucose supply is cut but the hyperinsulinism persists — hence **profound early hypoglycaemia** — while insulin's anabolic effect explains the **macrosomia, organomegaly and the delayed surfactant maturation** that causes RDS even at term. **Hypocalcaemia arises separately, from functional hypoparathyroidism and maternal magnesium depletion.**
+**UNDERSTAND:** Everything follows from the **PEDERSEN HYPOTHESIS: maternal glucose crosses the placenta but INSULIN DOES NOT**, so the fetus responds with **islet hyperplasia and HYPERINSULINAEMIA.** After birth the glucose supply is cut but the hyperinsulinism persists — hence **profound early hypoglycaemia** — while insulin’s anabolic effect explains the **macrosomia, organomegaly and the delayed surfactant maturation** that causes RDS even at term. **Hypocalcaemia arises separately, from functional hypoparathyroidism and maternal magnesium depletion.**
 
 **MUST KNOW:**
 
-- ***MACROSOMIA IS ASYMMETRICAL — the SHOULDERS AND TRUNK grow more than the head*** — which is why SHOULDER DYSTOCIA, brachial plexus (Erb's) palsy, clavicle fracture and birth asphyxia are the delivery risks.
+- ***MACROSOMIA IS ASYMMETRICAL — the SHOULDERS AND TRUNK grow more than the head*** — which is why SHOULDER DYSTOCIA, brachial plexus (Erb’s) palsy, clavicle fracture and birth asphyxia are the delivery risks.
 - **Other problems: RESPIRATORY DISTRESS SYNDROME (insulin antagonises cortisol-driven surfactant production), POLYCYTHAEMIA and hyperviscosity with subsequent HYPERBILIRUBINAEMIA and renal vein thrombosis, and CONGENITAL ANOMALIES — cardiac (VSD, transposition, and ***HYPERTROPHIC CARDIOMYOPATHY with asymmetrical septal hypertrophy, which regresses***), CAUDAL REGRESSION SYNDROME (the most characteristic), neural tube and renal anomalies. Anomalies relate to PERICONCEPTIONAL glycaemic control (HbA1c), whereas macrosomia relates to LATE-pregnancy control.**
 - **Management: early and frequent feeding, blood glucose monitoring at 30 minutes then 6-hourly, IV dextrose for symptomatic or persistent hypoglycaemia, and calcium and haematocrit checks. ***PARADOXICALLY, THE INFANT OF A MOTHER WITH LONG-STANDING VASCULOPATHIC DIABETES MAY BE GROWTH-RESTRICTED, NOT MACROSOMIC*** — placental insufficiency overriding hyperinsulinism.
 - **Hypoglycaemia in a neonate is <45 mg/dL; look for the other causes too — prematurity, IUGR, sepsis, hypothermia, inborn errors and hyperinsulinism.**
@@ -893,7 +893,7 @@
 - Exchange transfusion is for levels above the exchange line or any sign of **acute bilirubin encephalopathy**; use the **AAP/NICE charts by age in HOURS, gestation and risk factors** — never a single fixed number.
 - **Kernicterus** targets the **basal ganglia (globus pallidus), hippocampus and brainstem nuclei** → choreoathetoid cerebral palsy, **sensorineural hearing loss**, upward gaze palsy, dental enamel dysplasia.
 
-**EXAM CONNECTION:** The examiner distinguishes **"chief/main mechanism" (structural isomerisation → lumirubin)** from "fastest mechanism" (configurational isomerisation). Read the qualifier.
+**EXAM CONNECTION:** The examiner distinguishes **“chief/main mechanism” (structural isomerisation → lumirubin)** from “fastest mechanism” (configurational isomerisation). Read the qualifier.
 
 **REMEMBER:** *Lumirubin leaves for good — the reversible isomer comes back.*
 
@@ -919,7 +919,7 @@
 - Complication: **post-haemorrhagic hydrocephalus** → serial head circumference and USS; may need a reservoir or shunt.
 - Contrast **periventricular leukomalacia** — ischaemic white-matter injury, later onset, the classic substrate of **spastic diplegia**.
 
-**EXAM CONNECTION:** "Which complication best correlates with long-term outcome?" — brain injury always beats lung injury in these stems.
+**EXAM CONNECTION:** “Which complication best correlates with long-term outcome?” — brain injury always beats lung injury in these stems.
 
 **REMEMBER:** *Lungs recover; germinal matrix bleeds do not.*
 
@@ -934,7 +934,7 @@
 
 **PEARL: **All four essential criteria must be present:** umbilical ARTERIAL pH <7.0 (prolonged metabolic or mixed acidaemia), an APGAR score of 0–3 persisting BEYOND 5 minutes, NEUROLOGICAL manifestations in the immediate neonatal period (HYPOTONIA, seizures, coma or HIE), and MULTI-ORGAN dysfunction.** A **cord pH of 7.2 or an Apgar of 4–7 does NOT qualify.**
 
-**UNDERSTAND:** The criteria exist to **restrict the diagnosis to genuine intrapartum hypoxic-ischaemic injury**, because "birth asphyxia" is the most litigated label in obstetrics. Each element rules out a mimic: the **pH proves a real metabolic insult**, the **prolonged low Apgar proves it was severe and sustained**, the **neurological signs prove the brain was affected**, and the **multi-organ involvement proves it was a global perfusion failure** rather than an isolated neurological disorder. A low Apgar alone can be caused by prematurity, sedation, infection or a congenital anomaly — which is why it is never sufficient by itself.
+**UNDERSTAND:** The criteria exist to **restrict the diagnosis to genuine intrapartum hypoxic-ischaemic injury**, because “birth asphyxia” is the most litigated label in obstetrics. Each element rules out a mimic: the **pH proves a real metabolic insult**, the **prolonged low Apgar proves it was severe and sustained**, the **neurological signs prove the brain was affected**, and the **multi-organ involvement proves it was a global perfusion failure** rather than an isolated neurological disorder. A low Apgar alone can be caused by prematurity, sedation, infection or a congenital anomaly — which is why it is never sufficient by itself.
 
 **MUST KNOW:**
 
@@ -964,7 +964,7 @@
 - **Type I** — thin, flat, **95% of alveolar surface area**, joined by tight junctions, forming the blood–gas barrier. **Type II** — rounded, granular, microvilli, **lamellar bodies containing surfactant**, ~5% of surface but ~60% of alveolar cells.
 - **Surfactant is dipalmitoyl phosphatidylcholine (lecithin)**; production begins ~24 weeks and surges after **34–35 weeks**. Assessed by the **lecithin:sphingomyelin ratio ≥ 2** and the presence of **phosphatidylglycerol**.
 - **Antenatal corticosteroids (betamethasone/dexamethasone) between 24 and 34 weeks** accelerate type II cell maturation — the single most effective intervention for RDS.
-- RDS radiology: **fine reticulogranular "ground-glass" lungs with air bronchograms and low volumes**.
+- RDS radiology: **fine reticulogranular “ground-glass” lungs with air bronchograms and low volumes**.
 - Treatment: **surfactant replacement plus CPAP/ventilation**. Complications: **pneumothorax, PDA, bronchopulmonary dysplasia, IVH**.
 - Type II cells also **transport sodium and clear alveolar fluid** at birth — impaired in **transient tachypnoea of the newborn**.
 
@@ -990,7 +990,7 @@
 - **Conjugated bilirubin >20% of total (or >2 mg/dL) is ALWAYS pathological** — think biliary atresia, choledochal cyst, neonatal hepatitis, sepsis, metabolic.
 - Hypothyroidism delays bilirubin conjugation (reduced UGT activity) and slows gut motility.
 
-**REMEMBER:** *Hypothyroid = unconjugated; the "storage/metabolic" trio (Dubin-Johnson, Rotor, galactosaemia) = conjugated.*
+**REMEMBER:** *Hypothyroid = unconjugated; the “storage/metabolic” trio (Dubin-Johnson, Rotor, galactosaemia) = conjugated.*
 
 ---
 
@@ -1004,7 +1004,7 @@
 - **Caput succedaneum** = oedema, crosses sutures, present at birth, resolves in days.
 - **Subgaleal haemorrhage** crosses sutures, is **fluctuant and can hold the entire blood volume** → shock; the dangerous one, classically after ventouse.
 
-**REMEMBER:** *Cephalhaematoma respects sutures; caput and subgaleal don't. Subgaleal kills.*
+**REMEMBER:** *Cephalhaematoma respects sutures; caput and subgaleal don’t. Subgaleal kills.*
 
 ---
 
@@ -1036,9 +1036,9 @@
 
 ### 46. Craniotabes, Fontanelles and Rickets
 
-**PEARL:** **A "PING-PONG BALL" softening of the OCCIPITAL AND PARIETAL bones on gentle pressure = CRANIOTABES, classically of RICKETS (vitamin D deficiency).** The **ANTERIOR FONTANELLE (diamond-shaped) is the LAST to close — at 8–18 MONTHS**; the **POSTERIOR closes by 2–3 months**, and the paired mastoid and sphenoidal fontanelles within the first year.
+**PEARL:** **A “PING-PONG BALL” softening of the OCCIPITAL AND PARIETAL bones on gentle pressure = CRANIOTABES, classically of RICKETS (vitamin D deficiency).** The **ANTERIOR FONTANELLE (diamond-shaped) is the LAST to close — at 8–18 MONTHS**; the **POSTERIOR closes by 2–3 months**, and the paired mastoid and sphenoidal fontanelles within the first year.
 
-**UNDERSTAND:** Every skeletal sign of rickets is the same lesion in a different bone: **UNMINERALISED OSTEOID accumulating where growth is fastest.** So the skull softens where it is thinnest (craniotabes) and thickens where osteoid piles up (FRONTAL BOSSING); the **costochondral junctions swell (RACHITIC ROSARY)**; the **wrists and ankles widen** at the metaphyses; the **diaphragmatic pull grooves the soft ribs (HARRISON'S SULCUS)**; and the weight-bearing legs bow.
+**UNDERSTAND:** Every skeletal sign of rickets is the same lesion in a different bone: **UNMINERALISED OSTEOID accumulating where growth is fastest.** So the skull softens where it is thinnest (craniotabes) and thickens where osteoid piles up (FRONTAL BOSSING); the **costochondral junctions swell (RACHITIC ROSARY)**; the **wrists and ankles widen** at the metaphyses; the **diaphragmatic pull grooves the soft ribs (HARRISON’S SULCUS)**; and the weight-bearing legs bow.
 
 **MUST KNOW:**
 
@@ -1061,9 +1061,9 @@
 
 ### 47. Severe Acute Malnutrition — Marasmus, Kwashiorkor and Hypothermia
 
-**PEARL:** **In SEVERE ACUTE MALNUTRITION, HYPOTHERMIA is defined as an AXILLARY temperature <35.0 °C (rectal <35.5 °C)** — and is a medical emergency. **MARASMUS = severe wasting with NO OEDEMA** (the child is irritable, all fat and muscle lost, "old man" facies); **KWASHIORKOR = BILATERAL PITTING PEDAL OEDEMA** with a "flaky-paint" dermatosis, sparse depigmented hair, an enlarged fatty liver, apathy and hypoalbuminaemia. ***OEDEMA IS THE DISCRIMINATOR.***
+**PEARL:** **In SEVERE ACUTE MALNUTRITION, HYPOTHERMIA is defined as an AXILLARY temperature <35.0 °C (rectal <35.5 °C)** — and is a medical emergency. **MARASMUS = severe wasting with NO OEDEMA** (the child is irritable, all fat and muscle lost, “old man” facies); **KWASHIORKOR = BILATERAL PITTING PEDAL OEDEMA** with a “flaky-paint” dermatosis, sparse depigmented hair, an enlarged fatty liver, apathy and hypoalbuminaemia. ***OEDEMA IS THE DISCRIMINATOR.***
 
-**UNDERSTAND:** The severely malnourished child has **no subcutaneous fat for insulation, no muscle to shiver with, and a REDUCED METABOLIC RATE from "reductive adaptation"** — the body downregulates every energy-consuming process, including thermogenesis, sodium pumping and immune response. This one concept explains **why they become hypothermic and hypoglycaemic so easily, why infection presents WITHOUT FEVER, and why aggressive feeding or fluids can kill them (REFEEDING SYNDROME and heart failure).**
+**UNDERSTAND:** The severely malnourished child has **no subcutaneous fat for insulation, no muscle to shiver with, and a REDUCED METABOLIC RATE from “reductive adaptation”** — the body downregulates every energy-consuming process, including thermogenesis, sodium pumping and immune response. This one concept explains **why they become hypothermic and hypoglycaemic so easily, why infection presents WITHOUT FEVER, and why aggressive feeding or fluids can kill them (REFEEDING SYNDROME and heart failure).**
 
 **MUST KNOW:**
 
@@ -1071,7 +1071,7 @@
 - ***THE 10 STEPS OF WHO MANAGEMENT, IN ORDER:*** treat/prevent (1) HYPOGLYCAEMIA, (2) HYPOTHERMIA, (3) DEHYDRATION (with ReSoMal, orally where possible), (4) ELECTROLYTE imbalance (give potassium and magnesium, DO NOT give iron or sodium initially), (5) INFECTION (broad-spectrum antibiotics for ALL, since fever is absent), (6) MICRONUTRIENTS, (7) CAUTIOUS FEEDING (F-75 in the stabilisation phase), (8) CATCH-UP GROWTH (F-100/RUTF), (9) SENSORY STIMULATION and (10) FOLLOW-UP.
 - ***IRON IS WITHHELD UNTIL THE CHILD IS IN THE REHABILITATION PHASE AND EATING WELL*** — free iron promotes bacterial growth and oxidative damage in the stabilisation phase.
 - **Hypothermia is treated by KANGAROO MOTHER CARE/skin-to-skin, covering the head, a warm room (25–30 °C), and treating for both hypoglycaemia and sepsis simultaneously — they almost always coexist.**
-- **Watch for VITAMIN A DEFICIENCY (Bitot's spots, keratomalacia — give vitamin A on days 1, 2 and 14), zinc deficiency, and the risk of HEART FAILURE from over-transfusion or excess fluid.**
+- **Watch for VITAMIN A DEFICIENCY (Bitot’s spots, keratomalacia — give vitamin A on days 1, 2 and 14), zinc deficiency, and the risk of HEART FAILURE from over-transfusion or excess fluid.**
 
 **EXAM CONNECTION:** Hypothermia cutoff in SAM → **axillary <35.0 °C**; wasting with hypoalbuminaemia but no oedema → **marasmus**.
 
@@ -1083,20 +1083,20 @@
 
 ### 48. Vitamin A Deficiency and the Eye
 
-**PEARL:** **CONJUNCTIVAL XEROSIS (X1A) is the COMMONEST clinical sign of vitamin A deficiency; NIGHT BLINDNESS (XN) is the EARLIEST symptom; BITOT'S SPOTS (X1B) — triangular, foamy, silvery-white plaques on the temporal bulbar conjunctiva — are the most CHARACTERISTIC; and KERATOMALACIA (X3B) is the blinding end-stage.**
+**PEARL:** **CONJUNCTIVAL XEROSIS (X1A) is the COMMONEST clinical sign of vitamin A deficiency; NIGHT BLINDNESS (XN) is the EARLIEST symptom; BITOT’S SPOTS (X1B) — triangular, foamy, silvery-white plaques on the temporal bulbar conjunctiva — are the most CHARACTERISTIC; and KERATOMALACIA (X3B) is the blinding end-stage.**
 
 **UNDERSTAND:** Two distinct mechanisms explain the two halves of the disease. Vitamin A as **RETINAL is the chromophore of RHODOPSIN**, so deficiency first impairs **rod function in dim light — night blindness, which is fully reversible within days of treatment.** Vitamin A as **RETINOIC ACID maintains EPITHELIAL DIFFERENTIATION**, so prolonged deficiency causes **squamous metaplasia and keratinisation of the conjunctiva and cornea — xerosis, then ulceration and melting, which is irreversible.** Hence the ordering of the WHO classification is a timeline, not a list.
 
 **MUST KNOW:**
 
-- **WHO classification: XN night blindness → X1A conjunctival xerosis → X1B Bitot's spots → X2 CORNEAL XEROSIS → X3A corneal ulceration <1/3 of the surface → X3B ulceration ≥1/3 or KERATOMALACIA → XS corneal scar → XF xerophthalmic fundus. ***CORNEAL INVOLVEMENT (X2 ONWARDS) IS A MEDICAL EMERGENCY.***
-- **Treatment/prophylaxis dose: 200,000 IU orally for children over 1 year (100,000 IU for 6–12 months, 50,000 IU under 6 months) given on DAY 1, DAY 2 AND DAY 14. Under India's programme, prophylactic vitamin A is given 9-monthly from 9 months to 5 years (9 doses).**
+- **WHO classification: XN night blindness → X1A conjunctival xerosis → X1B Bitot’s spots → X2 CORNEAL XEROSIS → X3A corneal ulceration <1/3 of the surface → X3B ulceration ≥1/3 or KERATOMALACIA → XS corneal scar → XF xerophthalmic fundus. ***CORNEAL INVOLVEMENT (X2 ONWARDS) IS A MEDICAL EMERGENCY.***
+- **Treatment/prophylaxis dose: 200,000 IU orally for children over 1 year (100,000 IU for 6–12 months, 50,000 IU under 6 months) given on DAY 1, DAY 2 AND DAY 14. Under India’s programme, prophylactic vitamin A is given 9-monthly from 9 months to 5 years (9 doses).**
 - ***MEASLES, DIARRHOEA AND SEVERE MALNUTRITION PRECIPITATE ACUTE VITAMIN A DEFICIENCY*** — vitamin A is given to every child with measles and to all with SAM, and reduces measles mortality substantially.
-- **Beyond the eye: follicular hyperkeratosis (PHRYNODERMA, "toad skin"), impaired immunity with increased infection mortality, and growth retardation.**
+- **Beyond the eye: follicular hyperkeratosis (PHRYNODERMA, “toad skin”), impaired immunity with increased infection mortality, and growth retardation.**
 - ***HYPERVITAMINOSIS A*** — raised intracranial pressure/pseudotumour cerebri, bone pain, hepatotoxicity, alopecia, and TERATOGENICITY (isotretinoin in pregnancy) — is the reason doses are not simply increased.
 - **Sources: liver, fish liver oils, milk, eggs (preformed retinol) and dark-green leafy vegetables, carrots, mango and papaya (beta-carotene).**
 
-**EXAM CONNECTION:** "Commonest sign of vitamin A deficiency" → **conjunctival xerosis**; earliest symptom → **night blindness**.
+**EXAM CONNECTION:** “Commonest sign of vitamin A deficiency” → **conjunctival xerosis**; earliest symptom → **night blindness**.
 
 **REMEMBER:** *Rhodopsin fails first and reversibly; the epithelium fails last and forever.*
 
@@ -1118,10 +1118,10 @@
 - **VITAMIN K 1 mg IM at birth (0.5 mg if <1 kg) prevents HAEMORRHAGIC DISEASE OF THE NEWBORN/vitamin K deficiency bleeding: EARLY (<24 h — maternal anticonvulsants, warfarin, antitubercular drugs), CLASSICAL (day 2–7) and LATE (2–12 weeks, exclusively breastfed, often INTRACRANIAL and devastating).**
 - **IRON: full-term infants have adequate stores until ~6 months; supplementation of 2 mg/kg/day is recommended for LOW BIRTH WEIGHT AND PRETERM infants from 2 WEEKS to 1 year; national policy provides iron-folic acid syrup for 6–59 months.**
 - **Breast milk components worth carrying: LACTOFERRIN (iron chelation and antimicrobial action), secretory IgA, LYSOZYME, the BIFIDUS FACTOR (promotes lactobacilli and an acidic stool), PUFAs including DHA for MYELINATION and retinal development, taurine and cysteine for neural development, epidermal growth factor for intestinal maturation, and lipase. COLOSTRUM is richer in protein, vitamin A and immunoglobulins and lower in fat and lactose than mature milk.**
-- **Human milk vs cow's milk: human milk has LESS PROTEIN (and a WHEY:CASEIN ratio of about 60:40 or 70:30 rather than 20:80, hence softer curds), MORE LACTOSE, similar fat, and much LESS sodium, calcium, phosphate and protein solute load — which is why cow's milk is unsuitable before 1 year (renal solute load, occult GI blood loss and iron deficiency).**
+- **Human milk vs cow’s milk: human milk has LESS PROTEIN (and a WHEY:CASEIN ratio of about 60:40 or 70:30 rather than 20:80, hence softer curds), MORE LACTOSE, similar fat, and much LESS sodium, calcium, phosphate and protein solute load — which is why cow’s milk is unsuitable before 1 year (renal solute load, occult GI blood loss and iron deficiency).**
 - ***EXCLUSIVE BREASTFEEDING FOR 6 MONTHS — NO WATER, no honey, no prelacteal feeds*** — then complementary feeding with continued breastfeeding to 2 years.
 
-**EXAM CONNECTION:** Supplement for a healthy 2-month-old term infant → **vitamin D 400 IU/day up to 1 year**; "breast milk is deficient in" → **vitamin D (NOT vitamin C)**.
+**EXAM CONNECTION:** Supplement for a healthy 2-month-old term infant → **vitamin D 400 IU/day up to 1 year**; “breast milk is deficient in” → **vitamin D (NOT vitamin C)**.
 
 **REMEMBER:** *Milk gives everything except what sunlight and gut bacteria were supposed to make — D and K.*
 
@@ -1133,19 +1133,19 @@
 
 **PEARL:** ***HEIGHT (LENGTH)-FOR-AGE below −2 SD = STUNTING = CHRONIC malnutrition. WEIGHT-FOR-HEIGHT below −2 SD = WASTING = ACUTE malnutrition. WEIGHT-FOR-AGE below −2 SD = UNDERWEIGHT*** (a composite of both, and the index plotted on the Indian mother-and-child protection card). A child with **normal weight-for-height but height-for-age below −2 SD is STUNTED — chronically malnourished but not acutely so.**
 
-**UNDERSTAND:** The logic is temporal. **Weight responds within days to weeks — so a deficit in weight-for-height means a RECENT insult (illness, food shortage) and is potentially rapidly reversible.** **Linear growth responds over months to years — so a height deficit records CUMULATIVE, LONG-STANDING deprivation, and is largely IRREVERSIBLE after about 2 years of age.** That is why the "FIRST 1000 DAYS" (conception to 2 years) is the window in which stunting can be prevented at all.
+**UNDERSTAND:** The logic is temporal. **Weight responds within days to weeks — so a deficit in weight-for-height means a RECENT insult (illness, food shortage) and is potentially rapidly reversible.** **Linear growth responds over months to years — so a height deficit records CUMULATIVE, LONG-STANDING deprivation, and is largely IRREVERSIBLE after about 2 years of age.** That is why the “FIRST 1000 DAYS” (conception to 2 years) is the window in which stunting can be prevented at all.
 
 **MUST KNOW:**
 
 - **On the WHO growth chart plotted for weight-for-age: between −2 and −3 SD = MODERATE malnutrition (counsel the mother on feeding at home, ensure ≥150 kcal/kg/day and frequent feeds); below −3 SD or oedema or MUAC <11.5 cm = SEVERE ACUTE MALNUTRITION (refer to a nutrition rehabilitation centre if complications are present).**
 - **IAP classification by weight-for-age (Indian): grade I 71–80% of expected, II 61–70%, III 51–60%, IV ≤50%; the GOMEZ and WATERLOW (which separates stunting from wasting) classifications are the older equivalents.**
-- **The GROWTH CHART's greatest value is the DIRECTION OF THE CURVE, not the position: a flat or falling line ("growth faltering") is abnormal even if the child is still above −2 SD — it is a screening, teaching and motivational tool for the mother.**
+- **The GROWTH CHART’s greatest value is the DIRECTION OF THE CURVE, not the position: a flat or falling line (“growth faltering”) is abnormal even if the child is still above −2 SD — it is a screening, teaching and motivational tool for the mother.**
 - **Stunting reflects the whole social environment — maternal undernutrition and short stature, low birth weight, poor complementary feeding, repeated infection and diarrhoea, worm load, poor sanitation and poverty — and carries long-term costs in cognition, school performance and adult productivity.**
-- **India's programmes: ICDS/POSHAN Abhiyaan (supplementary nutrition, growth monitoring, immunisation, health education, referral and preschool education), the Mid-Day Meal scheme, and RBSK's screening for the 4 Ds.**
+- **India’s programmes: ICDS/POSHAN Abhiyaan (supplementary nutrition, growth monitoring, immunisation, health education, referral and preschool education), the Mid-Day Meal scheme, and RBSK’s screening for the 4 Ds.**
 
 **EXAM CONNECTION:** Weight-for-height normal but height-for-age <−2 SD → **chronic malnutrition (stunting)**; a plotted point between −2 and −3 SD → **moderate malnutrition, teach the mother to feed**.
 
-**REMEMBER:** *Wasting is this month's hunger; stunting is the last three years of it.*
+**REMEMBER:** *Wasting is this month’s hunger; stunting is the last three years of it.*
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/793d9bb3c6174486a5408193d7041835.JPEG)
@@ -1169,7 +1169,7 @@
 - **Recommended balance: emphasise POLYUNSATURATED and MONOUNSATURATED fats; ensure ESSENTIAL FATTY ACIDS (linoleic and alpha-linolenic acid) and long-chain DHA for retinal and brain development; limit saturated (ghee, butter, coconut and palm oil, red meat) and eliminate industrial trans fats (vanaspati, bakery products).**
 - **Protein requirement falls with age (from ~1.5–2 g/kg/day in infancy to ~1 g/kg/day in later childhood), and carbohydrate should supply 50–60% of energy, favouring whole grains over refined sugars.**
 - **Childhood obesity: BMI ≥85th centile = overweight, ≥95th = obese; complications include type 2 diabetes, dyslipidaemia, hypertension, NON-ALCOHOLIC FATTY LIVER DISEASE, obstructive sleep apnoea, SLIPPED CAPITAL FEMORAL EPIPHYSIS, polycystic ovary syndrome and psychosocial harm. Treatment is family-based lifestyle change — diet, ≥60 minutes of daily activity, and screen-time limits.**
-- ***INDIA CARRIES A "DOUBLE BURDEN" — UNDERNUTRITION AND OBESITY COEXISTING***, sometimes within the same household, and early-life undernutrition itself predisposes to later metabolic disease (the Barker/thrifty phenotype hypothesis).
+- ***INDIA CARRIES A “DOUBLE BURDEN” — UNDERNUTRITION AND OBESITY COEXISTING***, sometimes within the same household, and early-life undernutrition itself predisposes to later metabolic disease (the Barker/thrifty phenotype hypothesis).
 
 **EXAM CONNECTION:** Energy from saturated fat in children → **<10% of total energy intake**.
 
@@ -1204,25 +1204,25 @@
 
 ---
 
-### 53. Human Milk vs Cow's Milk
+### 53. Human Milk vs Cow’s Milk
 
-**PEARL:** **Lactose is higher in human milk**; **protein, calcium, phosphate, sodium and all electrolytes are higher in cow's milk**. Total **fat is roughly similar** — it is the composition, not the amount, that differs.
+**PEARL:** **Lactose is higher in human milk**; **protein, calcium, phosphate, sodium and all electrolytes are higher in cow’s milk**. Total **fat is roughly similar** — it is the composition, not the amount, that differs.
 
-**UNDERSTAND:** Human milk is designed for a brain-growing infant with immature kidneys: it is rich in **lactose (galactose for cerebroside synthesis, and energy)** and low in solute so that the **renal solute load** stays within what a neonatal kidney can excrete. Cow's milk is designed for a calf that doubles its weight in half the time and must grow bone and muscle, hence the protein and mineral load — which is exactly why unmodified cow's milk before 1 year causes **hypernatraemic dehydration, occult GI blood loss and iron deficiency anaemia**.
+**UNDERSTAND:** Human milk is designed for a brain-growing infant with immature kidneys: it is rich in **lactose (galactose for cerebroside synthesis, and energy)** and low in solute so that the **renal solute load** stays within what a neonatal kidney can excrete. Cow’s milk is designed for a calf that doubles its weight in half the time and must grow bone and muscle, hence the protein and mineral load — which is exactly why unmodified cow’s milk before 1 year causes **hypernatraemic dehydration, occult GI blood loss and iron deficiency anaemia**.
 
 **MUST KNOW:**
 
 - **Human milk:** lactose ~7 g/dL, protein ~1.1 g/dL with **whey:casein 60:40 (70:30 in colostrum)**, **sodium ~7 mEq/L**, and rich in **lactoferrin, lysozyme, secretory IgA, oligosaccharides, taurine, cysteine and long-chain PUFAs (DHA/ARA)**.
-- **Cow's milk:** lactose ~4.5 g/dL, protein ~3.3 g/dL with **whey:casein 20:80** (curd is hard to digest), sodium ~22 mEq/L, calcium ~4× higher but **less bioavailable**.
+- **Cow’s milk:** lactose ~4.5 g/dL, protein ~3.3 g/dL with **whey:casein 20:80** (curd is hard to digest), sodium ~22 mEq/L, calcium ~4× higher but **less bioavailable**.
 - Human milk is **deficient in vitamin K (give 1 mg IM at birth), vitamin D (supplement 400 IU/day) and iron after 6 months** — hence complementary feeding at 6 months.
 - **Colostrum** (first 3–5 days): more protein, vitamin A and **IgA**, less fat and lactose. **Foremilk** is watery and lactose-rich; **hindmilk** is fat-rich — so do not switch breasts too soon.
 - **Preterm milk** has more protein, sodium and immunoglobulin than term milk — biologically matched to the preterm baby.
 
-**EXAM CONNECTION:** "Which is HIGHER in human milk?" — the answer is essentially always **lactose** (and, if offered, whey, cystine, taurine, vitamin C, lactoferrin, IgA).
+**EXAM CONNECTION:** “Which is HIGHER in human milk?” — the answer is essentially always **lactose** (and, if offered, whey, cystine, taurine, vitamin C, lactoferrin, IgA).
 
-**ALSO KNOW:** **Breast milk has a LOW SODIUM content (~7 mEq/L)**, matched to the newborn kidney's limited concentrating capacity — which is precisely why **cow's milk (about three times the sodium and protein) is unsuitable under 1 year**: it risks hypernatraemic dehydration and renal solute overload.
+**ALSO KNOW:** **Breast milk has a LOW SODIUM content (~7 mEq/L)**, matched to the newborn kidney’s limited concentrating capacity — which is precisely why **cow’s milk (about three times the sodium and protein) is unsuitable under 1 year**: it risks hypernatraemic dehydration and renal solute overload.
 
-**REMEMBER:** *Human milk feeds a brain (lactose); cow's milk builds a calf (protein and calcium).*
+**REMEMBER:** *Human milk feeds a brain (lactose); cow’s milk builds a calf (protein and calcium).*
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/14/screenshot-2024-09-14-123244.jpg)
@@ -1241,7 +1241,7 @@
 **MUST KNOW:**
 
 - **SAM definition (6–59 months):** **weight-for-height < −3 SD**, or **MUAC <11.5 cm**, or **bilateral pitting oedema** (oedema alone qualifies, whatever the weight).
-- **India's immunisation schedule also changed: a SINGLE-DOSE HPV VACCINE for 14-year-old girls entered the Universal Immunisation Programme in FEBRUARY 2026, an indigenous Td vaccine replaced TT, and every dose is now recorded on the U-WIN platform.**[^3]
+- **India’s immunisation schedule also changed: a SINGLE-DOSE HPV VACCINE for 14-year-old girls entered the Universal Immunisation Programme in FEBRUARY 2026, an indigenous Td vaccine replaced TT, and every dose is now recorded on the U-WIN platform.**[^3]
 - **The WHO 2023 wasting guideline widened the scope for the first time to MODERATE wasting as well as severe, and to INFANTS UNDER 6 MONTHS “at risk of poor growth and development” — managed with regular health checks and support to the mother rather than by weight criteria alone.** Community management with RUTF for uncomplicated cases, with inpatient care only for complications, remains the framework.[^2]
 - **The 10 steps of WHO SAM management** — treat/prevent: **hypoglycaemia, hypothermia, dehydration, electrolyte imbalance, infection**; then **micronutrients, cautious feeding, catch-up growth, sensory stimulation, follow-up**.
 - **Do NOT give iron in the stabilisation phase** — free iron promotes bacterial growth and oxidative stress; start **3 mg/kg/day only after appetite returns and weight gain begins** (rehabilitation phase).
@@ -1258,11 +1258,11 @@
 
 ---
 
-### 55. MUAC and Shakir's Tape
+### 55. MUAC and Shakir’s Tape
 
-**PEARL:** **Shakir's tape measures MID-UPPER ARM CIRCUMFERENCE** to screen for acute malnutrition in **children 6–59 months** by frontline workers. **RED < 11.5 cm = severe acute malnutrition; YELLOW 11.5–12.5 cm = moderate; GREEN > 12.5 cm = normal.**
+**PEARL:** **Shakir’s tape measures MID-UPPER ARM CIRCUMFERENCE** to screen for acute malnutrition in **children 6–59 months** by frontline workers. **RED < 11.5 cm = severe acute malnutrition; YELLOW 11.5–12.5 cm = moderate; GREEN > 12.5 cm = normal.**
 
-**UNDERSTAND:** MUAC works as a screening tool because **between 1 and 5 years the mid-arm circumference is almost constant (~16 cm) in healthy children** — so a single cut-off applies across the whole age range **without needing to know the child's age, weight or height**. That age-independence is exactly what makes it usable by a village health worker with nothing but a strip of tape.
+**UNDERSTAND:** MUAC works as a screening tool because **between 1 and 5 years the mid-arm circumference is almost constant (~16 cm) in healthy children** — so a single cut-off applies across the whole age range **without needing to know the child’s age, weight or height**. That age-independence is exactly what makes it usable by a village health worker with nothing but a strip of tape.
 
 **MUST KNOW:**
 
@@ -1286,7 +1286,7 @@
 
 ### 56. Biotin Deficiency and Valproate
 
-**PEARL:** **Alopecia with "intermittent constrictions" of the hair shaft + periorificial scaly dermatitis in a child on long-term VALPROATE = biotin (vitamin B7 / vitamin H) deficiency.**
+**PEARL:** **Alopecia with “intermittent constrictions” of the hair shaft + periorificial scaly dermatitis in a child on long-term VALPROATE = biotin (vitamin B7 / vitamin H) deficiency.**
 
 **UNDERSTAND:** Valproate is metabolised as a **branched-chain fatty acid and depletes carnitine and biotinidase activity**, reducing free biotin. Biotin is the cofactor for the **carboxylases**, and the tissues that fail first are those with the **highest turnover — hair matrix and skin** — producing the alopecia and dermatitis. The hair shaft constrictions correspond to intermittent periods of deficiency.
 
@@ -1294,10 +1294,10 @@
 
 - Other features: **periorificial dermatitis, atrophic glossitis, conjunctivitis, paraesthesia, hypotonia, lethargy, ataxia, seizures, lactic acidosis and organic aciduria**.
 - Other causes of biotin deficiency: **raw egg white (avidin), prolonged TPN, other anticonvulsants (phenytoin, carbamazepine)**, and **BIOTINIDASE DEFICIENCY** — a treatable, newborn-screened cause of **seizures, hypotonia, alopecia and sensorineural deafness**, corrected by oral biotin.
-- Valproate's other toxicities: **hepatotoxicity (highest risk under 2 years and in mitochondrial disease/POLG mutations), hyperammonaemic encephalopathy, pancreatitis, weight gain, tremor, thrombocytopenia** and **neural tube defects with reduced IQ if used in pregnancy**.
+- Valproate’s other toxicities: **hepatotoxicity (highest risk under 2 years and in mitochondrial disease/POLG mutations), hyperammonaemic encephalopathy, pancreatitis, weight gain, tremor, thrombocytopenia** and **neural tube defects with reduced IQ if used in pregnancy**.
 - Related water-soluble vitamin deficiencies: **B1 beriberi/Wernicke; B2 cheilosis and magenta tongue; B3 pellagra; B5 burning feet; B6 microcytic anaemia and convulsions (isoniazid); B9/B12 megaloblastic anaemia**.
 
-**EXAM CONNECTION:** "Vitamin H" is deliberately used instead of biotin or B7 in the options — recognise the synonym.
+**EXAM CONNECTION:** “Vitamin H” is deliberately used instead of biotin or B7 in the options — recognise the synonym.
 
 **REMEMBER:** *Valproate strips the biotin, and the hair goes first.*
 
@@ -1307,17 +1307,17 @@
 
 ### 57. Radiological Signs of Scurvy
 
-**PEARL:** **Frankel's line = the DENSE white zone of provisional CALCIFICATION at the metaphysis.** The **lucent band just beneath it is the Trümmerfeld zone**; the **ring around the epiphysis is Wimberger's sign**; the **metaphyseal spur is Pelkan's**.
+**PEARL:** **Frankel’s line = the DENSE white zone of provisional CALCIFICATION at the metaphysis.** The **lucent band just beneath it is the Trümmerfeld zone**; the **ring around the epiphysis is Wimberger’s sign**; the **metaphyseal spur is Pelkan’s**.
 
 **UNDERSTAND:** In scurvy, **osteoblasts cannot lay down osteoid**, but the **cartilage cells continue to calcify normally**. So calcified cartilage accumulates unresorbed at the growth plate as a **dense white line (Frankel)**, while the region just proximal — where new bone should have formed but did not — becomes **weak and lucent (Trümmerfeld)** and is the site where fractures and haemorrhage occur.
 
 **MUST KNOW:**
 
-- Full radiological list: **generalised osteopenia, "pencil-point" cortical thinning, ground-glass osteoporosis, subperiosteal haemorrhage with periosteal reaction on healing, scorbutic rosary, and haemarthrosis**.
-- **Wimberger's RING sign (scurvy)** must be distinguished from the **Wimberger's SIGN of congenital syphilis** — symmetrical **medial metaphyseal destruction of the proximal tibia**.
+- Full radiological list: **generalised osteopenia, “pencil-point” cortical thinning, ground-glass osteoporosis, subperiosteal haemorrhage with periosteal reaction on healing, scorbutic rosary, and haemarthrosis**.
+- **Wimberger’s RING sign (scurvy)** must be distinguished from the **Wimberger’s SIGN of congenital syphilis** — symmetrical **medial metaphyseal destruction of the proximal tibia**.
 - Clinical scurvy: **perifollicular haemorrhage, corkscrew hairs, swollen bleeding gums (only if teeth have erupted), pseudoparalysis from subperiosteal bleeding (child lies frog-legged, refuses to move), poor wound healing, anaemia**.
 - Mechanism: vitamin C is the cofactor for **prolyl and lysyl hydroxylase** — without it collagen cannot cross-link.
-- **Rickets** is the differential — but rickets gives **cupping, fraying and widening of the metaphysis with a RAREFIED (not dense) zone**, plus a **rounded rachitic rosary**, **craniotabes, frontal bossing, delayed fontanelle closure and craniosynostosis, Harrison's sulcus, genu varum/valgum**.
+- **Rickets** is the differential — but rickets gives **cupping, fraying and widening of the metaphysis with a RAREFIED (not dense) zone**, plus a **rounded rachitic rosary**, **craniotabes, frontal bossing, delayed fontanelle closure and craniosynostosis, Harrison’s sulcus, genu varum/valgum**.
 
 **EXAM CONNECTION:** Sign-to-description matching. Each eponym describes a **different anatomical zone** — learn them as a sequence from epiphysis to shaft.
 
@@ -1371,7 +1371,7 @@
 
 ### 61. Noonan Syndrome
 
-**PEARL:** **ANTI-MONGOLOID (downward) SLANT of the palpebral fissures, PULMONARY STENOSIS (often with a dysplastic valve) and UNDESCENDED TESTES = NOONAN SYNDROME** — an autosomal dominant RASopathy (**PTPN11** and other RAS/MAPK genes) with **short stature, webbed neck, low posterior hairline, widely spaced hypoplastic nipples, pectus deformity, ptosis and a bleeding diathesis.** It is called the **"male Turner syndrome"** but affects **BOTH SEXES and has a NORMAL KARYOTYPE.**
+**PEARL:** **ANTI-MONGOLOID (downward) SLANT of the palpebral fissures, PULMONARY STENOSIS (often with a dysplastic valve) and UNDESCENDED TESTES = NOONAN SYNDROME** — an autosomal dominant RASopathy (**PTPN11** and other RAS/MAPK genes) with **short stature, webbed neck, low posterior hairline, widely spaced hypoplastic nipples, pectus deformity, ptosis and a bleeding diathesis.** It is called the **“male Turner syndrome”** but affects **BOTH SEXES and has a NORMAL KARYOTYPE.**
 
 **UNDERSTAND:** The overlap with Turner syndrome is **phenotypic, not genetic** — both produce a webbed neck, short stature and lymphoedema because both disrupt **fetal LYMPHATIC development (a cystic hygroma resolving into a neck web)**. But the cardiac lesions diverge in an examinable way: **Noonan takes the RIGHT heart (PULMONARY STENOSIS, hypertrophic cardiomyopathy), Turner the LEFT (BICUSPID AORTIC VALVE, COARCTATION)**.
 
@@ -1401,11 +1401,11 @@
 
 - **Raised MSAFP: open NTD, abdominal wall defects, underestimated gestational age, multiple pregnancy, fetal demise, placental abnormalities. LOW MSAFP: DOWN SYNDROME, trisomy 18, overestimated dates, molar pregnancy, maternal obesity and diabetes.**
 - **Second-trimester QUADRUPLE TEST patterns: DOWN SYNDROME — LOW AFP, LOW unconjugated oestriol, HIGH β-hCG, HIGH inhibin A. TRISOMY 18 — ALL LOW (AFP, oestriol, hCG) with normal/low inhibin. NEURAL TUBE DEFECT — HIGH AFP alone.**
-- ***PRECONCEPTIONAL FOLIC ACID PREVENTS NEURAL TUBE DEFECTS***: 400 µg/day for all women from at least a month before conception through the first trimester, and **4–5 mg/day for high risk — a previously affected child, diabetes, obesity, or ANTIEPILEPTIC therapy (VALPROATE and carbamazepine).** The neural tube closes by DAY 28, before most women know they are pregnant — hence "preconceptional".
-- **Ultrasound signs of a NTD: the "LEMON" sign (frontal bone scalloping) and "BANANA" sign (curved cerebellum) of the ARNOLD–CHIARI II malformation, ventriculomegaly, and absent posterior arches.**
+- ***PRECONCEPTIONAL FOLIC ACID PREVENTS NEURAL TUBE DEFECTS***: 400 µg/day for all women from at least a month before conception through the first trimester, and **4–5 mg/day for high risk — a previously affected child, diabetes, obesity, or ANTIEPILEPTIC therapy (VALPROATE and carbamazepine).** The neural tube closes by DAY 28, before most women know they are pregnant — hence “preconceptional”.
+- **Ultrasound signs of a NTD: the “LEMON” sign (frontal bone scalloping) and “BANANA” sign (curved cerebellum) of the ARNOLD–CHIARI II malformation, ventriculomegaly, and absent posterior arches.**
 - **Postnatally, a CUTANEOUS MARKER over the spine (tuft of hair, dimple above the natal cleft, lipoma, haemangioma) suggests OCCULT spinal dysraphism, evaluated by ultrasound in infancy or MRI later.**
 
-**EXAM CONNECTION:** "Best/most specific marker for NTD" → **acetylcholinesterase**; "screening marker" → **AFP**.
+**EXAM CONNECTION:** “Best/most specific marker for NTD” → **acetylcholinesterase**; “screening marker” → **AFP**.
 
 **REMEMBER:** *AFP leaks from any hole; acetylcholinesterase only from an exposed nervous system.*
 
@@ -1423,12 +1423,12 @@
 
 - **Frequency: DOWN (1 in 800) > EDWARDS (1 in 6,000–8,000) > PATAU (1 in 10,000–15,000). All rise with ADVANCED MATERNAL AGE and arise from meiotic NON-DISJUNCTION.**
 - **Antenatal screening: trisomy 18 shows LOW AFP, LOW oestriol, LOW hCG and LOW PAPP-A; DOWN SYNDROME shows LOW AFP, LOW oestriol, HIGH hCG, HIGH inhibin A, LOW PAPP-A and INCREASED NUCHAL TRANSLUCENCY with an absent nasal bone. Confirm by karyotype on chorionic villus sampling or amniocentesis; cell-free fetal DNA is a screening, not diagnostic, test.**
-- **DOWN SYNDROME (trisomy 21) for contrast: upslanting palpebral fissures, epicanthic folds, BRUSHFIELD SPOTS, flat occiput and nasal bridge, protruding tongue, SINGLE PALMAR CREASE, sandal gap, HYPOTONIA, ATRIOVENTRICULAR SEPTAL DEFECT, DUODENAL ATRESIA ("double bubble"), Hirschsprung disease, ATLANTOAXIAL INSTABILITY, hypothyroidism, an increased risk of ALL/AMKL and early ALZHEIMER disease. ***TRANSLOCATION (Robertsonian, 14;21) Down syndrome — 4% — is the type with a HIGH RECURRENCE RISK and mandates PARENTAL KARYOTYPING***; 95% are non-disjunction and 1% mosaic.
+- **DOWN SYNDROME (trisomy 21) for contrast: upslanting palpebral fissures, epicanthic folds, BRUSHFIELD SPOTS, flat occiput and nasal bridge, protruding tongue, SINGLE PALMAR CREASE, sandal gap, HYPOTONIA, ATRIOVENTRICULAR SEPTAL DEFECT, DUODENAL ATRESIA (“double bubble”), Hirschsprung disease, ATLANTOAXIAL INSTABILITY, hypothyroidism, an increased risk of ALL/AMKL and early ALZHEIMER disease. ***TRANSLOCATION (Robertsonian, 14;21) Down syndrome — 4% — is the type with a HIGH RECURRENCE RISK and mandates PARENTAL KARYOTYPING***; 95% are non-disjunction and 1% mosaic.
 - **Management of trisomy 13 and 18 is largely palliative and supportive, with genetic counselling; recurrence risk after non-disjunction is about 1%.**
 
 **EXAM CONNECTION:** Overlapping fingers + prominent occiput + rocker-bottom feet → **Edwards (18)**; cleft lip/palate + polydactyly + microphthalmia → **Patau (13)**.
 
-**ALSO KNOW:** **Incidence: Edwards 1:6,000–8,000 (the second commonest autosomal trisomy, VSD near-universal) and Patau 1:10,000.** Patau also shows **CUTIS APLASIA of the scalp** and rocker-bottom feet. **Screening separates them: in trisomy 18 ALL FOUR markers are low (AFP, hCG, oestriol, inhibin), whereas in Down syndrome hCG and inhibin are HIGH.** Watch the option list — stems deliberately mislabel ("Trisomy 18 (Patau syndrome)") to catch candidates who match the number without reading the name; **check both halves of every option.**
+**ALSO KNOW:** **Incidence: Edwards 1:6,000–8,000 (the second commonest autosomal trisomy, VSD near-universal) and Patau 1:10,000.** Patau also shows **CUTIS APLASIA of the scalp** and rocker-bottom feet. **Screening separates them: in trisomy 18 ALL FOUR markers are low (AFP, hCG, oestriol, inhibin), whereas in Down syndrome hCG and inhibin are HIGH.** Watch the option list — stems deliberately mislabel (“Trisomy 18 (Patau syndrome)”) to catch candidates who match the number without reading the name; **check both halves of every option.**
 
 **REMEMBER:** *Thirteen splits the midline; eighteen clenches the fist.*
 
@@ -1438,7 +1438,7 @@
 
 ### 64. Angelman and Prader–Willi — Genomic Imprinting
 
-**PEARL:** Both arise from loss of the **SAME REGION, 15q11–q13** — but from **DIFFERENT PARENTS. ANGELMAN SYNDROME = loss of the MATERNAL copy** (UBE3A): severe developmental delay with **absent speech, ATAXIC "PUPPET-LIKE" GAIT with jerky limb movements, a HAPPY DEMEANOUR WITH INAPPROPRIATE PAROXYSMS OF LAUGHTER, microcephaly, a protruding tongue and SEIZURES.** **PRADER–WILLI SYNDROME = loss of the PATERNAL copy**: neonatal **HYPOTONIA AND POOR FEEDING**, followed after infancy by **HYPERPHAGIA AND OBESITY, hypogonadism, short stature, small hands and feet, and intellectual disability.**
+**PEARL:** Both arise from loss of the **SAME REGION, 15q11–q13** — but from **DIFFERENT PARENTS. ANGELMAN SYNDROME = loss of the MATERNAL copy** (UBE3A): severe developmental delay with **absent speech, ATAXIC “PUPPET-LIKE” GAIT with jerky limb movements, a HAPPY DEMEANOUR WITH INAPPROPRIATE PAROXYSMS OF LAUGHTER, microcephaly, a protruding tongue and SEIZURES.** **PRADER–WILLI SYNDROME = loss of the PATERNAL copy**: neonatal **HYPOTONIA AND POOR FEEDING**, followed after infancy by **HYPERPHAGIA AND OBESITY, hypogonadism, short stature, small hands and feet, and intellectual disability.**
 
 **UNDERSTAND:** This is the classic teaching example of **GENOMIC IMPRINTING** — certain genes are expressed from **only one parental allele**, the other being silenced by methylation. **UBE3A is expressed only from the MATERNAL allele in brain**, so losing the maternal copy leaves no functional gene; the Prader–Willi genes (SNRPN and others) are expressed only from the PATERNAL allele. Hence the identical deletion produces two entirely different syndromes depending on **which parent transmitted it** — and why **UNIPARENTAL DISOMY** (both copies from one parent) produces the same phenotypes without any deletion.
 
@@ -1454,7 +1454,7 @@
 
 **ALSO KNOW:** *Floppy baby who later eats everything = Prader–Willi (paternal 15q deletion).* **UNIPARENTAL DISOMY** — both copies of a chromosome from one parent — causes disease only where genes are **imprinted**, or where it unmasks a recessive mutation.
 
-**REMEMBER:** *Mother's missing fifteen makes a happy puppet; father's makes a hungry one.*
+**REMEMBER:** *Mother’s missing fifteen makes a happy puppet; father’s makes a hungry one.*
 
 `Q9686, Q9105`
 
@@ -1464,12 +1464,12 @@
 
 **PEARL:** **ELLIS–VAN CREVELD (chondroectodermal dysplasia): SHORT STATURE with SHORT LIMBS, POSTAXIAL POLYDACTYLY, a NARROW THORAX, NAIL AND TOOTH dysplasia, and CONGENITAL HEART DISEASE — classically a SINGLE ATRIUM/large ASD** — with **cone-shaped epiphyses and short tubular bones** on X-ray; autosomal recessive (EVC gene), famously common among the Old Order Amish. **BARDET–BIEDL SYNDROME: early-onset TRUNCAL OBESITY, RETINITIS PIGMENTOSA, POLYDACTYLY, intellectual disability, HYPOGONADISM and RENAL anomalies.**
 
-**UNDERSTAND:** Both are **CILIOPATHIES** — disorders of the primary cilium, which is why they cluster such odd features together. The primary cilium transduces **HEDGEHOG signalling in the limb bud and growth plate (hence polydactyly and skeletal dysplasia)**, forms the **photoreceptor outer segment (hence RETINITIS PIGMENTOSA)**, and is essential in the **renal tubule (hence cystic kidney disease)**. Knowing "ciliopathy" makes the seemingly random combination predictable.
+**UNDERSTAND:** Both are **CILIOPATHIES** — disorders of the primary cilium, which is why they cluster such odd features together. The primary cilium transduces **HEDGEHOG signalling in the limb bud and growth plate (hence polydactyly and skeletal dysplasia)**, forms the **photoreceptor outer segment (hence RETINITIS PIGMENTOSA)**, and is essential in the **renal tubule (hence cystic kidney disease)**. Knowing “ciliopathy” makes the seemingly random combination predictable.
 
 **MUST KNOW:**
 
 - **Bardet–Biedl is distinguished from LAURENCE–MOON syndrome (which classically has SPASTIC PARAPLEGIA and NO polydactyly or obesity) and from PRADER–WILLI (obesity and hypogonadism but NO retinitis pigmentosa or polydactyly). Retinitis pigmentosa causes NIGHT BLINDNESS and progressive peripheral field loss with bone-spicule pigmentation — the commonest cause of blindness in Bardet–Biedl, and renal failure the commonest cause of death.**
-- **Other ciliopathies: PRIMARY CILIARY DYSKINESIA/Kartagener, polycystic kidney disease, nephronophthisis, Joubert syndrome (the "MOLAR TOOTH" sign on MRI) and Meckel–Gruber syndrome (occipital encephalocele, polydactyly, cystic kidneys).**
+- **Other ciliopathies: PRIMARY CILIARY DYSKINESIA/Kartagener, polycystic kidney disease, nephronophthisis, Joubert syndrome (the “MOLAR TOOTH” sign on MRI) and Meckel–Gruber syndrome (occipital encephalocele, polydactyly, cystic kidneys).**
 - **Polydactyly types: POSTAXIAL (ulnar/fibular side — Ellis-van Creveld, Bardet–Biedl, Patau, and a common isolated autosomal dominant trait in African populations) versus PREAXIAL (thumb side — Fanconi anaemia, Holt–Oram, VACTERL).**
 - **PENDRED SYNDROME (another single-gene multi-system trap): bilateral SENSORINEURAL HEARING LOSS + GOITRE + a POSITIVE PERCHLORATE DISCHARGE TEST, from SLC26A4 (pendrin) defects impairing IODINE ORGANIFICATION and inner-ear ion transport; imaging shows an ENLARGED VESTIBULAR AQUEDUCT and Mondini dysplasia. It is a leading cause of syndromic congenital deafness.**
 - **Whenever polydactyly is found, examine the HEART, EYES and KIDNEYS — the associated anomalies, not the extra digit, determine the prognosis.**
@@ -1490,10 +1490,10 @@
 
 **MUST KNOW:**
 
-- ***THE AIRWAY IS THE EMERGENCY*** — obstruction causes desaturation, cor pulmonale and failure to thrive; ***NEVER NURSE THESE BABIES SUPINE.*** Feeding usually requires specialised teats or nasogastric feeds; the mandible often "catch-up" grows over the first years.
+- ***THE AIRWAY IS THE EMERGENCY*** — obstruction causes desaturation, cor pulmonale and failure to thrive; ***NEVER NURSE THESE BABIES SUPINE.*** Feeding usually requires specialised teats or nasogastric feeds; the mandible often “catch-up” grows over the first years.
 - **In ~half of cases it is part of a syndrome — most often STICKLER SYNDROME (collagen II, with high myopia, retinal detachment, deafness and arthropathy — so refer for ophthalmological review) or 22q11 deletion, Treacher Collins and fetal alcohol syndrome.**
 - **TREACHER COLLINS (mandibulofacial dysostosis, TCOF1, autosomal dominant, first and second branchial arch): DOWNSLANTING palpebral fissures, coloboma of the lower lid, malar and mandibular hypoplasia, malformed ears and CONDUCTIVE deafness, with NORMAL intelligence.**
-- **Cleft lip/palate basics: cleft LIP results from failure of fusion of the maxillary and medial nasal processes (repaired around 3 MONTHS — "rule of 10s": 10 weeks, 10 lb, Hb 10 g/dL); cleft PALATE from failure of fusion of the palatal shelves (repaired at 9–12 MONTHS, before speech develops). Complications include feeding difficulty, SECRETORY OTITIS MEDIA and conductive hearing loss (eustachian tube dysfunction), speech problems and dental anomalies.**
+- **Cleft lip/palate basics: cleft LIP results from failure of fusion of the maxillary and medial nasal processes (repaired around 3 MONTHS — “rule of 10s”: 10 weeks, 10 lb, Hb 10 g/dL); cleft PALATE from failure of fusion of the palatal shelves (repaired at 9–12 MONTHS, before speech develops). Complications include feeding difficulty, SECRETORY OTITIS MEDIA and conductive hearing loss (eustachian tube dysfunction), speech problems and dental anomalies.**
 - **The distinction of malformation (intrinsically abnormal development), DEFORMATION (external mechanical force, e.g. oligohydramnios), DISRUPTION (destruction of normally formed tissue, e.g. amniotic bands) and SEQUENCE is itself examinable — Potter sequence is the other classic.**
 
 **EXAM CONNECTION:** Micrognathia + glossoptosis + U-shaped cleft → **Pierre Robin sequence**.
@@ -1506,7 +1506,7 @@
 
 ### 67. Russell–Silver Syndrome
 
-**PEARL:** **SEVERE INTRAUTERINE AND POSTNATAL GROWTH FAILURE with a RELATIVELY LARGE HEAD ("pseudohydrocephalus"), a PROMINENT FOREHEAD, a small TRIANGULAR FACE with a SMALL JAW AND NARROW CHIN, BODY ASYMMETRY (hemihypoplasia), CLINODACTYLY OF THE FIFTH FINGER, and severe FEEDING DIFFICULTY WITH POOR APPETITE = RUSSELL–SILVER SYNDROME.** It is caused by **HYPOMETHYLATION AT 11p15 (~40–60%) or MATERNAL UNIPARENTAL DISOMY OF CHROMOSOME 7 (~10%)**, mostly sporadic.
+**PEARL:** **SEVERE INTRAUTERINE AND POSTNATAL GROWTH FAILURE with a RELATIVELY LARGE HEAD (“pseudohydrocephalus”), a PROMINENT FOREHEAD, a small TRIANGULAR FACE with a SMALL JAW AND NARROW CHIN, BODY ASYMMETRY (hemihypoplasia), CLINODACTYLY OF THE FIFTH FINGER, and severe FEEDING DIFFICULTY WITH POOR APPETITE = RUSSELL–SILVER SYNDROME.** It is caused by **HYPOMETHYLATION AT 11p15 (~40–60%) or MATERNAL UNIPARENTAL DISOMY OF CHROMOSOME 7 (~10%)**, mostly sporadic.
 
 **UNDERSTAND:** Russell–Silver is the **mirror image of BECKWITH–WIEDEMANN SYNDROME at the same imprinted locus, 11p15.** Beckwith–Wiedemann involves **OVER-expression of the growth-promoting IGF2 → OVERGROWTH (macrosomia, macroglossia, hemiHYPERtrophy, omphalocele, hypoglycaemia and embryonal tumours).** Russell–Silver involves **LOSS of IGF2 expression → UNDERGROWTH (small for dates, hemiHYPOtrophy, feeding failure).** One imprinted growth factor, two opposite syndromes.
 
@@ -1532,7 +1532,7 @@
 
 ### 68. Calcium Tells You the Syndrome: DiGeorge vs Williams
 
-**PEARL:** **Low calcium (~6.5 mg/dL) + immunodeficiency + conotruncal heart defect = DiGeorge (22q11.2 deletion).** **High calcium (>11 mg/dL) + friendly "cocktail-party" personality + supravalvular aortic stenosis = Williams (7q11.23 deletion).**
+**PEARL:** **Low calcium (~6.5 mg/dL) + immunodeficiency + conotruncal heart defect = DiGeorge (22q11.2 deletion).** **High calcium (>11 mg/dL) + friendly “cocktail-party” personality + supravalvular aortic stenosis = Williams (7q11.23 deletion).**
 
 **UNDERSTAND:** Both are contiguous gene deletion syndromes, and in both the calcium level is a direct read-out of what tissue was lost. DiGeorge deletes the developmental programme of the **3rd and 4th pharyngeal pouches** — no parathyroids (hypocalcaemia) and no thymus (T-cell deficiency). Williams deletes the **elastin (ELN)** gene, which explains the arteriopathy; the hypercalcaemia is idiopathic but reliably present and causes the constipation, weakness and lethargy in the stem.
 
@@ -1576,7 +1576,7 @@
 - **Turner management:** growth hormone for height, oestrogen replacement at puberty; **gonadectomy is NOT indicated** — the streak gonads of a pure 45,XO carry no tumour risk. **Prophylactic gonadectomy is only for Y-chromosome material** (Turner mosaic with Y, or complete androgen insensitivity) because of **gonadoblastoma/dysgerminoma** risk.
 - Turner is the commonest cause of **primary amenorrhoea with absent secondary sexual characteristics and a normal uterus**.
 
-**EXAM CONNECTION:** Two traps live here — "laparoscopic gonadectomy" offered for plain Turner (wrong; **reassurance/hormone replacement**), and Turner offered for an affected **male sibling** (wrong; **Noonan**).
+**EXAM CONNECTION:** Two traps live here — “laparoscopic gonadectomy” offered for plain Turner (wrong; **reassurance/hormone replacement**), and Turner offered for an affected **male sibling** (wrong; **Noonan**).
 
 **REMEMBER:** *Turner is left-sided (coarctation) and female-only; Noonan is right-sided (pulmonary stenosis) and runs in families.*
 
@@ -1588,9 +1588,9 @@
 
 ---
 
-### 70. Anticipation, Sherman's Paradox and Fragile X
+### 70. Anticipation, Sherman’s Paradox and Fragile X
 
-**PEARL:** A trinucleotide-repeat disorder becoming **more severe and earlier in onset in successive generations** is **anticipation**; in Fragile X the specific term for this non-Mendelian pattern of increasing penetrance down the pedigree is **Sherman's paradox** — both terms are correct.
+**PEARL:** A trinucleotide-repeat disorder becoming **more severe and earlier in onset in successive generations** is **anticipation**; in Fragile X the specific term for this non-Mendelian pattern of increasing penetrance down the pedigree is **Sherman’s paradox** — both terms are correct.
 
 **UNDERSTAND:** Repeat tracts are unstable during gametogenesis, so a **premutation (55–200 CGG)** expands to a **full mutation (>200 CGG)** when transmitted. Full expansion **methylates and silences FMR1**, abolishing FMRP and causing the syndrome. Because the expansion accumulates over generations, grandsons of a transmitting male are affected while he is not — the paradox Sherman described.
 
@@ -1602,7 +1602,7 @@
 - **Premutation carriers are not normal:** males → **FXTAS** (fragile X tremor/ataxia syndrome); females → **premature ovarian insufficiency**.
 - Diagnosis is by **PCR + Southern blot / methylation analysis**, not karyotype.
 
-**EXAM CONNECTION:** "Both A and B" is the answer when anticipation and Sherman's paradox are offered separately — the examiner is testing that you know they describe the same phenomenon.
+**EXAM CONNECTION:** “Both A and B” is the answer when anticipation and Sherman’s paradox are offered separately — the examiner is testing that you know they describe the same phenomenon.
 
 **REMEMBER:** *Each generation adds repeats — the disease gets younger and worse.*
 
@@ -1646,13 +1646,13 @@
 
 **MUST KNOW:**
 
-- Features: **microcephaly** (OFC >3 SD below mean for age and sex), round "moon" face, **hypertelorism**, epicanthic folds, **micrognathia**, low-set ears, single palmar crease, cardiac defects (VSD).
+- Features: **microcephaly** (OFC >3 SD below mean for age and sex), round “moon” face, **hypertelorism**, epicanthic folds, **micrognathia**, low-set ears, single palmar crease, cardiac defects (VSD).
 - Behaviour: hyperactivity, aggression, short attention span, self-injury; profound speech delay with better receptive than expressive language.
 - Most are **de novo terminal deletions of paternal origin**; ~10–15% arise from a **parental balanced translocation** → **karyotype both parents** for recurrence risk.
 - Survival into adulthood is common — unlike trisomies 13 and 18.
-- Other deletion syndromes to keep separate: **4p− Wolf–Hirschhorn** ("Greek warrior helmet" facies, seizures), **22q11 DiGeorge**, **7q11 Williams**, **15q11 Prader–Willi/Angelman**.
+- Other deletion syndromes to keep separate: **4p− Wolf–Hirschhorn** (“Greek warrior helmet” facies, seizures), **22q11 DiGeorge**, **7q11 Williams**, **15q11 Prader–Willi/Angelman**.
 
-**EXAM CONNECTION:** Any stem containing the phrase "cry like a cat" is answered before you read the options; the actual question is usually an **associated feature** — **microcephaly**, never macrocephaly.
+**EXAM CONNECTION:** Any stem containing the phrase “cry like a cat” is answered before you read the options; the actual question is usually an **associated feature** — **microcephaly**, never macrocephaly.
 
 **REMEMBER:** *5p minus — the cat cries because the larynx is small.*
 
@@ -1678,7 +1678,7 @@
 - Differentiate obesity syndromes: **Prader–Willi** (hypotonia then hyperphagia, almond eyes, small hands/feet, 15q11 paternal deletion); **Alström** (retinal dystrophy + obesity + **deafness + diabetes**, no polydactyly); **Cohen** (microcephaly, prominent incisors); **leptin/MC4R** deficiency (isolated severe early obesity).
 - **Postaxial polydactyly** (extra digit on the **ulnar/fibular** side) also occurs in **Ellis–van Creveld** and **Patau (trisomy 13)**.
 
-**EXAM CONNECTION:** Asked as "which is NOT a feature" — the odd one out is **syndactyly** (or macrocephaly). If **polydactyly + obesity + retinal dystrophy** appear together, the answer is Bardet–Biedl.
+**EXAM CONNECTION:** Asked as “which is NOT a feature” — the odd one out is **syndactyly** (or macrocephaly). If **polydactyly + obesity + retinal dystrophy** appear together, the answer is Bardet–Biedl.
 
 **ALSO KNOW:** *Obese + blind + extra fingers = Bardet–Biedl — and watch the kidneys.*
 
@@ -1707,7 +1707,7 @@
 - **Autosomal dominant**, ~⅓ sporadic; **intelligence is normal**; management is dental and orthopaedic — life expectancy is normal.
 - Compare: **osteogenesis imperfecta** (blue sclerae, fractures, dentinogenesis imperfecta, **COL1A1/2**) and **osteopetrosis** (**CLCN7**, dense brittle bones, marrow failure, cranial nerve compression).
 
-**EXAM CONNECTION:** The "touches both shoulders together" image or description is pathognomonic; the associated question is usually the **type of ossification affected (membranous)** or the **gene (RUNX2)**.
+**EXAM CONNECTION:** The “touches both shoulders together” image or description is pathognomonic; the associated question is usually the **type of ossification affected (membranous)** or the **gene (RUNX2)**.
 
 **REMEMBER:** *No clavicles, no fontanelle closure, too many teeth — membrane bone fails.*
 
@@ -1736,7 +1736,7 @@
 - Antenatal screening: **first-trimester — increased NT, ↑β-hCG, ↓PAPP-A**; **second-trimester quadruple test — ↓AFP, ↓oestriol, ↑hCG, ↑inhibin A**; **NIPT (cell-free fetal DNA)** for high sensitivity, confirmed by CVS or amniocentesis.
 - **Infant of a diabetic mother:** **caudal regression (most characteristic)**, cardiac defects (**transposition, VSD, hypertrophic cardiomyopathy**), neural tube defects, **macrosomia, hypoglycaemia, hypocalcaemia, polycythaemia, hyperbilirubinaemia, RDS**, small left colon syndrome.
 
-**EXAM CONNECTION:** "Which is NOT associated?" — the odd one out belongs to a **different syndrome**, most often the diabetic embryopathy. Learn the two lists side by side.
+**EXAM CONNECTION:** “Which is NOT associated?” — the odd one out belongs to a **different syndrome**, most often the diabetic embryopathy. Learn the two lists side by side.
 
 **REMEMBER:** *Trisomy 21 is a gene-dosage disease; caudal regression is a sugar disease.*
 
@@ -1746,14 +1746,14 @@
 
 ### 76. McCune–Albright Syndrome
 
-**PEARL:** **Peripheral (GnRH-INDEPENDENT) precocious puberty + segmental CAFÉ-AU-LAIT macules with IRREGULAR ("coast of MAINE") borders + POLYOSTOTIC FIBROUS DYSPLASIA = McCUNE–ALBRIGHT SYNDROME**, from a **post-zygotic activating (mosaic) mutation in GNAS (Gsα)**. **Basal LH is LOW and does NOT rise on GnRH stimulation, while oestradiol is very high.**
+**PEARL:** **Peripheral (GnRH-INDEPENDENT) precocious puberty + segmental CAFÉ-AU-LAIT macules with IRREGULAR (“coast of MAINE”) borders + POLYOSTOTIC FIBROUS DYSPLASIA = McCUNE–ALBRIGHT SYNDROME**, from a **post-zygotic activating (mosaic) mutation in GNAS (Gsα)**. **Basal LH is LOW and does NOT rise on GnRH stimulation, while oestradiol is very high.**
 
-**UNDERSTAND:** The mutation locks **Gsα in the "on" state**, so any cell using a **Gs-coupled receptor secretes autonomously without its trophic hormone** — ovarian follicles make oestrogen without LH, thyrocytes make thyroxine without TSH, somatotrophs make growth hormone, adrenal cells make cortisol. Because the autonomous oestrogen **suppresses the pituitary by negative feedback**, LH is low and unresponsive — the exact opposite of **central** precocious puberty, where the axis is switched on and GnRH stimulation produces a brisk LH rise. The mutation is **post-zygotic and mosaic**, so the lesions are **SEGMENTAL and stop abruptly at the midline** — hence the irregular café-au-lait borders.
+**UNDERSTAND:** The mutation locks **Gsα in the “on” state**, so any cell using a **Gs-coupled receptor secretes autonomously without its trophic hormone** — ovarian follicles make oestrogen without LH, thyrocytes make thyroxine without TSH, somatotrophs make growth hormone, adrenal cells make cortisol. Because the autonomous oestrogen **suppresses the pituitary by negative feedback**, LH is low and unresponsive — the exact opposite of **central** precocious puberty, where the axis is switched on and GnRH stimulation produces a brisk LH rise. The mutation is **post-zygotic and mosaic**, so the lesions are **SEGMENTAL and stop abruptly at the midline** — hence the irregular café-au-lait borders.
 
 **MUST KNOW:**
 
-- **Classic triad: precocious puberty (recurrent unilateral autonomous ovarian CYSTS, painless vaginal bleeding), café-au-lait macules, and fibrous dysplasia (bone pain, deformity, pathological fracture, cranial nerve compression — "SHEPHERD'S CROOK" deformity of the femur).** Other endocrinopathies: **hyperthyroidism, acromegaly, Cushing syndrome, hyperprolactinaemia and hypophosphataemic rickets (FGF23).**
-- **Café-au-lait borders: McCune–Albright = irregular, "COAST OF MAINE"; NEUROFIBROMATOSIS 1 = smooth, "COAST OF CALIFORNIA".**
+- **Classic triad: precocious puberty (recurrent unilateral autonomous ovarian CYSTS, painless vaginal bleeding), café-au-lait macules, and fibrous dysplasia (bone pain, deformity, pathological fracture, cranial nerve compression — “SHEPHERD’S CROOK” deformity of the femur).** Other endocrinopathies: **hyperthyroidism, acromegaly, Cushing syndrome, hyperprolactinaemia and hypophosphataemic rickets (FGF23).**
+- **Café-au-lait borders: McCune–Albright = irregular, “COAST OF MAINE”; NEUROFIBROMATOSIS 1 = smooth, “COAST OF CALIFORNIA”.**
 - **Treatment: AROMATASE INHIBITORS (letrozole) or TAMOXIFEN to block peripheral oestrogen action — GnRH analogues do NOT work** (there is no GnRH drive to suppress), unless secondary central puberty develops later.
 - **Central (true) precocious puberty: pubertal LH response to GnRH stimulation; causes — idiopathic (commonest, especially in girls), CNS lesions (hypothalamic HAMARTOMA — classically with gelastic seizures), hydrocephalus, cranial irradiation. Treat with a GnRH ANALOGUE (leuprolide).**
 - **Other causes of peripheral precocity: congenital adrenal hyperplasia (VIRILISATION, raised 17-OHP), adrenal or gonadal tumours, exogenous steroids, primary HYPOTHYROIDISM (Van Wyk–Grumbach — precocity WITH delayed bone age), and PEUTZ–JEGHERS syndrome (Sertoli cell tumours).**
@@ -1781,7 +1781,7 @@
 - Compare: **Pierre Robin sequence** — micrognathia, glossoptosis, U-shaped cleft palate, airway obstruction (a sequence, not a syndrome); **Goldenhar (oculo-auriculo-vertebral)** — **hemifacial microsomia, epibulbar dermoid, vertebral anomalies**, usually **unilateral**; **Nager syndrome** — Treacher Collins features plus radial limb defects.
 - Other conditions where intelligence is characteristically normal: **Turner syndrome, Marfan syndrome, neurofibromatosis type 1 (usually), achondroplasia**.
 
-**EXAM CONNECTION:** "Not associated with" → **low intelligence**. The facial features are all genuine.
+**EXAM CONNECTION:** “Not associated with” → **low intelligence**. The facial features are all genuine.
 
 **REMEMBER:** *First and second arch only — the face is affected, the brain is not.*
 
@@ -1818,7 +1818,7 @@
 
 **MUST KNOW:** *TBX5* mutation; the **radial ray** is affected, so it is always the **upper** limb. Conduction disease (progressive AV block) is common even with a small defect.
 
-**REMEMBER:** *"Heart–hand syndrome": ASD + funny thumb = Holt–Oram (TBX5).*
+**REMEMBER:** *“Heart–hand syndrome”: ASD + funny thumb = Holt–Oram (TBX5).*
 
 ---
 
@@ -1854,7 +1854,7 @@
 
 **PEARL:** **CLCN7** mutation causes osteopetrosis — increased bone density with abnormal, brittle bone.
 
-**MUST KNOW:** Defective **osteoclast** function (carbonic anhydrase II deficiency in one form) → failure of bone resorption. Marrow space is obliterated → **pancytopenia and extramedullary haematopoiesis**; cranial nerve compression (blindness, deafness); paradoxical **fractures**. Radiology: **"bone-in-bone", "Erlenmeyer flask", sandwich vertebra**. Treatment of the severe infantile form: **haematopoietic stem cell transplant**.
+**MUST KNOW:** Defective **osteoclast** function (carbonic anhydrase II deficiency in one form) → failure of bone resorption. Marrow space is obliterated → **pancytopenia and extramedullary haematopoiesis**; cranial nerve compression (blindness, deafness); paradoxical **fractures**. Radiology: **“bone-in-bone”, “Erlenmeyer flask”, sandwich vertebra**. Treatment of the severe infantile form: **haematopoietic stem cell transplant**.
 
 **REMEMBER:** *Osteoclasts fail → dense brittle bones + pancytopenia + cranial nerve palsies.*
 
@@ -1874,21 +1874,21 @@
 
 ### 86. Transposition of the Great Arteries
 
-**PEARL:** An **"EGG-ON-STRING" (egg-on-side) cardiac silhouette with a NARROW VASCULAR PEDICLE, INCREASED pulmonary blood flow and pulmonary venous hypertension = TRANSPOSITION OF THE GREAT ARTERIES.** The chamber that enlarges is the **LEFT ATRIUM (from increased pulmonary venous return), NOT the right atrium.** Immediate management is **PROSTAGLANDIN E1 to keep the ductus open, then BALLOON ATRIAL SEPTOSTOMY (RASHKIND) and definitive ARTERIAL SWITCH in the first 2 weeks.**
+**PEARL:** An **“EGG-ON-STRING” (egg-on-side) cardiac silhouette with a NARROW VASCULAR PEDICLE, INCREASED pulmonary blood flow and pulmonary venous hypertension = TRANSPOSITION OF THE GREAT ARTERIES.** The chamber that enlarges is the **LEFT ATRIUM (from increased pulmonary venous return), NOT the right atrium.** Immediate management is **PROSTAGLANDIN E1 to keep the ductus open, then BALLOON ATRIAL SEPTOSTOMY (RASHKIND) and definitive ARTERIAL SWITCH in the first 2 weeks.**
 
 **UNDERSTAND:** In TGA the two circulations run in **PARALLEL rather than in series** — deoxygenated blood returns to the body and oxygenated blood returns to the lungs — so **survival depends entirely on MIXING** through the foramen ovale, a VSD or the ductus. That is why the baby is **profoundly cyanosed from birth, deteriorates as the duct closes, and why PGE1 is life-saving.** The narrow pedicle results from the great vessels lying anteroposteriorly rather than side by side.
 
 **MUST KNOW:**
 
 - **TGA is the commonest cyanotic heart disease presenting IN THE FIRST 24 HOURS, and it is the lesion MOST SPECIFICALLY associated with an INFANT OF A DIABETIC MOTHER. Cyanosis is severe and does NOT improve with oxygen (the HYPEROXIA TEST).**
-- **Radiological signatures worth memorising: "EGG ON STRING" — TGA; "BOOT-SHAPED" heart (coeur en sabot) with a right aortic arch and DECREASED pulmonary flow — TETRALOGY OF FALLOT; "SNOWMAN"/figure-of-8 — total anomalous pulmonary venous connection (supracardiac); "BOX-SHAPED" massive cardiomegaly with a "wall-to-wall" heart — EBSTEIN'S ANOMALY.**
-- **CYANOTIC lesions with INCREASED pulmonary blood flow: TGA, TAPVC, truncus arteriosus, single ventricle. With DECREASED flow: Fallot, tricuspid atresia, pulmonary atresia. The "5 Ts" mnemonic maps to the number of letters — Truncus (1 vessel), TGA (2), Tricuspid atresia (3), TAPVC (4), Tetralogy... (with pentalogy 5).**
+- **Radiological signatures worth memorising: “EGG ON STRING” — TGA; “BOOT-SHAPED” heart (coeur en sabot) with a right aortic arch and DECREASED pulmonary flow — TETRALOGY OF FALLOT; “SNOWMAN”/figure-of-8 — total anomalous pulmonary venous connection (supracardiac); “BOX-SHAPED” massive cardiomegaly with a “wall-to-wall” heart — EBSTEIN’S ANOMALY.**
+- **CYANOTIC lesions with INCREASED pulmonary blood flow: TGA, TAPVC, truncus arteriosus, single ventricle. With DECREASED flow: Fallot, tricuspid atresia, pulmonary atresia. The “5 Ts” mnemonic maps to the number of letters — Truncus (1 vessel), TGA (2), Tricuspid atresia (3), TAPVC (4), Tetralogy… (with pentalogy 5).**
 - **DUCT-DEPENDENT lesions need PGE1: TGA, pulmonary atresia, critical pulmonary stenosis, tricuspid atresia, hypoplastic left heart, critical coarctation and interrupted arch. Watch for APNOEA as a side effect of prostaglandin.**
 - **ALL cyanotic newborns need pre- and post-ductal saturations, a hyperoxia test and urgent ECHOCARDIOGRAPHY; PULSE OXIMETRY SCREENING at 24–48 hours detects critical congenital heart disease before collapse.**
 
 **EXAM CONNECTION:** Egg-on-string X-ray → **TGA, with LEFT (not right) atrial enlargement**.
 
-**ALSO KNOW:** Chest X-ray shows the **"EGG-ON-A-STRING"** appearance (a narrow superior mediastinum from the antero-posteriorly aligned great vessels); **pulmonary vascularity is INCREASED but PULMONARY VENOUS HYPERTENSION IS NOT a feature.** Classically associated with **infants of diabetic mothers**.
+**ALSO KNOW:** Chest X-ray shows the **“EGG-ON-A-STRING”** appearance (a narrow superior mediastinum from the antero-posteriorly aligned great vessels); **pulmonary vascularity is INCREASED but PULMONARY VENOUS HYPERTENSION IS NOT a feature.** Classically associated with **infants of diabetic mothers**.
 
 **REMEMBER:** *Two circulations in parallel — the baby lives only as long as something mixes.*
 
@@ -1907,16 +1907,16 @@
 
 **MUST KNOW:**
 
-- ***THE CLASSIC PRESENTATION OF COARCTATION IS COLLAPSE AT DAYS 2–10 AS THE DUCT CLOSES***: a mottled, shocked baby with WEAK OR ABSENT FEMORAL PULSES, RADIO-FEMORAL DELAY and an UPPER-LIMB–LOWER-LIMB blood pressure gradient. ***ALWAYS PALPATE THE FEMORAL PULSES IN A SICK NEONATE.*** Older children present with hypertension, leg claudication, RIB NOTCHING and the "3" sign on chest X-ray.
+- ***THE CLASSIC PRESENTATION OF COARCTATION IS COLLAPSE AT DAYS 2–10 AS THE DUCT CLOSES***: a mottled, shocked baby with WEAK OR ABSENT FEMORAL PULSES, RADIO-FEMORAL DELAY and an UPPER-LIMB–LOWER-LIMB blood pressure gradient. ***ALWAYS PALPATE THE FEMORAL PULSES IN A SICK NEONATE.*** Older children present with hypertension, leg claudication, RIB NOTCHING and the “3” sign on chest X-ray.
 - **Side effects of prostaglandin E1: APNOEA (be ready to intubate), hypotension, fever, flushing, jitteriness and, with prolonged use, cortical hyperostosis and gastric outlet obstruction.**
 - **A HYPEROXIA TEST (PaO2 failing to rise above ~150 mmHg in 100% oxygen) distinguishes cyanotic heart disease from lung disease.**
-- **In PRETERM infants, a haemodynamically significant PDA causes a continuous "MACHINERY" MURMUR, BOUNDING PULSES with a WIDE PULSE PRESSURE, an active precordium, pulmonary overcirculation, and worsening ventilation, NEC and IVH — treated conservatively, medically (ibuprofen/paracetamol) or by catheter/surgical closure.**
+- **In PRETERM infants, a haemodynamically significant PDA causes a continuous “MACHINERY” MURMUR, BOUNDING PULSES with a WIDE PULSE PRESSURE, an active precordium, pulmonary overcirculation, and worsening ventilation, NEC and IVH — treated conservatively, medically (ibuprofen/paracetamol) or by catheter/surgical closure.**
 - ***PDA IS BENEFICIAL AND MUST NOT BE CLOSED IN DUCT-DEPENDENT LESIONS*** — giving indomethacin to such a baby is fatal, which is exactly why the pairing is examined.
 - **Cyanotic lesions with INCREASED pulmonary blood flow: TGA, TAPVC, truncus arteriosus, single ventricle. With DECREASED flow: tetralogy of Fallot, pulmonary atresia, tricuspid atresia, EBSTEIN anomaly.**
 
 **EXAM CONNECTION:** Keeping the duct open before coarctation repair → **alprostadil (PGE1)**; closing a PDA → **indomethacin/ibuprofen**.
 
-**REMEMBER:** *Prostaglandin opens, NSAID closes — and in duct-dependent hearts the duct is the patient's lifeline.*
+**REMEMBER:** *Prostaglandin opens, NSAID closes — and in duct-dependent hearts the duct is the patient’s lifeline.*
 
 `Q10297`
 
@@ -1932,11 +1932,11 @@
 
 - **ASD: a WIDE, FIXED SPLIT SECOND HEART SOUND with an ejection systolic murmur in the pulmonary area (increased flow across a normal pulmonary valve) — often asymptomatic and detected late; ECG shows RIGHT axis deviation with incomplete RBBB in secundum ASD, and ***LEFT axis deviation in an OSTIUM PRIMUM defect*** (the discriminator). Closure is by device (secundum) or surgery.**
 - **VSD: the commonest congenital heart defect; a harsh PANSYSTOLIC murmur at the lower left sternal edge (a LOUDER murmur means a SMALLER defect), with failure to thrive, recurrent chest infections and a displaced apex when large. Small muscular VSDs often close spontaneously.**
-- **PDA: a CONTINUOUS "MACHINERY" murmur below the left clavicle with a wide pulse pressure and bounding pulses.**
+- **PDA: a CONTINUOUS “MACHINERY” murmur below the left clavicle with a wide pulse pressure and bounding pulses.**
 - ***EISENMENGER SYNDROME*** — irreversible pulmonary vascular disease reversing the shunt, giving cyanosis, clubbing and a loud single P2 — is the endpoint of an untreated large shunt, and makes the defect INOPERABLE (heart–lung transplantation only). Repair must precede it.
-- **X-ray patterns: increased pulmonary vascularity and cardiomegaly in a large shunt; the "EGG-ON-A-STRING" heart with a NARROW VASCULAR PEDICLE and increased pulmonary blood flow in TRANSPOSITION (but ***NOT pulmonary venous hypertension***); a "BOOT-SHAPED" heart with decreased vascularity in tetralogy; a "SNOWMAN"/figure-of-8 in supracardiac TAPVC.**
+- **X-ray patterns: increased pulmonary vascularity and cardiomegaly in a large shunt; the “EGG-ON-A-STRING” heart with a NARROW VASCULAR PEDICLE and increased pulmonary blood flow in TRANSPOSITION (but ***NOT pulmonary venous hypertension***); a “BOOT-SHAPED” heart with decreased vascularity in tetralogy; a “SNOWMAN”/figure-of-8 in supracardiac TAPVC.**
 
-**EXAM CONNECTION:** "Does NOT enlarge the left atrium" → **atrial septal defect**.
+**EXAM CONNECTION:** “Does NOT enlarge the left atrium” → **atrial septal defect**.
 
 **REMEMBER:** *Only the ASD lets the left atrium off — everything else sends the blood back to it.*
 
@@ -1955,7 +1955,7 @@
 
 **MUST KNOW:**
 
-- **Features of an INNOCENT murmur ("the seven S's"): Soft, Systolic, aSymptomatic, Short, Sensitive to position, Single (normal S2) and left Sternal edge, with normal pulses, no thrill and normal growth. STILL'S MURMUR (vibratory, musical, lower left sternal edge) is the classic; also venous hum (continuous, abolished by lying down or compressing the neck veins) and pulmonary flow murmur.**
+- **Features of an INNOCENT murmur (“the seven S’s”): Soft, Systolic, aSymptomatic, Short, Sensitive to position, Single (normal S2) and left Sternal edge, with normal pulses, no thrill and normal growth. STILL’S MURMUR (vibratory, musical, lower left sternal edge) is the classic; also venous hum (continuous, abolished by lying down or compressing the neck veins) and pulmonary flow murmur.**
 - **Grading of murmurs (Levine): 1 barely audible, 2 soft but easily heard, 3 loud WITHOUT a thrill, 4 loud WITH a THRILL, 5 audible with the stethoscope partly off the chest, 6 audible without the stethoscope. ***A THRILL (grade 4+) IS ALWAYS PATHOLOGICAL.***
 - **The SECOND SOUND is diagnostically rich: WIDE AND FIXED SPLIT — ASD; SINGLE LOUD S2 — pulmonary hypertension, TGA, truncus, tetralogy; wide but variable split — RBBB, pulmonary stenosis; PARADOXICAL split — LBBB, severe aortic stenosis.**
 - ***ALWAYS PALPATE THE FEMORAL PULSES AND MEASURE THE BLOOD PRESSURE IN ALL FOUR LIMBS*** in any child with a murmur or hypertension — coarctation is the lesion most often missed on auscultation alone.
@@ -1983,7 +1983,7 @@
 - Classic indication for palliation: **Tetralogy of Fallot** in a small/symptomatic infant unsuitable for primary repair, pulmonary atresia, tricuspid atresia.
 - **Tet spells** (hypercyanotic episodes): **knee–chest position**, oxygen, morphine, IV fluids, **phenylephrine** (raises SVR), **propranolol** (relieves infundibular spasm); **avoid inotropes**, which worsen the spasm.
 
-**EXAM CONNECTION:** Pure matching, and the wrong option is usually a swap — "Potts: left PA to **ascending** aorta". **Potts goes to the descending aorta.**
+**EXAM CONNECTION:** Pure matching, and the wrong option is usually a swap — “Potts: left PA to **ascending** aorta”. **Potts goes to the descending aorta.**
 
 **REMEMBER:** *Waterston is up front (ascending–right); Potts is down the back (descending–left); BT comes off the arm.*
 
@@ -2008,7 +2008,7 @@
 - **CYSTIC FIBROSIS: autosomal recessive, ΔF508 in CFTR (chromosome 7); MECONIUM ILEUS in the newborn, failure to thrive with steatorrhoea, recurrent *Staphylococcus* then *PSEUDOMONAS* infection, nasal polyps, rectal prolapse, CF-related diabetes and biliary cirrhosis. Diagnosis by SWEAT CHLORIDE >60 mmol/L on two occasions plus genotyping; treated with airway clearance, pancreatic enzymes, fat-soluble vitamins, antibiotics, dornase alfa, hypertonic saline and CFTR MODULATORS.**
 - **In all three, INFERTILITY IS OBSTRUCTIVE/mechanical — spermatogenesis is normal, so sperm can be retrieved surgically for ICSI.**
 - **Work-up of a young adult with bronchiectasis: sweat chloride/CFTR, immunoglobulins (hypogammaglobulinaemia), alpha-1-antitrypsin, ciliary studies, Aspergillus serology (ABPA), and HRCT for the pattern and distribution.**
-- **Bronchiectasis on HRCT: the "SIGNET RING" sign (bronchus wider than its accompanying artery), tram-track lines and lack of tapering.**
+- **Bronchiectasis on HRCT: the “SIGNET RING” sign (bronchus wider than its accompanying artery), tram-track lines and lack of tapering.**
 
 **EXAM CONNECTION:** Sinusitis + bronchiectasis + azoospermia with normal cilia and sweat test → **Young syndrome** (the distractors are CF and Kartagener).
 
@@ -2020,7 +2020,7 @@
 
 ### 92. Cystic Fibrosis — Sweat, Salt and Alkalosis
 
-**PEARL:** In cystic fibrosis, **excess salt loss in sweat causes HYPONATRAEMIC, HYPOCHLORAEMIC METABOLIC ALKALOSIS with hypokalaemia — "PSEUDO-BARTTER SYNDROME"** — especially in hot weather, in infancy and during gastroenteritis. **SWEAT CHLORIDE >60 mmol/L on two occasions is diagnostic** in a child with recurrent chest infections, bulky greasy stools and failure to thrive despite a good appetite.
+**PEARL:** In cystic fibrosis, **excess salt loss in sweat causes HYPONATRAEMIC, HYPOCHLORAEMIC METABOLIC ALKALOSIS with hypokalaemia — “PSEUDO-BARTTER SYNDROME”** — especially in hot weather, in infancy and during gastroenteritis. **SWEAT CHLORIDE >60 mmol/L on two occasions is diagnostic** in a child with recurrent chest infections, bulky greasy stools and failure to thrive despite a good appetite.
 
 **UNDERSTAND:** CFTR is a **chloride channel**, and in the sweat duct its job is to **REABSORB chloride (and with it sodium) from the sweat as it travels to the skin surface.** Losing that function makes the sweat salty — which is both the diagnostic test and the cause of the electrolyte disturbance. **Chloride depletion drives the kidney to reabsorb bicarbonate and to lose potassium and hydrogen through secondary hyperaldosteronism**, generating the alkalosis. Note the paradox worth remembering: **in the SWEAT DUCT the defect causes failure of ABSORPTION (salty sweat), while in the AIRWAY it causes failure of SECRETION (thick dehydrated mucus).**
 
@@ -2036,7 +2036,7 @@
 
 **ALSO KNOW:** **HYPERKALAEMIA IS NOT SEEN IN CYSTIC FIBROSIS** — the potassium is LOW, not high; this pseudo-Bartter picture can be the first clue in an infant.
 
-**REMEMBER:** *Salty sweat, chloride out, bicarbonate stays — the alkalosis is the sweat gland's fault, not the kidney's.*
+**REMEMBER:** *Salty sweat, chloride out, bicarbonate stays — the alkalosis is the sweat gland’s fault, not the kidney’s.*
 
 `Q10079`
 
@@ -2044,23 +2044,23 @@
 
 ### 93. Acute Epiglottitis
 
-**PEARL:** A **TOXIC-looking child with a few HOURS of HIGH FEVER, INSPIRATORY STRIDOR, severe SORE THROAT, DYSPHAGIA WITH DROOLING, a muffled "HOT-POTATO" voice and the TRIPOD/sniffing posture has ACUTE EPIGLOTTITIS.** Management is ***SECURE THE AIRWAY FIRST (intubation in theatre by the most experienced person), THEN IV CEFTRIAXONE.*** The classical cause was ***HAEMOPHILUS INFLUENZAE type b, but after Hib vaccination the commonest organisms worldwide are now STREPTOCOCCI*** (*S. pyogenes*, *S. pneumoniae*), non-typeable *H. influenzae* and *S. aureus*.
+**PEARL:** A **TOXIC-looking child with a few HOURS of HIGH FEVER, INSPIRATORY STRIDOR, severe SORE THROAT, DYSPHAGIA WITH DROOLING, a muffled “HOT-POTATO” voice and the TRIPOD/sniffing posture has ACUTE EPIGLOTTITIS.** Management is ***SECURE THE AIRWAY FIRST (intubation in theatre by the most experienced person), THEN IV CEFTRIAXONE.*** The classical cause was ***HAEMOPHILUS INFLUENZAE type b, but after Hib vaccination the commonest organisms worldwide are now STREPTOCOCCI*** (*S. pyogenes*, *S. pneumoniae*), non-typeable *H. influenzae* and *S. aureus*.
 
 **UNDERSTAND:** The drooling and the tripod position are not incidental — they mean the **airway is already nearly obstructed**: the child cannot swallow his own saliva and is sitting forward to keep the swollen supraglottis off the airway. ***ANY MANOEUVRE THAT UPSETS THE CHILD — a tongue depressor, forced supine positioning, cannulation, throat swabs — CAN PRECIPITATE COMPLETE OBSTRUCTION AND DEATH.*** This is why examination of the throat is deferred until the airway is secured in a controlled setting.
 
 **MUST KNOW:**
 
-- **Investigations are secondary: a LATERAL NECK X-RAY shows the "THUMB SIGN" (swollen epiglottis) with thickened aryepiglottic folds — but ***DO NOT SEND AN UNSTABLE CHILD TO RADIOLOGY.*** Laryngoscopy in theatre shows the CHERRY-RED, swollen epiglottis and is both diagnostic and the moment of intubation.
-- **The critical contrast is CROUP (acute laryngotracheobronchitis, PARAINFLUENZA virus): a 6-month to 3-year-old with a PROLONGED PRODROME of coryza, a BARKING/SEAL-LIKE COUGH, HOARSENESS and inspiratory stridor, NO drooling, NOT toxic, with the "STEEPLE SIGN" on an AP neck film — treated with a single dose of ORAL DEXAMETHASONE (0.15–0.6 mg/kg) for all severities and NEBULISED ADRENALINE for moderate/severe stridor.**
+- **Investigations are secondary: a LATERAL NECK X-RAY shows the “THUMB SIGN” (swollen epiglottis) with thickened aryepiglottic folds — but ***DO NOT SEND AN UNSTABLE CHILD TO RADIOLOGY.*** Laryngoscopy in theatre shows the CHERRY-RED, swollen epiglottis and is both diagnostic and the moment of intubation.
+- **The critical contrast is CROUP (acute laryngotracheobronchitis, PARAINFLUENZA virus): a 6-month to 3-year-old with a PROLONGED PRODROME of coryza, a BARKING/SEAL-LIKE COUGH, HOARSENESS and inspiratory stridor, NO drooling, NOT toxic, with the “STEEPLE SIGN” on an AP neck film — treated with a single dose of ORAL DEXAMETHASONE (0.15–0.6 mg/kg) for all severities and NEBULISED ADRENALINE for moderate/severe stridor.**
 - **Other causes of stridor to keep in the differential: bacterial tracheitis (toxic, thick purulent secretions, staphylococcal), retropharyngeal abscess (neck stiffness, widened prevertebral space), DIPHTHERIA (a grey adherent membrane that bleeds when removed — treat with ANTITOXIN plus penicillin/erythromycin), foreign body, angio-oedema and laryngomalacia (chronic, positional, benign).**
 - ***CHEMOPROPHYLAXIS WITH RIFAMPICIN*** is given to household contacts when the cause is confirmed Hib and there is an unimmunised child under 4 in the house.
 - **Hib conjugate vaccine (part of the pentavalent in India) has reduced invasive Hib disease by ~99% — the reason the epidemiology of this question changed.**
 
 **EXAM CONNECTION:** Toxic child with drooling and stridor → **secure the airway + IV ceftriaxone**; commonest organism worldwide today → **streptococci, not Hib**.
 
-**ALSO KNOW:** A **CHERRY-RED EPIGLOTTIS** is the classic finding. The **4 D's — Drooling, Dysphagia, Dysphonia, Distress** — with the child sitting in the **TRIPOD position** and **NO COUGH** (unlike croup).
+**ALSO KNOW:** A **CHERRY-RED EPIGLOTTIS** is the classic finding. The **4 D’s — Drooling, Dysphagia, Dysphonia, Distress** — with the child sitting in the **TRIPOD position** and **NO COUGH** (unlike croup).
 
-**REMEMBER:** *Drooling, tripod, no cough — don't touch the throat, take him to theatre.*
+**REMEMBER:** *Drooling, tripod, no cough — don’t touch the throat, take him to theatre.*
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/53482c61d5eb4c9f987753bf83b216e2x720x804.PNG)
@@ -2072,7 +2072,7 @@
 
 ### 94. Diagnosing Asthma in Children by Spirometry
 
-**PEARL: **Spirometric evidence supporting childhood asthma:** *AN INCREASE IN FEV1 >12–15% AFTER A BRONCHODILATOR (reversibility), an FEV1/FVC RATIO BELOW 80–90% (obstruction), and a FALL IN FEV1 >15% AFTER EXERCISE.*** ***DIURNAL VARIATION IS MEASURED WITH PEAK EXPIRATORY FLOW (>13–20% variability), NOT FEV1*** — "day–night variation of FEV1 >15%" is the odd one out.
+**PEARL: **Spirometric evidence supporting childhood asthma:** *AN INCREASE IN FEV1 >12–15% AFTER A BRONCHODILATOR (reversibility), an FEV1/FVC RATIO BELOW 80–90% (obstruction), and a FALL IN FEV1 >15% AFTER EXERCISE.*** ***DIURNAL VARIATION IS MEASURED WITH PEAK EXPIRATORY FLOW (>13–20% variability), NOT FEV1*** — “day–night variation of FEV1 >15%” is the odd one out.
 
 **UNDERSTAND:** Asthma is defined physiologically by **VARIABLE EXPIRATORY AIRFLOW LIMITATION** — so every diagnostic test is an attempt to *demonstrate variability*: reverse the obstruction with a bronchodilator, provoke it with exercise or methacholine, or watch it fluctuate over the day. **PEF is the tool for home and serial monitoring** because it is portable and effort-simple; **spirometry is a laboratory measurement done at a point in time**, which is why the diurnal-variation criterion belongs to PEF.
 
@@ -2081,10 +2081,10 @@
 - ***A NORMAL SPIROMETRY DOES NOT EXCLUDE ASTHMA*** — most children are normal between episodes; the diagnosis remains largely clinical (recurrent wheeze, cough worse at night and with exercise, atopy and family history, response to treatment). Spirometry is generally reliable only from about 5–6 years of age.
 - **Treatment principles:** *INHALED CORTICOSTEROIDS ARE THE CORNERSTONE OF CONTROLLER THERAPY***, delivered by METERED-DOSE INHALER WITH A SPACER (with a face mask under 4 years) — as effective as a nebuliser and preferred; add-on long-acting beta-agonists (not as monotherapy) or a leukotriene receptor antagonist; step up and down by control.
 - **Acute exacerbation: oxygen, repeated inhaled SALBUTAMOL (with ipratropium in severe attacks), and ***EARLY SYSTEMIC CORTICOSTEROIDS***; magnesium sulphate in severe cases. ***A SILENT CHEST, EXHAUSTION, ALTERED CONSCIOUSNESS AND A RISING PaCO2 ARE SIGNS OF LIFE-THREATENING ASTHMA*** — a normal or high CO2 in a distressed asthmatic means impending failure, not improvement.
-- **Check INHALER TECHNIQUE AND ADHERENCE before escalating treatment — the commonest reason for "resistant" asthma; and address trigger avoidance (smoke exposure, allergens).**
-- **Differential of recurrent wheeze in a child: viral-induced wheeze, bronchiolitis, foreign body (sudden onset, unilateral signs), gastro-oesophageal reflux, cystic fibrosis, tuberculosis with nodal compression, and congenital airway anomalies — ***"ALL THAT WHEEZES IS NOT ASTHMA."***
+- **Check INHALER TECHNIQUE AND ADHERENCE before escalating treatment — the commonest reason for “resistant” asthma; and address trigger avoidance (smoke exposure, allergens).**
+- **Differential of recurrent wheeze in a child: viral-induced wheeze, bronchiolitis, foreign body (sudden onset, unilateral signs), gastro-oesophageal reflux, cystic fibrosis, tuberculosis with nodal compression, and congenital airway anomalies — ***“ALL THAT WHEEZES IS NOT ASTHMA.”***
 
-**EXAM CONNECTION:** PFT findings of asthma "all EXCEPT" → **day–night variation of FEV1** (variability is a PEF measure).
+**EXAM CONNECTION:** PFT findings of asthma “all EXCEPT” → **day–night variation of FEV1** (variability is a PEF measure).
 
 **REMEMBER:** *Asthma is variability — reverse it, provoke it, or chart it, but prove it changes.*
 
@@ -2096,11 +2096,11 @@
 
 **PEARL:** **FiO₂ ≈ 21% + (4 × flow in L/min)** for a nasal cannula. At **3 L/min → about 30–33%**.
 
-**UNDERSTAND:** Each litre per minute of oxygen adds roughly **4 percentage points** because it partially fills the **nasopharyngeal reservoir** between breaths, and that stored oxygen is then diluted by the room air the patient entrains around it. The relationship holds only up to about **6 L/min**: beyond that the anatomical reservoir is already full, so extra flow adds nothing but dries and irritates the mucosa. This is also why a cannula is a **variable-performance (low-flow) device** — the actual FiO₂ falls as the patient's minute ventilation rises.
+**UNDERSTAND:** Each litre per minute of oxygen adds roughly **4 percentage points** because it partially fills the **nasopharyngeal reservoir** between breaths, and that stored oxygen is then diluted by the room air the patient entrains around it. The relationship holds only up to about **6 L/min**: beyond that the anatomical reservoir is already full, so extra flow adds nothing but dries and irritates the mucosa. This is also why a cannula is a **variable-performance (low-flow) device** — the actual FiO₂ falls as the patient’s minute ventilation rises.
 
 **MUST KNOW:**
 
-- **Low-flow (variable performance): nasal cannula (24–44%), simple face mask (40–60%), partial rebreathing and non-rebreathing masks (60–90%+), face tent.** Delivered FiO₂ depends on the patient's respiratory pattern.
+- **Low-flow (variable performance): nasal cannula (24–44%), simple face mask (40–60%), partial rebreathing and non-rebreathing masks (60–90%+), face tent.** Delivered FiO₂ depends on the patient’s respiratory pattern.
 - **High-flow (fixed performance): VENTURI mask (24–60%, precise), high-flow nasal cannula (up to 60 L/min and ~100%, humidified, provides some PEEP and washes out nasopharyngeal dead space), mechanical ventilation.**
 - Flows **above 4 L/min by nasal cannula should be humidified**; nasal cannulae are well tolerated and allow eating and speaking — the practical reason they are first choice in children.
 - **Paediatric caution:** in **duct-dependent congenital heart disease**, high FiO₂ closes the ductus — give oxygen judiciously and start **prostaglandin E1**. In **preterm neonates**, target **SpO₂ 90–95%** to limit **retinopathy of prematurity and bronchopulmonary dysplasia**.
@@ -2118,7 +2118,7 @@
 
 ### 96. Biliary Atresia
 
-**PEARL:** **JAUNDICE persisting beyond 2 WEEKS with CLAY-COLOURED (acholic) STOOLS, DARK URINE, a firm liver and CONJUGATED HYPERBILIRUBINAEMIA = BILIARY ATRESIA until proved otherwise.** Ultrasound may show the **"TRIANGULAR CORD" SIGN and an absent/contracted gallbladder; HIDA scan screens (no excretion into the gut); LIVER BIOPSY is diagnostic, showing BILE DUCTULAR PROLIFERATION, bile plugs and portal fibrosis with preserved lobular architecture.** ***KASAI PORTOENTEROSTOMY MUST BE PERFORMED BEFORE 60 DAYS OF AGE.***
+**PEARL:** **JAUNDICE persisting beyond 2 WEEKS with CLAY-COLOURED (acholic) STOOLS, DARK URINE, a firm liver and CONJUGATED HYPERBILIRUBINAEMIA = BILIARY ATRESIA until proved otherwise.** Ultrasound may show the **“TRIANGULAR CORD” SIGN and an absent/contracted gallbladder; HIDA scan screens (no excretion into the gut); LIVER BIOPSY is diagnostic, showing BILE DUCTULAR PROLIFERATION, bile plugs and portal fibrosis with preserved lobular architecture.** ***KASAI PORTOENTEROSTOMY MUST BE PERFORMED BEFORE 60 DAYS OF AGE.***
 
 **UNDERSTAND:** Biliary atresia is a **PROGRESSIVE, obliterative cholangiopathy** — the ducts are being destroyed continuously, so **cirrhosis develops within months.** The 60-day rule is therefore not arbitrary: **bile drainage can only be restored while enough intrahepatic ducts survive**, and success falls steeply with every week of delay. This is why the single most important rule in neonatal jaundice is that **CONJUGATED jaundice is ALWAYS pathological and always urgent.**
 
@@ -2140,7 +2140,7 @@
 
 ### 97. Portal Hypertension in Children — EHPVO
 
-**PEARL:** **A CHILD OR ADOLESCENT WITH WELL-TOLERATED VARICEAL BLEEDING (haematemesis and melaena) AND SPLENOMEGALY BUT NO JAUNDICE, NO ASCITES AND PRESERVED LIVER FUNCTION HAS EXTRAHEPATIC PORTAL VENOUS OBSTRUCTION (EHPVO)** — the commonest cause of portal hypertension in Indian children. The portal vein is replaced by a **CAVERNOMA (a "portal cavernoma" of collateral channels) on Doppler ultrasound.**
+**PEARL:** **A CHILD OR ADOLESCENT WITH WELL-TOLERATED VARICEAL BLEEDING (haematemesis and melaena) AND SPLENOMEGALY BUT NO JAUNDICE, NO ASCITES AND PRESERVED LIVER FUNCTION HAS EXTRAHEPATIC PORTAL VENOUS OBSTRUCTION (EHPVO)** — the commonest cause of portal hypertension in Indian children. The portal vein is replaced by a **CAVERNOMA (a “portal cavernoma” of collateral channels) on Doppler ultrasound.**
 
 **UNDERSTAND:** The obstruction is **PRE-HEPATIC — the liver itself is normal.** So portal pressure rises and produces varices and splenomegaly, but **synthetic function, bilirubin and albumin are untouched**, and ascites and encephalopathy are largely absent. This is why children bleed dramatically and yet **tolerate it far better than a cirrhotic adult would**, and why the long-term prognosis is comparatively good.
 
@@ -2150,7 +2150,7 @@
 - **Management of acute bleeding: resuscitation, ***OCTREOTIDE/terlipressin plus ENDOSCOPIC VARICEAL BAND LIGATION (or sclerotherapy in small children)***, and antibiotic prophylaxis. Long term — repeated endoscopic obliteration, non-selective beta-blockers, and the ***MESO-Rex (Rex) SHUNT***, which restores physiological portal flow to the liver and is preferred to portosystemic shunts where feasible.
 - ***HYPERSPLENISM (thrombocytopenia and leucopenia) IS COMMON AND IS NOT AN INDICATION FOR SPLENECTOMY BY ITSELF*** — it rarely causes bleeding, and splenectomy loses immune function and forfeits a shunt option.
 - **Other paediatric portal hypertension: cirrhosis (biliary atresia, Wilson disease, autoimmune hepatitis, metabolic disease), CONGENITAL HEPATIC FIBROSIS (with polycystic kidney disease), NON-CIRRHOTIC PORTAL FIBROSIS (young adults), Budd–Chiari syndrome and veno-occlusive disease.**
-- **"Long-standing EHPVO" may develop PORTAL BILIOPATHY — biliary strictures from the cavernoma compressing the bile duct, causing jaundice years later.**
+- **“Long-standing EHPVO” may develop PORTAL BILIOPATHY — biliary strictures from the cavernoma compressing the bile duct, causing jaundice years later.**
 
 **EXAM CONNECTION:** Child with haematemesis and splenomegaly but no jaundice or ascites → **EHPVO**.
 
@@ -2162,7 +2162,7 @@
 
 ### 98. Infantile Hypertrophic Pyloric Stenosis
 
-**PEARL:** 3–6-week-old, **non-bilious projectile vomiting**, a palpable **olive** and a **"target sign"** on ultrasound = **hypertrophic pyloric stenosis**, with **hypochloraemic, hypokalaemic METABOLIC ALKALOSIS and PARADOXICAL ACIDURIA**. **Erythromycin** exposure (pre- or postnatal) is a recognised risk factor.
+**PEARL:** 3–6-week-old, **non-bilious projectile vomiting**, a palpable **olive** and a **“target sign”** on ultrasound = **hypertrophic pyloric stenosis**, with **hypochloraemic, hypokalaemic METABOLIC ALKALOSIS and PARADOXICAL ACIDURIA**. **Erythromycin** exposure (pre- or postnatal) is a recognised risk factor.
 
 **UNDERSTAND:** The paradoxical aciduria is the elegant part. Losing gastric HCl causes alkalosis with hypochloraemia; the resulting volume depletion drives **aldosterone**, which reabsorbs Na⁺ in exchange for **K⁺ and then H⁺**. Once potassium is depleted, the kidney has no choice but to excrete **H⁺** to retain sodium — so the urine turns **acidic in an alkalotic patient**. Erythromycin is implicated because it is a **motilin receptor agonist**, driving intense antral and pyloric contraction.
 
@@ -2170,7 +2170,7 @@
 
 - Epidemiology: **firstborn males**, 2–8 weeks, family history; the baby is **hungry and feeds avidly after vomiting** (distinguishing it from sepsis or raised ICP).
 - Examination: visible **left-to-right gastric peristalsis**, palpable olive in the right upper quadrant after a test feed.
-- **Ultrasound is diagnostic:** **pyloric muscle thickness >3 mm, channel length >15–17 mm** ("target"/"doughnut" in cross section, "cervix sign" longitudinally).
+- **Ultrasound is diagnostic:** **pyloric muscle thickness >3 mm, channel length >15–17 mm** (“target”/“doughnut” in cross section, “cervix sign” longitudinally).
 - **This is a MEDICAL emergency, not a surgical one — never operate until the electrolytes and alkalosis are corrected** (alkalosis causes postoperative apnoea). Resuscitate with **0.9% saline + potassium**, aim chloride >100 mmol/L and bicarbonate <30.
 - Definitive treatment: **Ramstedt pyloromyotomy** (the mucosa is deliberately left intact); feeds within hours.
 - Distinguish from **duodenal atresia** (bilious vomiting, **double bubble**, Down syndrome), **malrotation with volvulus** (bilious vomiting — a surgical emergency), and **GERD** (non-projectile, no olive, no alkalosis).
@@ -2204,19 +2204,19 @@
 
 **PEARL:** The **MODIFIED SCHWARTZ FORMULA: eGFR (mL/min/1.73 m²) = 0.413 × HEIGHT (cm) ÷ SERUM CREATININE (mg/dL).** A 4-year-old of 100 cm with a creatinine of 1 mg/dL therefore has an eGFR of **41 ≈ 40 mL/min/1.73 m²** — a serum creatinine that would be entirely normal in an adult represents **severe renal impairment in a small child.**
 
-**UNDERSTAND:** Creatinine is generated by **MUSCLE**, and a child's muscle mass is small — so the "normal" creatinine rises with age and size. **HEIGHT is used as the surrogate for muscle mass**, which is why the paediatric formula needs only height and creatinine. This also explains the commonest clinical error: **interpreting a child's creatinine against adult reference ranges and missing significant kidney disease.**
+**UNDERSTAND:** Creatinine is generated by **MUSCLE**, and a child’s muscle mass is small — so the “normal” creatinine rises with age and size. **HEIGHT is used as the surrogate for muscle mass**, which is why the paediatric formula needs only height and creatinine. This also explains the commonest clinical error: **interpreting a child’s creatinine against adult reference ranges and missing significant kidney disease.**
 
 **MUST KNOW:**
 
 - **Normal GFR is only ~20–30 mL/min/1.73 m² AT BIRTH, doubles by 2 weeks and reaches adult values (~120) by 1–2 YEARS — so neonatal drug dosing must account for immature clearance.**
 - **In adults, use the CKD-EPI (preferred) or MDRD equations; CREATININE CLEARANCE by 24-hour urine and inulin/iothalamate clearance are the reference methods but impractical. CYSTATIN C-based equations avoid the muscle-mass problem entirely and are useful in malnutrition and neuromuscular disease.**
 - **CKD staging by eGFR: G1 ≥90, G2 60–89, G3a 45–59, G3b 30–44, G4 15–29, G5 <15 (kidney failure) — with albuminuria staged separately (A1–A3).**
-- **Creatinine is an INSENSITIVE early marker — it does not rise until GFR has fallen by about half ("the creatinine blind range"), which is why eGFR and albuminuria are used instead.**
+- **Creatinine is an INSENSITIVE early marker — it does not rise until GFR has fallen by about half (“the creatinine blind range”), which is why eGFR and albuminuria are used instead.**
 - **In children, always look for a CONGENITAL ANOMALY OF THE KIDNEY AND URINARY TRACT (CAKUT) — the commonest cause of CKD in childhood — and for reflux nephropathy and glomerulonephritis.**
 
 **EXAM CONNECTION:** Pure calculation — **0.413 × height ÷ creatinine**.
 
-**REMEMBER:** *Height stands in for muscle mass — so a "normal" adult creatinine can mean half a child's kidney function is gone.*
+**REMEMBER:** *Height stands in for muscle mass — so a “normal” adult creatinine can mean half a child’s kidney function is gone.*
 
 `Q9088`
 
@@ -2288,7 +2288,7 @@
 - **Meckel–Gruber is the commonest LETHAL ciliopathy** and is a differential for **antenatally detected enlarged echogenic kidneys with oligohydramnios**.
 - **Bardet–Biedl vs Prader–Willi:** both give obesity and hypogonadism, but **BBS has retinitis pigmentosa, polydactyly and renal disease**; PWS has neonatal hypotonia and 15q11 imprinting.
 
-**EXAM CONNECTION:** "Renal cyst is a component of" → both Meckel–Gruber and Bardet–Biedl (i.e. "both A and B"); Denys–Drash is the distractor.
+**EXAM CONNECTION:** “Renal cyst is a component of” → both Meckel–Gruber and Bardet–Biedl (i.e. “both A and B”); Denys–Drash is the distractor.
 
 **REMEMBER:** *Cysts + retina + extra digits = a cilium problem. Cysts + ambiguous genitalia + Wilms = WT1.*
 
@@ -2304,7 +2304,7 @@
 
 **PEARL:** An adolescent who **DROPS OBJECTS IN THE MORNING with PRESERVED CONSCIOUSNESS, often with a family history and generalised tonic–clonic seizures on awakening, has JUVENILE MYOCLONIC EPILEPSY (JANZ SYNDROME)** — the commonest generalised epilepsy of adolescence. **EEG shows 4–6 Hz POLYSPIKE-AND-WAVE discharges with PHOTOSENSITIVITY.** Precipitants: **SLEEP DEPRIVATION, ALCOHOL and PHOTIC STIMULATION.**
 
-**UNDERSTAND:** The **morning timing is diagnostic** — myoclonic jerks cluster within 1–2 hours of waking because generalised epileptiform discharges are facilitated during the **transition from sleep to wakefulness**, when thalamocortical synchronisation is greatest. This is also why sleep deprivation is such a potent trigger, and why "the patient spills her tea at breakfast" is the classic history that patients themselves never think worth reporting.
+**UNDERSTAND:** The **morning timing is diagnostic** — myoclonic jerks cluster within 1–2 hours of waking because generalised epileptiform discharges are facilitated during the **transition from sleep to wakefulness**, when thalamocortical synchronisation is greatest. This is also why sleep deprivation is such a potent trigger, and why “the patient spills her tea at breakfast” is the classic history that patients themselves never think worth reporting.
 
 **MUST KNOW:**
 
@@ -2346,7 +2346,7 @@
 
 ### 106. Cutaneous Markers of Spinal Dysraphism
 
-**PEARL:** A **TUFT OF HAIR over the LUMBOSACRAL region in a newborn indicates OCCULT SPINAL DYSRAPHISM — which may be SPINA BIFIDA OCCULTA, an INTRASPINAL LIPOMA, a DORSAL DERMAL SINUS, diastematomyelia or a tethered cord.** Other markers: a **dimple ABOVE the gluteal crease, a subcutaneous LIPOMA, a haemangioma, a skin tag or "tail", and an ATYPICAL/deviated gluteal cleft.** **ULTRASOUND is the initial investigation under 6 months (before the posterior elements ossify); MRI thereafter.**
+**PEARL:** A **TUFT OF HAIR over the LUMBOSACRAL region in a newborn indicates OCCULT SPINAL DYSRAPHISM — which may be SPINA BIFIDA OCCULTA, an INTRASPINAL LIPOMA, a DORSAL DERMAL SINUS, diastematomyelia or a tethered cord.** Other markers: a **dimple ABOVE the gluteal crease, a subcutaneous LIPOMA, a haemangioma, a skin tag or “tail”, and an ATYPICAL/deviated gluteal cleft.** **ULTRASOUND is the initial investigation under 6 months (before the posterior elements ossify); MRI thereafter.**
 
 **UNDERSTAND:** The skin and the neural tube share an **ECTODERMAL origin and close together at the same time**, so a failure of neural tube closure leaves a **visible footprint in the overlying skin.** That is the entire diagnostic value of these markers — they are the only clue in a child whose neurological examination is normal, which it usually is in infancy. **The neurological deficit appears LATER, as the tethered cord is stretched by growth.**
 
@@ -2378,7 +2378,7 @@
 
 **MUST KNOW:**
 
-- **In an infant with open sutures, hydrocephalus presents with EXCESSIVE HEAD GROWTH crossing centiles, a TENSE BULGING FONTANELLE, widely separated sutures, "CRACKED-POT" (Macewen's) sign, prominent scalp veins, and the "SETTING-SUN" SIGN (impaired upgaze from tectal compression). After the sutures fuse, the picture becomes classical raised intracranial pressure — headache, vomiting, papilloedema and altered consciousness.**
+- **In an infant with open sutures, hydrocephalus presents with EXCESSIVE HEAD GROWTH crossing centiles, a TENSE BULGING FONTANELLE, widely separated sutures, “CRACKED-POT” (Macewen’s) sign, prominent scalp veins, and the “SETTING-SUN” SIGN (impaired upgaze from tectal compression). After the sutures fuse, the picture becomes classical raised intracranial pressure — headache, vomiting, papilloedema and altered consciousness.**
 - **SERIAL HEAD CIRCUMFERENCE MEASUREMENT plotted on a chart is the single most useful bedside tool; cranial ULTRASOUND through the anterior fontanelle is the first-line investigation in infants.**
 - **Treatment: VENTRICULOPERITONEAL SHUNT, or ENDOSCOPIC THIRD VENTRICULOSTOMY (which is ideal for aqueductal stenosis, as it bypasses the obstruction and avoids hardware). SHUNT COMPLICATIONS — blockage, infection, over-drainage with subdural collections, disconnection — are the commonest reason such children re-present, and any shunted child with headache, vomiting or drowsiness must be assumed to have shunt malfunction.**
 - **DANDY–WALKER malformation: cystic dilatation of the fourth ventricle with cerebellar vermian hypoplasia and an enlarged posterior fossa. CHIARI II: downward displacement of the cerebellar vermis and medulla, almost always with myelomeningocele.**
@@ -2397,7 +2397,7 @@
 
 ### 108. Cerebral Palsy
 
-**PEARL:** **CEREBRAL PALSY is a NON-PROGRESSIVE disorder of movement and posture from an insult to the DEVELOPING brain — it is an UPPER MOTOR NEURONE disorder, so FLACCID PARALYSIS IS NOT A FEATURE.** Hypotonia (in the dyskinetic/athetoid form and in early "hypotonic" CP), MICROCEPHALY and ATAXIA all occur. **SPASTIC CP is the commonest type overall; SPASTIC DIPLEGIA is characteristically associated with PREMATURITY and PERIVENTRICULAR LEUKOMALACIA.**
+**PEARL:** **CEREBRAL PALSY is a NON-PROGRESSIVE disorder of movement and posture from an insult to the DEVELOPING brain — it is an UPPER MOTOR NEURONE disorder, so FLACCID PARALYSIS IS NOT A FEATURE.** Hypotonia (in the dyskinetic/athetoid form and in early “hypotonic” CP), MICROCEPHALY and ATAXIA all occur. **SPASTIC CP is the commonest type overall; SPASTIC DIPLEGIA is characteristically associated with PREMATURITY and PERIVENTRICULAR LEUKOMALACIA.**
 
 **UNDERSTAND:** Spastic diplegia affects the **legs more than the arms** because of the **somatotopic arrangement of the corticospinal tract in the periventricular white matter — the descending fibres to the LEGS lie CLOSEST to the lateral ventricles**, and are therefore damaged first by periventricular ischaemia in the preterm brain. The same anatomical logic explains every clinical pattern in CP: the site of injury dictates the distribution of the deficit.
 
@@ -2409,7 +2409,7 @@
 - **Management is MULTIDISCIPLINARY: physiotherapy and occupational therapy, orthoses, BOTULINUM TOXIN for focal spasticity, oral baclofen/tizanidine or INTRATHECAL BACLOFEN, SELECTIVE DORSAL RHIZOTOMY, orthopaedic surgery for contractures and hips, nutrition (often gastrostomy), seizure control and communication aids. GMFCS grades functional severity I–V.**
 - **A PROGRESSIVE course, loss of previously acquired skills, or a purely lower-motor-neurone picture EXCLUDES cerebral palsy — investigate for a neurodegenerative or metabolic disorder.**
 
-**EXAM CONNECTION:** "Not a feature of cerebral palsy" → **flaccid paralysis**.
+**EXAM CONNECTION:** “Not a feature of cerebral palsy” → **flaccid paralysis**.
 
 **REMEMBER:** *A fixed injury to a growing brain — spastic, never flaccid, and never progressive.*
 
@@ -2451,7 +2451,7 @@
 **MUST KNOW:**
 
 - **REFRACTORY status = failure of a benzodiazepine PLUS one second-line agent; SUPER-REFRACTORY = continuing or recurring ≥24 hours despite anaesthetic infusion.**
-- **The immediate parallel actions ("the first five minutes"): check CAPILLARY GLUCOSE, correct hypoglycaemia, take blood for electrolytes, calcium, magnesium, cultures and anticonvulsant levels, and consider PYRIDOXINE in an infant, antibiotics/acyclovir if infection is possible, and imaging once stable.**
+- **The immediate parallel actions (“the first five minutes”): check CAPILLARY GLUCOSE, correct hypoglycaemia, take blood for electrolytes, calcium, magnesium, cultures and anticonvulsant levels, and consider PYRIDOXINE in an infant, antibiotics/acyclovir if infection is possible, and imaging once stable.**
 - **Out-of-hospital or without IV access: BUCCAL MIDAZOLAM, intranasal midazolam or RECTAL DIAZEPAM.**
 - **Doses to know: lorazepam 0.1 mg/kg IV (max 4 mg), midazolam 0.2 mg/kg buccal, fosphenytoin 20 mg PE/kg, levetiracetam 40–60 mg/kg, valproate 20–40 mg/kg (AVOID valproate if a metabolic/mitochondrial disorder is suspected, and in hepatic disease).**
 - **Complications of prolonged status: hypoxia, aspiration, rhabdomyolysis, hyperthermia, cerebral oedema and permanent neuronal loss — mortality and morbidity rise sharply after 30 minutes.**
@@ -2471,14 +2471,14 @@
 
 ### 111. West Syndrome (Infantile Spasms)
 
-**PEARL:** The triad of **INFANTILE SPASMS (sudden flexion "SALAAM" or jack-knife attacks IN CLUSTERS, usually on waking), DEVELOPMENTAL REGRESSION, and HYPSARRHYTHMIA on EEG (high-voltage, chaotic, disorganised slow waves with multifocal spikes) = WEST SYNDROME**, presenting at **3–12 months.** The treatment of choice is **ACTH (or high-dose prednisolone); VIGABATRIN is first-line when the cause is TUBEROUS SCLEROSIS.**
+**PEARL:** The triad of **INFANTILE SPASMS (sudden flexion “SALAAM” or jack-knife attacks IN CLUSTERS, usually on waking), DEVELOPMENTAL REGRESSION, and HYPSARRHYTHMIA on EEG (high-voltage, chaotic, disorganised slow waves with multifocal spikes) = WEST SYNDROME**, presenting at **3–12 months.** The treatment of choice is **ACTH (or high-dose prednisolone); VIGABATRIN is first-line when the cause is TUBEROUS SCLEROSIS.**
 
 **UNDERSTAND:** Spasms are frequently dismissed as colic or startles, and the **developmental REGRESSION is the clue that this is not benign** — the epileptic encephalopathy itself damages the developing brain, so the EEG abnormality is not merely a marker but a cause of the deterioration. This is why treatment is urgent and why **SHORTER LEAD TIME TO TREATMENT PREDICTS BETTER DEVELOPMENTAL OUTCOME** — one of the few epilepsies where days matter.
 
 **MUST KNOW:**
 
-- **Causes: SYMPTOMATIC in ~2/3 — TUBEROUS SCLEROSIS (the classic), hypoxic–ischaemic encephalopathy, cortical malformations, intracranial haemorrhage, congenital infection and inborn errors of metabolism; the rest are idiopathic/cryptogenic (with a better prognosis). ***EXAMINE THE SKIN WITH A WOOD'S LAMP FOR ASH-LEAF MACULES*** in every infant with spasms.**
-- **Vigabatrin's dose-limiting toxicity is IRREVERSIBLE PERIPHERAL VISUAL FIELD CONSTRICTION, requiring visual monitoring.**
+- **Causes: SYMPTOMATIC in ~2/3 — TUBEROUS SCLEROSIS (the classic), hypoxic–ischaemic encephalopathy, cortical malformations, intracranial haemorrhage, congenital infection and inborn errors of metabolism; the rest are idiopathic/cryptogenic (with a better prognosis). ***EXAMINE THE SKIN WITH A WOOD’S LAMP FOR ASH-LEAF MACULES*** in every infant with spasms.**
+- **Vigabatrin’s dose-limiting toxicity is IRREVERSIBLE PERIPHERAL VISUAL FIELD CONSTRICTION, requiring visual monitoring.**
 - **Many children evolve into LENNOX–GASTAUT SYNDROME (multiple seizure types, SLOW 1–2.5 Hz spike-and-wave, intellectual disability, refractory to treatment).**
 - **Distinguish from BENIGN SLEEP MYOCLONUS (occurs only in sleep, stops on waking, normal EEG and development) and from infantile colic.**
 - **Work-up: EEG (ideally including sleep), MRI BRAIN, and metabolic/genetic testing where no cause is found.**
@@ -2499,20 +2499,20 @@
 
 ### 112. Duchenne Muscular Dystrophy
 
-**PEARL:** A boy of **3–5 years with difficulty running, climbing stairs and RISING FROM THE FLOOR (GOWERS' SIGN — "climbing up his own body"), a waddling gait and CALF PSEUDOHYPERTROPHY has DUCHENNE MUSCULAR DYSTROPHY** — X-linked recessive, from a mutation in the **DYSTROPHIN gene at Xp21**, with a hugely raised **CREATINE KINASE.** ***DEATH OCCURS IN THE LATE TEENS TO TWENTIES (THIRD DECADE)***, usually from respiratory failure or CARDIOMYOPATHY.
+**PEARL:** A boy of **3–5 years with difficulty running, climbing stairs and RISING FROM THE FLOOR (GOWERS’ SIGN — “climbing up his own body”), a waddling gait and CALF PSEUDOHYPERTROPHY has DUCHENNE MUSCULAR DYSTROPHY** — X-linked recessive, from a mutation in the **DYSTROPHIN gene at Xp21**, with a hugely raised **CREATINE KINASE.** ***DEATH OCCURS IN THE LATE TEENS TO TWENTIES (THIRD DECADE)***, usually from respiratory failure or CARDIOMYOPATHY.
 
 **UNDERSTAND:** Dystrophin **anchors the muscle cytoskeleton (actin) to the extracellular matrix through the dystrophin–glycoprotein complex**, so without it the sarcolemma tears with every contraction — hence **repeated cycles of necrosis and regeneration, a leaking CK, and eventual replacement of muscle by FAT AND FIBROUS TISSUE** (the pseudohypertrophied calf that is weak, not strong). The **proximal, symmetrical, progressive weakness** follows directly.
 
 **MUST KNOW:**
 
 - **Diagnosis: markedly raised CK (10–100× normal, present from birth), then GENETIC TESTING (deletion/duplication analysis, then sequencing) — ***MUSCLE BIOPSY IS NOW RARELY NEEDED***, though it shows variable fibre size, necrosis, regeneration, fatty replacement and ABSENT dystrophin on immunostaining.
-- **BECKER muscular dystrophy is the same gene with an IN-FRAME mutation producing reduced/abnormal but PRESENT dystrophin — later onset, slower course, and survival into middle age (the "READING FRAME rule").**
+- **BECKER muscular dystrophy is the same gene with an IN-FRAME mutation producing reduced/abnormal but PRESENT dystrophin — later onset, slower course, and survival into middle age (the “READING FRAME rule”).**
 - **Associated features: intellectual impairment (mean IQ ~1 SD below average, non-progressive), DILATED CARDIOMYOPATHY in almost all by the late teens, scoliosis and progressive restrictive lung disease.**
 - **Management:** *CORTICOSTEROIDS (prednisolone/deflazacort) PROLONG AMBULATION BY 2–3 YEARS***, physiotherapy and contracture prevention, scoliosis surgery, ***CARDIAC SURVEILLANCE WITH ACE INHIBITORS/beta-blockers STARTED BEFORE symptoms***, non-invasive ventilation, and newer exon-skipping/gene therapies for specific mutations. Genetic counselling and carrier testing are essential — carrier mothers may have a raised CK and cardiomyopathy.
 - **Loss of ambulation typically occurs at 9–13 years untreated; scoliosis then accelerates and respiratory function declines.**
 - **DMD is the COMMONEST inherited neuromuscular disease of childhood.**
 
-**EXAM CONNECTION:** Gowers' sign with fatty replacement on biopsy → **DMD; death in the third decade**.
+**EXAM CONNECTION:** Gowers’ sign with fatty replacement on biopsy → **DMD; death in the third decade**.
 
 **REMEMBER:** *No dystrophin means the membrane tears with every step — big calves, weak boy, early death.*
 
@@ -2528,19 +2528,19 @@
 
 ### 113. Brain Death in Children
 
-**PEARL:** **BRAIN DEATH = irreversible cessation of ALL functions of the entire brain INCLUDING THE BRAINSTEM, requiring (1) IRREVERSIBLE COMA OF KNOWN CAUSE, (2) ABSENT BRAINSTEM REFLEXES and (3) APNOEA on formal testing.** ***SPINAL REFLEXES, SPONTANEOUS MOVEMENTS OF SPINAL ORIGIN ("LAZARUS SIGN"), SWEATING, TACHYCARDIA AND A NORMAL BLOOD PRESSURE WITHOUT SUPPORT ARE ALL COMPATIBLE WITH BRAIN DEATH — but DECORTICATE OR DECEREBRATE POSTURING IS NOT***, because those responses are generated by the cortex and midbrain.
+**PEARL:** **BRAIN DEATH = irreversible cessation of ALL functions of the entire brain INCLUDING THE BRAINSTEM, requiring (1) IRREVERSIBLE COMA OF KNOWN CAUSE, (2) ABSENT BRAINSTEM REFLEXES and (3) APNOEA on formal testing.** ***SPINAL REFLEXES, SPONTANEOUS MOVEMENTS OF SPINAL ORIGIN (“LAZARUS SIGN”), SWEATING, TACHYCARDIA AND A NORMAL BLOOD PRESSURE WITHOUT SUPPORT ARE ALL COMPATIBLE WITH BRAIN DEATH — but DECORTICATE OR DECEREBRATE POSTURING IS NOT***, because those responses are generated by the cortex and midbrain.
 
 **UNDERSTAND:** The distinction that trips people up is **WHERE THE MOVEMENT COMES FROM.** The **SPINAL CORD IS ALIVE in brain death**, so cord-mediated reflexes (triple flexion, deep tendon reflexes, plantar responses, even complex arm movements) persist and must not be misread as brain function. **POSTURING, by contrast, requires intact rubrospinal (decorticate) or vestibulospinal (decerebrate) pathways — i.e. a living brainstem or cortex — so its presence EXCLUDES brain death.**
 
 **MUST KNOW:**
 
 - ***PREREQUISITES BEFORE TESTING: exclude HYPOTHERMIA, HYPOTENSION, severe metabolic and endocrine derangement, and — crucially — SEDATIVE, ANALGESIC AND NEUROMUSCULAR BLOCKING DRUGS AND POISONING***, all of which mimic brain death and are reversible.
-- **Brainstem reflexes tested: PUPILLARY light, CORNEAL, OCULOCEPHALIC (doll's eye), OCULOVESTIBULAR (cold caloric), GAG and COUGH, and facial grimace to noxious stimuli — all must be absent.**
+- **Brainstem reflexes tested: PUPILLARY light, CORNEAL, OCULOCEPHALIC (doll’s eye), OCULOVESTIBULAR (cold caloric), GAG and COUGH, and facial grimace to noxious stimuli — all must be absent.**
 - **APNOEA TEST: no respiratory effort when PaCO2 rises to ≥60 mmHg AND ≥20 mmHg above baseline, with adequate pre-oxygenation.**
 - **Paediatric protocols require ***TWO EXAMINATIONS BY DIFFERENT PHYSICIANS SEPARATED BY AN OBSERVATION INTERVAL*** (longer in neonates and infants — e.g. 24 hours for term newborns up to 30 days, 12 hours for older infants and children). Ancillary tests (EEG, cerebral blood-flow studies) are used when clinical testing cannot be completed.
 - **Brain death is DEATH — the legal and ethical basis for both withdrawal of support and organ donation (in India, under the Transplantation of Human Organs Act, which requires a designated board of medical experts).**
 
-**EXAM CONNECTION:** "Not seen in brain death" → **decorticate/decerebrate posturing**.
+**EXAM CONNECTION:** “Not seen in brain death” → **decorticate/decerebrate posturing**.
 
 **REMEMBER:** *The spine can still twitch; only the brain can posture.*
 
@@ -2562,7 +2562,7 @@
 - Note the contrast with **lumbar puncture**, which passes **skin → supraspinous → interspinous → LIGAMENTUM FLAVUM → epidural space → dura → arachnoid**.
 - In infants, LP should be at **L4–L5 or lower** because the **cord ends at L3 at birth**.
 
-**EXAM CONNECTION:** "Structures punctured while piercing the marked structure" → **scalp, dura, arachnoid** (options adding "epicranium/pericranium" or "synchondral membrane" are the traps).
+**EXAM CONNECTION:** “Structures punctured while piercing the marked structure” → **scalp, dura, arachnoid** (options adding “epicranium/pericranium” or “synchondral membrane” are the traps).
 
 **REMEMBER:** *Anterolateral, never midline — the sagittal sinus runs down the middle.*
 
@@ -2587,7 +2587,7 @@
 - **Pathway:** lateral ventricles → **foramen of Monro** → third ventricle → **aqueduct of Sylvius** → fourth ventricle → **foramina of Luschka (lateral) and Magendie (median)** → subarachnoid space → absorbed by **arachnoid granulations** into the dural venous sinuses.
 - **Obstructive (non-communicating)** — block **within** the ventricular system: **aqueductal stenosis (commonest congenital cause)**, Dandy–Walker, Chiari malformation, posterior fossa tumour, colloid cyst of the third ventricle.
 - **Communicating** — block at absorption: post-meningitic (especially **TB meningitis**), post-subarachnoid haemorrhage, choroid plexus papilloma (the only true **overproduction** cause).
-- Infant signs: **rapidly increasing head circumference crossing centiles, tense bulging fontanelle, dilated scalp veins, split sutures, "setting sun" sign, irritability, vomiting**. In infants the open sutures allow expansion, so papilloedema is often absent.
+- Infant signs: **rapidly increasing head circumference crossing centiles, tense bulging fontanelle, dilated scalp veins, split sutures, “setting sun” sign, irritability, vomiting**. In infants the open sutures allow expansion, so papilloedema is often absent.
 - Treatment: **ventriculoperitoneal shunt** (complications — blockage, infection, over-drainage/subdural haematoma) or **endoscopic third ventriculostomy** for obstructive hydrocephalus.
 
 **EXAM CONNECTION:** Numeric recall (20 mL/hr, 500 mL/day, 150 mL total, 3–4 turnovers) or a foramen-naming question along the circulation pathway.
@@ -2611,11 +2611,11 @@
 
 - Types: **open-lip** (cleft walls separated, CSF-filled) and **closed-lip** (walls apposed); **unilateral or bilateral**.
 - Presentation: **seizures, developmental delay, microcephaly, spastic quadriparesis**; severity tracks with bilaterality and open-lip morphology. **MRI is the investigation of choice.**
-- Other migration disorders: **lissencephaly (agyria — smooth brain, "figure-of-eight" on axial MRI, LIS1/DCX genes, Miller–Dieker syndrome)**, **pachygyria, polymicrogyria, heterotopia (subependymal or band/"double cortex"), and hemimegalencephaly**.
+- Other migration disorders: **lissencephaly (agyria — smooth brain, “figure-of-eight” on axial MRI, LIS1/DCX genes, Miller–Dieker syndrome)**, **pachygyria, polymicrogyria, heterotopia (subependymal or band/“double cortex”), and hemimegalencephaly**.
 - Distinguish by timing: **neural tube defects (3–4 weeks) → anencephaly, myelomeningocele, encephalocele**; **proliferation defects (2–4 months) → micrencephaly, megalencephaly**; **migration defects (3–5 months) → lissencephaly, schizencephaly, heterotopia**; **organisation/myelination defects (later)**.
 - **Plagiocephaly** is postural skull flattening — no brain malformation.
 
-**EXAM CONNECTION:** The phrase "neuronal migration disorder" is the discriminator; three of the four options are malformations from entirely different embryological stages.
+**EXAM CONNECTION:** The phrase “neuronal migration disorder” is the discriminator; three of the four options are malformations from entirely different embryological stages.
 
 **REMEMBER:** *A grey-matter-lined cleft means neurons never finished their journey.*
 
@@ -2642,7 +2642,7 @@
 - **Shunt obstruction** presents with features of raised intracranial pressure — **headache, vomiting, drowsiness, bulging fontanelle, sunsetting eyes**; assess with a **shunt series X-ray and CT/MRI**, and radionuclide study for patency.
 - In infants, **Kernig and Brudzinski signs are usually absent** — rely on **irritability, poor feeding, temperature instability and a bulging fontanelle**.
 
-**EXAM CONNECTION:** "Next best step" — the answer pairs **blood culture with a shunt tap**. The lumbar puncture option is designed to attract the standard meningitis reflex.
+**EXAM CONNECTION:** “Next best step” — the answer pairs **blood culture with a shunt tap**. The lumbar puncture option is designed to attract the standard meningitis reflex.
 
 **REMEMBER:** *Sample the compartment the shunt is draining, not the one it bypasses.*
 
@@ -2654,7 +2654,7 @@
 
 **PEARL:** **Lisch nodules (iris hamartomas) belong to NF1**; **facial angiofibromas belong to tuberous sclerosis**, not NF1.
 
-**MUST KNOW: **Tuberous sclerosis (TSC1/TSC2):** ash-leaf macules** (earliest, Wood's lamp), **shagreen patch**, **subungual fibromas**, **cardiac rhabdomyoma**, renal angiomyolipoma, **infantile spasms** + cortical tubers. NF1: café-au-lait macules, axillary freckling, neurofibromas, **optic glioma**, sphenoid dysplasia.
+**MUST KNOW: **Tuberous sclerosis (TSC1/TSC2):** ash-leaf macules** (earliest, Wood’s lamp), **shagreen patch**, **subungual fibromas**, **cardiac rhabdomyoma**, renal angiomyolipoma, **infantile spasms** + cortical tubers. NF1: café-au-lait macules, axillary freckling, neurofibromas, **optic glioma**, sphenoid dysplasia.
 
 **REMEMBER:** *Lisch = NF1; angiofibroma + ash-leaf = tuberous sclerosis.*
 
@@ -2695,10 +2695,10 @@
 **MUST KNOW:**
 
 - **Peripheral smear in thalassaemia major: severe HYPOCHROMIC MICROCYTIC anaemia with TARGET CELLS, basophilic stippling, fragmented cells, anisopoikilocytosis and NUCLEATED RED CELLS — with a normal or raised RBC count and a low RDW (versus the HIGH RDW of iron deficiency).**
-- **β-thalassaemia major presents at 3–6 MONTHS as HbF declines, with failure to thrive, massive hepatosplenomegaly from extramedullary haematopoiesis, and — if untransfused — the classic "CHIPMUNK/thalassaemic FACIES" with frontal bossing, maxillary hypertrophy and a "HAIR-ON-END" skull X-ray from marrow expansion.**
+- **β-thalassaemia major presents at 3–6 MONTHS as HbF declines, with failure to thrive, massive hepatosplenomegaly from extramedullary haematopoiesis, and — if untransfused — the classic “CHIPMUNK/thalassaemic FACIES” with frontal bossing, maxillary hypertrophy and a “HAIR-ON-END” skull X-ray from marrow expansion.**
 - **Management: regular TRANSFUSION to keep pre-transfusion Hb ≥9–10 g/dL (which suppresses ineffective erythropoiesis and prevents the bony changes), with IRON CHELATION (deferasirox, deferiprone, desferrioxamine) started after ~10–20 transfusions or a ferritin >1000 — because IRON OVERLOAD causes the cardiac failure, cirrhosis, diabetes and hypogonadism that kill these patients. ***CARDIAC T2* MRI*** monitors myocardial iron. HAEMATOPOIETIC STEM CELL TRANSPLANTATION is the only cure. Give folic acid; AVOID IRON SUPPLEMENTS.
 - **Prevention is the real answer: CARRIER SCREENING (HbA2 >3.5%), genetic counselling and PRENATAL DIAGNOSIS by chorionic villus sampling — the basis of national thalassaemia control programmes.**
-- **Distinguish the causes of microcytic anaemia — "TAILS": Thalassaemia, Anaemia of chronic disease, Iron deficiency, Lead poisoning, Sideroblastic anaemia.**
+- **Distinguish the causes of microcytic anaemia — “TAILS”: Thalassaemia, Anaemia of chronic disease, Iron deficiency, Lead poisoning, Sideroblastic anaemia.**
 
 **EXAM CONNECTION:** Mentzer index <13 with pallor and organomegaly → **HPLC and peripheral smear**.
 
@@ -2743,7 +2743,7 @@
 
 **MUST KNOW:**
 
-- **A TEST DOSE with measurement of factor VIII before and after is done to confirm an individual's responsiveness before relying on it.**
+- **A TEST DOSE with measurement of factor VIII before and after is done to confirm an individual’s responsiveness before relying on it.**
 - **Haemophilia A (factor VIII) and B (factor IX) are X-LINKED RECESSIVE with a PROLONGED aPTT, NORMAL PT, normal platelet count and normal bleeding time; severity: SEVERE <1% (spontaneous HAEMARTHROSES), moderate 1–5%, mild 5–40%. HAEMARTHROSIS of the knee, ankle and elbow with target joints and chronic arthropathy is the hallmark.**
 - **Acute bleeds are treated by ***FACTOR REPLACEMENT — raise the level to 50% for a joint bleed and 80–100% for life-threatening or CNS bleeding***. 1 U/kg of factor VIII raises the level by 2%; of factor IX by 1%. Adjuncts: TRANEXAMIC ACID (excellent for mucosal and dental bleeding — ***but AVOID with prothrombin complex concentrates and in haematuria***), RICE for joints, and early physiotherapy.
 - **Prophylaxis has transformed outcomes: regular factor infusions or EMICIZUMAB (a bispecific antibody bridging factor IXa and X, given subcutaneously, effective even with INHIBITORS). ***INHIBITOR (alloantibody) DEVELOPMENT is the major complication*** — suspect it when bleeding fails to respond to adequate factor; managed with bypassing agents (recombinant factor VIIa, FEIBA) and immune tolerance induction.**
@@ -2768,13 +2768,13 @@
 
 - **Wilms tumour has an EXCELLENT prognosis — over 90% survival with combined surgery (nephrectomy), chemotherapy (vincristine, dactinomycin ± doxorubicin) and radiotherapy for higher stages. ***ANAPLASTIC HISTOLOGY IS THE ADVERSE FEATURE***, and loss of heterozygosity at 1p/16q worsens risk.**
 - **Associations: WAGR syndrome (Wilms, Aniridia, Genitourinary anomalies, Retardation — WT1 and PAX6 deletion at 11p13), DENYS–DRASH (WT1 — nephropathy, pseudohermaphroditism), BECKWITH–WIEDEMANN (11p15 — hemihypertrophy, macroglossia, omphalocele) — all requiring regular ULTRASOUND SURVEILLANCE.**
-- ***THE CRITICAL DIFFERENTIAL IS NEUROBLASTOMA***: it CROSSES THE MIDLINE, is IRREGULAR and hard, calcifies in ~85% (Wilms rarely), DISPLACES rather than distorts the kidney (Wilms shows an intrarenal "claw sign"), presents in a SICKER, younger child with bone pain, periorbital ecchymoses ("raccoon eyes"), OPSOCLONUS–MYOCLONUS and a raised VMA/HVA in urine; **MYCN amplification** is the key adverse marker.
+- ***THE CRITICAL DIFFERENTIAL IS NEUROBLASTOMA***: it CROSSES THE MIDLINE, is IRREGULAR and hard, calcifies in ~85% (Wilms rarely), DISPLACES rather than distorts the kidney (Wilms shows an intrarenal “claw sign”), presents in a SICKER, younger child with bone pain, periorbital ecchymoses (“raccoon eyes”), OPSOCLONUS–MYOCLONUS and a raised VMA/HVA in urine; **MYCN amplification** is the key adverse marker.
 - **The classic teaching point:** *AVOID REPEATED OR VIGOROUS PALPATION*** of a suspected Wilms tumour — rupture upstages the disease.
 - **Histology is TRIPHASIC — blastemal, epithelial and stromal elements; nephrogenic rests are precursor lesions.**
 
 **EXAM CONNECTION:** Wilms with tumour thrombus reaching the heart → **stage III**.
 
-**REMEMBER:** *Stage follows the surgeon's clearance, not the thrombus's travel — inside the abdomen is still stage III.*
+**REMEMBER:** *Stage follows the surgeon’s clearance, not the thrombus’s travel — inside the abdomen is still stage III.*
 
 `Q10100`
 
@@ -2788,11 +2788,11 @@
 
 **MUST KNOW:**
 
-- **Beta-thalassaemia major presents at 4–6 MONTHS (as HbF switches to HbA) with pallor, failure to thrive, HEPATOSPLENOMEGALY and the FRONTAL BOSSING/maxillary hypertrophy of marrow expansion ("CHIPMUNK FACIES"), with a "HAIR-ON-END" skull X-ray. HPLC shows a HIGH HbF; the smear shows microcytic hypochromic cells with target cells, nucleated RBCs and marked anisopoikilocytosis.**
+- **Beta-thalassaemia major presents at 4–6 MONTHS (as HbF switches to HbA) with pallor, failure to thrive, HEPATOSPLENOMEGALY and the FRONTAL BOSSING/maxillary hypertrophy of marrow expansion (“CHIPMUNK FACIES”), with a “HAIR-ON-END” skull X-ray. HPLC shows a HIGH HbF; the smear shows microcytic hypochromic cells with target cells, nucleated RBCs and marked anisopoikilocytosis.**
 - **The MENTZER INDEX (MCV ÷ RBC count):** *<13 suggests THALASSAEMIA TRAIT (the marrow makes many small cells); >13 suggests IRON DEFICIENCY*** (few small cells). RDW is normal in trait and high in iron deficiency.
 - **Treatment: hypertransfusion to keep pre-transfusion Hb ~9.5–10.5 g/dL, IRON CHELATION (deferasirox or deferiprone orally, desferrioxamine subcutaneously — deferiprone is best for cardiac iron; watch AGRANULOCYTOSIS), folic acid, hepatitis B vaccination, and ***ALLOGENEIC HAEMATOPOIETIC STEM CELL TRANSPLANT as the only curative option*** (gene therapy now emerging). Splenectomy if transfusion requirements escalate — with prior pneumococcal, Hib and meningococcal vaccination and penicillin prophylaxis.
 - ***COMPLICATIONS OF IRON OVERLOAD DEFINE THE PROGNOSIS***: cardiac failure and arrhythmia (the commonest cause of death), diabetes, hypogonadism with delayed puberty, hypothyroidism, hypoparathyroidism, cirrhosis and skin bronzing.
-- **Prevention is the exam's favourite public-health angle: carrier screening, antenatal diagnosis by chorionic villus sampling, and genetic counselling.**
+- **Prevention is the exam’s favourite public-health angle: carrier screening, antenatal diagnosis by chorionic villus sampling, and genetic counselling.**
 
 **EXAM CONNECTION:** Definitive diagnosis after recent transfusion → **globin gene sequencing**; best method to detect iron overload → **liver iron concentration**; the initial work-up → **HPLC + peripheral smear**.
 
@@ -2808,7 +2808,7 @@
 
 ### 126. Prognostic Factors in Childhood ALL
 
-**PEARL:** **ADVERSE prognostic factors in acute lymphoblastic leukaemia: AGE <1 YEAR OR >10 YEARS, WHITE CELL COUNT >50,000 (especially >100,000), MALE sex, T-CELL or mature B phenotype, CNS OR TESTICULAR disease, HYPODIPLOIDY, t(9;22) (Philadelphia), t(4;11)/MLL rearrangement, and — most powerfully — ***A POOR RESPONSE TO INDUCTION WITH PERSISTENT MINIMAL RESIDUAL DISEASE.*** **FAVOURABLE: age 1–10, WBC <50,000, HYPERDIPLOIDY (>50 chromosomes), TRISOMIES OF 4, 10 AND 17 ("the triple trisomy"), t(12;21) ETV6-RUNX1, and rapid clearance of blasts.**
+**PEARL:** **ADVERSE prognostic factors in acute lymphoblastic leukaemia: AGE <1 YEAR OR >10 YEARS, WHITE CELL COUNT >50,000 (especially >100,000), MALE sex, T-CELL or mature B phenotype, CNS OR TESTICULAR disease, HYPODIPLOIDY, t(9;22) (Philadelphia), t(4;11)/MLL rearrangement, and — most powerfully — ***A POOR RESPONSE TO INDUCTION WITH PERSISTENT MINIMAL RESIDUAL DISEASE.*** **FAVOURABLE: age 1–10, WBC <50,000, HYPERDIPLOIDY (>50 chromosomes), TRISOMIES OF 4, 10 AND 17 (“the triple trisomy”), t(12;21) ETV6-RUNX1, and rapid clearance of blasts.**
 
 **UNDERSTAND:** Almost every favourable feature is a marker of **chemosensitivity**, and the ultimate expression of that is **MINIMAL RESIDUAL DISEASE** — how many leukaemic cells survive the first weeks of treatment. That is why modern protocols use **MRD, measured by flow cytometry or PCR at day 15/29, to override every baseline factor** and to assign risk group and treatment intensity. Biology predicts response; response predicts cure.
 
@@ -2820,7 +2820,7 @@
 - ***TUMOUR LYSIS SYNDROME PROPHYLAXIS (hydration, allopurinol or rasburicase) MUST PRECEDE INDUCTION*** in high-count disease.
 - **Contrast AML — commoner in infants and adolescents, with AUER RODS, myeloperoxidase positivity, gum hypertrophy and chloromas, a worse prognosis overall, and the exception of APL (t(15;17)) which is treated with ATRA and arsenic and complicated by DIC.**
 
-**EXAM CONNECTION:** "Indicates poor prognosis in ALL" → **age >10 years** (the others listed are favourable).
+**EXAM CONNECTION:** “Indicates poor prognosis in ALL” → **age >10 years** (the others listed are favourable).
 
 **REMEMBER:** *Baseline features suggest the odds; how fast the marrow clears decides them.*
 
@@ -2867,7 +2867,7 @@
 - Vitamin K–dependent factors: **II, VII, IX, X, protein C and protein S** — γ-carboxylated by **γ-glutamyl carboxylase**.
 - Treatment of active bleeding: **IV vitamin K plus fresh frozen plasma** for immediate factor replacement.
 
-**EXAM CONNECTION:** "Would NOT prompt suspicion" → **artificial/formula feeds**. Every other option impairs absorption or synthesis.
+**EXAM CONNECTION:** “Would NOT prompt suspicion” → **artificial/formula feeds**. Every other option impairs absorption or synthesis.
 
 **REMEMBER:** *Formula is fortified; breast milk is not.*
 
@@ -2893,7 +2893,7 @@
 
 **PEARL:** A child of **6–24 months with COARSE FACIES, MACROGLOSSIA, thick lips, prominent forehead, HEPATOSPLENOMEGALY, CORNEAL CLOUDING, joint stiffness, short stature and PERSISTENT COPIOUS NASAL DISCHARGE with noisy breathing = HURLER SYNDROME (MPS I)** — autosomal recessive **α-L-IDURONIDASE deficiency** with accumulation of **DERMATAN and HEPARAN SULPHATE.** The skeletal signature is **DYSOSTOSIS MULTIPLEX.**
 
-**UNDERSTAND:** Glycosaminoglycans accumulate in **every connective tissue**, which is why the disease is so multisystem and why the facial and airway features dominate: **thickened mucosa and adenotonsillar tissue cause the chronic nasal discharge, noisy breathing and OBSTRUCTIVE SLEEP APNOEA**, while GAG deposition in the cornea, valves, joints and meninges produces clouding, valvular disease, contractures and hydrocephalus. **The child is normal at birth and deteriorates progressively — a "storage" pattern.**
+**UNDERSTAND:** Glycosaminoglycans accumulate in **every connective tissue**, which is why the disease is so multisystem and why the facial and airway features dominate: **thickened mucosa and adenotonsillar tissue cause the chronic nasal discharge, noisy breathing and OBSTRUCTIVE SLEEP APNOEA**, while GAG deposition in the cornea, valves, joints and meninges produces clouding, valvular disease, contractures and hydrocephalus. **The child is normal at birth and deteriorates progressively — a “storage” pattern.**
 
 **MUST KNOW:**
 
@@ -2967,20 +2967,20 @@
 
 ### 133. Menkes Disease
 
-**PEARL:** A young infant with **CHUBBY ROSY CHEEKS, "KINKY"/steely, sparse, brittle hair (PILI TORTI), failure to thrive, progressive neurodegeneration with seizures, hypotonia, optic and cognitive impairment, cutis laxa and tortuous vessels = MENKES KINKY HAIR DISEASE** — an **X-LINKED RECESSIVE defect of the copper-transporting ATPase ATP7A**, causing **copper DEFICIENCY** with **LOW serum copper and LOW caeruloplasmin.**
+**PEARL:** A young infant with **CHUBBY ROSY CHEEKS, “KINKY”/steely, sparse, brittle hair (PILI TORTI), failure to thrive, progressive neurodegeneration with seizures, hypotonia, optic and cognitive impairment, cutis laxa and tortuous vessels = MENKES KINKY HAIR DISEASE** — an **X-LINKED RECESSIVE defect of the copper-transporting ATPase ATP7A**, causing **copper DEFICIENCY** with **LOW serum copper and LOW caeruloplasmin.**
 
 **UNDERSTAND:** The mirror-image logic against Wilson disease is the reason this pair is examined together. **ATP7A exports copper from the ENTEROCYTE into the blood — so its failure traps copper in the gut and kidney and starves the body (deficiency). ATP7B exports copper from the HEPATOCYTE into bile and onto caeruloplasmin — so its failure causes copper OVERLOAD (Wilson disease).** Every Menkes feature is a **cuproenzyme failing**: LYSYL OXIDASE (collagen and elastin cross-linking → tortuous arteries, cutis laxa, bladder diverticula, bone changes), TYROSINASE (hypopigmentation), CYTOCHROME C OXIDASE (neurodegeneration) and dopamine β-hydroxylase.
 
 **MUST KNOW:**
 
 - **Prognosis is poor — death usually in early childhood; ***PARENTERAL COPPER HISTIDINE started in the FIRST WEEKS OF LIFE (ideally presymptomatically) can improve neurological outcome***, since oral copper is useless (the defect is in absorption/export from the gut).
-- **WILSON DISEASE for contrast: ATP7B on chromosome 13, autosomal recessive; hepatic disease (hepatitis, cirrhosis, fulminant failure with a LOW alkaline phosphatase and Coombs-negative haemolysis) and neuropsychiatric disease (dysarthria, dystonia, WING-BEATING TREMOR, deteriorating school performance, personality change); KAYSER–FLEISCHER RINGS (copper in DESCEMET'S MEMBRANE) and SUNFLOWER CATARACT. LOW serum caeruloplasmin, HIGH 24-hour URINARY COPPER, and LIVER BIOPSY COPPER as the gold standard. Treated with D-PENICILLAMINE (give PYRIDOXINE with it), trientine or zinc (which blocks absorption), plus a low-copper diet; transplantation for fulminant failure.**
-- **The other "hair-shaft plus neurological" disorders: TRICHOTHIODYSTROPHY (sulphur-deficient hair with a "tiger-tail" pattern), and MENKES' milder allelic variant OCCIPITAL HORN SYNDROME.**
+- **WILSON DISEASE for contrast: ATP7B on chromosome 13, autosomal recessive; hepatic disease (hepatitis, cirrhosis, fulminant failure with a LOW alkaline phosphatase and Coombs-negative haemolysis) and neuropsychiatric disease (dysarthria, dystonia, WING-BEATING TREMOR, deteriorating school performance, personality change); KAYSER–FLEISCHER RINGS (copper in DESCEMET’S MEMBRANE) and SUNFLOWER CATARACT. LOW serum caeruloplasmin, HIGH 24-hour URINARY COPPER, and LIVER BIOPSY COPPER as the gold standard. Treated with D-PENICILLAMINE (give PYRIDOXINE with it), trientine or zinc (which blocks absorption), plus a low-copper diet; transplantation for fulminant failure.**
+- **The other “hair-shaft plus neurological” disorders: TRICHOTHIODYSTROPHY (sulphur-deficient hair with a “tiger-tail” pattern), and MENKES’ milder allelic variant OCCIPITAL HORN SYNDROME.**
 - ***SUSPECT MENKES IN ANY INFANT WITH SEIZURES AND ODD HAIR***, and confirm with serum copper, caeruloplasmin and ATP7A genetic testing; the hair under a microscope showing PILI TORTI (twisted flattened shafts) is a bedside clincher.
 
 **EXAM CONNECTION:** Rosy-cheeked infant with kinky hair and neurodegeneration → **Menkes disease (ATP7A)**; the distractor is always Wilson disease.
 
-**REMEMBER:** *ATP7A can't get copper IN, ATP7B can't get copper OUT — one starves, the other poisons.*
+**REMEMBER:** *ATP7A can’t get copper IN, ATP7B can’t get copper OUT — one starves, the other poisons.*
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/06/05/picture4.jpg)
@@ -3029,7 +3029,7 @@
 - **Transient tyrosinaemia of the newborn** is the commonest cause of raised tyrosine and is benign, responding to vitamin C.
 - The palmoplantar lesions are **painful out of proportion to their appearance** — the feature that distinguishes them from ordinary keratoderma.
 
-**EXAM CONNECTION:** "Herpetiform corneal ulcer" baits an HSV answer. The **palmoplantar keratoderma plus developmental delay** makes it metabolic.
+**EXAM CONNECTION:** “Herpetiform corneal ulcer” baits an HSV answer. The **palmoplantar keratoderma plus developmental delay** makes it metabolic.
 
 **REMEMBER:** *Tyrosine crystals scar the cornea and thicken the palms.*
 
@@ -3077,7 +3077,7 @@
 
 **PEARL:** An infant of **1–3 months with a preceding CONJUNCTIVITIS who develops an AFEBRILE, INSIDIOUS pneumonia with a STACCATO COUGH, TACHYPNOEA, RALES, NO WHEEZE and PERIPHERAL EOSINOPHILIA (>400/µL), with hyperinflation and diffuse infiltrates on X-ray, has *CHLAMYDIA TRACHOMATIS* PNEUMONIA.** Treat with **ORAL ERYTHROMYCIN or azithromycin for 14 days — TOPICAL therapy is useless.**
 
-**UNDERSTAND:** The organism is acquired from the mother's genital tract at delivery and **colonises the conjunctiva and nasopharynx first**, descending to the lungs weeks later — which is why the **conjunctivitis (day 5–14) precedes the pneumonia (week 4–12)** and why the two are part of one illness. The **ABSENCE OF FEVER AND WHEEZE is the key discriminator from RSV bronchiolitis**, and the eosinophilia is the laboratory fingerprint.
+**UNDERSTAND:** The organism is acquired from the mother’s genital tract at delivery and **colonises the conjunctiva and nasopharynx first**, descending to the lungs weeks later — which is why the **conjunctivitis (day 5–14) precedes the pneumonia (week 4–12)** and why the two are part of one illness. The **ABSENCE OF FEVER AND WHEEZE is the key discriminator from RSV bronchiolitis**, and the eosinophilia is the laboratory fingerprint.
 
 **MUST KNOW:**
 
@@ -3100,7 +3100,7 @@
 
 ### 139. Vaccination in the Immunosuppressed Child
 
-**PEARL:** In a child on **steroids for nephrotic syndrome, ALL KILLED/INACTIVATED VACCINES may be given normally.** **LIVE vaccines are permitted only if the prednisolone dose is BELOW 2 mg/kg/day (or <20 mg/day) and for LESS THAN 14 DAYS — and are CONTRAINDICATED on high-dose steroids or on steroid-sparing agents (cyclophosphamide, ciclosporin, tacrolimus, rituximab).** ***HOUSEHOLD CONTACTS SHOULD BE FULLY VACCINATED, INCLUDING WITH LIVE VACCINES*** — this protects the immunosuppressed child ("cocooning").
+**PEARL:** In a child on **steroids for nephrotic syndrome, ALL KILLED/INACTIVATED VACCINES may be given normally.** **LIVE vaccines are permitted only if the prednisolone dose is BELOW 2 mg/kg/day (or <20 mg/day) and for LESS THAN 14 DAYS — and are CONTRAINDICATED on high-dose steroids or on steroid-sparing agents (cyclophosphamide, ciclosporin, tacrolimus, rituximab).** ***HOUSEHOLD CONTACTS SHOULD BE FULLY VACCINATED, INCLUDING WITH LIVE VACCINES*** — this protects the immunosuppressed child (“cocooning”).
 
 **UNDERSTAND:** Killed vaccines cannot replicate, so they are **safe but may be less immunogenic** — which is why they are given and, where possible, timed for periods of lower immunosuppression. Live vaccines can **replicate unchecked and cause vaccine-strain disease.** The apparent paradox about siblings resolves once you realise that **the risk of the child catching WILD measles or varicella from an unvaccinated sibling far exceeds the tiny risk of vaccine-strain transmission** — the only practical precaution being to avoid contact with the stool of an OPV recipient and with a vesicular rash after varicella vaccine.
 
@@ -3124,7 +3124,7 @@
 
 **PEARL:** **HIGH protein (93), LOW glucose (20) and a LYMPHOCYTIC pleocytosis = TUBERCULOUS meningitis.** The classic triad of patterns: **BACTERIAL — very high polymorphs (>1000), VERY high protein, VERY low glucose (<40% of blood), turbid. VIRAL — modest lymphocytosis, mildly raised protein,** *NORMAL GLUCOSE***, clear. TUBERCULOUS/FUNGAL — lymphocytes, HIGH protein (often very high), LOW glucose, and a COBWEB CLOT on standing.**
 
-**UNDERSTAND:** **GLUCOSE is the single most discriminating value.** It falls when **living organisms consume it and when the inflamed meninges lose their glucose transport capacity** — bacteria, mycobacteria and fungi all do this; **viruses do not,** since they replicate inside cells using host machinery. So the first question at the bedside is not "how many cells?" but "is the glucose low?" — a lymphocytic CSF with a LOW glucose is tuberculous or fungal until proved otherwise, and a lymphocytic CSF with normal glucose is viral.
+**UNDERSTAND:** **GLUCOSE is the single most discriminating value.** It falls when **living organisms consume it and when the inflamed meninges lose their glucose transport capacity** — bacteria, mycobacteria and fungi all do this; **viruses do not,** since they replicate inside cells using host machinery. So the first question at the bedside is not “how many cells?” but “is the glucose low?” — a lymphocytic CSF with a LOW glucose is tuberculous or fungal until proved otherwise, and a lymphocytic CSF with normal glucose is viral.
 
 **MUST KNOW:**
 
@@ -3151,12 +3151,12 @@
 **MUST KNOW:**
 
 - **Risk factors for vertical transmission: HIGH MATERNAL VIRAL LOAD (the strongest), low CD4 count, seroconversion during pregnancy or lactation, PRETERM delivery (<34 weeks), PROLONGED RUPTURE OF MEMBRANES (>4 hours), chorioamnionitis, low birth weight, vitamin A deficiency, and mixed feeding.**
-- **India's PPTCT programme: universal antenatal HIV testing, LIFELONG ART for every pregnant woman regardless of CD4 count (Option B+), institutional delivery, INFANT NEVIRAPINE prophylaxis (6 weeks, extended to 12 weeks in high-risk infants), and COTRIMOXAZOLE prophylaxis from 6 weeks until infection is excluded.**
+- **India’s PPTCT programme: universal antenatal HIV testing, LIFELONG ART for every pregnant woman regardless of CD4 count (Option B+), institutional delivery, INFANT NEVIRAPINE prophylaxis (6 weeks, extended to 12 weeks in high-risk infants), and COTRIMOXAZOLE prophylaxis from 6 weeks until infection is excluded.**
 - **INFANT DIAGNOSIS REQUIRES VIROLOGICAL TESTING (DNA/RNA PCR) at 6 weeks, 6 months and 12 months — ***ANTIBODY TESTS ARE UNRELIABLE UNTIL 18 MONTHS*** because maternal IgG crosses the placenta and persists.**
 - **FEEDING: in India, ***EXCLUSIVE BREASTFEEDING FOR 6 MONTHS with maternal ART*** is recommended, because the risks of formula feeding (diarrhoea, malnutrition) outweigh the residual transmission risk. ***MIXED FEEDING CARRIES THE HIGHEST TRANSMISSION RISK OF ALL*** — it damages the gut mucosa while exposing it to virus.**
 - **AVOID invasive procedures where possible — amniocentesis, fetal scalp electrodes, artificial rupture of membranes and instrumental delivery all increase exposure.**
 
-**EXAM CONNECTION:** "Most common cause of HIV in a newborn" → **perinatal (intrapartum) transmission**.
+**EXAM CONNECTION:** “Most common cause of HIV in a newborn” → **perinatal (intrapartum) transmission**.
 
 **REMEMBER:** *Most babies are infected during the passage, not the pregnancy — which is why viral suppression and delivery care matter most.*
 
@@ -3172,7 +3172,7 @@
 
 **MUST KNOW:**
 
-- **Who counts as a "close contact" for meningococcus: household members, childcare/school contacts sharing a room, anyone directly exposed to the patient's oral secretions (kissing, sharing utensils), and healthcare workers who performed mouth-to-mouth resuscitation, intubation or suction WITHOUT protection. ***ROUTINE PROPHYLAXIS IS NOT GIVEN TO OTHER HEALTHCARE STAFF OR CASUAL SCHOOL CONTACTS.***
+- **Who counts as a “close contact” for meningococcus: household members, childcare/school contacts sharing a room, anyone directly exposed to the patient’s oral secretions (kissing, sharing utensils), and healthcare workers who performed mouth-to-mouth resuscitation, intubation or suction WITHOUT protection. ***ROUTINE PROPHYLAXIS IS NOT GIVEN TO OTHER HEALTHCARE STAFF OR CASUAL SCHOOL CONTACTS.***
 - **Treatment of the case itself: PENICILLIN or a third-generation cephalosporin; note that penicillin does NOT eradicate carriage, so a patient treated with penicillin also needs clearance therapy before discharge (ceftriaxone does eradicate it).**
 - **Other standard contact prophylaxis: *H. INFLUENZAE* type b — RIFAMPICIN for household contacts if there is an unimmunised/incompletely immunised child under 4. TUBERCULOSIS — ISONIAZID (or 3HP) for contacts under 5 and for HIV-positive contacts after excluding active disease. PERTUSSIS — azithromycin for household contacts. LEPROSY — SINGLE-DOSE RIFAMPICIN. MENINGOCOCCAL vaccine is added for serogroup-preventable outbreaks and for asplenia/complement deficiency.**
 - **In diphtheria, unimmunised contacts or those with fewer than 3 doses should receive an immediate dose and complete the primary series; ***ANTITOXIN IS NOT GIVEN TO CONTACTS***, only to cases.**
@@ -3194,7 +3194,7 @@
 
 **MUST KNOW:**
 
-- **The rash is a fine, blanching, punctate erythema that feels like SANDPAPER, begins on the neck and trunk and spares the palms and soles, with CIRCUMORAL PALLOR, accentuation in the skin folds (PASTIA'S LINES), and DESQUAMATION of the hands and feet during convalescence. The tongue is first white-coated with red papillae ("white strawberry") and then bright red ("red strawberry").**
+- **The rash is a fine, blanching, punctate erythema that feels like SANDPAPER, begins on the neck and trunk and spares the palms and soles, with CIRCUMORAL PALLOR, accentuation in the skin folds (PASTIA’S LINES), and DESQUAMATION of the hands and feet during convalescence. The tongue is first white-coated with red papillae (“white strawberry”) and then bright red (“red strawberry”).**
 - ***TREATING PHARYNGITIS PREVENTS RHEUMATIC FEVER BUT NOT POST-STREPTOCOCCAL GLOMERULONEPHRITIS*** — and only PHARYNGEAL infection causes rheumatic fever, while both skin and throat infections cause nephritis.
 - **Confirm with a RAPID ANTIGEN DETECTION TEST or THROAT CULTURE before treating where possible; ASO titre rises after throat infection and ANTI-DNase B after skin infection.**
 - **Group A *Streptococcus* also causes IMPETIGO, ERYSIPELAS, cellulitis, NECROTISING FASCIITIS and STREPTOCOCCAL TOXIC SHOCK SYNDROME (a superantigen-mediated illness treated with penicillin PLUS CLINDAMYCIN to switch off toxin production, and IVIG).**
@@ -3216,11 +3216,11 @@
 
 **MUST KNOW:**
 
-- **Clinical features: intrauterine growth restriction, MICROCEPHALY, PERIVENTRICULAR intracranial CALCIFICATION, hepatosplenomegaly, jaundice with conjugated hyperbilirubinaemia, thrombocytopenia with a "BLUEBERRY MUFFIN" rash, and CHORIORETINITIS.**
+- **Clinical features: intrauterine growth restriction, MICROCEPHALY, PERIVENTRICULAR intracranial CALCIFICATION, hepatosplenomegaly, jaundice with conjugated hyperbilirubinaemia, thrombocytopenia with a “BLUEBERRY MUFFIN” rash, and CHORIORETINITIS.**
 - ***SENSORINEURAL HEARING LOSS IS THE COMMONEST LONG-TERM SEQUELA AND THE COMMONEST NON-GENETIC CAUSE OF DEAFNESS*** — it can be PROGRESSIVE AND OF LATE ONSET, so every congenitally infected child (even the asymptomatic) needs SERIAL AUDIOLOGICAL FOLLOW-UP for years.
 - **Treatment: symptomatic congenital CMV (especially with CNS involvement) is treated with 6 MONTHS OF ORAL VALGANCICLOVIR, which improves hearing and neurodevelopmental outcomes; monitor for NEUTROPENIA.**
-- **Distinguish the calcification patterns: CMV — PERIVENTRICULAR; TOXOPLASMOSIS — DIFFUSE/scattered throughout the parenchyma, with hydrocephalus and chorioretinitis. RUBELLA — cataract, deafness and PDA. Congenital VARICELLA — cicatricial dermatomal scarring and limb hypoplasia after infection at 13–20 weeks. Congenital SYPHILIS — snuffles, rash on palms and soles, and later Hutchinson's teeth.**
-- **There is no vaccine; prevention is hand hygiene around toddlers' saliva and urine, especially for pregnant women working with young children.**
+- **Distinguish the calcification patterns: CMV — PERIVENTRICULAR; TOXOPLASMOSIS — DIFFUSE/scattered throughout the parenchyma, with hydrocephalus and chorioretinitis. RUBELLA — cataract, deafness and PDA. Congenital VARICELLA — cicatricial dermatomal scarring and limb hypoplasia after infection at 13–20 weeks. Congenital SYPHILIS — snuffles, rash on palms and soles, and later Hutchinson’s teeth.**
+- **There is no vaccine; prevention is hand hygiene around toddlers’ saliva and urine, especially for pregnant women working with young children.**
 
 **EXAM CONNECTION:** True statements → **asymptomatic neonates have fewer late sequelae**, and **transmission is far higher with primary maternal infection**.
 
@@ -3241,11 +3241,11 @@
 
 **MUST KNOW:**
 
-- **Three clinical stages: CATARRHAL (1–2 weeks, most infectious, indistinguishable from a cold), PAROXYSMAL (2–6 weeks — bursts of coughing, post-tussive vomiting, and the inspiratory WHOOP, which is often ABSENT in infants and adults), and CONVALESCENT (weeks to months — "the 100-day cough").**
+- **Three clinical stages: CATARRHAL (1–2 weeks, most infectious, indistinguishable from a cold), PAROXYSMAL (2–6 weeks — bursts of coughing, post-tussive vomiting, and the inspiratory WHOOP, which is often ABSENT in infants and adults), and CONVALESCENT (weeks to months — “the 100-day cough”).**
 - ***INFANTS UNDER 6 MONTHS PRESENT WITH APNOEA, CYANOSIS OR EVEN SUDDEN DEATH RATHER THAN WHOOPING*** — and carry nearly all the mortality. They should be admitted and monitored.
 - **Antibiotics shorten INFECTIVITY but alter the clinical course only if given in the CATARRHAL stage — nonetheless they are given to limit spread, along with POST-EXPOSURE PROPHYLAXIS (azithromycin) for household and high-risk contacts regardless of immunisation status.**
 - **Diagnosis: NASOPHARYNGEAL PCR (best in the first 3–4 weeks), culture on Bordet–Gengou or Regan–Lowe medium, and serology later.**
-- **Prevention: DPT/pentavalent at 6, 10 and 14 weeks with boosters at 16–24 months and 5 years; ***MATERNAL Tdap IN EVERY PREGNANCY (27–36 weeks) protects the newborn through transplacental antibody*** — the single most effective measure against infant deaths — plus "cocooning" of household contacts.**
+- **Prevention: DPT/pentavalent at 6, 10 and 14 weeks with boosters at 16–24 months and 5 years; ***MATERNAL Tdap IN EVERY PREGNANCY (27–36 weeks) protects the newborn through transplacental antibody*** — the single most effective measure against infant deaths — plus “cocooning” of household contacts.**
 - **Complications: apnoea, secondary pneumonia (the commonest cause of death), seizures, encephalopathy, subconjunctival haemorrhage, rib fracture and hernia from the paroxysms.**
 
 **EXAM CONNECTION:** Neonatal paroxysmal cough with apnoea and WBC >50,000 → **azithromycin**.
@@ -3260,7 +3260,7 @@
 
 ### 146. Rabies Post-Exposure Prophylaxis
 
-**PEARL:** **HUMAN rabies immunoglobulin = 20 IU/kg; EQUINE RIG = 40 IU/kg** — infiltrated **as fully as possible INTO AND AROUND THE WOUND.** A person who has **PREVIOUSLY COMPLETED a full pre- or post-exposure course needs only 2 BOOSTER DOSES, on DAY 0 AND DAY 3, and NO IMMUNOGLOBULIN.** **World Rabies Day is 28 SEPTEMBER** (the anniversary of Louis Pasteur's death).
+**PEARL:** **HUMAN rabies immunoglobulin = 20 IU/kg; EQUINE RIG = 40 IU/kg** — infiltrated **as fully as possible INTO AND AROUND THE WOUND.** A person who has **PREVIOUSLY COMPLETED a full pre- or post-exposure course needs only 2 BOOSTER DOSES, on DAY 0 AND DAY 3, and NO IMMUNOGLOBULIN.** **World Rabies Day is 28 SEPTEMBER** (the anniversary of Louis Pasteur’s death).
 
 **UNDERSTAND:** RIG is infiltrated locally rather than given systemically because **rabies virus travels from the wound along peripheral nerves — the antibody must neutralise it AT THE SITE before it enters an axon**, where antibody cannot reach it. And the previously vaccinated patient needs no RIG because **memory B cells produce a full anamnestic response within days**; passive antibody would only suppress that response.
 
@@ -3310,7 +3310,7 @@
 
 **MUST KNOW:**
 
-- **The EEG shows the characteristic ***BURST-SUPPRESSION/PERIODIC "RADERMECKER" COMPLEXES*** — high-voltage slow-wave bursts every 4–10 seconds, synchronous with the myoclonic jerks.
+- **The EEG shows the characteristic ***BURST-SUPPRESSION/PERIODIC “RADERMECKER” COMPLEXES*** — high-voltage slow-wave bursts every 4–10 seconds, synchronous with the myoclonic jerks.
 - **Clinical staging: I — behavioural and cognitive decline, falling school performance; II — MYOCLONUS, seizures, chorioretinitis (macular); III — rigidity, decerebration, extrapyramidal features; IV — mutism, autonomic failure, coma and death. Course is 1–3 years and ***UNIFORMLY FATAL***; isoprinosine and intrathecal interferon-alpha may slow it.
 - ***PREVENTION IS ENTIRELY BY MEASLES VACCINATION*** — SSPE incidence falls to near zero where coverage is high, and there is NO risk of SSPE from the vaccine strain. This is the highest-yield public-health point attached to the topic.
 - **Measles itself: prodrome of fever, cough, coryza and conjunctivitis with ***KOPLIK SPOTS***, then a maculopapular rash spreading from behind the ears downwards with confluence and later staining; complications are OTITIS MEDIA (the commonest), PNEUMONIA (the commonest cause of death), diarrhoea, croup, corneal ulceration with vitamin A deficiency, acute post-infectious encephalomyelitis (1 in 1000) and SSPE.**
@@ -3333,14 +3333,14 @@
 
 **PEARL:** **Neonatal meningitis and sepsis (0–2 months): WORLDWIDE, GROUP B STREPTOCOCCUS (*Streptococcus agalactiae*) is commonest; ***IN INDIA, GRAM-NEGATIVE ORGANISMS — *E. COLI* AND *KLEBSIELLA* — PREDOMINATE.*** *LISTERIA MONOCYTOGENES* is the classic third. From **2 months to 2 years, *STREPTOCOCCUS PNEUMONIAE* then *H. INFLUENZAE*; over 2 years, *S. PNEUMONIAE* then *NEISSERIA MENINGITIDIS*.**
 
-**UNDERSTAND:** The neonatal organisms are the **flora of the maternal genital tract and gut** — the baby is colonised during passage through the birth canal — which is why **early-onset (<72 hours) sepsis is MATERNALLY acquired and vertical, while LATE-onset (>72 hours) sepsis is NOSOCOMIAL or community-acquired** (*Staphylococcus*, *Klebsiella*, *Pseudomonas*, *Candida*). The Indian difference reflects a **higher burden of gram-negative colonisation and hospital-acquired infection**, and is a favourite "in India" exam qualifier.
+**UNDERSTAND:** The neonatal organisms are the **flora of the maternal genital tract and gut** — the baby is colonised during passage through the birth canal — which is why **early-onset (<72 hours) sepsis is MATERNALLY acquired and vertical, while LATE-onset (>72 hours) sepsis is NOSOCOMIAL or community-acquired** (*Staphylococcus*, *Klebsiella*, *Pseudomonas*, *Candida*). The Indian difference reflects a **higher burden of gram-negative colonisation and hospital-acquired infection**, and is a favourite “in India” exam qualifier.
 
 **MUST KNOW:**
 
-- ***A NEONATE WITH MENINGITIS DOES NOT HAVE NECK STIFFNESS***: early features are temperature INSTABILITY (hypo- or hyperthermia), lethargy, poor feeding, vomiting, bradycardia and apnoea; late features are seizures, a BULGING FONTANELLE and nuchal rigidity. ***"THE NEONATE WITH SEPSIS JUST LOOKS WRONG" — a low threshold for lumbar puncture and blood culture is essential***, and up to a third of neonates with sepsis have meningitis.
+- ***A NEONATE WITH MENINGITIS DOES NOT HAVE NECK STIFFNESS***: early features are temperature INSTABILITY (hypo- or hyperthermia), lethargy, poor feeding, vomiting, bradycardia and apnoea; late features are seizures, a BULGING FONTANELLE and nuchal rigidity. ***“THE NEONATE WITH SEPSIS JUST LOOKS WRONG” — a low threshold for lumbar puncture and blood culture is essential***, and up to a third of neonates with sepsis have meningitis.
 - **Empirical therapy: AMPICILLIN (covering *Listeria* and enterococci) PLUS an AMINOGLYCOSIDE (gentamicin/amikacin) or a third-generation CEPHALOSPORIN (cefotaxime — ***ceftriaxone is AVOIDED in neonates: it displaces bilirubin and precipitates with calcium***). Treat meningitis for 14 days (gram-positive) to 21 days (gram-negative), guided by culture and repeat CSF.
 - **Prevention: intrapartum antibiotic prophylaxis for maternal GBS colonisation or risk factors, clean delivery practices, hand hygiene, exclusive breastfeeding and KANGAROO CARE.**
-- **BLOOD CULTURE remains the gold standard for neonatal sepsis and for enteric fever; the "septic screen" (CRP, total leucocyte count, band:total neutrophil ratio, micro-ESR) only supports the decision.**
+- **BLOOD CULTURE remains the gold standard for neonatal sepsis and for enteric fever; the “septic screen” (CRP, total leucocyte count, band:total neutrophil ratio, micro-ESR) only supports the decision.**
 - **Complications: ventriculitis, hydrocephalus, cerebral abscess (especially *Citrobacter* and *Proteus*), subdural effusion, deafness and neurodevelopmental impairment — hence follow-up hearing tests and imaging.**
 
 **EXAM CONNECTION:** Commonest organism of neonatal meningitis in India → ***E. coli***; worldwide → **group B *Streptococcus***.
@@ -3360,7 +3360,7 @@
 **MUST KNOW:**
 
 - ***WARNING SIGNS (the trigger for admission): ABDOMINAL PAIN OR TENDERNESS, PERSISTENT VOMITING, CLINICAL FLUID ACCUMULATION (ascites, pleural effusion), MUCOSAL BLEEDING, LETHARGY OR RESTLESSNESS, LIVER ENLARGEMENT >2 cm, and a RISING HAEMATOCRIT WITH A RAPIDLY FALLING PLATELET COUNT.***
-- **Three phases: FEBRILE (2–7 days, high fever, myalgia, retro-orbital pain, flushing, positive tourniquet test), ***CRITICAL (around defervescence, days 3–7 — THE DANGEROUS PHASE, when the fever falls and the patient LOOKS BETTER while leaking)***, and RECOVERY (fluid reabsorption, "convalescent rash" of ISLES OF WHITE IN A SEA OF RED, bradycardia — and the risk of FLUID OVERLOAD if infusion continues).
+- **Three phases: FEBRILE (2–7 days, high fever, myalgia, retro-orbital pain, flushing, positive tourniquet test), ***CRITICAL (around defervescence, days 3–7 — THE DANGEROUS PHASE, when the fever falls and the patient LOOKS BETTER while leaking)***, and RECOVERY (fluid reabsorption, “convalescent rash” of ISLES OF WHITE IN A SEA OF RED, bradycardia — and the risk of FLUID OVERLOAD if infusion continues).
 - **Diagnosis: NS1 ANTIGEN in the first 5 days, IgM from day 5, and paired IgG; leucopenia, thrombocytopenia and a rising haematocrit are the classic laboratory triad.**
 - ***USE PARACETAMOL ONLY — ASPIRIN AND NSAIDs ARE CONTRAINDICATED*** (bleeding risk and Reye syndrome), and avoid intramuscular injections.
 - **Monitor haematocrit, urine output (aim ≥0.5–1 mL/kg/hour), vital signs and NARROWING PULSE PRESSURE (≤20 mmHg indicates shock). Colloids are reserved for refractory shock; blood transfusion for significant bleeding.**
@@ -3382,11 +3382,11 @@
 
 **PEARL:** **Rubella has the LOWEST risk of perinatal (intrapartum) transmission** — it is an **intrauterine, first-trimester** infection. **CMV is the commonest congenital infection**; **hepatitis B and HSV** carry high perinatal transmission risk.
 
-**UNDERSTAND:** "Congenital" and "perinatal" are different routes. Rubella damages by **transplacental infection during organogenesis**, so its risk is defined by **gestational age at maternal infection** (highest < 12 weeks) — by the time of delivery, transmission is essentially irrelevant. Hepatitis B and HSV, by contrast, are transmitted mainly by **contact with maternal blood and genital secretions during delivery**, which is why intrapartum measures prevent them.
+**UNDERSTAND:** “Congenital” and “perinatal” are different routes. Rubella damages by **transplacental infection during organogenesis**, so its risk is defined by **gestational age at maternal infection** (highest < 12 weeks) — by the time of delivery, transmission is essentially irrelevant. Hepatitis B and HSV, by contrast, are transmitted mainly by **contact with maternal blood and genital secretions during delivery**, which is why intrapartum measures prevent them.
 
 **MUST KNOW:**
 
-- **Congenital rubella triad: sensorineural deafness (commonest), cataract, congenital heart disease (PDA, peripheral pulmonary stenosis)**; plus "**blueberry muffin**" rash and **salt-and-pepper retinopathy**.
+- **Congenital rubella triad: sensorineural deafness (commonest), cataract, congenital heart disease (PDA, peripheral pulmonary stenosis)**; plus “**blueberry muffin**” rash and **salt-and-pepper retinopathy**.
 - **CMV** — commonest congenital infection; only **~10% symptomatic at birth**; features **hepatosplenomegaly, petechiae, jaundice, chorioretinitis, microcephaly and PERIVENTRICULAR calcification**. **Sensorineural hearing loss** is the key late sequel — in **~50% of symptomatic** but only **~13.5% of asymptomatic** infants. **Diagnosis: PCR on urine, saliva or blood WITHIN THE FIRST 2–3 WEEKS** (after 3 weeks, a positive result cannot distinguish congenital from postnatally acquired infection). Treat symptomatic disease with **valganciclovir**.
 - **Toxoplasma** — **hydrocephalus, DIFFUSE intracranial calcification, chorioretinitis**.
 - **Hepatitis B** — prevented by **HBIG plus vaccine within 12 hours of birth**; **breastfeeding is then permitted**.
@@ -3418,7 +3418,7 @@
 - Prevention: treat the opportunistic infection first and **delay ART** — usually 2 weeks for most infections, but **4–6 weeks in cryptococcal meningitis** (early ART increases mortality there).
 - Infant HIV diagnosis: **HIV DNA/total nucleic acid PCR on a DRIED BLOOD SPOT** — maternal antibody persists up to 18 months, so **antibody tests are useless in infancy**; confirm every positive on a second sample.
 
-**EXAM CONNECTION:** The timing ("first week of treatment") plus the low CD4 count is the whole question. The distractor options are invented syndrome names.
+**EXAM CONNECTION:** The timing (“first week of treatment”) plus the low CD4 count is the whole question. The distractor options are invented syndrome names.
 
 **REMEMBER:** *The immune system wakes up and attacks what was already there.*
 
@@ -3510,11 +3510,11 @@
 
 - **COMPLEMENT-DEFICIENT patients need the OPPOSITE approach — MORE vaccination: MENINGOCOCCAL (conjugate and serogroup B), PNEUMOCOCCAL and Hib, because TERMINAL COMPLEMENT (C5–C9)/properdin deficiency causes RECURRENT NEISSERIAL infection. The same applies to asplenia and to patients on ECULIZUMAB.**
 - **Match the deficiency to the infection: T-CELL/combined → viruses, fungi, *Pneumocystis*, mycobacteria. B-CELL/antibody → encapsulated bacteria, enteroviruses, *Giardia*. PHAGOCYTE → *S. aureus*, catalase-positive organisms, *Aspergillus*. COMPLEMENT (early) → pyogenic/autoimmune; (terminal) → *NEISSERIA*.**
-- **DiGEORGE SYNDROME (22q11.2 deletion, third and fourth pharyngeal pouch): "CATCH-22" — Cardiac anomalies (interrupted aortic arch, truncus arteriosus, tetralogy), Abnormal facies, THYMIC HYPOPLASIA (T-cell deficiency), Cleft palate, HYPOCALCAEMIA (parathyroid aplasia, presenting with neonatal seizures). Partial DiGeorge with adequate T-cell numbers may tolerate live vaccines.**
+- **DiGEORGE SYNDROME (22q11.2 deletion, third and fourth pharyngeal pouch): “CATCH-22” — Cardiac anomalies (interrupted aortic arch, truncus arteriosus, tetralogy), Abnormal facies, THYMIC HYPOPLASIA (T-cell deficiency), Cleft palate, HYPOCALCAEMIA (parathyroid aplasia, presenting with neonatal seizures). Partial DiGeorge with adequate T-cell numbers may tolerate live vaccines.**
 - **WISKOTT–ALDRICH: X-linked, ECZEMA + THROMBOCYTOPENIA WITH SMALL PLATELETS + recurrent infection; low IgM, high IgA/IgE. ATAXIA-TELANGIECTASIA: ATM gene, cerebellar ataxia, oculocutaneous telangiectasia, IgA deficiency, RADIOSENSITIVITY (avoid unnecessary X-rays) and lymphoid malignancy.**
 - **Also give ONLY IRRADIATED, CMV-negative, leucodepleted BLOOD PRODUCTS to children with severe T-cell deficiency, to prevent transfusion-associated graft-versus-host disease.**
 
-**EXAM CONNECTION:** "Live vaccine NOT contraindicated in" → **complement deficiency**.
+**EXAM CONNECTION:** “Live vaccine NOT contraindicated in” → **complement deficiency**.
 
 **ALSO KNOW:** **COMPLEMENT DEFICIENCY IS THE EXCEPTION — live vaccines are safe**, because T- and B-cell function is intact and a live organism can still be controlled; the T-cell defects cannot.
 
@@ -3538,7 +3538,7 @@
 - **Management is supportive: physiotherapy, treatment and prophylaxis of infection, immunoglobulin replacement if antibody deficiency is significant, ***LIVE VACCINES CONTRAINDICATED***, malignancy surveillance and genetic counselling. Most patients are wheelchair-bound by adolescence and die in the second or third decade.
 - **Differential of childhood ataxia: acute post-infectious cerebellitis (varicella), posterior fossa tumour (medulloblastoma), FRIEDREICH ATAXIA (autosomal recessive GAA repeat in frataxin — ataxia, absent reflexes with extensor plantars, pes cavus, scoliosis, HYPERTROPHIC CARDIOMYOPATHY and diabetes, but NO telangiectasia or immunodeficiency), abetalipoproteinaemia, Wilson disease and drug/toxin ingestion.**
 
-**EXAM CONNECTION:** "Not true about ataxia–telangiectasia" → **autosomal dominant inheritance** (it is recessive), or **selective absence of IgM** (it is IgA that is deficient).
+**EXAM CONNECTION:** “Not true about ataxia–telangiectasia” → **autosomal dominant inheritance** (it is recessive), or **selective absence of IgM** (it is IgA that is deficient).
 
 **ALSO KNOW:** **A RAISED ALPHA-FETOPROTEIN is a useful diagnostic marker.** Autosomal recessive; the **ataxia appears first (toddler) and the telangiectasia later (school age).**
 
@@ -3559,7 +3559,7 @@
 
 **MUST KNOW:**
 
-- **Mnemonic: "WATER" — Wiskott–Aldrich: Thrombocytopenia, Eczema, Recurrent infections.**
+- **Mnemonic: “WATER” — Wiskott–Aldrich: Thrombocytopenia, Eczema, Recurrent infections.**
 - **Immunology: LOW IgM, HIGH IgA and IgE, normal or low IgG; poor antibody responses to POLYSACCHARIDE antigens (hence encapsulated organisms); progressive lymphopenia.** **Small platelet volume (low MPV) is the key laboratory clue** — in ITP the platelets are normal or large.
 - **Complications: bleeding (including intracranial), infection, AUTOIMMUNE disease (haemolytic anaemia, vasculitis, IBD) and B-CELL LYMPHOMA.**
 - **Treatment: HAEMATOPOIETIC STEM CELL TRANSPLANTATION is the only cure** (gene therapy in trials); IVIG, antimicrobial prophylaxis and **splenectomy** (raises the platelet count but adds sepsis risk). **Platelet transfusion for bleeding; avoid aspirin.**
@@ -3580,13 +3580,13 @@
 
 **PEARL:** **FEVER FOR ≥5 DAYS plus 4 of 5: bilateral NON-EXUDATIVE CONJUNCTIVAL INJECTION (with limbal sparing), MUCOSAL changes (STRAWBERRY TONGUE, red cracked lips), a POLYMORPHOUS RASH, EXTREMITY changes (erythema and oedema of the hands and feet, followed by PERIUNGUAL PEELING in the second week), and CERVICAL LYMPHADENOPATHY >1.5 cm (usually unilateral) = KAWASAKI DISEASE.** Treatment is ***IVIG 2 g/kg WITHIN THE FIRST 10 DAYS, PLUS ASPIRIN*** — to prevent CORONARY ARTERY ANEURYSMS.
 
-**UNDERSTAND:** Kawasaki is a **medium-vessel VASCULITIS with a special predilection for the CORONARY ARTERIES**, and the reason for the 10-day rule is that **aneurysms form during the acute inflammatory phase**: IVIG given within 10 days reduces the aneurysm rate from **~25% to under 5%.** Nothing about the child's comfort drives treatment — the entire urgency is coronary.
+**UNDERSTAND:** Kawasaki is a **medium-vessel VASCULITIS with a special predilection for the CORONARY ARTERIES**, and the reason for the 10-day rule is that **aneurysms form during the acute inflammatory phase**: IVIG given within 10 days reduces the aneurysm rate from **~25% to under 5%.** Nothing about the child’s comfort drives treatment — the entire urgency is coronary.
 
 **MUST KNOW:**
 
 - ***IVIG IS THE ANSWER, NOT ASPIRIN ALONE*** — aspirin is high-dose (anti-inflammatory) in the acute phase, then LOW-DOSE (antiplatelet) for 6–8 weeks or until the coronaries are confirmed normal. This is one of the few paediatric indications for aspirin despite REYE SYNDROME.
 - **ECHOCARDIOGRAPHY at diagnosis, at 2 weeks and at 6–8 weeks. Refractory disease (persistent fever 36 hours after IVIG) is treated with a second dose of IVIG, corticosteroids or infliximab. Giant aneurysms (≥8 mm) require long-term anticoagulation.**
-- **Supporting features: extreme IRRITABILITY (a hallmark), sterile pyuria, raised ESR/CRP, ***THROMBOCYTOSIS IN THE SECOND WEEK***, anaemia, transaminitis, gallbladder hydrops, arthritis, aseptic meningitis, and reactivation/erythema AT THE BCG SCAR SITE — a highly specific sign in BCG-vaccinated populations. "INCOMPLETE" Kawasaki (fewer criteria but prolonged fever with raised inflammatory markers) is common in infants and carries the HIGHEST coronary risk.**
+- **Supporting features: extreme IRRITABILITY (a hallmark), sterile pyuria, raised ESR/CRP, ***THROMBOCYTOSIS IN THE SECOND WEEK***, anaemia, transaminitis, gallbladder hydrops, arthritis, aseptic meningitis, and reactivation/erythema AT THE BCG SCAR SITE — a highly specific sign in BCG-vaccinated populations. “INCOMPLETE” Kawasaki (fewer criteria but prolonged fever with raised inflammatory markers) is common in infants and carries the HIGHEST coronary risk.**
 - **Kawasaki disease is the commonest cause of ACQUIRED HEART DISEASE IN CHILDREN in developed countries, having overtaken rheumatic fever.**
 - **Differentials: scarlet fever, measles, staphylococcal scalded skin/toxic shock, drug reactions, systemic-onset JIA and MULTISYSTEM INFLAMMATORY SYNDROME IN CHILDREN (MIS-C) after COVID-19, which mimics it closely but with more myocardial dysfunction and gastrointestinal symptoms.**
 
@@ -3680,11 +3680,11 @@
 
 **PEARL:** The **SILVERMAN–ANDERSON score (used in PRETERMS) grades 5 signs 0–2: chest movement/upper thoracic retraction, INTERCOSTAL retraction, XIPHOID retraction, NASAL FLARING and EXPIRATORY GRUNT — a HIGHER score is WORSE (≥7 = impending respiratory failure, 10 = severe).** The **DOWNES score (used in TERM babies) grades respiratory rate, cyanosis, air entry, grunting and retractions — ≤3 mild, 4–6 MODERATE (needs close monitoring/CPAP), ≥7 impending failure requiring ventilation.**
 
-**UNDERSTAND:** Both scores exist because **the neonate's compliant chest wall and weak diaphragm mean that increased work of breathing shows itself as PARADOXICAL and RECRUITMENT signs long before blood gases deteriorate.** GRUNTING is the most physiologically informative of them — it is the baby **exhaling against a partly closed glottis to generate its own PEEP**, i.e. a self-administered CPAP; a grunting baby is telling you it needs positive pressure.
+**UNDERSTAND:** Both scores exist because **the neonate’s compliant chest wall and weak diaphragm mean that increased work of breathing shows itself as PARADOXICAL and RECRUITMENT signs long before blood gases deteriorate.** GRUNTING is the most physiologically informative of them — it is the baby **exhaling against a partly closed glottis to generate its own PEEP**, i.e. a self-administered CPAP; a grunting baby is telling you it needs positive pressure.
 
 **MUST KNOW:**
 
-- ***THE SILVERMAN SCORE IS "REVERSED" COMPARED WITH APGAR*** — 0 is normal and 10 is terrible. This is the commonest source of error in the exam and at the bedside.
+- ***THE SILVERMAN SCORE IS “REVERSED” COMPARED WITH APGAR*** — 0 is normal and 10 is terrible. This is the commonest source of error in the exam and at the bedside.
 - **Serial scoring guides escalation: worsening scores mandate CPAP, surfactant or intubation rather than continued observation.**
 - **For maintenance fluids in children, ***ISOTONIC solutions with dextrose (e.g. DEXTROSE-NORMAL SALINE) are preferred***; hypotonic fluids (N/5 or 5% dextrose alone) caused a generation of hospital-acquired HYPONATRAEMIC ENCEPHALOPATHY. For RESUSCITATION of shock, use an isotonic crystalloid — RINGER LACTATE or normal saline — in 10–20 mL/kg boluses.**
 - **Dextrose is included in maintenance because ***CHILDREN HAVE SMALL GLYCOGEN STORES AND BECOME KETOTIC AND HYPOGLYCAEMIC QUICKLY***; it is NOT included in resuscitation boluses.
@@ -3738,9 +3738,9 @@
 - **The four phases of cardiac arrest: PRE-ARREST (the phase where paediatric lives are actually saved), NO-FLOW (untreated arrest before recognition), LOW-FLOW (during CPR) and POST-RESUSCITATION (targeted temperature management, avoiding hyperoxia, hypotension and hyperthermia).**
 - **SUPRAVENTRICULAR TACHYCARDIA is the commonest arrhythmia needing treatment in children (narrow complex, rate typically >220 in infants and >180 in children, with no beat-to-beat variability) — managed with vagal manoeuvres, then ADENOSINE, and SYNCHRONISED CARDIOVERSION if unstable.**
 - **Paediatric BLS sequence: check response → check breathing and pulse (≤10 s) → 5 rescue breaths → compressions at 100–120/min, one-third of chest depth, 15:2 (two rescuers) or 30:2 (single rescuer).**
-- **The reversible causes ("4 Hs and 4 Ts") skew differently in children: HYPOXIA above all, then hypovolaemia (dehydration, sepsis, trauma), hypo/hyperkalaemia and hypothermia; tension pneumothorax, tamponade, toxins and thrombosis.**
+- **The reversible causes (“4 Hs and 4 Ts”) skew differently in children: HYPOXIA above all, then hypovolaemia (dehydration, sepsis, trauma), hypo/hyperkalaemia and hypothermia; tension pneumothorax, tamponade, toxins and thrombosis.**
 
-**EXAM CONNECTION:** "True about the difference between adult and paediatric resuscitation" → **dysrhythmias are most often due to respiratory insufficiency in children**.
+**EXAM CONNECTION:** “True about the difference between adult and paediatric resuscitation” → **dysrhythmias are most often due to respiratory insufficiency in children**.
 
 **REMEMBER:** *Adults arrest from the heart and children from the lungs — so give them air.*
 
@@ -3755,18 +3755,18 @@
 
 **PEARL:** **Restless/irritable + drinks eagerly + sunken eyes + skin pinch returning slowly (but < 2 s) = SOME dehydration → Plan B: ORS plus zinc.** Not IV fluids, and not just home advice.
 
-**UNDERSTAND:** The IMNCI plans are graded by **how much circulating volume is lost**, judged from four bedside signs. **"Some" dehydration (3–9% loss)** means the child is still **conscious and able to drink**, so the gut can be used — oral rehydration is as effective as IV and far safer. IV fluid is reserved for **severe dehydration (> 9%)**, where the child is **lethargic and cannot drink**.
+**UNDERSTAND:** The IMNCI plans are graded by **how much circulating volume is lost**, judged from four bedside signs. **“Some” dehydration (3–9% loss)** means the child is still **conscious and able to drink**, so the gut can be used — oral rehydration is as effective as IV and far safer. IV fluid is reserved for **severe dehydration (> 9%)**, where the child is **lethargic and cannot drink**.
 
 **MUST KNOW:**
 
 - **Plan A (no dehydration)**: extra fluids at home, **zinc for 14 days**, continued feeding, and counselling on **danger signs**.
 - **Plan B (some dehydration)**: **ORS 75 mL/kg over 4 hours** at the facility, then reassess; plus **zinc**.
-- **Plan C (severe dehydration)**: **IV Ringer's lactate 100 mL/kg** — in infants < 12 months, **30 mL/kg over 1 hour then 70 mL/kg over 5 hours**; in older children, **30 mL/kg over 30 minutes then 70 mL/kg over 2½ hours**.
+- **Plan C (severe dehydration)**: **IV Ringer’s lactate 100 mL/kg** — in infants < 12 months, **30 mL/kg over 1 hour then 70 mL/kg over 5 hours**; in older children, **30 mL/kg over 30 minutes then 70 mL/kg over 2½ hours**.
 - **Zinc: 10 mg/day under 6 months, 20 mg/day over 6 months, for 14 days** — reduces duration, severity and recurrence.
 - **Low-osmolarity ORS (245 mOsm/L)**: sodium 75, glucose 75, potassium 20, citrate 10 mmol/L.
 - **In SEVERE ACUTE MALNUTRITION the rules change: use ReSoMal (low sodium, high potassium) 5 mL/kg every 30 minutes for the first 2 hours**, then 5–10 mL/kg in alternate hours; **avoid IV fluids unless in shock** (risk of heart failure), and **do not continue aggressive hydration once dehydration has resolved**. Hypoglycaemia in SAM: **10% glucose 50 mL orally if conscious; 10% glucose 5 mL/kg IV if unconscious** (never 50% dextrose).
 
-**EXAM CONNECTION:** Match the signs to the plan. The trap is over-treating "some" dehydration with IV fluids, or applying standard ORS rules to a severely malnourished child.
+**EXAM CONNECTION:** Match the signs to the plan. The trap is over-treating “some” dehydration with IV fluids, or applying standard ORS rules to a severely malnourished child.
 
 **REMEMBER:** *If the child can drink eagerly, use the mouth.*
 
@@ -3814,7 +3814,7 @@
 
 **MUST KNOW:**
 
-- ***THE X-RAY SIGN THAT DISTINGUISHES A BUTTON BATTERY FROM A COIN IS THE "DOUBLE RING"/HALO (a step-off rim) on the frontal view and a step at the edge laterally*** — mistaking one for the other is the classic fatal error.
+- ***THE X-RAY SIGN THAT DISTINGUISHES A BUTTON BATTERY FROM A COIN IS THE “DOUBLE RING”/HALO (a step-off rim) on the frontal view and a step at the edge laterally*** — mistaking one for the other is the classic fatal error.
 - **COIN ORIENTATION LOCALISES THE OBJECT: a coin in the OESOPHAGUS lies FLAT (en face, circular) on the ANTEROPOSTERIOR film and edge-on laterally, because the oesophagus is a wide flat transverse slit; a coin in the TRACHEA does the opposite (edge-on on AP, flat on lateral), because of the incomplete cartilage rings posteriorly.**
 - **The three physiological narrowings where objects lodge: CRICOPHARYNGEUS (commonest in children), the level of the aortic arch/left main bronchus, and the diaphragmatic hiatus.**
 - **Once past the pylorus, most blunt objects pass uneventfully; parents check stools, and repeat X-rays are done if the object has not passed in 1–2 weeks or symptoms develop. MULTIPLE MAGNETS ARE AN EXCEPTION AT ANY LEVEL — they attract across bowel loops and cause pressure necrosis, fistula and perforation, and require removal.**
@@ -3840,15 +3840,15 @@
 
 **MUST KNOW:**
 
-- **Normal grief:** preserved self-esteem, sadness in waves triggered by reminders, wishes to die "to be with" the deceased rather than active suicidal planning, illusions or fleeting hallucinations of the deceased **with intact reality testing**; usually improves over weeks to months.
+- **Normal grief:** preserved self-esteem, sadness in waves triggered by reminders, wishes to die “to be with” the deceased rather than active suicidal planning, illusions or fleeting hallucinations of the deceased **with intact reality testing**; usually improves over weeks to months.
 - **Major depression complicating grief:** **pervasive anhedonia, worthlessness and guilt unrelated to the loss, psychomotor retardation, active suicidal ideation, mood-congruent psychosis** → treat with **antidepressants, psychotherapy, or ECT** if severe or suicidal.
 - **Prolonged grief disorder** (DSM-5-TR): intense yearning/preoccupation with the deceased persisting **>12 months in adults (6 months in children)** with functional impairment.
-- **DSM-5 removed the "bereavement exclusion"** — a depressive episode may be diagnosed within 2 weeks of a loss.
+- **DSM-5 removed the “bereavement exclusion”** — a depressive episode may be diagnosed within 2 weeks of a loss.
 - Breaking bad news: **SPIKES** — Setting, Perception, Invitation, Knowledge, Emotions with empathy, Strategy/Summary.
 
 **EXAM CONNECTION:** Simple stage-matching, but read for the **suicidal ideation**, which both fixes the stage as depression and flags the need for active treatment.
 
-**REMEMBER:** *"DABDA" — Denial, Anger, Bargaining, Depression, Acceptance.*
+**REMEMBER:** *“DABDA” — Denial, Anger, Bargaining, Depression, Acceptance.*
 
 `Q10842`
 
@@ -3858,8 +3858,8 @@
 
 **PEARL:**
 
-- **Cockett's perforators** — **distal calf/ankle**, connecting the **posterior arch vein to the posterior tibial vein**.
-- **Boyd's perforator** — **proximal calf**, connecting the **great saphenous vein to the posterior tibial vein**.
+- **Cockett’s perforators** — **distal calf/ankle**, connecting the **posterior arch vein to the posterior tibial vein**.
+- **Boyd’s perforator** — **proximal calf**, connecting the **great saphenous vein to the posterior tibial vein**.
 
 **MUST KNOW:** Incompetence causes venous hypertension and varicose veins.
 
@@ -3893,7 +3893,7 @@
 
 **PEARL:** **28th September** — the death anniversary of **Louis Pasteur**.
 
-**REMEMBER:** *Rabies Day = Pasteur's death day, 28 September.*
+**REMEMBER:** *Rabies Day = Pasteur’s death day, 28 September.*
 
 ---
 
@@ -3907,4 +3907,4 @@
 
 [^2]: **WHO guideline on the prevention and management of wasting and nutritional oedema (acute malnutrition) in infants and children under 5 years (2023)** — 19 recommendations (12 new) covering, for the first time, moderate wasting and at-risk infants under 6 months alongside severe wasting. <https://iris.who.int/handle/10665/376075>
 
-[^3]: **Introduction of a single-dose HPV vaccine for 14-year-old girls into India's Universal Immunisation Programme (February 2026), the indigenous Td vaccine, and the U-WIN digital immunisation platform**, Ministry of Health and Family Welfare — the national schedule now differs from older textbook tables. <https://uwin.mohfw.gov.in/>
+[^3]: **Introduction of a single-dose HPV vaccine for 14-year-old girls into India’s Universal Immunisation Programme (February 2026), the indigenous Td vaccine, and the U-WIN digital immunisation platform**, Ministry of Health and Family Welfare — the national schedule now differs from older textbook tables. <https://uwin.mohfw.gov.in/>

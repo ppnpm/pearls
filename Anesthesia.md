@@ -31,17 +31,17 @@
 
 **MUST KNOW:**
 
-- **There is no "moderate" rung** — grade 3 is *severe*. That single wording point is the whole question.
-- Add "**E**" for **emergency** (e.g. **ASA 2E**) — emergency surgery independently raises risk.
+- **There is no “moderate” rung** — grade 3 is *severe*. That single wording point is the whole question.
+- Add “**E**” for **emergency** (e.g. **ASA 2E**) — emergency surgery independently raises risk.
 - **Worked examples:** well-controlled hypertension or diabetes, pregnancy, obesity (BMI 30–40), social smoker = **ASA 2**. Poorly controlled diabetes/hypertension, COPD, morbid obesity, **MI >3 months ago**, ESRD on dialysis = **ASA 3**. **MI within 3 months**, ongoing cardiac ischaemia, **severe valve dysfunction, EF <40%**, sepsis, DIC = **ASA 4**. Ruptured AAA, massive trauma, **GCS 6 with raised ICP** = **ASA 5**.
 - **ASA does not include age or the type of surgery** — a common misconception.
 - **Elective surgery is deferred for 6 months after an MI** (or at least 60 days); the risk of reinfarction falls sharply thereafter.
 
-**EXAM CONNECTION:** "ASA III best represents" → **severe systemic disease**. Also given as a clinical vignette (recent MI + EF 40% → **ASA 4**).
+**EXAM CONNECTION:** “ASA III best represents” → **severe systemic disease**. Also given as a clinical vignette (recent MI + EF 40% → **ASA 4**).
 
-**ALSO KNOW:** The classification grades **the patient, not the operation**, and it turns on **functional limitation** rather than on the diagnosis itself. Well-controlled hypertension is ASA II; hypertension with a previous stroke and exertional angina is ASA III; unstable angina is ASA IV. That is why "moderate systemic disease" is not a valid ASA category — the scale moves from **mild → severe → life-threatening**, skipping "moderate" entirely, and the exam exploits that gap. It **correlates strongly with perioperative morbidity and mortality**, is simple and reproducible, and is recorded for every anaesthetic — but it was **never designed to predict risk on its own** and takes no account of age or the surgical procedure. **Pregnancy is always at least ASA II**, even in a healthy woman. Other preoperative assessments worth pairing with it: **Mallampati grading and thyromental distance** for the airway; **METS (metabolic equivalents — ≥4 METs, e.g. climbing a flight of stairs, indicates adequate functional capacity)**; the **Revised Cardiac Risk Index**; **NPO/fasting guidelines — 2 hours clear fluids, 4 hours breast milk, 6 hours light meal, 8 hours fatty meal**.
+**ALSO KNOW:** The classification grades **the patient, not the operation**, and it turns on **functional limitation** rather than on the diagnosis itself. Well-controlled hypertension is ASA II; hypertension with a previous stroke and exertional angina is ASA III; unstable angina is ASA IV. That is why “moderate systemic disease” is not a valid ASA category — the scale moves from **mild → severe → life-threatening**, skipping “moderate” entirely, and the exam exploits that gap. It **correlates strongly with perioperative morbidity and mortality**, is simple and reproducible, and is recorded for every anaesthetic — but it was **never designed to predict risk on its own** and takes no account of age or the surgical procedure. **Pregnancy is always at least ASA II**, even in a healthy woman. Other preoperative assessments worth pairing with it: **Mallampati grading and thyromental distance** for the airway; **METS (metabolic equivalents — ≥4 METs, e.g. climbing a flight of stairs, indicates adequate functional capacity)**; the **Revised Cardiac Risk Index**; **NPO/fasting guidelines — 2 hours clear fluids, 4 hours breast milk, 6 hours light meal, 8 hours fatty meal**.
 
-**ALSO KNOW:** **ASA-PS with "E"** denotes an **emergency** — a situation where delay would significantly increase the threat to life or body part. **ASA VE** therefore means a **moribund patient (ASA V) undergoing emergency surgery**.
+**ALSO KNOW:** **ASA-PS with “E”** denotes an **emergency** — a situation where delay would significantly increase the threat to life or body part. **ASA VE** therefore means a **moribund patient (ASA V) undergoing emergency surgery**.
 
 **REMEMBER:** *2 mild, 3 severe, 4 life-threatening, 5 dying, 6 dead.*
 
@@ -61,13 +61,13 @@
 
 **MUST KNOW:**
 
-- **"Only the hard palate is visible" is Class IV, not III** — the standard trap.
-- Perform it correctly: patient **sitting, head neutral, mouth fully open, tongue maximally protruded, WITHOUT phonation** (saying "aah" falsely improves the grade).
+- **“Only the hard palate is visible” is Class IV, not III** — the standard trap.
+- Perform it correctly: patient **sitting, head neutral, mouth fully open, tongue maximally protruded, WITHOUT phonation** (saying “aah” falsely improves the grade).
 - **Mallampati is a POOR test alone** (sensitivity ~50%) — combine with **thyromental distance (<6.5 cm), mouth opening (<3 cm / 2 finger-breadths), neck extension, and the upper-lip-bite test**.
 - **Do not confuse with Cormack–Lehane**, which is the view at **laryngoscopy** (I full glottis, II posterior glottis/arytenoids, III epiglottis only, IV neither) — Mallampati is bedside, C–L is intraoperative.
 - **LEMON** assessment for difficult airway: **L**ook externally, **E**valuate 3-3-2, **M**allampati, **O**bstruction, **N**eck mobility.
 
-**EXAM CONNECTION:** Photograph of the open mouth → grade it; or "false statement about the modified Mallampati score".
+**EXAM CONNECTION:** Photograph of the open mouth → grade it; or “false statement about the modified Mallampati score”.
 
 **REMEMBER:** *Class III still shows the base of the uvula; Class IV shows only hard palate.*
 
@@ -103,7 +103,7 @@
 
 ### 4. Rapid Sequence Induction
 
-**PEARL: **For the "full stomach" patient:** preoxygenate with 100% O2 for 3 minutes, give the induction agent and muscle relaxant TOGETHER, NO bag-mask ventilation, and intubate with a cuffed tube** — minimising the interval between loss of consciousness and a secured airway.
+**PEARL: **For the “full stomach” patient:** preoxygenate with 100% O2 for 3 minutes, give the induction agent and muscle relaxant TOGETHER, NO bag-mask ventilation, and intubate with a cuffed tube** — minimising the interval between loss of consciousness and a secured airway.
 
 **UNDERSTAND:** Every element exists to prevent **aspiration**. Preoxygenation buys apnoeic time; avoiding bag-mask ventilation prevents gastric insufflation; giving the drugs together shortens the vulnerable window; the cuff seals the airway.
 
@@ -112,10 +112,10 @@
 - **Indications:** **pregnancy (from ~2nd trimester), intestinal obstruction, full stomach/trauma, poorly controlled GERD, morbid obesity, diabetic gastroparesis, emergency surgery**.
 - **RSI is NOT for cardiac arrest** — an arrested patient is already unconscious and areflexic and needs **no induction agent or relaxant**. This is the standard trap.
 - **Drugs:** **suxamethonium 1–1.5 mg/kg** (fastest onset and offset) or **rocuronium 1.2 mg/kg** (now equally acceptable, and **reversible with sugammadex**). Induction with **propofol, ketamine or etomidate** (etomidate/ketamine if haemodynamically unstable).
-- **Cricoid pressure (Sellick's manoeuvre)** is traditional but increasingly questioned — it can worsen the laryngoscopic view; release it if intubation is difficult.
+- **Cricoid pressure (Sellick’s manoeuvre)** is traditional but increasingly questioned — it can worsen the laryngoscopic view; release it if intubation is difficult.
 - **Preoxygenation** to an **end-tidal O2 >90%** (or 8 vital-capacity breaths if time is short); **head-up 20–30°** improves the safe apnoea time, particularly in obesity and pregnancy.
 
-**EXAM CONNECTION:** "Identify the INCORRECT statement about RSI" → "it is the method of choice in cardiac arrest".
+**EXAM CONNECTION:** “Identify the INCORRECT statement about RSI” → “it is the method of choice in cardiac arrest”.
 
 **REMEMBER:** *RSI = preoxygenate, drugs together, no bagging, cuffed tube — for the full stomach, not for the arrested heart.*
 
@@ -156,13 +156,13 @@
 
 **MUST KNOW:**
 
-- **Presentation:** biphasic or inspiratory **stridor**, dyspnoea on exertion, **recurrent "croup"** or failed extubation; hoarseness if the glottis is involved.
+- **Presentation:** biphasic or inspiratory **stridor**, dyspnoea on exertion, **recurrent “croup”** or failed extubation; hoarseness if the glottis is involved.
 - **Diagnosis: direct laryngoscopy/bronchoscopy** (the gold standard, and how the grade is assigned); CT for extent.
 - **Risk factors:** prolonged intubation, **oversized tube**, high cuff pressure, traumatic or repeated intubation, GERD, infection, and neonates.
 - **Treatment:** endoscopic **balloon dilatation** ± laser/steroid for low grades; **laryngotracheal reconstruction or cricotracheal resection** for grades III–IV; **tracheostomy** to secure the airway meanwhile.
 - Other named systems worth not confusing: **Radkowski** — juvenile nasopharyngeal angiofibroma; **AJCC/TNM** — malignancies; **Cormack–Lehane** — laryngoscopic view.
 
-**EXAM CONNECTION:** Endoscopic image of a narrowed subglottis after prolonged intubation → "staging system" → **Cotton–Myer**.
+**EXAM CONNECTION:** Endoscopic image of a narrowed subglottis after prolonged intubation → “staging system” → **Cotton–Myer**.
 
 **REMEMBER:** *Cotton–Myer for subglottic stenosis: 50, 70, 99, none.*
 
@@ -188,7 +188,7 @@
 - **LMA contraindications:** **full stomach/high aspiration risk (relative), poor lung compliance or high airway pressures (>20 cmH2O), and prolonged surgery in an unfavourable position** — the classic LMA is not a substitute for a cuffed tracheal tube.
 - The LMA has a defined place in the **difficult airway algorithm** as a **rescue device** when both mask ventilation and intubation fail — the step before a surgical airway.
 
-**EXAM CONNECTION:** Vignette-driven — "patient ate breakfast, for laparoscopic cholecystectomy" → **Supreme/ProSeal**; "anticipated difficult intubation" → **Fastrach**.
+**EXAM CONNECTION:** Vignette-driven — “patient ate breakfast, for laparoscopic cholecystectomy” → **Supreme/ProSeal**; “anticipated difficult intubation” → **Fastrach**.
 
 **ALSO KNOW:** **ASPIRATION RISK HAS A NEW CAUSE: GLP-1 RECEPTOR AGONISTS delay gastric emptying.** The **ASA consensus guidance (2023)** advises **holding WEEKLY injections for one week and DAILY doses on the day of the procedure** before elective surgery, treating an urgent case as a **FULL STOMACH** (and gastric ultrasound where available) — a supraglottic airway does not protect that airway. The same 2023 modular update to the ASA fasting guideline **permits CARBOHYDRATE-CONTAINING CLEAR LIQUIDS, with or without protein, up to 2 hours preoperatively.**[^1]
 
@@ -216,11 +216,11 @@
 
 - The **right main bronchus is wider, shorter and more vertical (~25° vs 45°)** — hence tubes, suction catheters and aspirated material all go right.
 - **Correct tube depth: ~21 cm at the incisors in women, ~23 cm in men** (tip 3–5 cm above the carina); confirm with **bilateral breath sounds, EtCO2, and chest X-ray**.
-- **Flexion of the neck ADVANCES the tube (toward the carina); extension WITHDRAWS it** — "the tube follows the nose". This is why an accidental endobronchial intubation can occur after repositioning a patient.
+- **Flexion of the neck ADVANCES the tube (toward the carina); extension WITHDRAWS it** — “the tube follows the nose”. This is why an accidental endobronchial intubation can occur after repositioning a patient.
 - **A sudden FALL in EtCO2 means something quite different** — oesophageal intubation, circuit disconnection, cardiac arrest, or **pulmonary embolism**.
 - Differential for a **sudden rise in airway pressure: ETT obstruction/kinking/biting, bronchospasm, endobronchial intubation, PNEUMOTHORAX, secretions, chest wall rigidity, or a stuck APL valve** — mnemonic **DOPES** (Displacement, Obstruction, Pneumothorax, Equipment, Stacking).
 
-**EXAM CONNECTION:** "Early indicator of accidental endobronchial intubation" → **rise in peak inspiratory pressure**.
+**EXAM CONNECTION:** “Early indicator of accidental endobronchial intubation” → **rise in peak inspiratory pressure**.
 
 **ALSO KNOW:** When the endotracheal tube enters a **mainstem bronchus (usually the RIGHT)**, only one lung is ventilated — the reduced volume available causes a **sudden rise in peak inspiratory pressure**. The **right main bronchus is wider, shorter and more vertical**, so a tube advanced too far naturally goes right — leaving the left lung to collapse. Signs: **unilateral chest rise, absent air entry on the left, falling SpO₂, high PIP**. Confirm by **auscultation and tube depth (~21 cm in women, 23 cm in men at the incisors)**; the fix is to **withdraw the tube**, not to increase pressure. Other causes of a sudden PIP rise: **bronchospasm, kinked/blocked tube, pneumothorax, secretions, light anaesthesia/chest wall rigidity**. *High PIP + one-sided chest = pull the tube back.*
 
@@ -244,7 +244,7 @@
 - Other useful predictors: **thyromental distance <6.5 cm**, **mouth opening <3 cm**, **sternomental distance <12.5 cm**, **inter-incisor gap <2 finger-breadths**, **upper-lip-bite test**, short thick neck, **limited atlanto-occipital extension** (as in ankylosing spondylitis and rheumatoid arthritis).
 - **No single test is adequate** — combine them.
 
-**EXAM CONNECTION:** "In assessment of the airway, which CANNOT be used?" → **BURP**.
+**EXAM CONNECTION:** “In assessment of the airway, which CANNOT be used?” → **BURP**.
 
 **REMEMBER:** *Mallampati, Cormack–Lehane and Wilson assess. BURP fixes.*
 
@@ -265,7 +265,7 @@
 
 **MUST KNOW:**
 
-- **Signs of base-of-skull fracture:** **raccoon (panda) eyes, Battle's sign (mastoid bruising), CSF rhinorrhoea or otorrhoea, haemotympanum, subconjunctival haemorrhage with no posterior limit**. Any of these forbids the nasal route — **including for the nasogastric tube (use the orogastric route)**.
+- **Signs of base-of-skull fracture:** **raccoon (panda) eyes, Battle’s sign (mastoid bruising), CSF rhinorrhoea or otorrhoea, haemotympanum, subconjunctival haemorrhage with no posterior limit**. Any of these forbids the nasal route — **including for the nasogastric tube (use the orogastric route)**.
 - **Also avoid nasal intubation in:** coagulopathy, nasal polyps, suspected basal skull fracture, and severe facial fractures.
 - **Trauma airway rule: always assume a CERVICAL SPINE INJURY** — use **manual in-line stabilisation**, and remove the front of the collar for laryngoscopy.
 - **Tracheostomy is now rarely the first step** — with fibreoptic and videolaryngoscopy, it is reserved for **failed intubation** or when the airway is destroyed. A **cricothyroidotomy** is the emergency surgical airway (faster and safer than tracheostomy in a crisis; **avoid in children <12** — use needle cricothyroidotomy).
@@ -283,7 +283,7 @@
 
 **PEARL:** **Armoured (flexometallic/reinforced) tube** — spiral wire in the wall **prevents kinking** → used for **head and neck surgery and the PRONE position**.
 
-**UNDERSTAND:** Each specialised tube solves one mechanical problem: kinking (armoured), being in the surgeon's way (RAE), one-lung ventilation (double-lumen), or catching fire (laser tube).
+**UNDERSTAND:** Each specialised tube solves one mechanical problem: kinking (armoured), being in the surgeon’s way (RAE), one-lung ventilation (double-lumen), or catching fire (laser tube).
 
 **MUST KNOW:**
 
@@ -293,9 +293,9 @@
 - **Microlaryngeal tube** — small diameter, adult length, for laryngeal surgery.
 - **Armoured tubes cannot be cut to length**, and they can be **occluded permanently if a patient bites them** (the wire deforms and does not spring back) — use a bite block.
 
-**EXAM CONNECTION:** Photograph of a tube with a visible spiral → "specifically designed for" → **head and neck / prone surgery**.
+**EXAM CONNECTION:** Photograph of a tube with a visible spiral → “specifically designed for” → **head and neck / prone surgery**.
 
-**REMEMBER:** *Spiral = won't kink = head, neck and prone.*
+**REMEMBER:** *Spiral = won’t kink = head, neck and prone.*
 
 **IMAGES:**
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/e427c2ec5e5815509d8b38ab8c8d8f6d.webp)
@@ -306,19 +306,19 @@
 
 ### 12. Face Mask — The C–E Grip
 
-**PEARL:** Thumb and index finger form the **"C"** on the mask body; the **3rd and 4th digits sit on the BODY of the mandible**; the **5th digit sits on the ANGLE of the mandible** to deliver a jaw thrust.
+**PEARL:** Thumb and index finger form the **“C”** on the mask body; the **3rd and 4th digits sit on the BODY of the mandible**; the **5th digit sits on the ANGLE of the mandible** to deliver a jaw thrust.
 
 **UNDERSTAND:** The C provides **downward seal**; the E provides **upward jaw thrust**. The two forces are opposite and must be balanced — you are not pressing the mask onto the face so much as **lifting the face into the mask**.
 
 **MUST KNOW:**
 
-- **The fingers must rest on BONE.** Pressure on the **submental soft tissue pushes the tongue back** against the posterior pharyngeal wall and **obstructs the airway** — the commonest beginner's error.
+- **The fingers must rest on BONE.** Pressure on the **submental soft tissue pushes the tongue back** against the posterior pharyngeal wall and **obstructs the airway** — the commonest beginner’s error.
 - If one hand fails, use the **two-handed (V–E) technique** with an assistant squeezing the bag — significantly more effective.
-- **Difficult mask ventilation — "MOANS":** **M**ask seal (beard), **O**besity/**O**bstruction, **A**ge >55, **N**o teeth, **S**tiff lungs. (Edentulous patients ventilate better with **dentures left in**.)
+- **Difficult mask ventilation — “MOANS”:** **M**ask seal (beard), **O**besity/**O**bstruction, **A**ge >55, **N**o teeth, **S**tiff lungs. (Edentulous patients ventilate better with **dentures left in**.)
 - **Adjuncts:** **oropharyngeal (Guedel) airway** — size from the **corner of the mouth to the angle of the mandible**; avoid in an awake patient (gagging, laryngospasm). **Nasopharyngeal airway** — better tolerated when awake, but **contraindicated in base-of-skull fracture**.
-- **Optimal position = "sniffing the morning air"** — lower cervical **flexion** with atlanto-occipital **extension**, head raised 5–10 cm; in obesity use a **ramped position** aligning the ear with the sternal notch.
+- **Optimal position = “sniffing the morning air”** — lower cervical **flexion** with atlanto-occipital **extension**, head raised 5–10 cm; in obesity use a **ramped position** aligning the ear with the sternal notch.
 
-**EXAM CONNECTION:** "Where is the fifth digit placed?" → **angle of the mandible**.
+**EXAM CONNECTION:** “Where is the fifth digit placed?” → **angle of the mandible**.
 
 **REMEMBER:** *C seals down, E lifts up — and every finger stays on bone.*
 
@@ -340,11 +340,11 @@
 
 - Insert **lubricated, bevel toward the nasal septum, perpendicular to the face** — not aimed upward. Size to the **distance from nostril to tragus**.
 - **Ideal in:** trismus, limited mouth opening, macroglossia, strong gag reflex, seizures, angioedema.
-- **Absolute contraindication: basilar skull fracture** (raccoon eyes, Battle's sign, CSF rhinorrhoea) — risk of intracranial placement. Also avoid in coagulopathy, pregnancy (engorged mucosa), and hereditary haemorrhagic telangiectasia.
+- **Absolute contraindication: basilar skull fracture** (raccoon eyes, Battle’s sign, CSF rhinorrhoea) — risk of intracranial placement. Also avoid in coagulopathy, pregnancy (engorged mucosa), and hereditary haemorrhagic telangiectasia.
 - Commonest complication is **epistaxis**; it can still provoke **laryngospasm** if it reaches the cords.
 - **Oropharyngeal (Guedel) airway** is sized **incisors to angle of mandible**; only for the **unconscious** patient.
 
-**EXAM CONNECTION:** Image of a soft flanged tube → "true statement" → **can be used in conscious patients**. Every wrong option is a property of the *oral* airway (teeth damage) or a false safety claim (facial trauma).
+**EXAM CONNECTION:** Image of a soft flanged tube → “true statement” → **can be used in conscious patients**. Every wrong option is a property of the *oral* airway (teeth damage) or a false safety claim (facial trauma).
 
 **REMEMBER:** *The nose route dodges the gag; the mouth route provokes it.*
 
@@ -370,7 +370,7 @@
 - **Curare cleft** — a notch in the phase III plateau — means **spontaneous respiratory effort** against controlled ventilation (inadequate paralysis/anaesthesia).
 - Other waveform patterns: **shark-fin/upsloping phase III = bronchospasm or COPD**; elevated baseline = **rebreathing** (exhausted absorbent or stuck valve).
 
-**EXAM CONNECTION:** Asked twice over — "surest/best sign of correct placement" → **capnography**; and as a capnogram image where a **cleft in the plateau** → **spontaneous respiratory effort**.
+**EXAM CONNECTION:** Asked twice over — “surest/best sign of correct placement” → **capnography**; and as a capnogram image where a **cleft in the plateau** → **spontaneous respiratory effort**.
 
 **REMEMBER:** *No waveform for three breaths, no trachea.*
 
@@ -396,9 +396,9 @@
 - **Second generation** (**ProSeal, Supreme, i-gel**): add a **gastric drainage port**, higher seal pressure, and integrated **bite block** — better aspiration protection.
 - **Fastrach** is classed separately as the **intubating** LMA — rigid handle + epiglottic elevator.
 - LMA is **contraindicated when aspiration risk is high** (full stomach, pregnancy beyond first trimester, intestinal obstruction) — it does not protect the airway like a cuffed tube.
-- Its place in the **difficult airway algorithm**: "cannot intubate, can ventilate" → supraglottic device; "cannot intubate, cannot oxygenate" → **front-of-neck access (cricothyroidotomy)**.
+- Its place in the **difficult airway algorithm**: “cannot intubate, can ventilate” → supraglottic device; “cannot intubate, cannot oxygenate” → **front-of-neck access (cricothyroidotomy)**.
 
-**EXAM CONNECTION:** Image-based: device with a metal handle and a tube through it → advantage = **facilitates endotracheal intubation**. The distractor "port for orogastric tube" belongs to **ProSeal/Supreme**, not Fastrach.
+**EXAM CONNECTION:** Image-based: device with a metal handle and a tube through it → advantage = **facilitates endotracheal intubation**. The distractor “port for orogastric tube” belongs to **ProSeal/Supreme**, not Fastrach.
 
 **REMEMBER:** *The one with a handle is the one you intubate through.*
 
@@ -417,7 +417,7 @@
 
 **PEARL:** The induction agent of choice when **haemodynamic stability** matters — but it causes **ADRENOCORTICAL SUPPRESSION** by inhibiting **11β-hydroxylase**, even after a single dose.
 
-**UNDERSTAND:** 11β-hydroxylase catalyses the final step of cortisol synthesis. Etomidate's imidazole ring binds the enzyme's haem iron — the same chemistry that makes azole antifungals inhibit steroid synthesis. Suppression lasts **6–24 hours** after one induction dose.
+**UNDERSTAND:** 11β-hydroxylase catalyses the final step of cortisol synthesis. Etomidate’s imidazole ring binds the enzyme’s haem iron — the same chemistry that makes azole antifungals inhibit steroid synthesis. Suppression lasts **6–24 hours** after one induction dose.
 
 **MUST KNOW:**
 
@@ -425,9 +425,9 @@
 - **The trade-offs:** **highest incidence of nausea and vomiting (30–40%)** of the IV agents, **myoclonus**, **pain on injection**, and **no analgesia**.
 - **Etomidate INFUSION is contraindicated in the ICU** (proven excess mortality in sepsis); a single dose remains debated but is widely used.
 - **Compare the induction agents:** **propofol** — smooth, antiemetic, but **hypotension and pain on injection**; **ketamine** — analgesic, **maintains BP (sympathomimetic)**, **bronchodilator**, but causes **emergence delirium** and raises secretions; **thiopentone** — rapid, **anticonvulsant**, but **avoid in porphyria** and it is a myocardial depressant.
-- **Ketamine and etomidate are the two "shock-friendly" inducers.**
+- **Ketamine and etomidate are the two “shock-friendly” inducers.**
 
-**EXAM CONNECTION:** "Induction agent causing adrenal cortex suppression" → **etomidate**.
+**EXAM CONNECTION:** “Induction agent causing adrenal cortex suppression” → **etomidate**.
 
 **REMEMBER:** *Etomidate protects the heart and punishes the adrenal — 11β-hydroxylase.*
 
@@ -482,7 +482,7 @@
 **MUST KNOW:**
 
 - The induction agents of choice in asthma are **ketamine** (bronchodilator) and **propofol** (blunts airway reflexes).
-- Thiopental's other problems: **no analgesia** (antanalgesic), **cardiovascular depression**, tissue necrosis on extravasation, **arterial injection → severe vasospasm and gangrene**, and it **precipitates acute intermittent porphyria**.
+- Thiopental’s other problems: **no analgesia** (antanalgesic), **cardiovascular depression**, tissue necrosis on extravasation, **arterial injection → severe vasospasm and gangrene**, and it **precipitates acute intermittent porphyria**.
 - It remains excellent for **rapid-sequence induction** and for **cerebral protection** (lowers CMRO₂ and ICP).
 
 **REMEMBER:** *Thiopental releases histamine — never in the asthmatic, never in porphyria.*
@@ -501,14 +501,14 @@
 
 **MUST KNOW:**
 
-- **MAC values:** **N2O 104% · xenon 71% · sevoflurane 2.1 · enflurane 1.7 · isoflurane 1.15 · halothane 0.75 · methoxyflurane 0.16.** **Lower MAC = MORE potent.** N2O's MAC >100% is why it **can never be a sole anaesthetic**.
+- **MAC values:** **N2O 104% · xenon 71% · sevoflurane 2.1 · enflurane 1.7 · isoflurane 1.15 · halothane 0.75 · methoxyflurane 0.16.** **Lower MAC = MORE potent.** N2O’s MAC >100% is why it **can never be a sole anaesthetic**.
 - **MAC ↑ (need more agent):** **infants (peaks at ~6 months)**, hyperthermia, **chronic alcohol use**, **acute** amphetamine/cocaine/ephedrine, hypernatraemia, red hair.
 - **MAC ↓ (need less):** **elderly, pregnancy, hypothermia, hypotension, hypoxia, acute alcohol intoxication**, opioids, benzodiazepines, α2-agonists (**clonidine, dexmedetomidine**), lithium.
 - **MAC is NOT affected by: gender, thyroid function, duration of anaesthesia, or the type of surgery.**
 - Useful multiples: **MAC-awake ≈ 0.3–0.4 MAC** (eye opening), **MAC-BAR ≈ 1.5 MAC** (blocks the autonomic response), **MAC95 ≈ 1.3 MAC** (immobility in 95%). **MACs of different agents are ADDITIVE** — 0.5 MAC N2O + 0.5 MAC sevoflurane = 1 MAC.
 - **Blood:gas partition coefficient** (not MAC) governs **speed of induction and recovery** — **low solubility = fast** (desflurane 0.42 < N2O 0.47 < sevoflurane 0.65 < isoflurane 1.4 < halothane 2.4).
 
-**EXAM CONNECTION:** "Best indicator of potency of an inhalational agent" → **MAC**. And "which factor does NOT affect MAC" → gender or thyroid disorder.
+**EXAM CONNECTION:** “Best indicator of potency of an inhalational agent” → **MAC**. And “which factor does NOT affect MAC” → gender or thyroid disorder.
 
 **REMEMBER:** *MAC measures potency (low MAC = potent); blood:gas coefficient measures speed.*
 
@@ -530,7 +530,7 @@
 - **Desflurane** → least metabolised and fastest offset, but it is **pungent (airway irritation, coughing, laryngospasm — never for inhalational induction)**, causes **sympathetic stimulation with rapid increases in concentration**, and needs a **heated vaporiser** (boiling point 23°C).
 - **Enflurane** → **epileptogenic (spike-wave EEG)** — avoid in epilepsy.
 
-**EXAM CONNECTION:** "Which is least metabolised?" → desflurane. Or metabolism percentage matching.
+**EXAM CONNECTION:** “Which is least metabolised?” → desflurane. Or metabolism percentage matching.
 
 **REMEMBER:** *Metabolism = toxicity. Methoxyflurane kidneys, halothane liver, desflurane neither.*
 
@@ -548,11 +548,11 @@
 
 - **Uterine relaxation makes it the agent for external/internal cephalic version, retained placenta and uterine inversion** — and **contraindicated during labour and delivery**, where it causes **postpartum haemorrhage**.
 - All volatiles are bronchodilators; halothane is simply the strongest — hence its classical role in **status asthmaticus** (though sevoflurane is now generally used, being safer).
-- **Halothane's respiratory downsides:** it **depresses mucociliary clearance** (postoperative atelectasis and hypoxia), **blunts the hypoxic drive even at 0.1 MAC**, and raises the apnoeic threshold.
+- **Halothane’s respiratory downsides:** it **depresses mucociliary clearance** (postoperative atelectasis and hypoxia), **blunts the hypoxic drive even at 0.1 MAC**, and raises the apnoeic threshold.
 - **Halothane sensitises the myocardium to catecholamines** — so avoid adrenaline-containing infiltration, and watch for **bradycardia and junctional rhythm** (it is the most arrhythmogenic volatile).
 - **All volatiles increase cerebral blood flow and ICP** (uncoupling flow from metabolism) — halothane most of all; avoid in raised ICP.
 
-**EXAM CONNECTION:** Asked separately as "most potent bronchodilator" and "best uterine relaxant" — both answers are halothane.
+**EXAM CONNECTION:** Asked separately as “most potent bronchodilator” and “best uterine relaxant” — both answers are halothane.
 
 **REMEMBER:** *Halothane relaxes every smooth muscle it meets — good for the airway, disastrous in labour.*
 
@@ -573,7 +573,7 @@
 - **Chronic exposure → megaloblastic anaemia and subacute combined degeneration** by irreversibly oxidising the cobalt in **vitamin B12**, inactivating **methionine synthase**. Avoid repeated exposure and in B12 deficiency.
 - **N2O has the LOWEST blood:gas solubility of the older agents but the highest MAC (104%)** — fast, but weak.
 
-**EXAM CONNECTION:** "Diffusion hypoxia is seen during" → **recovery/reversal of anaesthesia**.
+**EXAM CONNECTION:** “Diffusion hypoxia is seen during” → **recovery/reversal of anaesthesia**.
 
 **REMEMBER:** *N2O rushes in at induction (second gas effect) and rushes out at the end (diffusion hypoxia) — so finish on 100% oxygen.*
 
@@ -595,7 +595,7 @@
 - **Diffusion hypoxia (Fink effect)** occurs **during recovery from nitrous oxide** — the huge volume of insoluble N₂O floods back into the alveoli and dilutes alveolar oxygen. Prevent with **100% O₂ for 5–10 minutes at the end**.
 - Same physics, opposite direction, gives the **second-gas effect** and **concentration effect** at induction.
 
-**EXAM CONNECTION:** Ranking questions appear in both flavours — "arrange by potency" (use MAC) and "fastest induction" (use blood–gas). The single most-asked trap: choosing lowest MAC gives you **highest potency, not fastest induction**.
+**EXAM CONNECTION:** Ranking questions appear in both flavours — “arrange by potency” (use MAC) and “fastest induction” (use blood–gas). The single most-asked trap: choosing lowest MAC gives you **highest potency, not fastest induction**.
 
 **REMEMBER:** *Solubility sets the speed, MAC sets the strength.*
 
@@ -611,7 +611,7 @@
 
 **PEARL:** **Desflurane must never be used for inhalational induction** — it is intensely **pungent** and causes **laryngospasm, coughing and breath-holding in up to 50%**. **Sevoflurane is the induction agent of choice in children.**
 
-**UNDERSTAND:** Desflurane's low boiling point and high vapour pressure come with strong **airway irritancy**; it stimulates airway receptors and provokes a sympathetic surge. Sevoflurane is **sweet-smelling and non-irritant**, which is why it wins the paediatric mask induction despite being less soluble than desflurane.
+**UNDERSTAND:** Desflurane’s low boiling point and high vapour pressure come with strong **airway irritancy**; it stimulates airway receptors and provokes a sympathetic surge. Sevoflurane is **sweet-smelling and non-irritant**, which is why it wins the paediatric mask induction despite being less soluble than desflurane.
 
 **MUST KNOW:**
 
@@ -621,7 +621,7 @@
 - **Halothane** can be used for paediatric induction but is **hepatotoxic** and more arrhythmogenic (sensitises the myocardium to catecholamines) — sevoflurane replaced it.
 - **N₂O** is not an induction agent alone (MAC 104) but **speeds induction of others** via the second-gas effect.
 
-**EXAM CONNECTION:** "Not used for induction in paediatric patients" → **desflurane**. Halothane is the tempting distractor because of its toxicity, but it *can* be used; desflurane cannot.
+**EXAM CONNECTION:** “Not used for induction in paediatric patients” → **desflurane**. Halothane is the tempting distractor because of its toxicity, but it *can* be used; desflurane cannot.
 
 **REMEMBER:** *Sevo goes down sweet, desflurane fights back.*
 
@@ -647,7 +647,7 @@
 - **Double-burst stimulation** makes fade easier to detect by hand than TOF.
 - **Phase II block** develops with **suxamethonium >5 mg/kg** (or infusion) — the block starts to behave like a non-depolarising one, with fade.
 
-**EXAM CONNECTION:** "Frequency of tetanic stimulation" → **50 Hz**. Also asked as sustained vs fade to distinguish block types.
+**EXAM CONNECTION:** “Frequency of tetanic stimulation” → **50 Hz**. Also asked as sustained vs fade to distinguish block types.
 
 **REMEMBER:** *Fade means non-depolarising (or phase II); sustained means a true depolarising block.*
 
@@ -669,7 +669,7 @@
 - **Sugammadex does not work on benzylisoquinolinium agents** (atracurium, cisatracurium, mivacurium).
 - **Sugammadex binds progestogens** — warn women on **oral contraceptives** to use additional contraception for 7 days.
 
-**EXAM CONNECTION:** "Reversal agent for vecuronium" → **neostigmine** (sugammadex if offered). Dantrolene and baclofen are the distractors.
+**EXAM CONNECTION:** “Reversal agent for vecuronium” → **neostigmine** (sugammadex if offered). Dantrolene and baclofen are the distractors.
 
 **REMEMBER:** *Neostigmine floods the junction; sugammadex kidnaps the drug — and only for roc and vec.*
 
@@ -691,7 +691,7 @@
 - **Atracurium releases HISTAMINE** → hypotension, tachycardia, flushing, bronchospasm. **Cisatracurium does NOT** — hence cisatracurium is preferred in the unstable or asthmatic patient.
 - Contrast: **rocuronium, vecuronium and pancuronium are hepatically eliminated** (pancuronium also renally, and it is **vagolytic → tachycardia**).
 
-**EXAM CONNECTION:** Vignette of liver or renal disease → "which relaxant is safe?" → **atracurium**.
+**EXAM CONNECTION:** Vignette of liver or renal disease → “which relaxant is safe?” → **atracurium**.
 
 **REMEMBER:** *Hofmann elimination needs no organ — only body temperature and pH.*
 
@@ -709,7 +709,7 @@
 
 - **MANAGEMENT IS SUPPORTIVE: continue mechanical ventilation WITH SEDATION until spontaneous recovery.** Do **not** give neostigmine (unpredictable, may deepen the block); FFP is **not** recommended (infection risk) though it would supply the enzyme.
 - **Dibucaine number** identifies the atypical gene: **normal ~80 (80% inhibition), heterozygote ~40–60, homozygote ~20**. A **LOW dibucaine number = ABNORMAL enzyme** (it measures quality, not quantity).
-- **MIVACURIUM** is the other relaxant hydrolysed by plasma cholinesterase — the same patients block for hours. Mivacurium's rapid hydrolysis is exactly why it suits **day-care surgery** (duration 10–20 min).
+- **MIVACURIUM** is the other relaxant hydrolysed by plasma cholinesterase — the same patients block for hours. Mivacurium’s rapid hydrolysis is exactly why it suits **day-care surgery** (duration 10–20 min).
 - **Acquired low pseudocholinesterase:** liver disease, pregnancy, malnutrition, burns, **organophosphate poisoning**, plasmapheresis, and drugs (neostigmine, metoclopramide, OCPs).
 - **Other suxamethonium hazards:** **hyperkalaemia** (fatal in burns after 24–48 h, spinal injury, prolonged immobility, muscular dystrophy — via extrajunctional receptor upregulation), **bradycardia** (especially with a second dose, and in children), **raised intraocular, intracranial and intragastric pressure**, **myalgia**, and **triggering malignant hyperthermia**.
 
@@ -723,7 +723,7 @@
 
 ### 30. Sugammadex
 
-**PEARL:** **Sugammadex reverses rocuronium and vecuronium instantly by encapsulating them 1:1** — it works at **any depth of block**, including the "can't intubate" emergency where neostigmine would be useless.
+**PEARL:** **Sugammadex reverses rocuronium and vecuronium instantly by encapsulating them 1:1** — it works at **any depth of block**, including the “can’t intubate” emergency where neostigmine would be useless.
 
 **UNDERSTAND:** Neostigmine works **indirectly** — it raises synaptic acetylcholine to out-compete the relaxant, so it **cannot** work when receptor occupancy is near total (deep block). Sugammadex is a **modified γ-cyclodextrin** that physically traps the steroidal relaxant molecule in its lipophilic core and removes it from the plasma, creating a concentration gradient that pulls drug off the receptor. No ceiling, no competition.
 
@@ -735,7 +735,7 @@
 - Complex is **renally excreted** — caution in severe renal failure. Notable adverse effects: **anaphylaxis**, bradycardia, and **binding of hormonal contraceptives** (advise 7 days of alternative contraception).
 - Neostigmine still has a role for **shallow non-depolarising block** and phase II succinylcholine block.
 
-**EXAM CONNECTION:** "Rocuronium given, failed intubation, immediate reversal" → **sugammadex**, not neostigmine. The examiner is testing that you know neostigmine cannot reverse a deep block.
+**EXAM CONNECTION:** “Rocuronium given, failed intubation, immediate reversal” → **sugammadex**, not neostigmine. The examiner is testing that you know neostigmine cannot reverse a deep block.
 
 **REMEMBER:** *Neostigmine competes; sugammadex kidnaps.*
 
@@ -773,7 +773,7 @@
 - **Total spinal** is the feared complication: apnoea, unconsciousness, profound hypotension — **supportive: intubate, ventilate, fluids and vasopressors**.
 - **Post-dural-puncture headache**: postural, fronto-occipital, worse on sitting up; use **fine, pencil-point (Whitacre/Sprotte) needles**; treat with an **epidural blood patch** if severe.
 
-**EXAM CONNECTION:** "Which would NOT be part of the treatment?" → **head-up position**.
+**EXAM CONNECTION:** “Which would NOT be part of the treatment?” → **head-up position**.
 
 **REMEMBER:** *Fill, squeeze and TILT THE HEAD DOWN — never sit them up.*
 
@@ -781,7 +781,7 @@
 
 ---
 
-### 33. Bier's Block (IVRA)
+### 33. Bier’s Block (IVRA)
 
 **PEARL:** Local anaesthetic injected **intravenously into a tourniquet-occluded limb**, for short (**<90 min**) procedures on the arm or leg.
 
@@ -795,7 +795,7 @@
 - **LAST (local anaesthetic systemic toxicity)** progresses: perioral tingling, metallic taste, tinnitus, visual disturbance → **agitation, seizures** → **CNS depression, arrhythmias, cardiac arrest**. **Treatment: stop injection, secure airway, benzodiazepine for seizures, and 20% INTRALIPID (lipid emulsion) rescue.**
 - **Maximum safe doses:** lignocaine **3 mg/kg** (**7 mg/kg with adrenaline**), bupivacaine **2 mg/kg** (3 with adrenaline).
 
-**EXAM CONNECTION:** Photograph of an exsanguinated limb with a tourniquet → identify **Bier's block**.
+**EXAM CONNECTION:** Photograph of an exsanguinated limb with a tourniquet → identify **Bier’s block**.
 
 **REMEMBER:** *IV anaesthesia behind a cuff — never bupivacaine, never release early.*
 
@@ -823,7 +823,7 @@
 
 **EXAM CONNECTION:** The question asks which needle would have **prevented** the complication — the answer is the **pencil-point/dura-splitting** one.
 
-**REMEMBER:** *Split the dural fibres, don't cut them — pencil points leak less.*
+**REMEMBER:** *Split the dural fibres, don’t cut them — pencil points leak less.*
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ca40227eb560417699f97d0d88a8b4c6x1280x1717.JPEG)
@@ -844,10 +844,10 @@
 - Technique: needle enters the lower lid at the **junction of the middle and lateral one-third of the inferior orbital rim**, aimed into the muscle cone.
 - Other complications: globe perforation, **oculocardiac reflex** (bradycardia — treat by stopping the stimulus, then atropine), optic nerve atrophy, intravascular injection, **brainstem anaesthesia with respiratory arrest** (spread along the optic nerve sheath).
 - Contraindications: **bleeding diathesis/anticoagulation**, **high myopia with axial length > 26 mm** (thin sclera → perforation risk), **open globe injury**, uncooperative patient.
-- **Peribulbar block** avoids the cone and is safer; **sub-Tenon's** is safer still and now preferred; topical anaesthesia suffices for most phacoemulsification.
+- **Peribulbar block** avoids the cone and is safer; **sub-Tenon’s** is safer still and now preferred; topical anaesthesia suffices for most phacoemulsification.
 - A tense, proptosed eye with a rock-hard globe after the block = haemorrhage → **cancel surgery, lateral canthotomy if the optic nerve is threatened**.
 
-**EXAM CONNECTION:** Image of a needle entering the inferolateral orbit + "most common complication" → **retrobulbar haemorrhage**. The most *feared* complication is a different answer — brainstem anaesthesia or globe perforation — so read whether the stem says "common" or "dangerous."
+**EXAM CONNECTION:** Image of a needle entering the inferolateral orbit + “most common complication” → **retrobulbar haemorrhage**. The most *feared* complication is a different answer — brainstem anaesthesia or globe perforation — so read whether the stem says “common” or “dangerous.”
 
 **REMEMBER:** *A blind needle in a closed cone bleeds before it does anything else.*
 
@@ -869,10 +869,10 @@
 - **Absolute:** patient refusal, **infection at the injection site**, **raised ICP**, **coagulopathy/bleeding diathesis**, **severe hypovolaemia**, allergy to the drug, **severe aortic stenosis and severe mitral stenosis**.
 - **Relative:** sepsis, uncooperative patient, **pre-existing neurological deficit**, demyelinating lesions, **HOCM/LV outflow obstruction**, severe spinal deformity, prior spine surgery.
 - **Fixed cardiac output lesions** are the key cardiac point: sympathetic block drops SVR, and a stenotic valve cannot raise stroke volume to compensate → catastrophic hypotension.
-- Document the deficit **before** the block — this is the actual exam point behind the "relative" classification.
-- Level of insertion: **below L2 in adults** (cord ends at the **lower border of L1**, L3 in children); **Tuffier's line** (intercristal) marks **L4/L4–5**.
+- Document the deficit **before** the block — this is the actual exam point behind the “relative” classification.
+- Level of insertion: **below L2 in adults** (cord ends at the **lower border of L1**, L3 in children); **Tuffier’s line** (intercristal) marks **L4/L4–5**.
 
-**EXAM CONNECTION:** "Not an absolute contraindication" → **myelopathy / pre-existing neurological deficit**. The other three options are always drawn from the absolute list.
+**EXAM CONNECTION:** “Not an absolute contraindication” → **myelopathy / pre-existing neurological deficit**. The other three options are always drawn from the absolute list.
 
 **REMEMBER:** *Refusal, infection, pressure, and bleeding are absolute; old deficits just need documenting.*
 
@@ -912,9 +912,9 @@
 
 **UNDERSTAND:** The vertebral column grows faster than the cord, so the conus is dragged upward relative to the vertebrae.
 
-**MUST KNOW: **Practical consequence:** lumbar puncture and spinal anaesthesia must be performed LOWER in children — at L4–L5 or L5–S1** (use the intercristal/Tuffier's line, which crosses at L4). The **dural sac ends at S3 in infants** versus **S2 in adults** — another reason for caution with caudal blocks.
+**MUST KNOW: **Practical consequence:** lumbar puncture and spinal anaesthesia must be performed LOWER in children — at L4–L5 or L5–S1** (use the intercristal/Tuffier’s line, which crosses at L4). The **dural sac ends at S3 in infants** versus **S2 in adults** — another reason for caution with caudal blocks.
 
-**REMEMBER:** *Child's cord ends at L3 — so go one space lower for the needle.*
+**REMEMBER:** *Child’s cord ends at L3 — so go one space lower for the needle.*
 
 ---
 
@@ -926,17 +926,17 @@
 
 **PEARL:** **Eutectic mixture of 2.5% LIDOCAINE + 2.5% PRILOCAINE.** Apply under an **occlusive dressing 45–60 minutes** before the procedure; it anaesthetises to a depth of ~**5 mm** for 1–2 hours.
 
-**UNDERSTAND:** "**Eutectic**" means the mixture melts at a **lower temperature than either component alone** — so two crystalline solids become an oil at room temperature, allowing a high concentration of active drug to be delivered across intact skin. **Eutectic means fixed proportions, not necessarily "equal"** — a favourite distinction.
+**UNDERSTAND:** “**Eutectic**” means the mixture melts at a **lower temperature than either component alone** — so two crystalline solids become an oil at room temperature, allowing a high concentration of active drug to be delivered across intact skin. **Eutectic means fixed proportions, not necessarily “equal”** — a favourite distinction.
 
 **MUST KNOW:**
 
 - **PRILOCAINE causes METHAEMOGLOBINAEMIA** (its metabolite **o-toluidine** oxidises Fe²⁺ to Fe³⁺). Hence **avoid in infants <1 month**, in G6PD deficiency, and with other oxidising drugs (dapsone, sulfonamides, nitrates).
-- **Methaemoglobinaemia:** **"chocolate-brown" blood**, cyanosis **unresponsive to oxygen**, **SpO2 stuck around 85%** with a **normal PaO2** (a "saturation gap") → treat with **METHYLENE BLUE 1–2 mg/kg** (and ascorbic acid, or exchange transfusion, if G6PD deficient).
+- **Methaemoglobinaemia:** **“chocolate-brown” blood**, cyanosis **unresponsive to oxygen**, **SpO2 stuck around 85%** with a **normal PaO2** (a “saturation gap”) → treat with **METHYLENE BLUE 1–2 mg/kg** (and ascorbic acid, or exchange transfusion, if G6PD deficient).
 - **Do not apply to mucous membranes, broken skin, or the eye** — absorption is rapid and unpredictable.
 - **Uses:** venepuncture and IV cannulation in children, **split-skin graft harvesting**, circumcision, laser therapy, lithotripsy.
 - EMLA causes local **vasoconstriction and blanching**, which can make venous cannulation harder in some children.
 
-**EXAM CONNECTION:** "True about EMLA" → **methaemoglobinaemia is a side effect**. The distractors misstate the composition (ropivacaine) or call it an "equal" mixture.
+**EXAM CONNECTION:** “True about EMLA” → **methaemoglobinaemia is a side effect**. The distractors misstate the composition (ropivacaine) or call it an “equal” mixture.
 
 **REMEMBER:** *Lidocaine + prilocaine, 45 minutes, 5 mm deep — and prilocaine turns the blood brown.*
 
@@ -983,7 +983,7 @@
 - Other complications, by mechanism: **intravascular injection into the IVC/aorta** (systemic toxicity, seizures); **retroperitoneal haematoma**; **pneumothorax and chylothorax** (needle too cephalad, damage to retroperitoneal lymphatics); **paraplegia** — the feared complication, from spasm or injury of the **artery of Adamkiewicz**; and puncture of kidney, pancreas or bowel.
 - **Splanchnic nerve block** is the higher (T11–T12) alternative; a **superior hypogastric plexus block** covers pelvic visceral pain.
 
-**EXAM CONNECTION:** "Most common complication" → **hypotension** (or diarrhoea). "Most feared/serious complication" → **paraplegia**. Read which one is asked.
+**EXAM CONNECTION:** “Most common complication” → **hypotension** (or diarrhoea). “Most feared/serious complication” → **paraplegia**. Read which one is asked.
 
 **REMEMBER:** *Block the splanchnic sympathetics and the blood pools in the belly — fill the tank first.*
 
@@ -1003,7 +1003,7 @@
 
 **MUST KNOW:**
 
-- It is also called the **"pop-off" or expiratory valve**; a **stuck/closed APL valve is a classic cause of sudden high airway pressure and barotrauma** — one of the first things to check when the reservoir bag becomes tense.
+- It is also called the **“pop-off” or expiratory valve**; a **stuck/closed APL valve is a classic cause of sudden high airway pressure and barotrauma** — one of the first things to check when the reservoir bag becomes tense.
 - **Mapleson circuits:** **Mapleson A (Magill)** is most efficient for **spontaneous** ventilation (FGF = minute volume); **Mapleson D / Bain** is most efficient for **CONTROLLED** ventilation; **Mapleson F (Jackson–Rees)** is used in **children <20 kg**. Mnemonic for efficiency in spontaneous ventilation: **A > DFE > CB**; for controlled ventilation: **DFE > BC > A**.
 - The **Bain circuit** is a coaxial Mapleson D — fresh gas runs inside the corrugated expiratory limb, warming and humidifying it; check for **inner tube disconnection (Pethick test)**.
 - **Circle systems** with soda lime allow low-flow anaesthesia and are the modern standard.
@@ -1034,7 +1034,7 @@
 - **Cylinder safety:** the **PIN INDEX system** prevents wrong connections (**O2 = 2,5 · N2O = 3,5 · air = 1,5 · CO2 = 1,6**); the **Diameter Index Safety System (DISS)** does the same for pipelines; cylinders are colour-coded and labelled.
 - **N2O cylinders contain liquid** — so the **pressure gauge does NOT indicate the remaining contents** (it stays ~745 psi until nearly empty); **weigh the cylinder** instead. **Oxygen cylinders contain gas**, so the gauge is accurate.
 
-**EXAM CONNECTION:** "Gas from which cylinder can be used with oxygen in acute severe asthma?" → **brown (helium)**.
+**EXAM CONNECTION:** “Gas from which cylinder can be used with oxygen in acute severe asthma?” → **brown (helium)**.
 
 **REMEMBER:** *Brown = helium = less dense = less work of breathing.*
 
@@ -1056,7 +1056,7 @@
 - **Baralyme** (barium hydroxide lime) is obsolete — it caused absorber fires with sevoflurane.
 - Exhaustion is signalled by an **indicator colour change** (ethyl violet: white → purple) and by a **rising inspired CO₂ baseline** on the capnogram.
 
-**EXAM CONNECTION:** Presented as a multi-statement "which are true" grid. The numbers most often falsified: **23 L (not 15)**, **Ca(OH)₂ 80% (not NaOH)**, **water 15% (not 5%)**.
+**EXAM CONNECTION:** Presented as a multi-statement “which are true” grid. The numbers most often falsified: **23 L (not 15)**, **Ca(OH)₂ 80% (not NaOH)**, **water 15% (not 5%)**.
 
 **REMEMBER:** *Calcium does the work, sodium does the catalysis, silica does the holding together.*
 
@@ -1076,7 +1076,7 @@
 - **Oxygen failure safety (Ritchie whistle / fail-safe valve)** cuts N₂O when O₂ pressure falls; the **link-25 proportioning system** mechanically limits N₂O to a **maximum 75% (minimum 25% O₂)**.
 - **Colour coding (Indian/ISO):** O₂ black with white shoulder, N₂O blue, air black-and-white shoulder, CO₂ grey, **entonox blue with blue-white shoulder**, **heliox brown with white shoulder**.
 - The final common safety net is the **oxygen analyser in the inspiratory limb** — the only monitor that measures what the patient actually receives.
-- **Murphy's eye** = the side hole near the ETT tip, an alternative gas path if the bevel is occluded by secretions or against the tracheal wall. A tube with it is a **Murphy tube**; without it, a **Magill tube**.
+- **Murphy’s eye** = the side hole near the ETT tip, an alternative gas path if the bevel is occluded by secretions or against the tracheal wall. A tube with it is a **Murphy tube**; without it, a **Magill tube**.
 
 **EXAM CONNECTION:** Straight matching questions. The single most-confused pair is **DISS (pipeline) vs PISS (cylinder)** — read which word appears in the stem.
 
@@ -1092,16 +1092,16 @@
 
 ### 47. Mapleson Circuits
 
-**PEARL:** **Mapleson A (Magill's) is the most efficient for SPONTANEOUS ventilation; Mapleson D (Bain) for CONTROLLED ventilation.**
+**PEARL:** **Mapleson A (Magill’s) is the most efficient for SPONTANEOUS ventilation; Mapleson D (Bain) for CONTROLLED ventilation.**
 
 **UNDERSTAND:** Efficiency means how little fresh gas is needed to avoid rebreathing, and that depends on **where the expiratory valve and fresh gas inlet sit relative to the patient**. In Mapleson A the valve is at the patient end, so during a spontaneous expiration the **dead-space gas is preserved and the alveolar gas is vented** — fresh gas flow need only equal minute ventilation. Reverse the pressure dynamics with controlled ventilation and A becomes the worst, D the best.
 
 **MUST KNOW:**
 
-- **Spontaneous efficiency: A > DFE > CB** — *"**A** **D**og **C**an **B**ite"*.
-- **Controlled efficiency: DFE > BC > A** — *"**D**ead **B**abies **C**an't **A**ssist"*.
+- **Spontaneous efficiency: A > DFE > CB** — *“**A** **D**og **C**an **B**ite”*.
+- **Controlled efficiency: DFE > BC > A** — *“**D**ead **B**abies **C**an’t **A**ssist”*.
 - Fresh gas flow for **Mapleson A in spontaneous ventilation = 1× minute ventilation (~80 mL/kg/min)**; for others, **2–3× MV**.
-- Named circuits: **A = Magill**, **C = Water's to-and-fro**, **D = Bain (coaxial)**, **E = Ayre's T-piece** (no valve, no bag — for neonates, minimal resistance and dead space), **F = Jackson-Rees modification** (E + open-tailed bag, allows controlled ventilation and lets you watch respiration).
+- Named circuits: **A = Magill**, **C = Water’s to-and-fro**, **D = Bain (coaxial)**, **E = Ayre’s T-piece** (no valve, no bag — for neonates, minimal resistance and dead space), **F = Jackson-Rees modification** (E + open-tailed bag, allows controlled ventilation and lets you watch respiration).
 - The **Bain circuit** is coaxial — fresh gas runs inside the expiratory limb, warming it; a **kinked or disconnected inner tube** causes massive rebreathing (**Pethick test** checks it).
 
 **EXAM CONNECTION:** Always the same axis: which circuit for **spontaneous** (A) vs **controlled** (D). Paediatric variants (E and F) are asked separately.
@@ -1130,7 +1130,7 @@
 - **The main mechanism of intraoperative heat loss is RADIATION**, and the biggest single drop is the **redistribution of heat from core to periphery in the first hour** after induction (vasodilation).
 - Prevent with **forced-air warming, warmed IV fluids, and raised theatre temperature** — especially in children (high surface-area-to-mass ratio).
 
-**EXAM CONNECTION:** Masseter spasm + tachycardia after suxamethonium (i.e. MH) → "best site for core temperature" → **oesophagus**.
+**EXAM CONNECTION:** Masseter spasm + tachycardia after suxamethonium (i.e. MH) → “best site for core temperature” → **oesophagus**.
 
 **REMEMBER:** *Oesophagus for speed, pulmonary artery for accuracy — rectum lags and reads high.*
 
@@ -1138,7 +1138,7 @@
 
 ---
 
-### 49. Ringer's Lactate — Composition
+### 49. Ringer’s Lactate — Composition
 
 **PEARL:** **Na 130 · Cl 109 · K 4 · Ca 3 · Lactate 28 mEq/L**, osmolality **~273 mOsm/L** — i.e. **slightly HYPOTONIC** relative to plasma.
 
@@ -1146,7 +1146,7 @@
 
 **MUST KNOW:**
 
-- **RL's CALCIUM makes it incompatible with blood transfusion in the same line** — it chelates the citrate anticoagulant and causes clotting. Use **normal saline** with blood.
+- **RL’s CALCIUM makes it incompatible with blood transfusion in the same line** — it chelates the citrate anticoagulant and causes clotting. Use **normal saline** with blood.
 - **Avoid RL in:** significant **hyperkalaemia** (it contains K⁺), **severe liver failure** (cannot convert lactate), and **cerebral oedema/head injury** (hypotonic → worsens oedema; use **0.9% saline**).
 - **Normal saline (0.9%): Na 154, Cl 154, osmolality 308** — **supraphysiological chloride** → hyperchloraemic acidosis and renal vasoconstriction with large volumes.
 - **Balanced crystalloids (RL, Plasmalyte) are now preferred** for most resuscitation; normal saline is preferred for **hypochloraemic alkalosis (pyloric stenosis), hyponatraemia, hyperkalaemia and head injury**.
@@ -1174,7 +1174,7 @@
 - **Complications:** arrhythmias (especially on crossing the tricuspid valve), **complete heart block if there is pre-existing LBBB**, **pulmonary artery RUPTURE** (rare but often fatal — never over-inflate or leave the balloon wedged), knotting, infection.
 - **Routine PA catheter use has NOT been shown to improve outcomes** and has largely been replaced by **echocardiography and less invasive cardiac output monitors** — a point examiners increasingly test.
 
-**EXAM CONNECTION:** "Entry into the pulmonary artery is denoted by" → **increase in diastolic pressure**.
+**EXAM CONNECTION:** “Entry into the pulmonary artery is denoted by” → **increase in diastolic pressure**.
 
 **REMEMBER:** *Same systolic, suddenly higher diastolic — you are in the artery.*
 
@@ -1197,7 +1197,7 @@
 - **TRALI** — the leading cause of transfusion-related death; non-cardiogenic pulmonary oedema within 6 hours, classically from **donor antibodies in plasma-rich components (FFP, platelets)**; mitigated by using **male-predominant plasma donors**.
 - **TACO** (circulatory overload) is its main differential — TRALI has **normal JVP/CVP and no response to diuretics**; TACO has raised filling pressures and responds to diuretics.
 
-**EXAM CONNECTION:** "Blood component with the maximum risk of bacterial contamination" → **platelet concentrate**.
+**EXAM CONNECTION:** “Blood component with the maximum risk of bacterial contamination” → **platelet concentrate**.
 
 **REMEMBER:** *Platelets live at room temperature — so do the bacteria.*
 
@@ -1222,7 +1222,7 @@
 - **Pulse oximetry is unreliable** in **carbon monoxide poisoning (reads falsely HIGH)**, methaemoglobinaemia (drifts to ~85%), poor perfusion/shock, nail polish and severe anaemia — in CO poisoning use a **co-oximeter/ABG**.
 - **Oxygen targets:** most acutely ill adults **94–98%**; those at risk of hypercapnic failure (COPD) **88–92%**.
 
-**EXAM CONNECTION:** "Ventilatory support is required below SpO2 90% because..." → tissues become vulnerable to hypoxia (PaO2 <60).
+**EXAM CONNECTION:** “Ventilatory support is required below SpO2 90% because…” → tissues become vulnerable to hypoxia (PaO2 <60).
 
 **REMEMBER:** *90% saturation = 60 mmHg — below that you are off the cliff.*
 
@@ -1234,7 +1234,7 @@
 
 **PEARL:** **Tidal volume 6 mL/kg PREDICTED body weight** (the only strategy proven to reduce mortality), **plateau pressure <30 cmH2O**, **FiO2 ≤0.6**, target **SpO2 88–95% / PaO2 55–80 mmHg**.
 
-**UNDERSTAND:** ARDS produces a **"baby lung"** — only a small fraction of alveoli remain aerated, so a "normal" tidal volume over-distends that residual lung and causes **volutrauma and biotrauma**. Lung-protective ventilation deliberately accepts a **higher CO2 ("permissive hypercapnia")** in exchange for less ventilator-induced injury.
+**UNDERSTAND:** ARDS produces a **“baby lung”** — only a small fraction of alveoli remain aerated, so a “normal” tidal volume over-distends that residual lung and causes **volutrauma and biotrauma**. Lung-protective ventilation deliberately accepts a **higher CO2 (“permissive hypercapnia”)** in exchange for less ventilator-induced injury.
 
 **MUST KNOW:**
 
@@ -1243,7 +1243,7 @@
 - **Proven to reduce mortality:** low tidal volume ventilation, **PRONE positioning** (≥16 h/day, in severe ARDS), **conservative fluid strategy**, and neuromuscular blockade in selected severe cases. **Steroids** help in some settings; **routine high PEEP, nitric oxide and surfactant do not improve survival**.
 - **Excess oxygen is itself injurious** — absorption atelectasis and free-radical injury. If the PaO2 is 110 and SpO2 100% on FiO2 90%, **come DOWN on FiO2 first**.
 
-**EXAM CONNECTION:** ABG in a ventilated ARDS patient with a supra-normal PaO2 → "next step" → **reduce FiO2** (not increase PEEP or tidal volume).
+**EXAM CONNECTION:** ABG in a ventilated ARDS patient with a supra-normal PaO2 → “next step” → **reduce FiO2** (not increase PEEP or tidal volume).
 
 **REMEMBER:** *6 mL/kg predicted, plateau under 30, FiO2 under 0.6, saturation 88–95 — and prone them if severe.*
 
@@ -1259,12 +1259,12 @@
 
 **MUST KNOW:**
 
-- **SIMV** avoids this: mandatory breaths are synchronised, but **breaths above the set rate are spontaneous** (patient's own smaller tidal volume) — hence less risk of alkalosis, though more work of breathing.
+- **SIMV** avoids this: mandatory breaths are synchronised, but **breaths above the set rate are spontaneous** (patient’s own smaller tidal volume) — hence less risk of alkalosis, though more work of breathing.
 - Other ACMV hazards: **breath stacking / auto-PEEP (dynamic hyperinflation)** in obstructive disease, which causes **hypotension and barotrauma** — treat by **disconnecting the circuit**, reducing rate, and prolonging expiratory time.
 - **Modes to keep straight:** **ACMV** (volume or pressure targeted, every breath fully supported) · **SIMV** (mandatory + spontaneous) · **PSV** (all breaths spontaneous, pressure supported — the standard **weaning** mode) · **CPAP/NIV** (spontaneous, no mandatory breaths).
 - **Respiratory alkalosis** shifts the dissociation curve **left**, lowers ionised calcium (**tetany, perioral tingling**) and reduces **cerebral blood flow** — deliberately exploited (briefly) to lower ICP.
 
-**EXAM CONNECTION:** "Which mode is associated with respiratory alkalosis?" → **ACMV**.
+**EXAM CONNECTION:** “Which mode is associated with respiratory alkalosis?” → **ACMV**.
 
 **REMEMBER:** *Assist-control gives a full breath every time the patient asks — ask often and you blow off CO2.*
 
@@ -1281,12 +1281,12 @@
 **MUST KNOW:**
 
 - **Total CBF ≈ 750 mL/min = 15–20% of cardiac output**, for an organ that is 2% of body weight. The brain also takes **20% of total oxygen consumption**.
-- **Autoregulation maintains constant CBF between MAP ~50–150 mmHg** — the curve is **shifted RIGHT in chronic hypertension**, so a "normal" blood pressure may be ischaemic for them. Autoregulation is **abolished** in trauma, tumour and around an infarct.
+- **Autoregulation maintains constant CBF between MAP ~50–150 mmHg** — the curve is **shifted RIGHT in chronic hypertension**, so a “normal” blood pressure may be ischaemic for them. Autoregulation is **abolished** in trauma, tumour and around an infarct.
 - **CBF changes ~1–2 mL/100 g/min per mmHg change in PaCO2** — the most powerful physiological lever. **Hyperventilation to PaCO2 30–35 acutely lowers ICP**, but only briefly, and **PaCO2 <25 causes ischaemia**. **Hypoxia (PaO2 <50) causes a steep rise in CBF.**
 - **CPP = MAP − ICP**; keep **CPP >60 mmHg** in head injury. Raised ICP management: head-up 30°, neutral neck, sedation, **mannitol/hypertonic saline**, normocapnia, CSF drainage, and decompressive craniectomy.
-- **Volatile anaesthetics increase CBF/ICP** (uncoupling); **IV agents (propofol, thiopentone) reduce CBF, CMRO2 and ICP** — hence TIVA is preferred in neuroanaesthesia. **Ketamine's** traditional contraindication in raised ICP is now questioned.
+- **Volatile anaesthetics increase CBF/ICP** (uncoupling); **IV agents (propofol, thiopentone) reduce CBF, CMRO2 and ICP** — hence TIVA is preferred in neuroanaesthesia. **Ketamine’s** traditional contraindication in raised ICP is now questioned.
 
-**EXAM CONNECTION:** "Total cerebral metabolic failure occurs at" → **<10 mL/100 g/min**.
+**EXAM CONNECTION:** “Total cerebral metabolic failure occurs at” → **<10 mL/100 g/min**.
 
 **REMEMBER:** *20 stops the EEG, 10 kills the cell — everything in between is penumbra worth saving.*
 
@@ -1305,10 +1305,10 @@
 - **Intubation halves the anatomical dead space** (~150 → ~75 mL) — clinically significant in small children.
 - **Alveolar dead space** = alveoli **ventilated but not perfused** — ~0 mL lying down, increases on standing (West zone 1), and rises sharply in **pulmonary embolism, hypotension/low cardiac output, PEEP and haemorrhage**.
 - **Physiological dead space = anatomical + alveolar**; measured by the **Bohr equation** (and clinically as the **arterial-to-end-tidal CO2 gradient**, which widens in PE).
-- **Fowler's method (single-breath nitrogen washout)** measures **anatomical** dead space.
+- **Fowler’s method (single-breath nitrogen washout)** measures **anatomical** dead space.
 - **A sudden fall in EtCO2 with an unchanged PaCO2** — i.e. a widened gradient — is a hallmark of a large **pulmonary embolism** or a fall in cardiac output.
 
-**EXAM CONNECTION:** "Anatomical dead space is increased by all EXCEPT" → **bronchoconstrictors**.
+**EXAM CONNECTION:** “Anatomical dead space is increased by all EXCEPT” → **bronchoconstrictors**.
 
 **REMEMBER:** *Wider and longer airways = more dead space. Intubation shortens the pipe and halves it.*
 
@@ -1320,7 +1320,7 @@
 
 **PEARL:** **Non-rebreathing mask with reservoir: up to ~90% FiO₂** (the highest of the simple devices). **Venturi mask: 24–60%, and it is the only FIXED-performance device** — the one to use in **COPD with hypercapnic risk**.
 
-**UNDERSTAND:** FiO₂ depends on how much **room air the patient entrains** around the oxygen flow. A patient's **peak inspiratory flow (30–60 L/min)** far exceeds the 6–15 L/min an oxygen source delivers, so the deficit is made up with air — and the more the patient breathes, the more it is diluted. A **reservoir bag** stores oxygen between breaths so inspiration is met from a pure-oxygen store; a **Venturi valve** entrains air at a fixed ratio by the **Bernoulli/jet-entrainment principle**, so the delivered concentration is **independent of the patient's breathing pattern**. That is the entire difference between variable- and fixed-performance devices.
+**UNDERSTAND:** FiO₂ depends on how much **room air the patient entrains** around the oxygen flow. A patient’s **peak inspiratory flow (30–60 L/min)** far exceeds the 6–15 L/min an oxygen source delivers, so the deficit is made up with air — and the more the patient breathes, the more it is diluted. A **reservoir bag** stores oxygen between breaths so inspiration is met from a pure-oxygen store; a **Venturi valve** entrains air at a fixed ratio by the **Bernoulli/jet-entrainment principle**, so the delivered concentration is **independent of the patient’s breathing pattern**. That is the entire difference between variable- and fixed-performance devices.
 
 **MUST KNOW:**
 
@@ -1341,7 +1341,7 @@
 
 **EXAM CONNECTION:** Device image → FiO₂ number. Recognise the **reservoir bag with valves (non-rebreathing, ~90%)** and the **coloured Venturi valve (fixed FiO₂, the COPD device)**.
 
-**ALSO KNOW:** "High-flow" does **not** mean high FiO2. It means the device delivers gas **faster than the patient's peak inspiratory flow (~30–40 L/min)**, so the patient entrains **no room air** and the FiO2 is **exactly what you set** — regardless of how the patient breathes. Low-flow devices supply less than the patient's demand, so the delivered FiO2 varies with tidal volume and respiratory rate. **Nasal cannula formula: FiO2 ≈ 21% + (4 × flow in L/min)** — so 3 L/min ≈ **33%** (commonly rounded to 30%). The **Venturi mask works on the Bernoulli principle**, entraining a fixed ratio of air through a colour-coded jet — **blue 24%, white 28%, yellow 35%, red 40%, green 60%**. **The Venturi is the device of choice in COPD** with CO2 retention, where the FiO2 must be **controlled and titrated** (target SpO2 **88–92%**) to avoid abolishing hypoxic drive and causing worsening V/Q mismatch and hypercapnia. **Non-rebreather** = reservoir bag + one-way valves; used for **trauma, shock and CARBON MONOXIDE poisoning** (where you want the maximum FiO2 to shorten the COHb half-life). *Non-rebreather for the highest FiO2; Venturi for the most PRECISE FiO2.*
+**ALSO KNOW:** “High-flow” does **not** mean high FiO2. It means the device delivers gas **faster than the patient’s peak inspiratory flow (~30–40 L/min)**, so the patient entrains **no room air** and the FiO2 is **exactly what you set** — regardless of how the patient breathes. Low-flow devices supply less than the patient’s demand, so the delivered FiO2 varies with tidal volume and respiratory rate. **Nasal cannula formula: FiO2 ≈ 21% + (4 × flow in L/min)** — so 3 L/min ≈ **33%** (commonly rounded to 30%). The **Venturi mask works on the Bernoulli principle**, entraining a fixed ratio of air through a colour-coded jet — **blue 24%, white 28%, yellow 35%, red 40%, green 60%**. **The Venturi is the device of choice in COPD** with CO2 retention, where the FiO2 must be **controlled and titrated** (target SpO2 **88–92%**) to avoid abolishing hypoxic drive and causing worsening V/Q mismatch and hypercapnia. **Non-rebreather** = reservoir bag + one-way valves; used for **trauma, shock and CARBON MONOXIDE poisoning** (where you want the maximum FiO2 to shorten the COHb half-life). *Non-rebreather for the highest FiO2; Venturi for the most PRECISE FiO2.*
 
 **REMEMBER:** *Reservoir for the highest concentration; Venturi for the most reliable one.*
 
@@ -1366,7 +1366,7 @@
 - **PEEP** from 5 up to 10 cmH₂O; in **blunt chest trauma raise it cautiously** — high PEEP impairs venous return and ventricular filling in a patient who may be hypovolaemic, and can convert a simple pneumothorax into a tension pneumothorax.
 - IBW (Devine): **males 50 + 2.3×(inches over 5 ft)**, **females 45.5 + 2.3×(inches over 5 ft)**.
 
-**EXAM CONNECTION:** "Which initial setting is NOT correct?" → the tidal volume option, and the trap word is **"actual body weight"** or the number **12 mL/kg**. Both are wrong for the same reason.
+**EXAM CONNECTION:** “Which initial setting is NOT correct?” → the tidal volume option, and the trap word is **“actual body weight”** or the number **12 mL/kg**. Both are wrong for the same reason.
 
 **REMEMBER:** *Ventilate the lungs the patient was born with, not the body they carry.*
 
@@ -1405,7 +1405,7 @@
 
 **PEARL:** **1 mg IV every 3–5 minutes** — as 1 mL of 1:1000, but preferably **10 mL of 1:10 000** centrally. Alternative routes: **intraosseous**, and **intratracheal at 2–2.5× the dose**.
 
-**UNDERSTAND:** In arrest, adrenaline's benefit is its **α1 vasoconstriction**, which raises **aortic diastolic pressure** and therefore **coronary and cerebral perfusion pressure** during compressions. The β effects are largely unwanted (increased myocardial oxygen demand and arrhythmias).
+**UNDERSTAND:** In arrest, adrenaline’s benefit is its **α1 vasoconstriction**, which raises **aortic diastolic pressure** and therefore **coronary and cerebral perfusion pressure** during compressions. The β effects are largely unwanted (increased myocardial oxygen demand and arrhythmias).
 
 **MUST KNOW:**
 
@@ -1415,7 +1415,7 @@
 - **Timing:** in **non-shockable rhythms (asystole/PEA)**, give adrenaline **as soon as possible**; in **shockable rhythms (VF/pVT)**, give it **after the 3rd shock**, along with **amiodarone 300 mg**.
 - **Concentration refresher: 1:1000 = 1 mg/mL · 1:10 000 = 0.1 mg/mL.** **Anaphylaxis dose is 0.5 mg IM of 1:1000** (0.5 mL) into the **anterolateral thigh** — not IV, and not the arrest dose.
 
-**EXAM CONNECTION:** "True about adrenaline in CPR" → **can be given intratracheally**. The distractors are intracardiac superiority and the coarse→fine reversal.
+**EXAM CONNECTION:** “True about adrenaline in CPR” → **can be given intratracheally**. The distractors are intracardiac superiority and the coarse→fine reversal.
 
 **REMEMBER:** *1 mg every 3–5 min; fine becomes coarse; intracardiac is history.*
 
@@ -1438,7 +1438,7 @@
 - The **commonest arrest rhythms in children are bradycardia, asystole and PEA** — start CPR in an infant if the heart rate is **<60/min with poor perfusion**, even though a pulse is present.
 - **The best paediatric outcome comes from recognising the sick child early** — the reason for the paediatric early warning triangle (appearance, work of breathing, circulation to skin).
 
-**EXAM CONNECTION:** "Most common cause of cardiac arrest in children" → **asphyxia**.
+**EXAM CONNECTION:** “Most common cause of cardiac arrest in children” → **asphyxia**.
 
 **REMEMBER:** *Children arrest from lack of air, not lack of rhythm — 15:2 when there are two of you.*
 
@@ -1486,7 +1486,7 @@
 - **Associations:** **Central core disease** (strong), King–Denborough syndrome, and multiminicore myopathy. **Confirm with the caffeine–halothane contracture test** or genetic testing.
 - **Core temperature monitoring — the distal oesophagus** is the practical site; **pulmonary artery** is the gold standard.
 
-**EXAM CONNECTION:** "Which additional agent should be avoided in a patient with a history of MH?" → **isoflurane** (any volatile).
+**EXAM CONNECTION:** “Which additional agent should be avoided in a patient with a history of MH?” → **isoflurane** (any volatile).
 
 **REMEMBER:** *Volatiles and sux trigger it; rising EtCO2 warns you; dantrolene saves them.*
 
@@ -1498,7 +1498,7 @@
 
 **PEARL:** **DROWSINESS** is the commonest persisting adverse effect, followed by **sore throat, myalgia, headache, dizziness and PONV**.
 
-**UNDERSTAND:** Day-care anaesthesia is judged by "**street fitness**" — the patient must be safely dischargeable within hours. Residual sedation is therefore the rate-limiting symptom, which is why short-acting agents (**propofol, desflurane/sevoflurane, remifentanil, mivacurium**) dominate day-case practice.
+**UNDERSTAND:** Day-care anaesthesia is judged by “**street fitness**” — the patient must be safely dischargeable within hours. Residual sedation is therefore the rate-limiting symptom, which is why short-acting agents (**propofol, desflurane/sevoflurane, remifentanil, mivacurium**) dominate day-case practice.
 
 **MUST KNOW:**
 
@@ -1508,7 +1508,7 @@
 - **Sore throat** relates to intubation, cuff pressure and LMA use — commoner with tracheal tubes.
 - **Discharge criteria:** stable vitals, orientated, ambulating, pain and nausea controlled, tolerating oral fluids, and a **responsible adult escort** with written instructions and no driving for 24 hours.
 
-**EXAM CONNECTION:** "Most common adverse effect after day-care anaesthesia" → **drowsiness** (PONV is the trap — it is the commonest cause of *admission*).
+**EXAM CONNECTION:** “Most common adverse effect after day-care anaesthesia” → **drowsiness** (PONV is the trap — it is the commonest cause of *admission*).
 
 **REMEMBER:** *Drowsiness is commonest; PONV is what stops them going home.*
 
@@ -1530,7 +1530,7 @@
 - **Lithotomy position** carries the highest risk of lower-limb nerve injury and of **compartment syndrome** if prolonged (>4 hours) — keep legs as low as feasible and reposition periodically.
 - Perioperative nerve injury is a leading source of **anaesthetic litigation**.
 
-**EXAM CONNECTION:** "Forearm supinated to avoid injury to which nerve?" → **ulnar**.
+**EXAM CONNECTION:** “Forearm supinated to avoid injury to which nerve?” → **ulnar**.
 
 **REMEMBER:** *Palm up protects the ulnar nerve.*
 
@@ -1540,17 +1540,17 @@
 
 ### 66. Anaesthesia Eponyms and History
 
-**PEARL:** **John Lundy** coined "**balanced anaesthesia**" — the use of several agents and techniques to provide the separate components: **analgesia, amnesia (unconsciousness), muscle relaxation, and abolition of autonomic reflexes**.
+**PEARL:** **John Lundy** coined “**balanced anaesthesia**” — the use of several agents and techniques to provide the separate components: **analgesia, amnesia (unconsciousness), muscle relaxation, and abolition of autonomic reflexes**.
 
 **UNDERSTAND:** The concept was a turning point: instead of pushing one agent to a dangerous depth to achieve everything, you **combine small doses of several drugs**, each targeting one component, minimising the toxicity of each. Modern anaesthesia is entirely built on this idea.
 
 **MUST KNOW:**
 
-- **Oliver Wendell Holmes** coined the word "**anaesthesia**"; **William Morton** gave the first public demonstration of **ether** (1846, "Ether Day", Massachusetts General); **Crawford Long** used ether earlier but published later; **James Young Simpson** introduced **chloroform** (1847); **John Snow** administered chloroform to Queen Victoria ("**anaesthesia à la reine**") and is also the father of epidemiology; **Karl Koller** — cocaine as the first local anaesthetic; **August Bier** — spinal anaesthesia and IVRA; **Edmund Boyle** — the anaesthetic machine; **Archie Brain** — the laryngeal mask airway.
-- **Guedel's stages of ether anaesthesia:** **I analgesia · II excitement (the dangerous stage — laryngospasm, vomiting) · III surgical anaesthesia (4 planes) · IV medullary paralysis**.
-- **Lundy** also founded the first blood bank in the USA and chaired the AMA's Section on Anesthesiology.
+- **Oliver Wendell Holmes** coined the word “**anaesthesia**”; **William Morton** gave the first public demonstration of **ether** (1846, “Ether Day”, Massachusetts General); **Crawford Long** used ether earlier but published later; **James Young Simpson** introduced **chloroform** (1847); **John Snow** administered chloroform to Queen Victoria (“**anaesthesia à la reine**”) and is also the father of epidemiology; **Karl Koller** — cocaine as the first local anaesthetic; **August Bier** — spinal anaesthesia and IVRA; **Edmund Boyle** — the anaesthetic machine; **Archie Brain** — the laryngeal mask airway.
+- **Guedel’s stages of ether anaesthesia:** **I analgesia · II excitement (the dangerous stage — laryngospasm, vomiting) · III surgical anaesthesia (4 planes) · IV medullary paralysis**.
+- **Lundy** also founded the first blood bank in the USA and chaired the AMA’s Section on Anesthesiology.
 
-**EXAM CONNECTION:** Straight "who coined/introduced" recall — these appear reliably in Anaesthesia papers.
+**EXAM CONNECTION:** Straight “who coined/introduced” recall — these appear reliably in Anaesthesia papers.
 
 **REMEMBER:** *Holmes named it, Morton showed it, Simpson chloroformed it, Lundy balanced it.*
 
@@ -1567,8 +1567,8 @@
 **MUST KNOW:**
 
 - At-risk operations: **sitting-position neurosurgery** (highest risk), **posterior fossa**, **neck dissection with IJV ligation**, caesarean section, hip replacement, laparoscopy insufflation.
-- Most sensitive monitors: **transoesophageal echo > precordial Doppler > EtCO₂ / EtN₂ > PA pressure**. The classic **"mill-wheel" murmur** is a late and unreliable sign.
-- Management: **flood the field with saline, stop N₂O, 100% O₂, aspirate air via a central line, left lateral head-down (Durant's) position, support the circulation**.
+- Most sensitive monitors: **transoesophageal echo > precordial Doppler > EtCO₂ / EtN₂ > PA pressure**. The classic **“mill-wheel” murmur** is a late and unreliable sign.
+- Management: **flood the field with saline, stop N₂O, 100% O₂, aspirate air via a central line, left lateral head-down (Durant’s) position, support the circulation**.
 - **N₂O must be stopped** — it is 34× more soluble than nitrogen and will expand the bubble.
 - **Paradoxical embolism** to the brain/coronaries can occur through a **patent foramen ovale**.
 

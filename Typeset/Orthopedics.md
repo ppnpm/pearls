@@ -1,0 +1,2475 @@
+# Orthopedics — Bookmark-Derived Pearls
+
+*Distilled from bookmarked INI-CET / NEET-PG MCQs. Only high-yield, revisable learning points were kept; duplicate pearls have been merged so that each concept appears once, in the pearl where it belongs. Guideline-dependent content has been updated to the position as of 2026, with footnoted sources listed at the end of the file.*
+
+---
+
+## Contents
+
+- [General Principles — Fracture Healing, Grafts and Fixation](#general-principles--fracture-healing-grafts-and-fixation) — 8 pearls
+- [Trauma — Upper Limb](#trauma--upper-limb) — 6 pearls
+- [Trauma — Lower Limb](#trauma--lower-limb) — 8 pearls
+- [Spine — Trauma and Degenerative Disorders](#spine--trauma-and-degenerative-disorders) — 6 pearls
+- [Complications of Fractures](#complications-of-fractures) — 4 pearls
+- [Paediatric Orthopaedics](#paediatric-orthopaedics) — 14 pearls
+- [Bone and Joint Infections](#bone-and-joint-infections) — 7 pearls
+- [Bone Tumours](#bone-tumours) — 5 pearls
+- [Metabolic Bone Disease](#metabolic-bone-disease) — 9 pearls
+- [Arthritis and Degenerative Joint Disease](#arthritis-and-degenerative-joint-disease) — 2 pearls
+- [Peripheral Nerve Injuries and Palsies](#peripheral-nerve-injuries-and-palsies) — 6 pearls
+- [Shoulder, Sports and Soft-Tissue Disorders](#shoulder-sports-and-soft-tissue-disorders) — 9 pearls
+- [Clinical Tests, Signs, Eponyms and Miscellaneous](#clinical-tests-signs-eponyms-and-miscellaneous) — 5 pearls
+- [Sources for the 2026 Updates](#sources-for-the-2026-updates) — 0 pearls
+
+---
+
+## General Principles — Fracture Healing, Grafts and Fixation
+
+### 1. Degloving Injuries
+
+**PEARL:** Degloving is avulsion of skin and subcutaneous fat from the underlying fascia by a shearing force. The closed variety is easily underestimated — the skin looks intact but the perforating vessels are torn, and the resulting haemolymphatic collection between the fascial planes is a Morel-LAVALLÉE lesion (classically over the greater trochanter, flank or knee).
+
+**UNDERSTAND:** The skin’s blood supply runs through perforators that pierce the deep fascia, so shearing the two planes apart devascularises a large area of apparently normal-looking skin. That is why the injury is so treacherous: the extent of non-viable tissue always exceeds what is visible at first inspection, and why the management principle is serial debridement rather than a single definitive operation.
+
+**MUST KNOW:**
+
+- Assessment of viability is unreliable in the first hours — signs of dead skin are fixed staining, absence of dermal bleeding on cut edges, thrombosed subcutaneous veins and lack of capillary refill; fluorescein and ICG angiography can help.
+- Management: aggressive debridement of non-viable tissue, thorough lavage, tetanus prophylaxis and antibiotics, and RE-look exploration at 24–48 hours before definitive cover. Avulsed skin can be defatted and reapplied as a full-thickness graft, or split-thickness grafts and flaps used.
+- A Morel-Lavallée lesion may be drained percutaneously with compression; large or chronic (encapsulated) lesions need open debridement and sclerodesis — untreated, they become infected or form a chronic pseudocyst.
+- Degloving is usually part of a high-energy injury — expect associated fractures, compartment syndrome, rhabdomyolysis and haemodynamic instability, and manage by ATLS principles first.
+- The severity spectrum runs from limited abrasion-avulsion, through non-circumferential, to circumferential multiplanar degloving (the worst prognosis, often requiring amputation).
+- Ring avulsion injuries of the finger are the classic open degloving injury and are graded by the Urbaniak classification.
+
+**EXAM CONNECTION:** “Degloving refers to” → skin and subcutaneous fat stripped from the underlying fascia.
+
+**REMEMBER:** *Shearing tears the perforators — the skin survives in appearance long after it has died.*
+
+**IMAGES:**
+![explanation](https://cdn1.dailyrounds.org/uploads/22ed05e62e1847ef8ac555f5033d495e.PNG)
+
+`Q9029`
+
+---
+
+### 2. Traction and Splints
+
+**PEARL:** For skeletal tibial traction in a femoral shaft fracture you need a Steinmann pin (a stout 3–6 mm straight steel rod), a Bohler’s stirrup (which holds the pin and allows the direction of pull to be changed without rotating the pin in the bone), and a BÖHLER–Braun splint (a metal frame with pulleys that supports the limb). A Thomas splint and a K-wire belong to different purposes, and a Denham pin (threaded centrally to grip the cortex) is used when slippage is likely, as in osteoporotic bone.
+
+**UNDERSTAND:** Skeletal traction works by applying continuous longitudinal pull directly to bone, overcoming the powerful muscle spasm that shortens a femoral fracture. The design details all address one problem — the pin loosening or cutting out: the stirrup lets the surgeon redirect the pull without twisting the pin, and the Denham pin’s central thread engages cortex so it cannot slide sideways.
+
+**MUST KNOW:**
+
+- Skin traction (adhesive strapping) can take only 4–5 kg and is used in children (GALLOWS traction under 2 years/under 12 kg), temporarily in adults, and in Buck’s/Hamilton–Russell forms. Skeletal traction takes greater weight (about 1/7th of body weight for the femur) and is used for definitive or temporary management of femoral and tibial fractures.
+- Pin sites: upper tibia (for femoral fractures — insert from lateral to medial to avoid the common peroneal nerve), lower femur, calcaneum (for tibial fractures) and olecranon.
+- Thomas splint: a ring with two side bars, used for splinting and transporting a femoral fracture and for applying traction — a life-saving invention that dramatically reduced mortality from femoral fractures in the First World War.
+- Complications of traction: pin-tract infection (with ring sequestrum), pin loosening, joint stiffness, DVT and pressure sores, distraction non-union, and prolonged recumbency (chest infection, urinary tract infection).
+- Traction has largely been replaced by early internal fixation (intramedullary nailing) for adult femoral fractures, which allows early mobilisation — traction remains a temporising measure and a paediatric option.
+- PERKINS’ traction allows knee movement while on traction, reducing stiffness.
+
+**EXAM CONNECTION:** Tibial traction for a femoral shaft fracture → Steinmann pin + Bohler’s stirrup + Böhler–Braun splint.
+
+**REMEMBER:** *The pin pulls the bone, the stirrup redirects the pull, the splint holds the limb.*
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3189db5533dc4f1c9d04d95b7bf07c6cx642x972.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b4861b398cc34fb9b8affbe586c9b2cex1200x900.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8b45de4a893d4406b516636e29fa8369x1280x960.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ebe2047d3e9847f3a49a5f1c046469e1x1280x2018.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1f97f56a87274e03a6d674be73244d8cx1280x1257.JPEG)
+
+`Q9035`
+
+---
+
+### 3. Primary versus Secondary Fracture Healing
+
+**PEARL:** Primary (direct) healing occurs without visible callus and requires absolute stability with anatomical reduction and interfragmentary compression — as after compression plating or lag screw fixation; healing proceeds by cutting cones of osteoclasts crossing the fracture line (Haversian remodelling). Secondary (indirect) healing occurs with relative stability (cast, intramedullary nail, external fixator, bridge plating) and proceeds through callus by endochondral ossification.
+
+**UNDERSTAND:** The determinant is strain AT the fracture site. With rigid compression, strain is near zero and there is no stimulus for callus — bone simply remodels across the gap, which is slow and biologically demanding, and fails completely if the fixation loosens. With controlled micromotion, strain is moderate — the ideal stimulus for callus, which is faster and biologically robust. This explains why rigid plating requires perfect technique and blood supply, and why intramedullary nailing (which preserves periosteal blood supply and permits micromotion) has become the standard for most diaphyseal fractures.
+
+**MUST KNOW:**
+
+- The stages of secondary healing: haematoma and inflammation (up to 7 days) → granulation tissue/soft callus (2–3 weeks) → hard callus/woven bone (4–12 weeks, visible on X-ray from ~3 weeks) → remodelling into lamellar bone along lines of stress (Wolff’s law), taking 1–2 years.
+- Because there is no callus in primary healing, radiological union IS hard to judge after plating — a common source of confusion.
+- Factors delaying healing: infection, inadequate immobilisation, distraction/gap, soft tissue interposition, poor blood supply, open fracture with periosteal stripping, smoking, NSAIDs, steroids, diabetes, malnutrition and irradiation.
+- The AO principles of fracture management: anatomical reduction (especially of articular surfaces), stable fixation appropriate to the personality of the fracture, preservation of the blood supply (biological fixation), and early active mobilisation of the limb and patient.
+- In children the periosteum is thick and osteogenic, so callus is abundant and healing is rapid; in the elderly and in pathological bone it is the reverse.
+
+**EXAM CONNECTION:** X-ray showing a compression plate → primary healing (no callus).
+
+**REMEMBER:** *Compression gives no strain and no callus; a cast gives motion, callus and faster union.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/8080f170c26d4182a821d1f65b69d60a.PNG)
+
+`Q9046`
+
+---
+
+### 4. Ilizarov and Distraction Osteogenesis
+
+**PEARL:** The Ilizarov ring fixator works by distraction osteogenesis (“the tension–stress effect”) — new bone forms in the gap when bone surfaces are gradually pulled apart at about 1 mm per day (usually 0.25 mm four times daily) after a corticotomy and a latency period of ~7 days. It uses K-wires (tensioned fine wires) on rings, can be used for limb lengthening, deformity correction, non-union, arthrodesis and bone transport — and it is not contraindicated in osteomyelitis; it is in fact a treatment of choice for infected non-union and infected bone gaps.
+
+**UNDERSTAND:** Slow, controlled tension applied to healing tissue stimulates rather than tears it — mesenchymal cells in the distraction gap differentiate into osteoblasts and lay down bone in longitudinal columns parallel to the vector of distraction. The rate is critical: too fast and fibrous non-union results; too slow and the gap consolidates prematurely. The same tension–stress principle regenerates skin, vessels and nerves along with the bone, which is why the technique can lengthen a limb by many centimetres.
+
+**MUST KNOW:**
+
+- Its unique advantage in infection is that it needs no implant at the disease site: infected bone is resected, and the defect is filled by bone transport (a “docking” segment carried across the gap) while the patient continues to weight-bear — external fixation avoids the biofilm-covered metal that dooms internal fixation in infected bone.
+- The distraction/consolidation index is roughly 1 month of frame time per centimetre gained; the frame must stay on until the regenerate corticalises.
+- Complications: pin-tract infection (very common — with ring sequestrum), joint stiffness and contracture, neurovascular stretch injury, premature or delayed consolidation, axial deviation, refracture after frame removal, and the psychological burden of many months in a frame.
+- Other uses of external fixation: open fractures with severe soft tissue injury, damage-control orthopaedics in polytrauma, infected non-union, and periarticular fractures with swelling (spanning fixator).
+- Gustilo–Anderson classification of open fractures (I <1 cm clean; II 1–10 cm; IIIA adequate soft tissue cover; IIIB requiring flap cover; iiic with vascular injury requiring repair) determines antibiotics, timing of debridement and the need for external fixation and soft tissue reconstruction. Early antibiotics and thorough debridement matter far more than the timing of skeletal fixation.**
+
+**EXAM CONNECTION:** Correct statements → used for arthrodesis, K-wires are used, and distraction at 1 mm/day — and it is not contraindicated in osteomyelitis.
+
+**ALSO KNOW:** *1 mm a day, 4 turns a day, after a week of waiting.*
+
+**REMEMBER:** *Pull slowly and bone grows into the gap — a millimetre a day, and infection is an indication, not a barrier.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d7ba72a6d31e45e8acbea3c8e45c0b58.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9af4f46e1d084fcdb9e0eea7ede0d2fcx1280x1566.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9bccaf344b0540cca0439ea1c43fac7ex1280x2560.JPEG)
+
+`Q9927`
+
+---
+
+### 5. Fracture Healing — Micromotion and Non-Union
+
+**PEARL:** Small repeated movements at the fracture site increase callus formation. Absolute rigidity suppresses callus and produces primary (direct) bone healing instead.
+
+**UNDERSTAND:** Callus is a mechanical response to strain. Controlled micromotion generates interfragmentary strain that stimulates periosteal mesenchymal cells to differentiate into cartilage and then bone — secondary (indirect) healing. Rigid compression plating removes the strain stimulus entirely, so healing proceeds by cutting cones and Haversian remodelling across the fracture line, with no visible callus.
+
+**MUST KNOW:**
+
+- Excessive motion is as bad as none — it produces hypertrophic non-union (“elephant foot”), where abundant callus fails to bridge because of instability.
+- Hypertrophic non-union → stabilisation alone suffices (the biology is intact, only the mechanics have failed). Atrophic non-union → excision of fibrous tissue and sclerotic ends plus bone grafting (the biology has failed).
+- MIPO (minimally invasive plate osteosynthesis) is a form of bridge plating / biological fixation: plate fixed proximally and distally, the fracture zone untouched — soft tissue damage and haematoma disruption are minimised, not maximised.
+- Primary indications for plating: metaphyseal fractures and fractures extending intra-articularly (need anatomical reduction).
+- Local factors delaying union: infection, interposed soft tissue, inadequate blood supply, bone loss, excessive mobility; systemic: smoking, NSAIDs, steroids, diabetes, malnutrition.
+
+**EXAM CONNECTION:** Two related stems — “callus increased by” (micromotion) and “false about MIPO” (maximum soft tissue damage).
+
+**REMEMBER:** *A little movement builds callus; too much builds a false joint.*
+
+`MC9504, MC4853, MA8113`
+
+---
+
+### 6. Emergency Management of an Open Fracture
+
+**PEARL:** In the emergency room an open fracture needs antibiotics, splinting and (closed) reduction — but not internal fixation. Definitive internal fixation waits until the patient and the wound are stable.
+
+**UNDERSTAND:** Metalwork placed into a contaminated wound becomes a substrate for biofilm, converting a treatable contamination into a chronic implant infection and osteomyelitis. Everything done acutely is aimed at the opposite goal — reducing bacterial load and stabilising the limb temporarily — which is why external fixation, not internal, is the acute skeletal option.
+
+**MUST KNOW:**
+
+- Antibiotics within 3 hours (ideally 1 hour) of injury — first-generation cephalosporin or co-amoxiclav, adding an aminoglycoside for Gustilo III and penicillin for farmyard/soil contamination (clostridia). Give tetanus prophylaxis.
+- Debridement is the cornerstone: excise wound margins, extend the wound, deliver the fracture, excise all devitalised tissue, and copious lavage. Repeat at 48 h if needed.
+- Gustilo–Anderson classification: I wound < 1 cm, clean; II 1–10 cm, moderate soft tissue damage; IIIA extensive soft tissue but adequate coverage; IIIB periosteal stripping, requires flap coverage; iiic arterial injury requiring repair.
+- Mangled Extremity Severity Score (MESS) decides amputation vs salvage — components Shock, Ischaemia, Velocity (energy), Age; ≤ 6 suggests a salvageable limb (maximum 11). Alternatives: Limb Salvage Index, Ganga score.
+- Spanning external fixator is used for periarticular fractures and severe soft tissue injury, bridging the joint until soft tissues recover (“damage control orthopaedics”). Complications: pin-track infection, over-distraction, neurovascular injury.
+
+**EXAM CONNECTION:** “Not required on an emergency basis” → internal fixation. The MESS question tests that you know which score answers the amputate-or-salvage question, as opposed to the Gustilo classification, which only describes the wound.
+
+**ALSO KNOW:** Antibiotics remain the single most important intervention and should be given within one hour: a first-generation cephalosporin for Gustilo I–II, adding gram-negative cover for type III, and penicillin for farmyard or vascular injuries — while the old teaching that all open fractures must be debrided within 6 hours has been replaced by debridement within 12–24 hours for most injuries, prioritised earlier for gross contamination, vascular compromise or type IIIB/C.[^2]
+
+**REMEMBER:** *Clean it and splint it now; fix it with metal later.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/f530cad987064730a65a09bb08fced33.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a1d5777ee174414896c660db5ecbae84x1280x1566.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d3f6d0247c704a669cfad724f363b9eex720x1552.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/84a1042aff90448bb49f5408fed46b9bx720x403.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/306a732260ff4ce2bbc077954052b977x720x540.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0e2b55361d02462d9d349046ab6dc932x800x600.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8b868b0c26134874a2eeeb9c693faa4dx800x600.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/465c935b02614de4a6ef0c385131f6e5x720x540.JPEG)
+
+`MF7559, MB6531, MF5272`
+
+---
+
+### 7. Bone Grafts — Osteoinductive vs Osteoconductive
+
+**PEARL:** BMP (bone morphogenetic protein) is osteoinductive — it recruits and differentiates mesenchymal cells into osteoblasts. Calcium phosphate, hydroxyapatite and calcium sulphate are osteoconductive — passive scaffolds only.
+
+**UNDERSTAND:** The distinction is active signal vs passive framework. Osteoinduction supplies the biological instruction to make bone where there was none; osteoconduction supplies only the physical trellis for bone to creep along. That is why atrophic non-union (a biological failure) needs an inductive graft, whereas a simple cavity defect needs only a conductive filler.
+
+**MUST KNOW:**
+
+- Grafts have three possible properties: osteogenic (contains living osteoblasts — only fresh autograft and bone marrow aspirate), osteoinductive (BMP-2, BMP-7, demineralised bone matrix, autograft), osteoconductive (autograft, allograft, ceramics, calcium phosphate/sulphate).
+- Autograft (iliac crest) is the gold standard because it is all three; its limitations are donor-site morbidity and limited quantity.
+- BMP is licensed for open tibial fractures and non-unions, and for spinal fusion.
+- PMMA (bone cement) is neither — it is a grouting agent that interlocks implant and bone mechanically; it is also the vehicle for antibiotic beads in infection.
+- Giant cell tumour is treated by extended curettage plus bone grafting (autograft) or cement, with adjuvants (phenol, liquid nitrogen, high-speed burr) to reduce the ~25% recurrence; denosumab is used for unresectable or recurrent disease.
+
+**EXAM CONNECTION:** The word “used for bone formation” signals an inductive agent → BMP. The calcium salts are scaffolds.
+
+**ALSO KNOW:** The two non-unions are opposite biological problems. Hypertrophic (“elephant foot”) non-union has abundant callus that failed to bridge — the biology IS good but the mechanics are wrong (excess motion), so rigid fixation alone converts it to union. Atrophic non-union has NO callus — the biology is dead (poor blood supply, infection, bone loss, interposed soft tissue), so no amount of fixation will work without restoring biology with a graft. Cancellous graft incorporates faster and is preferred for filling defects and stimulating union; cortical graft provides structural strength but incorporates slowly (creeping substitution). Vascularised grafts (free fibula) are used for large defects and avascular necrosis. Delayed union is failure to unite in the expected time; NON-union is established failure with no progression over 3 consecutive months (usually ≥6–9 months). Risk factors: infection, inadequate immobilisation, distraction, soft tissue interposition, poor blood supply (scaphoid, talus, femoral neck, distal tibia), smoking, NSAIDs, diabetes and steroids. Pseudarthrosis is a non-union with a false joint and synovial-lined cavity. Other adjuncts: bone marrow aspirate concentrate, the Ilizarov method with distraction osteogenesis for infected non-union and bone loss, and low-intensity pulsed ultrasound/electrical stimulation. Always exclude infection in any non-union before grafting. *Hypertrophic means good biology and bad mechanics; atrophic means the biology is dead and needs a graft.*
+
+**REMEMBER:** *Induction gives the instruction; conduction gives the scaffold.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/50d75944d680436780799bd6790aeec4.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/06be4c40d88a4d0dbc05ac7ebfd0bc5dx720x775.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b92598d330514a3babb74ad481395e07x1279x1560.JPEG)
+
+`MD6711, MC7735`
+
+---
+
+### 8. Degloving Injury
+
+**PEARL:** Avulsion of skin and subcutaneous fat from the underlying fascia, muscle or bone.
+
+**MUST KNOW:** The problem is disruption of the perforating vessels → the flap looks viable but is not. Closed (internal) degloving = Morel-Lavallée lesion, a fluid-filled cavity over the greater trochanter/pelvis, easily missed. Management: debride all non-viable tissue, do not simply suture the flap back; assess viability (fluorescein/bleeding edges), and consider defatting the avulsed skin for use as a full-thickness graft. High risk of infection and secondary necrosis.
+
+**REMEMBER:** *Skin peeled off its blood supply — never just stitch it back.*
+
+---
+
+---
+
+## Trauma — Upper Limb
+
+### 9. Finger Tendon Avulsions and Osteoarthritis of the Hand
+
+**PEARL:** Jersey finger = avulsion of the flexor digitorum profundus from the base of the distal phalanx (forced hyperextension of a flexed dip — grabbing a jersey), most often the ring finger — the patient cannot flex the dip joint. Mallet (baseball) finger = disruption of the extensor tendon at the dip (forced flexion of an extended finger) — the dip rests in flexion and cannot be actively extended.
+
+**UNDERSTAND:** The two are mirror images: one is a flexor avulsion caused by forced extension, the other an extensor avulsion caused by forced flexion — and each abolishes the corresponding active movement at the dip joint. Their management differs for a mechanical reason: the retracted flexor tendon loses its blood supply and shortens, so jersey finger IS A surgical emergency (repair within 7–10 days), whereas the extensor tendon does not retract far and mallet finger heals in a splint.
+
+**MUST KNOW:**
+
+- Mallet finger: continuous extension splinting of the dip (Stack splint) for 6–8 weeks, without any interruption (removing the splint even once resets the clock). Surgery only for a large articular fragment with volar subluxation. An untreated mallet finger progresses to a Swan-neck deformity.
+- Leddy and Packer classify jersey finger by the level of tendon retraction — the further it retracts (into the palm), the more urgent the repair.
+- Other named hand injuries: boxer’s fracture (neck of the fifth metacarpal after a punch — accept considerable angulation, but check for rotation and a “fight bite”), BENNETT’S and ROLANDO fractures (intra-articular base of the first metacarpal), Gamekeeper’s/skier’s thumb (ulnar collateral ligament of the thumb MCP joint — beware the Stener lesion), and MARCH fracture (stress fracture of the 2nd/3rd metatarsal neck).
+- Hand osteoarthritis involves the dip (Heberden’s nodes), PIP (Bouchard’s nodes) and the first carpometacarpal joint (squaring of the thumb base), while sparing the MCP joints and wrist. Rheumatoid arthritis is the reverse — it involves the MCP joints and wrist and spares the dip joints, with ulnar deviation, swan-neck and boutonnière deformities. Psoriatic arthritis characteristically involves the dip joints with nail changes and dactylitis.
+- The radiological contrast is equally examinable: OA — joint space narrowing, subchondral sclerosis, osteophytes and subchondral cysts; RA — periarticular osteopenia, marginal erosions and uniform joint space loss.
+
+**EXAM CONNECTION:** Image pairs → jersey finger (flexor, dip won’t flex) and mallet/baseball finger (extensor, dip droops); dip + PIP + first CMC with sparing of MCP → osteoarthritis.
+
+**REMEMBER:** *Jersey pulls the flexor off and needs surgery; mallet drops the extensor and needs a splint.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/092533ecb3984df581093ccd7b6fed1f.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2b369abd6e614e86b1b70d538046d546x720x732.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/37afcc099948485597ab82bded445152x720x1499.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0c4ce65e67924b4dad621155ea2feddfx1280x1085.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1e8d2990ca664920a9acfc69cf29e9ebx720x1051.PNG)
+
+`Q9031, Q9032`
+
+---
+
+### 10. Lunate versus Perilunate Dislocation
+
+**PEARL:** Perilunate dislocation — the lunate stays IN place (articulating with the radius) while the rest of the carpus dislocates, usually dorsally. Lunate dislocation is the reverse — the lunate itself is displaced, usually volarly, while the rest of the carpus remains aligned with the radius (the “spilled teacup” sign on the lateral film, with a triangular “pie-shaped” lunate on the AP view).
+
+**UNDERSTAND:** They are two ends of the same progressive injury (MAYFIELD’S stages): a fall on the hyperextended wrist tears the ligaments sequentially around the lunate — scapholunate → capitolunate → lunotriquetral → dorsal radiolunate — so a perilunate dislocation that continues one stage further becomes a lunate dislocation as the lunate is finally squeezed out volarly into the carpal tunnel. Recognising this explains why the two look so different yet share a mechanism and a treatment.
+
+**MUST KNOW:**
+
+- *These injuries are missed IN up to 25% of cases* on the initial films — the AP view can look almost normal, so always examine the lateral view for the normal collinear alignment of radius–lunate–capitate; any break in that line is a dislocation until proved otherwise.
+- A volarly displaced lunate compresses the median nerve in the carpal tunnel — acute carpal tunnel syndrome is common and mandates urgent reduction.
+- Treatment: urgent closed reduction for pain and nerve relief, followed by open reduction, ligament repair and K-wire fixation — these are ligamentous injuries that will not heal by cast alone. Untreated, they lead to avascular necrosis of the lunate, SLAC wrist (scapholunate advanced collapse) and severe arthritis.
+- Trans-scaphoid perilunate fracture-dislocation is the commonest variant — always look for an associated scaphoid fracture.
+- Related carpal problems: scaphoid fracture (snuffbox tenderness, initially invisible on X-ray, with a risk of proximal pole AVN and non-union because of its retrograde blood supply — immobilise and re-image or MRI); KIENBÖCK’S disease (avascular necrosis of the lunate, associated with ulnar negative variance).
+- The carpal bones: “Some Lovers Try Positions That They Can’t Handle” — Scaphoid, Lunate, Triquetrum, Pisiform, Trapezium, Trapezoid, Capitate, Hamate.
+
+**EXAM CONNECTION:** “Perilunate dislocation is defined as” → the lunate stays in place while the rest dislocates.
+
+**REMEMBER:** *Perilunate — everything moves around the lunate; lunate dislocation — only the lunate spills out.*
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/04/48.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/04/49.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/04/50.jpg)
+
+`Q11460`
+
+---
+
+### 11. Scaphoid Fracture and Kienböck Disease
+
+**PEARL:** The scaphoid is the most commonly fractured carpal bone, usually at the waist, and it is immobilised in a scaphoid cast in the “glass-holding” position (wrist slightly dorsiflexed and radially deviated, thumb included to the IP joint). The lunate is the most commonly dislocated carpal bone, and Kienböck disease is avascular necrosis of the lunate.
+
+**UNDERSTAND:** The scaphoid’s problem is its retrograde blood supply — the dorsal carpal branch of the radial artery enters distally, so a waist or proximal-pole fracture cuts off the proximal fragment, producing avascular necrosis and non-union. That single vascular fact explains the long immobilisation (3 months), the high non-union rate, and why proximal fractures do worse than distal ones.
+
+**MUST KNOW:**
+
+- Presentation: fall on the outstretched hand, tenderness in the anatomical snuffbox and over the scaphoid tubercle, pain on axial compression of the thumb.
+- Initial X-rays are normal in up to 20–25% — so immobilise and repeat in 10–14 days, or obtain MRI (most sensitive) or CT. Never discharge a clinically tender snuffbox with a normal film.
+- Treatment: undisplaced waist fractures → scaphoid cast 8–12 weeks; displaced (>1 mm), proximal pole, or non-union → internal fixation (HERBERT screw) ± bone graft. Untreated non-union leads to SNAC (scaphoid non-union advanced collapse) wrist arthritis.
+- Kienböck disease — AVN of the lunate in young manual workers, associated with ulnar negative variance; presents with wrist pain and stiffness; X-ray shows sclerosis then collapse; MRI is the earliest diagnostic test; staged by Lichtman.
+- Lunate dislocation — the lunate rotates and dislocates volarly, causing acute median nerve compression (carpal tunnel syndrome); on the lateral X-ray the lunate looks like a “spilled teacup”, and on the PA film the carpal arcs (Gilula’s lines) are disrupted with a “piece of pie” appearance.
+- Preiser disease is AVN of the scaphoid; de Quervain tenosynovitis (positive Finkelstein test) is the main soft-tissue differential for radial-sided wrist pain.
+
+**EXAM CONNECTION:** Statement-selection questions swap fractured/dislocated and scaphoid/lunate. Fix the pair: scaphoid fractures, lunate dislocates and undergoes Kienböck’s AVN.
+
+**REMEMBER:** *Blood enters the scaphoid from the far end — break the waist and starve the top.*
+
+`Q11009`
+
+---
+
+### 12. Colles Fracture: Reduction and Malunion
+
+**pearl:** Closed reduction of a Colles fracture follows a fixed order: traction (disimpaction) → palmar flexion → ulnar deviation → plaster (a below-elbow dorsal slab in that position). A malunited Colles fracture leaves the classic “dinner-fork” deformity, which follows an extra-articular fracture of the distal radius.
+
+**UNDERSTAND:** The sequence reverses the deformity in the order it was created. The fragment is first impacted (so nothing can be moved until traction disimpacts it and restores radial length), then dorsally angulated (corrected by palmar flexion), then radially deviated and supinated (corrected by ulnar deviation and pronation). Attempting angular correction before disimpaction simply levers on locked bone.
+
+**MUST KNOW:**
+
+- Colles fracture: a fracture of the distal radius within 2.5 cm of the wrist with dorsal displacement, dorsal angulation, radial shift, radial tilt, impaction and supination — the deformities to reverse. Classically an elderly osteoporotic woman falling on an outstretched, dorsiflexed hand.
+- Smith fracture (“reverse Colles”) — volar displacement, “garden-spade” deformity, from a fall on a flexed wrist. Barton fracture — an intra-articular fracture-dislocation of the distal radius (dorsal or volar rim); Chauffeur (Hutchinson) fracture — radial styloid.
+- Normal radiological parameters to restore: radial length ~11 mm, radial inclination ~22°, and volar tilt ~11°.
+- Complications: malunion (commonest — dinner-fork deformity, and the reason for the exam question), stiffness, SUDECK’s atrophy/complex regional pain syndrome, carpal tunnel syndrome (median nerve), rupture of extensor pollicis longus (a late complication, from attrition over Lister’s tubercle), and subluxation of the distal radioulnar joint.
+- Unstable, comminuted or intra-articular fractures need fixation — percutaneous K-wires or a volar locking plate, since a step in the articular surface predicts post-traumatic arthritis.
+- Post-reduction: check finger movement, median nerve function and circulation, elevate, and start finger and shoulder exercises immediately to prevent stiffness.
+
+**EXAM CONNECTION:** Either the order of reduction manoeuvres (traction always first) or the deformity-to-fracture match (dinner fork = extra-articular distal radius).
+
+**ALSO KNOW:** The deformity is a direct picture of the displacement — the dorsally tilted distal fragment produces the prominence on the back of the wrist and the depression in front, exactly like the profile of a fork. And each element of the cast position is the reverse of a displacement: palmar flexion corrects the dorsal tilt, ulnar deviation corrects radial shift, and pronation corrects the supination. Complications of Colles’ fracture: malunion (the commonest — a residual dinner-fork deformity and prominent ulna), stiffness of the fingers and shoulder, Sudeck’s atrophy (complex regional pain syndrome — pain, swelling, stiffness, vasomotor and trophic changes with patchy osteopenia; managed with physiotherapy, analgesia and sympathetic blocks), carpal tunnel syndrome (median nerve), and delayed rupture of extensor pollicis longus (attrition over Lister’s tubercle, presenting weeks later with inability to lift the thumb). The most commonly fractured bone IN childhood IS the distal radius/forearm (the clavicle is the commonest fracture AT birth); in children the equivalent injuries are torus (buckle) and greenstick fractures, which remodel well. Fixation (K-wires, volar locking plate or external fixator) is indicated for unstable, comminuted, intra-articular or grossly displaced fractures, and in younger, higher-demand patients. These are fragility fractures — a Colles’ fracture in a postmenopausal woman is an alarm for osteoporosis and predicts future hip fracture, so it should trigger DEXA and bone protection.** *Dinner fork means dorsal tilt — and the cast holds it in the opposite of every displacement.*
+
+**ALSO KNOW:** Radial styloid normally lies 1 cm distal to the ulnar styloid; in malunion it comes to lie level with or above it.
+
+**REMEMBER:** *Pull it out to length, push it palmar, tip it ulnar, then plaster.*
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/05/08/io32.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/23.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/82.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/83_ts2QvpP.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/37.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/screenshot-2024-01-10-173334.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/38.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/39_WZsKVZq.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/40.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/41.jpg)
+
+`Q11244, Q11228`
+
+---
+
+### 13. Kocher’s Manoeuvre for Anterior Shoulder Dislocation
+
+**PEARL:** Kocher’s technique reduces an anterior shoulder dislocation in four steps: traction → external rotation → adduction → internal (medial) rotation (“team”), with the elbow flexed to 90°.
+
+**UNDERSTAND:** Each step reverses a component of the displacement. Traction disengages the humeral head from the anterior glenoid rim; external rotation unwinds the anterior capsule and disengages the head from beneath the coracoid; adduction brings the head across to the glenoid; and internal rotation slots it back in. Because the manoeuvre uses leverage, it must be performed slowly and gently — force risks fracture of the humeral neck, nerve injury and further capsular damage, which is why gentler traction-based methods (Milch, Stimson, scapular manipulation) are now often preferred.
+
+**MUST KNOW:**
+
+- Anterior dislocation (>95%): fall on an outstretched, abducted and externally rotated arm; the patient supports the elbow with the other hand; there is flattening of the deltoid contour, a palpable head anteriorly, positive Hamilton ruler and DUGAS tests.
+- Always document axillary nerve function (regimental badge sensation, deltoid contraction) before and after reduction, and obtain pre- and post-reduction X-rays (to exclude and then confirm reduction, and to detect a fracture).
+- Associated lesions: Bankart (antero-inferior labrum) and hill–Sachs (postero-lateral humeral head). Recurrence is the commonest complication, and its risk is inversely related to age — up to 80–90% under 20 years.
+- Posterior dislocation: after seizures or electrocution; the arm is held internally rotated and cannot be externally rotated; the AP film shows the “light bulb” sign — obtain an axillary or scapular-Y view.
+- Other reduction techniques: Milch (abduction and external rotation with thumb pressure on the head), Stimson (prone with hanging weights), scapular manipulation, and external rotation method. Immobilise for 2–3 weeks, then rehabilitate the rotator cuff; consider arthroscopic Bankart repair in the young athlete with recurrent instability.
+- Luxatio erecta (inferior dislocation) — the arm is fixed in full abduction above the head; reduce by traction–counter-traction.
+
+**EXAM CONNECTION:** A video or diagram of the four positions → anterior dislocation. The sequence team is the examinable detail.
+
+**REMEMBER:** *Traction, External rotation, Adduction, Medial rotation — team puts the shoulder back.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/67f3c42870b74c74b2709fefbcb428db.GIF)
+
+`Q11847`
+
+---
+
+### 14. Mallet Finger
+
+**PEARL:** Flexion deformity at the dip joint with a normal X-ray after a jamming injury = mallet finger → splint the dip in hyperextension (continuously, 6–8 weeks).
+
+**UNDERSTAND:** The extensor tendon has avulsed from the base of the distal phalanx, so the unopposed flexor digitorum profundus holds the dip flexed. Splinting in hyperextension approximates the torn tendon ends and holds them there long enough to heal — which is why the splint must never be removed, even briefly: a single flexion undoes the healing and restarts the clock.
+
+**MUST KNOW:**
+
+- Also called baseball finger — caused by sudden forced flexion of an extended dip joint.
+- Surgery only if there is a bony fragment involving > 30–50% of the articular surface with volar subluxation of the distal phalanx.
+- Untreated, it may progress to a swan-neck deformity (dip flexion + PIP hyperextension) as the extensor mechanism retracts.
+- Related hand injuries: Gamekeeper’s/skier’s thumb — ulnar collateral ligament of the thumb MCP (a Stener lesion requires surgery); Jersey finger — avulsion of FDP (cannot flex the dip), usually the ring finger; Boutonnière deformity — central slip rupture (PIP flexion + dip hyperextension); Boxer’s fracture — 5th metacarpal neck.
+- Buddy strapping is for stable phalangeal fractures, not for tendon avulsion.
+
+**EXAM CONNECTION:** The management word is hyperextension — splinting in flexion (the deformed position) is the trap answer.
+
+**REMEMBER:** *Hold the joint in the direction the torn tendon should pull.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/40d0650b2f604ac8a95bf3c58838607d.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/36031e446fba4b178dd4326afef78435x1280x1344.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f69619d537d645ec89bf78428a51092bx469x599.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a2dcf1df7aa547569edb9b23b5b4fe4ex1280x1222.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e6f1cb40d29a4415833349642c8a605bx1280x844.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9c2040ddd70745199f16395e93f78b58x1280x988.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3deb8ddc550345bc883002661184a0d4x1280x1157.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1ea28df97a50400b87329ff762655acax1280x1179.JPEG)
+
+`MC5635`
+
+---
+
+---
+
+## Trauma — Lower Limb
+
+### 15. Proximal Femoral Fractures
+
+**PEARL:** An elderly patient after a fall with a shortened, externally rotated, abducted limb and a broken Shenton’s line has a fracture neck of femur. For an intertrochanteric fracture in the elderly, the treatment of choice is a proximal femoral (intramedullary) nail for unstable/displaced patterns, or a dynamic hip screw for stable ones. For a displaced intracapsular (neck) fracture in the elderly, the answer is arthroplasty (hemiarthroplasty, or total hip replacement in the active patient).
+
+**UNDERSTAND:** The distinction is entirely about blood supply. The femoral head is supplied mainly by the medial femoral circumflex artery via the retinacular vessels running up the neck; a displaced intracapsular fracture tears them, so fixation risks avascular necrosis (up to 30%) and NON-union — hence replace the head. Extracapsular (intertrochanteric) fractures occur in well-vascularised cancellous bone, so they unite reliably and are fixed, not replaced.
+
+**MUST KNOW:**
+
+- Garden classification of neck fractures: I incomplete/valgus impacted, II complete undisplaced, III complete partially displaced, IV completely displaced. Garden I–II → internal fixation with cancellous screws; garden III–IV in the elderly → arthroplasty; in the young, any neck fracture is an emergency requiring urgent anatomical reduction and fixation to preserve the head.
+- External rotation is more marked in intertrochanteric (up to 90°, the whole limb lying flat) than in intracapsular fractures (~45°), because the intact capsule restrains the latter.
+- The elderly hip fracture is a medical as much as a surgical emergency: surgery within 48 hours reduces mortality; one-year mortality is 20–30%. Address analgesia (fascia iliaca block), delirium, thromboprophylaxis, nutrition, and bone protection (osteoporosis assessment and treatment) plus a falls assessment.
+- Avascular necrosis presents months later with groin pain; early MRI is the investigation of choice (X-ray shows a crescent sign late).
+- Other proximal femoral facts: subtrochanteric fractures are difficult (strong deforming muscle forces — flexion, abduction and external rotation of the proximal fragment) and are treated by intramedullary nailing; atypical subtrochanteric fractures occur with long-term bisphosphonate use.
+- In children, a fracture neck of femur has a very high rate of AVN and is treated as an emergency.
+
+**EXAM CONNECTION:** Attitude of the limb → shortened and externally rotated; intertrochanteric fracture → proximal femoral nail.
+
+**REMEMBER:** *Inside the capsule, replace the head; outside it, fix the bone.*
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d6ba163c5f49463e873c3847457e603ax1275x3420.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/395593067ce34a53ba8c2553a54f96c1x1072x979.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/be8cda7a3ad6421eb3f5da57efe70c45x1024x1024.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/31e25f3db192479bbf6d6e722062a3d7x1280x1967.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/49f2c42b7d6d4a24b655b430415fe243.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/53e9673a803e46d7aaea91bcdbbb267fx1280x1010.JPEG)
+
+`Q8920, Q9009`
+
+---
+
+### 16. Talar Neck (Aviator’s) Fracture
+
+**PEARL:** Aviator’s fracture is a fracture of the neck of the talus, caused by forced dorsiflexion of the ankle (classically the rudder pedal driving the foot up in an aircraft crash, and now road traffic accidents and falls from height). Its dominant complication is avascular necrosis of the talar body, and the risk rises steeply with displacement — graded by the Hawkins classification (I undisplaced ~10%; II subtalar subluxation ~40%; III tibiotalar and subtalar dislocation ~90%; IV plus talonavicular dislocation ~100%).
+
+**UNDERSTAND:** The talus is uniquely vulnerable because 60% of its surface is articular cartilage, it has NO muscular attachments, and its blood supply enters retrogradely — mainly through the artery of the tarsal canal (from the posterior tibial artery) entering the neck and running backwards into the body. A fracture through the neck therefore cuts off the supply to the body, exactly as a femoral neck fracture strips the head — hence the same dominant complication.
+
+**MUST KNOW:**
+
+- Hawkins’ sign — subchondral lucency in the talar dome at 6–8 weeks — indicates preserved vascularity and is a good prognostic sign (bone resorption requires blood flow). Persistent sclerosis suggests AVN.
+- Treatment: undisplaced fractures in a cast; any displacement requires urgent anatomical reduction and internal fixation — malunion in varus causes a stiff painful foot. Even with perfect treatment, AVN and subtalar arthritis are common.
+- Other eponymous fractures worth carrying: Pott’s — bimalleolar ankle fracture. MAISONNEUVE — proximal fibular fracture with syndesmotic/medial injury. Pilon — comminuted intra-articular distal tibial fracture from axial loading (a fall from height, often with a calcaneal fracture and a lumbar burst fracture). COTTON’S — trimalleolar. Jones — fracture at the base of the fifth metatarsal at the metaphyseal–diaphyseal junction (prone to non-union, unlike the avulsion fracture of the tuberosity). MARCH — stress fracture of the 2nd/3rd metatarsal neck. CHOPART and Lisfranc — midfoot and tarsometatarsal fracture-dislocations.
+- Calcaneal fracture (the commonest tarsal fracture) results from an axial fall — measure BÖHLER’S angle (normal 20–40°, reduced in fracture) and always examine the spine and the other heel.
+- A fall from height demands examination of the entire axial skeleton — the “DON JUAN” pattern of calcaneal, pilon, hip and vertebral fractures.
+
+**EXAM CONNECTION:** Coronal fracture through the talar neck → aviator’s fracture.
+
+**REMEMBER:** *The talus is fed backwards through its neck — break the neck and the body dies.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/6b3b37936e4649ab919570fdc3715578.JPEG)
+
+`Q10256`
+
+---
+
+### 17. Hip Dislocation and Fracture: Reading the Limb Position
+
+**PEARL:** Posterior hip dislocation → the limb is flexed, adducted and internally rotated, with shortening (a dashboard injury; risks sciatic nerve palsy). Anterior dislocation → abducted and externally rotated. Intertrochanteric fracture → shortening with external rotation >45°, severe swelling and buttock ecchymosis.
+
+**UNDERSTAND:** The limb rests in the position dictated by where the head has gone and which muscles are now unopposed. In posterior dislocation the head sits behind the acetabulum, so the shaft is levered into adduction and internal rotation. In a fracture the shaft loses its bony connection to the head altogether, so the powerful external rotators pull it into marked external rotation — and because an intertrochanteric fracture is EXTRAcapsular, the bleeding escapes into the soft tissues → swelling and ecchymosis, which never occur in an intracapsular femoral neck fracture.
+
+**MUST KNOW:**
+
+| | **Femoral neck (intracapsular)** | **Intertrochanteric (extracapsular)** |
+| --- | --- | --- |
+| Age/sex | >50, **women** | >60, **men** |
+| Trauma | **Trivial** | Significant |
+| Pain/swelling/ecchymosis | Mild, **none** | **Severe, marked, present** |
+| External rotation | ~45° | **>45°** |
+| Tenderness | **Scarpa’s triangle** | Over the greater trochanter |
+| Blood supply/AVN | **High risk of AVN and non-union** (retrograde supply via the medial circumflex femoral artery) | **AVN rare, unites well** |
+| Treatment | Young: urgent internal fixation; elderly displaced: **hemi- or total arthroplasty** | **Dynamic hip screw or proximal femoral nail** |
+
+- Posterior hip dislocation is an orthopaedic emergency — reduce within 6 hours (Allis, Stimson, Bigelow, East Baltimore lift) to minimise AVN of the femoral head; always document sciatic nerve function before and after.
+- The shortening in intertrochanteric fracture is often 2 inches or more, with the limb lying in near-90° external rotation (“the foot falls flat on the bed”).
+
+**EXAM CONNECTION:** The attitude of the limb is the entire question. Internally rotated and adducted = posterior dislocation; grossly externally rotated with ecchymosis = intertrochanteric fracture.
+
+**REMEMBER:** *Dislocated backwards turns in; broken turns out.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/9f4cb159396245598f7fbe90271aef95.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f4ab6bd55b074891a738c4ba8528ee28x1280x4271.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a9338f291946408ab82974840a36a700x1280x1802.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e0aedfeb601e466183ef098660e542e7x1280x4053.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/c3cb21b866064155a99cb92795f99f27.JPEG)
+
+`Q11135, Q11144`
+
+---
+
+### 18. Hip Fracture: Fixation vs Replacement
+
+**PEARL:** INTRAcapsular (femoral neck) fracture in the elderly → hemiarthroplasty (or total hip replacement in the fit and active). EXTRAcapsular (intertrochanteric) fracture → internal fixation with a dynamic hip screw or cephalomedullary nail.
+
+**UNDERSTAND:** The decision turns entirely on the blood supply of the femoral head. The head is supplied retrogradely by the retinacular branches of the medial circumflex femoral artery, which run along the neck inside the capsule — so an intracapsular fracture tears them, and even a perfectly fixed fracture may go on to avascular necrosis and non-union. Replacing the head sidesteps that risk entirely in an elderly patient. Extracapsular fractures lie outside those vessels, so the head remains perfused, the bone is cancellous and vascular, and union is the rule — making fixation the logical choice.
+
+**MUST KNOW:**
+
+- Young patients with an intracapsular fracture get urgent anatomical reduction and internal fixation (cannulated screws) within 6 hours — preserving the native head matters more than the risk of AVN.
+- Garden classification of femoral neck fractures (I incomplete/valgus impacted, II complete undisplaced, III partially displaced, IV completely displaced): I–II → fixation; III–IV in the elderly → arthroplasty.
+- Hemiarthroplasty vs total hip replacement: Thr for the mobile, independent patient with pre-existing hip arthritis; hemiarthroplasty for the frail or cognitively impaired.
+- Traction (Russell’s, skin traction) and plaster are historical — they are not definitive treatment. Prolonged recumbency is what kills these patients: early surgery (within 36–48 hours) and early mobilisation reduce mortality, pneumonia, pressure sores and thromboembolism.
+- Hip fracture in the elderly carries ~20–30% one-year mortality — the operation is as much about restoring mobility as about the bone. Address osteoporosis (DEXA, calcium, vitamin D, bisphosphonates) and falls risk before discharge.
+- Metallosis — a late complication of metal-on-metal prostheses: pain, loosening, effusion and black metallic debris with a histiocytic/inflammatory reaction on histology; raised serum cobalt and chromium; treat by revision.
+
+**EXAM CONNECTION:** The single word intra- or extra-capsular dictates the answer. Traction options are never correct in a modern stem.
+
+**REMEMBER:** *Inside the capsule, the head loses its blood — replace it. Outside, fix it.*
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-131936.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-132035.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-132049.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-132102.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-131913.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/08/18/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_101.jpg)
+
+`Q11250, Q11258, Q11252`
+
+---
+
+### 19. Ottawa Ankle Rules
+
+**PEARL:** The Ottawa ankle rules decide whether an X-ray is needed after an ankle injury — nothing else. They are a rule-out tool.
+
+**UNDERSTAND:** Most ankle sprains are radiographically normal, so imaging everyone is wasteful. The rules are built to be highly sensitive (~98–100%) rather than specific — they are designed so that a negative result safely excludes a clinically significant fracture, at the cost of some unnecessary films when positive.
+
+**MUST KNOW:**
+
+- Ankle X-ray if there is pain in the malleolar zone and any of: bone tenderness at the posterior edge or tip of the lateral malleolus, the medial malleolus, or inability to bear weight both immediately and in the emergency department (4 steps).
+- Foot X-ray if there is midfoot pain and tenderness at the base of the 5th metatarsal or the navicular, or the same weight-bearing criterion.
+- Not validated in children under 5, intoxicated or distracted patients, or those with sensory deficits.
+- The same philosophy underlies the Ottawa knee rules, Canadian C-spine rule and NEXUS criteria — all sensitive rules for deciding on imaging.
+- Böhler’s angle (normal 25–40°) — flattening on a lateral foot radiograph indicates an intra-articular calcaneal fracture, typically after a fall from height (with associated lumbar spine fractures — always image the spine).
+
+**EXAM CONNECTION:** The question asks what the rule is *for*. It never decides management, only the need for a radiograph.
+
+**REMEMBER:** *A decision rule for the X-ray, not for the treatment.*
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/52ba594d759847b9951685d8d03a8b61x990x750.JPEG)
+
+`MA8984, MG1620`
+
+---
+
+### 20. Intertrochanteric Fracture vs Fracture Neck of Femur
+
+**PEARL:** Shortening > 1 inch with the lateral border of the foot touching the bed (external rotation > 45°) = intertrochanteric fracture. Neck of femur fractures show less shortening (< 1 inch) and external rotation < 45°.
+
+**UNDERSTAND:** The capsule and its retinacular attachments restrain rotation in an intracapsular (neck) fracture. An intertrochanteric fracture is extracapsular, so nothing restrains the distal fragment — it rotates fully outward under the weight of the limb and the pull of the short external rotators, and the powerful trochanteric muscles pull it proximally, producing greater shortening.
+
+**MUST KNOW:**
+
+- Other discriminators: intertrochanteric — older (> 60), male, significant trauma, severe pain and swelling, ecchymosis, tenderness over the greater trochanter, unable to walk; complication is malunion (coxa vara). Neck of femur — > 50, female, trivial trauma, mild pain, no swelling, tenderness in Scarpa’s triangle, may still walk; complications are avascular necrosis and non-union.
+- Fixation: intertrochanteric — dynamic hip screw (extramedullary, for stable/undisplaced patterns) or proximal femoral/gamma nail (intramedullary, for unstable and reverse oblique). Neck of femur — internal fixation in the young; hemiarthroplasty or total hip replacement in the elderly displaced fracture.
+- AVN is a late complication of femoral neck fracture — visible on X-ray only after several months to 2 years, so MRI is the investigation of choice; it can occur even in a united fracture, and more proximal (subcapital) fractures have the worst prognosis. Sickle cell disease, steroids and alcohol are other risk factors.
+- Radiology: Shenton’s line is disrupted in neck fracture, hip dislocation and DDH. In posterior hip dislocation the limb is flexed, adducted and internally rotated, so the lesser trochanter is hidden on the AP film.
+
+**EXAM CONNECTION:** The stem gives degree of shortening and external rotation — the two numbers that separate the diagnoses.
+
+**REMEMBER:** *Outside the capsule means nothing holds the leg from rolling out.*
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8f407df1f68646c997c7e72093f57101x1001x768.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4e7867fc444649f0b55d255878d7e893x742x842.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d7934cf4465b45d5847430db8962e93cx1280x1280.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/235a9d1a28ae4f1e9fe4c4648e121d3e.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/14dc490185104b7c9ed76a91f3fead82x720x951.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/52641def432c4c9e9c79c10965f3cea3x720x975.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cb756b07ed5e4b64ad4b932927e5bc47x426x354.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e40e8089ef31494e96ca7a7472ece08bx1280x2056.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/134d1072e56f467aa8805b0109ec0560x800x600.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d0fe0973e40947a38b3ffe66e259013ex720x561.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b7e2bf315c3147f3a79d03f2d5faf129x1280x1223.JPEG)
+
+`MA8044, MA8027, MA8076, MG6554`
+
+---
+
+### 21. Posterior Hip Dislocation
+
+**PEARL:** Shortened, flexed, ADducted and internally rotated limb = posterior hip dislocation (dashboard injury). Absent femoral pulse = vascular sign of Narath — the vessels fall backwards away from the palpating finger. Management is urgent closed reduction under anaesthesia, then assessment of stability.
+
+**UNDERSTAND:** The femoral artery is normally felt against the femoral head and neck, which act as a bony backstop. When the head dislocates posteriorly, that backstop disappears and the artery is no longer compressible against anything — the pulse becomes impalpable without any arterial injury. Recognising this prevents a needless vascular exploration.
+
+**MUST KNOW:**
+
+- Reduce within 6 hours — the risk of avascular necrosis rises steeply with delay (up to 40% if delayed beyond 6–12 hours).
+- Do not attempt closed reduction if there is an associated femoral neck fracture — it will displace the fracture and destroy the blood supply; go straight to open reduction.
+- Sciatic nerve injury occurs in ~10% (usually the peroneal division — foot drop) — document before and after reduction.
+- Radiology: femoral head displaced superiorly and laterally, appears smaller than the other side, lesser trochanter obscured (internal rotation), Shenton’s line disrupted.
+- Anterior dislocation is the mirror image: limb flexed, ABducted, externally rotated (FABER), lengthened; the head appears larger and lies inferomedially; caused by deceleration or a fall from height.
+- After reduction: CT to look for intra-articular fragments and acetabular wall fractures; late complications are AVN, post-traumatic osteoarthritis, myositis ossificans.
+
+**EXAM CONNECTION:** The limb position mnemonic — posterior = ADIR (adduction, internal rotation); anterior = FABER. The absent femoral pulse is a distractor engineered to suggest vascular injury.
+
+**REMEMBER:** *No femoral head behind the artery means no pulse to feel.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/9dc3ec214d1848acb82c015910b09598.PNG)
+
+`MA8023, MF0602`
+
+---
+
+### 22. Hawkins Classification and Talar Neck Fractures
+
+**PEARL:** Hawkins classification is for fractures of the neck of the talus, and the type predicts the risk of avascular necrosis: I ~10%, II ~40%, III ~90%, IV ~100%.
+
+**UNDERSTAND:** The talus has no muscular attachments and a retrograde blood supply entering distally through the neck and sinus tarsi. Each successive Hawkins grade disrupts one more capsular/ligamentous vascular pedicle (subtalar, then tibiotalar, then talonavicular), so the AVN risk climbs almost linearly with the number of dislocated joints.
+
+**MUST KNOW:**
+
+- Type I undisplaced; II with subtalar dislocation; III with subtalar + tibiotalar dislocation; IV adds talonavicular dislocation.
+- Mechanism: forced dorsiflexion with axial load — the “aviator’s astragalus”.
+- Treatment: type I — non-weight-bearing cast 8–12 weeks; types II–IV — urgent ORIF (the dislocated talus tents the skin and threatens it).
+- Hawkins sign — a subchondral lucent band in the talar dome at 6–8 weeks — indicates preserved vascularity and a good prognosis; its absence suggests AVN. It is a *good* sign, which is counterintuitive.
+- Other AVN-prone bones with retrograde supply: femoral head, scaphoid proximal pole, lunate (Kienböck), body of talus, capitate.
+- Bone nibbler (rongeur) — used to bite away small pieces of bone; straight for general use, curved for spine, double-action for mechanical advantage.
+
+**EXAM CONNECTION:** Eponym-to-bone matching. Hawkins = talus; Böhler’s angle = calcaneum; Lisfranc = tarsometatarsal.
+
+**REMEMBER:** *Each dislocated joint strips one more blood supply.*
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8bc0d2fcc5f245bdafe86445cbcfa849x1280x1982.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/7b709bdccde543338328899cc723a3a0.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d3f6d0247c704a669cfad724f363b9eex720x1552.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/84a1042aff90448bb49f5408fed46b9bx720x403.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/306a732260ff4ce2bbc077954052b977x720x540.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0e2b55361d02462d9d349046ab6dc932x800x600.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8b868b0c26134874a2eeeb9c693faa4dx800x600.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/465c935b02614de4a6ef0c385131f6e5x720x540.JPEG)
+
+`MG1157, MB6110`
+
+---
+
+---
+
+## Spine — Trauma and Degenerative Disorders
+
+### 23. Cervical Spine Fractures
+
+**PEARL:** Hangman’s fracture = traumatic spondylolisthesis of C2 — bilateral fracture through the pars interarticularis/pedicles of the axis from hyperextension and distraction. Contrast JEFFERSON’S fracture — a burst fracture of the C1 ring from axial loading (a blow to the vertex or a dive into shallow water); odontoid (dens) fractures — usually from flexion, with type II (base of the dens) being the commonest and most prone to NON-union; and the CHANCE fracture — a horizontal flexion–distraction fracture of the thoracolumbar spine from a lap seat belt, strongly associated with intra-abdominal injury.
+
+**UNDERSTAND:** Both C1 and C2 fractures are often neurologically intact despite alarming radiology, for a mechanical reason: at this level the spinal canal is at its widest (Steel’s rule of thirds — one third cord, one third dens, one third free space), and both injuries tend to decompress the canal by bursting outwards rather than narrowing it. That is why a walking, talking patient can still harbour a life-threatening upper cervical injury — and why the absence of neurology never excludes it.
+
+**MUST KNOW:**
+
+- JEFFERSON’S fracture: assess the transverse ATLANTAL ligament — on the open-mouth (odontoid) view, if the combined lateral overhang of the C1 masses on C2 exceeds 7 mm (the rule of spence), the ligament is ruptured and the injury is unstable. Stable injuries are treated in a rigid collar or halo; unstable ones need fusion.
+- Odontoid fractures (Anderson–D’Alonzo): type I — tip avulsion (stable, but check for occipitocervical instability); type II — through the base, the commonest, with a high NON-union rate (poor blood supply and a small cancellous cross-section); type III — extending into the C2 body, which unites well.
+- The unstable cervical injuries to know: bilateral facet dislocation, teardrop flexion fracture, and any injury with disruption of the posterior ligamentous complex. The axial CT is the initial imaging of choice; MRI assesses cord, disc and ligaments.
+- Immobilise every suspected cervical injury (rigid collar, blocks and tape, log-roll) until cleared; assess with ATLS priorities and document the neurological level, sacral sparing and bulbocavernosus reflex (its return marks the end of spinal shock).
+- Neurogenic shock (hypotension with bradycardia from loss of sympathetic tone in injuries above T6) is distinct from spinal shock (transient areflexia) and from hypovolaemic shock (hypotension with tachycardia) — treat with fluids and vasopressors, and always exclude bleeding first.
+- A CHANCE fracture mandates a search for bowel, mesenteric and pancreatic injury.
+
+**EXAM CONNECTION:** C2 pars fracture after hyperextension → hangman’s fracture.
+
+**REMEMBER:** *C1 bursts outwards and C2 splits its pars — both widen the canal, so the patient often walks in.*
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/05/22/picture16.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/24/picture78.jpg)
+
+`Q10339`
+
+---
+
+### 24. Lumbar Canal Stenosis vs Vascular Claudication
+
+**PEARL:** Neurogenic claudication: leg pain on walking that is relieved by sitting or bending forward, with a long walking distance uphill or cycling but early pain walking downhill or on the flat. The stem’s clue — no pain climbing stairs — is diagnostic of lumbar canal stenosis.
+
+**UNDERSTAND:** The canal’s dimensions change with posture. Extension (standing upright, walking on the flat, walking downhill) buckles the ligamentum flavum inward and narrows the canal; flexion (sitting, leaning on a trolley, climbing stairs, cycling) opens it. This is why the pain has a postural, not purely exertional, trigger — the exact opposite of vascular claudication, which depends only on oxygen demand and is therefore worse going uphill and relieved simply by standing still.
+
+**MUST KNOW:**
+
+| | **Neurogenic (lumbar canal stenosis)** | **Vascular claudication** |
+| --- | --- | --- |
+| Relief | **Sitting/flexion; takes minutes** | **Standing still; rapid (2–5 min)** |
+| Uphill/stairs | **Better** (flexed) | **Worse** (higher demand) |
+| Cycling | **Well tolerated** | Poorly tolerated |
+| Pulses | Normal | **Absent/reduced, low ABPI** |
+| Symptoms | Numbness, heaviness, paraesthesia; may be bilateral | Cramping calf pain, reproducible distance |
+| Sign | **“Simian/shopping-trolley stance”**, normal examination at rest | Trophic skin changes, hair loss |
+
+- Causes of acquired stenosis: degenerative facet and ligamentum flavum hypertrophy, disc bulge, spondylolisthesis, Paget disease; congenital short pedicles predispose.
+- MRI is the investigation of choice. Treatment: conservative first (physiotherapy, NSAIDs, epidural steroid injection); decompressive laminectomy for persistent disabling symptoms or progressive deficit.
+- Cauda equina syndrome is the emergency to exclude: bilateral sciatica, saddle anaesthesia, urinary retention with overflow incontinence, reduced anal tone — an urgent MRI and decompression within 48 hours.
+- Contrast PIVD (disc prolapse) — acute, radicular, positive straight-leg raise, pain worse on sitting and flexion (the opposite posture from stenosis) and on coughing.
+
+**EXAM CONNECTION:** The postural detail in the stem is the entire question. Better on stairs and cycling = neurogenic.
+
+**also know:** The whole clinical picture is explained by posture: spinal flexion increases the canal’s cross-sectional area (the ligamentum flavum unfolds and the facets separate), while extension narrows it. Walking uphill, pushing a trolley or cycling all keep the spine flexed — hence the “shopping trolley sign” and the fact that patients can cycle for miles but cannot walk to the gate. Vascular claudication, by contrast, depends on metabolic demand, not posture — so it is worse uphill and relieved simply by standing still. Causes: degenerative (the commonest — disc bulge, facet joint hypertrophy, ligamentum flavum buckling/calcification and spondylolisthesis), congenital short pedicles, and secondary causes (trauma, Paget’s disease, achondroplasia, tumour, infection). Examination is often normal AT rest — the classic “great physical signs after exercise” — so ask the patient to walk and re-examine. Straight leg raising is usually negative, unlike disc prolapse. Contrast acute disc prolapse: younger patient, radicular pain in a dermatomal distribution, positive straight leg raise, worse on coughing/sitting and relieved by lying down — L4–L5 and L5–S1 are the commonest levels, and a posterolateral prolapse at L4–L5 compresses the L5 root.
+
+**REMEMBER:** *Bend forward and the canal opens — stenosis loves a shopping trolley.*
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-103338.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-103349.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-103402.jpg)
+
+`Q11221`
+
+---
+
+### 25. Diffuse Idiopathic Skeletal Hyperostosis (DISH)
+
+**PEARL:** Dish (Forestier disease) — flowing ossification along the anterolateral aspect of at least four contiguous vertebrae, with preserved disc spaces, normal sacroiliac joints and no apophyseal joint ankylosis, in a middle-aged or older man, often with type 2 diabetes and obesity.
+
+**UNDERSTAND:** Dish is a non-inflammatory enthesopathy — new bone is laid down where ligaments and tendons attach, without any erosive or synovial disease. That is exactly why the discs and sacroiliac joints are spared: nothing is inflamed inside the joint. It is the mirror image of ankylosing spondylitis, in which inflammation begins in the sacroiliac joints and at the vertebral corners (Romanus lesions/shiny corners), squares the vertebrae and then ossifies the outer annulus (syndesmophytes).
+
+**MUST KNOW:**
+
+| | **DISH** | **Ankylosing spondylitis** |
+| --- | --- | --- |
+| Age/sex | **Older men, diabetes, obesity** | **Young men, 15–35** |
+| Sacroiliac joints | **NORMAL** | **Bilateral symmetrical sacroiliitis — the hallmark** |
+| Disc spaces | **Preserved** | Preserved early, then ossified |
+| Ossification | **Thick, flowing, “melted candle wax” ANTEROLATERAL** | **Thin, vertical, marginal SYNDESMOPHYTES → “BAMBOO SPINE”** |
+| Inflammation | **Absent** — ESR/CRP normal | Present, **HLA-B27 positive** |
+| Symptoms | Stiffness, dysphagia (cervical osteophytes), often incidental | Inflammatory back pain, improves with exercise, worse with rest, night pain |
+
+- Dish is usually asymptomatic; complications include dysphagia from large anterior cervical osteophytes, spinal stenosis, difficult intubation, and unstable fractures after minor trauma (the ankylosed spine behaves like a long bone — as it does in AS).
+- Ankylosing spondylitis extras: enthesitis (Achilles, plantar fascia), anterior uveitis (the commonest extra-articular feature), aortic regurgitation, apical pulmonary fibrosis, cauda equina syndrome, and restricted chest expansion (hence chest tightness). Schober test measures lumbar flexion; treat with exercise, NSAIDs and anti-TNF/anti-IL-17 biologics — DMARDs do not work for axial disease.
+- OPLL (ossification of the posterior longitudinal ligament) frequently coexists with dish and causes cervical myelopathy.
+
+**EXAM CONNECTION:** Look at the sacroiliac joints and the shape of the ossification. Flowing candle wax with normal SI joints = dish.
+
+**REMEMBER:** *Candle wax down the front, joints untouched — dish, not inflammation.*
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/01/11/54.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/11/55.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/11/picture7.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/11/55_HWaf72g.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/11/103.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/11/104.jpg)
+
+`Q11257`
+
+---
+
+### 26. Spondylolisthesis
+
+**PEARL:** Spondylolisthesis = forward slip of one vertebra on another, usually L5 over S1, from a defect in the pars interarticularis. The “beheaded Scottish terrier” sign on oblique X-ray shows the pars break; the “inverted Napoleon hat” on AP film indicates grade V (spondyloptosis).
+
+**UNDERSTAND:** The pars interarticularis is the isthmus of bone between the superior and inferior articular processes — the only bony link resisting forward shear at the lumbosacral junction. On an oblique film the posterior elements form a “Scottie dog” whose neck is the pars; a defect decapitates it. When the slip becomes complete, the L5 body tips forward and is seen end-on from the front as an inverted hat.
+
+**MUST KNOW:**
+
+- Meyerding grading by percentage slip: I ≤ 25%, II 26–50%, III 51–75%, IV 76–100%, V > 100% (spondyloptosis).
+- Clinical: chronic low back pain radiating to both legs, exaggerated lumbar lordosis, a palpable step-off over the spinous processes, tight hamstrings, and neurogenic claudication.
+- Types: dysplastic, isthmic (commonest, from a pars stress fracture in young athletes — gymnasts, cricketers, fast bowlers), degenerative (older women, L4/5, no pars defect), traumatic, pathological, iatrogenic.
+- Management is conservative for most — analgesia, activity restriction, core strengthening; surgical fusion for progressive slip, neurological deficit or intractable pain.
+- Spondylolysis = the pars defect alone, without slip.
+
+**EXAM CONNECTION:** Two image signs from the same disease. Learn Scottie dog collar = spondylolysis, inverted Napoleon hat = grade V slip.
+
+**REMEMBER:** *Break the dog’s neck and the vertebra slides forward.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/e5168b466c214b0ebd52884f0336b046.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0d0c5b0ad249472fa02a04c3cee3f956x1280x1485.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/78ec4299809f44ffba2dfa8f59faad0e.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/060b7aa67fa146f9bdb2b668457b4f8ex934x606.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/aa57611286e84bfa947b14746aff66c8x720x960.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a60f94ab53164841a0e357010da2170dx1280x3636.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b4fcc6bd19cc4cce974ba84fdbbdda35x1280x1198.JPEG)
+
+`MC4412, MG7157`
+
+---
+
+### 27. Chance Fracture
+
+**PEARL:** A horizontal fracture line running transversely through the vertebral body and posterior elements = Chance (seat-belt) fracture — an unstable flexion–distraction injury with ~50% associated intra-abdominal injuries.
+
+**UNDERSTAND:** With a lap belt only, the belt becomes the fulcrum at the anterior abdominal wall, so sudden deceleration hinges the spine around an axis anterior to the vertebral column. Every column is therefore pulled apart rather than crushed — hence distraction with little vertebral body compression, and hence instability despite an unimpressive-looking film.
+
+**MUST KNOW:**
+
+- Site: upper/mid lumbar spine (T12–L2). Variants: bony Chance (through bone), soft/ligamentous Chance (through ligaments, worse prognosis, needs surgical fixation), or mixed.
+- Neurological deficit is uncommon, which makes the injury easy to underestimate.
+- Always look for hollow viscus (bowel, mesentery, pancreas) injury and the seat-belt sign on the abdominal wall — CT abdomen is mandatory.
+- Denis three-column concept: anterior (anterior half of body + ALL), middle (posterior half of body + PLL), posterior (posterior elements). Two or more columns involved = unstable. Chance fractures disrupt middle and posterior columns.
+- Contrast burst fracture (axial compression, middle column comminution with retropulsion into the canal) and wedge compression fracture (anterior column only, stable).
+
+**EXAM CONNECTION:** The mechanism (motor vehicle accident, lap belt) plus the horizontal lucency identify it. Do not confuse with a burst fracture, which has vertical comminution.
+
+**REMEMBER:** *The belt is the hinge, so the spine is pulled apart, not crushed.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/77718635f7f949f9bbaf2188502da363.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/59851172b3db41bea149e72a7bcd130ax1200x1388.JPEG)
+![explanation](https://cdn1.dailyrounds.org/uploads/809c7f2eeeef40559454d092a0888c94.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8ca2cf0bd7054020b23c4f31ff429b9cx1280x1706.JPEG)
+
+`MG6548`
+
+---
+
+### 28. Spinal Injury Classification Systems
+
+**PEARL:** AO-Magerl is for thoracolumbar injuries, not cervical. Cervical injuries use Anderson & D’Alonzo (odontoid), Levine & Edwards (hangman’s), and Allen & Ferguson (subaxial C3–C7).
+
+**UNDERSTAND:** The cervical spine is divided by anatomy and mechanism into three distinct regions — the atlantoaxial complex (a ring-and-peg joint), the C2 pars (which fails in hyperextension), and the subaxial spine (which behaves like a typical vertebral column). Each region fails differently, so each needs its own classification. The thoracolumbar spine behaves as one unit and is classified by the direction of the causative force.
+
+**MUST KNOW:**
+
+- AO-Magerl (thoracolumbar): Type A — compression; Type B — distraction; Type C — rotation/translation (increasing instability).
+- Anderson & D’Alonzo (odontoid/dens): Type I — tip avulsion (stable); Type II — base of dens (commonest and highest non-union rate — watershed blood supply); Type III — extends into the C2 body (good healing).
+- Levine & Edwards — hangman’s fracture = traumatic spondylolisthesis of C2 on C3, from hyperextension; often neurologically intact because the canal is widened.
+- Jefferson fracture — burst fracture of the C1 ring from axial loading; stability depends on the transverse ligament (rule of Spence: combined lateral mass overhang > 7 mm).
+- Denis three-column and TLICS scores guide operative decisions in thoracolumbar injury.
+- Diving injuries typically cause axial loading of the subaxial cervical spine — burst fractures and facet injuries.
+
+**EXAM CONNECTION:** “Unlikely to be used” for a cervical injury → AO-Magerl. Learn each eponym’s specific level.
+
+**REMEMBER:** *Three cervical regions, three eponyms; the thoracolumbar spine has its own.*
+
+`MB2100`
+
+---
+
+---
+
+## Complications of Fractures
+
+### 29. Acute Compartment Syndrome
+
+**PEARL:** Pain out of proportion to the injury and pain ON passive stretch of the compartment muscles are the earliest and most reliable signs; paraesthesia in the nerve traversing the compartment (here, the deep peroneal nerve — first web space) is the first objective sign. Pulses are usually present — their presence never excludes compartment syndrome. If the diagnosis is uncertain, measure the compartment pressure; treatment is emergency fasciotomy.
+
+**UNDERSTAND:** The mechanism is a rise in interstitial pressure within a closed fascial space that exceeds capillary perfusion pressure, so the muscle becomes ischaemic while the larger arteries — which need a far higher pressure to occlude — remain patent. That is precisely why waiting for pulselessness, pallor and paralysis (late signs of established necrosis) is a catastrophic error: by then the limb is already dead.
+
+**MUST KNOW:**
+
+- Diagnostic thresholds: absolute compartment pressure >30 mmHg, or — more reliably — a delta pressure (diastolic BP minus compartment pressure) of <30 mmHg. In an alert patient the diagnosis is clinical; measurement is for the OBTUNDED, anaesthetised, intubated or unreliable patient.
+- High-risk injuries: tibial diaphyseal fracture (the commonest cause overall), proximal tibia, forearm diaphyseal and distal radius fractures, crush injuries, circumferential burns, reperfusion after vascular injury, tight casts and bandages, and bleeding disorders/anticoagulation.
+- First action: split and remove ALL circumferential dressings and casts down to skin, keep the limb AT heart level (neither elevated — which reduces perfusion pressure — nor dependent), give oxygen and analgesia, and correct hypotension. Then fasciotomy without delay.
+- The leg has four compartments (anterior, lateral, superficial and deep posterior) — all four must be released, usually through a two-incision technique. The anterior compartment is most commonly affected, and the deep peroneal nerve deficit (first web space sensation, foot drop) is the classic sign.
+- Sequelae of missed compartment syndrome: Volkmann’s ischaemic contracture (the forearm classic, from supracondylar humeral fracture), myonecrosis with rhabdomyolysis, hyperkalaemia and acute kidney injury, infection and amputation.
+- Muscle tolerates ischaemia for about 4 hours and is irreversibly damaged by 6–8 hours — the entire justification for treating this as a same-hour emergency.
+
+**EXAM CONNECTION:** Severe pain, pain on passive stretch, first web space numbness with present pulses → measure the compartment pressure.
+
+**ALSO KNOW:** Whiteside’s technique measures compartment pressure using an 18-gauge needle, saline-filled syringe, three-way stopcock and a mercury manometer.
+
+**REMEMBER:** *Capillaries close long before arteries do — a present pulse proves nothing.*
+
+`Q9033`
+
+---
+
+### 30. Avascular Necrosis of the Femoral Head
+
+**PEARL:** Hip pain with a limp and X-rays showing increased subchondral radiolucency (the crescent sign), sclerosis and a distorted, flattened articular surface = avascular necrosis of the femoral head. MRI IS the investigation of choice — it detects disease when the X-ray is still normal, and defines the stage and extent. Management follows the FICAT and ARLET stages.
+
+**UNDERSTAND:** The femoral head is a closed compartment fed by end-arteries with poor collateral supply, so any interruption causes segmental infarction. The crucial mechanical point is that the necrotic bone is initially strong — it is the repair process (creeping substitution and resorption) that weakens the subchondral plate and lets it collapse. That is why treatment before collapse (stage I–II) can save the joint, while after collapse (stage III onwards) only arthroplasty helps — the whole staging system is really “before or after the head has fallen in”.
+
+**MUST KNOW:**
+
+- FICAT stages and management: I — normal X-ray, MRI positive → conservative (protected weight-bearing, bisphosphonates). II — sclerosis/cysts without collapse → core decompression ± bone grafting (vascularised fibula in the young). III — crescent sign with subchondral collapse but a preserved joint space → osteotomy or arthroplasty. IV — secondary osteoarthritis → total hip replacement.
+- Causes (“plastic RAGS”): steroids and alcohol (the two commonest atraumatic causes), trauma (femoral neck fracture, dislocation), sickle cell disease, CAISSON disease (dysbaric osteonecrosis), Gaucher’s disease, SLE and antiphospholipid syndrome, radiation, pancreatitis, HIV, and pregnancy. It is bilateral in up to 50–80% of atraumatic cases — so always image both hips.
+- Other sites of AVN and their eponyms: scaphoid proximal pole (Preiser), lunate (KIENBÖCK), talus (Hawkins), femoral head in children (Perthes), second metatarsal head (Freiberg), navicular (KÖHLER), and the capitellum (Panner).
+- Pain is typically groin pain, worse on weight-bearing, with early loss of internal rotation; the range of movement is preserved longer than in septic or tuberculous arthritis.
+- The differential of a destroyed hip in an adult: AVN, tuberculosis (with a narrowed joint space and osteopenia), rheumatoid arthritis, osteoarthritis and metastasis.
+
+**EXAM CONNECTION:** Limp, hip pain, subchondral lucency and distorted articular surface → avascular necrosis.
+
+**REMEMBER:** *It is the repair, not the death, that collapses the head — so treat before the crescent appears.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d4d99ed053c740f89ffd942b56104a07.JPEG)
+
+`Q9040`
+
+---
+
+### 31. Fat Embolism Syndrome
+
+**PEARL:** The major (GURD’S) diagnostic criteria of fat embolism syndrome are: respiratory insufficiency (PaO2 <60 mmHg), neurological impairment, and a petechial rash. Fat globules IN urine (or sputum) is a minor criterion, along with tachycardia, fever, retinal changes, jaundice, thrombocytopenia, anaemia and a raised ESR. It follows long bone (especially femoral shaft) and pelvic fractures, multiple fractures and intramedullary reaming, typically 24–72 hours after injury.
+
+**understand:** Two mechanisms operate together: mechanical — marrow fat is forced into torn venous sinusoids and embolises to the lungs; and biochemical — lipase hydrolyses the neutral fat into free fatty acids, which are directly toxic to the pulmonary capillary endothelium and pneumocytes, producing an ARDS-like picture. The biochemical phase explains the characteristic 24–72-hour latent period — the patient is well at first and deteriorates a day or two later, which is exactly when vigilance lapses.
+
+**MUST KNOW:**
+
+- The petechial rash is the most specific sign (though present in only ~50%): it appears in the axilla, conjunctiva, neck and anterior chest — non-dependent areas supplied by the subclavian and carotid systems, because fat globules float — and fades within a day, so it is easily missed.
+- The commonest presentation is unexplained hypoxia and a fall in oxygen saturation, with confusion or restlessness — so any confused, hypoxic patient 1–3 days after a femoral fracture has fat embolism until proved otherwise. Chest X-ray shows a “SNOWSTORM” appearance late, and CT shows ground-glass opacities.
+- Management is supportive — oxygen, and ventilation with PEEP if needed, fluid resuscitation, and correction of anaemia. *Steroids are not established AS treatment* (there is weak evidence for prophylaxis in high-risk patients); heparin and alcohol infusions are historical.
+- *Prevention IS the key: early (within 24 hours) stabilisation of long bone fractures, adequate resuscitation, oxygenation and analgesia* — early fixation is one of the strongest evidence-based measures in trauma care.
+- Most cases are self-limiting with mortality under 10%, but the syndrome may progress to full ARDS.
+- Distinguish it from pulmonary embolism (later, usually 5–10 days, with pleuritic pain and no rash or confusion), pneumonia, sepsis and head injury.
+
+**EXAM CONNECTION:** “Not in the major diagnostic triad” → fat globules in urine.
+
+**REMEMBER:** *Hypoxia, confusion and axillary petechiae, one to three days after a femoral fracture.*
+
+`Q10237`
+
+---
+
+### 32. Forearm Compartments
+
+**PEARL:** The mobile wad of Henry is the lateral compartment of the forearm (brachioradialis, ECRL, ECRB) and is not commonly involved in acute compartment syndrome. The volar (anterior) compartment is the most commonly involved.
+
+**MUST KNOW:** Within the volar compartment, the deep flexors (FDP, FPL) suffer most — hence the classic Volkmann’s contracture posture: flexion of wrist and fingers, extended MCPs, partially relieved by wrist flexion. Classic cause: supracondylar humerus fracture in a child, or a tight cast.
+
+**REMEMBER:** *Volar compartment is the danger; mobile wad rarely.*
+
+---
+
+---
+
+## Paediatric Orthopaedics
+
+### 33. Perthes Disease
+
+**PEARL:** A 4–9-year-old boy with a painless or mildly painful limp for months, with a fragmented, flattened femoral head on X-ray, has Perthes (LEGG–CALVÉ–Perthes) disease — idiopathic avascular necrosis of the proximal femoral epiphysis, from interruption of the lateral epiphyseal (retinacular) artery. It is unilateral in ~90%.
+
+**UNDERSTAND:** Between about 4 and 9 years, the femoral head’s blood supply is precarious — the ligamentum teres artery has largely regressed and the metaphyseal supply is blocked by the physis, so the head depends almost entirely on the lateral epiphyseal vessels. The disease then follows a stereotyped cycle — necrosis → fragmentation → reossification → remodelling — and the whole aim of treatment is containment: keeping the softened head inside the acetabulum (abduction and internal rotation) so it remoulds as a sphere.
+
+**MUST KNOW:**
+
+- Clinical: limp with pain often referred to the knee or thigh (a classic trap — always examine the hip in a child with knee pain), limitation of abduction and internal rotation, and mild limb shortening. Associations: low birth weight, passive smoking, delayed bone age, ADHD, low socioeconomic status.
+- Early X-ray signs: widening of the joint space, a smaller and denser epiphysis, and the “crescent sign” (subchondral fracture). MRI or bone scan detects it before X-ray changes. Catterall, Salter–Thompson and herring (lateral pillar) classifications grade severity; “head-AT-risk” signs (Gage’s sign, lateral calcification, subluxation, horizontal physis) predict a poor outcome.
+- Prognosis is better the younger the child (under 6 years usually does well with observation) and worse with more femoral head involvement, older age at onset, female sex, and loss of containment.
+- Treatment: observation, activity restriction and physiotherapy to preserve movement in mild cases; containment (abduction bracing, or femoral varus/pelvic osteotomy) in older children with more extensive involvement.
+- The differential of a limping child by age: 0–4 years — DDH, septic arthritis, transient synovitis; 4–10 years — Perthes, transient synovitis, septic arthritis, JIA; 10–16 years — SCFE (an obese adolescent whose hip goes into external rotation on flexion — DREHMANN’S sign), and tumours.
+- Always exclude septic arthritis first (Kocher criteria: fever >38.5 °C, non-weight-bearing, ESR >40, WBC >12,000) — it is the diagnosis that destroys a joint in days.
+
+**EXAM CONNECTION:** Painless limp, 8 years, fragmented femoral head → Perthes disease.
+
+**REMEMBER:** *One artery feeds the head at that age — lose it and the head must be contained while it rebuilds.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/a6b7e83eb5e6429cad756ccfa9820d34.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4648e5cd327446ebbcb5713124cc21c4x720x513.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6f43492cf328450a80eeecb519a8ccdax1001x768.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/265949daa50e406388181e793de23143x1280x1198.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e5e04841e5954754b32fcc00e3ba67fax720x1067.PNG)
+
+`Q8952`
+
+---
+
+### 34. Poliomyelitis — Patterns of Paralysis
+
+**PEARL:** Hand–knee gait in polio is caused by quadriceps weakness — the patient presses on the thigh with the hand to stop the knee buckling in stance. The quadriceps is the muscle most commonly affected; the tibialis anterior is the muscle most commonly completely paralysed; and in the hand, the opponens pollicis. Paralysis is asymmetric, flaccid and purely motor — there is NO sensory loss.
+
+**UNDERSTAND:** Poliovirus destroys the anterior horn cells, which are motor only — hence flaccid, areflexic, patchy weakness with completely preserved sensation, the single feature that separates polio from every traumatic and compressive nerve lesion. Because the damage is at the cell body, muscles atrophy, the limb grows short and deformities develop from unopposed antagonists — so orthopaedic management is about correcting deformity and re-balancing muscles, not restoring nerve function.
+
+**MUST KNOW:**
+
+- The classic deformities: equinus and equinovarus foot (unopposed gastro-soleus), flail foot, the knee “triple deformity” (flexion, posterior subluxation and external rotation of the tibia), flexion–abduction–external rotation contracture of the hip, and limb shortening.
+- Surgical principles in post-polio residual paralysis: operate only after the disease is stable (≥2 years), correct the deformity first (soft tissue release, osteotomy), then perform tendon transfer using a muscle of at least grade 4 power, and finally provide arthrodesis or orthoses for unbalanced joints.
+- Muscle power grading (MRC): 0 none, 1 flicker, 2 movement with gravity eliminated, 3 movement against gravity, 4 against resistance, 5 normal. A transferred muscle loses one grade.
+- The gaits worth distinguishing: high-stepping (foot drop — common peroneal palsy); Trendelenburg/waddling (gluteus medius); ANTALGIC (painful hip/knee); scissoring (spastic cerebral palsy); stamping (sensory ataxia, posterior column); and hand–knee (quadriceps).
+- India was declared polio-free in 2014; the vaccine schedule and AFP surveillance remain examinable public-health material.
+- Post-polio syndrome is new weakness and fatigue decades later in previously affected muscles.
+
+**EXAM CONNECTION:** “Hand–knee gait” → quadriceps weakness.
+
+**REMEMBER:** *Anterior horn cells are motor only — flaccid, patchy, and never numb.*
+
+`Q9008`
+
+---
+
+### 35. Scoliosis and Spinal Bracing
+
+**PEARL:** Congenital scoliosis is defined by a demonstrable vertebral anomaly — hemivertebra, block vertebra, or an unsegmented bar. The most progressive combination is a unilateral unsegmented bar ON the concave side with A contralateral hemivertebra. The Milwaukee brace is a CTLSO used for high thoracic/cervical curves; the Boston brace is a TLSO for curves with an apex at T7 or below.
+
+**UNDERSTAND:** A unilateral unsegmented bar acts as a tether that cannot grow, while the contralateral hemivertebra is an extra growth plate that keeps growing — so the deformity worsens relentlessly with every centimetre of spinal growth. Understanding it as a growth-imbalance problem explains everything about management: progression is fastest during growth spurts, bracing cannot correct a bony anomaly (it only controls flexible curves), and surgery aims to remove or arrest the offending growth.
+
+**MUST KNOW:**
+
+- Bracing works only for flexible idiopathic curves in a growing child (Risser 0–2) with a Cobb angle of ~25–40°; it aims to PREVENT progression, not to correct. Beyond ~45–50°, or with progression despite bracing, surgery (posterior instrumented fusion) is indicated.
+- Idiopathic scoliosis (the commonest overall) is classified by age: infantile (<3 years — usually left thoracic, often resolves spontaneously), juvenile (3–10) and adolescent (>10, typically a right thoracic curve in girls). A left thoracic curve, pain, a rapid neurological change or an atypical pattern demands MRI to exclude a syrinx, tethered cord or tumour.
+- Examination: the ADAM’S forward bend test demonstrates the rib hump of a structural curve; a postural (non-structural) scoliosis — from limb-length inequality or muscle spasm — disappears on bending forward or on sitting.
+- COBB’S angle measures the curve between the most tilted end vertebrae; Risser’s sign (iliac apophysis ossification, 0–5) grades remaining skeletal growth and hence the risk of progression.
+- Congenital scoliosis is associated with VACTERL anomalies — always image the kidneys (renal anomalies in ~25%), heart and spinal cord.
+- Severe thoracic curves (>70–90°) cause restrictive lung disease and, ultimately, cor pulmonale — the reason deformity correction is more than cosmetic.
+
+**EXAM CONNECTION:** Hemivertebra on X-ray → congenital scoliosis; the CTLSO with a neck ring → Milwaukee brace.
+
+**REMEMBER:** *A bar on one side and a hemivertebra on the other — one side cannot grow and the other will not stop.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/0ed0c8fd93cb4adab7506cda10a42bb4.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7d6d28f7f69c4d0bb2bd7e185cbcbf26x570x616.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/e62bedff691049c5814fa3feab9ce2fa.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e9afc0c4ad2e4b06a44729dee539c316x1280x1280.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2b3438081dbe418fb173399e274c123bx720x720.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7997bc8460f245c79ee6571e4bc9643bx1280x1262.JPEG)
+
+`Q9014, Q9021`
+
+---
+
+### 36. Clubfoot (CTEV) and the Ponseti Method
+
+**PEARL:** Treatment of CTEV begins within the first few days to 2 weeks of birth — the earlier the better, while the tissues are maximally pliable. The deformity is cavus, adductus, varus and equinus, and the Ponseti method corrects them in that exact order — “cave” — by weekly manipulation and serial plaster casts, followed in most cases by a percutaneous Achilles tenotomy for the residual equinus.
+
+**UNDERSTAND:** The order is not arbitrary: the cavus must be corrected first by elevating the first metatarsal, because only then does the foot become a single flat unit that can be abducted as a whole. Abduction around the head of the talus then everts the hindfoot automatically — so varus is never corrected by direct eversion. And equinus IS corrected last, because dorsiflexing an unabducted foot produces a “rocker-bottom” deformity. Every step is a consequence of the foot’s mechanics around the talus.
+
+**MUST KNOW:**
+
+- After correction, a foot abduction brace (Denis Browne splint) is worn full-time for 3 months and then at night and nap-time until 4–5 years of age. *Brace NON-compliance IS the commonest cause of relapse* — parental counselling is as important as the casting.
+- Age determines the operation for neglected/late CTEV: under ~3 years → posteromedial soft tissue release; 3–10 years → soft tissue release with bony procedures (DWYER’S calcaneal osteotomy, wedge TARSECTOMY); over 10–12 years with a rigid deformity → triple arthrodesis (fusion of the talonavicular, talocalcaneal/subtalar and calcaneocuboid joints), performed only after skeletal maturity. Ilizarov correction is an alternative for severe rigid deformity.
+- CTEV is commoner in boys, bilateral in ~50%, and mostly idiopathic — but always exclude a secondary cause: spina bifida/myelomeningocele, arthrogryposis, cerebral palsy, and constriction band syndrome (these respond less well).
+- Distinguish postural clubfoot (a flexible foot that can be fully corrected passively, resolving with simple stretching) from true CTEV (rigid, with calf wasting and a smaller foot).
+- The Pirani and Dimeglio scores grade severity and monitor progress.
+- The Ponseti method achieves excellent correction in >90% and has almost entirely replaced extensive primary surgery, which caused stiff, painful, arthritic feet.
+
+**EXAM CONNECTION:** “When to start casting” → within a few days of birth; neglected CTEV at 12 years → triple arthrodesis.
+
+**REMEMBER:** *cave — cavus, adductus, varus, equinus — and the tendo-Achilles is cut last.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/afd8a981bca546acb21ee078341b4cf7.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e59e90661cd9489da70e48c66b033465x720x540.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2f1dac6a8b584f309c6f4575ff1db633x1200x1399.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/397cd668dc374093ad2ca245a002eed4x1280x4599.JPEG)
+
+`Q9037, Q10145, Q10187`
+
+---
+
+### 37. Fractures Around the Child’s Elbow
+
+**PEARL:** Supracondylar fracture of the humerus (5–7 years, fall on the outstretched hand, extension type in ~98%) is classified by Gartland: I undisplaced; II displaced with an intact posterior cortex; III displaced with NO intact posterior cortex. The three-point bony relationship (medial epicondyle, lateral epicondyle, olecranon) IS preserved — which distinguishes it from elbow dislocation. Its classic late complication is cubitus varus (“gunstock” deformity) from malunion, whereas the classic complication of a lateral condyle fracture is NON-union with cubitus valgus and tardy ulnar nerve palsy.
+
+**UNDERSTAND:** The difference in outcome is anatomical. A supracondylar fracture is extra-articular through metaphyseal bone, so it unites readily — the problem is the position in which it unites (varus). A lateral condyle fracture is a Salter–Harris type IV intra-articular fracture bathed in synovial fluid, which inhibits healing — so displacement leads to NON-union, progressive valgus, and years later a stretched ulnar nerve. This is why even minimally displaced lateral condyle fractures are fixed while similar supracondylar fractures are not.
+
+**MUST KNOW:**
+
+- Nerve injury in supracondylar fracture: the anterior interosseous branch of the median nerve is most commonly injured in extension-type fractures (inability to make the “OK” sign — flexor pollicis longus and flexor digitorum profundus to the index finger — with NO sensory loss); the ulnar nerve in flexion-type. Vascular injury involves the brachial artery.
+- *The feared complication IS Volkmann’s ischaemic contracture* — check the radial pulse, capillary refill and pain on passive finger extension repeatedly; a pink pulseless hand after reduction may be observed, but a white pulseless hand requires exploration.
+- Management: Gartland I → above-elbow cast at 90°; II and III → closed reduction and percutaneous K-wire fixation (avoiding the medial pin, or placing it with care, to protect the ulnar nerve); open reduction for irreducible fractures or vascular compromise.
+- Cubitus varus is largely cosmetic (a gunstock deformity, corrected by a lateral closing-wedge osteotomy) whereas cubitus valgus causes progressive ulnar neuropathy — treated by anterior transposition of the ulnar nerve ± osteotomy. The normal carrying angle is 5–15°.
+- The elbow ossification sequence — “CRITOE” (Capitellum 1, Radial head 3, Internal/medial epicondyle 5, Trochlea 7, Olecranon 9, External/lateral epicondyle 11 years) — is essential for reading a child’s elbow X-ray: if the trochlea is visible without the medial epicondyle, the epicondyle is avulsed and entrapped.
+
+**EXAM CONNECTION:** Untreated lateral condyle fracture → cubitus valgus; displaced supracondylar fracture with no intact posterior cortex → Gartland type III.
+
+**REMEMBER:** *Supracondylar unites crooked into varus; lateral condyle fails to unite and drifts into valgus.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/3dce681c3bab4a1192a88aa6fe6bff2f.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/075032e5184741db9838274dc8ccceeex1280x1508.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/46b12fc8e62b460fb459be247d574be8x1280x1602.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6f5f9488f022431ebb7fa92791068eb6x1280x973.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/fd00e0e53297417fb91a4615a317e88f.JPEG)
+
+`Q9041, Q9047`
+
+---
+
+### 38. Slipped Capital Femoral Epiphysis
+
+**PEARL:** An obese adolescent (10–15 years) with hip or referred knee pain, the limb held externally rotated and shortened, with restricted internal rotation, flexion and abduction, and Trethowan’s sign (Klein’s line fails to intersect the epiphysis) = SCFE. The slip occurs through the hypertrophic zone of the physis, and is associated with hypothyroidism, renal osteodystrophy, growth hormone excess and obesity.
+
+**UNDERSTAND:** The hypertrophic zone is the weakest layer of the growth plate — chondrocytes there are large, with little surrounding matrix — so it fails first under shear. Adolescence loads it maximally: rapid growth, increased body weight, and a physis that becomes more vertical (increasing shear rather than compression). Endocrinopathies weaken the physis further, which is why they must be screened for in an atypical patient (too young, too thin, or bilateral).
+
+**MUST KNOW:**
+
+- The femoral head slips posteriorly and inferiorly, so the shaft rotates externally — hence obligatory external rotation on flexing the hip (Drehmann sign) and the loss of internal rotation.
+- X-ray (AP and frog-leg lateral — the lateral is more sensitive and is the investigation of choice; CT is not): Trethowan/Klein line abnormality, widened irregular physis, the “ice-cream slipping off the cone” appearance, and Steel’s metaphyseal blanch sign.
+- Classification: stable (able to weight-bear, better prognosis) vs unstable (cannot bear weight — up to 50% risk of AVN).
+- Treatment: urgent in-situ fixation with a single cannulated screw — do not attempt reduction (it strips the retinacular blood supply). Prophylactic fixation of the opposite hip is considered, especially with endocrine disease.
+- Complications: avascular necrosis and CHONDROLYSIS, later femoroacetabular impingement and osteoarthritis.
+- Always examine the hip in a child complaining of knee pain — the obturator nerve supplies both (Hilton’s law).
+
+**exam connection:** Multi-statement selection. True: hypertrophic zone, hypothyroidism association, Trethowan’s sign. False: “internal rotation normal” (it is the movement lost) and “CT is the investigation of choice” (it is the frog-leg lateral X-ray).
+
+**ALSO KNOW:** The femoral head slips posteriorly and inferiorly relative to the neck, so the metaphysis impinges on the anterior acetabular rim the moment the hip is flexed. The limb must externally rotate to clear the obstruction — which is exactly why internal rotation and abduction fail while extension, which moves away from the impingement, is preserved. Typically an overweight adolescent boy (10–16 years) during the growth spurt; associated with hypothyroidism, growth hormone therapy, hypogonadism, renal osteodystrophy — so screen for endocrinopathy if bilateral or atypical age. ~20–40% become bilateral — some advocate prophylactic fixation of the other side. *Flex the hip and it must roll outward.*
+
+**REMEMBER:** *Fat adolescent, knee pain, foot turned out — fix it where it lies.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b23ae0fc22e442d59468b158d195551e.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/36d68f0d17ec4d609106778933139f66x1024x700.jpeg)
+
+`Q11130`
+
+---
+
+### 39. Osteochondritis Eponyms
+
+**PEARL:** Kienböck — lunate. Osgood–Schlatter — tibial tuberosity. Panner — capitulum of the humerus. Calvé — vertebral body (vertebra plana). Perthes — femoral head.
+
+**UNDERSTAND:** These are all osteochondroses — avascular necrosis of an ossification centre in a growing skeleton, occurring where an epiphysis or apophysis has a precarious, single-source blood supply and is subject to repetitive traction or compression. Traction apophysitis (Osgood–Schlatter, Sever) affects tendon insertions in active adolescents; true epiphyseal AVN (Perthes, Panner, Freiberg) affects articular surfaces. Most are self-limiting because the growing skeleton revascularises and remodels.
+
+**MUST KNOW — the full eponym list:**
+
+- Perthes — femoral head (boys 4–8 years, painless limp, “sagging rope” and crescent signs, treated by containment; Catterall/Herring classification).
+- Osgood–Schlatter — tibial tuberosity (adolescent athletes, pain on kneeling, treated with rest); Sinding-Larsen–Johansson — inferior pole of the patella.
+- Sever — calcaneal apophysis; Freiberg — 2nd metatarsal head; Köhler — navicular; Kienböck — lunate; Preiser — scaphoid; Panner — capitulum (contrast osteochondritis dissecans of the capitulum in older throwing athletes); Calvé — vertebral body (vertebra plana; must exclude eosinophilic granuloma); Scheuermann — vertebral ring apophyses → rigid thoracic kyphosis with ≥3 wedged vertebrae; van Neck — ischiopubic synchondrosis; Blount — proximal tibial epiphysis (tibia vara).
+- Osteochondritis dissecans — a separate entity: a fragment of subchondral bone and cartilage separates, classically from the lateral aspect of the medial femoral condyle, causing locking and a loose body (“joint mouse”); Wilson’s sign positive.
+
+**EXAM CONNECTION:** Pure matching. The two most confused are Kienböck (lunate) vs Köhler (navicular) and Panner (capitulum) vs Calvé (vertebra).
+
+**REMEMBER:** *Kienböck’s Kwrist lunate, Köhler’s foot navicular, Panner’s elbow, Calvé’s flat vertebra.*
+
+`Q11141`
+
+---
+
+### 40. Congenital Talipes Equinovarus: Order of Correction
+
+**PEARL:** In the Ponseti method, the deformities are corrected in the order cavus → adduction → varus → equinus (mnemonic “cave”) — cavus is corrected first and equinus last, usually requiring a percutaneous tenotomy of the tendo Achillis.
+
+**UNDERSTAND:** The sequence is dictated by mechanics, not convenience. The cavus (a pronated forefoot relative to a supinated hindfoot) must be corrected first by supinating the forefoot and elevating the first ray, because until the foot is a single flexible unit, the midfoot and hindfoot cannot be abducted together. Equinus is left to last because forcing dorsiflexion before the heel has been abducted out of varus produces a rocker-bottom foot — the classic iatrogenic complication.
+
+**MUST KNOW:**
+
+- CTEV components (“cave”): Cavus, Adductus (forefoot), Varus (hindfoot), Equinus (ankle).
+- Ponseti technique: serial weekly manipulation and above-knee casts (5–6 casts) with the thumb as counter-pressure on the lateral head of the talus (never on the calcaneocuboid joint); ~90% then need a percutaneous tendo-Achillis tenotomy; followed by a foot abduction brace (Denis Browne splint) full-time for 3 months and at night until age 4 — poor brace compliance IS the commonest cause of relapse.
+- Start treatment as early as possible — ideally in the first week of life, while the ligaments are maximally responsive to stretching.
+- Assessment: Pirani and Dimeglio scores.
+- Distinguish postural talipes (fully correctable passively, resolves with stretching) from rigid structural CTEV; look for associations — spina bifida, arthrogryposis, Streeter dysplasia, and the syndromic forms (which respond less well).
+- Surgery (posteromedial soft-tissue release) is now reserved for resistant or neglected cases; it produces a stiffer foot than Ponseti management.
+
+**EXAM CONNECTION:** “First deformity corrected” → cavus. “Last” → equinus. Learn cave in order.
+
+**also know:** The order is not arbitrary: the cavus must be corrected first (by supinating the forefoot to align it with the hindfoot), because attempting to abduct a pronated forefoot would worsen the cavus and create a rocker-bottom foot. Equinus is corrected last, because the tight Achilles resists until everything in front of it has been released. Where each deformity occurs: cavus — midtarsal joint; adduction — talonavicular joint; inversion — subtalar joint; equinus — ankle. Male predominance; 50% bilateral; calf and medial foot soft tissues are hypoplastic. Always look for associated conditions: developmental dysplasia of the hip, spina bifida, arthrogryposis. Contrast congenital vertical talus (rocker-bottom, rigid) and postural talipes calcaneovalgus (opposite deformity, resolves spontaneously).
+
+**REMEMBER:** *cave — and you dig out the cavus first, the equinus last.*
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-102714.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-102726.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-102757.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-102812.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-102825.jpg)
+
+`Q11210`
+
+---
+
+### 41. Salter–Harris Classification and the Thurston Holland Sign
+
+**PEARL:** The Thurston Holland fragment — a triangle of metaphyseal bone attached to the separated epiphysis — indicates a Salter–Harris type II physeal injury, the commonest type, especially in children over 10.
+
+**UNDERSTAND:** The growth plate fails through its weakest layer — the zone of hypertrophy (large cells, sparse matrix). A shearing force propagates along that plane and then, rather than exiting through the epiphysis, turns out through the metaphysis, chipping off the characteristic triangle. Because the germinal (resting and proliferative) layers stay with the epiphysis and its blood supply, type II injuries rarely disturb growth — the prognosis follows directly from which side of the physis the fracture exits.
+
+**MUST KNOW — Salter–Harris (“SALTR”):**
+
+- I — Slipped/Straight through the physis only (no fracture line in bone; X-ray may be normal — diagnose clinically; e.g. SCFE, birth injuries).
+- II — Above the physis: through the physis and out through the metaphysis = the Thurston Holland fragment. Commonest (~75%), good prognosis.
+- III — Lower/beLow: through the physis and out through the epiphysis — intra-articular, needs anatomical reduction.
+- IV — Through/Transverse: crosses metaphysis, physis and epiphysis — intra-articular, high risk of growth arrest, requires ORIF.
+- V — Rammed/cRush injury of the physis — worst prognosis, often diagnosed retrospectively when growth arrest occurs.
+- Higher grade = greater risk of premature physeal closure, limb-length discrepancy and angular deformity. Follow these children until skeletal maturity, and warn parents at the outset.
+- Other named radiological signs in the options: Trethowan’s sign — Klein’s line failing to intersect the epiphysis in SCFE; TERRY Thomas sign — a widened scapholunate gap (scapholunate dissociation); teardrop sign — herniated orbital contents into the maxillary sinus in a blow-out fracture of the orbital floor.
+- Reduce physeal injuries gently and promptly — repeated forceful manipulation itself damages the growth plate.
+
+**EXAM CONNECTION:** The named fragment identifies the type. Metaphyseal triangle = type II. Learn SALTR in order with the exit route of each.
+
+**ALSO KNOW:** The hypertrophic zone is weakest because its cells are large, its matrix is sparse and it is not yet mineralised — a natural cleavage plane. The prognosis of each type follows directly from whether the germinal layer and the joint surface are involved: types I–II shear along the safe plane and remodel well; types III–IV cross the articular surface and the germinal layer, so they need anatomical reduction and internal fixation; and type V crushes the germinal layer itself — the worst prognosis, often diagnosed only in retrospect when growth arrest appears. The physeal zones from epiphysis to metaphysis: reserve (germinal) → proliferative (columns, longitudinal growth) → hypertrophic (subdivided into maturation, degeneration and provisional calcification — the weakest) → metaphysis (primary spongiosa). Rickets and scurvy affect the zone of provisional calcification; achondroplasia affects the proliferative zone. Children’s bones differ importantly from adults’: thick vascular periosteum (rapid healing and inherent stability), a physis (so growth disturbance and remodelling both occur), and plastic bone (greenstick and torus fractures). *Remodelling IS best when the child is young, the fracture is near the physis, and the deformity is IN the plane of joint movement* — rotational deformity never remodels. A ligament is stronger than the physis in children — so what would be a sprain in an adult is a physeal injury in a child; tenderness over the physis after an “ankle sprain” in a child is a Salter–Harris I until proved otherwise. Never mistake a physis for a fracture: compare with the opposite side when in doubt. *It splits where the cartilage is fattest and least mineralised — safely below the germinal layer.*
+
+**REMEMBER:** *A chip of metaphysis rides with the epiphysis — type II, and the growth plate usually survives.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/c4e15e6b50304193abd7ad5f548c97fe.PNG)
+![explanation](https://cdn1.dailyrounds.org/uploads/cb2397de8ecd4d9a8d2c7ad0f648e23a.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/36d68f0d17ec4d609106778933139f66x1024x700.jpeg)
+![explanation](https://cdn1.dailyrounds.org/uploads/2ace3e5f483345cb80598521cc408d52.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9d49ed63a91246ae976876919820e765x407x333.JPEG)
+
+`Q11823`
+
+---
+
+### 42. Sprengel Deformity
+
+**PEARL:** Sprengel = congenital elevation of the scapula, the commonest congenital shoulder anomaly. It is associated with Klippel–Feil syndrome, scoliosis/kyphosis, cervical rib, spina bifida, diastematomyelia, torticollis and renal anomalies — but not with dextrocardia.
+
+**UNDERSTAND:** The scapula normally descends from the cervical region to the thorax in the third fetal month. Failure of descent leaves it high, small and often tethered by an omovertebral bar. Because the arrest occurs during a period of cervical somite and neural tube development, the associated anomalies are all cervical spine, spinal cord and renal — organs developing in the same window. Cardiac situs is determined much earlier and by a different mechanism, so dextrocardia is unrelated.
+
+**MUST KNOW:**
+
+- Clinical: elevated, small, prominent scapula; the neck looks short and webbed; abduction and elevation are limited because the scapula cannot rotate.
+- The omovertebral bar — a fibrous, cartilaginous or bony bridge from the scapula to the cervical spine — is the main mechanical block.
+- Always examine the cervical spine (Klippel–Feil: short neck, low hairline, restricted neck movement) and image the kidneys.
+- Treatment: physiotherapy for mild cases; Woodward or Green procedure (scapular repositioning) for cosmetic and functional deformity in children before age 6–8.
+- Associated congenital scoliosis requires monitoring for progression.
+
+**EXAM CONNECTION:** “Not associated” → dextrocardia. The correct associations all lie in the cervical spine, cord or kidney.
+
+**REMEMBER:** *The scapula never came down, and everything else in that neck went wrong with it.*
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7c0bd69f56924b10b8c2b32184e6636ax396x354.PNG)
+
+`MC2620, MB9173`
+
+---
+
+### 43. Polio — Which Muscles
+
+**PEARL:** In poliomyelitis the quadriceps is the muscle most commonly affected, and its weakness causes the hand-to-knee gait — the patient pushes the thigh with the hand to stop the knee buckling.
+
+**UNDERSTAND:** Polio destroys anterior horn cells, producing a patchy, asymmetric, purely motor paralysis with no sensory loss. The quadriceps is the sole knee extensor with no synergist to compensate, so its loss is immediately disabling in stance — hence the characteristic hand support.
+
+**MUST KNOW:**
+
+- Most commonly affected muscle: quadriceps (often partial). Most common muscle to be completely paralysed: tibialis anterior (→ foot drop). Most common in the hand: opponens pollicis.
+- Features: asymmetric flaccid paralysis, absent reflexes, wasting, deformity and shortening of the limb, normal sensation.
+- Knee in severe disease develops the triple deformity: flexion, posterior subluxation and external rotation.
+- Management: calipers/orthoses, tendon transfers, arthrodesis, correction of deformity — after the paralysis has stabilised (usually 2 years).
+- Post-polio syndrome — new weakness decades later from overuse of surviving motor units.
+- Axonotmesis — axon disrupted with endoneurium intact → Wallerian degeneration then spontaneous regeneration at ~1 mm/day; neurapraxia — conduction block, full recovery in days to weeks; neurotmesis — complete transection, needs surgical repair.
+
+**EXAM CONNECTION:** Gait-to-muscle mapping. Hand-knee gait → quadriceps; high-stepping gait → tibialis anterior; Trendelenburg lurch → gluteus medius.
+
+**REMEMBER:** *No other muscle can extend the knee, so the hand must do it.*
+
+`MC9502, MF7379`
+
+---
+
+### 44. Commonest Fracture in Childhood
+
+**PEARL:** The distal radius is the most commonly fractured bone in childhood — more common than the clavicle.
+
+**must know:** Mechanism: fall on an outstretched hand. Paediatric-specific patterns: torus (buckle), greenstick, and plastic deformation — all because a child’s bone is more porous and the periosteum is thick. Salter–Harris type II is the commonest physeal injury; a missed type V (crush) causes growth arrest.
+
+**REMEMBER:** *Distal radius beats the clavicle in children; buckle and greenstick are unique to them.*
+
+---
+
+### 45. Triple Arthrodesis
+
+**PEARL:** Fusion of three joints — talonavicular, talocalcaneal (subtalar) and calcaneocuboid. Performed after 10–12 years of age, once skeletal maturity is near. Talonavicular fusion is the most difficult to achieve.
+
+**MUST KNOW:** Indications: painful, deformed, unstable hindfoot — residual polio, neglected clubfoot, cerebral palsy, tarsal coalition, post-traumatic arthritis. It corrects deformity and gives a stable plantigrade foot, but abolishes inversion/eversion and increases stress on the ankle and midfoot.
+
+**REMEMBER:** *Three joints (talonavicular, subtalar, calcaneocuboid), after 10–12 years; the talonavicular is the stubborn one.*
+
+---
+
+### 46. Congenital Scoliosis
+
+**PEARL:** A single hemivertebra at T9 with concavity to the right in the lower thoracic spine indicates congenital scoliosis.
+
+**MUST KNOW:** Caused by failure of formation (hemivertebra) or failure of segmentation (unilateral unsegmented bar) — the unsegmented bar with a contralateral hemivertebra has the worst prognosis and progresses fastest. Bracing does not work for congenital curves (the defect is bony) — surgery is required for progression. Always screen for VACTERL associations: cardiac, renal (ultrasound) and spinal cord anomalies (MRI — tethered cord, diastematomyelia).
+
+**REMEMBER:** *Congenital scoliosis = bony defect → braces fail; check heart, kidneys and cord.*
+
+---
+
+---
+
+## Bone and Joint Infections
+
+### 47. Chronic Osteomyelitis and the Sequestra
+
+**PEARL:** *Staphylococcus aureus* is by far the commonest cause of osteomyelitis, with *E. Coli*, *Streptococcus pyogenes*, *Proteus*, *Pseudomonas*, *S. Epidermidis* (with implants) and *M. Tuberculosis* also implicated — *klebsiella* is a rare cause. The radiological hallmark of chronic osteomyelitis is a sequestrum (dead bone) within an INVOLUCRUM (new subperiosteal bone), with a CLOACA — sclerotic fragments surrounded by lucency.
+
+**UNDERSTAND:** Bone infection becomes chronic because of a vascular accident: pus under pressure in the rigid medullary canal strips the periosteum and thromboses the nutrient vessels, infarcting a segment of cortex. That dead fragment (sequestrum) has no blood supply, so antibiotics cannot reach it and it harbours biofilm — which is precisely why chronic osteomyelitis cannot be cured by antibiotics alone and requires surgical SEQUESTRECTOMY and saucerisation.
+
+**MUST KNOW:**
+
+- Sequestrum types are a favourite one-liner: tubular — pyogenic osteomyelitis. Ring — around pin tracts of external fixators. Black — actinomycosis. COKE/sandy/feathery — tuberculosis. Feathery — also syphilis. CORALLIFORM — Perthes disease.
+- Sickle cell disease is the classic exception where *Salmonella* osteomyelitis is characteristic (though *S. Aureus* is still commonest overall even in sickle cell); intravenous drug users get *Pseudomonas*, and prosthetic joints get *S. Epidermidis*.
+- Acute haematogenous osteomyelitis in children affects the metaphysis of long bones (slow sluggish blood flow in the metaphyseal sinusoids); in infants under 1 year, transphyseal vessels allow spread into the epiphysis and joint — hence septic arthritis. MRI is the most sensitive early investigation (X-ray changes take 10–14 days).
+- BRODIE’S abscess is a walled-off subacute osteomyelitis — a lytic lesion with a sclerotic rim in the metaphysis, causing night pain relieved by aspirin, mimicking osteoid osteoma.
+- Treatment: culture-directed antibiotics for 4–6 weeks (longer in chronic disease) plus surgical debridement, dead-space management (antibiotic-impregnated PMMA beads), stabilisation and soft tissue cover.
+- Complications: pathological fracture, growth disturbance, amyloidosis, and Marjolin’s ulcer (squamous carcinoma in a chronic discharging sinus).
+
+**EXAM CONNECTION:** “Unlikely cause of chronic osteomyelitis” → *Klebsiella*; “ring sequestrum” → pin tract infection.
+
+**ALSO KNOW:** Pain, swelling, raised ESR/CRP, and sclerotic bone with lucencies on X-ray = chronic osteomyelitis. Among common candidates, *Klebsiella* is the least likely cause. Special associations: *Salmonella* in sickle cell disease, *Pseudomonas* in IV drug users and puncture wounds through footwear, TB in the spine (Pott’s), group B *Streptococcus* and *E. Coli* in neonates. *Staph always; Salmonella in sickle cell; Pseudomonas through the shoe. Klebsiella rarely.*
+
+**REMEMBER:** *Dead bone has no blood supply — so no antibiotic reaches it and the knife must.*
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/295bf4a3cddd4400aa62800f53989bdax1280x1176.JPEG)
+
+`Q8919, Q9024`
+
+---
+
+### 48. Tuberculosis of the Spine (Pott’s Disease)
+
+**PEARL:** A cold abscess without neurological complication IS not an indication for surgery — it is drained only if large or symptomatic, and usually responds to ATT. Surgical indications: progressive neurological deficit (including cauda equina/conus syndromes), progressive deformity or instability, failure of/resistance to ATT, recurrence, cord compression, severe pain, and a doubtful diagnosis needing tissue. Anterolateral decompression is the operation of choice for Pott’s paraplegia.
+
+**UNDERSTAND:** Tuberculosis begins in the vertebral body (usually the PARADISCAL region, spreading beneath the anterior longitudinal ligament), destroying the anterior column while the posterior elements are spared — which is why the spine collapses into a sharp angular kyphosis (gibbus) rather than a smooth curve, and why decompression must be approached anterolaterally: the compressing material (pus, sequestra, caseous tissue) lies in front of the cord, so a posterior laminectomy would remove the only remaining stable column and make things worse.
+
+**MUST KNOW:**
+
+- The thoracolumbar junction is the commonest site. Radiology: reduced disc space with destruction of adjacent vertebral end-plates (contrast with metastasis, which spares the disc), paravertebral soft-tissue shadow (a fusiform “bird’s nest” abscess), and vertebral collapse. MRI is the investigation of choice.
+- Treatment is primarily medical — ATT for 12–18 months cures most patients, with rest and bracing.
+- Pott’s paraplegia is classified as early-onset (during active disease — from abscess, granulation tissue or sequestra; largely reversible and responds well to ATT ± decompression) and late-onset (years later — from bony ridge, gliosis or severe kyphosis; poor prognosis).
+- Cold abscess: a fluctuant swelling without the redness, warmth or tenderness of an acute abscess (hence “cold”). It tracks along fascial planes — a psoas abscess presents in the groin or thigh with a flexion deformity of the hip and a positive psoas sign; cervical disease gives a retropharyngeal abscess with dysphagia. Aspirate through a NON-dependent site with a Z-track to avoid a chronic sinus.
+- Assess and document the neurological status at every visit — deterioration is the key surgical trigger.
+- Spinal TB accounts for ~50% of skeletal tuberculosis; the hip and knee are the next commonest joints.
+
+**EXAM CONNECTION:** “Not an indication for surgery” → cold abscess without neurological complication.
+
+**REMEMBER:** *Tuberculosis eats the front of the spine — so decompress from the front, and never laminectomise.*
+
+`Q9018`
+
+---
+
+### 49. Tuberculosis of the Hip
+
+**PEARL:** TB hip progresses through three stages with a characteristic sequence: (1) synovitis — the hip lies in flexion, abduction and external rotation (the position of maximum joint capacity) with apparent lengthening; (2) arthritis — muscle spasm pulls it into flexion, adduction and internal rotation with apparent shortening; (3) erosion — articular cartilage and acetabulum destroyed, with subluxation/dislocation and true shortening. So the order is synovial hypertrophy → apparent shortening → cartilage destruction → dislocation.
+
+**UNDERSTAND:** The position of the limb is dictated by the volume of the joint. Early, when the joint is distended with effusion, the hip adopts flexion–abduction–external rotation because that position holds the most fluid with the least pain. Later, as the effusion is replaced by granulation tissue and the powerful adductors and flexors go into spasm, it swings into flexion–adduction–internal rotation. And apparent length changes because the pelvis tilts to compensate: abduction tilts it down (apparent lengthening), adduction tilts it up (apparent shortening) — with no change in true length until bone is destroyed.
+
+**MUST KNOW:**
+
+- Early clinical signs: night cries (the child wakes screaming as muscles relax and the diseased surfaces grate), a limp, thigh/knee pain, muscle wasting, and limitation of ALL movements — especially extension, abduction and internal rotation.
+- Radiology: rarefaction and osteopenia, a wandering acetabulum, reduced joint space, and eventually a “mortar and PESTLE” or wandering acetabulum appearance; MRI detects it earliest.
+- Treatment is primarily ATT for 12–18 months with traction to prevent deformity and relieve spasm; late stages need arthrodesis or (in adults with healed disease) total hip replacement.
+- The overall behaviour of skeletal TB: it is a monoarticular, insidious, painful disease with marked muscle wasting and cold abscess formation, preferring the spine (~50%) > hip > knee, and showing JUXTA-articular osteoporosis with a late loss of joint space (in contrast to pyogenic arthritis, which destroys the joint space rapidly).
+- Distinguish TB hip from Perthes disease, transient synovitis, septic arthritis and juvenile idiopathic arthritis — the chronicity, night cries, constitutional symptoms and marked wasting favour tuberculosis.
+
+**EXAM CONNECTION:** Sequence question → synovial hypertrophy → apparent shortening → cartilage destruction → dislocation.
+
+**REMEMBER:** *The hip lies where it holds most fluid — abducted early, adducted once spasm takes over.*
+
+`Q9899`
+
+---
+
+### 50. Salmonella Osteomyelitis and Orthopaedic Triangles
+
+**PEARL:** *Salmonella* osteomyelitis is remembered by the letter S: several bones involved, symmetrical involvement, severe disease, spine may be involved, sickle cell anaemia the classic predisposition, and stool culture may be positive. (It is symmetrical, not asymmetrical.) Among orthopaedic triangles: the anconeus triangle — olecranon tip, lateral epicondyle and radial head — is the landmark for the posterolateral portal in elbow arthroscopy and for elbow aspiration; Bryant’s triangle measures supratrochanteric shortening at the hip; and Ward’s triangle is the radiolucent area in the femoral neck between the trabecular groups and an early indicator of osteoporosis.
+
+**UNDERSTAND:** *Salmonella*’s predilection in sickle cell disease has two explanations that reinforce each other: bowel infarction from sickling allows bacteraemia, and infarcted, necrotic bone provides an ideal culture medium that phagocytes (already impaired by functional asplenia) cannot clear. That is why the infection is multifocal and symmetrical — it seeds wherever infarction has occurred, and infarction in sickle cell disease is itself symmetrical.
+
+**MUST KNOW:**
+
+- *Staphylococcus aureus remains the commonest cause of osteomyelitis even IN sickle cell disease* — *Salmonella* is merely disproportionately commoner than in the general population, which is the nuance exams exploit.
+- The great difficulty in sickle cell disease is distinguishing bone infarction (vaso-occlusive crisis) from osteomyelitis — both cause fever, pain and raised inflammatory markers. Favouring infection: swinging fever, a single focus with progressive local signs, positive blood cultures, and a fluid collection on MRI. Aspiration and culture settle it.
+- Ward’s triangle is used in DEXA reporting; the SINGH index grades osteoporosis on plain radiographs by the progressive loss of the trabecular groups in the femoral neck.
+- Bryant’s triangle: a right-angled triangle formed by the ASIS, the tip of the greater trochanter and the perpendiculars from them — the horizontal limb shortens in supratrochanteric shortening (fracture neck of femur, hip dislocation, coxa vara, destruction of the head). NELATON’S line (ASIS to ischial tuberosity — the trochanter should lie below it) and SHOEMAKER’S line serve the same purpose.
+- Sickle cell disease also causes avascular necrosis of the femoral and humeral heads, dactylitis (hand–foot syndrome) in infants, and vertebral “H-shaped/codfish” vertebrae.
+
+**EXAM CONNECTION:** “Incorrect about *Salmonella* osteomyelitis” → asymmetrical involvement (it is symmetrical); the elbow triangle → anconeus.
+
+**ALSO KNOW:** *Salmonella* osteomyelitis is characteristically symmetrical (and diaphyseal, often multifocal). Its classic setting is sickle cell disease — where bone infarction gives the organism a devascularized site to seed. Even in sickle cell disease, *Staph aureus* remains the overall commonest organism; the key differential problem is distinguishing osteomyelitis from a vaso-occlusive bone infarct crisis (MRI helps).
+
+**REMEMBER:** *Salmonella follows the S’s — several, symmetrical, severe, spine, sickle cell, stool.*
+
+`Q10200, Q9964`
+
+---
+
+### 51. Infectious Flexor Tenosynovitis
+
+**PEARL:** Kanavel’s four cardinal signs of pyogenic flexor tenosynovitis: (1) fusiform swelling of the whole digit (“sausage finger”), (2) the finger held in slight flexion, (3) tenderness along the course of the flexor tendon sheath, and (4) severe pain ON passive extension (the earliest and most reliable sign). It follows a puncture wound over a flexor crease and is a surgical emergency. A midpalmar space abscess is a different entity.
+
+**UNDERSTAND:** The flexor sheath is a closed, avascular, synovial-lined tunnel — an ideal culture medium in which pus rapidly builds pressure, strangling the tendon’s already tenuous blood supply from the vincula. Within hours the tendon undergoes necrosis and the sheath scars, so delay costs the finger’s function permanently. The finger sits flexed because that is the position of maximum sheath capacity and least pain — the same principle as the hip in septic arthritis.
+
+**MUST KNOW:**
+
+- Anatomy dictates the spread: the flexor sheath of the thumb is continuous with the radial bursa, and that of the little finger with the ulnar bursa — and the two communicate in the space of Parona at the wrist. Infection can therefore track from the thumb to the little finger and back — a “horseshoe abscess”.
+- Treatment: urgent surgical drainage and irrigation of the sheath (through limited proximal and distal incisions), IV antibiotics covering *Staphylococcus aureus* and *streptococcus* (add anaerobic and *Eikenella* cover for human bites, and *Pasteurella* for animal bites), splinting in the position of function and early mobilisation once controlled.
+- A human bite over the metacarpophalangeal joint (“fight bite”) looks trivial and is notorious — it seeds the joint and must be explored, never simply sutured.
+- Related hand infections: PARONYCHIA (nail fold), FELON (a closed pulp-space infection under tension — drain early to prevent osteomyelitis of the distal phalanx), web space (“collar-stud”) abscess, and deep palmar space infections.
+- Never suture an infected OR contaminated hand wound, always elevate and splint the hand in the position of safety (metacarpophalangeal joints flexed, interphalangeal joints extended), and begin movement as soon as infection is controlled — stiffness is the enemy.
+
+**EXAM CONNECTION:** “All true except” → midpalmar space abscess (it is a flexor sheath infection).
+
+**REMEMBER:** *Sausage finger, held flexed, tender along the sheath, agony on extension — drain it today.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/6498a2a86d8044679ad50453a138dbc3.JPEG)
+
+`Q10344`
+
+---
+
+### 52. Paediatric Elbow and Hip Infections — Two Eponyms
+
+**PEARL:** “fish-tail deformity” is a rare late complication of distal humeral fractures in children — a wedge-shaped defect in the centre of the distal humerus (between the capitellum and trochlea) from avascular necrosis of the medial part of the trochlear ossification centre, producing a fish-tail-shaped articular contour. “Tom Smith’s arthritis” is septic arthritis of the hip IN infancy, which destroys the femoral capital epiphysis.
+
+**UNDERSTAND:** Both are consequences of the precarious blood supply of growing epiphyses. The medial trochlea is supplied by a single lateral vessel crossing the physis and has no metaphyseal collateral, so any disturbance devascularises it. Similarly, in the infant hip, transphyseal vessels allow metaphyseal infection to reach the epiphysis, and pus under pressure within the tight capsule tamponades the retinacular vessels — so the femoral head is destroyed within days, leaving a short, unstable, dislocating hip.
+
+**MUST KNOW:**
+
+- *Septic arthritis of the hip IN A child IS A surgical emergency* — cartilage is destroyed by bacterial and leucocyte enzymes within hours. Treat by urgent arthrotomy/arthroscopic washout and drainage plus IV antibiotics; delay beyond 4–6 hours worsens outcome.
+- The Kocher criteria distinguish septic arthritis from transient synovitis: fever >38.5 °C, NON-weight-bearing, ESR >40 mm/h and WBC >12,000 — with all four present, the probability of septic arthritis exceeds 99%. Ultrasound detects the effusion; aspiration confirms the diagnosis.
+- In infants the signs are subtle: pseudoparalysis of the limb, irritability, refusal to feed, and the hip held in flexion, abduction and external rotation. There may be NO fever.
+- Sequelae of neglected infantile hip sepsis (Tom Smith’s arthritis): destruction of the head and neck, pathological dislocation, severe shortening, and a flail or fused hip — reconstruction is very difficult.
+- The distal humerus has four ossification centres and its blood supply makes it uniquely prone to growth disturbance — fish-tail deformity, cubitus varus and cubitus valgus are all late results of childhood elbow fractures.
+- Any child with a limp, fever or refusal to use a limb must have septic arthritis and osteomyelitis excluded first — the joint is destroyed while the diagnosis is being debated.
+
+**EXAM CONNECTION:** Fish-tail deformity → distal humeral fracture in children; Tom Smith’s arthritis destroys → the femoral capital epiphysis.
+
+**REMEMBER:** *Growing epiphyses live on end-arteries — infection or fracture, and the cartilage nucleus dies.*
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/42.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/43.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/04/41.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/04/42.jpg)
+
+`Q11467, Q11468`
+
+---
+
+### 53. Septic Arthritis and the Kocher Criteria
+
+**PEARL:** Septic arthritis shows widening of the joint space (an effusion pushes the surfaces apart) — not narrowing — is most often caused by Staphylococcus aureus at all ages including neonates, frequently needs surgical drainage (arthrotomy or arthroscopic washout), and is distinguished from transient synovitis by the Kocher criteria.
+
+**UNDERSTAND:** Early joint space widening is a useful early clue precisely because it is counter-intuitive: the pus is under pressure inside a closed cavity. That same pressure, plus bacterial and leucocyte enzymes, destroys articular cartilage within days — which is why septic arthritis is a surgical emergency and why antibiotics alone are insufficient (they cannot sterilise or decompress a pus-filled cavity). Late films instead show joint space narrowing and destruction.
+
+**MUST KNOW:**
+
+- Kocher criteria (differentiating septic arthritis from transient synovitis of the hip in a child): (1) NON-weight-bearing; (2) fever >38.5 °C; (3) ESR >40 mm/hr; (4) WBC >12,000/mm³. Probability of septic arthritis: 1 criterion ~3%, 2 ~40%, 3 ~93%, 4 ~99%. (CRP >20 mg/L is a useful added predictor.)
+- Joint aspiration is the definitive investigation — send for cell count, Gram stain, culture and crystals. Septic fluid: WBC >50,000/mm³ with >75–90% neutrophils, low glucose, turbid. Ultrasound detects an effusion; X-rays are normal early.
+- Organisms: *S. Aureus* overall (all ages, including neonates and children); *Neisseria gonorrhoeae* in sexually active young adults (migratory polyarthralgia, tenosynovitis, pustules); *Salmonella* in sickle cell disease; Group B streptococcus and Gram-negatives in neonates; Pseudomonas in IV drug users and after puncture wounds through footwear.
+- Treatment: urgent drainage + IV antibiotics (empirical anti-staphylococcal cover, adjusted to culture), then oral therapy for 3–6 weeks; splint then early mobilisation.
+- In the hip and shoulder — deep joints where pressure cannot decompress — drainage is always surgical and urgent, because of the high risk of avascular necrosis of the femoral head.
+- Sickle cell disease + osteomyelitis = Salmonella (though *S. Aureus* remains commonest overall in osteomyelitis) — the sickle-cell association is the examinable one.
+
+**EXAM CONNECTION:** Multi-statement true/false. Remember early widening (not narrowing) and that Kocher is a hip-specific decision rule for children.
+
+**REMEMBER:** *Pus under pressure widens the joint and eats cartilage in days — aspirate, wash out, treat.*
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/24/screenshot-2024-01-23-194843.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/24/screenshot-2024-01-23-195047.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/08/17/untitled-1325.jpg)
+
+`Q11229, Q11241`
+
+---
+
+## Bone Tumours
+
+### 54. Ewing Sarcoma versus Osteomyelitis — Imaging Before Biopsy
+
+**PEARL:** In a child or adolescent with a destructive lytic bone lesion, fever, raised ESR and leucocytosis, Ewing sarcoma and osteomyelitis are clinically and radiologically indistinguishable — and the next step IS MRI, before biopsy. MRI defines the extent, soft tissue and marrow involvement, and the safest biopsy site; biopsy remains the gold standard for diagnosis but must come after imaging.
+
+**UNDERSTAND:** The sequence matters because a badly placed biopsy tract contaminates compartments and can convert a limb-salvageable tumour into an amputation — the biopsy tract must lie within the field of the future resection, which can only be planned once the tumour’s extent is known. Imaging always precedes biopsy in suspected bone tumours, and the biopsy should ideally be done by the surgeon who will perform the definitive resection.
+
+**MUST KNOW:**
+
+- Ewing sarcoma: peak age 5–20 years, arising in the diaphysis of long bones and in flat bones (pelvis, scapula, ribs). X-ray: a permeative “MOTH-eaten” lytic lesion with lamellated “onion-peel” periosteal reaction, Codman’s triangle, and a large soft tissue MASS. It mimics infection with fever, raised ESR and leucocytosis.
+- **Histology: small round blue cells that are PAS-positive (glycogen) and CD99 (MIC2) positive, with the *t(11;22) EWSR1–FLI1 translocation* — the diagnostic molecular test.
+- **Treatment: neoadjuvant chemotherapy, then local control by surgery and/or radiotherapy, then adjuvant chemotherapy. *Ewing sarcoma IS the most radiosensitive of the primary bone tumours* — unlike osteosarcoma, which is radioresistant.
+- Compare osteosarcoma: 10–20 years, metaphysis around the knee (distal femur/proximal tibia), a “sunburst”/spiculated periosteal reaction with Codman’s triangle, raised alkaline phosphatase, osteoid produced by malignant cells, metastasis to lung — treated with neoadjuvant chemotherapy and limb-salvage resection.
+- The differential of a permeative lesion in a child also includes Langerhans cell histiocytosis (eosinophilic granuloma — a “punched-out” lytic lesion, vertebra plana) and leukaemia/lymphoma.
+- Staging (Enneking) and PET/bone scan follow the diagnosis, not precede it.
+
+**EXAM CONNECTION:** Lytic lesion with fever and raised ESR → MRI next, not biopsy or PET.
+
+**ALSO KNOW:** Ewing sarcoma arises from a primitive neuroectodermal cell, which explains everything about it: the undifferentiated small round blue cell morphology, the neural markers (synaptophysin, NSE), its membership of the “small round blue cell tumour” family, and its diaphyseal origin (medullary cavity) rather than the metaphyseal origin of osteosarcoma. CD99 (MIC-2) is a surface glycoprotein that is strongly and membranously positive — the single most useful discriminator. Presentation: pain and swelling with fever, raised ESR and leucocytosis — it mimics osteomyelitis, and both may show a lytic lesion; biopsy settles it. Age 5–25 years, commonest in the femoral diaphysis, pelvis, tibia and humerus. Other small round blue cell tumours: neuroblastoma (raised urinary VMA/HVA, N-myc, NSE), lymphoma (LCA/CD45), rhabdomyosarcoma (desmin, myogenin), small cell carcinoma, medulloblastoma. Prognosis depends on metastases at presentation (lungs and bone) and on the degree of chemotherapy-induced necrosis.
+
+**REMEMBER:** *Image first, biopsy second — a careless tract costs the limb.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/49e39ded8ed74d09aa4b0c165aed0633.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d708e92ba9364da4936c7fdb704c0f4fx720x1363.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c3c6a201b4ff4777a09699639315f12fx1280x1407.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ac5acbf0c4fd4e8bb8b94f8c1a773e09x1280x1176.JPEG)
+
+`Q8922`
+
+---
+
+### 55. Giant Cell Tumour of Bone
+
+**PEARL:** An expansile, eccentric, lytic, subarticular lesion reaching the epiphysis in a young adult (20–40 years), with a “soap-bubble” appearance, NO calcification and NO significant reactive sclerosis = giant cell tumour (osteoclastoma) — commonest at the distal femur, then proximal tibia and distal radius. Treatment is extended curettage (with adjuvants) plus bone graft (autograft) or cement.
+
+**UNDERSTAND:** The tumour is composed of neoplastic mononuclear stromal cells that express rank-ligand, recruiting the abundant reactive osteoclast-like giant cells that do the bone destruction. That single mechanism explains both the radiological lysis without new bone formation and the modern medical treatment — denosumab, an anti-RANKL antibody, used for inoperable, recurrent or spinal/sacral lesions.
+
+**MUST KNOW:**
+
+- “Extended” curettage means mechanical curettage plus an adjuvant to kill residual tumour at the margins — a high-speed burr, phenol, liquid nitrogen, hydrogen peroxide or bone cement (whose exothermic reaction also kills cells). Simple curettage alone has a very high recurrence rate (up to 50%); extended curettage reduces it to ~10–20%.
+- GCT is classified as locally aggressive/benign but it can metastasise to the lung (~2–3%) while remaining histologically benign (“benign metastasising GCT”), and it can rarely transform to malignancy — so a chest X-ray/CT is part of the work-up.
+- It arises after physeal closure — which is why it is a tumour of skeletally mature young adults and why it reaches the subchondral bone; in a skeletally immature patient the same site suggests something else.
+- The differential of an epiphyseal lytic lesion: GCT, chondroblastoma (younger, with calcification and a sclerotic rim), clear cell chondrosarcoma, and infection.
+- The differential of a “soap-bubble”/expansile lesion: aneurysmal bone cyst (metaphyseal, fluid–fluid levels on MRI, younger patients), brown tumour of hyperparathyroidism (always check serum calcium — it is the great mimic), and fibrous dysplasia.
+- Pathological fracture, joint destruction and local recurrence are the main complications; en-bloc resection with reconstruction is used for extensive joint destruction.
+
+**EXAM CONNECTION:** Soap-bubble epiphyseal lesion → extended curettage with bone grafting.
+
+**ALSO KNOW:** GCT is defined by its location in the ends of bones after growth has stopped — it cannot cross an open physis, so it is essentially never seen in children. The lesion is composed of neoplastic mononuclear stromal cells that overexpress RANKL, recruiting vast numbers of reactive osteoclast-like giant cells that resorb bone — hence the aggressive lysis, the thin expanded cortex, and the dramatic response to denosumab (an anti-RANKL antibody). The lower end of the femur is the commonest site for giant cell tumour, osteosarcoma and osteomyelitis — an examinable triple. Always check serum calcium and PTH before diagnosing GCT — a brown tumour is a treatable metabolic lesion, not a neoplasm. *Ends of bones after the plates close, soap bubbles up to the joint — GCT.*
+
+**REMEMBER:** *Eccentric, epiphyseal, expansile and after the physis closes — and RANKL is both the mechanism and the drug target.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/50d75944d680436780799bd6790aeec4.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/06be4c40d88a4d0dbc05ac7ebfd0bc5dx720x775.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b92598d330514a3babb74ad481395e07x1279x1560.JPEG)
+
+`Q9015`
+
+---
+
+### 56. Pathological Fractures and Bone Metastases
+
+**PEARL:** An elderly patient unable to bear weight after trivial trauma, with X-rays showing bone destruction, has a pathological fracture — and in the elderly the commonest cause is metastasis. Clues: age, pain at the site before the fracture, multiple lesions, a known primary, and an unusual pattern such as a transverse “banana” fracture through abnormal bone. The skeleton is the third commonest site of metastasis (after lung and liver).
+
+**UNDERSTAND:** Metastases home to the axial skeleton and proximal long bones because that is where red marrow and its slow, sinusoidal blood flow persist in adults — hence the distribution: vertebrae, pelvis, proximal femur, ribs, skull and proximal humerus. Spread to the vertebrae is favoured by the valveless Batson’s vertebral venous plexus, which allows tumour cells (classically from prostate) to bypass the lungs.
+
+**MUST KNOW:**
+
+- The primaries: “BLT with a Kosher Pickle” — breast, lung, thyroid, kidney, prostate (plus multiple myeloma, which is the commonest primary bone malignancy in adults). Lytic — lung, kidney, thyroid, gastrointestinal. Blastic (sclerotic) — prostate (the classic) and breast (which is mixed). Kidney and thyroid metastases are typically solitary, expansile and very vascular — embolise before surgery.
+- A bone scan is the screening test of choice for skeletal metastases (except in myeloma, which is often bone-scan negative because there is no osteoblastic response — use a skeletal survey, low-dose whole-body CT or PET). PET-CT and MRI are more sensitive for marrow disease.
+- MIRELS’ score (site, pain, lesion type, size) predicts impending fracture — a score of ≥8–9 warrants prophylactic fixation, which is far easier and gives a better result than fixing after the bone breaks.
+- Treatment is palliative and multidisciplinary: internal fixation (usually intramedullary nailing of the whole bone, or endoprosthetic replacement), radiotherapy for pain, bisphosphonates or denosumab to reduce skeletal-related events, and systemic therapy for the primary.
+- Always biopsy A solitary destructive lesion before fixing it — a presumed metastasis may be a primary sarcoma, and intramedullary nailing of a sarcoma contaminates the entire bone.
+- Suspect myeloma in an elderly patient with bone pain, anaemia, renal impairment, hypercalcaemia, a very high ESR and punched-out lytic lesions with a normal ALP.
+
+**EXAM CONNECTION:** Elderly patient, trivial trauma, destructive lesion with otherwise normal bone density → metastasis.
+
+**REMEMBER:** *Pain before the break, in an old patient, through a hole in the bone — biopsy before you nail.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/9545cc4094ed4f7790a90a1c8d8caa1b.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f5c6d490eece469ea217e5bbaf5f2c2ax738x770.JPEG)
+
+`Q9045`
+
+---
+
+### 57. Osteochondroma — Signs of Malignant Transformation
+
+**PEARL:** A cartilage cap thickness > 2 cm on MRI is the key indicator of malignant transformation of an osteochondroma into chondrosarcoma.
+
+**UNDERSTAND:** The osteochondroma grows by endochondral ossification of its cartilage cap, which normally thins and stops growing at skeletal maturity. A cap that remains thick — or thickens — means the cartilage is still proliferating when it should not be, which is the definition of malignant change. Everything else on the list (pain after puberty, growth after skeletal maturity, cortical destruction) is the same principle observed clinically.
+
+**MUST KNOW:**
+
+- Pathognomonic feature: cortical and medullary continuity with the underlying bone — that is what defines the lesion, and its presence is normal, not sinister.
+- Osteochondromas grow away from the joint — that direction is normal, and growth “toward the joint” is not a recognised malignancy criterion.
+- Other suspicious features: growth after skeletal maturity, new pain, lucency within the lesion, cortical destruction, a soft tissue mass, increased scintigraphic uptake.
+- Malignant transformation is rare (~1% solitary) but rises to 5–25% in hereditary multiple exostoses (EXT1/EXT2).
+- Compare the other cartilage lesions: enchondroma — central, medullary, popcorn calcification, common in the hand; Ollier disease = multiple enchondromas (with deformity and shortening); Maffucci syndrome = enchondromas plus soft tissue haemangiomas and a very high malignant risk (~25% sarcoma by 40 years in Ollier).
+
+**EXAM CONNECTION:** The cap thickness is the answer; option C (continuity with the marrow cavity) is deliberately included because it is a diagnostic, not a malignant, feature.
+
+**REMEMBER:** *A cartilage cap that keeps growing is a chondrosarcoma.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/80256ef6b3a54a8f991441d95e9e4b7a.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/227864ea55164471bdfa40d253356f9d.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5c42cbc386f24d9296075f107819323cx1280x1013.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3a981da579514c35abce6a43d4644cb6x1279x2028.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d0f9846c6d9b4ccfbe638d7f69f8d35cx1273x1126.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f4948509552a456fa5c1f8da0cfb6034x638x917.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/164805c1958b4acd89127890015e4f1ex145x240.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c270a3182e8b4c88aee57604251e2a99x1280x2072.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/730b18c6eeb4404b951c573b2fd9683dx512x410.PNG)
+
+`MF9190, MF5245`
+
+---
+
+### 58. Fibrous Dysplasia
+
+**PEARL:** Shepherd’s crook deformity of the proximal femur + ground-glass lytic lesion = fibrous dysplasia, where normal trabecular bone is replaced by fibro-osseous tissue.
+
+**UNDERSTAND:** The lesional tissue is mechanically weak, immature woven bone in a fibrous stroma — it cannot withstand the varus stress at the femoral neck, so repeated microfractures and remodelling gradually bend it into a shepherd’s crook. On X-ray, the haphazard woven bone scatters X-rays uniformly, producing the hazy “ground-glass” density rather than a sharply lytic or sclerotic lesion.
+
+**MUST KNOW:**
+
+- Caused by a post-zygotic activating GNAS mutation — hence mosaic distribution and the monostotic/polyostotic forms.
+- McCune–Albright syndrome = polyostotic fibrous dysplasia + café-au-lait macules with irregular “coast of Maine” borders + precocious puberty (and other endocrinopathies). Mazabraud syndrome = fibrous dysplasia + intramuscular myxomas.
+- Radiological pattern recognition worth memorising: sunray spiculation and Codman’s triangle → osteosarcoma; onion-peel periosteal reaction → Ewing sarcoma; soap bubble → giant cell tumour and adamantinoma; ground glass → fibrous dysplasia; popcorn/comma calcification → chondrosarcoma; stippled/punctate → chondroblastoma; fallen fragment → simple bone cyst.
+- Giant cell tumour: 20–40 years, slight female predominance, epiphyseal/metaphyseal and eccentric, subarticular, expansile lytic soap-bubble lesion without calcification or periosteal reaction; commonest at the distal femur, then proximal tibia; benign but locally aggressive, with about 2–5% malignant transformation (not 30%) and a capacity for benign pulmonary metastasis.
+
+**EXAM CONNECTION:** Image-based. The two proximal femoral deformities to distinguish are Shepherd’s crook (fibrous dysplasia) and coxa vara from other causes.
+
+**REMEMBER:** *Weak woven bone bends under load and looks like frosted glass.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/a522513ebaa34d1d92a296750f670d82.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cf126e6c690c4afc9a24e0adef28deeex1024x700.jpeg)
+![question](https://cdn1.dailyrounds.org/uploads/cc6b8f86f8b743a4b849b24a2a173c10.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ce70bc4237aa476895fa17ad1ba0052ax720x775.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4fa0d93be1a74fd1b912ae6e6fdb11e9x1280x1184.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e0b87da53c294194bad5fc8a83c1222fx1279x1560.JPEG)
+
+`MB5186, MF7548`
+
+---
+
+---
+
+## Metabolic Bone Disease
+
+### 59. Primary Hyperparathyroidism
+
+**PEARL:** Bone pain, fatigue, generalised osteoporosis, hypercalcaemia and hypophosphataemia = primary hyperparathyroidism. Once the biochemical diagnosis is made (raised calcium with an inappropriately raised PTH), the best localising investigation is the ⁹⁹ᵐTc-sestamibi scan, usually with spect/CT.
+
+**UNDERSTAND:** Sestamibi is a lipophilic cation that accumulates in mitochondria, and parathyroid adenomas are packed with mitochondria-rich Oxyphil cells — so they retain the tracer while normal thyroid tissue washes it out, giving the delayed-phase retention that identifies the adenoma. Crucially, localisation is not diagnosis: the diagnosis is biochemical, and imaging is done only to plan a minimally invasive parathyroidectomy.
+
+**MUST KNOW:**
+
+- Skeletal manifestations (“osteitis fibrosa cystica”): subperiosteal resorption of the radial border of the middle phalanges (the most specific radiological sign), “pepper-POT” skull, tapering of the distal clavicle, brown tumours (osteoclastic giant-cell lesions), and generalised osteopenia. The classic quartet: “stones, bones, abdominal groans and psychic moans”.
+- ~85% are due to a single adenoma, ~15% hyperplasia, and <1% carcinoma. Consider MEN 1 (parathyroid, pancreas, pituitary) and MEN 2A (parathyroid, medullary thyroid carcinoma, phaeochromocytoma).
+- Distinguish secondary hyperparathyroidism (chronic kidney disease/vitamin D deficiency — low or normal calcium, high phosphate, high PTH) and tertiary (autonomous glands after long-standing secondary disease — high calcium and high PTH). And exclude familial hypocalciuric hypercalcaemia — high calcium with a low urinary calcium excretion — which must not be operated on.
+- Indications for parathyroidectomy: symptomatic disease, serum calcium >1 mg/dL above the upper limit, age <50, osteoporosis or fragility fracture, eGFR <60, nephrolithiasis or hypercalciuria.
+- Watch for hungry bone syndrome (profound hypocalcaemia) after removing a long-standing adenoma.
+- Alongside sestamibi, high-resolution ultrasound is complementary, and 4D-CT is used when both are equivocal.
+
+**EXAM CONNECTION:** Hypercalcaemia + hypophosphataemia + bone pain → sestamibi scan.
+
+**REMEMBER:** *Oxyphil cells are stuffed with mitochondria — so they hold on to the sestamibi.*
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/99bc0ed00c7445fd83f6c172e98038cbx512x512.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/666a460de5f9487294c804cd28a46d5bx720x1197.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/49d4133d5b6e49a394882e929d8be212x1280x1246.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/57436a7d9dac4a02a03a9d08d991b811x720x720.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ea56ff526ee445e7ba55188fea556f7fx672x526.JPEG)
+
+`Q8921`
+
+---
+
+### 60. Osteoporosis — Screening and Diagnosis
+
+**PEARL:** DEXA (dual-energy X-ray absorptiometry) is the investigation of choice, and screening is routine in women AT 65 and MEN AT 70 (earlier with risk factors, after a fragility fracture, or in postmenopausal women under 65 with risk factors). Diagnosis: T-score ≤ −2.5 at the lumbar spine, femoral neck or total hip; osteopenia is −1 to −2.5. Bone scan and quantitative CT are not routinely used.
+
+**UNDERSTAND:** The T-score compares the patient with a young healthy adult (peak bone mass) and defines the disease; the Z-score compares with age-matched controls and is used in premenopausal women, MEN under 50 and children, where a Z-score ≤ −2.0 signals “below the expected range for age” and should prompt a search for secondary causes. A bone scan is useless because osteoporosis is a quantitative loss of normal bone with normal metabolic turnover — there is nothing for the tracer to highlight.
+
+**MUST KNOW:**
+
+- Biochemistry IS normal IN primary osteoporosis (calcium, phosphate and alkaline phosphatase all normal) — abnormal results indicate something else: osteomalacia (low calcium/phosphate, high ALP, high PTH), hyperparathyroidism (high calcium, low phosphate), Paget’s disease (isolated very high ALP with normal calcium), or myeloma.
+- X-rays are insensitive — 30–50% of bone mass must be lost before osteopenia is visible — but they reveal the consequences: vertebral compression fractures, “codfish”/biconcave vertebrae, and picture-framing.
+- FRAX estimates the 10-year fracture probability and guides treatment when the T-score is in the osteopenic range.
+- Secondary causes to exclude: glucocorticoids (the commonest drug cause), hyperthyroidism, hyperparathyroidism, hypogonadism, malabsorption/coeliac disease, chronic kidney and liver disease, myeloma, alcohol and smoking, anticonvulsants and heparin.
+- Treatment: calcium and vitamin D, weight-bearing exercise, fall prevention and smoking/alcohol cessation; bisphosphonates first-line (watch for oesophagitis, osteonecrosis of the jaw and atypical subtrochanteric femoral fractures); denosumab (anti-RANKL — must not be stopped abruptly, as rebound vertebral fractures occur); teriparatide (recombinant PTH — the only anabolic agent, given intermittently, for severe disease); romosozumab; and raloxifene/HRT in selected women.
+- The commonest osteoporotic fractures are vertebral (often silent), the distal radius (Colles’) and the hip.
+
+**EXAM CONNECTION:** “DEXA is done routinely at” → 65 years in women; “tests not commonly used” → bone scan and quantitative CT.
+
+**ALSO KNOW:** Treatment thresholds and agents have moved on: romosozumab (an anti-sclerostin antibody, 12 monthly doses, with a boxed warning for myocardial infarction and stroke) and teriparatide/abaloparatide are anabolic agents used first in very high-risk patients, followed by an antiresorptive — because the sequence anabolic-then-antiresorptive gains far more bone than the reverse. Denosumab must never simply be stopped — discontinuation causes rebound bone loss and multiple vertebral fractures, so it is always followed by a bisphosphonate. Bisphosphonate drug holidays are considered after 5 years oral / 3 years intravenous in patients no longer at high risk, weighing atypical femoral fracture and osteonecrosis of the jaw.[^1]
+
+**REMEMBER:** *T-score diagnoses, Z-score investigates — and the chemistry is normal in primary osteoporosis.*
+
+`Q9013, Q9022`
+
+---
+
+### 61. Rickets
+
+**PEARL:** A child with poor growth, swelling at the wrists and costochondral junctions, and a markedly raised alkaline phosphatase, whose wrist X-ray shows cupping, fraying, splaying and widening of the metaphysis, has rickets. The rachitic rosary is the row of painless costochondral swellings. Primary hyperparathyroidism does not cause a rachitic rosary.
+
+**UNDERSTAND:** The physis fails at the zone of provisional calcification: without adequate calcium and phosphate, the hypertrophic chondrocytes cannot mineralise or be removed, so cartilage piles up disorderly and the physis widens — producing the cupped, frayed metaphysis on X-ray and the palpable swelling at every growing junction (wrists, costochondral joints, ankles). The ALP is high because osteoblasts are working furiously on unmineralisable osteoid — which is why it is the single most useful screening test.
+
+**MUST KNOW:**
+
+- Biochemistry by cause: vitamin D deficiency (nutritional) — low calcium, low phosphate, high ALP, high PTH, low 25-OH vitamin D. Hypophosphataemic (X-linked/vitamin D-resistant) rickets — low phosphate with normal calcium and normal PTH, caused by PHEX mutation with excess FGF23 and renal phosphate wasting (treat with oral phosphate and calcitriol, or burosumab). Renal rickets — high phosphate, low calcium, high PTH, azotaemia.
+- Clinical features by age: craniotabes and delayed fontanelle closure in infancy; then the rosary, Harrison’s sulcus, wrist widening, frontal bossing, delayed dentition, hypotonia; and once walking, genu varum or valgum, coxa vara and a waddling gait. Severe hypocalcaemia causes tetany, seizures and stridor.
+- The adult equivalent is osteomalacia — bone pain, proximal myopathy with a waddling gait, and LOOSER’S zones (pseudofractures) on X-ray.
+- *Tumour-induced osteomalacia* is a paraneoplastic syndrome of hypophosphataemia and renal phosphate wasting caused by FGF23-secreting mesenchymal tumours — haemangiopericytoma (the classic), non-ossifying fibroma, osteoblastoma, osteosarcoma and fibrosarcoma. Carcinoma of the breast does not cause it. Removing the tumour cures it.
+- Prevention and treatment: vitamin D (cholecalciferol) and calcium supplementation, sunlight exposure, and treatment of the underlying cause; deformities usually remodel once healing occurs, with osteotomy reserved for residual deformity after 2 years of correction.
+
+**EXAM CONNECTION:** Cupping and fraying with ALP >1500 → rickets; “tumour not causing osteomalacia” → breast carcinoma.
+
+**REMEMBER:** *Unmineralised cartilage piles up at every growth plate — cupping, fraying and a rosary of ribs.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b96ba0de255c405891527173735b0de5.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8304d32eb63241a79bb599822608ba51x1280x1326.JPEG)
+
+`Q9038, Q9012, Q10204`
+
+---
+
+### 62. Paget Disease of Bone (Osteitis Deformans)
+
+**PEARL:** The “blade of grass” / flame-shaped advancing lytic wedge is the radiological hallmark of the osteolytic (first) phase of Paget disease. The later phases give “picture-frame” and ivory vertebrae and a “cotton-wool” skull.
+
+**UNDERSTAND:** Paget disease is a disorder of grossly accelerated, disorganised bone turnover driven by abnormal osteoclasts. It begins as a wave of resorption advancing along the shaft — visible as the sharply demarcated flame front — followed by frantic compensatory osteoblastic activity that lays down structurally chaotic woven bone. The bone becomes bigger, denser but weaker and hypervascular, which explains every complication: bowing, fissure fractures, high-output cardiac failure and warmth over the affected limb.
+
+**MUST KNOW:**
+
+- Phases: (1) osteolytic — blade of grass/flame; (2) mixed — picture-frame vertebra, cotton-wool skull, “osteoporosis circumscripta” of the skull; (3) sclerotic/burnt-out — dense, enlarged, deformed bone.
+- Biochemistry: markedly raised alkaline phosphatase with normal calcium and phosphate — the classic pattern. Bone scan shows the extent (highly sensitive).
+- Sites: pelvis, femur, skull, tibia, vertebrae. Most patients are asymptomatic; symptomatic disease gives bone pain, deafness (VIII nerve compression or ossicular involvement), skull enlargement (“the hat no longer fits”), sabre tibia and bowing, pathological/fissure fractures, secondary osteoarthritis and spinal stenosis.
+- Complications to remember: osteosarcoma (~1%, heralded by a sudden increase in pain and a rising ALP — the commonest cause of osteosarcoma in the elderly), high-output cardiac failure, hypercalcaemia with immobilisation.
+- Treatment: bisphosphonates (zoledronate is first-line) for pain, before elective surgery on pagetic bone, and for neurological complications; calcitonin is an alternative.
+
+**EXAM CONNECTION:** X-ray sign → phase. Flame/blade of grass = lytic; picture-frame vertebra and cotton-wool skull = mixed; uniformly dense enlarged bone = sclerotic.
+
+**REMEMBER:** *A flame of resorption eats along the bone first, then chaos rebuilds it bigger and weaker.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/b35179303a794f21a6afbf920613a3f7.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/73e04614513446d697efa0befc290e5cx1280x756.JPEG)
+
+`Q11137`
+
+---
+
+### 63. Osteopetrosis (Marble Bone Disease)
+
+**PEARL:** An infant with failure to thrive, macrocephaly with frontal bossing, pancytopenia and hepatosplenomegaly, and X-rays showing diffusely dense bones with “bone-within-bone” and “sandwich” (rugger-jersey) vertebrae, has osteopetrosis — a defect of osteoclastic bone resorption (CLCN7, carbonic anhydrase II).
+
+**UNDERSTAND:** Osteoclasts cannot resorb bone, so primary spongiosa is never removed and the marrow cavity is progressively obliterated. Every clinical feature follows from that one fact: no marrow → pancytopenia → extramedullary haematopoiesis → hepatosplenomegaly; no remodelling of foramina → cranial nerve compression (blindness, deafness, facial palsy) and hydrocephalus; and unremodelled bone is brittle, so it is dense yet fractures easily — the central paradox of the disease.
+
+**MUST KNOW:**
+
+- Two forms: severe autosomal recessive (infantile, “malignant” — presents as above, fatal without treatment) and autosomal dominant (Albers-Schönberg, adult, benign — often an incidental finding, with fractures and mild anaemia).
+- Carbonic anhydrase II deficiency gives osteopetrosis plus renal tubular acidosis and cerebral calcification — the osteoclast needs CA-II to acidify the resorption lacuna.
+- Biochemistry: calcium and phosphate low or normal with a raised PTH and normal vitamin D; alkaline phosphatase may be raised.
+- Treatment: haematopoietic stem cell transplantation is curative for the infantile form (osteoclasts derive from the monocyte–macrophage lineage, so donor marrow supplies functional osteoclasts — an elegant confirmation of the pathogenesis). Interferon-γ, calcitriol and supportive care otherwise.
+- Distinguish from osteogenesis imperfecta (blue sclerae, thin osteopenic bones, COL1A1/2) and achondroplasia (short limbs with a normal trunk, FGFR3, normal marrow).
+- Erlenmeyer flask deformity of the metaphyses is shared with Gaucher disease and thalassaemia.
+
+**EXAM CONNECTION:** The combination dense bones + pancytopenia is unique; osteogenesis imperfecta and rickets both have decreased density.
+
+**REMEMBER:** *Too much bone, no marrow — dense, blind, anaemic and still fracturing.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/5502f05c4901430e962f4cf8f8d772af.JPEG)
+
+`Q11138`
+
+---
+
+### 64. Scurvy in the Adult Skeleton
+
+**PEARL:** Farmers on a diet of only rice and pulses (no fresh fruit or vegetables) with bone pain, joint swelling, gait disturbance and bleeding are deficient in vitamin C — scurvy, preventable with fresh fruit and vegetables.
+
+**UNDERSTAND:** Ascorbate is the cofactor for prolyl and lysyl hydroxylase, the enzymes that hydroxylate collagen so it can form stable triple helices and cross-links. Without it collagen is defective everywhere connective tissue matters: capillary walls (perifollicular haemorrhage, bleeding gums, subperiosteal haemorrhage), bone matrix (defective osteoid → fragile bone and painful subperiosteal bleeds), and wound healing (old scars break down). Rice and pulses contain essentially no vitamin C and are also destroyed by prolonged cooking.
+
+**MUST KNOW:**
+
+- Clinical: perifollicular hyperkeratotic papules with corkscrew hairs, swollen bleeding spongy gums (in the dentate), petechiae and ecchymoses, arthralgia and haemarthrosis, poor wound healing, anaemia (iron malabsorption and bleeding), fatigue and irritability.
+- Infantile scurvy (Barlow disease): the child lies still with the legs flexed and abducted — “pseudoparalysis” from painful subperiosteal haemorrhage; “frog-leg” posture; costochondral “scorbutic rosary” (sharp, angular — contrast the smooth rachitic rosary).
+- Radiological signs: “white line of Frankel” (dense zone of provisional calcification), “TRUMMERFELD/scurvy zone” (lucent band beneath it), “Pelkan spur” (lateral metaphyseal spurs), “WIMBERGER ring sign” (sclerotic ring around the epiphysis), and generalised “ground-glass” osteopenia with subperiosteal haemorrhage.
+- Treatment: vitamin C — symptoms improve within days.
+- Contrast rickets (vitamin D): widened, cupped, frayed metaphyses, rachitic rosary, Harrison’s sulcus, bowed legs, delayed fontanelle closure, raised ALP and PTH with low calcium/phosphate.
+- Vitamin C also aids non-haem iron absorption (reduces Fe³⁺ to Fe²⁺) and acts as an antioxidant; excess causes oxalate stones.
+
+**EXAM CONNECTION:** The dietary history is the clue — a monotonous cereal-and-pulse diet lacks vitamin C, while a polished-rice diet without pulses would suggest thiamine (beri-beri).
+
+**REMEMBER:** *No hydroxylation, no collagen — bleeding gums, bleeding periosteum, breaking scars.*
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/19/screenshot-2024-09-19-092757.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/19/screenshot-2024-09-19-092802.png)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/19/screenshot-2024-09-19-093002.png)
+
+`Q11211`
+
+---
+
+### 65. Investigating Osteoporosis
+
+**PEARL:** DEXA is the investigation of choice. Bone scan and quantitative CT are not routinely used. X-ray and biochemistry (calcium, phosphate, ALP) have a role — the latter to exclude other diseases.
+
+**UNDERSTAND:** In primary osteoporosis the biochemistry is normal — the bone is quantitatively reduced but qualitatively normal. That normality is diagnostically useful: abnormal calcium, phosphate or alkaline phosphatase points away from osteoporosis toward osteomalacia, hyperparathyroidism, myeloma or metastasis. A bone scan detects increased turnover, which osteoporosis does not produce, so it is negative and unhelpful except for finding occult fractures.
+
+**MUST KNOW:**
+
+- DEXA at the lumbar spine and hip; T-score ≤ −2.5 = osteoporosis, −1 to −2.5 = osteopenia. Z-score ≤ −2 in a young patient prompts a search for secondary causes.
+- Plain X-ray is insensitive — 30–50% of bone mass must be lost before it shows; findings include cod-fish (biconcave) vertebrae, vertical trabecular accentuation, and vertebral wedging.
+- Risk factors: age, female sex, low BMI (< 18.5), smoking, alcohol, glucocorticoids, previous fragility fracture, family history of hip fracture, early menopause, immobility.
+- Typical fragility fractures: distal radius (Colles’), vertebrae, hip.
+- Treatment: calcium and vitamin D, bisphosphonates (first line), denosumab, teriparatide/romosozumab (anabolic, for severe disease), plus fall prevention.
+- FRAX estimates 10-year fracture probability and guides treatment thresholds.
+
+**EXAM CONNECTION:** “Not commonly used” → bone scan and quantitative CT. Note that “chemical analysis” IS used — to exclude other diagnoses, not to make this one.
+
+**REMEMBER:** *Normal chemistry is part of the diagnosis, not evidence against it.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/ea36103522cd4a58b73b9ea1162d107e.PNG)
+
+`MD6691, MD0674`
+
+---
+
+### 66. Tumour-Induced Osteomalacia
+
+**PEARL:** Tumour-induced osteomalacia — hypophosphataemia, renal phosphate wasting and osteomalacia — is a paraneoplastic syndrome of mesenchymal tumours: haemangiopericytoma, non-ossifying fibroma, osteoblastoma, osteosarcoma, fibrosarcoma. Breast carcinoma (an epithelial tumour) does not cause it.
+
+**UNDERSTAND:** The mediator is FGF-23, a phosphaturic hormone secreted by mesenchymal (phosphaturic mesenchymal) tumours. FGF-23 inhibits the renal sodium–phosphate co-transporter and suppresses 1α-hydroxylase, so phosphate is dumped in the urine and calcitriol production falls — producing osteomalacia with low phosphate, inappropriately normal or low 1,25-vitamin D, and normal calcium and PTH.
+
+**MUST KNOW:**
+
+- Presentation: insidious bone pain, proximal muscle weakness, and multiple insufficiency fractures in an adult, often mislabelled as rheumatological disease for years.
+- Biochemistry: low serum phosphate, high urinary phosphate (low TmP/GFR), raised alkaline phosphatase, normal calcium and PTH, low or inappropriately normal 1,25(OH)₂D, raised FGF-23.
+- Localisation of the culprit tumour is the hard part — often tiny and in bone or soft tissue; ⁶⁸Ga-DOTATATE PET or octreotide scintigraphy is used.
+- Complete resection is curative and the biochemistry normalises within days; otherwise treat with oral phosphate and calcitriol, or burosumab (anti-FGF-23).
+- Compare the other FGF-23 disease: X-linked hypophosphataemic rickets (PHEX mutation) — same biochemistry, congenital onset.
+- Breast carcinoma causes bone disease by a different route — osteolytic metastases and PTHrP-mediated hypercalcaemia.
+
+**EXAM CONNECTION:** “Which does not cause osteomalacia” → breast carcinoma. The rule is mesenchymal tumours only.
+
+**REMEMBER:** *Mesenchymal tumours secrete FGF-23 and waste phosphate.*
+
+`MC7057`
+
+---
+
+### 67. Osteoporosis — What Is NOT Used
+
+**PEARL:** Bone scan and quantitative CT are not commonly used to diagnose osteoporosis.
+
+**MUST KNOW:** DEXA of the hip and lumbar spine is the investigation of choice; WHO criteria: T-score ≤ −2.5 = osteoporosis, −1 to −2.5 = osteopenia. T-score compares with a young adult; Z-score with age-matched controls (used in premenopausal women and children). A bone scan is for metastases/occult fractures; QCT gives true volumetric density but with a higher radiation dose. Plain X-ray detects bone loss only after 30–50% is gone.
+
+**REMEMBER:** *DEXA and T-score ≤ −2.5; bone scan is for hot spots, not thin bones.*
+
+---
+
+---
+
+## Arthritis and Degenerative Joint Disease
+
+### 68. Ankylosing Spondylitis
+
+**PEARL:** The earliest and cardinal radiological sign of ankylosing spondylitis is erosion of the sacroiliac joints — followed by periarticular sclerosis (especially on the iliac side) and finally bony ankylosis. So it is an erosive, not a non-erosive, arthritis. It affects MEN more than women, typically at 15–30 years, and is HLA-B27 positive in 85–95%.
+
+**UNDERSTAND:** The primary lesion is enthesitis — inflammation where ligament, tendon and capsule insert into bone — not synovitis. That is why the disease attacks the sacroiliac joints, the vertebral corners, the plantar fascia and the Achilles insertion, and why healing produces new bone (syndesmophytes, ankylosis) rather than the destruction of rheumatoid arthritis. It also explains the paradox of the history: inflammatory back pain that is worse with rest and IN the early morning and improves with exercise — the opposite of mechanical back pain.
+
+**MUST KNOW:**
+
+- Radiology: “shiny corner” (Romanus) lesions and squaring of vertebral bodies early; then syndesmophytes (thin, vertical, marginal — distinguishing them from the thick, horizontal, non-marginal osteophytes of psoriatic and reactive arthritis) producing the “bamboo spine” with fused facet joints and calcified interspinous ligaments (“DAGGER sign”). MRI shows sacroiliac bone marrow oedema years before X-ray changes.
+- Examination: loss of lumbar lordosis, increased thoracic kyphosis, a “question-mark” posture, a positive Schober’s test (lumbar flexion <5 cm), reduced chest expansion (<5 cm) and an increased occiput-to-wall distance.
+- Extra-articular features — the “A”s: acute anterior uveitis (the commonest, in ~30%, recurrent and alternating), aortic incompetence and aortitis, AV/heart block, apical pulmonary fibrosis, Amyloidosis, IgA nephropathy, and cauda equina syndrome.
+- Management: exercise and physiotherapy are the cornerstone (posture, spinal extension, breathing), NSAIDs first-line, then TNF inhibitors or IL-17 inhibitors (secukinumab) for active disease. *Conventional DMARDs like methotrexate do not work for axial disease* — only for peripheral arthritis.
+- The ankylosed spine IS brittle — even trivial trauma causes an unstable transverse fracture, often at the cervicothoracic junction with cord injury. Image the whole spine (CT/MRI) after any injury and never assume “just a sprain”.
+- The seronegative spondyloarthropathies as a group: ankylosing spondylitis, reactive arthritis, psoriatic arthritis, enteropathic arthritis — all HLA-B27 associated, rheumatoid factor negative, with sacroiliitis, enthesitis, dactylitis and uveitis.
+
+**EXAM CONNECTION:** “All true except” → non-erosive arthritis (it IS erosive).
+
+**REMEMBER:** *Enthesitis erodes first and then ossifies — bamboo spine is the scar of the healing.*
+
+`Q9044`
+
+---
+
+### 69. Rheumatoid Arthritis vs Osteoarthritis of the Hand
+
+**PEARL:**
+
+- Rheumatoid arthritis: dip joints are relatively spared; it attacks the MCP, PIP and wrist, symmetrically.
+- Osteoarthritis: involves the dip and PIP joints and the first carpometacarpal joint (thumb base), while the MCP, wrist, elbow and ankle are usually spared.
+- Nodes: Heberden’s = dip, Bouchard’s = PIP.
+
+**must know:** RA deformities: ulnar deviation at the MCPs, swan-neck, boutonnière, Z-thumb; morning stiffness >1 hour; X-ray shows periarticular osteopenia, marginal erosions and joint space narrowing. OA shows osteophytes, subchondral sclerosis, cysts and asymmetric narrowing, with stiffness <30 minutes.
+
+**REMEMBER:** *“HeberDen = dip”; RA spares the dip, OA loves it.*
+
+---
+
+---
+
+## Peripheral Nerve Injuries and Palsies
+
+### 70. Thoracic Outlet Syndrome
+
+**PEARL:** The Roos test (elevated arm stress test, east) — arms abducted to 90° with elbows flexed 90°, opening and closing the hands for 3 minutes — is positive when the patient cannot complete it or develops pain, numbness or heaviness, and is the most useful provocative test for thoracic outlet syndrome. Adson’s test (head turned to the affected side with deep inspiration, watching for radial pulse loss) and Wright’s (hyperabduction) test the same compression.
+
+**UNDERSTAND:** The neurovascular bundle can be compressed at three sites, and every provocative test simply narrows one of them: the interscalene triangle (between anterior and middle scalenes — narrowed by Adson’s manoeuvre), the COSTOCLAVICULAR space (between clavicle and first rib — narrowed by shoulder retraction), and the SUB-pectoralis minor/retropectoral space (narrowed by hyperabduction, Wright’s test).
+
+**MUST KNOW:**
+
+- ~95% of cases are neurogenic, affecting the lower trunk (C8–T1) — so symptoms are in the ulnar distribution with wasting of the intrinsic hand muscles (the GILLIATT–SUMNER hand, with thenar wasting greater than hypothenar). Venous tos (~3%) causes arm swelling and cyanosis (Paget–SCHRÖTTER effort thrombosis of the subclavian vein); arterial tos (~1%) causes claudication, pallor, coldness and emboli, and is usually associated with a cervical rib or bony anomaly.
+- A cervical rib (or a fibrous band from an elongated C7 transverse process) is the classic structural cause — look for it on a cervical spine X-ray, though most cervical ribs are asymptomatic.
+- First-line treatment is physiotherapy — posture correction, scapular stabilisation and stretching — which helps most neurogenic cases. Surgery (first rib resection, scalenectomy, band excision) is reserved for true neurogenic tos with objective deficits and for vascular tos.
+- The differential is essential: cervical radiculopathy, ulnar neuropathy AT the elbow (cubital tunnel), carpal tunnel syndrome, Pancoast tumour (always exclude — a lower brachial plexus lesion with Horner’s syndrome in a smoker) and brachial neuritis.
+- Provocative tests have poor specificity — up to a third of normal people lose the radial pulse on Adson’s test — so they support, but never make, the diagnosis.
+
+**EXAM CONNECTION:** Arms elevated, hands pumping for 3 minutes → Roos test.
+
+**REMEMBER:** *Three narrow spaces, three provocative tests — and the lower trunk suffers first.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/d4196bdafb2d49008a9f87d2af5b5718.GIF)
+
+`Q9017`
+
+---
+
+### 71. Sunderland Classification of Nerve Injury
+
+**PEARL:** 1st degree = conduction block (neurapraxia); 2nd = axon lost, endoneurium intact (axonotmesis); 3rd = endoneurium disrupted; 4th = perineurium also disrupted, epineurium intact; 5th = complete transection including epineurium (neurotmesis).
+
+**UNDERSTAND:** The grades follow the connective-tissue sheaths from inside out, and each sheath lost costs a degree of recovery. Endoneurial tubes are the tracks that guide a regenerating axon back to its original target; while they are intact (grade 2), recovery is excellent. Once they are disrupted (grade 3), axons wander into neighbouring tubes → synkinesis and misdirected reinnervation. Once the perineurium goes (grade 4), dense scar (neuroma-in-continuity) blocks regeneration altogether — which is why grades 4 and 5 require surgery, and grades 1–2 do not.
+
+**MUST KNOW:**
+
+| Sunderland | Seddon | Structure lost | Recovery |
+| --- | --- | --- | --- |
+| **1** | **Neurapraxia** | Myelin only; **no Wallerian degeneration** | **Complete, days–weeks** |
+| **2** | **Axonotmesis** | Axon; **endoneurium intact** | Good — axons regrow at **~1 mm/day** |
+| **3** | Axonotmesis | **Endoneurium** | Incomplete, synkinesis |
+| **4** | Axonotmesis/neurotmesis | **Perineurium** | Poor — **needs surgery** |
+| **5** | **Neurotmesis** | **Epineurium — complete transection** | **None without repair** |
+
+- 6th degree (Mackinnon) = a mixed pattern with different fascicles at different grades.
+- Tinel’s sign advances distally with regenerating axons — used to track recovery.
+- EMG/nerve conduction studies at 3 weeks distinguish neurapraxia (conduction preserved distal to the lesion) from axonotmesis (fibrillations and denervation potentials).
+- Repair principles: tension-free epineurial suture, early repair for clean sharp transections, delayed repair or nerve grafting (sural nerve) for contused injuries.
+- Classic examples: Saturday-night palsy (radial neurapraxia); a crush injury (axonotmesis); a glass laceration (neurotmesis).
+
+**EXAM CONNECTION:** Count the sheaths named in the stem. Endoneurium + perineurium, with epineurium spared = 4th degree.
+
+**ALSO KNOW:** “Saturday night palsy” — wrist drop after sleeping with the arm over a chair back while intoxicated — is neuropraxia, a reversible conduction block from segmental demyelination with the axon intact, recovering completely in days to weeks. Seddon: neuropraxia → axonotmesis (axon divided, endoneurial tube intact — recovery by regeneration at ~1 mm/day) → neurotmesis (complete division of the nerve — NO spontaneous recovery, requires surgical repair). The prognosis depends entirely on whether the connective tissue scaffold survives. In neuropraxia only the myelin is damaged, so conduction resumes once it remyelinates. In axonotmesis the axon dies distally (Wallerian degeneration) but the endoneurial tube survives as a conduit, so regenerating axons find their way back to the correct end organ — recovery is slow but usually good. In neurotmesis the tube is destroyed, so regenerating axons wander, form a neuroma, and cannot reach their targets — hence the need for repair or grafting. SUNDERLAND’S five degrees refine this: 1 = neuropraxia; 2 = axon only; 3 = axon + endoneurium; 4 = axon + endoneurium + perineurium (neuroma-in-continuity, requires resection and grafting); 5 = complete transection. Clinical monitoring of recovery: an advancing Tinel’s sign follows the regenerating axon front; recovery proceeds proximal to distal at roughly 1 mm/day (1 inch per month), and sensation returns before motor power. Nerve conduction studies and EMG at 3 weeks distinguish neuropraxia (conduction block with preserved distal conduction) from axonal loss (fibrillations and denervation). Common compression neuropathies: radial nerve in the spiral groove (Saturday night palsy, humeral shaft fracture — wrist drop with triceps spared); common peroneal at the fibular neck (foot drop from crossing the legs, plaster casts or squatting); ulnar at the elbow; median at the wrist; and crutch palsy (axillary compression). Management: protect the limb, splint to prevent contracture (a cock-up splint for wrist drop, foot-drop splint), physiotherapy to keep joints supple, and explore if there is no recovery by the expected time or if the injury was sharp/open. Nerve repair principles: primary tension-free epineurial repair for clean transections; nerve grafting (sural nerve) for gaps; timing within 3 weeks for clean injuries, and within 3–6 months before the motor end plates degenerate irreversibly. *Myelin only recovers in weeks; a broken axon crawls a millimetre a day; a cut nerve never finds its way home.*
+
+**REMEMBER:** *One sheath lost per grade — after the perineurium goes, only surgery helps.*
+
+`Q11132`
+
+---
+
+### 72. Common Peroneal Nerve and Its Branches
+
+**PEARL:** Foot drop with a high-stepping gait but preserved inversion and eversion = deep peroneal nerve injury — it supplies the dorsiflexors (tibialis anterior, EHL, EDL, peroneus tertius) only. If eversion were also lost, the lesion would be in the common peroneal nerve; loss of eversion alone is the superficial peroneal nerve.
+
+**UNDERSTAND:** Each branch’s deficit maps exactly onto its compartment. The deep peroneal nerve serves the anterior compartment (dorsiflexion + toe extension); the superficial peroneal nerve serves the lateral compartment (eversion); inversion is tibialis posterior (tibial nerve) and tibialis anterior, so inversion survives any peroneal lesion. Testing the three movements localises the lesion without any imaging.
+
+**MUST KNOW:**
+
+- Sensory: deep peroneal → the first web space only (a tiny but diagnostic patch); superficial peroneal → most of the dorsum of the foot and the lower lateral leg; sural → lateral border of the foot and 5th toe.
+- Common peroneal nerve is the most commonly injured nerve in the lower limb — it winds around the neck of the fibula, vulnerable to fibular neck fracture, a tight plaster or brace, prolonged squatting or crossing the legs, and lithotomy positioning.
+- Foot drop causes: common peroneal palsy, L4–L5 root lesion (sciatica — also weak inversion, positive straight-leg raise), sciatic nerve injury, peripheral neuropathy (leprosy, diabetes), anterior horn cell disease, and stroke.
+- Anterior compartment syndrome of the leg damages the deep peroneal nerve — pain on passive plantar flexion, tense compartment, and numbness of the first web space is the earliest reliable sign.
+- Management: ankle–foot orthosis, physiotherapy, treat the cause; tendon transfer (tibialis posterior) for permanent palsy.
+
+**EXAM CONNECTION:** The stem carefully states which movements are preserved. Eversion intact ⇒ superficial nerve intact ⇒ the lesion is the deep peroneal nerve.
+
+**REMEMBER:** *Deep lifts the foot, superficial turns it out, tibial turns it in.*
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3d52bcf03ec442bfa7909cf6ba2a7033x1280x2400.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3b8f77c49d2f4567a384a3c2ccb0deb0x1200x1836.JPEG)
+
+`Q11136`
+
+---
+
+### 73. Tardy Ulnar Nerve Palsy
+
+**PEARL:** Ulnar nerve symptoms appearing years after a childhood fracture of the lateral condyle of the humerus = tardy ulnar nerve palsy, caused by cubitus valgus from growth arrest of the lateral epiphysis. Treatment is anterior transposition of the ulnar nerve.
+
+**UNDERSTAND:** A malunited or growth-disturbed lateral condyle leaves the elbow in increasing valgus, which stretches the ulnar nerve and forces it to slide repeatedly over the medial epicondyle with every flexion–extension cycle. The result is a friction neuritis that develops insidiously over years — hence “tardy”. The nerve is not damaged by the original injury at all, which is why the interval can be a decade.
+
+**MUST KNOW:**
+
+- Supracondylar fracture (the commonest paediatric elbow fracture) → cubitus varus (“gunstock deformity”) from malunion, and acute injury to the anterior interosseous/median nerve or brachial artery (VOLKMANN ischaemic contracture). Lateral condyle fracture → non-union and cubitus valgus → tardy ulnar palsy. This pairing is the examinable contrast.
+- Ulnar nerve signs: partial claw hand (hyperextension at the MCPs, flexion at the IP joints of the ring and little fingers), wasting of the interossei and hypothenar eminence, positive froment’s sign (adductor pollicis weakness), card test weakness (interossei), and sensory loss over the little and medial half of the ring finger including the dorsum.
+- Ulnar paradox: a low (wrist) lesion gives a more obvious claw than a high (elbow) lesion, because a high lesion also paralyses the ulnar half of flexor digitorum profundus, so the fingers cannot flex into the claw.
+- Cubitus valgus is measured against the normal carrying angle (5–15°); mild deformity without palsy is managed conservatively, and moderate-to-severe deformity by supracondylar osteotomy.
+- Other causes of ulnar neuropathy at the elbow: cubital tunnel syndrome, osteoarthritis, ganglion, leprosy (thickened nerve).
+
+**EXAM CONNECTION:** The stem gives a long latent interval after a childhood elbow injury. Lateral condyle → valgus → tardy ulnar palsy is the required chain.
+
+**REMEMBER:** *The lateral condyle fails, the elbow drifts into valgus, and years later the ulnar nerve wears out.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/5c296d249f144c18a66670bd2709531d.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/92f0eef457f04dedb22143e5aaa5edf5x1280x1508.JPEG)
+
+`Q11146`
+
+---
+
+### 74. Carpal Tunnel Syndrome
+
+**PEARL:** Nocturnal tingling and numbness of the lateral 3½ digits relieved by hanging or shaking the hand (“flick sign”) = carpal tunnel syndrome (median nerve). The Durkan carpal compression test is the most sensitive and specific clinical test. Froment’s sign is for the ulnar nerve.
+
+**UNDERSTAND:** Symptoms are worst at night because the wrist naturally flexes during sleep and fluid redistributes centrally when supine, both raising pressure inside a non-expandable osseofibrous tunnel. Hanging the arm down or shaking it drains that venous congestion — which is why the relieving manoeuvre is so characteristic. Durkan’s test reproduces the mechanism directly by applying sustained pressure over the tunnel for 30 seconds, and outperforms Tinel’s and Phalen’s tests for exactly that reason.
+
+**MUST KNOW:**
+
+- The palm is spared — the palmar cutaneous branch of the median nerve arises proximal to and passes over the flexor retinaculum, so palmar sensation is intact. This distinguishes carpal tunnel syndrome from a proximal median nerve lesion.
+- Signs: thenar wasting and weakness of abductor pollicis brevis (test thumb abduction against resistance) and opposition; Tinel’s (tapping over the tunnel), Phalen’s (60 seconds of wrist flexion), Durkan’s (direct compression).
+- Contents of the carpal tunnel: the median nerve and nine flexor tendons (4 FDS, 4 FDP, 1 FPL). The ulnar nerve and artery pass outside it, through Guyon’s canal — hence ulnar sparing.
+- Causes (“median TRAP”): idiopathic (most), pregnancy, hypothyroidism, rheumatoid arthritis, diabetes, acromegaly, amyloidosis, obesity, dialysis, and repetitive use. Bilateral disease in a young person → look for a systemic cause.
+- Treatment: night wrist splints in neutral, NSAIDs, corticosteroid injection; surgical division of the flexor retinaculum for persistent symptoms, thenar wasting or abnormal nerve conduction studies. Nerve conduction studies confirm the diagnosis and grade severity.
+- Guyon’s canal syndrome (ulnar): hypothenar wasting, clawing, Froment’s sign, sensation over the dorsum of the medial hand is spared (the dorsal cutaneous branch leaves proximally).
+
+**EXAM CONNECTION:** The option pairs a diagnosis with a sign — both halves must be correct. CTS goes with Durkan/Tinel/Phalen; Guyon/ulnar goes with Froment/Card test.
+
+**ALSO KNOW:** The key discriminator from a high (proximal) median nerve lesion is the palmar cutaneous branch, which arises about 5 cm proximal to the wrist and passes superficial to the flexor retinaculum — so in carpal tunnel syndrome sensation over the thenar eminence IS preserved, whereas a high median lesion numbs it. A high lesion also weakens the long flexors (flexor pollicis longus, flexor digitorum profundus to the index — the “OK sign”/benediction deformity), which are spared at the wrist. Symptoms are classically nocturnal, waking the patient, and relieved by shaking or hanging the hand out of bed (“flick sign”); they may radiate up the forearm. Diagnosis is clinical; nerve conduction studies confirm it, grade severity and are needed before surgery or when the picture is atypical. Treatment: night wrist splinting in neutral, activity modification, treatment of the underlying condition, and a corticosteroid injection into the tunnel; surgical decompression (division of the flexor retinaculum, open or endoscopic) for persistent symptoms, thenar wasting or denervation on nerve conduction studies. Contrast the other hand nerve palsies: ulnar (medial 1½ digits; claw hand that is worse with a low/distal lesion — the “ulnar paradox”; Froment’s sign; wasting of the first dorsal interosseous; cubital tunnel at the elbow). Radial (wrist drop with sensory loss over the anatomical snuffbox; spares the triceps in a mid-shaft humeral/spiral groove lesion). Posterior interosseous palsy causes finger drop with NO sensory loss and NO true wrist drop. Pronator teres syndrome is the proximal median entrapment — forearm pain, thenar sensory loss, and NO nocturnal symptoms.
+
+**REMEMBER:** *Wakes at night, shakes the hand, spares the palm — press the tunnel to prove it.*
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture41.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture37.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture38.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture39.jpg)
+
+`Q11207`
+
+---
+
+### 75. Splints and Nerve Palsies
+
+**PEARL:** Dynamic COCK-up splint — radial nerve palsy (wrist drop). Knuckle-Bender splint — ulnar nerve palsy (claw hand). Turnbuckle splint — Volkmann’s ischaemic contracture. Opponens/thumb-abduction splint — median nerve palsy.
+
+**UNDERSTAND:** Each splint substitutes for the specific muscle group that has been paralysed, and holds the joints in the position that prevents the deformity from becoming fixed. A radial palsy loses wrist and finger extension, so the splint holds the wrist extended and dynamically extends the fingers. An ulnar palsy loses the intrinsics, so the MCP joints hyperextend — the knuckle-bender flexes them, preventing a fixed claw. Splinting in nerve palsy is not treatment of the nerve; it is prevention of contracture while the nerve recovers.
+
+**MUST KNOW:**
+
+- Radial nerve palsy: wrist drop with loss of finger and thumb extension; sensory loss over the anatomical snuffbox/first dorsal web space; brachioradialis is lost in a lesion at or above the spiral groove, and triceps is spared in a mid-shaft humeral fracture (the nerve is injured distal to its triceps branches). Causes: humeral shaft fracture, “Saturday-night palsy”, crutch palsy. Posterior interosseous nerve palsy = finger drop with NO wrist drop and NO sensory loss.
+- Ulnar palsy: claw hand of the ring and little fingers, Froment’s sign, wasted first dorsal interosseous. Median palsy: “hand of benediction” on making a fist (high lesion), ape thumb and loss of opposition (low lesion).
+- Volkmann’s ischaemic contracture — the late sequel of an untreated compartment syndrome after a supracondylar fracture: flexion contracture of the fingers and wrist that relaxes on flexing the wrist (Volkmann’s sign); prevention is by timely fasciotomy, and the earliest sign of the acute compartment syndrome is pain on passive stretch out of proportion, with paraesthesia — the pulse is preserved until very late.
+- Erb’s palsy (C5–C6) — “waiter’s tip” posture; Klumpke’s palsy (C8–T1) — claw hand ± Horner syndrome.
+
+**EXAM CONNECTION:** Image of a splint plus a paired nerve. Both halves must match — the distractors usually pair the right splint with the wrong nerve.
+
+**REMEMBER:** *Cock-up holds a dropped wrist (radial); knuckle-bender un-claws the ulnar hand.*
+
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture24.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture35.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture34.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture33.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture30.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture31.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture30_HJLEd4u.jpg)
+
+`Q11251`
+
+---
+
+---
+
+## Shoulder, Sports and Soft-Tissue Disorders
+
+### 76. Ankle Ligament Injuries
+
+**PEARL:** Eversion injury tears the medial (deltoid) ligament — a strong triangular ligament from the medial malleolus with superficial (tibionavicular, tibiocalcaneal, superficial tibiotalar) and deep (anterior and posterior tibiotalar) layers. Inversion injury — far commoner — tears the lateral ligaments, and the anterior talofibular ligament (ATFL) is the first and most commonly injured, followed by the calcaneofibular and (rarely) the posterior talofibular ligament.
+
+**UNDERSTAND:** The lateral ligaments are injured more often simply because the lateral malleolus extends further distally than the medial one, blocking eversion, while inversion is relatively unrestrained. And the deltoid ligament is so strong that an eversion force usually avulses the medial malleolus rather than tearing the ligament — which is why a deltoid ligament injury implies a high-energy, often unstable, ankle fracture pattern.
+
+**MUST KNOW:**
+
+- A medial-SIDED injury (deltoid tear or medial malleolar fracture) plus a fibular fracture makes the ankle bimalleolar-equivalent and unstable — requiring fixation. This is why identifying medial tenderness matters so much in an apparently isolated fibular fracture.
+- MAISONNEUVE fracture: a fracture of the proximal fibula with a syndesmotic and deltoid/medial malleolar injury — so always examine and image the whole length of the fibula in an ankle injury with medial tenderness.
+- The Weber classification is by the level of the fibular fracture relative to the syndesmosis: A (below — stable), B (at the level — variable), C (above — syndesmosis disrupted, unstable, needs fixation).
+- The Ottawa ankle rules decide who needs an X-ray: bony tenderness at the posterior edge/tip of either malleolus, tenderness at the base of the fifth metatarsal or navicular, or inability to bear weight for four steps.
+- Management of a simple lateral sprain: price/police (protection, optimal loading, ice, compression, elevation), early mobilisation and proprioceptive rehabilitation — prolonged immobilisation causes stiffness and recurrent instability.
+- The anterior drawer test assesses the ATFL and the talar tilt test the calcaneofibular ligament.
+
+**EXAM CONNECTION:** Eversion injury → deltoid ligament; inversion → anterior talofibular ligament.
+
+**REMEMBER:** *The long lateral malleolus blocks eversion — so inversion tears the outside and eversion snaps the inside bone.*
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f908a703a2374676a376b9623c1ac7e0x1272x1060.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/42f8071970804886b08e6640a9357394x1279x1223.JPEG)
+
+`Q8953`
+
+---
+
+### 77. Meniscal Zones and Healing
+
+**PEARL:** The meniscus has three vascular zones: the peripheral red–red zone (well vascularised — heals best and is worth repairing), the intermediate red–white zone (variable), and the inner white–white zone (avascular — will not heal, so tears here are debrided rather than repaired). Only the peripheral 10–25% of the adult meniscus is perfused, by the perimeniscal capillary plexus from the medial and lateral genicular arteries.
+
+**UNDERSTAND:** The meniscus is fully vascular at birth and becomes progressively avascular with weight-bearing — the inner portion survives by diffusion from synovial fluid, which supplies nutrition but cannot deliver the inflammatory cells and fibrin clot needed for healing. This single anatomical fact governs all meniscal surgery: repair the periphery, resect the centre — and resect as little as possible, because meniscectomy dramatically accelerates osteoarthritis (FAIRBANK’S changes).
+
+**MUST KNOW:**
+
+- Clinical features of a meniscal tear: a twisting injury on a loaded flexed knee, joint-line tenderness, delayed effusion (hours, in contrast to the immediate haemarthrosis of an ACL tear), locking (a bucket-handle tear) and giving way. Tests: McMURRAY’S, APLEY’S grind and Thessaly. MRI is the investigation of choice.
+- The medial meniscus is injured more often because it is less mobile — it is firmly attached to the deep medial collateral ligament and the capsule; the lateral meniscus is more mobile and separated from the LCL by the popliteus tendon.
+- “O’DONOGHUE’S unhappy triad” — ACL + medial collateral ligament + medial meniscus (classically described; lateral meniscal injury is in fact commoner with acute ACL tears).
+- An acute haemarthrosis within 2 hours of injury means ACL rupture (~70%), osteochondral fracture or peripheral meniscal tear.
+- A discoid lateral meniscus in a child produces a “snapping knee”.
+- Meniscal root tears behave like a total meniscectomy (loss of hoop stresses) and should be repaired.
+
+**EXAM CONNECTION:** “Which zone heals best” → the red (red–red) zone.
+
+**REMEMBER:** *Only the outer quarter has blood — repair the rim, trim the middle.*
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bc22fc2a4cae4ed38415688ec639da2fx1279x1559.JPEG)
+
+`Q9019`
+
+---
+
+### 78. Overuse Syndromes of the Elbow and Wrist
+
+**PEARL:** Tennis elbow (lateral epicondylitis) affects the common extensor origin, especially extensor carpi RADIALIS brevis, and is treated with a counterforce brace, which compresses the muscle belly distal to the origin so that tension is not transmitted to the epicondyle. DE Quervain’s tenosynovitis is a stenosing tenosynovitis of the first dorsal compartment — abductor pollicis longus and extensor pollicis brevis — with a positive Finkelstein test.
+
+**UNDERSTAND:** Both are degenerative (ANGIOFIBROBLASTIC TENDINOSIS), not truly inflammatory — the histology shows disorganised collagen and neovascularisation with few inflammatory cells, which is why “epicondylitis” is a misnomer, why rest and load modification matter more than anti-inflammatories, and why repeated steroid injections give short-term relief but worse long-term outcomes than physiotherapy alone.
+
+**MUST KNOW:**
+
+- Tennis elbow: pain over the lateral epicondyle, worse on resisted wrist extension and on gripping (COZEN’S and MILL’S tests). GOLFER’S elbow (medial epicondylitis) affects the common flexor origin, with pain on resisted wrist flexion and pronation — and the ulnar nerve lies just behind the medial epicondyle, so check it.
+- Management ladder: activity modification and eccentric strengthening physiotherapy, counterforce bracing, NSAIDs, then a single corticosteroid injection, PRP/autologous blood, extracorporeal shock wave therapy, and finally surgical release of the ECRB origin. Most cases resolve spontaneously within 12–18 months.
+- DE Quervain’s: pain and tenderness over the radial styloid, commonest in women of childbearing age and in new mothers (“baby wrist” from lifting the infant); FINKELSTEIN’S test — the examiner ulnar-deviates the wrist with the thumb enclosed — reproduces severe pain. Treat with a thumb SPICA splint and steroid injection into the sheath; surgical release of the first dorsal compartment for refractory cases (beware the superficial branch of the radial nerve).
+- Related conditions: trigger finger (A1 pulley stenosing tenosynovitis — catching and locking, associated with diabetes), intersection syndrome (proximal to de Quervain’s), and the differential of radial wrist pain — scaphoid fracture, first carpometacarpal osteoarthritis and radial nerve entrapment (WARTENBERG’S syndrome).
+- Diabetes and hypothyroidism predispose to all the stenosing tenosynovitides and to adhesive capsulitis — check for them in recurrent or multiple sites.
+
+**EXAM CONNECTION:** Counterforce brace → tennis elbow; de Quervain’s → APL and EPB.
+
+**REMEMBER:** *The brace stops the pull reaching the epicondyle; Finkelstein stretches the two thumb tendons.*
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a109bd0fa18646a49aae68a96bda3831x1024x768.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2849d44748cc49b88e7587aa450497dcx1280x1492.JPEG)
+
+`Q9025, Q9026`
+
+---
+
+### 79. Shoulder Impingement (Painful Arc)
+
+**PEARL:** Pain between 60° and 120° of abduction that eases beyond it — the painful arc — with a positive Hawkins–Kennedy and NEER’S test, is subacromial impingement of the supraspinatus tendon beneath the CORACOACROMIAL arch.
+
+**UNDERSTAND:** The subacromial space is narrowest between 60° and 120°, so the supraspinatus tendon and subacromial bursa are compressed against the acromion precisely in that arc; beyond 120° the greater tuberosity has passed under the arch and the pain resolves. That is why the pain is a mid-range arc rather than pain throughout, and why anything that narrows the space — a hooked (type III) acromion, subacromial osteophytes, bursitis, a thickened or calcified tendon, or a weak rotator cuff that lets the humeral head ride up — produces the same syndrome.
+
+**MUST KNOW:**
+
+- Distinguish the painful arcs: 60–120° = subacromial/supraspinatus; the last 30° (170–180°) = acromioclavicular joint pathology.
+- Rotator cuff tests: JOBE’S “empty can” (supraspinatus), external rotation against resistance (infraspinatus/teres minor), lift-off and belly-press (subscapularis), and the drop-arm test (a large/complete supraspinatus tear).
+- Treatment is conservative first — activity modification, NSAIDs, and physiotherapy to strengthen the rotator cuff and scapular stabilisers (which pull the humeral head down and open the space) — then subacromial corticosteroid injection, and finally arthroscopic subacromial decompression or cuff repair.
+- Calcific tendinitis causes an acute, extremely painful shoulder with calcification visible on X-ray above the greater tuberosity; treat with NSAIDs, injection or needling/lavage.
+- Adhesive capsulitis (frozen shoulder) is the key differential: global loss of movement with external rotation lost first and most, affecting passive as well as active movement — associated with diabetes and thyroid disease, and running a self-limiting course over 1–3 years through freezing, frozen and thawing phases.
+- In a patient over 40 with a shoulder injury, consider a rotator cuff tear; under 40, an anterior dislocation with a Bankart lesion; and always check the axillary nerve (deltoid, regimental badge sensation) after a dislocation.
+
+**EXAM CONNECTION:** Pain at 60–120° with a positive Hawkins–Kennedy test → painful arc/impingement syndrome.
+
+**ALSO KNOW:** Below 60° and above 120° the inflamed tendon is not under the arch — so the pain occurs only in the arc where it is compressed. That is why the pain has a beginning *and* an end.
+
+**REMEMBER:** *The space is tightest in the middle of the arc — so that is where it hurts.*
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bab93ffba4c84ccf8ff0656495db121ax1280x2046.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2e9790ecee3e4a568e6e4a4d7085f6dbx1280x1992.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/76ffde96dd6548f39c140c40173bf1d6x1279x1319.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4a886ed275c8438e86d2a7d3f835ab45x1280x1979.JPEG)
+
+`Q9932`
+
+---
+
+### 80. The Posterior Cruciate Ligament
+
+**PEARL:** The PCL is EXTRASYNOVIAL, arises from the anterolateral aspect of the medial femoral condyle in the intercondylar notch, and is the primary restraint to posterior translation of the tibia (hence the posterior drawer test). It is not the main restraint to internal rotation — rotational stability is provided mainly by the collateral ligaments and the posterolateral corner. The PCL is the strongest ligament of the knee.
+
+**UNDERSTAND:** The cruciates lie intra-articular but EXTRASYNOVIAL — the synovium reflects around them from behind — which is why they have a poor blood supply and heal badly, and why an ACL rupture bleeds freely into the joint (the synovial covering tears) causing a haemarthrosis. Their crossing arrangement means the ACL prevents anterior translation of the tibia and the PCL prevents posterior translation, with each tightening in opposite phases of flexion.
+
+**MUST KNOW:**
+
+- PCL injury mechanism: a dashboard injury (a posteriorly directed force on the flexed knee) or a fall onto the flexed knee with the foot plantarflexed. Look for the posterior SAG sign and the quadriceps active test before testing the anterior drawer — otherwise a sagging tibia gives a false-positive anterior drawer and the injury is misdiagnosed as an ACL tear.
+- Isolated PCL injuries are often treated NON-OPERATIVELY with quadriceps rehabilitation (the quadriceps dynamically substitutes by pulling the tibia forward); combined injuries — especially with a posterolateral corner injury — need reconstruction.
+- A knee dislocation (usually involving both cruciates) is a limb-threatening emergency: check the popliteal artery (ABI, and CT angiography if abnormal — the artery is tethered at the adductor hiatus and the soleal arch) and the common peroneal nerve. Many dislocations reduce spontaneously and are missed.
+- The ACL arises from the posteromedial aspect of the lateral femoral condyle and inserts on the anterior intercondylar area of the tibia; it prevents anterior tibial translation and is the main restraint to hyperextension.
+- Knee stability is a layered system: cruciates for anteroposterior, collaterals for varus/valgus, the posterolateral corner for external rotation, and the menisci for load distribution.
+
+**EXAM CONNECTION:** “Incorrect about the PCL” → it is the main restraint to internal rotation.
+
+**REMEMBER:** *Cruciates are inside the joint but outside the synovium — the PCL simply stops the tibia sliding back.*
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/07/screenshot-2024-02-07-143739.jpg)
+
+`Q11459`
+
+---
+
+### 81. Bankart and Hill–Sachs Lesions
+
+**PEARL:** Bankart lesion = avulsion of the antero-inferior glenoid labrum. Hill–Sachs lesion = a compression fracture/depression of the postero-lateral (posterosuperior) humeral head. Both result from recurrent anterior shoulder dislocation.
+
+**UNDERSTAND:** In anterior dislocation the humeral head is driven forward and downward out of the glenoid, so it tears off the labrum where it exits — antero-inferiorly — and simultaneously impacts its own posterolateral surface against the hard anterior glenoid rim, denting it. The two lesions are therefore mirror images of one collision, and the loss of the labral bumper is why recurrent dislocation is the commonest complication.
+
+**MUST KNOW:**
+
+- Anterior dislocation is by far the commonest (>95%) — from a fall on an outstretched, abducted and externally rotated arm. Signs: loss of the deltoid contour with a “flattened” shoulder, a palpable step, the Hamilton ruler test (a ruler touches the acromion and lateral epicondyle), and DUGAS test (cannot touch the opposite shoulder).
+- Always test the axillary nerve (regimental badge sensation and deltoid power) before and after reduction.
+- Reduction methods: Kocher’s, Hippocratic, Milch, Stimson. Immobilise, then rehabilitate.
+- Posterior dislocation is rare and easily missed — associated with epileptic seizures and electric shock; the arm is held internally rotated and cannot be externally rotated; the AP film shows the “light bulb” sign with the humeral head fixed in internal rotation → get an axillary or scapular-Y view.
+- Bony Bankart = the labral avulsion takes a fragment of glenoid bone with it; significant glenoid bone loss (>20–25%) requires the LATARJET procedure (coracoid transfer) rather than a soft-tissue Bankart repair.
+- Recurrence risk is highest in young patients (<20 years) — up to 80–90%; MR arthrography is the imaging of choice for labral tears.
+
+**EXAM CONNECTION:** The two eponyms are asked as a pair, with the locations swapped in the distractors. Anchor: Bankart is on the glenoid (antero-inferior); Hill–Sachs is on the humerus (postero-lateral).
+
+**REMEMBER:** *The head goes out the front — tearing the labrum in front and denting itself behind.*
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cffa0b9af3ad464191d771ef59116714x451x278.JPEG)
+
+`Q11022`
+
+---
+
+### 82. Adhesive Capsulitis (Frozen Shoulder)
+
+**PEARL:** Progressive painful restriction of both active and passive shoulder movement — worst on external rotation, then abduction, then internal rotation (difficulty combing the hair and reaching the back) — is adhesive capsulitis. It is strongly associated with diabetes mellitus.
+
+**UNDERSTAND:** The pathology is fibrosis and contracture of the glenohumeral joint capsule, especially the rotator interval and coracohumeral ligament. Because the restriction is mechanical and capsular rather than muscular, the shoulder cannot be moved by the examiner either — loss of passive range is the defining feature that separates it from rotator cuff tears and impingement, where passive movement is preserved. External rotation suffers most because the contracted anterosuperior capsule is exactly the structure that must lengthen for it.
+
+**MUST KNOW:**
+
+- Three stages: (1) freezing/painful — 2–9 months; (2) frozen/stiff — pain settles, stiffness dominates, 4–12 months; (3) thawing/recovery — 5–24 months. It is self-limiting over 1–3 years, though a minority never regain full range.
+- Secondary causes: diabetes (the strongest — think of it in any diabetic with a stiff shoulder), thyroid disease, prolonged immobilisation (after Colles’ fracture, stroke, myocardial infarction or surgery), Dupuytren disease.
+- X-rays are normal — that is part of the diagnosis; MR arthrography shows a thickened capsule and reduced axillary recess volume.
+- Treatment: analgesia and an active exercise programme, intra-articular corticosteroid injection (best early), hydrodilatation; refractory cases — manipulation under anaesthesia or arthroscopic capsular release.
+- Contrast: rotator cuff tear — painful arc, weakness, passive movement preserved; supraspinatus tendinitis/impingement — painful arc 60–120°; osteoarthritis — crepitus with radiographic changes; calcific tendinitis — acute severe pain with a calcific deposit on X-ray.
+
+**EXAM CONNECTION:** The functional descriptions in the stem map to movements — combing hair = abduction/external rotation; touching the back = internal rotation. Global restriction points to the capsule.
+
+**REMEMBER:** *If you can’t move it either, it’s the capsule — and check the sugar.*
+
+`Q11131`
+
+---
+
+### 83. Medial Tibial Stress Syndrome (Shin Splints)
+
+**PEARL:** Exercise-induced pain along the distal two-thirds of the medial tibial border with a normal radiograph in a runner = medial tibial stress syndrome (shin splints).
+
+**UNDERSTAND:** It is a periosteal and bone-stress reaction, not a discrete fracture — the repetitive traction of the soleus and deep flexor fascia on the periosteum causes microdamage that is below the resolution of plain film. A normal X-ray is therefore expected, and does not exclude the diagnosis; MRI or bone scan shows periosteal oedema if confirmation is needed.
+
+**MUST KNOW:**
+
+- Occurs in runners, dancers and military recruits; risk factors are overpronation, sudden increase in training load, hard surfaces, poor footwear, low bone density, female athlete triad.
+- Management is conservative: relative rest, activity modification, gradual load progression, correcting biomechanics and footwear.
+- Differentials of exertional leg pain: tibial stress fracture (focal tenderness, positive hop test, X-ray may show a dreaded black line in the anterior mid-tibia — high-risk, needs rest or fixation); chronic exertional compartment syndrome (pain with measurable compartment pressures, relieved by rest within minutes); popliteal artery entrapment; nerve entrapment.
+- Jones fracture — transverse fracture at the metaphyseal–diaphyseal junction of the 5th metatarsal base — has a high non-union rate (watershed blood supply), unlike an avulsion of the tuberosity.
+- Lisfranc injury — tarsometatarsal fracture–dislocation, easily missed; look for the fleck sign and widening between the 1st and 2nd metatarsal bases.
+
+**EXAM CONNECTION:** The combination of overuse history + medial tibial border pain + normal X-ray is the whole question.
+
+**REMEMBER:** *Overuse pain along the shin with a clean film is a stress reaction, not a fracture.*
+
+`MD0236`
+
+---
+
+### 84. Rotator Cuff Tear — Investigation
+
+**PEARL:** Single-contrast arthrography is described as the gold standard for diagnosing rotator cuff tears — leakage of contrast from the joint into the subacromial bursa proves a full-thickness tear.
+
+**MUST KNOW:** In current practice, MRI (or MR arthrography) is the investigation of choice — it is non-invasive, shows partial-thickness tears, muscle atrophy and fatty infiltration, which arthrography cannot. Ultrasound is a cheap, dynamic, operator-dependent alternative.
+
+**REMEMBER:** *Arthrogram proves a full-thickness leak; MRI shows everything else.*
+
+---
+
+---
+
+## Clinical Tests, Signs, Eponyms and Miscellaneous
+
+### 85. Clinical Tests of the Knee
+
+**PEARL:** Lachman’s test (knee flexed 20–30°, anterior translation of the tibia) is the most sensitive test for anterior cruciate ligament rupture. Anterior drawer (90° flexion) — ACL; posterior drawer and the posterior SAG sign — PCL; valgus stress — medial collateral; varus stress — lateral collateral; McMURRAY’S and APLEY’S grind — menisci; pivot shift — ACL (the most specific, and the best correlate of functional instability).
+
+**UNDERSTAND:** Lachman’s beats the anterior drawer test because at 20–30° of flexion the hamstrings are relaxed and the posterior horn of the medial meniscus does not act as a wedge blocking anterior translation, whereas at 90° both resist the movement and mask the laxity. Guarding and effusion also make 90° flexion painful. The quality of the end-POINT (soft versus firm) matters as much as the amount of translation.
+
+**MUST KNOW:**
+
+- ACL rupture: a non-contact twisting/pivoting injury with an audible POP, immediate haemarthrosis (within 2 hours) and giving way. MRI is the investigation of choice; reconstruction is indicated for instability in young/active patients, while older sedentary patients may do well with rehabilitation.
+- An acute haemarthrosis means ACL rupture (~70%), osteochondral fracture, peripheral meniscal tear or patellar dislocation; a delayed effusion over hours suggests a meniscal tear.
+- The SEGOND fracture (a small avulsion of the lateral tibial rim) is pathognomonic of an ACL tear.
+- PCL injury follows a dashboard injury or a fall on the flexed knee; check for the posterior sag before performing an anterior drawer, or a sagging tibia will be mistaken for ACL laxity (a false-positive anterior drawer).
+- The unhappy triad, meniscal zones and locking are dealt with under meniscal injury; the locked knee (a bucket-handle tear) needs early arthroscopy.
+- CHONDROMALACIA PATELLAE: softening and blistering/fibrillation of the articular cartilage of the medial facet of the patella, in young adults (especially women), with anterior knee pain worse on stairs and prolonged sitting (“cinema sign”), a positive patellar grind, and associated vastus medialis weakness/tendinitis — the cartilage changes reflect reduced sulphated mucopolysaccharide in the ground substance. *The patella IS not osteoporotic* — it is a cartilage disease. Treat with vastus medialis strengthening and activity modification.
+- HOFFA fracture is a coronal-plane intra-articular fracture of a femoral condyle (more often lateral) — easily missed on the AP film, requiring CT and anatomical fixation with lag screws.
+
+**EXAM CONNECTION:** Knee flexed ~20° with anterior gliding → Lachman test; matching tests to ligaments is straight recall.
+
+**REMEMBER:** *Twenty degrees relaxes the hamstrings and frees the meniscal wedge — that is why Lachman wins.*
+
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/68363c0cae06430bbe07b8df7d3b8e4c.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d9aea68439c843aeb9df4f42417e3966x254x175.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/00fd57d1a14c4a67b60d47b4599f36afx512x384.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/02dee7eb661d41c992bdee9e2f38a66ex509x266.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c7478efaa5a74aa7a6ea139b5a5afa3ax512x192.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3631f0284db3434eb6a33a2a0a59b3ffx500x383.PNG)
+
+`Q9049, Q10210, Q10251, Q9980`
+
+---
+
+### 86. Miscellaneous High-Yield Orthopaedic Facts
+
+**PEARL:** A cluster of one-line recall points that appear as single-best-answer questions.
+
+**UNDERSTAND:** These carry no unifying mechanism — they are recognition items, and the exam rewards having read them once as a list.
+
+**MUST KNOW:**
+
+- Nodes: Heberden = distal interphalangeal; BOUCHARD = proximal interphalangeal — both are osteophytes of osteoarthritis in the hand (“H comes before B in the alphabet, D comes before P going up the finger” — Heberden is more distal).
+- Aneurysmal bone cyst: an eccentric, expansile, multiloculated lytic lesion filled with blood, in patients under 20, at the metaphysis of long bones (proximal humerus, distal femur, proximal tibia) and in the spine (15–20%); fluid–fluid levels on MRI; treat by curettage and bone grafting.
+- Scoliosis braces: Milwaukee (CTLSO — for high thoracic/cervical curves), Boston (TLSO — for curve apex at T7 or below), Charleston bending brace, Risser’s turnbuckle cast. The SOMI brace is for cervical spine injury and has NO role in scoliosis. Brace for curves of 20–40° in a skeletally immature patient; surgery (fusion) for curves >45–50°.
+- Psoriatic arthritis X-ray: “pencil-IN-cup” deformity, marginal erosions with adjacent bony proliferation, osteolysis and telescoping digits (arthritis mutilans), asymmetrical sacroiliitis, dip involvement with nail changes. Contrast rheumatoid arthritis — periarticular osteopenia and marginal erosions without new bone formation.
+- Talar neck fracture (“aviator’s fracture”): caused by forced dorsiflexion; complications are AVN of the body of the talus (not the head — its blood supply is retrograde) and secondary osteoarthritis of the ankle and subtalar joints in over 50%; Hawkins classification, and Hawkins’ sign (subchondral osteoporosis of the dome at 6–8 weeks) indicates retained vascularity — a good prognostic sign.
+- Meniscal injury: McMURRAY test positive (click on rotating the extending knee); other tests — Apley grinding, Thessaly, squat, Ege, joint-line tenderness; X-ray normal, MRI is the investigation of choice; the medial meniscus is injured more often (it is fixed to the medial collateral ligament).
+- Tuberculosis of the hip — sequence of deformities: (1) synovitis — flexion, abduction, external rotation with apparent lengthening; (2) early arthritis — flexion, adduction, internal rotation with apparent shortening; (3) advanced arthritis — same, with true shortening; (4) subluxation → “wandering acetabulum”/PESTLE and mortar deformity; (5) fibrous ankylosis. (Mnemonic: the joint first fills with fluid and springs open, then destroys itself and pulls in.)
+- Pott’s spine — indications for surgery: progressive neurological deficit or cauda equina/conus syndrome, progressive deformity, drug resistance, recurrence, cord compression, instability, doubtful diagnosis needing open biopsy. A cold abscess without neurological deficit is not an indication — it is aspirated or treated medically. Antero-lateral decompression is the operation of choice for Pott’s paraplegia.
+
+**EXAM CONNECTION:** These come as single-line recall or image-recognition questions with no reasoning step. Read them, don’t derive them.
+
+**REMEMBER:** *Heberden distal, Boston for low curves, aviator’s talus loses its body, McMurray clicks the meniscus.*
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d09a2f7f453941ecaa2d096bd0a95a0bx1280x1085.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/89b1b40cf8074f90a341c93f98b47bec.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8e95d12cf1394fde81fafe4a8c3b2e92x261x358.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/789e2aeba3a144edb58941e0273d00ecx720x912.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ef3ab0f4fb2041e1a3bbadbd20d31c56x255x387.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5ff3f99dc75d41f18a7651fa5d8d650cx1280x1280.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bc5a38a6ec9649419b5d3a461c34d05ax720x720.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dfddfcc440c648c6a81257139b66bce5x1200x1783.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/1f4062f930c64fa588b5fcb64249c570.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/11ed1fa605d842c087050d861a290dbdx300x426.PNG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cd7f3903d3a0431499aaa6226736f547x1280x1194.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1f13c788a38d4147a949377cc82bf62ax1279x1062.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/f472227044634a3e991fadb8189aa1f4.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8bc0d2fcc5f245bdafe86445cbcfa849x1280x1982.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1231da278b7e4cb59d66012e919831efx1280x4207.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b85c2139c3894b4f91bdcec9f13b7143x1279x1060.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/daee4afc01aa4108beaa28c2c90f4625x1280x1860.JPEG)
+
+`Q11129, Q11133, Q11134, Q11140, Q11142, Q11143, Q11145, Q11139`
+
+---
+
+### 87. Orthopaedic Signs, Eponyms and Instruments
+
+**PEARL:** A cluster of high-yield recall items that recur as one-line or image questions.
+
+**UNDERSTAND:** These have no shared mechanism — they are recognition facts, best absorbed as a list and revised as a list.
+
+**MUST KNOW:**
+
+- Thomas test — fixed flexion deformity of the hip (flex the opposite hip fully to obliterate lumbar lordosis; the affected thigh lifts off the couch). OBER test — iliotibial band contracture; Trendelenburg test — abductor (gluteus medius) insufficiency; Allis/Galeazzi test — developmental dysplasia of the hip (apparent femoral shortening).
+- Hoover’s sign — a test for feigned (non-organic) weakness: with a hand under the “good” heel, ask the patient to raise the weak leg — genuine effort produces downward pressure of the opposite heel; its absence suggests malingering or a functional disorder.
+- Sprengel deformity — congenital high, small, medially rotated scapula (failure of scapular descent), often with an omovertebral bar. Associated with Klippel–Feil syndrome, congenital scoliosis, diastematomyelia, rib and renal anomalies — not with dextrocardia.
+- Haglund deformity — a bony prominence of the posterosuperior calcaneus (“pump bump”) at the ankle/hindfoot, causing retrocalcaneal bursitis and Achilles tendinopathy.
+- X-ray principles: cartilage is not visualised; loss of soft-tissue planes is the earliest sign of infection (24–48 h, long before bone changes at 10–14 days); glass (especially leaded) IS radio-opaque; and dead bone (sequestrum) is more radio-opaque than live bone, because living bone around it undergoes hyperaemic demineralisation while the dead fragment cannot be resorbed.
+- Instruments: bone nibbler/rongeur — nibbles small bites of bone; bone-holding forceps (Lane’s, Fergusson’s) — grip and reduce fragments; bone cutter — divides bone; Volkmann’s scoop/curette — removes granulation tissue from a non-union or cavity.
+- Osteogenesis imperfecta — defective type I collagen (COL1A1/COL1A2): recurrent fractures with thin, osteopenic, gracile bones, blue sclerae, dentinogenesis imperfecta, deafness, hypermobility, wormian bones, and “codfish”/biconcave vertebrae; treat with bisphosphonates, rodding and rehabilitation. (Contrast osteopetrosis — dense bones; osteopoikilosis — multiple small sclerotic foci, asymptomatic.)
+- Patella fracture — a comminuted “stellate” pattern on X-ray after a direct blow; test the extensor mechanism (straight-leg raise); undisplaced with intact extension → cylinder cast; displaced/extensor lag → tension-band wiring.
+
+**EXAM CONNECTION:** Single-line recall or image identification; there is nothing to reason out.
+
+**REMEMBER:** *Thomas for the hip, Hoover for the faker, Sprengel for the scapula, Haglund for the heel — and dead bone shines whitest.*
+
+**IMAGES:**
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/07/picture25.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/07/picture26.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2023/05/08/io11.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/08/18/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_83.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/24/screenshot-2024-01-23-195511.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/24/screenshot-2024-01-23-195523.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/08/31/screenshot-2024-08-31-090929.png)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/05/15/screenshot-2024-05-15-112808.JPG)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/08/17/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_83_AJMegAp.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-131335.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202025-02-19%20115127.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-131347.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-131359.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-131410.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-131422.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-131433.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-131447.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/07/picture27.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/07/picture28.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/07/picture29.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/08/17/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_87.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/31/picture1.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/31/picture2.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/31/picture3.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/31/picture4.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/15/screenshot-2024-05-15-112245.JPG)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/01/04/screenshot-2024-01-04-175840.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/04/whatsapp-image-2024-01-04-at-180800.jpeg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/04/picture204.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/07/04/screenshot-2024-07-03-180933.png)
+
+`Q11197, Q11198, Q11206, Q11208, Q11212, Q11213, Q11217, Q11219, Q11225, Q11205, Q11193`
+
+---
+
+### 88. Named Radiological Signs and Indices
+
+**PEARL:** Insall–Salvati index = patellar tendon length ÷ patellar length, measured on a lateral knee radiograph. Normal 0.8–1.2; > 1.2 = patella alta; < 0.8 = patella baja.
+
+**UNDERSTAND:** The index works because it is a ratio of two structures in the same image, so it is independent of magnification, knee flexion angle and patient size. Any measurement of absolute height would vary with all three.
+
+**MUST KNOW:**
+
+- Patella alta → recurrent patellar dislocation and anterior knee pain (the patella sits above the trochlear groove and escapes laterally). Patella baja → chondral damage and early osteoarthritis, seen after trauma, surgery or prolonged immobilisation.
+- Martel’s sign (G-sign) — periarticular erosions with overhanging margins — is the radiographic signature of chronic tophaceous gout; joint space is characteristically preserved until late.
+- Risser’s sign grades skeletal maturity by ossification of the iliac apophysis, progressing lateral to medial (ASIS → psis) in four quadrants; grade 5 = complete fusion with the ilium = skeletally mature, after which scoliosis will not progress — which is why bracing is stopped.
+- Fallen fragment (fallen leaf) sign is pathognomonic of a simple (unicameral) bone cyst — a cortical fragment falls into the fluid-filled cavity, proving the lesion is liquid, not solid. Commonest site: proximal humerus; the “trapdoor sign” is its variant.
+- Cod-fish vertebrae (biconcave end-plates) indicate osteoporosis → confirm with DEXA (T-score ≤ −2.5; osteopenia −1 to −2.5; Z-score ≤ −2 prompts a search for secondary causes).
+- Comolli’s sign — triangular swelling over the scapular outline in scapular fracture.
+
+**EXAM CONNECTION:** Eponym-to-disease matching. Martel = gout; Risser = iliac apophysis; fallen fragment = simple bone cyst.
+
+**REMEMBER:** *A ratio survives magnification; an absolute measurement does not.*
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/98a4242578004dd9a9db9600e7ea4366x1280x1507.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/a563b87f3e454a3e9241d2b9b6f1defe.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2df2aea2d73f4db1b519218e4ffe4086x1280x1403.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7bdaaa016aca4c10998ea407458da1f9x1280x2594.JPEG)
+
+`MA8933, MB2460, MB2218, MB5160, MD0752`
+
+---
+
+### 89. Clinical Tests — Thomas, Hoover, Trendelenburg, Durkan
+
+**PEARL:** Thomas test unmasks a fixed flexion deformity of the hip by abolishing compensatory lumbar lordosis. Hoover’s test separates organic from functional (feigned) leg weakness.
+
+**UNDERSTAND:** Both tests work by removing a compensation the patient is using. In Thomas, the patient hides a flexion deformity by arching the lumbar spine; flexing the opposite hip flattens the lordosis and the deformity appears. In Hoover, a genuine effort to lift one leg necessarily produces downward pressure from the opposite heel (a synergistic, involuntary action) — its absence exposes a lack of true effort.
+
+**MUST KNOW:**
+
+- Thomas test: examiner’s hand under the lumbar spine; flex the normal hip until the lordosis flattens; the angle the affected thigh rises off the couch is the fixed flexion deformity.
+- Hoover’s test: hands under both heels; on attempted straight-leg raise of the weak limb, downward heel pressure in the sound limb confirms genuine effort.
+- Trendelenburg test assesses the hip abductors (gluteus medius and minimus, superior gluteal nerve) — the pelvis drops on the unsupported (opposite) side. Also positive with shortened femoral neck, hip dislocation/subluxation, abductor tendon rupture, and any painful hip.
+- Durkan’s carpal compression test is the most specific test for carpal tunnel syndrome (direct median nerve compression for 30 s); Phalen’s and Tinel’s are the others. Froment’s sign tests the ulnar nerve (adductor pollicis), and Guyon’s canal syndrome is ulnar, not median.
+- Roos test (elevated arm stress test) is provocative for thoracic outlet syndrome — arms abducted 90°, elbows flexed 90°, open and close the hands for 3 minutes.
+
+**EXAM CONNECTION:** Test-to-purpose matching. Note carefully that the numbness of carpal tunnel affects the lateral 3½ digits and is relieved by hanging the arm down/shaking — the “flick sign”.
+
+**ALSO KNOW:** Thomas test for fixed flexion deformity of the hip, in sequence: (1) look for exaggerated lumbar lordosis with the patient supine; (2) flex the normal hip fully; (3) watch for overcorrection of the lumbar lordosis; (4) ensure the sacrum/ischial tuberosity stays flat on the couch; (5) measure the angle at which the affected thigh now lifts off — that is the true flexion deformity. TRENDELENBURG’S sign is positive when the pelvis drops on the unsupported side while standing on the affected leg — indicating weakness of the hip abductors (gluteus medius and minimus, superior gluteal nerve). Both tests exist to defeat compensation. A patient with a fixed flexion deformity hides it by arching the lumbar spine, so the hip looks straight; flexing the opposite hip flattens the lumbar spine and unmasks the deformity. Similarly, the abductors normally hold the pelvis level in single-leg stance; when they fail, the pelvis tips to the opposite side and the trunk lurches towards the affected side to move the centre of gravity over the hip — the waddling Trendelenburg gait. Causes of a positive Trendelenburg sign — remember them as failures of the abductor lever: muscle weakness (polio, superior gluteal nerve injury, abductor tendon tear, muscular dystrophy), fulcrum failure (dislocated or subluxated hip, DDH), and lever-arm failure (fracture neck of femur, coxa vara, shortened femoral neck, excised head). Pain (any painful hip) also produces a positive test. Other essential hip tests: true (anterior superior iliac spine to medial malleolus) versus apparent (umbilicus to medial malleolus) limb length — apparent shortening with equal true lengths indicates an adduction deformity of the hip or pelvic obliquity. Bryant’s triangle and NELATON’S line assess trochanteric elevation. Galeazzi/Allis sign for hip dislocation or femoral shortening. FABER (PATRICK’S) test for hip/sacroiliac pathology. OBER’S test for iliotibial band contracture. ELY’S test for rectus femoris tightness. In DDH: ORTOLANI (reduction of a dislocated hip with a “clunk”) and Barlow (dislocation of a reducible hip) in the newborn; ultrasound is the investigation of choice under 4–6 months (before the head ossifies); X-ray with Hilgenreiner’s, Perkin’s and Shenton’s lines thereafter. Treat with a PAVLIK harness under 6 months. A fixed flexion deformity of the hip is compensated by lumbar lordosis, an adduction deformity by pelvic tilt with apparent shortening, and an abduction deformity by apparent lengthening. *Flex the good hip to flatten the spine and expose the deformity; the pelvis drops on the side you are not standing on.*
+
+**REMEMBER:** *Each test removes the compensation the patient is unconsciously using.*
+
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fab2eac01a614541b8e8eb6000631789x1280x2008.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/45c56c94f54647a9aaaca5441625107ax1064x2495.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/81da840d6865428a96a79f39d075c0efx1280x4280.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7fb81ae6b5954f41b3ec1d053c519212x1280x2162.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7026cc757bb14f768d2c9586586d80c3x1280x4280.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8aab927437e1471f99534f6aeaa50010x720x456.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/949fc41420d7418b9aaea04bd9bac9d5x1024x700.jpeg)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/84b5e5eb4d1143958be3dd50c53a3787x1280x1429.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5dfd59610ed4480eb08ec567e78533cdx1280x2558.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8dde492c1e9b4216982a97ebdbba9d15x1280x1416.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d3299a6fd29841c58c0b784671708142x1279x1140.JPEG)
+
+`MC5321, MB9225, MB6273, MF8164, MD0233`
+
+---
+
+---
+
+## Sources for the 2026 Updates
+
+[^1]: Endocrine Society and AACE clinical practice guidelines on postmenopausal osteoporosis — anabolic-first sequencing with romosozumab, teriparatide or abaloparatide in very high-risk patients, mandatory antiresorptive follow-on after denosumab, and criteria for bisphosphonate drug holidays. <https://www.endocrine.org/clinical-practice-guidelines>
+
+[^2]: BOAST / BAPRAS open fracture standards and current trauma guidance — antibiotics within one hour, and debridement within 12–24 hours rather than the historical 6-hour rule, with immediate surgery for gross contamination or vascular compromise. <https://www.boa.ac.uk/standards-guidance/boasts.html>

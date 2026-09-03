@@ -1,0 +1,104 @@
+/* Typography for the pearl files
+   ------------------------------------------------------------------
+   Enable in Settings -> Appearance -> CSS snippets (reload, then toggle
+   "typography" on). Values follow Butterick's Practical Typography.     */
+
+body {
+  /* Line spacing: 128% of the point size. The rule allows 120-145%, and
+     the lower end suits this text because so much of it is bold - heavy
+     type fills the line, so it needs less space between lines, not more.
+     Nudge this one number to taste: 1.25 tighter, 1.35 airier.          */
+  --line-height-normal: 1.28;
+  --line-height-tight:  1.15;
+
+  /* Line length: at 18px Charter this is roughly 65 characters,
+     the middle of the 45-90 character range. Requires
+     Settings -> Editor -> "Readable line length" to be ON.            */
+  --file-line-width: 36rem;
+
+  /* Paragraph spacing instead of first-line indents - never both.     */
+  --p-spacing: 0.75em;
+}
+
+/* Kerning and standard ligatures on, everywhere. */
+.markdown-preview-view,
+.markdown-rendered,
+.markdown-source-view.mod-cm6 .cm-content {
+  font-kerning: normal;
+  font-variant-ligatures: common-ligatures contextual;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* These notes use long runs of capitals for exam keywords. Capitals set
+   at the same tracking as lower case read as a wall; 6% extra
+   letterspacing (rule: 5-12%) opens them up. Bold is also stepped down
+   from black to semibold so the emphasis reads as emphasis rather than
+   as a second, heavier typeface.                                       */
+.markdown-rendered strong,
+.markdown-source-view.mod-cm6 .cm-strong {
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  line-height: inherit;   /* bold must not open the leading further */
+}
+
+/* Italic is used for the REMEMBER mnemonics; keep it light and never
+   let it stack with bold.                                             */
+.markdown-rendered em,
+.markdown-source-view.mod-cm6 .cm-em {
+  font-style: italic;
+  letter-spacing: 0;
+}
+.markdown-rendered strong em,
+.markdown-rendered em strong {
+  font-weight: 400;
+}
+
+/* Headings: tighter spacing above the line, generous space before.    */
+.markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-rendered h3 {
+  line-height: 1.2;
+  letter-spacing: -0.005em;
+  margin-top: 1.6em;
+  margin-bottom: 0.5em;
+}
+
+/* Themes often hardcode their own leading on paragraphs and list items,
+   which is why the variable above is not enough on its own. The space
+   between blocks does the separating; the space between lines stays
+   tight.                                                              */
+.markdown-rendered p,
+.markdown-rendered li,
+.markdown-rendered ul,
+.markdown-rendered ol,
+.markdown-rendered blockquote,
+.markdown-source-view.mod-cm6 .cm-line {
+  line-height: var(--line-height-normal) !important;
+}
+
+.markdown-rendered li + li {
+  margin-top: 0.25em;
+}
+
+/* Tables: numbers align, and the type stays out of monospace.        */
+.markdown-rendered table {
+  font-variant-numeric: tabular-nums lining-nums;
+  font-size: 0.95em;
+}
+
+/* Links are the one place underlining is allowed - but keep it thin
+   and clear of the descenders.                                        */
+.markdown-rendered a {
+  text-decoration: underline;
+  text-decoration-thickness: 0.06em;
+  text-underline-offset: 0.15em;
+}
+
+/* Footnote sources at the end of each file: slightly smaller, so they
+   read as apparatus rather than as body text.                         */
+.markdown-rendered .footnotes,
+.markdown-rendered section[data-footnotes] {
+  font-size: 0.9em;
+  line-height: 1.35;
+}
