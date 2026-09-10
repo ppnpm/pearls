@@ -61,8 +61,6 @@
 
 **REMEMBER:** *Pregnancy makes the heart flow faster, not fill worse — systolic is fine, diastolic never.*
 
-`Q9143, Q10830`
-
 ---
 
 ### 2. Blood Volume, Renal and Haematological Changes
@@ -84,8 +82,6 @@
 
 **REMEMBER:** *Oestrogen and aldosterone tell the kidney to hold salt and water — ADH just resets its threshold.*
 
-`Q10955`
-
 ---
 
 ### 3. Respiratory Changes in Pregnancy
@@ -105,8 +101,6 @@
 **EXAM CONNECTION:** “Which decreases” → **FRC**. Respiratory rate and vital capacity are the classic “unchanged” traps.
 
 **REMEMBER:** *Breathe deeper, not faster — and rest at a lower lung volume.*
-
-`MB9755`
 
 ---
 
@@ -130,8 +124,6 @@
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/01/15/picture14_kY8nI7M.jpg)
-
-`Q9605, Q9606, Q9615`
 
 ---
 
@@ -158,8 +150,6 @@
 ![question](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/questions_image/01KKXA9S5WPKCDN36121Q81DRQ.png)
 ![explanation](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/question_explanation/36192c6e-f399-45bd-91f5-316da7251727.png)
 
-`Q10035, Q10105`
-
 ---
 
 ### 6. Uteroplacental Circulation
@@ -178,8 +168,6 @@
 **EXAM CONNECTION:** Straight number recall — **500–600 mL/min**.
 
 **REMEMBER:** *Half a litre a minute through vessels that cannot constrict — only muscle can stop it.*
-
-`Q11066`
 
 ---
 
@@ -200,8 +188,6 @@
 **EXAM CONNECTION:** Number recall — **400 mL/min**; souffle discrimination is a classic pairing.
 
 **REMEMBER:** *The fetal vein carries the good blood in; the funic souffle beats with the baby, the uterine souffle with the mother.*
-
-`Q11090, Q11109`
 
 ---
 
@@ -224,8 +210,6 @@
 
 **REMEMBER:** *Heart at three weeks, limbs at five, everything formed by eight, genitalia by twelve.*
 
-`Q11089`
-
 ---
 
 ### 9. Eponymous Obstetric Signs
@@ -246,8 +230,6 @@
 **EXAM CONNECTION:** Definition matching — **placental sign = cyclical spotting in early pregnancy**.
 
 **REMEMBER:** *Until the decidua fuse at twelve weeks, there is still a space in which she can bleed on time.*
-
-`Q11126`
 
 ---
 
@@ -272,8 +254,6 @@
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/27/untitled-242.jpg)
-
-`Q11422`
 
 ---
 
@@ -303,8 +283,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4413ce522e1a41d2b88fec6e0c6b0cf9x1280x3281.JPEG)
 
-`Q9120, Q11424`
-
 ---
 
 ### 12. First-Trimester Aneuploidy Screening
@@ -327,8 +305,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/80eecda627d649f88eabb4729ca2c85ax796x599.JPEG)
 
-`Q9140`
-
 ---
 
 ### 13. Increased Nuchal Translucency with a Normal Karyotype
@@ -349,8 +325,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture28.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture29.jpg)
-
-`Q10878`
 
 ---
 
@@ -399,8 +373,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/91de267cb9594cb6ba98e16f4495780fx443x490.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6353c90095d1471696dac8fa7bd2a3b3x676x568.JPEG)
 
-`MC6347, MF1513, MF0544`
-
 ---
 
 ### 15. Maternal Serum AFP and the Raised-AFP Pathway
@@ -419,8 +391,6 @@
 **EXAM CONNECTION:** “MSAFP raised in all EXCEPT” → **gestational trophoblastic disease**. Raised AFP → **anomaly scan**.
 
 **REMEMBER:** *AFP is fetal serum — up when the fetus leaks, down when there is less fetus; and a structural risk needs a picture, not a karyotype.*
-
-`Q11091, Q11435`
 
 ---
 
@@ -442,8 +412,6 @@
 
 **REMEMBER:** *It reads the placenta, so it can only screen.*
 
-`MC4557`
-
 ---
 
 ### 17. Invasive Prenatal Diagnosis — CVS, Amniocentesis, Cordocentesis
@@ -464,8 +432,6 @@
 
 **REMEMBER:** *Wait until the limbs are formed.*
 
-`MB9797`
-
 ---
 
 ### 18. Periconceptional Folic Acid
@@ -484,8 +450,6 @@
 **EXAM CONNECTION:** “High-dose folic acid preconceptionally” → **poorly controlled diabetes**.
 
 **REMEMBER:** *Routine 400 µg, risky 4–5 mg — and the tube closes at four weeks, so it must be in her before she knows she is pregnant.*
-
-`Q11410`
 
 ---
 
@@ -508,8 +472,6 @@
 
 **REMEMBER:** *14 weeks, one red tablet, 180 days before and 180 days after.*
 
-`Q11452`
-
 ---
 
 ### 20. Vaccines in Pregnancy
@@ -529,8 +491,6 @@
 
 **REMEMBER:** *Killed yes, live no; Tdap late so the baby gets the antibody — and never terminate for a vaccine given by mistake.*
 
-`Q11344, Q10899`
-
 ---
 
 ### 21. Nutrition in Pregnancy
@@ -549,8 +509,6 @@
 **EXAM CONNECTION:** “Additional calories in the first trimester” → **none**. The B12 question tests the dose (**1000 µg IM, not 100 µg**) and the need to give **both**.
 
 **REMEMBER:** *The baby’s calories are spent in the last half of pregnancy.*
-
-`MB9165, MB9548`
 
 ---
 
@@ -574,8 +532,6 @@
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/image_Ov51NLE.png)
-
-`Q10034`
 
 ---
 
@@ -609,8 +565,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture40_Z2UabYR.jpg)
 
-`Q10886`
-
 ---
 
 ### 24. Gestational Trophoblastic Neoplasia — Detection and Treatment
@@ -636,8 +590,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/15/1.jpg)
 
-`Q9116, Q11397`
-
 ---
 
 ### 25. Types of Abortion and Their Management
@@ -658,8 +610,6 @@
 **EXAM CONNECTION:** Open os with visible products → **surgical evacuation**. “10 weeks, best method” → **vacuum aspiration** (medical efficacy falls after 9 weeks).
 
 **REMEMBER:** *Feel the cervix — open means empty it, closed means decide whether it is alive.*
-
-`Q9642`
 
 ---
 
@@ -687,8 +637,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/18/screenshot-2024-01-18-105412_GeIfj1d.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/06/10/untitled-661.jpg)
 
-`Q9594, Q9582, Q9583, Q10849`
-
 ---
 
 ### 27. Ectopic Pregnancy
@@ -710,8 +658,6 @@
 
 **REMEMBER:** *Pain, amenorrhoea, bleeding — the shoulder hurts only once the blood reaches the diaphragm. Abdominal Studdiford, Ovarian Spiegelberg, Cervical Rubin, Scar Godin.*
 
-`Q11092, Q11094`
-
 ---
 
 ### 28. Septic Abortion
@@ -732,8 +678,6 @@
 **EXAM CONNECTION:** “Most common organism in septic abortion” → ***E. coli***.
 
 **REMEMBER:** *E. coli leads, C. perfringens kills — antibiotics and evacuation together, because the retained tissue is the infection.*
-
-`Q11619`
 
 ---
 
@@ -765,8 +709,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/08/screenshot-2024-01-08-192932.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/08/screenshot-2024-01-08-193029.jpg)
 
-`Q9612, Q9614, Q9618, Q9620, Q9625, Q10024, Q11227`
-
 ---
 
 ### 30. Pathogenesis, Prediction and Prevention of Pre-eclampsia
@@ -796,8 +738,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/86fef835bafd42e686f42bb3043e1266x1092x1198.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c4932fbb82fa41379426e3247e9630d1x1280x1211.JPEG)
 
-`Q9617, Q9623, MF5407`
-
 ---
 
 ### 31. Severe Pre-eclampsia and HELLP — Management
@@ -819,8 +759,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/20a6c3215a3540eaad8d2a7485603fa9x557x600.JPEG)
-
-`Q9123`
 
 ---
 
@@ -847,8 +785,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/27/untitled-237.jpg)
 
-`Q9602, Q9613, Q9624, Q11400, Q11401, Q11414`
-
 ---
 
 ### 33. Eclampsia — Immediate Management and Prognosis
@@ -871,8 +807,6 @@
 
 **REMEMBER:** *Airway first, magnesium second, delivery last — and in antepartum eclampsia the placenta is still there, so the disease keeps running.*
 
-`Q11082, MB2040, MB2068`
-
 ---
 
 ### 34. Eclampsia and PRES
@@ -892,8 +826,6 @@
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture43_Ut01KC3.jpg)
-
-`Q10890`
 
 ---
 
@@ -927,8 +859,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Overt diabetes cut-off” → **fasting ≥126**. IADPSG numbers → **92 / 180 / 153**. “All managed with insulin EXCEPT” → **class A1**. Screening at 8 weeks with a family history → **HbA1c**.
 
 **REMEMBER:** *Ninety-two, one-eighty, one-fifty-three — any one is enough. A1 is diet, everything else is insulin.*
-
-`Q9118, Q9124, Q9139, Q9603, Q9604, Q9616, Q11119, MF2214`
 
 ---
 
@@ -972,8 +902,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/27/untitled-236.jpg)
 
-`Q10949, Q11398`
-
 ---
 
 ### 38. Thromboembolism, Anticoagulation and Antiphospholipid Syndrome
@@ -995,8 +923,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **REMEMBER:** *Heparin cannot cross the placenta; warfarin can — so the first trimester belongs to heparin, and APS gets aspirin plus heparin, never warfarin.*
 
-`Q9119, Q9141`
-
 ---
 
 ### 39. Fetal Congenital Heart Block, Anti-Ro and SLE
@@ -1016,8 +942,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** Fetal heart block → **evaluate the mother for SLE** (anti-Ro/SSA).
 
 **REMEMBER:** *Maternal anti-Ro crosses the placenta and scars the conducting system — the rash fades, the block does not.*
-
-`Q9122`
 
 ---
 
@@ -1044,8 +968,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/30/screenshot-2023-04-30-144703.jpg)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f077ca247cd04557a853146956d7aa68x926x1164.PNG)
 
-`Q9610, Q9611, Q9130, Q11837`
-
 ---
 
 ### 41. Peripartum Cardiomyopathy
@@ -1063,8 +985,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “True about PPCM EXCEPT” → **diastolic dysfunction** (it is systolic).
 
 **REMEMBER:** *Dilated, systolic failure of the last month to five months post — and prognosis is the ejection fraction.*
-
-`Q9134`
 
 ---
 
@@ -1087,8 +1007,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **REMEMBER:** *Everything gets bigger and faster, creatinine falls, and the RIGHT ureter is the one that kinks.*
 
-`Q9607, Q9609`
-
 ---
 
 ### 43. Thyroid Function in Pregnancy
@@ -1109,8 +1027,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “What is altered throughout pregnancy” → **total T3 (and total T4)**.
 
 **REMEMBER:** *More carrier protein, more total hormone, the same free hormone — and hCG nudges the TSH down early.*
-
-`Q11606`
 
 ---
 
@@ -1150,8 +1066,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a9ca7f26f1f745e6b367632ca66f2ddfx383x576.JPEG)
 
-`Q9125`
-
 ---
 
 ### 46. Genital Herpes and Mode of Delivery
@@ -1171,8 +1085,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** Primary genital herpes → **vaginal delivery if no active lesions at labour**.
 
 **REMEMBER:** *It is the lesion at the time of labour that decides the route, not the history.*
-
-`Q9619, Q9622`
 
 ---
 
@@ -1195,8 +1107,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **REMEMBER:** *In pregnancy the ureters are lazy — silent bacteria climb, so always treat. Admit, culture, hydrate, treat for two weeks, then suppress until she delivers.*
 
-`Q11402, Q9581`
-
 ---
 
 ### 48. Parvovirus B19 in Pregnancy
@@ -1217,8 +1127,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** The answer is the **non-invasive surveillance** test, not immediate invasive sampling or treatment.
 
 **REMEMBER:** *Thin blood flows fast — MCA velocity finds fetal anaemia before hydrops.*
-
-`Q11839`
 
 ---
 
@@ -1243,8 +1151,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **REMEMBER:** *Painless bleeding from a soft uterus is praevia; painful bleeding from a hard uterus is abruption — and think DIC.*
 
-`Q11086`
-
 ---
 
 ### 50. Abruptio Placentae with Fetal Death
@@ -1264,8 +1170,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** The stem gives the fetal status. **Dead fetus + stable mother + labour = vaginal delivery with amniotomy.** Every caesarean option is a trap.
 
 **REMEMBER:** *Once the baby is lost, protect the mother — rupture the membranes and deliver from below.*
-
-`Q11034`
 
 ---
 
@@ -1289,8 +1193,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/84268612f965433bacb61fb002a017edx600x1200.PNG)
-
-`Q10967`
 
 ---
 
@@ -1322,8 +1224,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/01/06/picture001.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/06/picture2.jpg)
 
-`Q9115, Q9136, Q9584, Q9585`
-
 ---
 
 ### 53. Zygosity and the Epidemiology of Twinning
@@ -1341,8 +1241,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Absolute proof of monozygosity” → **DNA fingerprinting**.
 
 **REMEMBER:** *Different sexes rule monozygosity out; only identical DNA rules it in.*
-
-`Q11078`
 
 ---
 
@@ -1362,8 +1260,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** Read the **first twin’s presentation** and the **gestation**; those two facts settle the answer regardless of other detail in the stem.
 
 **REMEMBER:** *Twin one decides the route.*
-
-`MD0691`
 
 ---
 
@@ -1391,8 +1287,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/06/screenshot-2024-08-06-171706.png)
 
-`Q9127, Q11283`
-
 ---
 
 ### 56. Reading the CTG — Decelerations
@@ -1414,8 +1308,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **REMEMBER:** *Early mirrors the contraction, variable ignores it, late lags behind it — and only late means the placenta is failing.*
 
-`Q11428`
-
 ---
 
 ### 57. Amniotic Fluid — Appearance and Volume
@@ -1435,8 +1327,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Normal amniotic fluid at term” → **cloudy with white specks**.
 
 **REMEMBER:** *The flecks are the baby’s shed vernix — the more there are, the more mature the skin.*
-
-`Q9113`
 
 ---
 
@@ -1461,8 +1351,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/1e674f87892e41ab9d69cd43c7267f51.PNG)
-
-`Q11096`
 
 ---
 
@@ -1509,8 +1397,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/17/picture5_x3sMtFz.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/07/04/whatsapp-image-2023-06-12-at-1901210142.jpg)
 
-`Q9108, Q9591, Q9595, Q11282`
-
 ---
 
 ### 61. Friedman versus Zhang, and the Stages of Labour
@@ -1535,8 +1421,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1ecf286f5fd04815866ed8359c47c3c5x1280x1033.JPEG)
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture42_cyrT7Hh.jpg)
 
-`Q11111, Q10889`
-
 ---
 
 ### 62. The Cardinal Movements of Labour
@@ -1560,8 +1444,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/09/13/screenshot-2024-09-12-124357.jpg)
-
-`Q11604, Q11603`
 
 ---
 
@@ -1599,8 +1481,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/03/22/screenshot-2024-03-22-111042.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/13/picture36.jpg)
 
-`Q11076, Q9589, Q9592`
-
 ---
 
 ### 64. The Pelvis — Planes, Diameters and Caldwell–Moloy Types
@@ -1630,8 +1510,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/06/13/obg-13.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/13/screenshot-2024-01-13-174838.jpg)
 
-`Q11436, Q11601, Q10497, Q9596`
-
 ---
 
 ### 65. Deep Transverse Arrest and the Occipitoposterior Position
@@ -1652,8 +1530,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Deep transverse arrest seen in all EXCEPT” → **transverse lie**. Early labour, gynaecoid pelvis, ROP, adequate contractions → **allow normal vaginal delivery**.
 
 **REMEMBER:** *Rotation needs a flexed head, strong contractions and a firm pelvic floor — lose any one and the head sticks sideways.*
-
-`Q11070, Q11077, Q11386`
 
 ---
 
@@ -1690,8 +1566,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/30/1_9cbh8wE.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/01/06/screenshot-2024-01-06-121641.jpg)
 
-`Q11607, Q9590, Q9593`
-
 ---
 
 ### 67. Cord Prolapse and Cord Presentation
@@ -1719,8 +1593,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/775c094e466e45c8a7d14e02518f0bb5x310x190.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/81959a2ab2bc41e4a07cfc0e437ec33b.JPEG)
 
-`Q9128, MG1167, MB9873`
-
 ---
 
 ### 68. Induction of Labour and the Modified Bishop Score
@@ -1746,8 +1618,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/26/untitled-226_ZlB06tA.jpg)
 
-`Q9142, Q11409`
-
 ---
 
 ### 69. Preterm Labour — Tocolytics, Corticosteroids and Fetal Fibronectin
@@ -1768,8 +1638,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Ritodrine causes all EXCEPT” → **hypoglycaemia** (it causes maternal HYPERglycaemia; the NEONATE gets hypoglycaemia).
 
 **REMEMBER:** *Tocolysis buys forty-eight hours for the steroids — beta-agonists flood the lungs while raising the sugar. And fibronectin is best at telling you she WON’T deliver.*
-
-`Q11624`
 
 ---
 
@@ -1792,8 +1660,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **REMEMBER:** *The vagina is acid and the liquor is alkaline — but so are blood, semen and bacterial vaginosis. And never do a digital exam.*
 
-`Q11123`
-
 ---
 
 ### 71. Cervical Cerclage
@@ -1813,8 +1679,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Contraindication for cerclage” → **ruptured membranes**.
 
 **REMEMBER:** *Only stitch a quiet, closed, uninfected cervix with intact membranes.*
-
-`Q10132`
 
 ---
 
@@ -1836,8 +1700,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Head-to-body delivery time defining shoulder dystocia” → **>60 seconds**; Johnson’s formula is pure calculation.
 
 **REMEMBER:** *McRoberts and suprapubic pressure first — never fundal pressure, never harder traction.*
-
-`Q11067, Q11068`
 
 ---
 
@@ -1870,8 +1732,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9dce94b3db3740f9b69b7a0cf7ff9643x1280x1399.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/87d160e7a68446639c1e4939fc8a751f.JPEG)
 
-`Q11099, Q11100, Q11101, Q11104, Q11106, Q11113`
-
 ---
 
 ### 74. Amniotic Fluid Embolism
@@ -1891,8 +1751,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** Collapse plus DIC in the immediate peripartum period → **amniotic fluid embolism**.
 
 **REMEMBER:** *Collapse, hypoxia, and blood that will not clot — within thirty minutes of delivery.*
-
-`Q10106`
 
 ---
 
@@ -1914,8 +1772,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Not included in AMTSL” → **gentle uterine massage** (WHO 2012 revision).
 
 **REMEMBER:** *Uterotonic in the first minute, controlled traction, check the tone — and delay the cord for everyone except the flat baby.*
-
-`Q11403, Q11417`
 
 ---
 
@@ -1965,8 +1821,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/13aefb3ae0e54fc89b5101ad0b3f1003.JPEG)
 
-`Q9114, Q9117, Q9121`
-
 ---
 
 ### 79. Perimortem Caesarean and the Classical Incision
@@ -1985,8 +1839,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “True regarding perimortem caesarean” → **upper segment (classical) caesarean section**.
 
 **REMEMBER:** *Cut where she lies, cut vertically, and do it to save the mother.*
-
-`Q11592, Q11599`
 
 ---
 
@@ -2014,8 +1866,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/015134ab07b14d9eb884ed9294cdbe51x1200x916.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/abe30855adf844ca8d7ff8e9ee16f4e1x1280x753.JPEG)
 
-`Q9107, Q9129`
-
 ---
 
 ### 81. Instrumental Delivery — Ventouse, Forceps and Classification
@@ -2040,8 +1890,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/29/screenshot-2024-08-29-175601.png)
-
-`Q11381, Q11423, Q11429`
 
 ---
 
@@ -2079,8 +1927,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **REMEMBER:** *Oxytocin, ergot, prostaglandin — then, and only then, reach for a procedure. Ergometrine squeezes the uterus and the arteries, which is bad for a stiff heart.*
 
-`Q9137, Q10941, MB9625, MF2220`
-
 ---
 
 ### 84. Secondary Postpartum Haemorrhage, Puerperal Pyrexia and Sepsis
@@ -2101,8 +1947,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Not a cause of secondary PPH” → **placenta praevia**.
 
 **REMEMBER:** *Secondary PPH is a placental site that never involuted — retained tissue or infection, not praevia. And fever that ignores antibiotics after delivery means heparin.*
-
-`Q11437, Q11448`
 
 ---
 
@@ -2125,8 +1969,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **REMEMBER:** *Replace first, detach second, contract third.*
 
-`Q10845`
-
 ---
 
 ### 86. Uterine Involution and Lochia
@@ -2148,8 +1990,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **REMEMBER:** *Twenty weeks at delivery, pelvic by two weeks, normal by six. Rubra → serosa → alba, about three to five weeks in all.*
 
-`Q11127, Q11395`
-
 ---
 
 ### 87. Lactation — Why Milk Waits for Delivery
@@ -2169,8 +2009,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Milk production in pregnancy is inhibited by” → **high oestrogen**.
 
 **REMEMBER:** *The placenta holds the brake — deliver it and the milk comes in.*
-
-`Q11433`
 
 ---
 
@@ -2193,8 +2031,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **REMEMBER:** *Keep the breast empty and give an anti-staphylococcal penicillin — stopping feeds makes an abscess.*
 
-`Q9144`
-
 ---
 
 ### 89. Sheehan Syndrome
@@ -2216,8 +2052,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **REMEMBER:** *The pituitary outgrows its blood supply in pregnancy — bleed enough and it infarcts, so give hydrocortisone first.*
 
-`Q11382`
-
 ---
 
 ### 90. Neonatal Hypoglycaemia
@@ -2237,8 +2071,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** Straight cut-off recall → **<45 mg/dL**.
 
 **REMEMBER:** *Insulin stays high after the placenta goes — and it blocks the ketones the brain would otherwise use.*
-
-`Q11081`
 
 ---
 ---
@@ -2269,8 +2101,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/71feeaa6744c458d10707e5175ac6814.webp)
 
-`Q10509`
-
 ---
 
 ### 92. The Broad Ligament and the Supports of the Uterus
@@ -2288,8 +2118,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “False about contents of the broad ligament” → the ovarian ligament in the **anterior** fold (it is posterior).
 
 **REMEMBER:** *The broad ligament drapes but does not support — the levator ani does.*
-
-`Q10485`
 
 ---
 
@@ -2311,8 +2139,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/b6b0ae93fe9a283a4a8edd72673502b2.webp)
-
-`Q10486`
 
 ---
 
@@ -2336,8 +2162,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/3477f43bee00156d36cee3bf0202b5ad.webp)
-
-`Q10489`
 
 ---
 
@@ -2365,8 +2189,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/830fc480377504e04be945fa34e5d855.webp)
 
-`Q10499, Q10133`
-
 ---
 
 ### 96. Menopause and the Climacteric
@@ -2389,8 +2211,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **REMEMBER:** *Twelve silent months, looking backwards — FSH rises first because inhibin has gone. The climacteric is the whole transition; menopause is one day in it, named a year later.*
 
-`Q10116`
-
 ---
 
 ### 97. Oogenesis — Where the Arrests Occur
@@ -2411,8 +2231,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “After ovulation the egg is” → **a secondary oocyte arrested in meiosis II**.
 
 **REMEMBER:** *Arrested in prophase I since before she was born, and in metaphase II until the sperm arrives.*
-
-`Q11630`
 
 ---
 
@@ -2438,8 +2256,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/c2302f084c6d4529a61d263324a87621.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2134856a735e49468f837401430009cdx1280x1259.JPEG)
-
-`Q11794`
 
 ---
 
@@ -2468,8 +2284,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4ce0d83565e9407da97052e03b4ca3f4x600x878.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8fdec7bb5c8340998669563695fd081fx1280x2558.JPEG)
 
-`Q9111, Q9132, Q11396`
-
 ---
 
 ### 100. Anovulatory Bleeding — Metropathia Haemorrhagica and Halban’s Disease
@@ -2494,8 +2308,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/7bc2bfd9e29ec727895e93122c76db63.webp)
 
-`Q10500, Q10501, Q10502, Q10503, Q10507`
-
 ---
 
 ### 101. Menstrual Terminology and Dysmenorrhoea
@@ -2516,8 +2328,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** Definition-matching; **“not a feature of menometrorrhagia” → infrequent bleeding**.
 
 **REMEMBER:** *Progesterone makes PGF2α, PGF2α makes cramps — so anovulatory bleeding never hurts.*
-
-`Q10504, Q10505, Q10506`
 
 ---
 
@@ -2543,8 +2353,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/10/screenshot-2024-08-10-175609.png)
 
-`Q11385, Q10948`
-
 ---
 
 ### 103. Normal Menstrual Parameters (FIGO 2018) and PCOS Criteria
@@ -2567,8 +2375,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/06/15/untitled-761.jpg)
 
-`Q9597, Q9586`
-
 ---
 
 ### 104. Anorexia Nervosa and Hypothalamic Amenorrhoea
@@ -2588,8 +2394,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Elevated LH/GnRH/leptin” are all traps — they are **low**. Only **NPY (and cortisol, GH)** goes up.
 
 **REMEMBER:** *No fat, no leptin, no GnRH — and NPY screams for food.*
-
-`Q10894`
 
 ---
 
@@ -2618,8 +2422,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c9c5a24cfd6545e49fd479455b302edcx1280x1415.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/25e1ad9b1ba54dbfb796a7ee6617e471x1280x1698.PNG)
 
-`Q9131`
-
 ---
 
 ### 106. Fibroid Polyp
@@ -2642,8 +2444,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/09/13/screenshot-2024-09-12-124438.jpg)
 
-`Q11610`
-
 ---
 
 ### 107. Myomectomy — Reducing Blood Loss
@@ -2665,8 +2465,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/06/15/2.jpg)
-
-`Q9587, Q9588`
 
 ---
 
@@ -2693,8 +2491,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/02/29/screenshot-2024-02-29-164935.jpg)
 
-`Q10046`
-
 ---
 
 ### 109. Adenomyosis
@@ -2718,8 +2514,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4f542cb0991b4ff7907d364bb827670cx720x535.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/06dbd579fd894c0c8c181c4990cdc9e7x1280x1362.JPEG)
-
-`Q11829`
 
 ---
 
@@ -2767,8 +2561,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c8d766a6c9db4794abe17633684b9833x1280x1033.JPEG)
 
-`Q9112, Q9133, Q11088, Q11095, Q11097, Q11817`
-
 ---
 
 ### 112. HPV Serotypes and Vaccines
@@ -2788,8 +2580,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** Numbers are asked directly. Anchor **6, 11 = warts; 16, 18 = cancer**; nonavalent adds **31, 33, 45, 52, 58**.
 
 **REMEMBER:** *Six and eleven make warts; sixteen and eighteen make cancer.*
-
-`MF8241, MB4976, MB9222, MB2883, MF8243`
 
 ---
 
@@ -2819,8 +2609,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/12/18/picture23_ZC18iSO.jpg)
 
-`Q9598`
-
 ---
 
 ### 114. Types of Hysterectomy for Cervical Cancer
@@ -2837,8 +2625,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Not a feature of modified radical hysterectomy” → **removal of the upper 4 cm of vagina** (that is Type III).
 
 **REMEMBER:** *Type II takes half the parametrium and 2 cm of vagina; type III takes all of it and 3–4 cm.*
-
-`Q11116, Q11117`
 
 ---
 
@@ -2863,8 +2649,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/12/screenshot-2024-08-12-104746.png)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/12/screenshot-2024-08-12-104945.png)
 
-`Q11412, Q11413`
-
 ---
 
 ### 116. Postmenopausal Bleeding and Diagnosing Endometrial Carcinoma
@@ -2887,8 +2671,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Most common cause of postmenopausal bleeding” → **senile/atrophic endometritis**. “Reliable diagnosis EXCEPT” → **Pap smear**. “Increases the risk of endometrial cancer” → **tamoxifen**.
 
 **REMEMBER:** *Sixty per cent is atrophy — but you biopsy for the ten per cent that is cancer. The Pap looks at the cervix; endometrial cancer needs a piece of endometrium.*
-
-`Q11087, Q11617, Q11627, Q10484`
 
 ---
 
@@ -2918,8 +2700,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture45_AgNegDF.jpg)
 
-`Q10892`
-
 ---
 
 ### 118. Epithelial Ovarian Cancer — Management
@@ -2942,8 +2722,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **REMEMBER:** *Cut out everything you can see, then give platinum — residual disease is the prognosis. Ovary = surgical staging; cervix = clinical staging with a PR exam.*
 
-`Q11405`
-
 ---
 
 ### 119. FIGO Staging of Ovarian Carcinoma
@@ -2961,8 +2739,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** The nodal size and the absence of peritoneal disease fix the stage. **Nodes only = IIIA1; the 10 mm cut-off decides (i) vs (ii).**
 
 **REMEMBER:** *Nodes alone put you at the bottom of stage III — peritoneum is what makes it worse.*
-
-`Q11807`
 
 ---
 
@@ -2985,8 +2761,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/09/13/screenshot-2024-09-12-124341.jpg)
 
-`Q11613, Q11632`
-
 ---
 
 ### 121. Borderline Ovarian Tumours and Incessant Ovulation
@@ -3004,8 +2778,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Which increases the risk?” — pick the factor that means **more lifetime ovulations**. OCPs and high parity are always the protective distractors.
 
 **REMEMBER:** *Every ovulation is a wound — the fewer pregnancies, the more wounds.*
-
-`Q10997`
 
 ---
 
@@ -3032,8 +2804,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/658ad21b17c54c6f8e16bd12131fbb43x800x600.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ac25710341c747349404d7fb34e3e14fx800x423.PNG)
 
-`Q10838, Q10891`
-
 ---
 
 ### 123. Sex Cord–Stromal Tumours and Meigs Syndrome
@@ -3055,8 +2825,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** Match hormone to cell. **“Virilising ovarian tumour” = arrhenoblastoma**; postmenopausal bleeding with a solid ovarian mass → **granulosa cell tumour**; the named triad → **fibroma**.
 
 **REMEMBER:** *Sertoli–Leydig makes a man of her; granulosa and theca make her bleed. Benign fibroma, right-sided effusion, cured by the knife.*
-
-`Q10848, Q11010`
 
 ---
 
@@ -3090,8 +2858,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **REMEMBER:** *The vulva is skin — so its cancers are skin cancers, and squamous wins nine times out of ten. Predictable drainage plus morbid dissection equals sentinel node.*
 
-`Q11075, MB3734`
-
 ---
 
 ## Infertility and Assisted Reproduction
@@ -3114,8 +2880,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **REMEMBER:** *A cornual block on HSG is a spasm until laparoscopy says otherwise. Cogwheel = hydrosalpinx — remove it before IVF.*
 
-`Q9110`
-
 ---
 
 ### 127. Sperm–Mucus Interaction Tests
@@ -3132,8 +2896,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “False about the Miller–Kurzrok test” → **jerky motility is normal** (it is abnormal, and suggests antisperm antibodies).
 
 **REMEMBER:** *Three centimetres in thirty minutes; sperm that shake instead of swim are antibody-coated.*
-
-`Q11115`
 
 ---
 
@@ -3157,8 +2919,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/02/picture3.jpg)
-
-`Q11411`
 
 ---
 
@@ -3187,8 +2947,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/07/screenshot-2024-06-07-123823.png)
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/02/picture9_PMXBtsB.jpg)
 
-`Q11416, Q11421, Q11608`
-
 ---
 
 ### 130. Semen Analysis — WHO 2021 Criteria
@@ -3207,8 +2965,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Most important marker” → **morphology**. The parameter values are asked separately as pure numbers.
 
 **REMEMBER:** *Shape decides whether a sperm can do its job.*
-
-`MC5262`
 
 ---
 
@@ -3229,8 +2985,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** All tests normal → **unexplained infertility, ~25%**.
 
 **REMEMBER:** *Normal tests do not mean normal fertility — a quarter of couples have no answer, and age drives everything.*
-
-`Q11791`
 
 ---
 
@@ -3260,8 +3014,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/14/2_page_1.jpg)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d04e4e069cc2400695a2a719f54c5dcfx450x598.JPEG)
 
-`Q11387, MD0690`
-
 ---
 
 ### 133. Pelvic Inflammatory Disease and Gonorrhoea
@@ -3283,8 +3035,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Most common cause of PID” → **Chlamydia**. The genital-TB-in-virgins point is a separate favourite.
 
 **REMEMBER:** *The silent infection causes the most damage.*
-
-`MB3567, MC0271`
 
 ---
 
@@ -3313,8 +3063,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/848900652b924f848ba1ad747b746282x800x583.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0090ea163b584c9fb97a3635e4ce5a03x600x684.JPEG)
 
-`Q9109, Q9138`
-
 ---
 
 ### 135. The POP-Q System
@@ -3336,8 +3084,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/8147be931ab0473799ed315b00581c74.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e849497ff314477d9a3f81077b0beb85x1280x1716.JPEG)
-
-`MG6790`
 
 ---
 
@@ -3364,8 +3110,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/0147c54a010ddf1ba2a86a7feda38a3d.webp)
 
-`Q10508, Q10510, Q10511, Q10512`
-
 ---
 
 ### 137. Gartner’s Cyst versus Cystocele
@@ -3388,8 +3132,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6acbb8557a68426e82495020892da39bx346x394.PNG)
 
-`Q11071`
-
 ---
 
 ### 138. Genuine Stress Incontinence
@@ -3409,8 +3151,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Type III GSI is due to” → **intrinsic sphincter deficiency**.
 
 **REMEMBER:** *Types I and II are a urethra that has fallen; type III is a urethra that has failed — and supporting it will not help.*
-
-`Q11114`
 
 ---
 
@@ -3433,8 +3173,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “OCPs act by all EXCEPT” → **increase GnRH release**; “not a mechanism of POPs” → **kills sperm**.
 
 **REMEMBER:** *Combined pills stop the egg; mini-pills stop the sperm at the cervix. The OCP is a brake on the hypothalamus, not a stimulus.*
-
-`Q9126, Q9135`
 
 ---
 
@@ -3461,8 +3199,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/07/screenshot-2024-06-07-122802.png)
 
-`Q11084, Q11399`
-
 ---
 
 ### 141. Emergency Contraception
@@ -3482,8 +3218,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** The stem gives a time interval. **>72 hours → copper IUCD** (or ulipristal if offered); **≤72 hours → levonorgestrel**.
 
 **REMEMBER:** *Pills stop ovulation and expire at 72 hours; the copper coil stops implantation and lasts to day 5.*
-
-`Q10840, MB9158`
 
 ---
 
@@ -3506,8 +3240,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Silver-containing IUCD” → **Nova-T**.
 
 **REMEMBER:** *Silver keeps the copper from crumbling — three years becomes five. Mirena 5 years and less bleeding; CuT 380A 10 years and more bleeding.*
-
-`Q11105`
 
 ---
 
@@ -3532,8 +3264,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/86bd1bc1e387428a871ff147a72ba92dx398x265.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/de9fec57e05b490e86a15552c7c8a07dx432x273.PNG)
-
-`Q10950, Q10973`
 
 ---
 
@@ -3565,8 +3295,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/13030913f5e542d3ac44667d89b41702x1280x973.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a95b458acaae46e5bd94ba5828801655x1280x1852.JPEG)
 
-`Q11611, MC4452, MF5465`
-
 ---
 
 ### 145. Male Contraception and Gossypol
@@ -3585,8 +3313,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Hypokalaemic paralysis” → **gossypol**.
 
 **REMEMBER:** *Cottonseed stops sperm and drops the potassium.*
-
-`Q11083`
 
 ---
 
@@ -3607,8 +3333,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Mean time for first menstruation postpartum” → **7–9 weeks**. In the contraceptive-choice stem, the distractors are eliminated by the **bleeding pattern** and the COC is permitted by the **time since delivery** — read both.
 
 **REMEMBER:** *Ovulation comes before the first period — start contraception at three weeks, or three months if fully breastfeeding.*
-
-`Q11085, MF5463`
 
 ---
 
@@ -3638,8 +3362,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![question](https://cdn1.dailyrounds.org/uploads/4ae41333268f43d9820ac1326d7c9965.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b5daabaa46584f8ca9566b45a6d7c54dx1280x4923.JPEG)
 
-`Q11072, MD0696`
-
 ---
 
 ### 148. Obstructive Genital Anomalies and Retrograde Menstruation
@@ -3661,8 +3383,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/05/screenshot-2024-08-05-103004.png)
-
-`Q11434, Q11594, Q11426, Q10895`
 
 ---
 
@@ -3690,8 +3410,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/08/15/whatsapp-image-2023-06-12-at-190121011010201026_page_49.jpg)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/536987446eb543f386274c52bc9e5974x1280x2560.JPEG)
 
-`Q11444, Q11453, MC5259, MF9070, MF9076`
-
 ---
 
 ### 150. Fetal Testosterone and Sexual Differentiation
@@ -3711,8 +3429,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “What stimulates fetal testosterone production” → **hCG from the placenta**.
 
 **REMEMBER:** *The placenta starts the testis working; the fetal pituitary takes over later.*
-
-`Q11612`
 
 ---
 
@@ -3735,8 +3451,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** “Indications of rectal examination EXCEPT” → **staging of ovarian malignancy**.
 
 **REMEMBER:** *Only the rectal finger reaches the parametrium — which is why cervical cancer is staged with it and ovarian cancer is not.*
-
-`Q11080`
 
 ---
 
@@ -3763,8 +3477,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/07/19/untitled-1038.jpg)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/16cdc6a0524a49bf9979457a35a40885x1280x4487.JPEG)
 
-`Q11432, Q10833`
-
 ---
 
 ### 153. Hysteroscopic Fluid Overload
@@ -3782,8 +3494,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** Fluid deficit of 2000 mL → **pulmonary oedema**.
 
 **REMEMBER:** *Watch the deficit, not the clock — saline drowns her, glycine drowns her and poisons the sodium.*
-
-`Q11449`
 
 ---
 
@@ -3807,8 +3517,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 
 **REMEMBER:** *Type three seals the opening — that is what makes it the one that obstructs labour.*
 
-`Q11073`
-
 ---
 
 ### 155. The MTP Act (as amended, 2021)
@@ -3829,8 +3537,6 @@ The **GLUCOSE CHALLENGE TEST is a NON-FASTING 50 g screen at 24–28 weeks**; �
 **EXAM CONNECTION:** MTP at 22 weeks for contraceptive failure → **it cannot be done**; consent for a mentally unsound woman → **legal guardian**.
 
 **REMEMBER:** *Twenty weeks for anyone, twenty-four for the special categories, and only a Medical Board beyond that.*[^7]
-
-`Q11384, Q11388, Q11394`
 
 ---
 

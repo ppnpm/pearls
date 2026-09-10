@@ -52,8 +52,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/77dc77226c73411dbced219bcf1e09c1x720x799.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1ec7b5e214b047b9abc8e877ac44f637x1280x1271.JPEG)
 
-`Q9079, Q9082, Q9078`
-
 ---
 
 ### 2. Developmental Milestones — Fine Motor and Handedness
@@ -75,8 +73,6 @@
 **ALSO KNOW:** **Transferring an object from hand to hand comes at ~5.5–6 months** (the beginning of comparing objects), and **CRUISING — pulling to stand and shuffling along furniture — at 10–11 months.** *Hand-to-hand at 6 months, cruise at 10, walk at 12.*
 
 **REMEMBER:** *Both hands until three — a favourite hand in infancy means the other one is weak.*
-
-`Q9091, Q9653`
 
 ---
 
@@ -101,8 +97,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/07/31/untitled-186.jpg)
 
-`Q9667, Q9668, Q9669, Q9658`
-
 ---
 
 ### 4. Teeth and Dentition
@@ -122,8 +116,6 @@
 **EXAM CONNECTION:** Teeth at 3 years → **20**; delayed dentition in a healthy toddler → **idiopathic**.
 
 **REMEMBER:** *Twenty by three, thirty-two from six — and delayed teeth in a well child is usually nothing.*
-
-`Q9661, Q9677`
 
 ---
 
@@ -145,8 +137,6 @@
 **EXAM CONNECTION:** Community screening for 0–6 years in India → **Trivandrum chart**; the “4 Ds” → **RBSK**.
 
 **REMEMBER:** *Screen fast and wide in the village, diagnose slowly and deeply in the clinic.*
-
-`Q9704, Q9703, Q9698, Q9699, Q9989, Q10086`
 
 ---
 
@@ -171,8 +161,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/27/screenshot-2024-08-27-181950.png)
 
-`Q11571, Q11585`
-
 ---
 
 ### 7. Anterior Fontanelle
@@ -195,8 +183,6 @@
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/31/screenshot-2024-08-31-100636.png)
-
-`Q11641`
 
 ---
 
@@ -226,8 +212,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/16/picture10_m1Jb2hU.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/picture11_fraD3sV.jpg)
 
-`Q9546, Q9547, Q9548, Q9549, Q9550, Q9551, Q9552`
-
 ---
 
 ### 9. Bone Age Assessment
@@ -252,8 +236,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cfe78ed1becc4b36877ba156e10d8c7fx1280x1325.JPEG)
 
-`MC1583, MA4766, MA4743`
-
 ---
 
 ### 10. Upper : Lower Segment Ratio
@@ -276,8 +258,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ff4b272b8f7744ad8515e1f3a41a04c2x1280x1269.JPEG)
-
-`MA4771`
 
 ---
 
@@ -320,8 +300,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8a511b86889940589cb2bcb3420a7831x1279x1317.JPEG)
 
-`Q9052, Q9053`
-
 ---
 
 ### 13. Paediatric Resuscitation and the Apgar Score
@@ -347,8 +325,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0e3e438686eb4a6d9eccb9c35b5fddd7x1279x1330.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b766f912ac324eef818798b4dfcd97adx1280x1714.JPEG)
 
-`Q9055, Q9065, Q9072`
-
 ---
 
 ### 14. The High-Risk Infant
@@ -369,8 +345,6 @@
 
 **REMEMBER:** *Under 1500 grams or under 32 weeks — or anything that injures the brain — earns lifelong follow-up.*
 
-`Q9061`
-
 ---
 
 ### 15. The First Void and the First Stool
@@ -390,8 +364,6 @@
 **EXAM CONNECTION:** Well 1-day-old who has not voided → **continue breastfeeding and observe**.
 
 **REMEMBER:** *Urine by a day, meconium by two — and green vomit is a surgical emergency.*
-
-`Q9094`
 
 ---
 
@@ -417,8 +389,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a93e19c6560145aca39469f332e775acx1280x2558.JPEG)
 
-`Q9104, Q9645, Q9651, Q9654`
-
 ---
 
 ### 17. The Newborn Eye and ROP Screening
@@ -439,8 +409,6 @@
 
 **REMEMBER:** *Small pupils at birth; screen the preterm retina at four weeks and watch for plus disease.*
 
-`Q9673`
-
 ---
 
 ### 18. Fetal Growth Restriction
@@ -460,8 +428,6 @@
 **EXAM CONNECTION:** Features of the FGR newborn → **old-man look, alert with normal reflexes, weight deficit — but NOT fat around the shoulders**.
 
 **REMEMBER:** *A wrinkled, alert old man of a baby — the brain was spared and the fat was spent.*
-
-`Q9702`
 
 ---
 
@@ -484,8 +450,6 @@
 **ALSO KNOW:** **Coordinated SUCK–SWALLOW–BREATHE develops at ~34 weeks** — below that, direct breastfeeding is unreliable, but a stable baby can still take expressed milk by **cup or spoon**; bottles are avoided (nipple confusion).
 
 **REMEMBER:** *Suck arrives at thirty-four weeks — before that, the milk still goes in, just by another route.*
-
-`Q11521`
 
 ---
 
@@ -510,8 +474,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/11/picture12_TNm00xF.jpg)
 
-`Q11525, Q11542, Q11522`
-
 ---
 
 ### 21. Breastfeeding — When to Stop and When Not To
@@ -535,8 +497,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/22/picture21.jpg)
 
-`Q11580, Q11588`
-
 ---
 
 ### 22. Breastfeeding and Maternal Infection
@@ -556,8 +516,6 @@
 **EXAM CONNECTION:** Asked as “which infection requires **temporary** cessation” — temporary is the key word, pointing to HSV rather than the permanent HIV/HTLV contraindications.
 
 **REMEMBER:** *Milk is safe; the lesion is not — cover it or feed from the other side.*
-
-`Q9535`
 
 ---
 
@@ -579,8 +537,6 @@
 
 **REMEMBER:** *Seventy for sixty is severe.*
 
-`MC9536`
-
 ---
 
 ### 24. Neonatal Thermal Bands
@@ -600,8 +556,6 @@
 **EXAM CONNECTION:** The bands are asked as pure recall, and cold stress (**36.0–36.4**) is easily confused with the lower end of normal.
 
 **REMEMBER:** *Below 36.5 is abnormal; 36.0 to 36.4 is the warning band.*
-
-`MA4262, MC0775`
 
 ---
 
@@ -660,8 +614,6 @@
 
 **REMEMBER:** *Check the sugar first, the calcium next — and if nothing works, give pyridoxine.*
 
-`Q9064, Q9080, Q9058`
-
 ---
 
 ### 29. Necrotising Enterocolitis
@@ -686,8 +638,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0eca889923ad42119ce8c69bc2479324x512x512.PNG)
 
-`Q9074`
-
 ---
 
 ### 30. Breastfeeding Jaundice versus Breast Milk Jaundice
@@ -707,8 +657,6 @@
 **EXAM CONNECTION:** Day 2–3 in a poorly feeding baby → **breastfeeding jaundice**; day 10–14 in a thriving baby → **breast milk jaundice**; “should breastfeeding continue during phototherapy?” → **yes, uninterrupted**.
 
 **REMEMBER:** *Early jaundice means too little milk; late jaundice means the milk itself — and you never stop feeding for either.*
-
-`Q9676, Q9681, Q9684`
 
 ---
 
@@ -733,8 +681,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/b958be62285947328a78be9442cc901e.PNG)
 
-`Q10004`
-
 ---
 
 ### 32. Congenital Diaphragmatic Hernia
@@ -757,8 +703,6 @@
 
 **REMEMBER:** *You can put the bowel back, but you cannot grow the lung.*
 
-`Q11518`
-
 ---
 
 ### 33. Non-Immune Hydrops Fetalis
@@ -779,8 +723,6 @@
 
 **REMEMBER:** *Rh and ABO are the immune two; everything else floods the fetus for its own reasons.*
 
-`Q11530`
-
 ---
 
 ### 34. Neonatal Polycythaemia
@@ -800,8 +742,6 @@
 **EXAM CONNECTION:** Symptomatic neonate with PCV 72% and negative sepsis screen → **partial exchange transfusion**.
 
 **REMEMBER:** *Above sixty-five the blood turns to syrup — dilute it with saline, not blood.*
-
-`Q11535`
 
 ---
 
@@ -826,8 +766,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/01/29/picture5_eZ8yfLs.jpg)
 
-`Q11538`
-
 ---
 
 ### 36. The Infant of a Diabetic Mother
@@ -848,8 +786,6 @@
 **ALSO KNOW:** **Monitor SERUM CALCIUM alongside blood glucose: HYPOCALCAEMIA at 24–72 hours is common and neurologically significant if missed** — magnesium loss from maternal diuresis causes fetal hypomagnesaemia and functional hypoparathyroidism, while fetal hyperinsulinism causes the **hypoglycaemia within hours of birth**. *Sugar low early, calcium low at 1–3 days.*
 
 **REMEMBER:** *Glucose crosses, insulin does not — the baby grows fat, then crashes, then drops its calcium.*
-
-`Q11561`
 
 ---
 
@@ -873,8 +809,6 @@
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/07/28/untitled-171.jpg)
-
-`Q11586`
 
 ---
 
@@ -900,8 +834,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/05/09/picture1_OVQZJf1.jpg)
 
-`Q9576`
-
 ---
 
 ### 39. Intraventricular Haemorrhage: The Prognostic Complication of Prematurity
@@ -926,8 +858,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/20/screenshot-2024-03-20-125653.png)
 
-`Q9601`
-
 ---
 
 ### 40. Criteria for Perinatal Asphyxia
@@ -948,8 +878,6 @@
 **EXAM CONNECTION:** Options offer near-miss values (**pH 7.2 instead of 7.0; Apgar 4–7 instead of 0–3**). Match against the exact criteria; **hypotonia** is the one genuinely listed neurological sign among the choices.
 
 **REMEMBER:** *pH under 7, Apgar under 4 past 5 minutes, an abnormal brain and a failing body — all four, or it is not asphyxia.*
-
-`Q11018`
 
 ---
 
@@ -975,8 +903,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/32687bfa2ad7416dbf634a9b1d28ddd0.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7901dad0826f48d1a03a6ae952a50a5fx1280x1449.JPEG)
-
-`MF2557`
 
 ---
 
@@ -1055,8 +981,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/07/31/untitled-1196.jpg)
 
-`Q9665, Q9666, Q9652`
-
 ---
 
 ### 47. Severe Acute Malnutrition — Marasmus, Kwashiorkor and Hypothermia
@@ -1076,8 +1000,6 @@
 **EXAM CONNECTION:** Hypothermia cutoff in SAM → **axillary <35.0 °C**; wasting with hypoalbuminaemia but no oedema → **marasmus**.
 
 **REMEMBER:** *Reductive adaptation: no fever, no shivering, no reserve — feed slowly and warm them first.*
-
-`Q9678, Q9679, Q9670`
 
 ---
 
@@ -1103,8 +1025,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/06/04/screenshot-2024-06-04-175717.jpg)
 
-`Q9694`
-
 ---
 
 ### 49. Vitamin D Supplementation in Infancy
@@ -1124,8 +1044,6 @@
 **EXAM CONNECTION:** Supplement for a healthy 2-month-old term infant → **vitamin D 400 IU/day up to 1 year**; “breast milk is deficient in” → **vitamin D (NOT vitamin C)**.
 
 **REMEMBER:** *Milk gives everything except what sunlight and gut bacteria were supposed to make — D and K.*
-
-`Q9705, Q9885`
 
 ---
 
@@ -1153,8 +1071,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/77dc77226c73411dbced219bcf1e09c1x720x799.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1ec7b5e214b047b9abc8e877ac44f637x1280x1271.JPEG)
 
-`Q11517, Q10147`
-
 ---
 
 ### 51. Dietary Fat in Childhood
@@ -1178,8 +1094,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/10/28/picture149.jpg)
 
-`Q11575`
-
 ---
 
 ### 52. Micronutrients and Monitoring in Severe Acute Malnutrition
@@ -1199,8 +1113,6 @@
 **EXAM CONNECTION:** Folic acid on day 1 of SAM → **5 mg**; best parameter for acute malnutrition → **weight-for-height**; primary failure of recovery → **the day 4/day 10 criteria**.
 
 **REMEMBER:** *Everything is doubled except iron — and iron waits for the appetite to come back.*
-
-`Q11591, Q11590, Q11786`
 
 ---
 
@@ -1228,8 +1140,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/14/screenshot-2024-09-14-123244.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/22/picture21.jpg)
 
-`Q9574, Q9573`
-
 ---
 
 ### 54. Vitamin A in Severe Acute Malnutrition
@@ -1253,8 +1163,6 @@
 **EXAM CONNECTION:** The stem gives an age **and** a weight — the weight is there for a reason. **>12 months but <8 kg → 1 lakh IU**, not 2 lakh.
 
 **REMEMBER:** *Half a lakh, one lakh, two lakh by age — but weigh under 8 kg and drop a step.*
-
-`Q9575`
 
 ---
 
@@ -1280,8 +1188,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/c9a84f4021234da999600676b9fd9ecc.PNG)
 
-`MF7403`
-
 ---
 
 ### 56. Biotin Deficiency and Valproate
@@ -1300,8 +1206,6 @@
 **EXAM CONNECTION:** “Vitamin H” is deliberately used instead of biotin or B7 in the options — recognise the synonym.
 
 **REMEMBER:** *Valproate strips the biotin, and the hair goes first.*
-
-`MC1806`
 
 ---
 
@@ -1329,8 +1233,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/590560b692034428a7dd6175a72d13ddx720x629.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/69c19899e6a64af8ba2d4d1965c58b7ax571x600.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ce742f2400be4e62813aa4a052447418x1280x1326.JPEG)
-
-`MC0259, MA0452`
 
 ---
 
@@ -1387,8 +1289,6 @@
 
 **REMEMBER:** *Turner takes the left heart and only girls; Noonan takes the right heart and either sex.*
 
-`Q9646`
-
 ---
 
 ### 62. Markers of Neural Tube Defects
@@ -1408,8 +1308,6 @@
 **EXAM CONNECTION:** “Best/most specific marker for NTD” → **acetylcholinesterase**; “screening marker” → **AFP**.
 
 **REMEMBER:** *AFP leaks from any hole; acetylcholinesterase only from an exposed nervous system.*
-
-`Q9663`
 
 ---
 
@@ -1431,8 +1329,6 @@
 **ALSO KNOW:** **Incidence: Edwards 1:6,000–8,000 (the second commonest autosomal trisomy, VSD near-universal) and Patau 1:10,000.** Patau also shows **CUTIS APLASIA of the scalp** and rocker-bottom feet. **Screening separates them: in trisomy 18 ALL FOUR markers are low (AFP, hCG, oestriol, inhibin), whereas in Down syndrome hCG and inhibin are HIGH.** Watch the option list — stems deliberately mislabel (“Trisomy 18 (Patau syndrome)”) to catch candidates who match the number without reading the name; **check both halves of every option.**
 
 **REMEMBER:** *Thirteen splits the midline; eighteen clenches the fist.*
-
-`Q9683, Q9691`
 
 ---
 
@@ -1456,8 +1352,6 @@
 
 **REMEMBER:** *Mother’s missing fifteen makes a happy puppet; father’s makes a hungry one.*
 
-`Q9686, Q9105`
-
 ---
 
 ### 65. Syndromes with Polydactyly
@@ -1478,8 +1372,6 @@
 
 **REMEMBER:** *A broken cilium builds extra fingers, ruins the retina and cysts the kidney.*
 
-`Q9687, Q9690, Q9692`
-
 ---
 
 ### 66. Pierre Robin Sequence
@@ -1499,8 +1391,6 @@
 **EXAM CONNECTION:** Micrognathia + glossoptosis + U-shaped cleft → **Pierre Robin sequence**.
 
 **REMEMBER:** *A small jaw pushes the tongue back, the tongue blocks the palate — and the airway pays first.*
-
-`Q9693`
 
 ---
 
@@ -1526,8 +1416,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/03/15/picture7.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/screenshot-2024-03-15-121446.jpg)
 
-`Q11582`
-
 ---
 
 ### 68. Calcium Tells You the Syndrome: DiGeorge vs Williams
@@ -1550,8 +1438,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/03/16/picture8.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/16/picture9.jpg)
-
-`Q9539, Q9540`
 
 ---
 
@@ -1584,8 +1470,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/03/16/picture3.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/screenshot-2024-03-15-182307.jpg)
 
-`Q9537, Q9544, Q9545`
-
 ---
 
 ### 70. Anticipation, Sherman’s Paradox and Fragile X
@@ -1608,8 +1492,6 @@
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/03/16/picture4.jpg)
-
-`Q9538`
 
 ---
 
@@ -1634,8 +1516,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/screenshot-2024-03-15-172319.jpg)
 
-`Q9542`
-
 ---
 
 ### 72. Cri du Chat Syndrome
@@ -1659,8 +1539,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/03/16/picture13_HbjKDvS.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/16/screenshot-2024-03-16-102112.jpg)
-
-`Q9541`
 
 ---
 
@@ -1688,8 +1566,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/04/02/picture12_0UYI8YO.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/04/02/picture14_b6JG5d4.jpg)
 
-`Q9572`
-
 ---
 
 ### 74. Cleidocranial Dysostosis
@@ -1713,8 +1589,6 @@
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/03/26/picture5_88c0u6E.jpg)
-
-`Q9578`
 
 ---
 
@@ -1740,8 +1614,6 @@
 
 **REMEMBER:** *Trisomy 21 is a gene-dosage disease; caudal regression is a sugar disease.*
 
-`Q10952`
-
 ---
 
 ### 76. McCune–Albright Syndrome
@@ -1762,8 +1634,6 @@
 **EXAM CONNECTION:** The flat LH response to GnRH plus high oestradiol proves the source is **peripheral**; the skin and bone findings then name the syndrome.
 
 **REMEMBER:** *The ovary works on its own, so the pituitary switches off — and the skin spots have a ragged coastline.*
-
-`Q11825`
 
 ---
 
@@ -1787,8 +1657,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e8b3ba89fff54db08219fed4033a5223x625x416.JPEG)
-
-`MB0256`
 
 ---
 
@@ -1895,8 +1763,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/4088803754f6485e86c124368544173e.JPEG)
 
-`Q9051`
-
 ---
 
 ### 87. Duct-Dependent Circulations — Prostaglandin versus NSAID
@@ -1917,8 +1783,6 @@
 **EXAM CONNECTION:** Keeping the duct open before coarctation repair → **alprostadil (PGE1)**; closing a PDA → **indomethacin/ibuprofen**.
 
 **REMEMBER:** *Prostaglandin opens, NSAID closes — and in duct-dependent hearts the duct is the patient’s lifeline.*
-
-`Q10297`
 
 ---
 
@@ -1943,8 +1807,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/13/98.jpg)
 
-`Q11527, Q11528`
-
 ---
 
 ### 89. Nadas Criteria for Congenital Heart Disease
@@ -1964,8 +1826,6 @@
 **EXAM CONNECTION:** Nadas MINOR criteria → **abnormal second heart sound and abnormal blood pressure**.
 
 **REMEMBER:** *Any diastolic murmur is major; a quiet systolic one is only a hint.*
-
-`Q11778`
 
 ---
 
@@ -1990,8 +1850,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/19/picture4.jpg)
 
-`Q9600`
-
 ---
 
 ## Respiratory
@@ -2014,8 +1872,6 @@
 
 **REMEMBER:** *Same triad three ways — sweat chloride for CF, cilia for Kartagener, exclusion for Young.*
 
-`Q9674`
-
 ---
 
 ### 92. Cystic Fibrosis — Sweat, Salt and Alkalosis
@@ -2037,8 +1893,6 @@
 **ALSO KNOW:** **HYPERKALAEMIA IS NOT SEEN IN CYSTIC FIBROSIS** — the potassium is LOW, not high; this pseudo-Bartter picture can be the first clue in an infant.
 
 **REMEMBER:** *Salty sweat, chloride out, bicarbonate stays — the alkalosis is the sweat gland’s fault, not the kidney’s.*
-
-`Q10079`
 
 ---
 
@@ -2066,8 +1920,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/53482c61d5eb4c9f987753bf83b216e2x720x804.PNG)
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/07/31/untitled-1185.jpg)
 
-`Q10152, Q10355, Q9650`
-
 ---
 
 ### 94. Diagnosing Asthma in Children by Spirometry
@@ -2088,8 +1940,6 @@
 
 **REMEMBER:** *Asthma is variability — reverse it, provoke it, or chart it, but prove it changes.*
 
-`Q11552`
-
 ---
 
 ### 95. Estimating FiO₂ from Nasal Cannula Flow
@@ -2109,8 +1959,6 @@
 **EXAM CONNECTION:** A one-line calculation. **21 + 4 × flow.** Options are usually adjacent (25/30/45/60), so the arithmetic must be exact.
 
 **REMEMBER:** *Four per litre, on top of twenty-one.*
-
-`Q10953`
 
 ---
 
@@ -2134,8 +1982,6 @@
 
 **REMEMBER:** *Pale stool and yellow baby past two weeks — operate before sixty days.*
 
-`Q9102, Q9073`
-
 ---
 
 ### 97. Portal Hypertension in Children — EHPVO
@@ -2155,8 +2001,6 @@
 **EXAM CONNECTION:** Child with haematemesis and splenomegaly but no jaundice or ascites → **EHPVO**.
 
 **REMEMBER:** *Big spleen, big bleed, normal liver — the block is before the liver, not in it.*
-
-`Q11563`
 
 ---
 
@@ -2181,8 +2025,6 @@
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture32.jpg)
-
-`Q10859`
 
 ---
 
@@ -2218,8 +2060,6 @@
 
 **REMEMBER:** *Height stands in for muscle mass — so a “normal” adult creatinine can mean half a child’s kidney function is gone.*
 
-`Q9088`
-
 ---
 
 ### 101. Urinary Tract Infection in Children
@@ -2240,8 +2080,6 @@
 **EXAM CONNECTION:** True statements → **bladder–bowel dysfunction increases recurrence** and **MCU is done for recurrent UTI**.
 
 **REMEMBER:** *The infection is treatable; the scar is not — so image the child who keeps getting infected.*
-
-`Q9090`
 
 ---
 
@@ -2271,8 +2109,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/24520707945b48abb56bb8afba19beabx720x687.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7a297a03f6db49959196ff715d59b609x1280x1685.JPEG)
 
-`Q11782`
-
 ---
 
 ### 103. Ciliopathies with Renal Cysts
@@ -2291,8 +2127,6 @@
 **EXAM CONNECTION:** “Renal cyst is a component of” → both Meckel–Gruber and Bardet–Biedl (i.e. “both A and B”); Denys–Drash is the distractor.
 
 **REMEMBER:** *Cysts + retina + extra digits = a cilium problem. Cysts + ambiguous genitalia + Wilms = WT1.*
-
-`Q10759`
 
 ---
 
@@ -2318,8 +2152,6 @@
 
 **REMEMBER:** *She drops her toothbrush every morning, stays fully aware, and the EEG shows polyspikes.*
 
-`Q9056`
-
 ---
 
 ### 105. Growing Skull Fracture
@@ -2339,8 +2171,6 @@
 **EXAM CONNECTION:** Enlarging parietal swelling a year after a fracture in a toddler → **growing skull fracture**.
 
 **REMEMBER:** *A torn dura lets the brain pulse through — the fracture grows instead of healing.*
-
-`Q9057`
 
 ---
 
@@ -2366,8 +2196,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2861854e307542c4956cda6c41c65c98x1280x1058.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a0894b20fa2743a3bb916cd7c3c3bdc6x1280x2049.JPEG)
 
-`Q9068`
-
 ---
 
 ### 107. Hydrocephalus in the Newborn
@@ -2390,8 +2218,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0f23cd9862fb4267a4c70cdfbdf1607dx1280x3447.057163020466.JPEG)
-
-`Q9069`
 
 ---
 
@@ -2416,8 +2242,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cd480ee47cc947ccb1c31d18bad0e6aax510x520.GIF)
 
-`Q9071`
-
 ---
 
 ### 109. Febrile Seizures and When to Suspect Meningitis
@@ -2437,8 +2261,6 @@
 **EXAM CONNECTION:** Recurrence risk factors → **age <1 year, temperature 38–39 °C, fever <24 hours**; bulging fontanelle with fever and fits → **meningitis**.
 
 **REMEMBER:** *Young, mildly febrile, and fitting early — that brain will fit again. But feel the fontanelle before you call it febrile.*
-
-`Q9083, Q9059`
 
 ---
 
@@ -2465,8 +2287,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f42ff66bd7d645bb8ad72d5de11a837dx1280x2558.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2b200ea81b4c4699b14b325723a999abx1280x4216.JPEG)
 
-`Q9086, Q9087`
-
 ---
 
 ### 111. West Syndrome (Infantile Spasms)
@@ -2492,8 +2312,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ab3b894029134b81bbc7ed16c86b9a75x439x296.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7c4d127d30524a63a2d12ccffa51a60cx510x737.GIF)
-
-`Q9097`
 
 ---
 
@@ -2522,8 +2340,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/114ab9174f4b47e09d9d15ddf464d26ax720x1022.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b3b5906d77cf4ff684c56e928a3410b7x510x482.GIF)
 
-`Q9098`
-
 ---
 
 ### 113. Brain Death in Children
@@ -2543,8 +2359,6 @@
 **EXAM CONNECTION:** “Not seen in brain death” → **decorticate/decerebrate posturing**.
 
 **REMEMBER:** *The spine can still twitch; only the brain can posture.*
-
-`Q11779`
 
 ---
 
@@ -2572,8 +2386,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d81c377c6a784ff386d7d5792b8fd5b6x1200x1429.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6eaf29a13fe2400bb517cabc90c59a90x1279x954.JPEG)
 
-`Q11790`
-
 ---
 
 ### 115. CSF Physiology in Hydrocephalus
@@ -2596,8 +2408,6 @@
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/30/9_vxVMydq.jpg)
-
-`Q9571`
 
 ---
 
@@ -2623,8 +2433,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9044eed955ea423ca59becaf009b7cbax524x599.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/caceca2b617f4eb9961902747099b11bx521x600.PNG)
 
-`MA6600`
-
 ---
 
 ### 117. Suspected VP Shunt Infection
@@ -2645,8 +2453,6 @@
 **EXAM CONNECTION:** “Next best step” — the answer pairs **blood culture with a shunt tap**. The lumbar puncture option is designed to attract the standard meningitis reflex.
 
 **REMEMBER:** *Sample the compartment the shunt is draining, not the one it bypasses.*
-
-`MF1356`
 
 ---
 
@@ -2708,8 +2514,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7a2002db86254187911b66e5f9772640x720x546.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1a2fcda0c2c74489b0ad2ad11b3e416dx512x357.PNG)
 
-`Q9084`
-
 ---
 
 ### 122. Tumour Lysis Syndrome
@@ -2730,8 +2534,6 @@
 **EXAM CONNECTION:** Post-chemotherapy oliguria with hyperuricaemia and hyperkalaemia → **hydration first**.
 
 **REMEMBER:** *Flush the tubules before you give any drug — the crystals are what kill the kidney.*
-
-`Q9095`
 
 ---
 
@@ -2754,8 +2556,6 @@
 
 **REMEMBER:** *DDAVP empties a store it cannot fill — no good in severe disease, and none at all in haemophilia B.*
 
-`Q9682`
-
 ---
 
 ### 124. Wilms Tumour
@@ -2775,8 +2575,6 @@
 **EXAM CONNECTION:** Wilms with tumour thrombus reaching the heart → **stage III**.
 
 **REMEMBER:** *Stage follows the surgeon’s clearance, not the thrombus’s travel — inside the abdomen is still stage III.*
-
-`Q10100`
 
 ---
 
@@ -2802,8 +2600,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/13/111_BYg1SyJ.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/13/111.jpg)
 
-`Q11532, Q11551, Q11554`
-
 ---
 
 ### 126. Prognostic Factors in Childhood ALL
@@ -2827,8 +2623,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/14/screenshot-2024-09-14-115108.png)
 
-`Q11559`
-
 ---
 
 ### 127. Coagulation Factor Eponyms
@@ -2849,8 +2643,6 @@
 
 **REMEMBER:** *Christmas is the ninth; Stuart-Prower is the tenth.*
 
-`MC3264`
-
 ---
 
 ### 128. Vitamin K Deficiency Bleeding
@@ -2870,8 +2662,6 @@
 **EXAM CONNECTION:** “Would NOT prompt suspicion” → **artificial/formula feeds**. Every other option impairs absorption or synthesis.
 
 **REMEMBER:** *Formula is fortified; breast milk is not.*
-
-`MA0459`
 
 ---
 
@@ -2910,8 +2700,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bc2784866d7a414fad4a7a7c99f36f1dx720x1757.JPEG)
 
-`Q9054`
-
 ---
 
 ### 131. Congenital Hypothyroidism
@@ -2938,8 +2726,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ea6391f8140145268369895a6f3d07fbx881x548.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/301028818d404a6abe467ea8f6995231x489x448.PNG)
 
-`Q9096`
-
 ---
 
 ### 132. Diabetic Ketoacidosis in Children
@@ -2960,8 +2746,6 @@
 **EXAM CONNECTION:** Severe paediatric DKA → **ABC, 20 mL/kg normal saline, insulin after 1 hour**.
 
 **REMEMBER:** *Fluids first, insulin an hour later, and never drop the osmolality fast — cerebral oedema is what kills children.*
-
-`Q9100`
 
 ---
 
@@ -2984,8 +2768,6 @@
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/06/05/picture4.jpg)
-
-`Q9708`
 
 ---
 
@@ -3011,8 +2793,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/23/screenshot-2024-02-23-131544.jpg)
 
-`Q11541`
-
 ---
 
 ### 135. Tyrosinaemia Type II (Richner–Hanhart)
@@ -3035,8 +2815,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d3592349a17649a495f7368eaed11e0cx853x788.JPEG)
-
-`MA7680`
 
 ---
 
@@ -3094,8 +2872,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/43902d3b26644a7d84f1c48307b3a13bx720x405.JPEG)
 
-`Q9050`
-
 ---
 
 ### 139. Vaccination in the Immunosuppressed Child
@@ -3115,8 +2891,6 @@
 **EXAM CONNECTION:** Steroid-dependent nephrotic syndrome → **all killed vaccines under the national schedule can be given**.
 
 **REMEMBER:** *Killed vaccines for the patient, live vaccines for the family.*
-
-`Q9063`
 
 ---
 
@@ -3138,8 +2912,6 @@
 
 **REMEMBER:** *Cells tell you who is fighting; glucose tells you who is eating.*
 
-`Q11523, Q11524`
-
 ---
 
 ### 141. Mother-to-Child Transmission of HIV
@@ -3159,8 +2931,6 @@
 **EXAM CONNECTION:** “Most common cause of HIV in a newborn” → **perinatal (intrapartum) transmission**.
 
 **REMEMBER:** *Most babies are infected during the passage, not the pregnancy — which is why viral suppression and delivery care matter most.*
-
-`Q9075`
 
 ---
 
@@ -3182,8 +2952,6 @@
 
 **REMEMBER:** *Antibiotics work today, vaccines work in a fortnight — the incubating case cannot wait.*
 
-`Q9076, Q9077`
-
 ---
 
 ### 143. Scarlet Fever
@@ -3203,8 +2971,6 @@
 **EXAM CONNECTION:** Fever, sore throat and rash after a thorn prick → **amoxicillin–clavulanate (Group A streptococcal infection)**.
 
 **REMEMBER:** *Sandpaper rash, strawberry tongue, peeling hands — the toxin of a strep the child has met before.*
-
-`Q9085`
 
 ---
 
@@ -3229,8 +2995,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/02e1c93c48204a64bbcdc767f8231b7ax237x212.JPEG)
 
-`Q9089`
-
 ---
 
 ### 145. Pertussis
@@ -3254,8 +3018,6 @@
 
 **REMEMBER:** *In a small baby it is apnoea, not a whoop — and only azithromycin is safe under a month.*
 
-`Q9103`
-
 ---
 
 ### 146. Rabies Post-Exposure Prophylaxis
@@ -3276,8 +3038,6 @@
 
 **REMEMBER:** *Wash for fifteen minutes, infiltrate the wound — and a vaccinated patient needs two doses, not five.*
 
-`Q9660, Q9671, Q9659`
-
 ---
 
 ### 147. Diagnosing HIV in the Infant
@@ -3297,8 +3057,6 @@
 **EXAM CONNECTION:** 2-month-old of an HIV-positive mother with diarrhoea → **dried blood spot for HIV DNA PCR**.
 
 **REMEMBER:** *Under eighteen months, antibody tests the mother — only PCR tests the baby.*
-
-`Q11558`
 
 ---
 
@@ -3325,8 +3083,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/10/28/picture155.jpg)
 
-`Q11572`
-
 ---
 
 ### 149. Neonatal Meningitis — the Organisms
@@ -3346,8 +3102,6 @@
 **EXAM CONNECTION:** Commonest organism of neonatal meningitis in India → ***E. coli***; worldwide → **group B *Streptococcus***.
 
 **REMEMBER:** *Early sepsis comes from the mother, late sepsis from the ward — and in India it is gram-negative.*
-
-`Q11812, Q11890`
 
 ---
 
@@ -3374,8 +3128,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7a1485534f2b4b2f9f5120f752fc6a05x1279x1636.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7096767ed9834e33989af2704056cc4dx1280x1999.JPEG)
 
-`Q11785`
-
 ---
 
 ### 151. Congenital Infections — Risk of Perinatal Transmission
@@ -3399,8 +3151,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8190e65c717840348c7b48bad4f5ed3ex237x212.JPEG)
 
-`MF9137, MG1226`
-
 ---
 
 ### 152. Immune Reconstitution Inflammatory Syndrome
@@ -3421,8 +3171,6 @@
 **EXAM CONNECTION:** The timing (“first week of treatment”) plus the low CD4 count is the whole question. The distractor options are invented syndrome names.
 
 **REMEMBER:** *The immune system wakes up and attacks what was already there.*
-
-`MB5796, MF5385`
 
 ---
 
@@ -3446,8 +3194,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/f62e23303e5348a7aa37c3f98f8400ac.JPEG)
-
-`MF9129`
 
 ---
 
@@ -3520,8 +3266,6 @@
 
 **REMEMBER:** *No T cells, no live vaccines — but complement deficiency needs more vaccines, not fewer.*
 
-`Q9106`
-
 ---
 
 ### 159. Ataxia–Telangiectasia
@@ -3547,8 +3291,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/14/screenshot-2024-09-14-114259.png)
 
-`Q11564, Q11531`
-
 ---
 
 ### 160. Wiskott–Aldrich Syndrome
@@ -3569,8 +3311,6 @@
 **EXAM CONNECTION:** The **small platelet size** is the discriminating laboratory detail — it separates WAS from ITP and from Bernard–Soulier.
 
 **REMEMBER:** *Eczema, bleeding and infections in a boy — and the platelets are tiny.*
-
-`Q11838`
 
 ---
 
@@ -3599,8 +3339,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/01/17/screenshot-2024-01-17-120130.jpg)
 
-`Q11512`
-
 ---
 
 ### 162. Henoch–Schönlein Purpura (IgA Vasculitis)
@@ -3624,8 +3362,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/10/28/picture144.jpg)
 
-`Q11534, Q11544`
-
 ---
 
 ## Fluids, Electrolytes and Emergencies
@@ -3648,8 +3384,6 @@
 
 **REMEMBER:** *Above 12.5% the vein dies — send it centrally.*
 
-`Q9662, Q9664`
-
 ---
 
 ### 164. Oral Rehydration Solution
@@ -3671,8 +3405,6 @@
 **ALSO KNOW:** **DNS (dextrose normal saline)** supplies water, electrolytes and glucose together. **ISOTONIC fluid is preferred for maintenance in children — hypotonic fluids risk HYPONATRAEMIA (SIADH is common in ill children).** **HOLLIDAY–SEGAR maintenance: 100 mL/kg for the first 10 kg, 50 mL/kg for the next 10, 20 mL/kg thereafter.**
 
 **REMEMBER:** *One sodium for one glucose — the transporter the toxin cannot break.*
-
-`Q9672`
 
 ---
 
@@ -3697,8 +3429,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/23/screenshot-2024-08-23-160859.png)
 
-`Q11545, Q11547, Q11549`
-
 ---
 
 ### 166. Neonatal Fluid Requirements
@@ -3722,8 +3452,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/27/screenshot-2024-08-27-181740.png)
 
-`Q11556`
-
 ---
 
 ### 167. Why Paediatric Resuscitation Differs from Adult
@@ -3746,8 +3474,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f8f37dd5c34b439e9595b38f031a2658x1280x4216.JPEG)
-
-`Q11781, Q11574, Q11567`
 
 ---
 
@@ -3774,8 +3500,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f174f3e0e9654f8898e1d3176b16b078x510x428.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/faa30532230b4f2a8f6be81f7d14f35bx1280x601.GIF)
 
-`MC0768, MA0492`
-
 ---
 
 ### 169. Paediatric DKA — Fluids Before Insulin
@@ -3799,8 +3523,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3bd9e1e7228e4ca0bf552de377af0dcax1280x2847.JPEG)
-
-`MG1232`
 
 ---
 
@@ -3828,8 +3550,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/3cd013b9ea9545659f348a586a8fe96c.JPEG)
 
-`Q10041`
-
 ---
 
 ### 171. The Five Stages of Grief
@@ -3849,8 +3569,6 @@
 **EXAM CONNECTION:** Simple stage-matching, but read for the **suicidal ideation**, which both fixes the stage as depression and flags the need for active treatment.
 
 **REMEMBER:** *“DABDA” — Denial, Anger, Bargaining, Depression, Acceptance.*
-
-`Q10842`
 
 ---
 

@@ -6,23 +6,23 @@
 
 ## Contents
 
-- [General Bacteriology — Structure, Staining, Culture and Growth](#general-bacteriology--structure-staining-culture-and-growth) — 9 pearls
-- [Sterilisation, Disinfection and Biosafety](#sterilisation-disinfection-and-biosafety) — 4 pearls
+- [General Bacteriology — Structure, Staining, Culture and Growth](#general-bacteriology--structure-staining-culture-and-growth) — 8 pearls
+- [Sterilisation, Disinfection and Biosafety](#sterilisation-disinfection-and-biosafety) — 3 pearls
 - [Antimicrobial Susceptibility and Resistance](#antimicrobial-susceptibility-and-resistance) — 4 pearls
 - [Basic Immunology](#basic-immunology) — 6 pearls
-- [Hypersensitivity, Transplantation and Immunodeficiency](#hypersensitivity-transplantation-and-immunodeficiency) — 6 pearls
-- [Diagnostic Techniques and Serology](#diagnostic-techniques-and-serology) — 13 pearls
-- [Gram-Positive Cocci](#gram-positive-cocci) — 10 pearls
-- [Gram-Positive Bacilli and Anaerobes](#gram-positive-bacilli-and-anaerobes) — 6 pearls
-- [Gram-Negative Cocci and Bacilli](#gram-negative-cocci-and-bacilli) — 7 pearls
-- [Enteric and Diarrhoeal Pathogens](#enteric-and-diarrhoeal-pathogens) — 5 pearls
-- [Mycobacteria](#mycobacteria) — 7 pearls
-- [Spirochaetes, Rickettsiae, Chlamydiae and Mycoplasma](#spirochaetes-rickettsiae-chlamydiae-and-mycoplasma) — 7 pearls
-- [Sexually Transmitted Infections](#sexually-transmitted-infections) — 6 pearls
-- [Virology](#virology) — 24 pearls
-- [Mycology](#mycology) — 12 pearls
-- [Parasitology — Protozoa](#parasitology--protozoa) — 10 pearls
-- [Parasitology — Helminths](#parasitology--helminths) — 11 pearls
+- [Hypersensitivity, Transplantation and Immunodeficiency](#hypersensitivity-transplantation-and-immunodeficiency) — 4 pearls
+- [Diagnostic Techniques and Serology](#diagnostic-techniques-and-serology) — 10 pearls
+- [Gram-Positive Cocci](#gram-positive-cocci) — 8 pearls
+- [Gram-Positive Bacilli and Anaerobes](#gram-positive-bacilli-and-anaerobes) — 5 pearls
+- [Gram-Negative Cocci and Bacilli](#gram-negative-cocci-and-bacilli) — 5 pearls
+- [Enteric and Diarrhoeal Pathogens](#enteric-and-diarrhoeal-pathogens) — 4 pearls
+- [Mycobacteria](#mycobacteria) — 5 pearls
+- [Spirochaetes, Rickettsiae, Chlamydiae and Mycoplasma](#spirochaetes-rickettsiae-chlamydiae-and-mycoplasma) — 6 pearls
+- [Sexually Transmitted Infections](#sexually-transmitted-infections) — 4 pearls
+- [Virology](#virology) — 20 pearls
+- [Mycology](#mycology) — 10 pearls
+- [Parasitology — Protozoa](#parasitology--protozoa) — 7 pearls
+- [Parasitology — Helminths](#parasitology--helminths) — 9 pearls
 - [Hospital Infection Control, Vaccines and Applied Microbiology](#hospital-infection-control-vaccines-and-applied-microbiology) — 7 pearls
 
 ---
@@ -53,11 +53,9 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/04f6afcd0f024dbbad620fb7f59e820ax305x235.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dfdfa4e8cbe2459eb59843248b4de506x1280x2413.JPEG)
 
-`Q9331`
-
 ---
 
-### 2. CLED Medium and the Culture Media Logic
+### 2. CLED Medium and Urine Culture
 
 **PEARL:** **CLED (Cysteine–Lactose–Electrolyte-Deficient) medium is preferred for URINE culture because it is LESS INHIBITORY than MacConkey — it supports GRAM-POSITIVES (staphylococci, enterococci) and CANDIDA as well as Gram-negatives**, so it can replace the blood-agar-plus-MacConkey combination with a single plate. Being **ELECTROLYTE-DEFICIENT it also PREVENTS *PROTEUS* SWARMING**, and lactose fermentation still differentiates colonies (green → yellow).
 
@@ -65,11 +63,8 @@
 
 **MUST KNOW:**
 
-- **Media classification: SIMPLE (nutrient agar) · ENRICHED (blood, chocolate — added nutrients for fastidious organisms) · ENRICHMENT (broth that favours the pathogen over commensals: SELENITE F and TETRATHIONATE broth for *Salmonella*, ALKALINE PEPTONE WATER for *Vibrio*) · SELECTIVE (inhibitors suppress others: THAYER–MARTIN for *Neisseria*, LOWENSTEIN–JENSEN for mycobacteria, TCBS for *Vibrio*, DEOXYCHOLATE CITRATE for *Shigella*/*Salmonella*, POTASSIUM TELLURITE for *Corynebacterium*) · DIFFERENTIAL/INDICATOR (colour distinguishes species: MacConkey, CLED, XLD, EMB) · TRANSPORT (Cary–Blair, Amies, Stuart, VR fluid).**
-- **Significant bacteriuria: ≥10^5 CFU/mL in a clean-catch midstream sample (KASS count) — but ANY growth from a suprapubic aspirate is significant, and lower counts count in symptomatic young women (≥10^2) and in catheter samples.**
-- ***E. COLI* is the commonest uropathogen; also *Klebsiella*, *Proteus* (UREASE-positive → ALKALINE urine and STRUVITE/triple-phosphate staghorn stones), *Enterococcus*, and *S. SAPROPHYTICUS* in sexually active young women (NOVOBIOCIN-RESISTANT).**
-- **ASYMPTOMATIC BACTERIURIA is treated ONLY in PREGNANCY and before urological instrumentation** — otherwise treating it causes harm.
-- **STERILE PYURIA (pus cells with no growth) → TUBERCULOSIS, *Chlamydia*, partially treated UTI, stones, or interstitial nephritis.**
+- **The media classes in one line: SIMPLE (nutrient agar) · ENRICHED (blood, chocolate) · ENRICHMENT (broth favouring the pathogen) · SELECTIVE (inhibitors suppress the rest) · DIFFERENTIAL/INDICATOR (colour distinguishes species — MacConkey, CLED, XLD, EMB) · TRANSPORT. CLED is DIFFERENTIAL but only weakly selective, which is the whole point for urine.**
+- ***E. COLI* is the commonest uropathogen; also *Klebsiella*, *Enterococcus*, *Candida* — and *PROTEUS*, which is UREASE-positive, so it alkalinises the urine and forms STRUVITE/triple-phosphate staghorn stones, and which swarms on any medium that is not electrolyte-deficient.**
 
 **EXAM CONNECTION:** “Why CLED over MacConkey for UTI” → **it supports Gram-positives and Candida** (the swarming and lactose facts are true but are not the reason).
 
@@ -78,11 +73,9 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c853fc6818544389a60e58d0d9aaabf5x762x542.JPEG)
 
-`Q9353`
-
 ---
 
-### 3. Special Culture Media — The Pairings
+### 3. Culture Media — Special, Selective and Transport
 
 **PEARL:** **BCYE (buffered charcoal yeast extract) with L-CYSTEINE and IRON is for *LEGIONELLA*.** **EMJH for *LEPTOSPIRA*. PEMBA for *BACILLUS CEREUS*. SKIRROW’S/Campy-BAP/Butzler’s for *CAMPYLOBACTER*. TCBS for *VIBRIO*. LOWENSTEIN–JENSEN for MYCOBACTERIA. THAYER–MARTIN (VCNT) for *NEISSERIA*. POTASSIUM TELLURITE for *CORYNEBACTERIUM*. SORBITOL-MacCONKEY for *E. coli* O157:H7. SABOURAUD DEXTROSE AGAR for FUNGI. NNN for *LEISHMANIA*/trypanosomes.**
 
@@ -93,13 +86,27 @@
 - ***LEGIONELLA PNEUMOPHILA*: a fastidious, faintly staining Gram-negative rod (use SILVER stain or DFA in tissue), from AIR-CONDITIONING cooling towers, water tanks, showers and humidifiers; NO person-to-person spread. It causes atypical pneumonia with HYPONATRAEMIA, DIARRHOEA, CONFUSION, relative BRADYCARDIA and raised transaminases; the URINARY ANTIGEN test (detecting serogroup 1) is the rapid diagnostic; treat with a MACROLIDE or a RESPIRATORY FLUOROQUINOLONE.** **PONTIAC FEVER is its mild self-limiting flu-like form.** Colonies take **3–6 days**.
 - ***LEPTOSPIRA* is diagnosed by the MICROSCOPIC AGGLUTINATION TEST (MAT) — the reference serological standard — with IgM ELISA for early rapid diagnosis and DARK-FIELD microscopy/PCR of blood in the first week and urine later.** Clinically: **fever, JAUNDICE, CONJUNCTIVAL SUFFUSION WITHOUT DISCHARGE, myalgia (especially calf), haematuria and renal failure = WEIL’S DISEASE**; exposure to floodwater and rodent urine; treat with **penicillin or doxycycline** (watch for a **JARISCH–HERXHEIMER reaction**), with **doxycycline for prophylaxis** in flood situations.
 - **Match the serological tests to the disease: WIDAL → typhoid. WEIL–FELIX → rickettsial fevers. PAUL–BUNNELL (Monospot) → infectious mononucleosis (EBV). MAT → leptospirosis. VDRL/RPR and TPHA/FTA-ABS → syphilis. ASO → streptococcal infection.**
-- **Enrichment vs selective vs differential media, and the transport media (Cary–Blair, Amies, Stuart, VR fluid for cholera) are the other examined axis.**
+- **LUDLAM’S MEDIUM (lithium chloride + tellurite) is the selective medium for *STAPHYLOCOCCUS AUREUS* when it is scanty or outnumbered by other flora.** A **SELECTIVE** medium inhibits the unwanted flora while the target tolerates it; a **DIFFERENTIAL** medium lets everything grow but makes the target look different (MacConkey, where lactose fermenters turn pink). Many media are both.
 
-**EXAM CONNECTION:** Straight one-to-one matching — learn the pairs as pairs.
+| Organism | Selective medium |
+| --- | --- |
+| ***Staph. aureus*** | **Ludlam’s**, salt–milk agar, mannitol salt agar |
+| ***Strep. pyogenes*** | **Pike’s medium (transport)**, crystal violet blood agar |
+| ***Neisseria gonorrhoeae*/*meningitidis*** | **Thayer–Martin / modified New York City** (VCN — vancomycin, colistin, nystatin) |
+| ***Corynebacterium diphtheriae*** | **Loeffler’s serum slope** (enrichment), **potassium tellurite (McLeod’s)** — black colonies |
+| ***Vibrio cholerae*** | **TCBS** (yellow colonies), alkaline peptone water (enrichment), **Venkatraman–Ramakrishnan (transport)** |
+| ***Salmonella*/*Shigella*** | **DCA, XLD, Wilson–Blair (bismuth sulphite)**; **selenite F / tetrathionate broth** (enrichment) |
+| ***Mycobacterium tuberculosis*** | **Lowenstein–Jensen** (malachite green as the selective agent) |
+| ***Bordetella pertussis*** | **Bordet–Gengou**, Regan–Lowe |
+| ***Legionella*** | **BCYE** (buffered charcoal yeast extract) |
+| ***Campylobacter*** | **Skirrow’s**, Butzler |
+| **Fungi** | **Sabouraud dextrose agar** (with chloramphenicol/cycloheximide) |
 
-**REMEMBER:** *Charcoal and cysteine mean Legionella; MAT means leptospirosis.*
+- **TRANSPORT media keep organisms alive without letting them grow: STUART’S, AMIES, CARY–BLAIR (enteric pathogens), PIKE’S (streptococci) and VR FLUID (cholera). ENRICHMENT media are LIQUID and favour the pathogen’s multiplication (selenite F, alkaline peptone water); ENRICHED media are SOLID with added nutrients (blood agar, chocolate agar).**
 
-`Q9387, Q9388`
+**EXAM CONNECTION:** Straight one-to-one matching — learn the pairs as pairs. The perennial traps are **Thayer–Martin (*Neisseria*, not staph)** and **Pike’s (a TRANSPORT medium for streptococci)**.
+
+**REMEMBER:** *Charcoal and cysteine mean Legionella; Ludlam’s holds the staph, Thayer–Martin the gonococcus, and Pike’s only carries the strep.*
 
 ---
 
@@ -112,7 +119,7 @@
 **MUST KNOW:**
 
 - **The exotoxin–endotoxin table is a guaranteed question. EXOTOXIN — protein, actively SECRETED, from Gram-POSITIVES and negatives, HIGHLY potent, SPECIFIC action, HEAT-LABILE (except staphylococcal enterotoxin and ETEC ST), HIGHLY ANTIGENIC → neutralised by ANTITOXIN and convertible to a TOXOID (vaccines exist: diphtheria, tetanus). ENDOTOXIN — lipopolysaccharide, INTEGRAL to the cell wall, GRAM-NEGATIVE only, less potent, NON-SPECIFIC (fever, shock, DIC), HEAT-STABLE, POORLY antigenic, NO toxoid and NO antitoxin.**
-- **Other lipid A effects to remember: PYROGENICITY, lethal shock, tissue necrosis, B-CELL MITOGENICITY, immunoadjuvant activity, activation of the alternative complement pathway, and antit-umour activity.**
+- **Other lipid A effects to remember: PYROGENICITY, lethal shock, tissue necrosis, B-CELL MITOGENICITY, immunoadjuvant activity, activation of the alternative complement pathway, and anti-tumour activity.**
 - **The LIMULUS AMOEBOCYTE LYSATE (LAL) assay detects endotoxin at picogram levels** and is used to test IV fluids and devices for pyrogens.
 - **A JARISCH–HERXHEIMER-like reaction and the release of endotoxin explain the deterioration sometimes seen after starting bactericidal antibiotics in Gram-negative sepsis and in spirochaetal disease.**
 - **The Gram-negative wall from outside in: OUTER MEMBRANE (LPS + porins + phospholipid) → thin PEPTIDOGLYCAN in the periplasmic space → INNER (plasma) MEMBRANE. The Gram-POSITIVE wall is a thick peptidoglycan with TEICHOIC ACIDS and NO outer membrane** — which is why Gram-positives retain crystal violet and are more susceptible to lysozyme and penicillin, and why Gram-negatives resist many drugs through porin exclusion.
@@ -125,28 +132,23 @@
 ![question](https://cdn1.dailyrounds.org/uploads/310787ee940f4ea49de4204905dfb465.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/43c5bd5175374eb1ac97ec8c02c3569fx1280x1147.JPEG)
 
-`Q9404`
-
 ---
 
-### 5. Gram Stain Sequence and Corynebacterium
+### 5. The Gram Stain
 
-**PEARL:** The **GRAM STAIN sequence is CRYSTAL VIOLET → GRAM’S IODINE (mordant) → ACETONE/alcohol (decolouriser) → SAFRANIN (counterstain).** ***CORYNEBACTERIUM DIPHTHERIAE* (Klebs–Löffler bacillus) is a Gram-positive CLUB-SHAPED bacillus in CHINESE-LETTER/CUNEIFORM arrangement, with METACHROMATIC (BABES–ERNST/polymetaphosphate) GRANULES shown by ALBERT’S STAIN — GREEN bacilli with BLUISH-PURPLE granules.**
+**PEARL:** The **GRAM STAIN sequence is CRYSTAL VIOLET → GRAM’S IODINE (mordant) → ACETONE/alcohol (decolouriser) → SAFRANIN (counterstain).** **The DECOLOURISATION step is the critical one** — over-decolourising turns Gram-positives pink.
 
 **UNDERSTAND:** Iodine is the **mordant — it forms a crystal violet–iodine complex too large to escape the thick peptidoglycan of a Gram-positive wall**, while the thin peptidoglycan and lipid-rich outer membrane of Gram-negatives lets acetone wash the complex out, leaving them to take up safranin. **The decolourisation step is the critical one** — over-decolourising turns Gram-positives pink, which is why old cultures and poor technique give misleading results.
 
 **MUST KNOW:**
 
-- **DIPHTHERIA: a grey-white ADHERENT PSEUDOMEMBRANE over the tonsils and pharynx that BLEEDS ON REMOVAL, with a “BULL NECK” from cervical lymphadenopathy and oedema, and a sweetish odour. The toxin (an A–B toxin that ADP-RIBOSYLATES ELONGATION FACTOR-2, halting protein synthesis) causes MYOCARDITIS and PALATAL/ocular PARALYSIS weeks later — these late complications, not the airway, are the usual cause of death.**
-- **Toxin production requires LYSOGENIC CONVERSION by a BETA-PHAGE carrying the *tox* gene** — an examined example of phage-mediated virulence (as in botulinum, cholera and Shiga toxins).
-- **Media: LÖFFLER’S SERUM SLOPE (rapid growth and best granule development), POTASSIUM TELLURITE/blood tellurite agar (selective; black colonies — gravis, intermedius, mitis biotypes), and the ELEK GEL PRECIPITATION TEST for TOXIGENICITY** (in-vitro; guinea-pig inoculation was the in-vivo equivalent).
-- **TREAT WITH ANTITOXIN FIRST, ON CLINICAL SUSPICION — do not wait for culture, because antitoxin neutralises only unbound toxin** — plus penicillin or erythromycin (which stops transmission but does not treat the toxaemia), isolation, and immunisation of contacts (antibiotic prophylaxis + booster). **Recovery does NOT guarantee immunity — vaccinate during convalescence.**
-- **The SCHICK TEST assessed immunity to diphtheria toxin (now historical).**
+- **Gram-POSITIVE walls are a thick peptidoglycan with TEICHOIC ACIDS and no outer membrane, so they hold the crystal violet–iodine complex; Gram-NEGATIVE walls are a thin peptidoglycan under a LIPID OUTER MEMBRANE, so acetone washes the complex out and safranin colours them pink.**
+- **Organisms that Gram stain poorly or not at all are a standing question: MYCOBACTERIA (waxy mycolic acid wall — use ZIEHL–NEELSEN), *TREPONEMA* and *LEPTOSPIRA* (too thin — dark-field or silver), *MYCOPLASMA* and *UREAPLASMA* (NO CELL WALL), *CHLAMYDIA*, *RICKETTSIA* and *COXIELLA* (obligate intracellular), and *LEGIONELLA* (stains faintly — silver stain or DFA).**
 - **Other stains: ZIEHL–NEELSEN (acid-fast), ALBERT’S/Neisser’s (metachromatic granules), INDIA INK (capsule, negative staining), GIEMSA (parasites and blood), SILVER/GMS (fungi and *Legionella*), and the SPORE stain.**
 
-**EXAM CONNECTION:** Order the reagents, or match the stain to the organism.
+**EXAM CONNECTION:** Order the reagents, or name the organism that will not Gram stain at all.
 
-**REMEMBER:** *Violet, iodine, acetone, safranin — and Albert’s stain for the diphtheria granules.*
+**REMEMBER:** *Violet, iodine, acetone, safranin — and the acetone step decides everything.*
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/fc86612806e5486782aa454becc22894.JPEG)
@@ -155,8 +157,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4a89848d72624fbc888d1552117942c4x840x1198.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/95cc77d0ce4746a7ba900f911b7fd9c4x700x867.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/93fcb8c5d9784cf1a8bc77cb9d7abdfax698x500.JPEG)
-
-`Q9405`
 
 ---
 
@@ -177,8 +177,6 @@
 **EXAM CONNECTION:** “What does H represent” → **flagella**.
 
 **REMEMBER:** *O is the body, H is the tail, K and Vi are the coat that hides the body.*
-
-`Q10104, Q11062`
 
 ---
 
@@ -203,44 +201,9 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e64cfd0a5fae4677866d86de0cace7d6x1280x7594.JPEG)
 
-`Q11061`
-
 ---
 
-### 8. Selective Culture Media
-
-**PEARL:** **Ludlam’s medium (lithium chloride + tellurite)** is the selective medium for **Staphylococcus aureus** when it is scanty or outnumbered by other flora.
-
-**UNDERSTAND:** A **selective** medium contains an agent that inhibits the unwanted flora while the target organism tolerates it — here, high salt/lithium and tellurite suppress competing bacteria while staphylococci grow (and reduce tellurite to black colonies). A **differential** medium instead lets everything grow but makes the target look different (MacConkey, where lactose fermenters turn pink). Many media are both.
-
-**MUST KNOW:**
-
-| Organism | Selective medium |
-| --- | --- |
-| **Staph. aureus** | **Ludlam’s**, salt–milk agar, mannitol salt agar, Roberts’ cooked meat with 10% NaCl |
-| **Strep. pyogenes** | **Pike’s medium (transport)**, crystal violet blood agar |
-| **Neisseria gonorrhoeae/meningitidis** | **Thayer–Martin / modified New York City** (VCN — vancomycin, colistin, nystatin) |
-| **Corynebacterium diphtheriae** | **Loeffler’s serum slope** (enrichment), **potassium tellurite (McLeod’s)** — black colonies |
-| **Vibrio cholerae** | **TCBS** (yellow colonies), alkaline peptone water (enrichment), **Venkatraman–Ramakrishnan (transport)** |
-| **Salmonella/Shigella** | **DCA, XLD, Wilson–Blair (bismuth sulphite)**; **selenite F / tetrathionate broth** (enrichment) |
-| **Mycobacterium tuberculosis** | **Lowenstein–Jensen** (malachite green as the selective agent) |
-| **Bordetella pertussis** | **Bordet–Gengou**, Regan–Lowe |
-| **Legionella** | **BCYE** (buffered charcoal yeast extract) |
-| **Campylobacter** | **Skirrow’s**, Butzler |
-| **Fungi** | **Sabouraud dextrose agar** (with chloramphenicol/cycloheximide) |
-
-- **Transport media** (no growth, just survival): **Stuart’s, Amies, Cary–Blair** (enteric pathogens), **Pike’s** (streptococci), **VR fluid** (cholera).
-- **Enrichment media are liquid** and favour the pathogen’s multiplication (selenite F, alkaline peptone water); **enriched media** are solid with added nutrients (blood agar, chocolate agar).
-
-**EXAM CONNECTION:** Straight matching. The perennial traps are Thayer–Martin (Neisseria, not Staph) and Pike’s (a **transport** medium for Streptococcus).
-
-**REMEMBER:** *Ludlam’s for the staph, Thayer–Martin for the gonococcus, Pike’s just carries the strep.*
-
-`Q10847`
-
----
-
-### 9. Bacterial Generation Times
+### 8. Bacterial Generation Times
 
 **PEARL:** **M. leprae: 12–14 DAYS** (the slowest known bacterial pathogen). **M. tuberculosis: 15–20 hours. Coliforms (E. coli): 20 minutes.**
 
@@ -249,7 +212,7 @@
 **MUST KNOW:**
 
 - Slow growth also explains why **TB treatment lasts 6 months** and why **solid culture (Löwenstein–Jensen) takes 6–8 weeks**, while liquid (MGIT) takes 1–3 weeks.
-- Mycobacterial cell wall **mycolic acid** confers **acid-fastness**; decolouriser strength differentiates species: **M. tuberculosis resists 20–25% sulphuric acid**; **M. leprae and coccidian oocysts (Cryptosporidium, Cyclospora, Cystoisospora) only 5%**; **Nocardia only 1%** — hence the **modified (Kinyoun) acid-fast stain** is required to demonstrate Nocardia.
+- Mycobacterial cell wall **mycolic acid** confers **acid-fastness**; decolouriser strength differentiates species: **M. tuberculosis resists 20–25% sulphuric acid**; **M. leprae only 5%**; **Nocardia and coccidian oocysts (Cryptosporidium, Cyclospora, Cystoisospora)  only 1%** — hence the **modified (Kinyoun) acid-fast stain** is required to demonstrate Nocardia.
 - **Nocardia**: **Gram-positive, weakly acid-fast, branching filamentous rods**, catalase and urease positive, **aerobic**. Contrast **Actinomyces** — **anaerobic, NOT acid-fast**, sulphur granules.
 - **Albert’s stain** (for *Corynebacterium diphtheriae* metachromatic/volutin/Babes–Ernst granules) contains **toluidine blue O and malachite green** — green bacilli with **bluish-purple granules** in **cuneiform (Chinese-letter) arrangement**. Neisser’s and Ponder’s stains do the same job.
 
@@ -266,65 +229,40 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f1c4c07ede354d4582f1ccb63b3e2beax720x666.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8d6225a1ac1242b2b91995eff21c5051x510x465.GIF)
 
-`MA2064, MF7471, MD0949, MC7102`
-
 ---
 
 ---
 
 ## Sterilisation, Disinfection and Biosafety
 
-### 10. Sterilisation Methods and Biosafety Levels
+### 9. Sterilisation, Disinfection and Sporicides
 
-**PEARL:** **“PLASMA STERILISATION” uses HYDROGEN PEROXIDE gas plasma** — a low-temperature method for heat-sensitive instruments (endoscopes, plastics), with no toxic residue and a short cycle. **Handling specimens for MOLECULAR testing of SARS-CoV-2 requires BSL-2; attempting to CULTURE the virus requires BSL-3.**
+**PEARL:** **“PLASMA STERILISATION” uses HYDROGEN PEROXIDE gas plasma** — a low-temperature method for heat-sensitive instruments (endoscopes, plastics), with no toxic residue and a short cycle. **The sporicidal chemicals are EFGH — Ethylene oxide, Formaldehyde, Glutaraldehyde, Hydrogen peroxide — plus the 3 Ps: Peracetic acid, ortho-Phthalaldehyde and Plasma sterilisation. Quaternary ammonium compounds (benzalkonium chloride) are NOT sporicidal** — they are low-level disinfectants.
 
-**UNDERSTAND:** Biosafety level is set by **what you DO with the organism, not by the organism alone** — because risk depends on the **aerosol-generating potential of the procedure**. Inactivated specimens for PCR pose far less risk than propagating live virus, so the same pathogen sits at two different levels depending on the activity. This principle is exactly what the question tests.
+**UNDERSTAND:** A spore’s resistance comes from its **dehydrated core, calcium dipicolinate and thick keratin-like coat**, which excludes water-soluble agents. Only chemicals that either **alkylate proteins and nucleic acids (ethylene oxide, formaldehyde, glutaraldehyde)** or generate **oxidising free radicals (hydrogen peroxide, peracetic acid, plasma)** can penetrate and kill it. Surface-active agents such as quaternary ammonium compounds work by disrupting lipid membranes — a spore has none exposed, so they simply fail.
 
 **MUST KNOW:**
 
-- **BSL-1 — open bench, non-pathogenic organisms (*E. coli* K12). BSL-2 — biosafety cabinet plus PPE for moderate-risk agents (*S. aureus*, hepatitis viruses, HIV specimens, SARS-CoV-2 diagnostics). BSL-3 — negative pressure, double self-closing doors, respirators, ALL work in a BSC (*M. TUBERCULOSIS*, SARS-CoV-2 CULTURE, *Brucella*, *Coxiella*). BSL-4 — full positive-pressure suit and dedicated facility (EBOLA, Marburg, Lassa, smallpox, Nipah).**
+- **DISINFECTANT LEVELS: HIGH — kills everything including some spores (glutaraldehyde, hydrogen peroxide, peracetic acid, OPA); INTERMEDIATE — kills mycobacteria, most viruses and fungi but NOT spores (ALCOHOLS, chlorine/hypochlorite, iodophors, phenolics); LOW — vegetative bacteria and lipid-enveloped viruses only (QUATERNARY AMMONIUM COMPOUNDS).**
+- **CHLORINE is an intermediate-level disinfectant — sporicidal only at very high concentration and prolonged contact, so exam convention counts it as NOT sporicidal. It remains the agent of choice for BLOOD SPILLS (1% hypochlorite) and for water disinfection.**
+- **ALCOHOL IS NOT SPORICIDAL — which is why hand hygiene for *CLOSTRIDIOIDES DIFFICILE* must be SOAP AND WATER, not an alcohol rub.**
 - **Low-temperature sterilisation options: ETHYLENE OXIDE (highly effective and penetrating, but TOXIC, MUTAGENIC/carcinogenic and needs prolonged aeration), HYDROGEN PEROXIDE PLASMA (fast, safe, no aeration — but poor at long narrow lumens and incompatible with cellulose/linen), and FORMALDEHYDE vapour.**
 - **AUTOCLAVING (moist heat, 121 °C at 15 psi for 15 min, or 134 °C for 3 min) is the most reliable and preferred method wherever the item can tolerate it. GAMMA IRRADIATION is used for prepackaged single-use disposables (syringes, catheters, sutures) on an industrial scale. UV light is a SURFACE disinfectant only — it does not penetrate.**
 - **Sterilisation monitoring: BIOLOGICAL indicators are the gold standard — *GEOBACILLUS STEAROTHERMOPHILUS* for the autoclave, *BACILLUS ATROPHAEUS* for ethylene oxide and dry heat.** Chemical indicators (Bowie–Dick tape) confirm exposure, not sterility.
 - **SPAULDING CLASSIFICATION: CRITICAL items entering sterile tissue need STERILISATION; SEMICRITICAL items touching mucosa need HIGH-LEVEL DISINFECTION (glutaraldehyde, OPA); NON-CRITICAL items touching intact skin need low-level disinfection.**
 - **PRIONS require special handling — 1N NaOH plus extended autoclaving at 134 °C.**
 
-**EXAM CONNECTION:** “Plasma sterilisation uses” → **hydrogen peroxide**; “SARS-CoV-2 molecular testing” → **BSL-2**.
+**EXAM CONNECTION:** “Plasma sterilisation uses” → **hydrogen peroxide**. Otherwise it is multi-select sporicidal lists: learn **EFGH + 3P**, and remember to **exclude quaternary ammonium compounds, alcohols and (by convention) chlorine**.
 
-**REMEMBER:** *Peroxide plasma for delicate instruments; PCR at BSL-2, culture at BSL-3.*
-
-`Q9350, Q9363`
+**REMEMBER:** *Peroxide plasma for delicate instruments — and EFGH kills spores, while soaps and alcohols do not.*
 
 ---
 
-### 11. Sporicidal Agents
-
-**PEARL:** The **sporicidal chemicals are EFGH — Ethylene oxide, Formaldehyde, Glutaraldehyde, Hydrogen peroxide** — plus the **3 Ps: Peracetic acid, ortho-Phthalaldehyde and Plasma sterilisation**. **Quaternary ammonium compounds (benzalkonium chloride) are NOT sporicidal** — they are low-level disinfectants.
-
-**UNDERSTAND:** A spore’s resistance comes from its **dehydrated core, calcium dipicolinate and thick keratin-like coat**, which excludes water-soluble agents. Only chemicals that either **alkylate proteins and nucleic acids (ethylene oxide, formaldehyde, glutaraldehyde)** or generate **oxidising free radicals (hydrogen peroxide, peracetic acid, plasma)** can penetrate and kill it. Surface-active agents such as quaternary ammonium compounds work by disrupting lipid membranes — a spore has none exposed, so they fail.
-
-**MUST KNOW:**
-
-- **Spaulding classification:** **Critical items** (enter sterile tissue/vasculature — surgical instruments, implants) → **sterilisation**; **Semi-critical** (contact mucous membranes — endoscopes, laryngoscope blades) → **high-level disinfection** (2% glutaraldehyde, OPA, peracetic acid); **Non-critical** (intact skin — BP cuffs, stethoscopes) → low/intermediate-level disinfection.
-- **Levels:** **high** — kills all including some spores (glutaraldehyde, hydrogen peroxide, peracetic acid, OPA); **intermediate** — kills mycobacteria, most viruses and fungi but not spores (**alcohols, chlorine/hypochlorite, iodophors, phenolics**); **low** — vegetative bacteria and lipid viruses only (**quaternary ammonium compounds**).
-- **Chlorine is an intermediate-level disinfectant** — sporicidal only at very high concentrations/prolonged contact, so it is counted as **not sporicidal** in exam convention. It is, however, the agent of choice for **blood spills (1% hypochlorite)** and water disinfection.
-- **Ethylene oxide** sterilises **heat-sensitive items** (plastics, endoscopes, pacemakers) but is toxic, mutagenic and needs long aeration; **plasma (hydrogen peroxide gas)** is the faster, safer modern alternative.
-- **Alcohol is NOT sporicidal** — hence handwashing with **soap and water, not alcohol rub, for *Clostridioides difficile***.
-- **Autoclave 121 °C at 15 psi for 15 minutes** is the standard sterilisation method; monitor with **spore strips of *Geobacillus stearothermophilus***; **hot air oven 160 °C for 2 hours** uses ***Bacillus atrophaeus*** spores.
-
-**EXAM CONNECTION:** Multi-select sporicidal lists. Learn **EFGH + 3P** and remember to **exclude quaternary ammonium, alcohols and (by convention) chlorine**.
-
-**REMEMBER:** *EFGH kills spores; soaps and alcohols do not.*
-
-`Q10942`
-
----
-
-### 12. Biosafety Levels
+### 10. Biosafety Levels
 
 **PEARL:** **BSL-3 = agents causing serious or lethal disease that are transmissible by INHALATION, but for which treatment or vaccines exist** — **Mycobacterium tuberculosis (including MDR/XDR), anthrax, brucella, coxiella, hantavirus, SARS-CoV-2, West Nile, yellow fever, Rickettsia, HIV cultures**. **BSL-4 is for agents with no treatment or vaccine and high aerosol lethality — EBOLA, Marburg, Lassa, CCHF, smallpox.** ***Salmonella typhi* is BSL-2.**
 
-**UNDERSTAND:** The classification is decided by **route of transmission plus the availability of treatment**, not simply by how deadly the organism is. That is why *Salmonella typhi*, which can kill, is only BSL-2 — it spreads by ingestion and is treatable, so standard bench precautions suffice. Tuberculosis, by contrast, is **airborne**, so it needs **negative-pressure containment and directional airflow** even though it is curable.
+**UNDERSTAND:** The level is set by **what you DO with the organism, not by the organism alone** — risk follows the **aerosol-generating potential of the procedure**, so the same pathogen sits at two levels depending on the activity. Beyond that the classification is decided by **route of transmission plus the availability of treatment**, not simply by how deadly the organism is. That is why *Salmonella typhi*, which can kill, is only BSL-2 — it spreads by ingestion and is treatable, so standard bench precautions suffice. Tuberculosis, by contrast, is **airborne**, so it needs **negative-pressure containment and directional airflow** even though it is curable.
 
 **MUST KNOW:**
 
@@ -335,19 +273,18 @@
 | **BSL-3** | **Serious/lethal, AEROSOL transmission, treatment available** — **M. tuberculosis, Brucella, Coxiella, anthrax, SARS-CoV-2, yellow fever, HIV cultures** | **Negative pressure, directional airflow, all work in a biosafety cabinet, respirators, controlled access** |
 | **BSL-4** | **Lethal, aerosol, NO treatment/vaccine** — **Ebola, Marburg, Lassa, CCHF, smallpox, Nipah**                                                             | **Full positive-pressure suit or class III cabinet, dedicated building, airlocks, shower-out**              |
 
+- **The activity, not the agent, sets the level: handling specimens for MOLECULAR testing of SARS-CoV-2 requires BSL-2, while attempting to CULTURE the virus requires BSL-3.** Inactivated specimens for PCR pose far less risk than propagating live virus.
 - **Brucella and Coxiella are among the commonest laboratory-acquired infections** — always warn the laboratory when you suspect them.
 - **Coccidioides** arthroconidia are also handled at BSL-3.
 - **India has BSL-4 facilities at NIV Pune** (used for Nipah and CCHF).
 
-**EXAM CONNECTION:** Sort by **route + treatability**. TB is the archetypal BSL-3 answer; haemorrhagic fever viruses are BSL-4; enteric bacteria are BSL-2.
+**EXAM CONNECTION:** “SARS-CoV-2 molecular testing” → **BSL-2**; “SARS-CoV-2 culture” → **BSL-3**. Otherwise sort by **route + treatability**. TB is the archetypal BSL-3 answer; haemorrhagic fever viruses are BSL-4; enteric bacteria are BSL-2.
 
 **REMEMBER:** *Airborne but curable is level 3; airborne and untreatable is level 4.*
 
-`Q11033`
-
 ---
 
-### 13. Moist Heat — The Temperature-Time Pairs
+### 11. Moist Heat — The Temperature-Time Pairs
 
 **PEARL:** **Tyndallisation = 100 °C for 20 minutes on 3 successive days.** **Pasteurisation (holder) = 63 °C for 30 minutes**; **flash = 72 °C for 15–20 seconds**. **Autoclave = 121 °C, 15 psi, 15 minutes.** **Inspissation = 80–85 °C for 30 minutes on 3 days.**
 
@@ -366,15 +303,13 @@
 
 **REMEMBER:** *Heat, let the spores wake up, heat again.*
 
-`MA6196, MF5706`
-
 ---
 
 ---
 
 ## Antimicrobial Susceptibility and Resistance
 
-### 14. Biofilms and Antibiotic Resistance
+### 12. Biofilms and Antibiotic Resistance
 
 **PEARL:** Biofilms resist antibiotics by a **MECHANICAL/diffusion BARRIER, EFFLUX PUMPS (increased excretion of drug), SLOW METABOLISM and anaerobic growth, PERSISTER cells, enzymatic inactivation, and QUORUM SENSING–driven genetic adaptation.** **ADHERENCE IS NOT A RESISTANCE MECHANISM** — it is how bacteria attach and colonise in the first place.
 
@@ -392,11 +327,9 @@
 
 **REMEMBER:** *A biofilm doesn’t fight the antibiotic — it goes to sleep underneath it.*
 
-`Q9335`
-
 ---
 
-### 15. Antibiotic Susceptibility Testing
+### 13. Antibiotic Susceptibility Testing
 
 **PEARL:** The **DISC DIFFUSION method is the KIRBY–BAUER technique** — a lawn culture on **CATION-ADJUSTED MUELLER–HINTON AGAR**, antibiotic discs applied, and **ZONE DIAMETERS** measured and interpreted against **CLSI breakpoints** as sensitive, intermediate or resistant. It is **QUALITATIVE**; **dilution methods (broth or agar) give the quantitative MIC**, and the **E-TEST (a gradient strip) gives an MIC by diffusion** — combining both principles.
 
@@ -417,11 +350,9 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/75fe4859fbd949cf919ed0173887733ex234x175.JPEG)
 
-`Q9390`
-
 ---
 
-### 16. Reading Intrinsic Resistance Patterns
+### 14. Non-Fermenters — Reading Intrinsic Resistance Patterns
 
 **PEARL:** An organism **RESISTANT to MEROPENEM and AMINOGLYCOSIDES but SENSITIVE to COTRIMOXAZOLE and TICARCILLIN-CLAVULANATE is *STENOTROPHOMONAS MALTOPHILIA*.** **COTRIMOXAZOLE is its drug of choice.** Contrast ***BURKHOLDERIA CEPACIA*, which IS sensitive to MEROPENEM and ceftazidime** but resistant to aminoglycosides, polymyxins and early cephalosporins.
 
@@ -429,20 +360,23 @@
 
 **MUST KNOW:**
 
-- **Learn the non-fermenters as a group, since they are distinguished mainly by resistance pattern: *PSEUDOMONAS AERUGINOSA* (oxidase POSITIVE, pyocyanin, sweet grape-like odour, sensitive to antipseudomonal beta-lactams, carbapenems, aminoglycosides and colistin). *ACINETOBACTER BAUMANNII* (oxidase NEGATIVE coccobacillus, survives on dry surfaces for weeks, frequently carbapenem-resistant — treat with colistin/sulbactam-based regimens). *BURKHOLDERIA CEPACIA* (cotrimoxazole, meropenem, ceftazidime). *STENOTROPHOMONAS* (cotrimoxazole; oxidase NEGATIVE, DNase positive).**
+- **Learn the non-fermenters as a group, since they are distinguished mainly by resistance pattern: *PSEUDOMONAS AERUGINOSA* (oxidase POSITIVE, pyocyanin, sweet grape-like odour, sensitive to antipseudomonal beta-lactams, carbapenems, aminoglycosides and colistin). *ACINETOBACTER BAUMANNII* (oxidase NEGATIVE coccobacillus, survives on dry surfaces for weeks, frequently carbapenem-resistant — treat with colistin/sulbactam-based regimens). *BURKHOLDERIA CEPACIA* (sensitive to cotrimoxazole, meropenem, ceftazidime). *STENOTROPHOMONAS* (cotrimoxazole; oxidase NEGATIVE, DNase positive).**
 - **INTRINSIC resistance is a property of the SPECIES (structural or functional), and is predictable from identification alone — so it should never be reported as “sensitive” even if the disc suggests it.** ACQUIRED resistance arises by mutation or gene transfer and must be tested for.
 - **Classic intrinsic resistances worth carrying: anaerobes to AMINOGLYCOSIDES (oxygen-dependent uptake), Gram-negatives to VANCOMYCIN (too large to cross the outer membrane), enterococci to CEPHALOSPORINS, *Listeria* to cephalosporins, and Mycoplasma to all beta-lactams.**
 - ***Stenotrophomonas* causes pneumonia, catheter-related bacteraemia, UTI and wound infection in the debilitated — REMOVAL OF THE LINE is central to management.**
+- ***BURKHOLDERIA CEPACIA* complex in full: intrinsically resistant to AMINOGLYCOSIDES, POLYMYXINS/COLISTIN, FIRST- and SECOND-GENERATION CEPHALOSPORINS (including CEFOTETAN) and carboxypenicillins; effective agents are COTRIMOXAZOLE (drug of choice), MEROPENEM, CEFTAZIDIME, PIPERACILLIN and TEMOCILLIN. Because polymyxin resistance is INTRINSIC it GROWS IN DISINFECTANT — hence outbreaks traced to contaminated chlorhexidine, mouthwash, saline flushes, ultrasound gel and nebuliser solutions.**
+- **In CYSTIC FIBROSIS *B. cepacia* is feared out of all proportion to its frequency: “CEPACIA SYNDROME” is a rapidly progressive NECROTISING PNEUMONIA with bacteraemia and high mortality; it is TRANSMISSIBLE PATIENT-TO-PATIENT, so colonised patients are strictly segregated; and it is a RELATIVE CONTRAINDICATION TO LUNG TRANSPLANTATION. It also causes severe pneumonia in CHRONIC GRANULOMATOUS DISEASE, because it is CATALASE-POSITIVE and CGD phagocytes cannot kill catalase-positive organisms.**
+- **The CF airway pathogen sequence by age: *S. AUREUS* and *H. influenzae* in early childhood → *PSEUDOMONAS AERUGINOSA* (mucoid, biofilm-forming, the dominant lifelong pathogen) → *Burkholderia cepacia* complex, non-tuberculous mycobacteria and *Aspergillus* (ABPA) later.**
+- **The other *Burkholderia*: *B. PSEUDOMALLEI* causes MELIOIDOSIS (“the great mimicker”) — from soil and surface water in Southeast Asia and northern Australia, in DIABETICS, with pneumonia and abscesses of liver, spleen and prostate and a “SAFETY-PIN” bipolar staining appearance; treat intensively with CEFTAZIDIME or MEROPENEM, then prolonged COTRIMOXAZOLE eradication. *B. MALLEI* causes GLANDERS (horses).**
+- ***PSEUDOMONAS AERUGINOSA* in detail: oxidase-positive, non-lactose-fermenting, PYOCYANIN (blue-green) and pyoverdine pigments, a sweet GRAPE-LIKE odour, thriving wherever it is moist; causes burn wound infection, hot-tub folliculitis, MALIGNANT OTITIS EXTERNA in diabetics, ventilator-associated pneumonia and ECTHYMA GANGRENOSUM in neutropenia.**
 
-**EXAM CONNECTION:** Antibiogram-based identification — **carbapenem-resistant + cotrimoxazole-sensitive = *Stenotrophomonas***.
+**EXAM CONNECTION:** Antibiogram-based identification — **carbapenem-resistant + cotrimoxazole-sensitive = *Stenotrophomonas***; “*Burkholderia cepacia* is resistant to” → **cefotetan** (a second-generation cephamycin).
 
 **REMEMBER:** *It eats carbapenems with a metallo-enzyme — only cotrimoxazole is left.*
 
-`Q9438`
-
 ---
 
-### 17. Intrinsic Antifungal Resistance
+### 15. Intrinsic Antifungal Resistance
 
 **PEARL:** ***Candida krusei* is INTRINSICALLY RESISTANT TO FLUCONAZOLE.** *C. glabrata* has reduced (dose-dependent) azole susceptibility; ***C. lusitaniae* is the one resistant to amphotericin B**.
 
@@ -461,15 +395,13 @@
 
 **REMEMBER:** *Krusei says no to fluconazole from birth.*
 
-`Q10970`
-
 ---
 
 ---
 
 ## Basic Immunology
 
-### 18. Superantigens
+### 16. Superantigens
 
 **PEARL:** **SUPERANTIGENS bind the MHC CLASS II molecule OUTSIDE the peptide-binding groove and cross-link it to the Vβ REGION of the T-cell receptor — activating up to 20% of ALL T cells REGARDLESS of antigen specificity**, causing a massive cytokine storm. Examples: ***S. pyogenes* STREPTOCOCCAL PYROGENIC EXOTOXIN, staphylococcal ENTEROTOXINS and TOXIC SHOCK SYNDROME TOXIN-1 (TSST-1).**
 
@@ -493,11 +425,9 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/712d6a8ea7f54478896129e1a83cf088x1279x1284.JPEG)
 
-`Q9401`
-
 ---
 
-### 19. MHC Restriction and the Basics of Cellular Immunity
+### 17. MHC Restriction and the Basics of Cellular Immunity
 
 **PEARL:** **MHC CLASS I presents to CD8 CYTOTOXIC T CELLS; MHC CLASS II presents to CD4 HELPER T CELLS — and there is NO cross-recognition (MHC RESTRICTION).** The **T:B lymphocyte ratio in normal adult blood is about 3:1** (T cells 60–70%, B cells 10–20%). **DELAYED (TYPE IV) HYPERSENSITIVITY is mediated principally by INTERFERON-GAMMA**, which activates macrophages.
 
@@ -515,11 +445,9 @@
 
 **REMEMBER:** *Class I is inside-out to the killer; class II is outside-in to the helper.*
 
-`Q9413, Q9414, Q9419`
-
 ---
 
-### 20. Dendritic Cells — Priming the Naive T Cell
+### 18. Dendritic Cells — Priming the Naive T Cell
 
 **PEARL:** The **MATURE DENDRITIC CELL is the most potent stimulator of NAIVE T cells — the only antigen-presenting cell that can PRIME a naive T cell.** Activation needs **TWO signals: (1) peptide–MHC engaging the TCR and (2) CO-STIMULATION via B7 (CD80/86) binding CD28.** **FOLLICULAR dendritic cells are NOT antigen-presenting cells at all** — they are of mesenchymal origin and trap antigen–antibody complexes in germinal centres for B cells.
 
@@ -540,11 +468,9 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/10226498d4f14accbc321452d6f3d620x1280x1839.JPEG)
 
-`Q10008`
-
 ---
 
-### 21. Chemokine Families
+### 19. Chemokine Families
 
 **PEARL:** Chemokines are classified by the arrangement of their **CYSTEINE residues: CXC (α) — one amino acid between the cysteines, e.g. IL-8/CXCL8, which recruits NEUTROPHILS. CC (β) — two adjacent cysteines, e.g. MCP-1/CCL2 and eotaxin, recruiting MONOCYTES, lymphocytes and eosinophils. C (γ) — a single cysteine pair, e.g. LYMPHOTACTIN (XCL1), recruiting lymphocytes. CX3C (δ) — THREE amino acids between the cysteines, with only ONE member: FRACTALKINE (CX3CL1).**
 
@@ -565,11 +491,9 @@
 **IMAGES:**
 ![explanation](https://cdn1.dailyrounds.org/uploads/b16f109e1b684f12a7f34ee438f17119x601x416.PNG)
 
-`Q11065`
-
 ---
 
-### 22. Interferons
+### 20. Interferons
 
 **PEARL:** **IFN-α (leucocytes) and IFN-β (fibroblasts and epithelium) are the ANTIVIRAL (type I) interferons.** **IFN-γ (T cells and NK cells) is the IMMUNE (type II) interferon** — a macrophage activator.
 
@@ -587,11 +511,9 @@
 
 **REMEMBER:** *Alpha and beta fight the virus; gamma commands the immune system.*
 
-`MC7052`
-
 ---
 
-### 23. Immunoglobulin Classes
+### 21. Immunoglobulin Classes
 
 **PEARL:** **IgE is raised in chronic allergy and helminth infection.** It is the **only heat-labile** immunoglobulin, with the **shortest half-life (1–5 days)** and the **lowest serum concentration**.
 
@@ -609,15 +531,13 @@
 
 **REMEMBER:** *IgE is rare in serum because it is parked on mast cells.*
 
-`MC7689`
-
 ---
 
 ---
 
 ## Hypersensitivity, Transplantation and Immunodeficiency
 
-### 24. Graft Rejection and the Nude Mouse
+### 22. Graft Rejection and the Nude Mouse
 
 **PEARL:** **HYPERACUTE rejection (minutes to hours) is TYPE II hypersensitivity — mediated by PREFORMED ANTIBODIES against donor ABO or HLA antigens. ACUTE rejection (weeks to months) is TYPE IV — cytotoxic T-cell mediated. CHRONIC rejection (months to years) is mixed antibody- and delayed-hypersensitivity-mediated.** **NUDE MICE accept xenografts because they LACK A THYMUS and therefore have NO MATURE T CELLS** (B cells and NK cells are present).
 
@@ -630,16 +550,20 @@
 - **GRAFT-VERSUS-HOST DISEASE is the reverse — donor T cells attacking the host — classically after ALLOGENEIC BONE MARROW transplant or transfusion of non-irradiated blood into the immunosuppressed, affecting SKIN, LIVER and GUT. Prevent by IRRADIATING blood products.**
 - **The hypersensitivity framework: TYPE I — IgE/mast cell (anaphylaxis, atopy). TYPE II — antibody against fixed cell-surface antigen (autoimmune haemolysis, Goodpasture, Graves, myasthenia, ABO reaction, hyperacute rejection). TYPE III — immune complex (SLE, post-streptococcal GN, serum sickness, Arthus). TYPE IV — T-cell/delayed (Mantoux, contact dermatitis, granulomas, acute graft rejection, type 1 diabetes).**
 - **Other immunodeficient models: SCID mice (no T or B cells) and NOD-SCID/NSG mice (also lacking NK cells) are used to grow human tumour xenografts and reconstitute human immune systems.**
+- **The histology follows the same timing. HYPERACUTE — a cyanotic, mottled graft with NEUTROPHIL accumulation, FIBRINOID NECROSIS and THROMBOTIC OCCLUSION on reperfusion. ACUTE CELLULAR — TUBULITIS with an interstitial mononuclear infiltrate; ACUTE HUMORAL (antibody-mediated) rejection instead shows C4d DEPOSITION IN PERITUBULAR CAPILLARIES. CHRONIC — FIBROINTIMAL PROLIFERATION and vascular narrowing, appearing as chronic allograft nephropathy, BRONCHIOLITIS OBLITERANS in the lung and CARDIAC ALLOGRAFT VASCULOPATHY in the heart.**
+- **The nude mouse is athymic and hairless from a FOXN1 mutation and keeps its B and NK cells, which is why it is used to grow human tumour xenografts. Its human counterpart is DIGEORGE SYNDROME — thymic aplasia from a 22q11 deletion, with hypocalcaemia and conotruncal cardiac anomalies, in whom LIVE VACCINES ARE CONTRAINDICATED.**
 
 **EXAM CONNECTION:** “Hyperacute rejection is which hypersensitivity” → **Type II**; “nude mice accept xenografts due to absence of” → **T cells**.
 
 **REMEMBER:** *Preformed antibody is instant (II); T cells take weeks (IV) — and no thymus means no rejection at all.*
 
-`Q9379, Q9382`
+**IMAGES:**
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/988706e6c52640cabe45b6c598d1b709x1280x2089.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/740d6c7dadda46d38620f36124adea54x1280x4218.JPEG)
 
 ---
 
-### 25. Primary Immunodeficiency — Reading the Infection Pattern
+### 23. Primary Immunodeficiency — Reading the Infection Pattern
 
 **PEARL:** **Recurrent STAPHYLOCOCCAL “COLD” ABSCESSES + eczema + recurrent PNEUMONIA WITH PNEUMATOCELES + very high IgE and EOSINOPHILIA = HYPER-IgE (JOB’S) SYNDROME**, autosomal dominant, due to a ***STAT3* mutation** with defective neutrophil chemotaxis. **Recurrent SINOPULMONARY infections with ENCAPSULATED organisms in a young child point to IgG2 SUBCLASS DEFICIENCY** (IgG2 carries the response to POLYSACCHARIDE capsular antigens).
 
@@ -656,11 +580,9 @@
 
 **REMEMBER:** *Capsules need antibody, staph needs neutrophils, viruses need T cells — the bug names the broken arm.*
 
-`Q9394, Q9397`
-
 ---
 
-### 26. Encapsulated Organisms and Post-Splenectomy Infection
+### 24. Encapsulated Organisms and Post-Splenectomy Infection
 
 **PEARL:** Splenectomy predisposes to **encapsulated organisms** — **Streptococcus pneumoniae (commonest), Haemophilus influenzae, Neisseria meningitidis, Klebsiella, Salmonella**. **Staphylococcus aureus is LEAST likely** — it is cleared by **neutrophils**, not by splenic opsonophagocytosis.
 
@@ -678,11 +600,9 @@
 
 **REMEMBER:** *The spleen handles capsules; neutrophils handle staph.*
 
-`MA1593, MC6978`
-
 ---
 
-### 27. Hereditary Angioedema and Complement Deficiencies
+### 25. Hereditary Angioedema and Complement Deficiencies
 
 **PEARL:** **Recurrent, NON-ITCHY, non-urticarial angioedema with a family history = C1 INHIBITOR deficiency** — the swelling is **bradykinin**-mediated, not histamine-mediated.
 
@@ -702,51 +622,13 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/0ecdb416e66d49fd80006a9523c0da94.PNG)
 
-`MC2616`
-
----
-
-### 28. Graft Rejection and Hypersensitivity Types
-
-**PEARL:** **Hyperacute rejection (minutes to hours) = TYPE II hypersensitivity**, mediated by **preformed antidonor antibodies**. **Acute and chronic rejection are largely type IV (T-cell mediated).**
-
-**UNDERSTAND:** The **timing tells you the mechanism**. Minutes are far too short for a cellular response to be generated — only **antibody already in the circulation** can act that fast, binding endothelium, fixing complement and thrombosing the graft vessels immediately on reperfusion. T-cell responses require days to weeks of priming and expansion.
-
-**MUST KNOW:**
-
-- **Hyperacute:** graft becomes **cyanotic, mottled**, with **neutrophil accumulation, fibrinoid necrosis and thrombotic occlusion**. Prevented by **ABO matching and cross-matching** — hence now rare.
-- **Acute cellular rejection (days–weeks):** CD8 CTLs and CD4-driven inflammation → **tubulitis and interstitial mononuclear infiltrate**. **Acute humoral (antibody-mediated) rejection** → **C4d deposition in peritubular capillaries**.
-- **Chronic rejection (months–years):** **fibrointimal proliferation and vascular narrowing** → chronic allograft nephropathy, **bronchiolitis obliterans** (lung), **cardiac allograft vasculopathy**.
-- **Graft-versus-host disease** — donor T cells attacking the host — **skin, gut, liver**; risk in bone marrow transplant and non-irradiated blood products.
-- Hypersensitivity revision: **I — IgE/mast cell (anaphylaxis, atopy)**; **II — antibody against cell-surface antigen (hyperacute rejection, ITP, Goodpasture, transfusion reaction)**; **III — immune complex (SLE, serum sickness, post-streptococcal GN)**; **IV — T-cell delayed (contact dermatitis, tuberculin test, acute graft rejection)**.
-
-**EXAM CONNECTION:** Whenever a rejection question gives a **time frame**, map it to the mechanism first, then to the hypersensitivity number.
-
-**REMEMBER:** *Minutes means antibody was already there — type II.*
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/988706e6c52640cabe45b6c598d1b709x1280x2089.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/740d6c7dadda46d38620f36124adea54x1280x4218.JPEG)
-
-`MA6841`
-
----
-
-### 29. Nude Mice
-
-**PEARL:** **Nude mice lack a thymus** → no mature T cells → they **cannot reject xenografts** — demonstrating that **T cells drive graft rejection**.
-
-**MUST KNOW:** They are hairless and athymic (**FOXN1** mutation), retain **B cells and NK cells**, and are used to grow **human tumour xenografts**. The human counterpart is **DiGeorge syndrome** (thymic aplasia, 22q11 deletion, hypocalcaemia, cardiac anomalies) — where **live vaccines are contraindicated**. **SCID mice** lack both T and B cells.
-
-**REMEMBER:** *No thymus → no T cells → no rejection.*
-
 ---
 
 ---
 
 ## Diagnostic Techniques and Serology
 
-### 30. Intracellular Parasites and the Giemsa Stain
+### 26. Intracellular Parasites and the Giemsa Stain
 
 **PEARL:** **BABESIA infects RED CELLS ONLY — it has NO EXOERYTHROCYTIC (liver) STAGE**, unlike *Plasmodium*, *Toxoplasma* and *Leishmania*, all of which can be found within hepatocytes. And on a **GIEMSA-stained peripheral smear you CANNOT diagnose *COXIELLA BURNETII*** (Q fever) — that requires **SEROLOGY**.
 
@@ -764,11 +646,9 @@
 
 **REMEMBER:** *Babesia goes straight to the red cell — no liver stage, no pigment, a Maltese cross.*
 
-`Q9355, Q9356`
-
 ---
 
-### 31. Xenodiagnosis
+### 27. Xenodiagnosis
 
 **PEARL:** **XENODIAGNOSIS uses the VECTOR as a living culture medium** — the pathogen is allowed to multiply inside a laboratory-bred vector, which is then examined. **Intrathoracic inoculation of *AEDES* mosquitoes with a suspected dengue patient’s blood is xenodiagnosis.** It was first used by **BRUMPT for CHAGAS DISEASE**, feeding clean **REDUVIID bugs** on the patient and examining their faeces for *T. cruzi* amastigotes 4–5 weeks later.
 
@@ -785,11 +665,9 @@
 
 **REMEMBER:** *Xeno = the vector is your culture flask.*
 
-`Q9358`
-
 ---
 
-### 32. Immunoassays — What Is Labelled and What Is Not
+### 28. Immunoassays and Immunofluorescence
 
 **PEARL:** In a **SANDWICH ELISA the layers run: CAPTURE ANTIBODY (coated on the plate) → ANTIGEN (from the patient sample) → DETECTION ANTIBODY → ENZYME-LABELLED CONJUGATE (an anti-antibody carrying the enzyme) → SUBSTRATE (cleaved to give colour).** **The CONJUGATE is the enzyme-labelled layer.** And among immunological tests, **HAEMAGGLUTINATION uses NO LABEL at all** — ELISA, radioimmunoassay and immunofluorescence all depend on antibody marking.
 
@@ -798,8 +676,12 @@
 **MUST KNOW:**
 
 - **ELISA formats: DIRECT (antigen coated, labelled antibody), INDIRECT (antigen coated, patient ANTIBODY detected — used for HIV and most serology), SANDWICH (antigen captured between two antibodies — used for antigen detection such as HBsAg and rotavirus), and COMPETITIVE (signal is INVERSELY proportional to analyte).**
+- ![figure](images/Pasted%20image%2020260907030625.png)
 - **RADIOIMMUNOASSAY is highly sensitive but uses radioisotopes and is competitive — signal falls as patient antigen rises;** it has largely been replaced by chemiluminescent immunoassays.
-- **IMMUNOFLUORESCENCE: DIRECT IF applies labelled antibody to tissue (used for skin DIF in pemphigus and renal biopsy); INDIRECT IF detects circulating antibody in patient serum (ANA, anti-dsDNA) and is more sensitive.**
+- **IMMUNOFLUORESCENCE: DIRECT IF applies labelled antibody straight onto a TISSUE BIOPSY to find immunoglobulin ALREADY DEPOSITED there; INDIRECT IF layers patient SERUM on a known substrate and reveals bound antibody with a fluorescein-labelled ANTI-HUMAN IMMUNOGLOBULIN. Because that label sits on a GENERIC anti-human IgG, one reagent detects antibodies of every specificity — you change only the substrate (HEp-2 cells for ANA, neutrophils for ANCA, *Crithidia* for anti-dsDNA) — and several labelled antibodies bind each patient antibody, so indirect IF is also MORE SENSITIVE.**
+- **ANA patterns on HEp-2 cells: HOMOGENEOUS → SLE and drug-induced lupus (anti-dsDNA, anti-histone); SPECKLED → mixed connective tissue disease/Sjögren (anti-Sm, RNP, Ro/La); NUCLEOLAR → SCLERODERMA (anti-Scl-70); CENTROMERE → limited cutaneous scleroderma/CREST; RIM/peripheral → anti-dsDNA, the most specific for SLE. ANCA: c-ANCA (cytoplasmic, anti-PR3) → granulomatosis with polyangiitis; p-ANCA (perinuclear, anti-MPO) → microscopic polyangiitis and eosinophilic granulomatosis with polyangiitis.**
+- **DIRECT IF findings on tissue: LINEAR IgG along the basement membrane → BULLOUS PEMPHIGOID and anti-GBM (Goodpasture) disease; INTERCELLULAR “fishnet” IgG → PEMPHIGUS VULGARIS; GRANULAR IgA in dermal papillae → DERMATITIS HERPETIFORMIS; “full house” granular deposits → LUPUS NEPHRITIS.**
+- **Choose the technique by the target: antibody in SERUM → indirect IF or ELISA; antibody already in TISSUE → direct IF; a CELL to be counted or phenotyped → FLOW CYTOMETRY (CD4 count, leukaemia immunophenotyping); a GENE LOCUS → FISH (HER2 amplification, 22q11 deletion).**
 - **Unlabelled reactions worth naming: PRECIPITATION (Ouchterlony double diffusion, radial immunodiffusion, immunoelectrophoresis, ELEK’S TEST for diphtheria toxigenicity), AGGLUTINATION (Widal, Weil–Felix, latex agglutination, COOMBS test), and COMPLEMENT FIXATION.**
 - **HAEMAGGLUTINATION has two distinct meanings: ACTIVE (the virus itself agglutinates red cells — influenza, measles, mumps) and PASSIVE/INDIRECT (antigen coated onto red cells). The HAEMAGGLUTINATION INHIBITION test measures antiviral antibody.**
 - **WESTERN BLOT (protein), SOUTHERN BLOT (DNA), NORTHERN BLOT (RNA)** — the confirmatory test hierarchy; **Western blot was the classical HIV confirmatory test**, now replaced by fourth-generation antigen/antibody assays and NAT.
@@ -811,12 +693,12 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/d66d0147c39d4167bd2f1bd64e7a939e.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/399df01b60164f3998793e000dbf7629x1279x917.JPEG)
-
-`Q9374, Q9396`
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6fdbee5356f744abb37f074deec0d402x1280x1080.JPEG)
+![explanation](https://cdn1.dailyrounds.org/uploads/2ecba17c26f241c7bf76c518456d5847.PNG)
 
 ---
 
-### 33. Stool Concentration and Parasitology Technique
+### 29. Stool Examination for Parasites — Wet Mounts and Concentration
 
 **PEARL:** The **FORMOL-ETHER SEDIMENTATION technique** concentrates parasites when ova are scanty — after centrifugation the tube shows four layers, and the **PARASITIC OVA AND CYSTS ARE IN THE BOTTOM SEDIMENT.** **Formalin fixes and preserves; ether dissolves fat and adsorbs faecal debris, which floats to the top.** It works for **ALL helminth eggs and protozoan cysts.**
 
@@ -825,7 +707,10 @@
 **MUST KNOW:**
 
 - **Saturated salt (brine) flotation is cheap and good for hookworm, *Ascaris* and *Trichuris* eggs but MISSES the heavy operculated eggs — that limitation is the examined point.**
-- **Direct wet mount (saline for motility, IODINE for nuclear detail of cysts) remains the first step**; a **saline mount shows motile trophozoites, which iodine kills.**
+- **The direct wet mount comes first, and the two mounts trade VITALITY for DETAIL. SALINE keeps the organism alive, so you see MOTILITY, and it preserves the BILE-STAIN colour distinction. IODINE kills the organism but stains GLYCOGEN AND NUCLEI, so it is the mount for the INTERNAL STRUCTURE OF CYSTS — and it abolishes both motility and the bile-stain distinction, since everything then looks brown.**
+- **Bile staining is a genuine identification aid: BILE-STAINED (brown/golden) — *Ascaris*, *Trichuris*, hookworm, *Taenia*, *Fasciola*, *Clonorchis*. NON-BILE-STAINED (colourless) — *ENTEROBIUS*, *HYMENOLEPIS* and *SCHISTOSOMA*.**
+- **Cyst identification rests on NUCLEAR NUMBER AND STRUCTURE: *E. histolytica* — up to 4 nuclei with a CENTRAL karyosome and evenly beaded peripheral chromatin, plus chromatoid bars with ROUNDED ends; *E. coli* (commensal) — up to 8 nuclei, ECCENTRIC karyosome, irregular chromatin and splinter-like chromatoid bars; *Giardia* — 4 nuclei. This is exactly why iodine matters.**
+- **Motility patterns worth naming: *E. histolytica* — progressive and directional with finger-like pseudopodia; *Giardia* — “FALLING LEAF”; *Balantidium coli* — rapid rotatory (ciliate); *Trichomonas vaginalis* — jerky and twitching; *Vibrio* — DARTING; *Listeria* — TUMBLING.**
 - **Specific techniques worth carrying: CELLOPHANE TAPE (NIH swab) for *Enterobius* perianal eggs; KATO-KATZ thick smear for quantifying *Schistosoma* and soil-transmitted helminth eggs; BAERMANN technique/agar plate culture for *Strongyloides* larvae; modified acid-fast (Kinyoun) for coccidia; modified trichrome for microsporidia; and NIGHT blood smears for microfilariae.**
 - **Stool for ova and parasites should be examined FRESH (trophozoites die quickly) or preserved in PVA/formalin;** send **three samples on alternate days** because shedding is intermittent.
 - **Antigen detection (ELISA/rapid tests) for *Giardia*, *Cryptosporidium* and *E. histolytica*, and multiplex PCR panels, now outperform microscopy** — but microscopy remains the examined and the field method.
@@ -838,11 +723,9 @@
 ![question](https://cdn1.dailyrounds.org/uploads/30e9e03c2026400fb8bdba9cdaf54eb6.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/25e07a845e4f478cbc40f6dca7bce8bdx1280x1753.PNG)
 
-`Q9377`
-
 ---
 
-### 34. Screening Tests for Urinary Tract Infection
+### 30. Screening Tests for Urinary Tract Infection
 
 **PEARL:** The **immediate/screening tests for UTI are the WET MOUNT (pus cells), the LEUKOCYTE ESTERASE test, the GRIESS NITRITE test and the catalase test.** **QUANTITATIVE CULTURE — the POUR PLATE or standardised loop method — is NOT a screening test: it is the confirmatory gold standard**, since it takes 18–24 hours.
 
@@ -861,11 +744,9 @@
 
 **REMEMBER:** *Esterase finds your pus cells, nitrite finds their metabolism — culture confirms tomorrow.*
 
-`Q9389`
-
 ---
 
-### 35. IgG Avidity and Congenital Infection
+### 31. IgG Avidity and Congenital Infection
 
 **PEARL:** **The IgG AVIDITY assay distinguishes PRIMARY from PAST infection: LOW avidity IgG = primary infection within the last 3–4 months; HIGH avidity IgG = infection acquired long ago.** This matters most in **PREGNANCY**, because it is **PRIMARY maternal infection that carries the high risk of fetal damage**. **IgM alone is unreliable** — it can persist for months to years and is also produced during reactivation.
 
@@ -883,11 +764,9 @@
 
 **REMEMBER:** *Weak binding means new infection — avidity dates the exposure.*
 
-`Q9428`
-
 ---
 
-### 36. The Prozone Phenomenon and the Lattice Hypothesis
+### 32. The Prozone Phenomenon and the Lattice Hypothesis
 
 **PEARL:** In a serial-dilution agglutination test, **NEGATIVE results in the FIRST (most concentrated) tubes that become POSITIVE on further dilution = the PROZONE PHENOMENON — caused by ANTIBODY EXCESS.** **Antigen excess causes the POSTZONE phenomenon.** Both produce **FALSE NEGATIVES**; maximum reaction occurs at the **ZONE OF EQUIVALENCE**.
 
@@ -899,6 +778,7 @@
 - **BRUCELLOSIS: an undulant fever with sweats, arthralgia, hepatosplenomegaly and back pain, from unpasteurised milk or occupational contact (veterinarians, abattoir workers). It is a facultative INTRACELLULAR Gram-negative coccobacillus needing PROLONGED INCUBATION of blood cultures (Castaneda biphasic medium), and the STANDARD AGGLUTINATION TEST is the classical serology (a titre ≥1:160, or a fourfold rise). Treat with DOXYCYCLINE + RIFAMPICIN (or streptomycin/gentamicin) for 6 WEEKS — combination and duration are essential to prevent relapse.** **It is one of the commonest LABORATORY-ACQUIRED infections** — alert the laboratory when you suspect it.
 - **Brucella agglutination is also affected by BLOCKING (incomplete) ANTIBODIES**, another cause of false negatives, detected by the Coombs anti-brucella test.
 - **PUO workup: brucellosis, typhoid, TB, endocarditis, malaria, rickettsial disease, HIV, lymphoma, and connective tissue disease.**
+- **The HEIDELBERGER–KENDALL CURVE is this graphed: the precipitate rises to a peak at equivalence and falls away on either side. Read the DIRECTION OF CHANGE ON DILUTION — negative that becomes POSITIVE on dilution is PROZONE (antibody excess); positive that becomes NEGATIVE on dilution is POST-ZONE (antigen excess), which matters in early infection and at very high antigen loads such as the cryptococcal antigen prozone effect.**
 
 **EXAM CONNECTION:** Negative in low dilutions, positive in higher ones → **antibody excess (prozone)**.
 
@@ -907,80 +787,9 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/943f9958a4f1498088b432ca3e0cb4d7x1280x1481.JPEG)
 
-`Q9440`
-
 ---
 
-### 37. Saline vs Iodine Wet Mount
-
-**PEARL:** The **SALINE wet mount shows MOTILITY OF TROPHOZOITES and distinguishes BILE-STAINED (brown) from NON-BILE-STAINED (colourless) EGGS.** The **IODINE wet mount kills the organisms but stains GLYCOGEN and NUCLEI, so it is superior for identifying the INTERNAL STRUCTURE OF CYSTS.**
-
-**UNDERSTAND:** The two mounts trade **vitality for detail**. Saline is isotonic and preserves the organism alive — so you see the **falling-leaf motility of *Giardia*, the directional motility of *E. histolytica* and the rotatory motility of *Balantidium coli*** — but internal structures stay transparent. **Iodine stains everything brown**, which makes nuclei and glycogen vacuoles visible but simultaneously **destroys motility and abolishes the bile-stain colour distinction**, since bile-stained and non-bile-stained eggs both look brown.
-
-**MUST KNOW:**
-
-- **Bile staining is a genuine identification aid: BILE-STAINED (brown/golden) — *Ascaris*, *Trichuris*, hookworm, *Taenia*, *Fasciola*, *Clonorchis*. NON-BILE-STAINED (colourless) — *ENTEROBIUS*, *HYMENOLEPIS* and *SCHISTOSOMA*.**
-- **Cyst identification depends on NUCLEAR NUMBER AND STRUCTURE: *E. histolytica* — up to 4 nuclei with a CENTRAL karyosome and evenly beaded peripheral chromatin, plus chromatoid bars with ROUNDED ends. *E. coli* (commensal) — up to 8 nuclei, ECCENTRIC karyosome, irregular chromatin, splinter-like chromatoid bars. *Giardia* — 4 nuclei. This is why iodine matters.**
-- **Motility patterns worth naming: *E. histolytica* — progressive, directional, with finger-like pseudopodia; *Giardia* — “FALLING LEAF”; *Balantidium coli* — rapid rotatory (ciliate); *Trichomonas vaginalis* — jerky, twitching; *Vibrio* — DARTING; *Listeria* — TUMBLING.**
-- **Both mounts are the first step in stool parasitology, before concentration (formol-ether) and permanent stains (trichrome, modified acid-fast).**
-
-**EXAM CONNECTION:** Advantages of saline over iodine → **motility of trophozoites** and **bile-stain differentiation**.
-
-**ALSO KNOW:** **IODINE wet mount kills the organisms but STAINS GLYCOGEN AND NUCLEI, which is what confirms CYSTS — pale refractile nuclei, brown glycogen, yellow-gold cytoplasm.**
-
-**REMEMBER:** *Saline keeps them alive and coloured; iodine kills them but shows the nuclei.*
-
-`Q9992`
-
----
-
-### 38. Prozone vs Post-zone
-
-**PEARL:** **Prozone = ANTIBODY excess** — the test is **negative when neat and becomes POSITIVE on dilution**. **Post-zone = ANTIGEN excess** — the test is **positive at first and becomes NEGATIVE on dilution**.
-
-**UNDERSTAND:** Agglutination and precipitation need a **lattice**. That lattice only forms at the **zone of equivalence**. With too much antibody, every antigen site is capped by a separate antibody and no cross-linking occurs; with too much antigen, every antibody is saturated by separate antigens. Either extreme gives a **false negative**.
-
-**MUST KNOW:**
-
-- **The classic prozone false negative is the VDRL in secondary syphilis** (and in HIV co-infection) — enormous antibody titres. **Always ask the laboratory to dilute the serum** if syphilis is strongly suspected but the VDRL is negative.
-- Also seen in **brucella agglutination** tests, and in the **blood bank** (weak reactions from antibody excess).
-- The **Heidelberger–Kendall curve** is the graph of this: precipitate rises to a peak at equivalence, then falls on either side.
-- Post-zone matters in **early infection or very high antigen load** (e.g. cryptococcal antigen prozone effect).
-
-**EXAM CONNECTION:** The vignette gives the direction of change on dilution — **“positive then negative on dilution” = POST-zone; “negative then positive” = PROzone**.
-
-**REMEMBER:** *Prozone = too much antibody (dilute and it appears); post-zone = too much antigen (dilute and it vanishes).*
-
-`Q11346`
-
----
-
-### 39. Indirect Immunofluorescence
-
-**PEARL:** **INDIRECT immunofluorescence is the standard method for detecting circulating AUTOANTIBODIES** (ANA, ANCA, anti-dsDNA) — patient serum is layered on a known antigen substrate, then a **fluorescein-labelled ANTI-HUMAN IMMUNOGLOBULIN** is added to reveal any bound antibody.
-
-**UNDERSTAND:** The “indirect” step is what makes it work for **any** autoantibody. Because the fluorescent label is on a **generic anti-human IgG**, one reagent detects antibodies of every specificity — you only change the substrate (HEp-2 cells for ANA, neutrophils for ANCA, *Crithidia* for anti-dsDNA). It also **amplifies the signal** (several labelled antibodies bind each patient antibody), making it more sensitive than the direct method. **DIRECT immunofluorescence**, by contrast, applies a labelled antibody straight onto a **tissue biopsy** to find **immunoglobulin already deposited there** — which is why it is the test for **pemphigus, pemphigoid and glomerulonephritis**, not for serum.
-
-**MUST KNOW:**
-
-- **ANA patterns on HEp-2 cells: HOMOGENEOUS → SLE and drug-induced lupus (anti-dsDNA, anti-histone); SPECKLED → mixed connective tissue disease/Sjögren (anti-Sm, RNP, Ro/La); NUCLEOLAR → SCLERODERMA (anti-Scl-70); CENTROMERE → LIMITED cutaneous scleroderma/CREST; RIM/peripheral → anti-dsDNA, most specific for SLE.**
-- **ANCA: c-ANCA (cytoplasmic, anti-PR3) → granulomatosis with polyangiitis; p-ANCA (perinuclear, anti-MPO) → microscopic polyangiitis and eosinophilic granulomatosis with polyangiitis.**
-- **Direct IF findings: LINEAR IgG along the basement membrane → BULLOUS PEMPHIGOID and anti-GBM (Goodpasture) disease; INTERCELLULAR “fishnet” IgG → PEMPHIGUS VULGARIS; GRANULAR IgA in dermal papillae → DERMATITIS HERPETIFORMIS; “full house” granular deposits → lupus nephritis.**
-- Other techniques and their uses: **ELISA — quantifies a specific antigen or antibody (HIV, hepatitis serology, hormone assays); FLOW CYTOMETRY — counts and phenotypes CELLS (CD4 count, leukaemia immunophenotyping); FISH — locates DNA SEQUENCES on chromosomes (HER2 amplification, 22q11 deletion); Western blot — protein identification; PCR — nucleic acid amplification.**
-
-**EXAM CONNECTION:** Read whether the target is in **serum (indirect IF, ELISA)** or in **tissue (direct IF)**, and whether it is a **cell (flow cytometry)** or a **gene (FISH)**.
-
-**REMEMBER:** *Indirect finds antibodies floating in serum; direct finds them already stuck in tissue.*
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6fdbee5356f744abb37f074deec0d402x1280x1080.JPEG)
-![explanation](https://cdn1.dailyrounds.org/uploads/2ecba17c26f241c7bf76c518456d5847.PNG)
-
-`Q11047`
-
----
-
-### 40. Egg Inoculation Sites for Virus Culture
+### 33. Egg Inoculation Sites for Virus Culture
 
 **PEARL:** **Influenza vaccine virus is grown in the ALLANTOIC CAVITY** of the embryonated hen’s egg.
 
@@ -1003,11 +812,9 @@
 ![question](https://cdn1.dailyrounds.org/uploads/9963cf252e214be2a8247ff7ed0965a1.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1d7806bf5e5b4fe8a325cfa18450c809x1280x2559.JPEG)
 
-`MA7575`
-
 ---
 
-### 41. Paul–Bunnell Test and the Named Serological Tests
+### 34. Paul–Bunnell Test and the Named Serological Tests
 
 **PEARL:** The **Paul–Bunnell test** is the **heterophile antibody test for infectious mononucleosis (“kissing disease”, EBV)** — it agglutinates **sheep erythrocytes**, titre **≥ 1:100** being significant.
 
@@ -1028,11 +835,9 @@
 ![question](https://cdn1.dailyrounds.org/uploads/56a68cb738154ea98c9e016ee6f77819.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/85b8c3a992cf4e17a36bb4f25411ddc6x720x540.JPEG)
 
-`MA8272, MF0660`
-
 ---
 
-### 42. Microscopy — Matching Method to Organism
+### 35. Microscopy — Matching Method to Organism
 
 **PEARL:** **Dark-field microscopy is the method for demonstrating *Treponema pallidum*** in a chancre or condyloma lata — the organism is **too thin to be seen on Gram stain** and does not take up ordinary dyes.
 
@@ -1056,13 +861,11 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/45e19098c36e4e0ba69bdbc3358cbb5fx559x788.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/05c868c7062945f1b1e6bd668a50e79cx400x300.JPEG)
 
-`ME9924, MA6188, MC1749`
-
 ---
 
 ## Gram-Positive Cocci
 
-### 43. Identifying Streptococci — Bacitracin and Optochin
+### 36. Identifying Streptococci — Bacitracin and Optochin
 
 **PEARL:** **BACITRACIN SENSITIVITY (a zone of inhibition around a 0.04 U disc) identifies GROUP A *STREPTOCOCCUS PYOGENES*.** **Group B *S. agalactiae* is bacitracin RESISTANT but CAMP-test POSITIVE and hippurate-positive.** For alpha-haemolytic organisms: ***S. PNEUMONIAE* is OPTOCHIN-SENSITIVE and BILE-SOLUBLE; VIRIDANS streptococci are optochin-RESISTANT and bile-insoluble.**
 
@@ -1076,6 +879,13 @@
 - **GROUP B *STREPTOCOCCUS* is the leading cause of EARLY-ONSET NEONATAL SEPSIS and meningitis — screen pregnant women at 35–37 weeks and give INTRAPARTUM PENICILLIN.**
 - **Other quick identification tests worth carrying: CATALASE separates staphylococci (+) from streptococci (−); COAGULASE separates *S. aureus* (+) from CoNS (−); NOVOBIOCIN RESISTANCE identifies *S. saprophyticus*; the CAMP test identifies Group B strep and *Listeria*; PYR positivity identifies Group A strep and enterococci; and BILE-AESCULIN with 6.5% NaCl growth identifies ENTEROCOCCUS.**
 - ***S. pyogenes* remains universally PENICILLIN-SENSITIVE** — there is no documented resistance.
+- **The algorithm is chosen by the colony itself: chains of Gram-positive cocci → streptococcus (confirm with a negative catalase), and then the HAEMOLYSIS decides which second test applies. Applying optochin to a β-haemolytic colony is a category error — that is the standing trap.**
+
+| Haemolysis | Organisms | Distinguishing test |
+| --- | --- | --- |
+| **β (complete)** | ***S. pyogenes* (Group A)**, *S. agalactiae* (Group B) | **Bacitracin: A sensitive, B resistant**; **CAMP test and hippurate: B positive**; **PYR: A positive** |
+| **α (partial, green)** | ***S. pneumoniae***, viridans group | **Optochin and bile solubility: pneumococcus sensitive/soluble**; viridans resistant/insoluble |
+| **γ (none)** | *Enterococcus*, Group D | **Bile-aesculin positive; enterococcus grows in 6.5% NaCl** |
 
 **EXAM CONNECTION:** Image of a blood agar plate with a zone around a small disc → **Group A *Streptococcus***.
 
@@ -1084,11 +894,9 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/6b2b4c2213364ff4a8469a2038aacb12.PNG)
 
-`Q9341`
-
 ---
 
-### 44. Streptococcus pneumoniae
+### 37. Streptococcus pneumoniae
 
 **PEARL:** **GRAM-POSITIVE LANCET-SHAPED DIPLOCOCCI in CSF = *STREPTOCOCCUS PNEUMONIAE*, which is CATALASE-NEGATIVE, OPTOCHIN-SENSITIVE, BILE-SOLUBLE, INULIN-FERMENTING and alpha-haemolytic.** **VIRIDANS streptococci are optochin-resistant, bile-insoluble and do not ferment inulin** — the four tests that separate them.
 
@@ -1101,6 +909,8 @@
 - **Vaccines: PCV13/PCV15/PCV20 CONJUGATE (T-cell dependent, immunogenic UNDER 2 YEARS, produces mucosal immunity and herd protection) and PPSV23 POLYSACCHARIDE (T-cell INDEPENDENT, INEFFECTIVE under 2 years, no herd effect). The conjugate is given first, the polysaccharide later.**
 - **Empirical meningitis therapy pairs CEFTRIAXONE with VANCOMYCIN specifically because of penicillin- and cephalosporin-resistant pneumococci (resistance is via ALTERED PENICILLIN-BINDING PROTEINS, not beta-lactamase — so beta-lactamase inhibitors do NOT help).**
 - **Contrast the other CSF Gram stains: GRAM-NEGATIVE DIPLOCOCCI (often intracellular) → *N. meningitidis* (oxidase-positive, ferments GLUCOSE AND MALTOSE but NOT sucrose or lactose; gonococcus ferments GLUCOSE ONLY). GRAM-POSITIVE RODS with tumbling motility → *LISTERIA*. GRAM-NEGATIVE COCCOBACILLI → *H. influenzae*. YEAST WITH A CAPSULE → *Cryptococcus*.**
+- **The DRAUGHTSMAN (carrom-coin) COLONY — central umbonation with concentric rings, developing only on prolonged incubation — is produced by AUTOLYSIN (LytA), an amidase that cleaves peptidoglycan: the older colony centre lyses first and collapses, leaving the raised rim. Bile salts activate the SAME enzyme, which is why pneumococci dissolve in bile and viridans streptococci do not.**
+- **Autolysin also releases PNEUMOLYSIN — a cholesterol-dependent cytolysin responsible for the green α-haemolysis and for tissue injury — together with cell-wall fragments that amplify inflammation. That is precisely why antibiotic-induced lysis worsens inflammation in meningitis, and why DEXAMETHASONE is given BEFORE or WITH the first antibiotic dose.**
 
 **EXAM CONNECTION:** Lancet-shaped Gram-positive diplococci → **catalase-negative, optochin-sensitive**.
 
@@ -1111,12 +921,12 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9a5ff5213e9046e1a5d7d5e97e6e0cabx720x1018.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5d218f20a93145dca8c7437508cf89fex720x604.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c2a0f71ea8d9452b8f003db82701643ex1280x2558.JPEG)
-
-`Q9409`
+![figure](images/Pasted%20image%2020260908011744.png)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/da35c3ce0a084258b7d472a93e409dacx799x599.JPEG)
 
 ---
 
-### 45. Staphylococcus saprophyticus and Interpreting Urine Counts
+### 38. Staphylococcus saprophyticus and Interpreting Urine Counts
 
 **PEARL:** A **NOVOBIOCIN-RESISTANT, COAGULASE-NEGATIVE *Staphylococcus*** grown from a **SYMPTOMATIC young sexually active woman is *S. SAPROPHYTICUS* — a genuine uropathogen. TREAT IT.** In a symptomatic woman, **counts as low as 10^2–10^4 CFU/mL are significant** — the 10^5 (Kass) threshold applies to ASYMPTOMATIC screening, not to symptomatic infection.
 
@@ -1135,14 +945,12 @@
 
 **REMEMBER:** *Symptoms outrank the colony count — and novobiocin resistance names S. saprophyticus.*
 
-`Q10412`
-
 ---
 
-### 46. Erysipelas — St Anthony’s Fire
+### 39. Erysipelas — St Anthony’s Fire
 
 **PEARL:** **ERYSIPELAS (“ST ANTHONY’S FIRE”) is caused by GROUP A BETA-HAEMOLYTIC *STREPTOCOCCUS PYOGENES*** — an acute infection of the **UPPER DERMIS AND SUPERFICIAL LYMPHATICS**, giving a **fiery red, raised, INDURATED plaque with a SHARPLY DEMARCATED, PALPABLE ADVANCING BORDER**, with fever and lymphangitis. **CELLULITIS, by contrast, involves the DEEPER dermis and subcutaneous fat and has an ILL-DEFINED border**, and is more often staphylococcal.
-
+![figure](images/Pasted%20image%2020260908003600.png)
 **UNDERSTAND:** The **sharp, raised edge is a direct anatomical consequence of the level of infection**: erysipelas spreads through the **superficial dermal LYMPHATICS**, which are anatomically confined and produce a well-demarcated, elevated margin with peau d’orange. Cellulitis spreads through **loose subcutaneous tissue**, which offers no such boundary — hence a diffuse, indistinct edge. **The border tells you the depth, and the depth predicts the organism and the drug.**
 
 **MUST KNOW:**
@@ -1157,11 +965,9 @@
 
 **REMEMBER:** *A raised, sharply-edged fiery plaque is streptococcal and superficial — cellulitis has no edge at all.*
 
-`Q11359`
-
 ---
 
-### 47. Bacterial Tracheitis vs Croup
+### 40. Bacterial Tracheitis vs Croup
 
 **PEARL:** A child with a **preceding mild viral URTI who then becomes TOXIC with HIGH FEVER and severe respiratory distress**, whose X-ray shows **SUBGLOTTIC NARROWING with IRREGULAR (“shaggy”) TRACHEAL MARGINS and MEMBRANE-LIKE intraluminal opacities**, has **BACTERIAL TRACHEITIS — usually *STAPHYLOCOCCUS AUREUS***. Viral croup instead gives a **SMOOTH, symmetrical “STEEPLE SIGN”** with low-grade fever and a well-looking child.
 
@@ -1184,63 +990,9 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/Picture2_mz2twvQ.png)
 
-`Q11369`
-
 ---
 
-### 48. Identifying Gram-Positive Cocci in Chains
-
-**PEARL:** **Catalase** separates staphylococci (**positive**) from streptococci (**negative**). Among **β-haemolytic** streptococci, **BACITRACIN sensitivity identifies Group A (S. pyogenes)**; Group B is **bacitracin resistant**. **Optochin sensitivity and bile solubility** separate **pneumococcus (sensitive/soluble)** from **viridans streptococci (resistant/insoluble)** — both **α-haemolytic**.
-
-**UNDERSTAND:** The identification algorithm follows the colony’s own appearance. Chains of Gram-positive cocci → streptococcus (confirm by catalase negativity). Then the **haemolysis pattern chooses which second test applies**: **β-haemolysis (complete, clear)** → bacitracin/Lancefield grouping; **α-haemolysis (green, partial)** → optochin/bile solubility. Applying optochin to a β-haemolytic colony is a category error — which is exactly the trap in this question.
-
-**MUST KNOW:**
-
-| Haemolysis | Organisms | Distinguishing test |
-| --- | --- | --- |
-| **β (complete)** | **S. pyogenes (Group A)**, S. agalactiae (Group B) | **Bacitracin: A sensitive, B resistant**; **CAMP test and hippurate: B positive**; **PYR: A positive** |
-| **α (partial, green)** | **S. pneumoniae**, viridans group | **Optochin and bile solubility: pneumococcus sensitive/soluble**; viridans resistant/insoluble |
-| **γ (none)** | Enterococcus, Group D | **Bile-esculin positive; enterococcus grows in 6.5% NaCl** |
-
-- **S. pyogenes:** pharyngitis, impetigo, erysipelas, cellulitis, scarlet fever, necrotising fasciitis, toxic shock. **Non-suppurative sequelae — rheumatic fever (follows PHARYNGITIS only) and post-streptococcal glomerulonephritis (follows skin OR throat infection)**. **ASO titre** rises after pharyngitis but poorly after skin infection — use **anti-DNase B** for pyoderma.
-- **S. agalactiae (Group B):** neonatal sepsis and meningitis — screen pregnant women at **35–37 weeks** and give **intrapartum penicillin**.
-- **S. pneumoniae:** lancet-shaped diplococci, **capsule is the main virulence factor** (quellung reaction), commonest cause of community-acquired pneumonia, otitis media and adult meningitis; overwhelming sepsis in **asplenia/sickle cell** → vaccinate.
-- **Staph. aureus:** catalase **positive**, **coagulase positive**, golden colonies, **mannitol fermenting** on MSA, **DNase positive**.
-
-**EXAM CONNECTION:** Read the haemolysis and morphology first — they select the test. Chains + β-haemolysis → **bacitracin**.
-
-**REMEMBER:** *Catalase splits staph from strep; bacitracin splits A from B; optochin splits pneumococcus from viridans.*
-
-`Q10937`
-
----
-
-### 49. Draughtsman Colonies and Pneumococcal Autolysin
-
-**PEARL:** The **draughtsman (carrom-coin) colony** of *Streptococcus pneumoniae* — central umbonation with concentric rings — is produced by **AUTOLYSIN**, which also causes **bile solubility**.
-
-**UNDERSTAND:** Autolysin is an **amidase that cleaves peptidoglycan**. Older colonies at the centre lyse first, collapsing the middle and leaving the raised rim — hence the draughtsman appearance develops only **on prolonged incubation**. **Bile salts activate the same enzyme**, which is why pneumococci dissolve in bile while viridans streptococci do not.
-
-**MUST KNOW:**
-
-- Pneumococcal identification: **α-haemolytic**, **optochin-sensitive**, **bile-soluble**, **capsulated (Quellung/capsule swelling reaction)**, **lancet-shaped Gram-positive diplococci**. Viridans streptococci are optochin-resistant and bile-insoluble.
-- **Autolysin also releases pneumolysin and cell wall fragments**, amplifying inflammation — which is why **antibiotic-induced lysis worsens inflammation in meningitis** and why **dexamethasone is given before or with the first antibiotic dose**.
-- **Pneumolysin** is a cholesterol-dependent cytolysin causing the α-haemolysis (green) and tissue injury.
-- **Capsule is the principal virulence factor**; > 90 serotypes; vaccines are **PCV13/PCV15/PCV20 conjugate** and **PPSV23 polysaccharide**.
-- Commonest cause of **community-acquired pneumonia, adult bacterial meningitis, otitis media and sinusitis**.
-
-**EXAM CONNECTION:** Straight cause-and-effect — the colony morphology maps to **autolysin**, not to the capsule or pneumolysin.
-
-**REMEMBER:** *The enzyme that eats the colony’s centre also dissolves it in bile.*
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/da35c3ce0a084258b7d472a93e409dacx799x599.JPEG)
-
-`MA1591`
-
----
-
-### 50. Viridans Streptococci — Who Does What
+### 41. Viridans Streptococci — Who Does What
 
 **PEARL:** **Streptococcus mutans causes dental caries** by converting dietary **sucrose into acid and adhesive dextran (glucan)**.
 
@@ -1260,11 +1012,9 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/12c3101f29ff47efbe955cbbef471d4f.JPEG)
 
-`MA1570, MA1587, MA1572`
-
 ---
 
-### 51. Streptococcal Antigens That Cross-React with Human Tissue
+### 42. Streptococcal Antigens That Cross-React with Human Tissue
 
 **PEARL:** **M protein cross-reacts with MYOCARDIUM** (acute rheumatic fever). **Group-specific C carbohydrate cross-reacts with cardiac VALVES.**
 
@@ -1286,11 +1036,9 @@
 ![question](https://cdn1.dailyrounds.org/uploads/71859d98b67d48c5896c4fdae954cba4.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/09b6f26a9b354667b0bc8ab1ef856e40x750x600.JPEG)
 
-`MA1560, MA1556, MC1746`
-
 ---
 
-### 52. Staphylococcus aureus — Colony Characteristics
+### 43. Staphylococcus aureus — Colony Characteristics
 
 **PEARL:** *S. aureus* pigment (**staphyloxanthin**, a **carotenoid**) is produced **optimally at 22 °C aerobically**, not at 35–37 °C. On a nutrient agar slope, confluent growth gives the **“oil-paint appearance.”**
 
@@ -1312,13 +1060,11 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/a61acd2d11344deeb352dd8478d17ec1.JPEG)
 
-`MA1501, MA1545, MD0633`
-
 ---
 
 ## Gram-Positive Bacilli and Anaerobes
 
-### 53. Botulinum Toxin and the Neurotoxin Mechanisms
+### 44. Botulinum Toxin and the Neurotoxin Mechanisms
 
 **PEARL:** **BOTULINUM TOXIN cleaves SNARE PROTEINS (SNAP-25, synaptobrevin, syntaxin) at the PRESYNAPTIC terminal, BLOCKING ACETYLCHOLINE RELEASE → FLACCID paralysis.** **TETANUS toxin (tetanospasmin) also cleaves synaptobrevin — but at the INHIBITORY RENSHAW interneurons, blocking GLYCINE and GABA → SPASTIC paralysis.**
 
@@ -1339,11 +1085,9 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/cc7e91efa2fb4b08a31fa9ace2fc4517.JPEG)
 
-`Q9351`
-
 ---
 
-### 54. Anaerobes
+### 45. Anaerobes
 
 **PEARL:** ***PREVOTELLA* is a STRICT (obligate) ANAEROBE*** — a Gram-negative rod/coccobacillus. ***Burkholderia cepacia* and *Stenotrophomonas maltophilia* are AEROBES; *Yersinia enterocolitica* is a FACULTATIVE anaerobe.**
 
@@ -1361,11 +1105,9 @@
 
 **REMEMBER:** *No catalase, no superoxide dismutase — so they live only where oxygen cannot reach.*
 
-`Q9408`
-
 ---
 
-### 55. Clostridioides difficile
+### 46. Clostridioides difficile
 
 **PEARL:** **CDI is TOXIN-MEDIATED (toxin A enterotoxin, toxin B cytotoxin), follows antibiotic disruption of the colonic flora, and produces a PSEUDOMEMBRANE of LEUKOCYTES, FIBRIN, MUCIN and CELLULAR DEBRIS. DIAGNOSIS IS NEVER BY IgM SEROLOGY** — it is by **detecting TOXIN (EIA) and/or the organism (GDH antigen, or NAAT/PCR for the toxin gene) in a DIARRHOEAL STOOL**, interpreted with the clinical picture.
 
@@ -1387,15 +1129,13 @@
 
 **REMEMBER:** *Test the stool, not the serum — and only if it is liquid and the patient is ill.*
 
-`Q9430`
-
 ---
 
-### 56. Listeria monocytogenes
+### 47. Listeria monocytogenes
 
 **PEARL:** ***LISTERIA MONOCYTOGENES* spreads DIRECTLY FROM CELL TO CELL using HOST ACTIN POLYMERISATION (the ActA protein), never entering the extracellular space** — so it evades antibody entirely. It is a **GRAM-POSITIVE BACILLUS with TUMBLING MOTILITY at 20–25 °C but NON-MOTILE at 37 °C** (differential/temperature-dependent motility), and it **GROWS AT 4 °C — “COLD ENRICHMENT”.**
 
-**UNDERSTAND: **The whole pathogenesis is a sequence:** internalins A/B bind E-CADHERIN to force uptake → LISTERIOLYSIN O lyses the phagosome, releasing the organism into the cytosol → ActA nucleates actin into a “comet tail” that rockets the bacterium into the neighbouring cell.** Because it **never becomes extracellular, humoral immunity is useless and CELL-MEDIATED (T-cell) immunity is essential** — which precisely predicts who gets sick: **neonates, the elderly, pregnant women, and patients on steroids or with T-cell defects.**
+**UNDERSTAND:** The whole pathogenesis is a sequence:** internalins A/B bind E-CADHERIN to force uptake → LISTERIOLYSIN O lyses the phagosome, releasing the organism into the cytosol → ActA nucleates actin into a “comet tail” that rockets the bacterium into the neighbouring cell.** Because it **never becomes extracellular, humoral immunity is useless and CELL-MEDIATED (T-cell) immunity is essential** — which precisely predicts who gets sick: **neonates, the elderly, pregnant women, and patients on steroids or with T-cell defects.**
 
 **MUST KNOW:**
 
@@ -1413,13 +1153,11 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4264a8dace0043789498c544ca6def6ex720x734.GIF)
 
-`Q9444, Q9446`
-
 ---
 
-### 57. Diphtheria Toxin
+### 48. Corynebacterium diphtheriae — Morphology and Toxin
 
-**PEARL:** **Diphtheria toxin is an A–B exotoxin whose A subunit ADP-RIBOSYLATES ELONGATION FACTOR 2 (EF-2)**, halting protein synthesis and killing the cell. **Pseudomonas exotoxin A acts identically.**
+**PEARL:** ***CORYNEBACTERIUM DIPHTHERIAE* (Klebs–Löffler bacillus) is a Gram-positive CLUB-SHAPED bacillus in CHINESE-LETTER/CUNEIFORM arrangement, with METACHROMATIC (BABES–ERNST/polymetaphosphate) GRANULES shown by ALBERT’S STAIN — GREEN bacilli with BLUISH-PURPLE granules.** **Diphtheria toxin is an A–B exotoxin whose A subunit ADP-RIBOSYLATES ELONGATION FACTOR 2 (EF-2)**, halting protein synthesis and killing the cell. **Pseudomonas exotoxin A acts identically.**
 
 **UNDERSTAND:** EF-2 is required for **translocation of the ribosome along the mRNA** at every cycle of elongation. Modifying it stops **all** protein synthesis in the cell — which is why the toxin is lethal at extraordinarily low doses (a single molecule can kill a cell) and why the damage is **not confined to the throat**: circulating toxin reaches the heart, kidneys, nerves and adrenals.
 
@@ -1429,7 +1167,8 @@
 - Clinical: sore throat with a **greyish adherent PSEUDOMEMBRANE that BLEEDS on removal**, **“BULL NECK”** cervical lymphadenitis, and airway obstruction. Toxic complications — **MYOCARDITIS (the commonest cause of death, at 1–2 weeks)** and **palatal and ciliary PARALYSIS/polyneuritis (3–7 weeks)**, plus tubular necrosis.
 - **Treatment: ANTITOXIN FIRST — it neutralises only circulating (unbound) toxin, so it must not be delayed for laboratory confirmation** — plus penicillin or erythromycin to stop toxin production and transmission, isolation, and airway care.
 - **Diagnosis: Albert’s/Neisser’s stain shows METACHROMATIC (volutin) GRANULES and Chinese-letter arrangement**; culture on **Loeffler’s serum slope** (enrichment) and **potassium tellurite/McLeod’s medium (black colonies)**; toxigenicity by the **ELEK gel precipitation test** or PCR for tox.
-- **Prevention is by TOXOID (DPT/Td)**, which produces antitoxic — not antibacterial — immunity; the **Schick test** (historical) measured susceptibility.
+- **Prevention is by TOXOID (DPT/Td)**, which produces antitoxic — not antibacterial — immunity; the **Schick test** (historical) measured susceptibility. **RECOVERY DOES NOT GUARANTEE IMMUNITY — vaccinate during convalescence**, and give contacts antibiotic prophylaxis plus a booster.
+- **Media in one line: LÖFFLER’S SERUM SLOPE for rapid growth and the best granule development; POTASSIUM TELLURITE / blood tellurite agar as the selective medium (black colonies — gravis, intermedius and mitis biotypes).**
 
 **EXAM CONNECTION:** A mechanism diagram showing **EF-2 being inactivated**. Diphtheria and Pseudomonas exotoxin A are the two answers.
 
@@ -1440,52 +1179,13 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/46a83737e0f94fa5a3bc9152efe1d443x1280x1204.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c318390bddb84dda9631fb37a8d98f3dx1279x1939.JPEG)
 
-`Q11045`
-
----
-
-### 58. Listeria — Actin Comet Tails
-
-**PEARL:** *Listeria monocytogenes* moves **within and between cells by polymerizing host actin filaments**, forming **“comet tails”** that propel it — allowing **cell-to-cell spread without ever entering the extracellular space** (so it escapes antibody).
-
-**MUST KNOW:**
-
-- Gram-positive rod with **tumbling motility at 22–25°C** and **cold enrichment** (grows at 4°C) — from unpasteurized dairy, soft cheese, cold meats.
-- Affects **neonates, pregnant women, the elderly and the immunocompromised** — causing **meningitis** with a characteristic **CSF monocytosis**.
-- **Treatment: ampicillin (+ gentamicin)** — it is **intrinsically resistant to cephalosporins**, which is why ampicillin is added to empirical meningitis regimens at the extremes of age.
-- *Shigella* and *Rickettsia* use the same actin-tail trick.
-
-**REMEMBER:** *Actin comet tail = travels cell to cell; cephalosporins never work — use ampicillin.*
-
 ---
 
 ---
 
 ## Gram-Negative Cocci and Bacilli
 
-### 59. Burkholderia cepacia
-
-**PEARL:** ***Burkholderia cepacia* complex is INTRINSICALLY RESISTANT to AMINOGLYCOSIDES, POLYMYXINS/COLISTIN, FIRST- and SECOND-GENERATION CEPHALOSPORINS (including CEFOTETAN) and carboxypenicillins.** Effective agents are **COTRIMOXAZOLE (the drug of choice), MEROPENEM, CEFTAZIDIME, PIPERACILLIN and TEMOCILLIN.**
-
-**UNDERSTAND:** Its resistance is **structural, not acquired** — a combination of **efflux pumps, altered outer-membrane permeability, and inducible beta-lactamases**. Because polymyxin resistance is intrinsic, it even **grows in disinfectant and antiseptic solutions**, which is exactly why it causes **outbreaks from contaminated chlorhexidine, mouthwash, saline flushes, ultrasound gel and nebuliser solutions** — a recurring source of nosocomial pseudo-outbreaks.
-
-**MUST KNOW:**
-
-- **In CYSTIC FIBROSIS it is feared out of proportion to its frequency: it causes “CEPACIA SYNDROME” — rapidly progressive necrotising pneumonia with bacteraemia and a high mortality — and it is TRANSMISSIBLE PATIENT-TO-PATIENT, so CF patients colonised with it are strictly segregated and it is a RELATIVE CONTRAINDICATION TO LUNG TRANSPLANTATION.**
-- **It causes severe pneumonia in CHRONIC GRANULOMATOUS DISEASE** — because it is **CATALASE-POSITIVE**, and CGD phagocytes cannot kill catalase-positive organisms.
-- **The CF airway pathogen sequence by age: *S. AUREUS* and *H. influenzae* in early childhood → *PSEUDOMONAS AERUGINOSA* (mucoid, biofilm-forming, the dominant lifelong pathogen) → *Burkholderia cepacia* complex, non-tuberculous mycobacteria and *Aspergillus* (ABPA) later.**
-- **Distinguish the other *Burkholderia*: *B. PSEUDOMALLEI* causes MELIOIDOSIS (“the great mimicker”) — from soil and surface water in Southeast Asia and northern Australia, in DIABETICS, causing pneumonia and abscesses in liver, spleen and prostate with a “SAFETY-PIN” bipolar staining appearance; treated with CEFTAZIDIME or MEROPENEM intensively, then prolonged COTRIMOXAZOLE eradication therapy. *B. MALLEI* causes GLANDERS (horses).**
-- ***Pseudomonas aeruginosa*: oxidase-positive, non-lactose-fermenting, PYOCYANIN (blue-green) and pyoverdine pigments, a GRAPE-LIKE/sweet odour, thriving in moist environments; causes burn wound infection, hot-tub folliculitis, malignant otitis externa in diabetics, VAP and ECTHYMA GANGRENOSUM in neutropenia.**
-
-**EXAM CONNECTION:** “Resistant to” → **cefotetan** (a second-generation cephamycin).
-
-**REMEMBER:** *It grows in the disinfectant, ignores colistin and aminoglycosides, and cotrimoxazole is the answer.*
-
-`Q9380`
-
----
-
-### 60. Haemophilus influenzae and Satellitism
+### 49. Haemophilus influenzae and Satellitism
 
 **PEARL:** A **pleomorphic GRAM-NEGATIVE BACILLUS** grown from the CSF of a child with pyogenic meningitis is ***HAEMOPHILUS INFLUENZAE***. It needs **FACTOR X (HAEMIN, heat-STABLE) and FACTOR V (NAD, heat-LABILE)** — so it grows on **CHOCOLATE agar but NOT on plain blood agar**, and shows **SATELLITISM: larger colonies close to a streak of *S. AUREUS***, whose haemolysis releases factor V from the red cells.
 
@@ -1508,11 +1208,9 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/679ecf5c85e1411db194e479ed6f3df6x348x324.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/058873d713c04ae7a0ab4e4bc4392986x510x453.GIF)
 
-`Q9437`
-
 ---
 
-### 61. Neisseria meningitidis — Capsule and LOS
+### 50. The Two Neisseriae — Capsule, LOS and Maltose
 
 **PEARL:** ***N. MENINGITIDIS* has a POLYSACCHARIDE CAPSULE (the basis of serogrouping A, B, C, W, X, Y) and LIPOOLIGOSACCHARIDE (LOS) — LPS WITHOUT the long O-antigen side chain.*** The **capsule is what distinguishes it from *N. gonorrhoeae***, which is uncapsulated. LOS also occurs in ***N. gonorrhoeae* and *H. ducreyi*.**
 
@@ -1526,6 +1224,8 @@
 - **CHEMOPROPHYLAXIS of close contacts: CIPROFLOXACIN (single dose), RIFAMPICIN or CEFTRIAXONE — treatment of the index case with penicillin does NOT eradicate carriage, so the patient too needs clearance therapy unless treated with ceftriaxone.**
 - **Vaccines: quadrivalent CONJUGATE A, C, W, Y (used for the Hajj and outbreaks) — but SEROGROUP B needs a separate PROTEIN-BASED vaccine, because its capsule mimics human neural cell adhesion molecule (polysialic acid) and is therefore poorly immunogenic. That immunological mimicry is a favourite exam point.**
 - **TERMINAL COMPLEMENT (C5–C9) and properdin DEFICIENCY, and ECULIZUMAB therapy, predispose to recurrent meningococcal disease — vaccinate these patients.**
+- **Morphology and habit separate them as reliably as biochemistry: MENINGOCOCCUS is CAPSULATED, LENS/half-moon shaped, found both INTRA- and EXTRAcellularly, spread by respiratory droplets, and vaccine-preventable. GONOCOCCUS is NON-CAPSULATED, KIDNEY-BEAN shaped, predominantly INTRACELLULAR within neutrophils, sexually and perinatally transmitted, has NO vaccine (pilin antigenic variation) and carries resistance PLASMIDS.**
+- **Neither organism reduces nitrate, so MALTOSE is the single cheap discriminator — “MeninGitis: Maltose and Glucose.” Both grow on CHOCOLATE AGAR and THAYER–MARTIN (VCN) in 5–10% CO₂.**
 
 **EXAM CONNECTION:** Cell-wall diagram with a capsule plus LOS → ***N. meningitidis***.
 
@@ -1535,12 +1235,22 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/4fec6766e7f049818bf67ed1df4549c5.PNG)
-
-`Q9439`
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/48d2ba254fc0410f925d202060935357x1280x769.JPEG)
+![question](https://cdn1.dailyrounds.org/uploads/e69ec681aaa64f33b5c0ebc4b28e826d.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8ba0cafb8f724e8caf99ab7778d022acx630x761.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4aaa8224b2e7443e94743e1015a44778x560x358.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/875f994ab0a44d3a8d26f376c6b54874x597x313.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/03d21e32213a42c9ab3487da627b053ex336x288.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6faad0dd79004ce4898a0d4ec94391e9x495x711.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/be01c14fe5b34f6fb923eca0f40d42cex253x357.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f4fd185c143045fe944bb99f1299a4bbx379x412.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1167210a9cd6434a905a98bc64668d41x1280x2612.PNG)
+![question](https://cdn1.dailyrounds.org/uploads/18d812e3f73748129e5bd6360116b53c.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ff3f9c5ab3b844eca341bdbc09fd4bc8x720x705.JPEG)
 
 ---
 
-### 62. Plague
+### 51. Plague
 
 **PEARL:** ***YERSINIA PESTIS*** — a Gram-negative bacillus with **BIPOLAR “SAFETY-PIN” staining** — is maintained in **WILD RODENTS AND THEIR FLEAS (*Xenopsylla cheopis*)** and transmitted to humans by the **FLEA BITE**. **BUBONIC plague (a painful, matted, inflamed lymph node = BUBO) is the COMMONEST form and may progress to PNEUMONIC plague, which is the most virulent and the ONLY form spread PERSON-TO-PERSON by droplets.** **SEPTICAEMIC plague CAN be acquired directly** (by direct inoculation or transfusion), not only by progression.
 
@@ -1562,11 +1272,9 @@
 **IMAGES:**
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/08199ba04450e8aafd18da53148aee33.webp)
 
-`Q10045`
-
 ---
 
-### 63. Brucella Species and Their Reservoirs
+### 52. Brucella Species and Their Reservoirs
 
 **PEARL:** **B. melitensis — GOATS and sheep** (the most virulent and commonest human pathogen); **B. abortus — cattle; B. suis — pigs; B. canis — dogs.**
 
@@ -1584,48 +1292,9 @@
 
 **REMEMBER:** *MELitensis for goats and MILk — the meanest of them all.*
 
-`Q9567`
-
 ---
 
-### 64. Meningococcus vs Gonococcus
-
-**PEARL:** **Meningococcus ferments glucose AND maltose; gonococcus ferments glucose ONLY.** Maltose is the discriminator.
-
-**UNDERSTAND:** Both are **oxidase-positive Gram-negative diplococci** with identical morphology on Gram stain, so identification must be **biochemical**. Neither reduces nitrate (only *N. mucosa* does). The maltose reaction is therefore the single reliable, cheap differentiator — the basis of the classic **“MG-G”** rule.
-
-**MUST KNOW:**
-
-- **Meningococcus:** **capsulated**, **lens/half-moon** shaped, found **intra- AND extracellularly**, spread by **respiratory droplets**, **vaccine available** (polysaccharide/conjugate for A, C, W, Y; **protein-based for group B** since its capsule mimics human neural NCAM).
-- **Gonococcus:** **non-capsulated**, **kidney-bean** shaped, **predominantly intracellular within neutrophils**, **sexually/perinatally transmitted**, **no vaccine** (pilin antigenic variation), carries **plasmids coding drug resistance**.
-- Gonorrhoea treatment (CDC 2021): **ceftriaxone 500 mg IM single dose**; oral **cefixime 800 mg stat** where injectable is unavailable. Treat presumptively for **chlamydia with doxycycline** unless excluded.
-- Gram stain of urethral discharge showing **intracellular Gram-negative diplococci** is diagnostic in **symptomatic men** (sensitivity > 95%), but not in women or at extragenital sites — use **NAAT**.
-- **Neisseria have LOS (lipo-oligosaccharide), not LPS** — no repeating O antigen.
-- **Terminal complement (C5–C9) deficiency → recurrent Neisseria infection.**
-
-**EXAM CONNECTION:** Both organisms are oxidase-positive and ferment glucose — options A and B are deliberately shared. Only **maltose** separates them.
-
-**REMEMBER:** *Meningococcus Gets Maltose; Gonococcus Gets Glucose only.*
-
-**IMAGES:**
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/48d2ba254fc0410f925d202060935357x1280x769.JPEG)
-![question](https://cdn1.dailyrounds.org/uploads/e69ec681aaa64f33b5c0ebc4b28e826d.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8ba0cafb8f724e8caf99ab7778d022acx630x761.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4aaa8224b2e7443e94743e1015a44778x560x358.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/875f994ab0a44d3a8d26f376c6b54874x597x313.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/03d21e32213a42c9ab3487da627b053ex336x288.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6faad0dd79004ce4898a0d4ec94391e9x495x711.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/be01c14fe5b34f6fb923eca0f40d42cex253x357.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f4fd185c143045fe944bb99f1299a4bbx379x412.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1167210a9cd6434a905a98bc64668d41x1280x2612.PNG)
-![question](https://cdn1.dailyrounds.org/uploads/18d812e3f73748129e5bd6360116b53c.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ff3f9c5ab3b844eca341bdbc09fd4bc8x720x705.JPEG)
-
-`MA1622, MG7084, MD6628, MD6640`
-
----
-
-### 65. Pertussis
+### 53. Pertussis
 
 **PEARL:** **Paroxysmal cough with an inspiratory whoop and post-tussive vomiting in an unimmunised child = pertussis** → treat with a **MACROLIDE (azithromycin, clarithromycin or erythromycin)**.
 
@@ -1644,13 +1313,11 @@
 
 **REMEMBER:** *Antibiotics clear the carriage, not the cough.*
 
-`MA2816`
-
 ---
 
 ## Enteric and Diarrhoeal Pathogens
 
-### 66. Cholera — Two Toxins, One Diarrhoea
+### 54. Cholera — Two Toxins, One Diarrhoea
 
 **PEARL:** **CHOLERA TOXIN has 1 A + 5 B subunits: B binds the GM1 GANGLIOSIDE on jejunal enterocytes, and A1 permanently ADP-RIBOSYLATES Gs → CONTINUOUS ADENYLATE CYCLASE ACTIVITY → ↑cAMP → massive chloride and water secretion.** *V. cholerae* additionally makes **ZONULA OCCLUDENS TOXIN (ZOT), which DISASSEMBLES TIGHT JUNCTIONS** and increases paracellular permeability.
 
@@ -1663,6 +1330,8 @@
 - **“RICE-WATER” STOOL with flecks of mucus and a fishy odour, with no fever and no tenesmus.**
 - **Other cAMP-raising toxins share the mechanism: ETEC HEAT-LABILE toxin (LT) and PERTUSSIS toxin (which ADP-ribosylates Gi instead). ETEC’s HEAT-STABLE toxin (ST) works differently — it activates GUANYLYL CYCLASE and raises cGMP.**
 - **Prevention: safe water and sanitation, plus ORAL KILLED WHOLE-CELL VACCINES (Shanchol, Dukoral) for outbreak control.**
+- **The paracellular leak has a second mechanism alongside ZOT: *V. cholerae* HA/PROTEASE cleaves the extracellular domain of OCCLUDIN. Together they open the space between the cells while cholera toxin floods the cell itself through CFTR — which is how stool volumes reach 20 litres a day.**
+- **The tight junction is built from OCCLUDIN, the CLAUDINS, JAMs and the intracellular ZO-1/2/3, sealing the apical margins of intestinal, renal tubular, choroid plexus and blood–brain barrier epithelium. The junction map is examined as a set: ZONULA OCCLUDENS (tight) — seals; ZONULA ADHERENS — CADHERINS and catenins; MACULA ADHERENS (desmosome) — DESMOGLEIN/desmocollin (the pemphigus target); HEMIDESMOSOME — INTEGRINS with BP180/BP230 (the pemphigoid target); GAP JUNCTION — CONNEXINS.**
 
 **EXAM CONNECTION:** “Disruption of what causes the watery diarrhoea” → **zonula occludens** (tight junctions).
 
@@ -1671,11 +1340,9 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6ea04de118f64753a4f1880a6ca9b4ecx1280x1516.JPEG)
 
-`Q9369`
-
 ---
 
-### 67. The Diarrhoeagenic *E. coli* Pathotypes
+### 55. The Diarrhoeagenic *E. coli* Pathotypes
 
 **PEARL:** **ETEC — heat-LABILE toxin ↑cAMP and heat-STABLE toxin ↑cGMP (via GUANYLYL CYCLASE); traveller’s diarrhoea. EIEC — INVADES mucosal cells, a Shigella-like dysentery. EHEC — SHIGA-LIKE (VERO) TOXIN acting on VASCULAR ENDOTHELIUM; bloody diarrhoea and HUS. EPEC — ADHERES and causes EFFACEMENT OF MICROVILLI (attaching-and-effacing lesion); infantile diarrhoea.**
 
@@ -1694,33 +1361,9 @@
 
 **REMEMBER:** *Toxin = watery, invasion = bloody, endothelial toxin = HUS, adherence = effacement.*
 
-`Q9372, Q9378, Q9400`
-
 ---
 
-### 68. Vibrio cholerae Toxins and Tight Junctions
-
-**PEARL:** *Vibrio cholerae* **HA/protease cleaves the extracellular domain of OCCLUDIN**, and **zonula occludens toxin (ZOT)** loosens the tight junctions — both add a **paracellular leak** to the massive transcellular secretion driven by cholera toxin.
-
-**UNDERSTAND:** Cholera empties the gut by two complementary routes. **Cholera toxin (the main one)** — an **AB₅ toxin whose A subunit ADP-ribosylates the Gs alpha subunit**, locking adenylyl cyclase on → **persistently high cAMP → CFTR-mediated chloride and water secretion**. That is the transcellular flood. **ZOT and the HA/protease** attack the **zonula occludens (tight junction) proteins — occludin and the claudins** — opening the paracellular route as well. Together they produce the **rice-water stool** of up to 20 litres a day.
-
-**MUST KNOW:**
-
-- **Tight junction proteins: OCCLUDIN, CLAUDINS, JAMs, and the intracellular ZO-1/2/3.** They seal the **apical margins** of intestinal, renal tubular, choroid plexus and endothelial (**blood–brain barrier**) epithelium.
-- **Cell junction map:** **zonula occludens (tight) — seals; zonula adherens — CADHERINS and catenins; macula adherens (desmosome) — DESMOGLEIN/desmocollin (target in pemphigus); hemidesmosome — INTEGRINS and BP180/BP230 (target in pemphigoid); gap junction — CONNEXINS**.
-- ***V. cholerae*: comma-shaped, Gram-negative, oxidase POSITIVE, DARTING (shooting-star) motility on hanging drop, alkaline peptone water for enrichment, TCBS agar (yellow, sucrose-fermenting) for culture.** **O1 (classical and El Tor biotypes; Ogawa/Inaba/Hikojima serotypes) and O139** cause epidemics.
-- **Treatment: ORAL REHYDRATION SOLUTION is the mainstay** — its success rests on the **sodium–glucose cotransporter (SGLT1), which is unaffected by cholera toxin**, so glucose drags sodium and water back in. Severe cases need **IV Ringer’s lactate**. **Doxycycline (or azithromycin in children and pregnancy)** shortens the illness and the shedding.
-- **Other AB₅/ADP-ribosylating toxins:** **pertussis toxin — ADP-ribosylates Gi (disinhibiting adenylyl cyclase)**; **diphtheria and Pseudomonas exotoxin A — ADP-ribosylate eEF-2**; **E. coli LT — identical to cholera toxin**; **shiga toxin — inactivates 60S ribosome**.
-
-**EXAM CONNECTION:** The question names the **junction protein**. **Tight junction → occludin/claudin**; adherens → cadherin; hemidesmosome → integrin. Cholera attacks the **tight** junction.
-
-**REMEMBER:** *Cholera opens both the door (CFTR) and the gaps between the doors (occludin).*
-
-`Q11002`
-
----
-
-### 69. Food Poisoning by Incubation Period
+### 56. Food Poisoning by Incubation Period
 
 **PEARL:** Symptoms within **1–6 hours = preformed toxin — Staphylococcus aureus** (or **Bacillus cereus** emetic type). A **food handler carrier** points to **S. aureus**, since *B. cereus* has no human carrier state.
 
@@ -1738,11 +1381,9 @@
 
 **REMEMBER:** *Fast and vomiting means the toxin came ready-made.*
 
-`MC5087`
-
 ---
 
-### 70. Cholera Vaccine (Dukoral)
+### 57. Cholera Vaccine (Dukoral)
 
 **PEARL:** **Dukoral** targets ***Vibrio cholerae* O1** and induces **intestinal (mucosal) immunity**, preventing colonization and neutralizing cholera toxin.
 
@@ -1756,7 +1397,7 @@
 
 ## Mycobacteria
 
-### 71. Mycobacterium indicus pranii (Mw Vaccine)
+### 58. Mycobacterium indicus pranii (Mw Vaccine)
 
 **PEARL:** The **Mw vaccine is derived from *MYCOBACTERIUM INDICUS PRANII*** — a non-pathogenic, cultivable, rapidly growing atypical mycobacterium. It is used as **IMMUNOTHERAPY, given as an ADJUNCT to chemotherapy in CATEGORY II TUBERCULOSIS and in MULTIBACILLARY LEPROSY**, and is given **INTRADERMALLY, 0.1 mL split between both arms**, with boosters into one arm.
 
@@ -1775,11 +1416,9 @@
 
 **REMEMBER:** *Indicus for India, pranii for Pran and the NII — an immunomodulator, not an antibiotic.*
 
-`Q9361`
-
 ---
 
-### 72. Molecular and Immunological Tests for Tuberculosis
+### 59. Tuberculosis — Molecular Diagnosis and the Genetics of Drug Resistance
 
 **PEARL:** **GeneXpert (Xpert MTB/RIF) detects mutations in the *rpoB* gene → RIFAMPICIN resistance.** ***katG* and *inhA* mutations → ISONIAZID resistance; *pncA* → PYRAZINAMIDE; *embB* → ETHAMBUTOL; *gyrA* → FLUOROQUINOLONES; *rrs* → aminoglycosides.** **The INTERFERON-GAMMA RELEASE ASSAY (IGRA) is the TB test performed on WHOLE BLOOD** — GeneXpert and TrueNat both use sputum.
 
@@ -1793,16 +1432,21 @@
 - **CBNAAT/Xpert is far more sensitive than smear microscopy and is the recommended INITIAL test in India for presumptive TB, in children, in HIV, and for extrapulmonary specimens.**
 - **LINE PROBE ASSAY (LPA) detects both rifampicin and isoniazid resistance and second-line resistance; CULTURE with phenotypic drug susceptibility testing remains the reference standard (Lowenstein–Jensen 6–8 weeks; liquid MGIT ~2 weeks).**
 - **Mantoux/tuberculin: 5 TU intradermally, read INDURATION (not erythema) at 48–72 hours; cut-offs vary by risk group (≥5 mm in HIV/contacts, ≥10 mm in most, ≥15 mm in low-risk).**
+- **Resistance always arises at the drug’s own target OR at the enzyme that ACTIVATES it. ISONIAZID is a PRODRUG needing the mycobacterial catalase-peroxidase KatG to generate the active radical that inhibits InhA (mycolic acid synthesis) — so losing *katG* confers resistance without any change to the target at all. PYRAZINAMIDE is likewise a prodrug, activated by pyrazinamidase (*pncA*) to pyrazinoic acid and active only in the ACID phagolysosome, which is why it uniquely kills intracellular semi-dormant bacilli in the first two months.**
+- **Pyrazinamidase activity separates the species: *M. tuberculosis* is pyrazinamidase POSITIVE; *M. BOVIS* is NEGATIVE and therefore INTRINSICALLY PYRAZINAMIDE-RESISTANT.**
+- **First-line drug targets: isoniazid and ethionamide — mycolic acid synthesis (InhA); rifampicin — DNA-dependent RNA polymerase; ethambutol — arabinosyl transferase (cell-wall arabinogalactan); pyrazinamide — membrane transport and fatty acid synthase at acid pH; streptomycin — the 30S ribosome (*rpsL*/*rrs*).**
+- **Resistance in tuberculosis is CHROMOSOMAL, arising by spontaneous mutation under selection — it is NOT plasmid-mediated. That is exactly why multidrug regimens work (simultaneous mutation to two drugs is vanishingly unlikely) and why monotherapy or erratic adherence manufactures resistance.**
+- **BEDAQUILINE (ATP synthase), LINEZOLID (50S) and DELAMANID/PRETOMANID (mycolic acid synthesis and nitric oxide release) are the newer agents whose resistance now defines pre-XDR and XDR TB.**
 
-**EXAM CONNECTION:** “GeneXpert detects mutations in” → ***rpoB***; “TB test on whole blood” → **IGRA**.
+**EXAM CONNECTION:** “GeneXpert detects mutations in” → ***rpoB***; “TB test on whole blood” → **IGRA**. Otherwise it is drug-to-gene matching, where the recurring trap swaps **gyrase (quinolones)** onto pyrazinamide.
 
-**REMEMBER:** *rpoB for rifampicin, katG/inhA for isoniazid — and only IGRA runs on blood.*
+**ALSO KNOW:** **The all-oral 6-month BPaLM regimen (bedaquiline, pretomanid, linezolid, moxifloxacin) has replaced the long injectable-containing regimens for MDR/RR and pre-XDR TB**, and **linezolid is a WHO Group A drug** — which is why oxazolidinone resistance now defines XDR-TB.[^2]
 
-`Q9376, Q9381`
+**REMEMBER:** *rpoB for rifampicin, katG/inhA for isoniazid — and only IGRA runs on blood. INH and pyrazinamide are prodrugs: kill the activator and you kill the drug.*
 
 ---
 
-### 73. The Lepromin Test
+### 60. The Lepromin Test
 
 **PEARL:** The **MITSUDA (LATE) REACTION of the lepromin test begins at 1 WEEK and PEAKS AT 3–4 WEEKS, forming an INDURATED NODULE THAT MAY ULCERATE.** It measures **CELL-MEDIATED immunity** and shows **lymphocytes, EPITHELIOID CELLS and GIANT CELLS** histologically. The **FERNANDEZ (EARLY) reaction appears at 24–48 hours** and is analogous to the tuberculin reaction, but is of little significance.
 
@@ -1821,11 +1465,9 @@
 
 **REMEMBER:** *Mitsuda is slow, nodular and measures cell-mediated immunity — it grades leprosy, it does not diagnose it.*
 
-`Q10310`
-
 ---
 
-### 74. Mycobacterium avium Complex in HIV
+### 61. Mycobacterium avium Complex in HIV
 
 **PEARL:** An HIV patient with **CD4 <100 (classically <50)**, cough, bilateral infiltrates and **ACID-FAST BACILLI in BAL** — where tuberculosis has been excluded or the picture is atypical — has ***MYCOBACTERIUM AVIUM COMPLEX (MAC)***. Its hallmark is **DISSEMINATED disease: persistent FEVER, night sweats, WEIGHT LOSS, DIARRHOEA, hepatosplenomegaly, ANAEMIA and a markedly RAISED ALKALINE PHOSPHATASE.**
 
@@ -1844,35 +1486,9 @@
 
 **REMEMBER:** *Below fifty, acid-fast, everywhere at once, and the alkaline phosphatase is high — that is MAC.*
 
-`Q11367`
-
 ---
 
-### 75. Molecular Basis of Antitubercular Drug Resistance
-
-**PEARL:** **Rifampicin → rpoB (RNA polymerase β-subunit). Isoniazid → katG (failure of PRODRUG ACTIVATION) and inhA. Pyrazinamide → pncA (pyrazinamidase). Ethambutol → embB (arabinosyl transferase). FLUOROQUINOLONES → gyrA/gyrB (DNA gyrase)** — so “DNA gyrase mutation causing pyrazinamide resistance” is false.
-
-**UNDERSTAND:** Resistance always arises at **the drug’s own molecular target or at the enzyme that activates it**. Isoniazid is unique in being a **PRODRUG requiring the mycobacterial catalase-peroxidase KatG** to convert it into the active radical that inhibits InhA (mycolic acid synthesis) — so losing katG confers resistance **without any change to the target**. Pyrazinamide is likewise a **prodrug activated by pyrazinamidase (pncA)** to pyrazinoic acid, active only in the **acidic environment of macrophage phagolysosomes**, which is why it is uniquely good at killing intracellular semi-dormant bacilli in the first two months.
-
-**MUST KNOW:**
-
-- **rpoB mutations are the basis of the rapid molecular tests: CBNAAT/Xpert MTB/RIF and Truenat detect rifampicin resistance in ~2 hours; LINE PROBE ASSAY (LPA) detects rifampicin and isoniazid (and second-line) resistance.** **Rifampicin resistance is the sentinel marker for MDR-TB** because it rarely occurs alone.
-- **Pyrazinamidase activity distinguishes species: *M. tuberculosis* is pyrazinamidase POSITIVE; *M. bovis* is NEGATIVE and therefore intrinsically pyrazinamide-resistant.**
-- **First-line drug mechanisms: isoniazid and ethionamide — mycolic acid synthesis (InhA); rifampicin — DNA-dependent RNA polymerase; ethambutol — arabinosyl transferase (arabinogalactan of the cell wall); pyrazinamide — membrane transport/fatty acid synthase in acid pH; streptomycin — 30S ribosome (rpsL/rrs).**
-- **Resistance in TB is CHROMOSOMAL and arises by spontaneous mutation under selection — it is not plasmid-mediated**, which is the reason multidrug regimens work (the probability of simultaneous mutations to two drugs is vanishingly small) and why **monotherapy or erratic adherence creates resistance**.
-- **Bedaquiline (ATP synthase), linezolid (50S), delamanid/pretomanid (mycolic acid synthesis and nitric oxide release)** are the Group A/C agents whose resistance now defines pre-XDR and XDR TB.
-
-**EXAM CONNECTION:** Match drug to gene. The recurring trap swaps **gyrase (quinolones)** onto pyrazinamide.
-
-**ALSO KNOW:** **The all-oral 6-month BPaLM regimen (bedaquiline, pretomanid, linezolid, moxifloxacin) has replaced the long injectable-containing regimens for MDR/RR and pre-XDR TB**, and **linezolid is a WHO Group A drug** — which is why oxazolidinone resistance now defines XDR-TB.[^2]
-
-**REMEMBER:** *INH and pyrazinamide are prodrugs — kill the activator and you kill the drug.*
-
-`Q11795`
-
----
-
-### 76. Non-Tuberculous Mycobacteria: Fish Tank Granuloma
+### 62. Non-Tuberculous Mycobacteria: Fish Tank Granuloma
 
 **PEARL:** A granulomatous nodular or verrucous skin lesion on the hand of someone who **handles fish or aquariums**, weeks after a minor injury, is **fish-tank (swimming-pool) granuloma — *Mycobacterium marinum***, a **PHOTOCHROMOGEN (Runyon group I): NO pigment in the dark, YELLOW pigment after light exposure.**
 
@@ -1894,25 +1510,13 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/8eeb12c941744fe4b32756c24441967c.JPEG)
 
-`Q11813`
-
----
-
-### 77. GeneXpert (CBNAAT)
-
-**PEARL:** GeneXpert detects **mutations in the rpoB gene** to identify **rifampicin resistance**.
-
-**MUST KNOW:** It simultaneously detects *M. tuberculosis* DNA and RR in **under 2 hours** from sputum. **Rifampicin resistance is used as a surrogate marker for MDR-TB** because >90% of RIF-resistant strains are also INH-resistant. Under India’s NTEP, **CBNAAT is the first diagnostic test** for presumptive TB in children, PLHIV, extrapulmonary and drug-resistant TB.
-
-**REMEMBER:** *rpoB mutation = rifampicin resistance = presume MDR-TB.*
-
 ---
 
 ---
 
 ## Spirochaetes, Rickettsiae, Chlamydiae and Mycoplasma
 
-### 78. Scrub Typhus and the Rickettsial Group
+### 63. Scrub Typhus and the Rickettsial Group
 
 **PEARL:** ***ORIENTIA TSUTSUGAMUSHI* (scrub typhus) is transmitted by the LARVAL stage (CHIGGER) of the TROMBICULID MITE**, in which the mite is **both vector and reservoir (transovarial transmission)** and **MAN IS AN ACCIDENTAL DEAD-END HOST.** It causes an **ESCHAR at the bite site with REGIONAL LYMPHADENOPATHY and a maculopapular rash**. It is **NON-CULTIVABLE on cell-free media — it will never grow on MacConkey agar.**
 
@@ -1921,6 +1525,7 @@
 **MUST KNOW:**
 
 - **The ESCHAR is the single most useful clinical sign — a painless black necrotic scab with an erythematous rim, often in a hidden warm moist site (axilla, groin, under the breast, waistline). Undress and search for it in any undifferentiated fever, especially in the hill and rural regions of India.**
+- ![[Pasted image 20260909012441.png]]
 - **Incubation 1–3 weeks. Complications: ARDS, acute kidney injury, myocarditis, meningoencephalitis and multiorgan failure — scrub typhus is a leading cause of ACUTE UNDIFFERENTIATED FEVER and of ARDS in India.**
 - **Diagnosis: IgM ELISA (most used), PCR from eschar/blood, IFA (reference standard). The WEIL–FELIX test (OX-K agglutination for scrub typhus, OX-19/OX-2 for spotted and typhus groups) is insensitive and obsolete but still asked.**
 - **Treatment: DOXYCYCLINE is the drug of choice (dramatic defervescence within 48 hours — a near-diagnostic response); AZITHROMYCIN in pregnancy and children; chloramphenicol as an alternative.**
@@ -1937,11 +1542,9 @@
 ![question](https://cdn1.dailyrounds.org/uploads/61ac0c154e914348823174a08e684029.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f93002cb68d049b69cd27402f33161ddx1280x2163.JPEG)
 
-`Q9362, Q9364`
-
 ---
 
-### 79. Morulae — Ehrlichia vs Anaplasma
+### 64. Morulae — Ehrlichia vs Anaplasma
 
 **PEARL:** **A MORULA (a mulberry-like intracellular inclusion of bacteria) in a MONOCYTE = *EHRLICHIA CHAFFEENSIS* (human MONOCYTIC ehrlichiosis). A MORULA in a NEUTROPHIL/granulocyte = *ANAPLASMA PHAGOCYTOPHILUM* (human GRANULOCYTIC anaplasmosis).** Both are **tick-borne, obligate intracellular Gram-negative organisms treated with DOXYCYCLINE.**
 
@@ -1965,11 +1568,9 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e669095e46c047969ae305e102d766fbx358x286.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/90ff2ff932114bd196eb617f3874d515x358x286.JPEG)
 
-`Q9417, Q9420`
-
 ---
 
-### 80. Mollicutes — the Cell-Wall-Free Bacteria
+### 65. Mollicutes — the Cell-Wall-Free Bacteria
 
 **PEARL:** The class **MOLLICUTES (“soft skin”) comprises the bacteria with NO CELL WALL — *MYCOPLASMA PNEUMONIAE*, *M. HOMINIS*, *M. GENITALIUM* and *UREAPLASMA UREALYTICUM*.** They are the **SMALLEST free-living organisms**, are **PLEOMORPHIC, contain STEROLS/CHOLESTEROL in the membrane**, grow on cell-free media giving **“FRIED EGG” colonies**, and are **INTRINSICALLY RESISTANT TO ALL BETA-LACTAMS and to vancomycin.** ***Ureaplasma* is uniquely able to HYDROLYSE UREA.**
 
@@ -1987,11 +1588,9 @@
 
 **REMEMBER:** *No wall, sterols in the membrane, fried-egg colonies — and beta-lactams are useless.*
 
-`Q9429`
-
 ---
 
-### 81. Vectors — Tick, Mite and Louse
+### 66. Vectors — Tick, Mite and Louse
 
 **PEARL:** **HARD TICKS (oval, no antennae, 4 pairs of legs, a chitinous dorsal SCUTUM) transmit ROCKY MOUNTAIN SPOTTED FEVER, INDIAN TICK TYPHUS, EHRLICHIOSIS/ANAPLASMOSIS, BABESIOSIS, LYME DISEASE, TULARAEMIA, CCHF, KYASANUR FOREST DISEASE, Russian spring–summer encephalitis, Colorado tick fever and TICK PARALYSIS.** ***ORIENTIA TSUTSUGAMUSHI* (scrub typhus) is transmitted by the TROMBICULID MITE (chigger), NOT a tick; EPIDEMIC TYPHUS (*R. prowazekii*) is transmitted by the LOUSE.**
 
@@ -2005,6 +1604,9 @@
 - **LYME DISEASE (*Borrelia burgdorferi*, *Ixodes*): ERYTHEMA MIGRANS (“bull’s-eye”) → early disseminated disease with facial palsy (often BILATERAL), carditis and AV block, and meningitis → late Lyme arthritis (knee) and neuroborreliosis. Treat with DOXYCYCLINE (amoxicillin or cefuroxime in children/pregnancy; IV ceftriaxone for CNS or cardiac disease).**
 - **TICK PARALYSIS is an ascending flaccid paralysis caused by a neurotoxin in tick saliva that resolves completely on REMOVING THE TICK — the great mimic of Guillain–Barré syndrome.**
 - **Remove a tick with steady traction using forceps close to the skin — do not burn it or apply chemicals.**
+- **SCRUB TYPHUS itself: fever, headache, myalgia, regional LYMPHADENOPATHY and a painless ESCHAR (black necrotic scab) in a warm moist skin fold, with ARDS, myocarditis, meningoencephalitis and acute kidney injury as complications. WEIL–FELIX OX-K positive; confirm with IgM ELISA or PCR; treat with DOXYCYCLINE (azithromycin in pregnancy and children). It is a leading cause of ACUTE UNDIFFERENTIATED FEBRILE ILLNESS in India.**
+- **Name the hard ticks: *Ixodes*, *Dermacentor*, *Rhipicephalus* and *HYALOMMA* (the CCHF vector). KYASANUR FOREST DISEASE is a flavivirus of the Western Ghats (Karnataka), transmitted by *HAEMAPHYSALIS* ticks with monkeys as amplifying hosts — a VACCINE exists for forest workers.**
+- **The rest of the vector map: SANDFLY (*Phlebotomus*) — kala-azar, sandfly fever, Oroya fever; TSETSE FLY — African trypanosomiasis; REDUVIID (kissing) BUG — Chagas disease; BLACKFLY (*Simulium*) — onchocerciasis; CYCLOPS — guinea worm and the fish tapeworm.**
 
 **EXAM CONNECTION:** Image of a tick → the disease NOT transmitted is ***Orientia*** (mite).
 
@@ -2015,11 +1617,9 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9ef77ca8a029448e87aed74495f938ffx1030x978.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b2f4191524a744a38b169d1037072676x720x540.JPEG)
 
-`Q9441, Q9886`
-
 ---
 
-### 82. Rocky Mountain Spotted Fever and the Direction of Rashes
+### 67. Rocky Mountain Spotted Fever and the Direction of Rashes
 
 **PEARL:** **RMSF (Rickettsia rickettsii, tick-borne)** — fever and headache after outdoor/camping exposure with a rash that begins on the **wrists and ankles** and spreads **centripetally** (inward to the trunk), **involving palms and soles** and **sparing the face**.
 
@@ -2035,11 +1635,9 @@
 
 **REMEMBER:** *Ticks bite the limbs — so the spotted fever rash starts at the wrists and travels in.*
 
-`Q9568`
-
 ---
 
-### 83. Erythema Migrans and the Named Erythemas
+### 68. Erythema Migrans and the Named Erythemas
 
 **PEARL:** An expanding **annular rash with central clearing (“bull’s-eye”) at least 5 cm across**, appearing days to weeks after a tick bite in an endemic area, is **ERYTHEMA MIGRANS — the pathognomonic rash of early Lyme disease (*Borrelia burgdorferi*)**. It is a **clinical diagnosis; serology is often still negative and should not delay treatment.**
 
@@ -2062,40 +1660,11 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/04/24/screenshot-2024-04-24-143723.png)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/04/24/screenshot-2024-04-24-143733.png)
 
-`Q10945`
-
----
-
-### 84. Ticks vs Mites: Who Transmits What
-
-**PEARL:** **HARD TICKS (Ixodidae — oval body, dorsal scutum, no antennae, 4 pairs of legs) transmit: Ehrlichia and Anaplasma, BABESIOSIS, Lyme disease, CCHF, KYASANUR FOREST DISEASE, tick typhus/Rocky Mountain spotted fever, tularaemia, Colorado tick fever, viral encephalitis and TICK PARALYSIS.** **SCRUB TYPHUS (Orientia tsutsugamushi) is transmitted by TROMBICULID MITES (chiggers), NOT by ticks.**
-
-**UNDERSTAND:** Vector identity determines the epidemiology and therefore the exposure history the exam gives you. **Ticks attach for days**, which is why transmission of Lyme disease requires **36–48 hours of attachment** and why tick removal prevents disease. **Mite larvae (chiggers) feed briefly on grass and scrub**, leaving a single **eschar** at the bite site — the classic clue in scrub typhus.
-
-**MUST KNOW:**
-
-- **Scrub typhus:** fever, headache, myalgia, regional **lymphadenopathy** and a painless **ESCHAR (black necrotic scab)** in a warm moist skin fold; complications include ARDS, myocarditis, meningoencephalitis and acute kidney injury. **Weil–Felix OX-K positive**; confirm with IgM ELISA/PCR. **Treatment: DOXYCYCLINE (azithromycin in pregnancy and children).** A leading cause of **acute undifferentiated febrile illness in India**.
-- **Hard vs soft ticks: HARD ticks have a scutum and feed for days (Ixodes, Dermacentor, Rhipicephalus, HYALOMMA — the CCHF vector); SOFT ticks (Ornithodoros) have no scutum, feed briefly at night, and transmit ENDEMIC RELAPSING FEVER (Borrelia).**
-- **KYASANUR FOREST DISEASE** — a flavivirus of the Western Ghats (Karnataka), transmitted by **Haemaphysalis ticks**, with monkeys as amplifying hosts; a **vaccine exists** for forest workers.
-- **Tick paralysis** — an ascending flaccid paralysis from a neurotoxin in tick saliva, which **resolves dramatically on removing the tick** (remove with steady traction using forceps close to the skin; do not burn or twist).
-- **Other arthropod vectors: LOUSE — epidemic typhus, relapsing fever, trench fever; FLEA — plague, murine typhus; SANDFLY — kala-azar, sandfly fever, Oroya fever; TSETSE FLY — African trypanosomiasis; REDUVIID BUG — Chagas disease; BLACKFLY (Simulium) — onchocerciasis; CYCLOPS — guinea worm and fish tapeworm.**
-
-**EXAM CONNECTION:** An image of the vector plus “which disease is NOT transmitted”. Learn the **tick list** and remember that **scrub typhus is the mite-borne outlier**.
-
-**REMEMBER:** *Ticks carry almost everything — but the chigger keeps scrub typhus for itself.*
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/b3b44a0682c84f409578b38b0646f2f6.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9ef77ca8a029448e87aed74495f938ffx1030x978.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b2f4191524a744a38b169d1037072676x720x540.JPEG)
-
-`Q11023`
-
 ---
 
 ## Sexually Transmitted Infections
 
-### 85. Genital Ulcer Disease — Incubation and Pattern
+### 69. Genital Ulcer Disease — Incubation and Pattern
 
 **PEARL:** **LYMPHOGRANULOMA VENEREUM (*Chlamydia trachomatis* serovars L1, L2, L3) has an incubation period of 10–30 DAYS.** Its typical presentation is the **INGUINAL SYNDROME — a transient painless ulcer followed by PAINFUL inguinal lymphadenopathy, matted nodes with the “GROOVE SIGN” (nodes above and below the inguinal ligament separated by it), and BUBOES that rupture through multiple sinuses.**
 
@@ -2110,16 +1679,15 @@
 - **Aspirate buboes through healthy skin — never incise them**, or a chronic sinus results.
 - **The FREI TEST is obsolete; diagnosis is by NAAT/PCR with serovar typing.**
 - **All genital ulcer disease increases HIV transmission — always offer HIV and syphilis testing.**
+- **LGV runs in THREE STAGES: (1) a transient painless papule or ulcer, usually missed; (2) painful matted BUBOES suppurating through multiple sinuses, with the groove sign; (3) proctocolitis, fistulae, strictures and ELEPHANTIASIS (esthiomene).**
 
 **EXAM CONNECTION:** Straight recall of incubation periods, or the “groove sign” description.
 
 **REMEMBER:** *LGV’s ulcer disappears and the nodes take over — a groove across the inguinal ligament.*
 
-`Q9344`
-
 ---
 
-### 86. Neisseria gonorrhoeae
+### 70. Neisseria gonorrhoeae
 
 **PEARL:** **GRAM-NEGATIVE DIPLOCOCCI INSIDE POLYMORPHS in urethral discharge = *N. GONORRHOEAE*.** It is **OXIDASE and CATALASE POSITIVE**, **NON-MOTILE but shows TWITCHING MOTILITY via TYPE IV PILI**, and is a **FACULTATIVE — NOT AN OBLIGATE — INTRACELLULAR organism.**
 
@@ -2132,7 +1700,6 @@
 - **Clinically: men get purulent urethritis; WOMEN ARE OFTEN ASYMPTOMATIC, which is why gonorrhoea causes PID, infertility, ectopic pregnancy and FITZ-HUGH–CURTIS syndrome (perihepatitis, “violin-string” adhesions).**
 - **DISSEMINATED GONOCOCCAL INFECTION presents in two ways: the ARTHRITIS–DERMATITIS syndrome (migratory polyarthralgia, tenosynovitis, pustular lesions) or PURULENT MONOARTHRITIS — and it is associated with TERMINAL COMPLEMENT (C5–C9) DEFICIENCY**, as is recurrent meningococcal disease.
 - **OPHTHALMIA NEONATORUM: gonococcal at 2–5 DAYS (hyperacute, profuse purulent — an ophthalmic emergency risking corneal perforation) versus chlamydial at 5–14 DAYS. Prophylaxis with erythromycin ointment.**
-- **Treatment has changed with resistance: CEFTRIAXONE 500 mg IM as a single dose (higher dose than before, and monotherapy in current guidance), and TREAT THE PARTNER; empirically add DOXYCYCLINE/azithromycin for co-existing chlamydia.** **Fluoroquinolones are no longer recommended** — gonococcus has developed resistance to every drug class used against it.
 
 **EXAM CONNECTION:** “All true EXCEPT” → **obligate intracellular organism**.
 
@@ -2143,11 +1710,9 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/2d2b8a14b1804d32aac112e7e610423e.JPEG)
 
-`Q9352`
-
 ---
 
-### 87. Serological Tests in Syphilis
+### 71. Serological Tests in Syphilis
 
 **PEARL:** **CSF-VDRL is the investigation of choice for NEUROSYPHILIS — when reactive it is DIAGNOSTIC (highly specific), though it is insensitive.** Supporting CSF findings are **MONONUCLEAR PLEOCYTOSIS (>5 cells/µL) and PROTEIN >45 mg/dL.**
 
@@ -2167,11 +1732,9 @@
 
 **REMEMBER:** *Non-treponemal tests track the disease; treponemal tests just remember it — and in CSF you want VDRL.*
 
-`Q9391`
-
 ---
 
-### 88. Treponema pallidum and the Hard Chancre
+### 72. Treponema pallidum and the Hard Chancre
 
 **PEARL:** A **painless, indurated, clean-based genital ulcer** 2–10 weeks after exposure is the **hard chancre of primary syphilis**. On **dark-ground microscopy** *Treponema pallidum* shows **CORKSCREW motility** — rotating about its long axis while moving backwards and forwards, with secondary curves appearing and disappearing.
 
@@ -2192,41 +1755,13 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/2de630460d5f456a94e9f03dc0758cdb.PNG)
 
-`Q10836`
-
----
-
-### 89. Lymphogranuloma Venereum
-
-**PEARL:** Incubation period **10–30 days**. The **groove sign** — a depression created by the **inguinal ligament** running between enlarged, inflamed inguinal and femoral lymph node groups — is characteristic.
-
-**MUST KNOW:**
-
-- *Chlamydia trachomatis* serovars **L1, L2, L3**.
-- Three stages: **(1)** transient painless papule/ulcer (often missed), **(2)** painful matted **buboes** that suppurate through multiple sinuses, **(3)** proctocolitis, fistulae, strictures and **elephantiasis (esthiomene)**.
-- Treatment: **doxycycline 100 mg BD × 21 days**; **aspirate buboes — do not incise** (creates chronic sinuses).
-
-**REMEMBER:** *Groove sign = LGV; aspirate the bubo, and treat for 21 days.*
-
----
-
-### 90. CSF-VDRL
-
-**PEARL:** The **CSF-VDRL is highly SPECIFIC — a reactive result is diagnostic of neurosyphilis.**
-
-**UNDERSTAND:** But it is **insensitive** — a **negative CSF-VDRL does NOT rule out neurosyphilis**. That asymmetry is the whole exam point.
-
-**MUST KNOW:** **CSF-FTA-ABS** is the reverse — sensitive but not specific, so a **negative FTA-ABS effectively excludes** neurosyphilis. Supportive CSF findings: **lymphocytic pleocytosis and raised protein**. Treatment: **IV aqueous crystalline penicillin G × 10–14 days** (not benzathine penicillin, which does not enter the CSF).
-
-**REMEMBER:** *CSF-VDRL positive = neurosyphilis; negative = proves nothing.*
-
 ---
 
 ---
 
 ## Virology
 
-### 91. Zika Virus
+### 73. Zika Virus
 
 **PEARL:** Zika causes **fever, a MACULOPAPULAR RASH, CONJUNCTIVITIS, arthralgia/arthritis and headache**. A **PETECHIAL/haemorrhagic rash is NOT part of Zika — that points to DENGUE.** Its two feared complications are **GUILLAIN–BARRÉ SYNDROME** in adults and **CONGENITAL MICROCEPHALY** after infection in pregnancy.
 
@@ -2245,11 +1780,9 @@
 
 **REMEMBER:** *Zika = rash plus red eyes, no bleeding — the danger is the fetus and the nerves.*
 
-`Q9336`
-
 ---
 
-### 92. Oncogenic Viruses
+### 74. Oncogenic Viruses — Which Virus, Which Tumour, and How
 
 **PEARL:** **HHV-8 (KSHV) causes KAPOSI SARCOMA, PRIMARY EFFUSION (body-cavity) LYMPHOMA and MULTICENTRIC CASTLEMAN DISEASE.** **ADULT T-CELL LEUKAEMIA/LYMPHOMA is caused by HTLV-1, not HHV-8.**
 
@@ -2262,16 +1795,20 @@
 - **ADULT T-CELL LEUKAEMIA: endemic in Japan and the Caribbean, transmitted by breastfeeding, blood and sex; presents with HYPERCALCAEMIA, lytic bone lesions, skin lesions and “FLOWER CELLS” (multilobed lymphocytes) on the smear.** HTLV-1 also causes **strongyloides hyperinfection**.
 - **Multicentric CASTLEMAN DISEASE presents with fever, generalised lymphadenopathy, organomegaly and very high IL-6/CRP** — treated with rituximab.
 - **Prevention is the practical point: HPV and HBV VACCINATION are the two vaccines that prevent cancer.**
+- **HOW they transform runs down two routes. DIRECT — the virus supplies an oncogene or disables a tumour suppressor: HPV E6 DEGRADES p53 and E7 INACTIVATES RB; the HBV X PROTEIN transactivates growth genes; EBV LMP-1 mimics a constitutively active CD40 signal. INDIRECT — no oncogene at all, only a mutagenic environment: HCV through decades of hepatocyte death, regeneration and cirrhosis, and HTLV-1 through the TAX transactivator. Most DNA tumour viruses INTEGRATE to form a PROVIRUS; HTLV-1 AND HCV DO NOT insert an oncogene into the host chromosome.**
+- **In HPV the integration event itself is the key step: integration DISRUPTS *E2*, which normally represses E6 and E7 — so EPISOMAL HPV causes warts while INTEGRATED HPV causes cancer. HBV causes hepatocellular carcinoma even WITHOUT cirrhosis (integration plus X protein); HCV causes it almost exclusively THROUGH cirrhosis — which is why VACCINATION prevents HBV-driven cancer whereas CURING the infection is what prevents HCV-driven cancer.**
+- **PRIMARY EFFUSION LYMPHOMA is a lymphomatous effusion in a body cavity WITHOUT a mass, usually EBV co-infected; HHV-8 also causes KSHV INFLAMMATORY CYTOKINE SYNDROME. AIDS-related Kaposi sarcoma is treated first with ANTIRETROVIRAL THERAPY, adding liposomal doxorubicin or paclitaxel for extensive disease.**
 
-**EXAM CONNECTION:** “HHV-8 associated with all EXCEPT” → **adult T-cell leukaemia**.
+**EXAM CONNECTION:** “HHV-8 associated with all EXCEPT” → **adult T-cell leukaemia**; “integrate into the host genome EXCEPT” → **HTLV-1 (and HCV)**.
 
 **REMEMBER:** *HHV-8 makes vessels and B cells go wrong; HTLV-1 makes T cells go wrong.*
 
-`Q9347`
+**IMAGES:**
+![question](https://cdn1.dailyrounds.org/uploads/fece6b7ec1014a0383a9e26eceda6e32.JPEG)
 
 ---
 
-### 93. Cytomegalovirus
+### 75. Cytomegalovirus
 
 **PEARL:** **GANCICLOVIR RESISTANCE in CMV is most commonly due to mutation of the *UL97* PHOSPHOTRANSFERASE gene** (which activates the drug). ***UL54* (DNA POLYMERASE) mutations cause CROSS-RESISTANCE to ganciclovir, cidofovir AND foscarnet.** CMV grows **only in HUMAN FIBROBLASTS in vitro**, producing **“OWL’S EYE” intranuclear inclusions** after 2–3 weeks.
 
@@ -2289,11 +1826,9 @@
 
 **REMEMBER:** *UL97 activates the drug; UL54 is the target — mutate the target and everything fails.*
 
-`Q9348`
-
 ---
 
-### 94. Enveloped vs Non-Enveloped Viruses
+### 76. Enveloped vs Non-Enveloped Viruses
 
 **PEARL:** **SOLVENT/DETERGENT-treated plasma destroys LIPID-ENVELOPED viruses (HIV, HBV, HCV) — but NOT NON-ENVELOPED viruses.** So **HEPATITIS A (and PARVOVIRUS B19) can still be transmitted** by SD plasma.
 
@@ -2312,11 +1847,9 @@
 
 **REMEMBER:** *No envelope, nothing to dissolve — naked viruses survive detergents, alcohol and the stomach.*
 
-`Q9349`
-
 ---
 
-### 95. Influenza — Epidemiology
+### 77. Influenza — Replication, Antigenic Change and Epidemiology
 
 **PEARL:** The **highest-risk group for severe influenza is CHILDREN UNDER 5, especially UNDER 2 — NOT the 5–12 year age group.** Other high-risk groups are **adults ≥60–65, pregnant women, and those with chronic disease or immunosuppression**. **Virus shedding BEGINS ~1 DAY BEFORE symptoms** and continues 3–5 days; the **secondary attack rate is 5–15%**, and **AQUATIC BIRDS are the natural reservoir.**
 
@@ -2330,16 +1863,19 @@
 - **Vaccination is recommended annually for the high-risk groups, health workers and pregnant women (which also protects the infant); the LIVE ATTENUATED intranasal vaccine is CONTRAINDICATED in pregnancy and immunosuppression.**
 - **The lethal complication is SECONDARY BACTERIAL PNEUMONIA — *S. pneumoniae*, *S. AUREUS* (necrotising, with pneumatoceles) and *H. influenzae*** — suspect it when a patient improves and then deteriorates again.
 - **REYE’S SYNDROME — encephalopathy with fatty liver — follows ASPIRIN given to children with influenza or varicella. Never give aspirin to children.**
+- **The REPLICATION CYCLE is worth knowing because every antiviral maps onto one step of it: HAEMAGGLUTININ binds sialic acid → endocytosis → endosomal acidification through the M2 ION CHANNEL uncoats the virus → RNA replication IN THE NUCLEUS (influenza is the great exception among RNA viruses, because it steals 5′ caps from host mRNA — “CAP-SNATCHING”) → assembly at the membrane → NEURAMINIDASE cleaves sialic acid to release progeny. NEURAMINIDASE INHIBITORS (oseltamivir, zanamivir, peramivir) block RELEASE; AMANTADINE/rimantadine block the M2 channel (influenza A only, now largely resistant); BALOXAVIR blocks the cap-dependent endonuclease.**
+- **The other RNA viruses that replicate in the NUCLEUS are the RETROVIRUSES and Borna virus; the DNA virus that replicates in the CYTOPLASM is POXVIRUS.**
 
 **EXAM CONNECTION:** “False about influenza” → **5–12 years is a high-risk group**.
 
 **REMEMBER:** *Under five, over sixty, and shedding before the first symptom.*
 
-`Q9357`
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2023/03/30/1-micro-12.jpg)
 
 ---
 
-### 96. Ebola Virus
+### 78. Ebola Virus
 
 **PEARL:** **Ebola is a FILOVIRUS (filamentous, enveloped, negative-sense RNA) with FRUIT BATS as the reservoir. It is NOT transmitted by mosquitoes** — spread is by **DIRECT CONTACT with the blood or body fluids of a SYMPTOMATIC person or a corpse**, and **NOSOCOMIAL transmission** is a major feature. Incubation is **2–21 days**.
 
@@ -2360,11 +1896,9 @@
 
 **REMEMBER:** *Bats, body fluids and hospitals — never a mosquito.*
 
-`Q9365`
-
 ---
 
-### 97. The HPV Vaccine
+### 79. The HPV Vaccine
 
 **PEARL:** HPV vaccines are **VIRUS-LIKE PARTICLES (VLPs) made of the L1 MAJOR CAPSID PROTEIN**, which self-assembles when expressed in yeast or insect cells. They contain **NO viral DNA — so they cannot infect or cause cancer**, and being non-infectious they are **safe in immunocompromised people**. **E6 and E7 are the ONCOPROTEINS, not vaccine components** (they are targets of therapeutic, not prophylactic, vaccines).
 
@@ -2383,11 +1917,9 @@
 
 **REMEMBER:** *L1 builds the empty shell you vaccinate with; E6 and E7 are what the cancer uses.*
 
-`Q9366`
-
 ---
 
-### 98. Aseptic (Viral) Meningitis
+### 80. Aseptic (Viral) Meningitis
 
 **PEARL:** **Fever, rash and meningitis with CSF showing MILDLY RAISED PROTEIN, NORMAL GLUCOSE and a MILD LYMPHOCYTOSIS = VIRAL (aseptic) MENINGITIS — and ENTEROVIRUSES (coxsackie, echovirus) cause ~85–90% of cases.** A normal CSF glucose is the single most useful discriminator from bacterial, tuberculous and fungal meningitis.
 
@@ -2405,14 +1937,12 @@
 
 **REMEMBER:** *Normal CSF sugar means a virus — bacteria, TB and fungi all eat the glucose.*
 
-`Q9367`
-
 ---
 
-### 99. Viral Inclusion Bodies
+### 81. Viral Inclusion Bodies
 
 **PEARL:** **COWDRY TYPE A (Lipschütz) inclusions — an eosinophilic/light-purple INTRANUCLEAR body surrounded by a CLEAR HALO with margination of chromatin — are seen in HERPES SIMPLEX (and varicella-zoster).** **Cowdry type B inclusions occur in POLIO and ADENOVIRUS.**
-
+![[Pasted image 20260910125037.png]]
 **UNDERSTAND:** **DNA viruses replicate in the NUCLEUS, so their inclusions are INTRANUCLEAR** (herpes, adenovirus, CMV) — **with the single exception of POXVIRUSES, which carry their own polymerase and replicate in the CYTOPLASM.** **RNA viruses replicate in the CYTOPLASM, so their inclusions are CYTOPLASMIC** (rabies, measles, RSV) — with the exception of influenza and retroviruses, which use the nucleus. Knowing where the virus replicates predicts where the inclusion sits.
 
 **MUST KNOW:**
@@ -2431,33 +1961,9 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0bb5ebf2e6424f1ca1e40c95cb94e659x510x499.GIF)
 
-`Q9395`
-
 ---
 
-### 100. How Oncogenic Viruses Cause Cancer
-
-**PEARL:** Most oncogenic viruses **INTEGRATE into the host genome to form a PROVIRUS — HPV, HBV, EBV and most DNA tumour viruses.** **HTLV-1 and HCV cause cancer INDIRECTLY, WITHOUT integrating an oncogene into the host chromosome** — HTLV-1 through the **TAX transactivator protein** and HCV through **chronic inflammation, regeneration and cirrhosis.**
-
-**UNDERSTAND:** There are two routes to viral carcinogenesis. **DIRECT: the virus contributes an oncogene or disables a tumour suppressor** — HPV **E6 degrades p53 and E7 inactivates RB**; HBV **X protein** transactivates growth genes; EBV **LMP-1 mimics a constitutively active CD40 signal**. **INDIRECT: the virus never carries an oncogene but creates a mutagenic environment** — years of hepatocyte death and regeneration in HCV, or dysregulated T-cell proliferation by HTLV-1’s Tax. Recognising which mechanism applies explains why **vaccination prevents HBV- and HPV-driven cancer, while for HCV it is CURING the infection that prevents it.**
-
-**MUST KNOW:**
-
-- **The integration event itself is often the key step: in HPV, integration DISRUPTS the E2 gene, which normally REPRESSES E6 and E7 — so integration unleashes the oncoproteins.** This is why **episomal (non-integrated) HPV causes warts while integrated HPV causes cancer**.
-- **HBV causes hepatocellular carcinoma even WITHOUT cirrhosis (direct integration + X protein); HCV causes it almost exclusively THROUGH cirrhosis** — a distinction that drives surveillance policy.
-- **EBV: infects B cells via CD21, associated with BURKITT LYMPHOMA (t(8;14) *MYC*, “starry-sky” histology, endemic African jaw tumour), NASOPHARYNGEAL CARCINOMA (with a strong link to salted fish and southern Chinese ethnicity), Hodgkin lymphoma, PTLD, primary CNS lymphoma in AIDS, and ORAL HAIRY LEUKOPLAKIA.**
-- **HHV-8 → Kaposi sarcoma, primary effusion lymphoma, multicentric Castleman disease. Merkel cell polyomavirus → Merkel cell carcinoma. HTLV-1 → adult T-cell leukaemia and tropical spastic paraparesis.**
-- **The only cancer-preventing vaccines are HBV and HPV.**
-
-**EXAM CONNECTION:** “Integrate into the genome EXCEPT” → **HTLV** (and HCV).
-
-**REMEMBER:** *DNA tumour viruses insert an oncogene; HTLV and HCV just inflame and transactivate.*
-
-`Q9402`
-
----
-
-### 101. Measles
+### 82. Measles
 
 **PEARL:** **Coryza, cough, conjunctivitis and KOPLIK SPOTS (bluish-white ulcerations on the buccal mucosa opposite the molars/premolars — PATHOGNOMONIC and appearing 1–2 days BEFORE the rash), followed by a MACULOPAPULAR rash beginning on the FACE and spreading DOWNWARDS, is MEASLES — an ENVELOPED, SINGLE-STRANDED (negative-sense) RNA PARAMYXOVIRUS.**
 
@@ -2480,11 +1986,9 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/40c03f347d7345dba088e2aee6f6861ax700x463.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6a1134b0363f4e87acf77099ac7964f2x1280x1085.JPEG)
 
-`Q9412`
-
 ---
 
-### 102. Segmented Genomes and Reassortment
+### 83. Segmented Genomes and Reassortment
 
 **PEARL:** **ROTAVIRUS undergoes GENETIC REASSORTMENT like INFLUENZA — because both have SEGMENTED genomes** (rotavirus: **11 segments of DOUBLE-STRANDED RNA**; influenza: **8 segments of single-stranded RNA**). **Adenovirus (dsDNA), Ebola and rabies (non-segmented ssRNA) CANNOT reassort.**
 
@@ -2494,7 +1998,6 @@
 
 - **The segmented viruses: ORTHOMYXOVIRUS (influenza, 8), REOVIRUS/ROTAVIRUS (10–12, dsRNA), BUNYAVIRUS (3), ARENAVIRUS (2).** Remember them as **“BOAR”** — Bunya, Orthomyxo, Arena, Reo.
 - **ROTAVIRUS is the commonest cause of severe dehydrating gastroenteritis in children under 5 worldwide — a NAKED, dsRNA virus with a CARTWHEEL/wheel-like appearance on electron microscopy, spread FAECO-ORALLY, causing an OSMOTIC and secretory diarrhoea via NSP4 (a viral enterotoxin) with secondary LACTASE deficiency.** **Diagnosis by stool ELISA/latex agglutination; management is ORS and zinc.**
-- **The ROTAVIRUS VACCINE is a live oral vaccine now in India’s national immunisation schedule** (ROTAVAC), given with the primary series; **INTUSSUSCEPTION is the recognised rare adverse event** (the earlier RotaShield was withdrawn for this).
 - **NOROVIRUS is the commonest cause of epidemic gastroenteritis in ADULTS (cruise ships, institutions), also naked and resistant to alcohol.**
 - **Influenza’s segmented genome + an animal reservoir + a mixing vessel (pig) = pandemic potential.** Recall the morphology set: **influenza — pleomorphic with HA and NA spikes; adenovirus — icosahedral with FIBRES from the vertices; filoviruses (Ebola, Marburg) — FILAMENTOUS/thread-like, sometimes “shepherd’s crook”; rabies — BULLET-shaped; coronavirus — CLUB-SHAPED peplomers like a crown.**
 
@@ -2515,11 +2018,9 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5da4de4aea9d47719fcba1b974208ca4x1280x912.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b2e99e3019dc4c51aa8619d90fae6e05x363x291.JPEG)
 
-`Q9415, Q9427`
-
 ---
 
-### 103. Petechial Rash and the Arboviruses in India
+### 84. Petechial Rash and the Arboviruses in India
 
 **PEARL:** **PETECHIAL/haemorrhagic rash occurs with the FLAVIVIRUSES — DENGUE, KYASANUR FOREST DISEASE, WEST NILE, Zika (rarely) — and with meningococcaemia, rickettsial disease and CCHF.** **ROSEOLA INFANTUM (HHV-6/7) does NOT cause a petechial rash — its rash is ROSE-PINK MACULOPAPULAR, appearing AFTER the fever subsides.** **WEST NILE VIRUS is endemic in India and is diagnosed by RT-PCR** (Hendra is Australian, Ebola African, yellow fever South American and African).
 
@@ -2537,11 +2038,9 @@
 
 **REMEMBER:** *Flaviviruses bleed; roseola waits for the fever to break and then blushes.*
 
-`Q9418, Q9421`
-
 ---
 
-### 104. Parvovirus B19
+### 85. Parvovirus B19
 
 **PEARL:** **Parvovirus B19 causes ERYTHEMA INFECTIOSUM (fifth disease, “SLAPPED CHEEK”) in CHILDREN aged 5–10; TRANSIENT APLASTIC CRISIS in chronic HAEMOLYTIC ANAEMIA (sickle cell, thalassaemia, hereditary spherocytosis); NON-IMMUNE HYDROPS FETALIS and fetal loss in pregnancy; and a SYMMETRICAL POLYARTHROPATHY in ~50% of infected ADULTS — in otherwise HEALTHY adults, NOT specifically in SLE.**
 
@@ -2563,11 +2062,9 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cc6bd331f6574d53bdf78b0306474859x720x537.PNG)
 
-`Q9423`
-
 ---
 
-### 105. Epstein–Barr Virus and Infectious Mononucleosis
+### 86. Epstein–Barr Virus and Infectious Mononucleosis
 
 **PEARL:** **EBV enters B lymphocytes by binding CD21 (the CR2 complement receptor)** and acts as a **B-cell MITOGEN**. The **atypical lymphocytes (“DOWNEY CELLS”) in the blood are NOT infected B cells — they are reactive CD8 CYTOTOXIC T CELLS** responding to them. **HETEROPHILE ANTIBODIES (Paul–Bunnell/Monospot) arise from that polyclonal B-cell activation.**
 
@@ -2587,11 +2084,9 @@
 
 **REMEMBER:** *EBV enters through CD21; the atypical cells you see are the T cells hunting it.*
 
-`Q9425`
-
 ---
 
-### 106. HIV Transmission Risk and Post-Exposure Prophylaxis
+### 87. HIV Transmission Risk and Post-Exposure Prophylaxis
 
 **PEARL:** **RECEPTIVE ANAL INTERCOURSE carries the HIGHEST sexual transmission risk (~1.4%), far ABOVE penile-vaginal intercourse.** **MALE-TO-FEMALE transmission exceeds female-to-male**, **PLASMA VIRAL LOAD is the single strongest determinant of transmission**, and **MALE CIRCUMCISION reduces heterosexual acquisition by ~60%.** **PEP is TENOFOVIR + LAMIVUDINE + DOLUTEGRAVIR for 4 WEEKS, started ideally within 2 HOURS and certainly within 72 HOURS.**
 
@@ -2610,36 +2105,9 @@
 
 **REMEMBER:** *Thin rectal mucosa, long semen exposure, high viral load — and three drugs for four weeks within 72 hours.*
 
-`Q9985, Q11063`
-
 ---
 
-### 107. Influenza Replication
-
-**PEARL:** **Haemagglutinin binds sialic acid → endocytosis → endosomal acidification (via the M2 channel) uncoats the virus → RNA replication in the NUCLEUS → assembly at the membrane → NEURAMINIDASE cleaves sialic acid to release progeny.**
-
-**UNDERSTAND:** Influenza is the great exception — **an RNA virus that replicates in the NUCLEUS** (because it steals 5′ caps from host mRNA, “cap-snatching”). Every antiviral maps onto one step of this cycle, which is why the cycle is worth knowing.
-
-**MUST KNOW:**
-
-- **Neuraminidase inhibitors (oseltamivir, zanamivir, peramivir)** block **release**; **amantadine/rimantadine** block the **M2 ion channel** (influenza A only, now largely resistant); **baloxavir** blocks the **cap-dependent endonuclease**.
-- **Antigenic DRIFT** = minor point mutations → seasonal epidemics, need for annual vaccine. **Antigenic SHIFT** = **reassortment of segmented genome** → **pandemics** (only influenza A; the segmented genome makes it possible).
-- **Pigs are the classic “mixing vessel”** — they carry receptors for both avian and human strains.
-- Other RNA viruses replicating in the nucleus: **retroviruses and Borna virus**; the DNA virus exception that replicates in the **cytoplasm** is **poxvirus**.
-- **HA mediates attachment and is the main neutralising antibody target; NA mediates release.**
-
-**EXAM CONNECTION:** A replication-cycle diagram → identify the virus. Nuclear replication + surface glycoprotein cleavage = influenza.
-
-**REMEMBER:** *HA gets in, NA gets out — and uniquely for an RNA virus, the copying happens in the nucleus.*
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2023/03/30/1-micro-12.jpg)
-
-`Q11348`
-
----
-
-### 108. Japanese Encephalitis Cycle
+### 88. Japanese Encephalitis Cycle
 
 **PEARL:** **PIGS = amplifier host · ARDEID (wading) BIRDS = reservoir · CULEX (tritaeniorhynchus) = vector · HUMANS = dead-end / accidental host.**
 
@@ -2661,11 +2129,9 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/07/02/screenshot-2024-07-02-173342.png)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/03/31/1_XhS7DFx.jpg)
 
-`Q11354`
-
 ---
 
-### 109. Hepatitis B: A Partially Double-Stranded DNA Virus
+### 89. Hepatitis B: A Partially Double-Stranded DNA Virus
 
 **PEARL:** HBV has a **partially double-stranded circular DNA** genome — a complete negative-sense strand and an incomplete positive strand — and it **replicates through an RNA intermediate using reverse transcriptase**, uniquely among human DNA viruses.
 
@@ -2686,11 +2152,9 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/06/picture60.jpg)
 
-`Q9566`
-
 ---
 
-### 110. HIV Entry: gp120 and gp41
+### 90. HIV Entry: gp120 and gp41
 
 **PEARL:** **gp120 is the surface spike that BINDS CD4** and then the co-receptor (**CCR5** for macrophage-tropic R5 strains, **CXCR4** for T-cell-tropic X4 strains); the conformational change exposes **gp41**, the transmembrane protein that **fuses** the viral envelope with the cell membrane.
 
@@ -2712,11 +2176,9 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/20ae6e1960c24f3b921c3c7d7fcebbf4x642x720.PNG)
 
-`Q11036`
-
 ---
 
-### 111. Severe Dengue — WHO Criteria
+### 91. Severe Dengue — WHO Criteria
 
 **PEARL:** **AST or ALT ≥ 1000 IU/L** is a criterion for **SEVERE dengue**. Persistent vomiting, hepatomegaly > 2 cm and rising haematocrit with falling platelets are **WARNING SIGNS**, not severe-disease criteria.
 
@@ -2738,35 +2200,9 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/87393961ada7455c9dfb916aecbaad44x720x531.JPEG)
 
-`MG1192`
-
 ---
 
-### 112. HHV-8 and the Oncoviruses
-
-**PEARL:** **HHV-8 (KSHV)** causes **Kaposi sarcoma, primary effusion lymphoma, multicentric Castleman disease and KSHV inflammatory cytokine syndrome**.
-
-**UNDERSTAND:** HHV-8 is a **gammaherpesvirus** that infects **endothelium and B lymphocytes** — which is exactly why its tumours are **vascular (Kaposi sarcoma)** and **lymphoid (effusion lymphoma, Castleman disease)**. It encodes viral homologues of **IL-6, cyclin D and Bcl-2**, driving proliferation and survival.
-
-**MUST KNOW:**
-
-- **Kaposi sarcoma variants:** classic (elderly Mediterranean men), endemic African, iatrogenic (transplant), and **AIDS-related (an AIDS-defining illness)** — red-purple macules, plaques and nodules, often on the lower limb, palate and viscera.
-- **Primary effusion lymphoma:** lymphomatous effusion **without a mass**, in body cavities, in HIV; often co-infected with **EBV**.
-- Other human oncoviruses: **HBV and HCV → hepatocellular carcinoma**; **HPV 16/18 → cervical, anogenital, oropharyngeal cancer**; **EBV → Burkitt lymphoma, nasopharyngeal carcinoma, Hodgkin, post-transplant lymphoproliferative disease**; **HTLV-1 → adult T-cell leukaemia/lymphoma**; **Merkel cell polyomavirus → Merkel cell carcinoma**.
-- Treatment of AIDS-related KS begins with **antiretroviral therapy**; chemotherapy (liposomal doxorubicin, paclitaxel) for extensive disease.
-
-**EXAM CONNECTION:** The image identifies the virus; the question asks for **another disease caused by the same virus**. Each distractor belongs to a different oncovirus — learn the mapping as pairs.
-
-**REMEMBER:** *HHV-8 infects vessels and B cells, so it causes a vascular tumour and a lymphoma.*
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/fece6b7ec1014a0383a9e26eceda6e32.JPEG)
-
-`MA8280`
-
----
-
-### 113. Herpangina
+### 92. Herpangina
 
 **PEARL:** **Herpangina = grey-white papulovesicular ulcers on the SOFT PALATE, anterior tonsillar pillars, uvula and posterior oropharynx**, caused by **Coxsackie A — an ENTEROVIRUS**.
 
@@ -2786,27 +2222,13 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/0b3d5d8cbba0496fab3bcc20faad940a.JPEG)
 
-`MA7974`
-
----
-
-### 114. Hepatitis A and Solvent/Detergent Plasma
-
-**PEARL:** **HAV is a NON-ENVELOPED virus, so it is not inactivated by solvent/detergent (SD) treatment of plasma.**
-
-**UNDERSTAND:** SD treatment works by **dissolving lipid envelopes** — so it reliably kills **HIV, HBV, HCV** (enveloped) but leaves **non-enveloped viruses (HAV, parvovirus B19)** infectious. This is exactly why SD plasma still carries a residual HAV/B19 risk.
-
-**MUST KNOW:** Non-enveloped viruses are also more resistant to **alcohol, drying, detergents, acid and bile** — hence HAV’s faecal-oral spread.
-
-**REMEMBER:** *No envelope = nothing for the solvent to dissolve.*
-
 ---
 
 ---
 
 ## Mycology
 
-### 115. Dimorphic Fungi
+### 93. Dimorphic Fungi
 
 **PEARL:** The dimorphic fungi are **HISTOPLASMA, BLASTOMYCES, COCCIDIOIDES, PARACOCCIDIOIDES, SPOROTHRIX and TALAROMYCES (Penicillium) MARNEFFEI.** ***PNEUMOCYSTIS JIROVECII IS NOT DIMORPHIC*** — it is a yeast-like fungus that **cannot be cultured at all**.
 
@@ -2827,11 +2249,9 @@
 **IMAGES:**
 ![question](https://daily-rounds-staging.s3.amazonaws.com/uploads/2e437e6966bf4e789ac10bf9b1222e76.JPEG)
 
-`Q9332, Q9334`
-
 ---
 
-### 116. (1→3)-β-D-Glucan and the Fungal Biomarkers
+### 94. (1→3)-β-D-Glucan and the Fungal Biomarkers
 
 **PEARL:** The **β-D-GLUCAN assay is a PAN-FUNGAL marker** — positive in **invasive CANDIDIASIS/candidaemia, ASPERGILLOSIS and *PNEUMOCYSTIS* pneumonia**. It is **NEGATIVE in CRYPTOCOCCUS, in the ZYGOMYCETES (Mucor/Rhizopus) and in BLASTOMYCES** — the three exceptions worth memorising.
 
@@ -2853,11 +2273,9 @@
 ![question](https://cdn1.dailyrounds.org/uploads/98b03b33d5754140b261f3fa6e67c329.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b56b0fefcc8a4f61959ee5a6680bcaf0x567x425.JPEG)
 
-`Q9337, Q9338, Q9339`
-
 ---
 
-### 117. Dematiaceous Fungi and Chromoblastomycosis
+### 95. Dematiaceous Fungi and Chromoblastomycosis
 
 **PEARL:** **DEMATIACEOUS fungi contain MELANIN in their cell walls, giving brown-black colonies and hyphae — *CLADOSPORIUM/Cladophialophora*, *FONSECAEA*, *PHIALOPHORA*, *Exophiala*, *Rhinocladiella*, *Alternaria* and *Curvularia*.** In tissue they form **SCLEROTIC (MEDLAR or “COPPER-PENNY”) BODIES — round, thick-walled, dark brown, septate cells — which are DIAGNOSTIC of CHROMOBLASTOMYCOSIS.**
 
@@ -2881,11 +2299,9 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5f005a07ec604403882710dae4bd4b87x1120x1791.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/41e61ecf4e4d45a7946828f53ca22576.JPEG)
 
-`Q9407, Q9416, Q9426`
-
 ---
 
-### 118. Dermatophytes
+### 96. Dermatophytes
 
 **PEARL:** ***TRICHOPHYTON RUBRUM* — velvety colonies with a DEEP RED, NON-DIFFUSIBLE pigment on the REVERSE, and few PENCIL-SHAPED MACROCONIDIA — is the COMMONEST dermatophyte worldwide**, causing tinea corporis, cruris, pedis and unguium. **The three genera are *TRICHOPHYTON* (hair, skin AND nails), *EPIDERMOPHYTON* (skin and nails, NOT hair), and *MICROSPORUM* (hair and skin, NOT nails).**
 
@@ -2899,6 +2315,7 @@
 - **Treatment: TOPICAL azoles/terbinafine for limited skin disease; ORAL therapy is MANDATORY for TINEA CAPITIS and ONYCHOMYCOSIS (topicals cannot penetrate hair and nail) — TERBINAFINE or ITRACONAZOLE, with GRISEOFULVIN still preferred for *Microsporum* tinea capitis in children.**
 - **India now faces an epidemic of RECALCITRANT, steroid-modified TINEA (*T. INDOTINEAE*) with TERBINAFINE RESISTANCE from squalene epoxidase mutations — driven by over-the-counter topical steroid–antifungal combination creams, which must be avoided.** **TINEA INCOGNITO is the altered, extensive, less scaly presentation produced by topical steroids.**
 - **Distinguish PITYRIASIS VERSICOLOR (*Malassezia*): hypo/hyperpigmented macules on the trunk with FINE FURFURACEOUS SCALE, “SPAGHETTI AND MEATBALLS” on KOH, GOLDEN-YELLOW Wood’s lamp fluorescence, treated with topical ketoconazole/selenium sulphide.**
+- **Tell the three genera apart on MACROCONIDIA: *TRICHOPHYTON* — PENCIL/cigar-shaped, smooth, thin-walled and few, with abundant MICROCONIDIA as the more prominent feature; *MICROSPORUM* — SPINDLE-shaped, rough (echinulate) and thick-walled, with few microconidia; *EPIDERMOPHYTON* — CLUB-shaped macroconidia in clusters and NO microconidia at all.**
 
 **EXAM CONNECTION:** Red reverse pigment + pencil-shaped macroconidia → ***T. rubrum***.
 
@@ -2911,11 +2328,9 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a4c6eab421f646bdb2af87449000c5aax329x329.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a3af12e85e0142fd92a4319a305d641cx225x170.PNG)
 
-`Q9432`
-
 ---
 
-### 119. Coccidioidomycosis — Valley Fever
+### 97. Coccidioidomycosis — Valley Fever
 
 **PEARL:** **“VALLEY FEVER” and “DESERT RHEUMATISM” are COCCIDIOIDOMYCOSIS**, caused by ***COCCIDIOIDES IMMITIS* and *C. POSADASII***, acquired by **inhaling ARTHROCONIDIA after soil disturbance** in the arid south-western USA and Central/South America. The classic triad of **desert rheumatism is FEVER + ARTHRALGIA + ERYTHEMA NODOSUM.** In tissue it forms a **SPHERULE PACKED WITH ENDOSPORES — not a yeast.**
 
@@ -2928,6 +2343,8 @@
 - **ERYTHEMA NODOSUM in coccidioidomycosis is a marker of a GOOD cell-mediated response and a FAVOURABLE prognosis** — a nice immunological irony.
 - **Its differentials by tissue form: *HISTOPLASMA* — small INTRACELLULAR yeasts (2–4 µm) with NARROW-BASED budding, in macrophages; endemic in the Ohio/Mississippi valleys and, in India, along the GANGES in West Bengal; cave and bird/bat droppings exposure; causes cavitary lung disease with hilar/mediastinal lymphadenopathy mimicking TB, and disseminates in AIDS. *BLASTOMYCES* — BROAD-BASED budding, thick refractile wall, with skin and bone disease. *PARACOCCIDIOIDES* — “MARINER’S WHEEL” multiple budding.**
 - **Histoplasmosis is the great TB mimic in India — old cavitary lesions plus hilar nodes plus a narrow-based budding yeast on SDA is the classic vignette.**
+- **ARTHROCONIDIA are both the clue and the hazard: hyphae fragmenting at their septa into rectangular, barrel-shaped “box-car” units. In a farmer or soil worker with an UPPER-LOBE CAVITARY lesion they mean *Coccidioides*, and they are so infectious that the mould phase is handled at BSL-3. *Geotrichum* and the dermatophytes also form arthrospores.**
+- **The spore vocabulary is examined directly. ASEXUAL — BLASTOCONIDIA (budding, as in yeasts), ARTHROCONIDIA (fragmentation), CHLAMYDOCONIDIA (thick-walled resting forms, e.g. *Candida albicans* on cornmeal agar), SPORANGIOSPORES (inside a sporangium — *Mucor*, *Rhizopus*), CONIDIA (borne on a conidiophore — *Aspergillus*, *Penicillium*). SEXUAL — ASCOSPORES (Ascomycetes), BASIDIOSPORES (Basidiomycetes, including *Cryptococcus*), ZYGOSPORES (Zygomycetes).**
 
 **EXAM CONNECTION:** “Valley fever/desert rheumatism” → **coccidioidomycosis**; narrow-based budding 2–4 µm yeast → **histoplasmosis**.
 
@@ -2942,12 +2359,12 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f10f38b8c46748d78bc1a1fdaccebad2x958x649.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cf4305a289564b899dc71aab4dfcf97fx958x656.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3ea8438058004e40912aaa8c1667141fx800x524.JPEG)
-
-`Q10115, Q10323`
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/08/screenshot-2024-03-07-103455.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/08/screenshot-2024-03-07-103700.jpg)
 
 ---
 
-### 120. Sporotrichosis
+### 98. Sporotrichosis
 
 **PEARL:** ***Sporothrix schenckii*** — a **DIMORPHIC fungus** causing **subcutaneous** infection with **nodules and ulcers spreading in a line along the LYMPHATICS** (“**rose gardener’s disease**”, after a thorn prick).
 
@@ -2968,37 +2385,9 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/07/picture12333.jpg)
 
-`Q11343`
-
 ---
 
-### 121. Fungal Spores and the Arthrospore Clue
-
-**PEARL:** **Hyphae fragmenting into rectangular (barrel-shaped) arthroconidia** in a farmer with an **upper-lobe cavitary lesion** = **Coccidioides** — arthrospores are the infective form.
-
-**UNDERSTAND:** Spore morphology is the microbiologist’s shorthand for how the fungus reproduces. **Arthrospores** are formed by the hypha simply breaking apart at septa, so they look like a row of bricks; **conidia** are budded off the tip of a specialised conidiophore (Aspergillus, Penicillium); **ascospores** and **basidiospores** are sexual spores formed inside an ascus or on a basidium. Only fragmentation gives the rectangular “box-car” appearance.
-
-**MUST KNOW:**
-
-- **Coccidioides immitis/posadasii:** dimorphic — **arthroconidia in soil/mould phase (highly infectious, laboratory hazard, handle in BSL-3)**, **spherules packed with endospores in tissue**. Endemic in south-western USA (“San Joaquin Valley fever”); presents with pneumonia, cavitation, **erythema nodosum**, and disseminates in the immunosuppressed and in pregnancy.
-- **Geotrichum** and the dermatophytes also form arthrospores; **Malassezia** shows “spaghetti and meatballs”.
-- **Asexual spore types:** blastoconidia (budding — yeasts), **arthroconidia** (fragmentation), **chlamydoconidia** (thick-walled resting, e.g. *Candida albicans* on cornmeal agar), sporangiospores (inside a sporangium — **Mucor, Rhizopus**), conidia (Aspergillus, Penicillium).
-- **Sexual spores:** ascospores (Ascomycetes), basidiospores (Basidiomycetes — **Cryptococcus** is one), zygospores (Zygomycetes).
-- Dimorphic fungi mnemonic — **“Mould in the cold, Yeast in the beast”**: Histoplasma, Blastomyces, Coccidioides (spherule, not yeast), Paracoccidioides, Sporothrix, Talaromyces.
-
-**EXAM CONNECTION:** The stem describes the microscopic appearance and asks for the spore **type** or the organism. “Fragmentation of hyphae into rectangular units” is the give-away phrase for arthrospores.
-
-**REMEMBER:** *Arthro = joints of the hypha snapping into bricks.*
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/08/screenshot-2024-03-07-103455.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/08/screenshot-2024-03-07-103700.jpg)
-
-`Q9559`
-
----
-
-### 122. Tinea Capitis: Kerion, Ectothrix and Endothrix
+### 99. Tinea Capitis: Kerion, Ectothrix and Endothrix
 
 **PEARL:** **Kerion** (boggy, inflammatory, pus-exuding scalp swelling) in a child with **farm-animal contact** = **Trichophyton verrucosum** — a **zoophilic** dermatophyte. **Spores OUTSIDE the hair shaft (ectothrix) = Microsporum** (audouinii, canis); **spores INSIDE (endothrix) = Trichophyton tonsurans, violaceum**.
 
@@ -3021,11 +2410,9 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/08/picture23.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/08/screenshot-2024-03-07-115808.jpg)
 
-`Q9560, Q9563`
-
 ---
 
-### 123. Mycetoma: Eumycetoma vs Actinomycetoma
+### 100. Mycetoma: Eumycetoma vs Actinomycetoma
 
 **PEARL:** **Eumycetoma is FUNGAL; actinomycetoma is BACTERIAL** (filamentous actinomycetes). Both present as a chronic, **painless**, slowly enlarging swelling of the foot with **multiple discharging sinuses containing grains (granules)**.
 
@@ -3054,11 +2441,9 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/08/picture24.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/08/screenshot-2024-03-07-120416.jpg)
 
-`Q9562`
-
 ---
 
-### 124. Mucormycosis After COVID-19
+### 101. Mucormycosis After COVID-19
 
 **PEARL:** **Broad, ASEPTATE (pauci-septate), ribbon-like hyphae branching at WIDE (right) ANGLES**, in a diabetic or steroid-treated post-COVID patient with **blood-tinged nasal discharge and black necrotic turbinates**, is **MUCORMYCOSIS**. **Aspergillus** is the opposite: **narrow, SEPTATE hyphae branching at ACUTE (45°) angles**.
 
@@ -3083,11 +2468,9 @@
 ![explanation](https://cdn1.dailyrounds.org/uploads/f3f1aa81c9f447c5a5ced34814f830b3.JPEG)
 ![explanation](https://cdn1.dailyrounds.org/uploads/3c54740451584c91ba909094bfbf2545.JPEG)
 
-`Q10994`
-
 ---
 
-### 125. Pneumocystis jirovecii
+### 102. Pneumocystis jirovecii
 
 **PEARL:** *Pneumocystis jirovecii* **CANNOT be cultured** — not on Sabouraud agar or any routine medium. Diagnosis is **morphological**: the **CYST WALL stains BLACK with methenamine SILVER** (also toluidine blue, calcofluor white), while **trophozoites (thin- walled, irregular) are seen on GIEMSA**; **immunofluorescence and PCR** on induced sputum or bronchoalveolar lavage are the modern tests.
 
@@ -3108,23 +2491,11 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5f062a1568b64ef6b003635283f2e591x720x479.JPEG)
 
-`Q11819`
-
----
-
-### 126. Trichophyton — Macroconidia
-
-**PEARL:** **Pencil-shaped (cigar-shaped), smooth, thin-walled macroconidia** distinguish ***Trichophyton***; its abundant **microconidia** are the more prominent feature.
-
-**MUST KNOW:** Compare — ***Microsporum***: **spindle-shaped, rough (echinulate), thick-walled** macroconidia, few microconidia; ***Epidermophyton***: **club-shaped macroconidia in clusters and NO microconidia**. *Trichophyton* infects **skin, hair and nails**; *Epidermophyton* spares hair; *Microsporum* spares nails. **KOH mount** for direct demonstration; **Sabouraud dextrose agar** for culture.
-
-**REMEMBER:** *Trichophyton = pencil; Microsporum = spindle with spikes; Epidermophyton = clubs, no microconidia.*
-
 ---
 
 ## Parasitology — Protozoa
 
-### 127. Luminal Protozoa — Giardia vs Entamoeba
+### 103. Luminal Protozoa — Giardia vs Entamoeba
 
 **PEARL:** **GIARDIA causes non-bloody, FOUL-SMELLING, FATTY diarrhoea with bloating and MALABSORPTION — NO blood, NO mucus, NO fever.** **ENTAMOEBA HISTOLYTICA causes DYSENTERY — stools with BLOOD AND MUCUS, lower abdominal pain and tenesmus.** Giardia’s trophozoite is **pear/“tennis-racket”-shaped with two nuclei (“owl/monkey face”), 4 pairs of flagella and a VENTRAL SUCKING DISC**; its infective form is the **QUADRINUCLEATE CYST**.
 
@@ -3137,6 +2508,9 @@
 - **AMOEBIC LIVER ABSCESS: usually the RIGHT lobe, SOLITARY, “ANCHOVY SAUCE” pus that is STERILE, amoebae only at the rim; SEROLOGY is positive; treat with METRONIDAZOLE plus a LUMINAL AGENT (paromomycin, diloxanide furoate) to clear cysts. Aspirate only if large, left-lobed, or not responding.**
 - **AMOEBOMA in the caecum/rectosigmoid mimics colonic carcinoma** — a classic misdiagnosis.
 - **Contrast the other stool patterns: *CAMPYLOBACTER* — fever with bloody or watery diarrhoea, faecal leucocytes, and a link with GUILLAIN–BARRÉ SYNDROME. *STAPHYLOCOCCUS AUREUS* food poisoning — TOXIN-mediated, VOMITING within 1–6 hours. *VIBRIO CHOLERAE* — painless RICE-WATER stool with no leucocytes.**
+- **On DUODENAL HISTOLOGY the paradox is the diagnosis: pear/heart-shaped BINUCLEATE trophozoites lying free in the lumen along the villous surface, with essentially NORMAL small-bowel architecture. *Giardia* adheres but never invades, so it is never found within the epithelium — unlike *Cryptosporidium*, which sits intracellular but EXTRACYTOPLASMIC on the brush border, and microsporidia, which are truly intracellular. Heavy or chronic infection adds partial villous atrophy with crypt hyperplasia.**
+- **Giardiasis causes a SECONDARY LACTASE DEFICIENCY that persists for weeks after the parasite is cleared — the reason symptoms continue despite successful treatment, and a common clinical trap.**
+- **In an HIV patient with chronic watery diarrhoea, the duodenal-biopsy differential is *Giardia*, *Cryptosporidium*, microsporidia, *Cystoisospora*, MAC (foamy macrophages packed with acid-fast bacilli) and CMV — each with its own histological location.**
 
 **EXAM CONNECTION:** “Mucus in stool with abdominal pain” → ***Entamoeba***; life-cycle/microscopy spotters → **Giardia**.
 
@@ -3144,12 +2518,12 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/6faccf5c3c43457a82d9a5b5e3f00143.JPEG)
-
-`Q9333, Q9343`
+![question](https://cdn1.dailyrounds.org/uploads/21b32f8da69c4f20a28f96c022429b3f.JPEG)
+![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5e90b1ac26544eaa8ea2e1099cc38096x1280x853.JPEG)
 
 ---
 
-### 128. Coccidian Parasites in the HIV Patient
+### 104. Coccidian Parasites in the HIV Patient
 
 **PEARL:** A **KINYOUN (modified acid-fast) positive OOCYST in an HIV patient with diarrhoea** — identify it **BY SIZE**: **CRYPTOSPORIDIUM 4–6 µm, ROUND, uniformly acid-fast; CYCLOSPORA 8–12 µm, round, VARIABLY acid-fast and AUTOFLUORESCENT; CYSTOISOSPORA (Isospora) belli 23–36 µm, LARGE and OVAL, uniformly acid-fast.** A 25 µm oval oocyst is **Cystoisospora**.
 
@@ -3173,38 +2547,9 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/eb7670963b1046c88ea8a938f3e3ac9ax508x368.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9ffc8bed88464893a60488eefaae23a1x512x284.JPEG)
 
-`Q9340`
-
 ---
 
-### 129. Giardia on Duodenal Histopathology
-
-**PEARL:** **Trophozoites in the DUODENAL LUMEN, lying along the villous surface, PEAR/HEART-SHAPED with TWO EQUAL NUCLEI — with essentially NORMAL small-bowel architecture — is *GIARDIA LAMBLIA*.** It is **the only common pathogenic protozoan found in the human duodenum and jejunum.**
-
-**UNDERSTAND:** The **normal-looking mucosa alongside a heavy parasite load** is the diagnostic paradox and the exam clue. *Giardia* **adheres but does not invade**, so histology shows organisms **free in the lumen and in the mucus layer, never within the epithelium** — quite unlike *Cryptosporidium* (which sits in an intracellular but extracytoplasmic position on the brush border) or microsporidia (truly intracellular). In heavy or chronic infection, **partial villous atrophy with crypt hyperplasia** appears.
-
-**MUST KNOW:**
-
-- **Giardiasis is characteristically prolonged and severe in IgA DEFICIENCY, COMMON VARIABLE IMMUNODEFICIENCY and hypogammaglobulinaemia** — because **SECRETORY IgA is the main defence**. Recurrent or refractory giardiasis should prompt immunoglobulin measurement.
-- **It causes SECONDARY LACTASE DEFICIENCY that can persist for weeks after the parasite is cleared** — explaining continued symptoms despite successful treatment, a common clinical trap.
-- **Stool microscopy misses up to half of cases (intermittent shedding) — use STOOL ANTIGEN ELISA or PCR, or the ENTERO-TEST string/duodenal aspirate.**
-- ***Giardia* is now placed in the genus *Giardia duodenalis*/*intestinalis*; it lacks mitochondria and has TWO NUCLEI and 4 pairs of FLAGELLA, with a VENTRAL SUCKING DISC.**
-- **Treat with METRONIDAZOLE (5–7 days) or TINIDAZOLE (single dose); nitazoxanide, albendazole and paromomycin (safe in pregnancy) are alternatives. Treat symptomatic household contacts.**
-- **In an HIV patient with chronic watery diarrhoea, the differential on duodenal biopsy is *Giardia*, *Cryptosporidium*, microsporidia, *Cystoisospora*, MAC (foamy macrophages with acid-fast bacilli) and CMV** — each with a distinctive histological location.
-
-**EXAM CONNECTION:** Duodenal biopsy with luminal binucleate trophozoites → ***Giardia***.
-
-**REMEMBER:** *Parasites everywhere and a normal-looking mucosa — that is Giardia.*
-
-**IMAGES:**
-![question](https://cdn1.dailyrounds.org/uploads/21b32f8da69c4f20a28f96c022429b3f.JPEG)
-![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5e90b1ac26544eaa8ea2e1099cc38096x1280x853.JPEG)
-
-`Q9398`
-
----
-
-### 130. Malaria — Species Identification on the Smear
+### 105. Malaria — Species Identification on the Smear
 
 **PEARL:** ***P. FALCIPARUM*: MULTIPLE ring forms per red cell, ACCOLÉ/appliqué forms, DOUBLE-CHROMATIN “headphone” rings, BANANA/crescent-shaped GAMETOCYTES, HIGH parasitaemia, red cells NOT ENLARGED, and only RING FORMS AND GAMETOCYTES in the peripheral blood.** ***P. VIVAX*: usually a SINGLE ring, ENLARGED pale red cells with SCHÜFFNER’S DOTS, amoeboid trophozoites, and ALL stages visible.** **A 72-HOUR (QUARTAN) fever periodicity = *P. MALARIAE*; 48-hourly (tertian) = vivax, ovale and falciparum; 24-hourly (quotidian) = *P. KNOWLESI*.**
 
@@ -3219,6 +2564,17 @@
 - **Severe malaria criteria: impaired consciousness/cerebral malaria, severe anaemia, hypoglycaemia, acidosis, renal failure (BLACKWATER FEVER), ARDS, DIC, shock, and parasitaemia >5–10%.**
 - **RTS,S/AS01 (Mosquirix) is the first licensed malaria vaccine — a *P. falciparum* CIRCUMSPOROZOITE PROTEIN-based pre-erythrocytic vaccine; R21/Matrix-M is the newer, more effective one.**
 - **Diagnosis: THICK smear for detection (higher sensitivity), THIN smear for species identification and parasite counting; rapid tests detect HRP-2 (falciparum, but may remain positive for weeks and may be falsely negative with *pfhrp2* gene deletions) and pLDH/aldolase.**
+- **PfEMP-1 binds CD36, ICAM-1 and — in pregnancy — CHONDROITIN SULPHATE A in the placenta, which is why falciparum alone causes CEREBRAL, PLACENTAL and multi-organ disease. *P. malariae* shows BAND-FORM trophozoites and ROSETTE schizonts; *P. KNOWLESI* looks like *malariae* but causes DAILY fever and severe disease (macaque reservoir, Southeast Asia).**
+- **CHLOROQUINE is the treatment of choice for VIVAX MALARIA IN PREGNANCY and is safe throughout; primaquine is contraindicated, so chloroquine prophylaxis is continued until delivery and radical cure deferred.**
+
+| | ***P. falciparum*** | ***P. vivax* / *ovale*** |
+| --- | --- | --- |
+| RBC size | **Normal** | **Enlarged**, Schüffner dots |
+| Stages on smear | **Rings + banana gametocytes only** | **All stages**, amoeboid trophozoites |
+| Parasitaemia | **High, multiple rings/cell** | Low, one ring/cell |
+| Cell preference | **All ages of RBC** | **Reticulocytes** (vivax), Duffy antigen required |
+| Relapse | **No hypnozoites** | **Hypnozoites → relapse** |
+| Severity | **Cerebral malaria, blackwater fever, ARDS, AKI** | Benign tertian; vivax can still be severe |
 
 **EXAM CONNECTION:** “Not associated with the malaria smear” → **enlarged erythrocytes in *P. falciparum***.
 
@@ -3229,12 +2585,12 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/05/picture20.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/05/picture23.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/05/screenshot-2024-03-05-114810.jpg)
-
-`Q9471, Q9472, Q9630, Q9631, Q9632, Q9633`
+![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture30_lqTpbJZ.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture31_J54vSYe.jpg)
 
 ---
 
-### 131. Intestinal Amoebiasis — Site and Lesion
+### 106. Intestinal Amoebiasis — Site and Lesion
 
 **PEARL:** ***ENTAMOEBA HISTOLYTICA* most commonly involves the ILEOCAECAL/CAECAL region, followed by the RECTOSIGMOID**, producing **FLASK-SHAPED ULCERS** — narrow-necked with a broad, undermined base.
 
@@ -3256,11 +2612,9 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/04/picture71.jpg)
 
-`Q9627`
-
 ---
 
-### 132. Free-Living Amoebae — Naegleria vs Acanthamoeba
+### 107. Free-Living Amoebae — Naegleria vs Acanthamoeba
 
 **PEARL:** **PRIMARY AMOEBIC MENINGOENCEPHALITIS (PAM) is caused by *NAEGLERIA FOWLERI*** — a **FULMINANT, rapidly fatal purulent meningoencephalitis in healthy young people after SWIMMING/DIVING IN WARM FRESH WATER**, entering through the **CRIBRIFORM PLATE along the OLFACTORY NERVE**. It is **commoner in TROPICAL climates** and is **NOT faeco-orally transmitted.** ***ACANTHAMOEBA* instead causes a SUBACUTE/CHRONIC GRANULOMATOUS AMOEBIC ENCEPHALITIS in the IMMUNOCOMPROMISED, and KERATITIS in CONTACT LENS wearers.**
 
@@ -3281,11 +2635,9 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/05/screenshot-2024-03-05-100242.jpg)
 
-`Q9628`
-
 ---
 
-### 133. Kala-Azar in India
+### 108. Visceral Leishmaniasis (Kala-Azar) — Epidemiology, Diagnosis and Treatment
 
 **PEARL:** **VISCERAL LEISHMANIASIS (kala-azar) in India is concentrated in BIHAR (the great majority of cases), JHARKHAND, WEST BENGAL and eastern UTTAR PRADESH — plus a newer focus in the sub-Himalayan region.** Note the exam’s framing: **Uttar Pradesh as a whole is NOT a classically endemic state**, whereas Bihar, West Bengal and (in the question’s list) Assam/the north-east are.
 
@@ -3299,6 +2651,8 @@
 - **POST-KALA-AZAR DERMAL LEISHMANIASIS (PKDL) appears months to years after treatment as hypopigmented macules, papules and nodules — patients are a HUMAN RESERVOIR and are the main obstacle to elimination, so they must be found and treated.**
 - **Kala-azar is an AIDS-defining opportunistic infection in co-infected patients, with frequent relapse.**
 - **The KALA-AZAR ELIMINATION PROGRAMME targets <1 case per 10,000 population at block level**, using active case search, IRS with synthetic pyrethroids, and free treatment.
+- **Because the amastigote is an OBLIGATE INTRACELLULAR parasite of MACROPHAGES, you must look where the macrophages are — the BUFFY COAT (concentrated leukocytes) for a peripheral specimen, and splenic aspirate, bone marrow or lymph node for tissue. A plain blood smear is useless, and “obligate extracellular” is the standard distractor.**
+- **AMASTIGOTE = LD BODY (intracellular, no flagellum); PROMASTIGOTE = the flagellated form found in the sandfly and in NNN culture medium.**
 
 **EXAM CONNECTION:** “Not commonly endemic” → **Uttar Pradesh** among Bihar, West Bengal and Assam.
 
@@ -3306,12 +2660,11 @@
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/05/picture14.jpg)
-
-`Q9629`
+![question](https://media.cerebellumacademy.com/media/public/images/2023/03/30/untitled-274.jpg)
 
 ---
 
-### 134. African Trypanosomiasis
+### 109. African Trypanosomiasis
 
 **PEARL:** **Prolonged fever, headache, malaise and POSTERIOR CERVICAL LYMPHADENOPATHY (WINTERBOTTOM’S SIGN) in a patient from rural Africa = SLEEPING SICKNESS.** ***T. BRUCEI GAMBIENSE* (West Africa, *Glossina palpalis*) is CHRONIC — lasting months to years, with PROMINENT lymphadenopathy, LOW parasitaemia and LATE CNS involvement, and MAN is the main reservoir.** ***T. BRUCEI RHODESIENSE* (East Africa, *Glossina morsitans*) is ACUTE — under 9 months, MINIMAL lymphadenopathy, HIGH parasitaemia, EARLY CNS disease and MYOCARDITIS, with WILD GAME as the reservoir.**
 
@@ -3333,76 +2686,15 @@
 **IMAGES:**
 ![question](https://image.prepladder.com/notes/XCgE1R7gujCnnAYTwgbH1744454970.png)
 
-`Q10165`
-
----
-
-### 135. Visceral Leishmaniasis — Diagnosis and Treatment
-
-**PEARL:** ***Leishmania donovani* amastigotes live INSIDE macrophages**, so the **BUFFY COAT** (concentrated leukocytes) is used for peripheral diagnosis. **Splenic aspirate is the most sensitive (>95%)**; **bone marrow is safer**.
-
-**UNDERSTAND:** Because the parasite is **obligate intracellular in macrophages**, you must look where the macrophages are — hence buffy coat, marrow, spleen and liver, not a plain blood smear.
-
-**MUST KNOW:**
-
-- **Kala-azar features:** **massive splenomegaly > hepatomegaly, pancytopenia, fever with a double rise, hypergammaglobulinaemia with reversed A:G ratio, and darkening of the skin** (“black fever”). **Post-kala-azar dermal leishmaniasis (PKDL)** appears months–years later and is the **human reservoir** in India.
-- **Vector = female PHLEBOTOMUS (sandfly) — in India *P. argentipes***; the Indian form is **anthroponotic (man is the only reservoir)**, which is what makes elimination feasible.
-- **Drug of choice in India = LIPOSOMAL AMPHOTERICIN B (single dose)** — sodium **stibogluconate is obsolete in Bihar due to widespread resistance**. **Miltefosine** is the only oral drug (teratogenic — contraindicated in pregnancy).
-- **rK39 dipstick** is the field serological test; **aldehyde (Napier’s) test** is the old non-specific one.
-- **Amastigote = LD body** (intracellular, no flagellum); **promastigote** = flagellated form in the sandfly and in **NNN culture medium**.
-
-**EXAM CONNECTION:** Bone marrow image with intracellular amastigotes → asked which statement is true. The traps are “obligate **extra**cellular” and “stibogluconate first line in India”.
-
-**REMEMBER:** *Inside macrophages, so look in the buffy coat, marrow or spleen — and treat with liposomal amphotericin B.*
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2023/03/30/untitled-274.jpg)
-
-`Q11350`
-
----
-
-### 136. Plasmodium falciparum on the Blood Film
-
-**PEARL:** Falciparum is recognised by **multiple ring forms (often 2 or more) per red cell, delicate double-chromatin-dot “headphone” rings, APPLIQUÉ/accolé forms at the cell margin, high parasitaemia, normal-sized red cells, and BANANA-SHAPED (crescentic) gametocytes**. **Only rings and gametocytes are seen** — the other stages are hidden.
-
-**UNDERSTAND:** The missing stages are the key to the disease. Falciparum-infected red cells express **PfEMP-1**, which binds endothelial receptors (**CD36, ICAM-1, chondroitin sulphate A in the placenta**) — so the maturing trophozoites and schizonts **sequester in the capillaries of the brain, gut and placenta** and never circulate. That sequestration is simultaneously why the smear shows only rings **and** why falciparum alone causes **cerebral malaria, placental malaria and multi-organ failure**.
-
-**MUST KNOW:**
-
-| | **P. falciparum** | **P. vivax / ovale** |
-| --- | --- | --- |
-| RBC size | **Normal** | **Enlarged**, Schüffner dots |
-| Stages on smear | **Rings + banana gametocytes only** | **All stages**, amoeboid trophozoites |
-| Parasitaemia | **High, multiple rings/cell** | Low, one ring/cell |
-| Cell preference | **All ages of RBC** | **Reticulocytes** (vivax), Duffy antigen required |
-| Relapse | **No hypnozoites** | **Hypnozoites → relapse** |
-| Severity | **Cerebral malaria, blackwater fever, ARDS, AKI** | Benign tertian; vivax can still be severe |
-
-- **P. malariae** — band-form trophozoites, rosette schizonts, **quartan** fever, **nephrotic syndrome**. **P. knowlesi** — mimics malariae morphologically but causes **daily fever and severe disease** (macaque reservoir, Southeast Asia).
-- **Severe falciparum: IV ARTESUNATE** (superior to quinine in mortality — SEAQUAMAT/AQUAMAT), then a full oral ACT course. Uncomplicated falciparum in India: **artesunate + sulfadoxine-pyrimethamine (or ACT) + a single dose of primaquine 0.75 mg/kg as a gametocytocide**.
-- **Vivax: chloroquine (still effective in India) for the blood stage + PRIMAQUINE 14 days for radical cure** of hypnozoites — **check G6PD first**, and **primaquine is contraindicated in pregnancy** (use chloroquine prophylaxis until delivery).
-- **Chloroquine is the treatment of choice for vivax malaria in pregnancy** and is safe throughout.
-
-**EXAM CONNECTION:** The smear image — count the rings per cell and look for **banana gametocytes** or **appliqué forms**. Enlarged red cells with Schüffner dots means vivax.
-
-**REMEMBER:** *Only rings and bananas circulate — everything else is stuck to the endothelium.*
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture30_lqTpbJZ.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture31_J54vSYe.jpg)
-
-`Q10872, Q9580`
-
 ---
 
 ---
 
 ## Parasitology — Helminths
 
-### 137. Strongyloides stercoralis
+### 110. Strongyloides and the Autoinfecting Parasites
 
-**PEARL:** ***Strongyloides* is the ONLY nematode with a FREE-LIVING as well as a parasitic life cycle, and the only one capable of AUTOINFECTION** — rhabditiform larvae in the bowel mature into **FILARIFORM larvae that re-penetrate the colonic wall or perianal skin**, so infection persists for decades. **The infective form is the FILARIFORM larva (skin penetration); the diagnostic form in stool is the RHABDITIFORM larva** — it is **OVOVIVIPAROUS, so EGGS ARE NOT SEEN IN STOOL** (unlike hookworm).
+**PEARL:** ***Strongyloides* is the ONLY nematode with a FREE-LIVING as well as a parasitic life cycle, and the one in which AUTOINFECTION is clinically decisive** — rhabditiform larvae in the bowel mature into **FILARIFORM larvae that re-penetrate the colonic wall or perianal skin**, so infection persists for decades. **The infective form is the FILARIFORM larva (skin penetration); the diagnostic form in stool is the RHABDITIFORM larva** — it is **OVOVIVIPAROUS, so EGGS ARE NOT SEEN IN STOOL** (unlike hookworm). **The full autoinfecting set is “CHEST”: *CRYPTOSPORIDIUM*, *HYMENOLEPIS NANA*, *ENTEROBIUS VERMICULARIS*, *STRONGYLOIDES STERCORALIS*, *TAENIA SOLIUM*.**
 
 **UNDERSTAND:** Autoinfection is the whole clinical story. Because the parasite can complete its cycle **without ever leaving the host**, a single exposure gives **lifelong infection** — and when the host is immunosuppressed, the same loop **accelerates catastrophically into HYPERINFECTION SYNDROME and DISSEMINATED strongyloidiasis**, with larvae carrying gut bacteria into the blood and meninges (**polymicrobial Gram-negative sepsis and meningitis**).
 
@@ -3413,19 +2705,23 @@
 - **LARVA CURRENS (“racing larva”) — a rapidly migrating, intensely itchy, urticarial perianal serpiginous rash moving centimetres per HOUR — is pathognomonic** and distinguishes it from cutaneous larva migrans, which advances millimetres per day.
 - **Treatment: IVERMECTIN is the drug of choice** (albendazole is inferior).
 - **Contrast the other soil-transmitted helminths: HOOKWORM (*Ancylostoma*/*Necator*) — filariform larva penetrates skin, causes iron deficiency anaemia; *ASCARIS* — ingested embryonated egg, LOEFFLER’S pneumonitis, bowel obstruction, biliary ascariasis; *ENTEROBIUS* (pinworm) — perianal itch, diagnosed by the CELLOPHANE TAPE (NIH swab) test, treat the whole family; all treated with ALBENDAZOLE except *Strongyloides*.**
+- **There are two kinds of autoinfection. INTERNAL — *Strongyloides* filariform larvae penetrating the colonic wall, *H. nana* eggs hatching in the gut, and *T. solium* eggs carried back to the stomach by reverse peristalsis to give CYSTICERCOSIS. EXTERNAL — *ENTEROBIUS*, where scratching the perianal skin carries eggs back to the mouth. ***HYMENOLEPIS DIMINUTA* (the RAT tapeworm) does NOT autoinfect** — it obligatorily needs an arthropod intermediate host (grain beetles, fleas).**
+- ***HYMENOLEPIS NANA* is the ONLY tapeworm needing NO intermediate host and is the commonest human cestode — treat with PRAZIQUANTEL. *ENTEROBIUS*: nocturnal perianal pruritus, the female migrating out at night to lay colourless PLANO-CONVEX eggs that are ALREADY INFECTIVE when laid; diagnose with the CELLOPHANE TAPE (NIH swab) test since eggs are rarely in stool; TREAT THE WHOLE FAMILY, repeat after 2 weeks, and wash bedding.**
+- **Autoinfection is precisely what makes SCREENING BEFORE IMMUNOSUPPRESSION necessary — principally for *Strongyloides*. The complementary set, the parasites needing NO intermediate host at all, is *GIARDIA*, *Entamoeba*, *Enterobius*, *Ascaris*, *Trichuris* and hookworm — a DIRECT life cycle, all faeco-oral or soil-transmitted; *Toxoplasma*, *Taenia* and *Echinococcus* do need one.**
 
-**EXAM CONNECTION:** Life-cycle diagrams showing a free-living cycle plus autoinfection → ***Strongyloides***.
+**EXAM CONNECTION:** Life-cycle diagrams showing a free-living cycle plus autoinfection → ***Strongyloides***; “least likely to cause autoinfection” → ***Hymenolepis diminuta***.
 
-**REMEMBER:** *The only worm that reinfects you from inside — and steroids turn it lethal.*
+**REMEMBER:** *CHEST — Crypto, H. nana, Enterobius, Strongyloides, T. solium; and steroids turn Strongyloides lethal.*
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/d56d5520329b4aceb6b6e248aabc0b56.PNG)
-
-`Q9342`
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/04/screenshot-2024-03-04-190536.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/04/screenshot-2024-03-04-190749.jpg)
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/05/picture54.jpg)
 
 ---
 
-### 138. Cestodes and the Anthelmintic Map
+### 111. Cestodes and the Anthelmintic Map
 
 **PEARL:** **PRAZIQUANTEL is the drug for ALL TAPEWORMS (cestodes) and FLUKES (trematodes)** — including *Hymenolepis nana*, *Taenia*, *Diphyllobothrium* and schistosomes. **ALBENDAZOLE is the drug for NEMATODES, for NEUROCYSTICERCOSIS and for HYDATID disease. IVERMECTIN is for *Strongyloides*, scabies, cutaneous larva migrans and onchocerciasis. DIETHYLCARBAMAZINE (DEC) is for LYMPHATIC FILARIASIS, tropical pulmonary eosinophilia and loiasis.**
 
@@ -3447,11 +2743,9 @@
 ![question](https://cdn1.dailyrounds.org/uploads/575f7b66bd404923adc47c0cfb1ddb4c.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/64af404af17d4eeabd9e06632e4993cfx520x435.GIF)
 
-`Q9346`
-
 ---
 
-### 139. Hydatid Disease — Granulosus vs Multilocularis
+### 112. Hydatid Disease — Granulosus vs Multilocularis
 
 **PEARL:** ***ECHINOCOCCUS GRANULOSUS* forms a SINGLE, UNILOCULAR, well-defined fluid-filled cyst** (liver > lung); ***ECHINOCOCCUS MULTILOCULARIS* forms MULTIPLE ALVEOLAR-LIKE, infiltrating cysts that behave like a MALIGNANCY**, invading liver tissue and metastasising. The **“WATER-LILY SIGN”** — floating detached endocyst membranes — is a classic radiological sign of granulosus.
 
@@ -3473,11 +2767,9 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1d0bcc0948bf4d86abcdd120d6a227bax600x667.JPEG)
 
-`Q9354`
-
 ---
 
-### 140. Cutaneous Larva Migrans
+### 113. Cutaneous Larva Migrans
 
 **PEARL:** An intensely itchy **SERPIGINOUS, raised, erythematous track advancing a few millimetres to centimetres per DAY**, typically on the **FEET, buttocks or trunk**, is **CUTANEOUS LARVA MIGRANS (“creeping eruption”)** — caused by **ANIMAL hookworm larvae, usually *ANCYLOSTOMA BRAZILIENSE*, acquired from soil or sand contaminated by DOG or CAT FAECES.** **KENNEL WORKERS, beachgoers, gardeners, plumbers and children in sandpits are at risk. Treatment is a single oral dose of IVERMECTIN 200 µg/kg** (albendazole for 3 days is an alternative).
 
@@ -3499,11 +2791,9 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/3b8a484a168d48bb85ddd8073ec4ce80.PNG)
 
-`Q9359`
-
 ---
 
-### 141. Neurocysticercosis — The Order of Treatment
+### 114. Neurocysticercosis — The Order of Treatment
 
 **PEARL:** In neurocysticercosis, **START CORTICOSTEROIDS BEFORE (and continue them during and after) the ANTIPARASITIC drug.** Albendazole kills the cysticerci, and **dying larvae release antigen that provokes intense inflammation, cerebral oedema, seizures and raised intracranial pressure** — steroids blunt that reaction.
 
@@ -3525,11 +2815,9 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/eef83360be9448318ec488874710dbf2x468x455.JPEG)
 
-`Q9368`
-
 ---
 
-### 142. Trematodes (Flukes)
+### 115. Trematodes (Flukes) — Where the Adult Lives and What You Ate
 
 **PEARL:** ***FASCIOLA HEPATICA* — the sheep liver fluke — lives in the INTRAHEPATIC BILIARY RADICLES, and is acquired by eating METACERCARIAE ENCYSTED ON RAW AQUATIC VEGETATION (watercress), NOT from drinking water.** **SCHISTOSOMES are DIOECIOUS (separate sexes) — the only trematodes that are; all other flukes are HERMAPHRODITE (monoecious).** **PRAZIQUANTEL treats most flukes — but *FASCIOLA* is the exception, requiring TRICLABENDAZOLE.**
 
@@ -3542,16 +2830,29 @@
 - **Acute schistosomiasis: KATAYAMA FEVER (fever, urticaria, eosinophilia weeks after exposure) and SWIMMER’S ITCH (cercarial dermatitis).**
 - ***Fasciola* causes an acute hepatic migratory phase (fever, right upper quadrant pain, marked EOSINOPHILIA, hepatic tracks on imaging) followed by a chronic biliary phase; the “HALZOUN” syndrome is pharyngeal obstruction from eating raw liver containing adult flukes.**
 - **Fluke eggs are OPERCULATED (except schistosome eggs, which are non-operculated and spined) — which is why FLOTATION methods miss them and formol-ether SEDIMENTATION is required.**
+- **Every fluke question reduces to two facts — the FOOD that transmits it and the ORGAN the adult inhabits — which together decide where the eggs appear. *PARAGONIMUS* is the only one that reaches the lung, so it is the only fluke whose eggs are found in BOTH SPUTUM AND STOOL (coughed up and swallowed); the liver flukes shed into bile, so stool only.**
+
+| Fluke | Source | Adult site | Key point |
+| --- | --- | --- | --- |
+| ***Paragonimus westermani*** | **Crab, crayfish** | **Lung** | Haemoptysis mimicking **TB**; eggs in **sputum and stool**; praziquantel |
+| ***Clonorchis sinensis* / *Opisthorchis*** | **Raw freshwater fish** | Bile ducts | **Cholangiocarcinoma** |
+| ***Fasciola hepatica*** | **Watercress**, aquatic plants | Bile ducts (sheep liver fluke) | Large operculated egg; **triclabendazole**, not praziquantel |
+| ***Fasciolopsis buski*** | **Water chestnut/caltrop** | **Small intestine** (largest intestinal fluke, 2–7 cm) | Diarrhoea, malabsorption, oedema |
+| ***Schistosoma*** | **Skin penetration in water** (snail) | Veins | *S. haematobium* → bladder, **squamous cell carcinoma**; *S. mansoni*/*japonicum* → portal hypertension |
+
+- ***Fasciola* and *Fasciolopsis* have almost identical large operculated eggs — separate them by the ADULT WORM morphology and by the clinical picture (biliary versus intestinal).**
 
 **EXAM CONNECTION:** Multi-statement trematode question — the true statement is usually **the anatomical location or the sex/host detail**.
 
 **REMEMBER:** *Only schistosomes have separate sexes and pierce your skin; only Fasciola needs triclabendazole.*
 
-`Q9410`
+**IMAGES:**
+![question](https://media.cerebellumacademy.com/media/public/images/2024/03/05/picture43.jpg)
+![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/05/picture44.jpg)
 
 ---
 
-### 143. Diagnosing Lymphatic Filariasis
+### 116. Diagnosing Lymphatic Filariasis
 
 **PEARL:** In a patient with fever and a **POSITIVE FILARIAL ANTIGEN test**, the next step is **DEMONSTRATION OF MICROFILARIAE ON A PERIPHERAL BLOOD SMEAR** — the standard confirmatory test for active infection. Because of **NOCTURNAL PERIODICITY**, the sample must be taken **BETWEEN 10 pm AND 2 am** (matching the biting time of the *Culex* vector).
 
@@ -3573,38 +2874,9 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f7253091b8064667aa7a6a122b40b285x439x319.PNG)
 
-`Q9434`
-
 ---
 
-### 144. Autoinfection — The “CHEST” Parasites
-
-**PEARL:** Parasites capable of **AUTOINFECTION** are remembered as **“CHEST”: *CRYPTOSPORIDIUM*, *HYMENOLEPIS NANA*, *ENTEROBIUS VERMICULARIS*, *STRONGYLOIDES STERCORALIS*, *TAENIA SOLIUM*.** ***HYMENOLEPIS DIMINUTA* (the RAT tapeworm) does NOT autoinfect** — it obligatorily requires an **arthropod intermediate host (grain beetles/fleas)**.
-
-**UNDERSTAND:** Autoinfection means the **infective stage is produced inside the host and re-invades without an external phase** — which has one dominant clinical consequence: **the infection persists indefinitely and can amplify catastrophically under immunosuppression.** That is why *Strongyloides* hyperinfection follows steroids, why *H. nana* is heavier in the immunocompromised, and why *Cryptosporidium* becomes intractable in AIDS.
-
-**MUST KNOW:**
-
-- **Two types: INTERNAL autoinfection (*Strongyloides* filariform larvae penetrating the colonic wall; *H. nana* eggs hatching in the gut; *T. solium* eggs reaching the stomach by reverse peristalsis → cysticercosis) and EXTERNAL autoinfection (*Enterobius* — scratching the perianal skin and transferring eggs to the mouth, the classic hand-to-mouth cycle in children).**
-- ***HYMENOLEPIS NANA* is the ONLY tapeworm that needs NO intermediate host** and is the commonest human cestode; treat with **PRAZIQUANTEL**.
-- ***ENTEROBIUS*: nocturnal perianal pruritus; the female migrates out at night to lay eggs; diagnosis by the CELLOPHANE TAPE/NIH SWAB (eggs are rarely found in stool); eggs are colourless, PLANO-CONVEX (flattened on one side) and are ALREADY INFECTIVE when laid. TREAT THE WHOLE FAMILY and repeat after 2 weeks; wash bedding and clothing.**
-- **The complementary set is the parasites needing NO intermediate host at all — *GIARDIA*, *Entamoeba*, *Enterobius*, *Ascaris*, *Trichuris*, hookworm — a DIRECT life cycle, all faeco-oral or soil-transmitted.** ***Toxoplasma*, *Taenia* and *Echinococcus* need intermediate hosts.**
-- **The autoinfection list also predicts who NEEDS SCREENING BEFORE IMMUNOSUPPRESSION — principally *Strongyloides*.**
-
-**EXAM CONNECTION:** “Least likely to cause autoinfection” → ***Hymenolepis diminuta***.
-
-**REMEMBER:** *CHEST — Crypto, H. nana, Enterobius, Strongyloides, T. solium.*
-
-**IMAGES:**
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/04/screenshot-2024-03-04-190536.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/04/screenshot-2024-03-04-190749.jpg)
-![question](https://media.cerebellumacademy.com/media/public/images/2024/03/05/picture54.jpg)
-
-`Q9626, Q9639, Q9640`
-
----
-
-### 145. Diphyllobothrium latum — the Fish Tapeworm
+### 117. Diphyllobothrium latum — the Fish Tapeworm
 
 **PEARL:** ***D. LATUM* has TWO intermediate hosts: FIRST a freshwater CRUSTACEAN (CYCLOPS/copepod, harbouring the procercoid), SECOND a FRESHWATER FISH (harbouring the PLEROCERCOID/sparganum — the infective stage for humans).** **MAN is the DEFINITIVE host.** Infection follows eating **raw or undercooked freshwater fish (sushi, ceviche)** and causes **VITAMIN B12 DEFICIENCY with MEGALOBLASTIC (macrocytic) anaemia — NOT iron deficiency.**
 
@@ -3625,45 +2897,9 @@
 **IMAGES:**
 ![explanation](https://cdn1.dailyrounds.org/uploads/375754eb7f9044f59d63ff71a1a014b0x404x317.PNG)
 
-`Q10050`
-
 ---
 
-### 146. Trematodes: Where the Adult Lives and What You Ate
-
-**PEARL:** **Paragonimus westermani** (lung fluke, from **undercooked crab/crayfish**) is the fluke whose eggs are found in **BOTH sputum AND stool** — coughed up and swallowed.
-
-**UNDERSTAND:** Every fluke question reduces to two facts: the **food that transmits it** and the **organ the adult inhabits**, which together determine where the eggs appear. Paragonimus is the only one that reaches the lung, so it is the only one in sputum; liver flukes shed into bile → stool only.
-
-**MUST KNOW:**
-
-| Fluke | Source | Adult site | Key point |
-| --- | --- | --- | --- |
-| **Paragonimus westermani** | **Crab, crayfish** | **Lung** | Haemoptysis mimicking **TB**; eggs in **sputum and stool**; treat praziquantel |
-| **Clonorchis sinensis / Opisthorchis** | **Raw freshwater fish** | Bile ducts | **Cholangiocarcinoma** |
-| **Fasciola hepatica** | **Watercress**, aquatic plants | Bile ducts (sheep liver fluke) | Large operculated egg; **triclabendazole** (not praziquantel) |
-| **Fasciolopsis buski** | **Water chestnut/caltrop** | **Small intestine** (largest intestinal fluke, 2–7 cm) | Diarrhoea, malabsorption, oedema |
-| **Schistosoma** | **Skin penetration in water** (snail) | Veins | *S. haematobium* → bladder, **squamous cell carcinoma**; *S. mansoni/japonicum* → portal hypertension |
-
-- **Fasciola and Fasciolopsis have almost identical large operculated eggs** — distinguish by the **adult worm morphology** and by the clinical picture (biliary vs intestinal).
-- All trematodes use a **snail as the first intermediate host**.
-- **Praziquantel** treats essentially all flukes **except Fasciola** (triclabendazole).
-
-**EXAM CONNECTION:** The stem gives you the food or the specimen. **Crab → Paragonimus → sputum + stool. Watercress → Fasciola. Raw fish → Clonorchis → cholangiocarcinoma.**
-
-**REMEMBER:** *Only the lung fluke gets coughed up — so only Paragonimus is in sputum.*
-
-**IMAGES:**
-![question](https://media.cerebellumacademy.com/media/public/images/2024/03/05/picture43.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/05/picture44.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/05/screenshot-2024-03-05-135544.jpg)
-![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/05/picture50.jpg)
-
-`Q9564, Q9565`
-
----
-
-### 147. Trichuris trichiura and the Soil-Transmitted Helminths
+### 118. Trichuris trichiura and the Soil-Transmitted Helminths
 
 **PEARL:** **Trichuris trichiura (whipworm)** has a **barrel-shaped egg with bipolar mucus plugs** and is transmitted by **ingestion of embryonated eggs** in contaminated food or water — **not** by larval skin penetration.
 
@@ -3691,15 +2927,13 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/04/24/screenshot-2024-04-24-144659.JPG)
 
-`Q10939`
-
 ---
 
 ---
 
 ## Hospital Infection Control, Vaccines and Applied Microbiology
 
-### 148. Scombroid Fish Poisoning
+### 119. Scombroid Fish Poisoning
 
 **PEARL:** **SCOMBROID poisoning is a HISTAMINE reaction, not an infection.** Bacteria on improperly refrigerated dark-fleshed fish (**tuna, mackerel, bonito, mahi-mahi, sardine**) — ***PSEUDOMONAS*, *MORGANELLA MORGANII*, *E. coli*, *Proteus*, *Klebsiella*** — **DECARBOXYLATE the fish’s L-HISTIDINE into HISTAMINE.** Symptoms begin **15–90 minutes** after eating: **flushing, peppery/metallic taste, urticaria, pruritus, headache, palpitations, angio-oedema, cramps and diarrhoea**, resolving in 8–12 hours. **The toxin is HEAT-STABLE — cooking, canning and freezing do NOT destroy it.**
 
@@ -3716,11 +2950,9 @@
 
 **REMEMBER:** *Not an allergy and not an infection — the fish was warm and made its own histamine.*
 
-`Q9384`
-
 ---
 
-### 149. Infection Timeline After Solid Organ Transplant
+### 120. Infection Timeline After Solid Organ Transplant
 
 **PEARL:** **CMV is the predominant pathogen in the EARLY period, 1–4 (up to 6) MONTHS after transplant.** The timeline is: **<1 MONTH — conventional NOSOCOMIAL infections (wound, catheter and urinary infections, *Candida*, HSV reactivation, donor-derived infection). 1–6 MONTHS — OPPORTUNISTIC: CMV, *PNEUMOCYSTIS*, *Listeria*, *Nocardia*, *Toxoplasma*, reactivated hepatitis B/C and TB. >6 MONTHS — COMMUNITY-ACQUIRED infections plus late opportunists: *Aspergillus*, *Nocardia*, BK VIRUS, herpes zoster, and PTLD (EBV).**
 
@@ -3738,11 +2970,9 @@
 
 **REMEMBER:** *First month surgical, months one to six opportunistic, after six months community — with CMV owning the middle.*
 
-`Q9385`
-
 ---
 
-### 150. Transmission-Based Isolation Precautions
+### 121. Transmission-Based Isolation Precautions
 
 **PEARL:** **CONTACT precautions — MRSA, VRE, *C. difficile*, diarrhoeal illness, RSV, scabies, open draining wounds** (gown and gloves; dedicated equipment). **DROPLET precautions — DIPHTHERIA, MUMPS, pertussis, influenza, meningococcus, rubella** (surgical mask within ~1–2 metres). **AIRBORNE precautions — TUBERCULOSIS, MEASLES, VARICELLA/disseminated zoster, SARS** (N95 respirator plus a NEGATIVE-PRESSURE room).
 
@@ -3762,11 +2992,9 @@
 
 **REMEMBER:** *Heavy droplets need a mask; light nuclei need a respirator and negative pressure; MRSA just needs gloves and a gown.*
 
-`Q9392`
-
 ---
 
-### 151. Tetanus Prophylaxis in Wound Management
+### 122. Tetanus Prophylaxis in Wound Management
 
 **PEARL:** For a **CONTAMINATED (tetanus-prone) wound in someone who completed a primary course 7 YEARS AGO, give a SINGLE BOOSTER DOSE OF TETANUS TOXOID ALONE — NO immunoglobulin.** The rule: **with 3 or more prior doses, give a booster only if the last dose was >5 YEARS ago for DIRTY wounds, or >10 YEARS for CLEAN MINOR wounds. TIG is added only when the vaccination history is UNKNOWN or FEWER THAN 3 DOSES — and then only for dirty wounds.**
 
@@ -3789,11 +3017,9 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7072435aef93478683f601da12a14192x610x458.PNG)
 
-`Q9947`
-
 ---
 
-### 152. CDC Categories of Bioterrorism Agents
+### 123. CDC Categories of Bioterrorism Agents
 
 **PEARL:** There are **only THREE categories — A, B and C. There is NO CATEGORY D.** **A — easily disseminated or transmitted person-to-person, HIGH MORTALITY, major public health impact: ANTHRAX, SMALLPOX, PLAGUE, BOTULINUM TOXIN, TULARAEMIA, VIRAL HAEMORRHAGIC FEVERS. B — moderately easy to disseminate, moderate morbidity and LOW mortality: brucellosis, glanders, melioidosis, Q fever, ricin, *Salmonella*/*Shigella*/*E. coli* O157 (food and water safety threats), psittacosis, typhus. C — EMERGING pathogens that COULD be engineered for mass dissemination in future: NIPAH, HANTAVIRUS, tick-borne encephalitis, drug-resistant TB.**
 
@@ -3811,11 +3037,9 @@
 
 **REMEMBER:** *Only A, B and C — A kills and spreads, B sickens, C is what we fear next.*
 
-`Q10127`
-
 ---
 
-### 153. Preventing Perinatal Hepatitis B Transmission
+### 124. Preventing Perinatal Hepatitis B Transmission
 
 **PEARL:** An infant born to an **HBsAg-positive mother (especially HBeAg-positive, which implies high viraemia) must receive HEPATITIS B IMMUNOGLOBULIN (HBIG) AND THE FIRST DOSE OF HEPATITIS B VACCINE WITHIN 12 HOURS OF BIRTH, at SEPARATE SITES**, followed by the routine schedule. This combination prevents transmission in **>90–95%** of cases. **HBIG does NOT interfere with the vaccine response.**
 
@@ -3834,11 +3058,9 @@
 
 **REMEMBER:** *Immunoglobulin and vaccine within twelve hours — waiting a week loses the child.*
 
-`Q10296`
-
 ---
 
-### 154. The Rotavirus Vaccine
+### 125. The Rotavirus Vaccine
 
 **PEARL:** The rotavirus vaccine is **LIVE ATTENUATED and given ORALLY**. The **FIRST dose must be given BEFORE 15 WEEKS of age, and the course COMPLETED BY 32 WEEKS (8 months). It CAN be co-administered with OPV and all other routine infant vaccines** — there is no interference of clinical significance.
 
@@ -3856,8 +3078,6 @@
 **EXAM CONNECTION:** “True about rotavirus vaccine EXCEPT” → **not given with OPV** (it can be).
 
 **REMEMBER:** *Start before 15 weeks, finish by 32 — and OPV on the same day is fine.*
-
-`Q11366`
 
 ---
 

@@ -44,8 +44,6 @@
 
 **REMEMBER:** *M’Naghten asks whether he KNEW; Durham and Curren ask whether he could HELP it. Indian law (BNS 22) follows the knowing test.*
 
-`Q10378, Q10391`
-
 ---
 
 ### 2. Courtroom Procedure and Perjury
@@ -67,8 +65,6 @@
 **ALSO KNOW:** **THE THREE CRIMINAL LAWS WERE REPLACED ON 1 JULY 2024: the INDIAN PENAL CODE 1860 → BHARATIYA NYAYA SANHITA (BNS) 2023; the CrPC 1973 → BHARATIYA NAGARIK SURAKSHA SANHITA (BNSS) 2023; the INDIAN EVIDENCE ACT 1872 → BHARATIYA SAKSHYA ADHINIYAM (BSA) 2023.** Questions may quote either numbering, so learn the pairs: **murder — definition IPC 300 → BNS 101, punishment IPC 302 → BNS 103 (BNS 103(2) newly covers MOB LYNCHING); culpable homicide not amounting to murder IPC 304 → BNS 105; causing death by negligence IPC 304A → BNS 106 (with a specific, higher-penalty clause for hit-and-run, and a separate lower provision for registered medical practitioners); grievous hurt IPC 320 → BNS 117; rape IPC 375/376 → BNS 63/64; perjury IPC 193 → BNS 229; insanity IPC 84 → BNS 22; consent IPC 87–90 → BNS 25–28.**[^1]
 
 **REMEMBER:** *You may lead only your opponent’s witness — never your own.*
-
-`Q9924, Q10397`
 
 ---
 
@@ -94,8 +90,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/d5d19093f524421abd8a5229d2cc4036.PNG)
 
-`Q10409`
-
 ---
 
 ### 4. POCSO Act
@@ -117,8 +111,6 @@
 
 **REMEMBER:** *Under 18, gender-neutral, mandatory to report, in camera, no two-finger test — and authority makes it aggravated.*
 
-`Q12006, Q11999`
-
 ---
 
 ### 5. Defences Against Medical Negligence
@@ -139,8 +131,6 @@
 **EXAM CONNECTION:** “Which is NOT a valid defence in criminal negligence?” — the answer is **contributory negligence**, because the exam is testing the civil/criminal boundary.
 
 **REMEMBER:** *The patient’s carelessness can reduce damages but never excuse a crime.*
-
-`Q10938`
 
 ---
 
@@ -193,8 +183,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/46a07a69bbcc486588bb08c26daee280x1280x824.PNG)
 ![question](https://cdn1.dailyrounds.org/uploads/4fe932782aa84715ad3a9581fa5ff5ff.PNG)
 
-`Q10083, Q10180`
-
 ---
 
 ### 9. Age Estimation — The Sternal End of the Clavicle
@@ -214,8 +202,6 @@
 **EXAM CONNECTION:** “Ossification centre used to confirm bone age for legal consent to marriage” → **sternal end of the clavicle**.
 
 **REMEMBER:** *When everything else has fused, the sternal clavicle is still deciding whether you are an adult.*
-
-`Q11987`
 
 ---
 
@@ -241,8 +227,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/29/image-30.jpg)
 
-`Q11996`
-
 ---
 
 ### 11. Samples for Identification of a Dead Body
@@ -262,8 +246,6 @@
 **EXAM CONNECTION:** “All can be used EXCEPT” — pick the **keratinised, anucleate** structure.
 
 **REMEMBER:** *No nucleus, no profile — nails and hair shafts are dead keratin.*
-
-`Q10986`
 
 ---
 
@@ -292,8 +274,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/149e51cb37a046d5b49316bbc90fcb6fx435x252.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/d445faa9afa64da7a2c7b9f0338f59bb.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f6514911790b4f5eb9a14300b0d553b5x720x1007.JPEG)
-
-`MA0908, MA0774, MD0635, MD0643`
 
 ---
 
@@ -341,8 +321,6 @@
 
 **REMEMBER:** *Eyelids first, toes last, and it leaves in the same order — because it is ATP running out, not nerves.*
 
-`Q8745`
-
 ---
 
 ### 16. Putrefaction and Marbling
@@ -366,8 +344,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/f08c958e1aac4d3db862f87d08cad628.PNG)
 
-`Q10097, Q10398`
-
 ---
 
 ### 17. Brain Death — Harvard Criteria
@@ -389,8 +365,6 @@
 
 **REMEMBER:** *Flat EEG, not flat ECG — the heart must still be beating for brain death to matter.*
 
-`Q9935`
-
 ---
 
 ### 18. Autopsy Techniques
@@ -410,8 +384,6 @@
 **EXAM CONNECTION:** **“en masse” → Letulle; “en bloc” → Ghon** — these two are constantly swapped in options.
 
 **REMEMBER:** *Letulle takes it all out as ONE mass; Ghon takes it out in blocks; Virchow takes one organ at a time.*
-
-`Q10202, Q10205`
 
 ---
 
@@ -434,8 +406,6 @@
 
 **REMEMBER:** *A plateau first, then a steady fall, then a levelling off — an S-curve, not a straight line.*
 
-`Q12002`
-
 ---
 
 ### 20. Order of Putrefaction of Organs
@@ -455,8 +425,6 @@
 **EXAM CONNECTION:** “Earliest to putrefy among the options” → **brain** (of brain, heart, kidney and prostate).
 
 **REMEMBER:** *Liver and lungs, brain, heart, kidney — and the prostate and empty uterus outlast them all.*
-
-`Q11992`
 
 ---
 
@@ -481,8 +449,6 @@
 
 **REMEMBER:** *It freezes the last thing the hand was doing — so there must have been something being done.*
 
-`Q10974`
-
 ---
 
 ### 22. Timing of Post-Mortem Changes
@@ -506,8 +472,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/06/10/screenshot-2024-06-10-163601.png)
 
-`Q11287`
-
 ---
 
 ### 23. Adipocere
@@ -529,8 +493,6 @@
 
 **REMEMBER:** *Soap preserves the face; it does not destroy it.*
 
-`MA1021`
-
 ---
 
 ### 24. Putrefaction — The First Signs
@@ -549,8 +511,6 @@
 **EXAM CONNECTION: **Two separate one-liners:** first external sign (green over caecum)** and **first internal sign (vessel intima)**. The postmortem caloricity list is asked as an “all except” — the odd one out is usually **cyanide**.
 
 **REMEMBER:** *Green starts where the bacteria live.*
-
-`MA1015, MA1004`
 
 ---
 
@@ -574,8 +534,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/e2796dd52a7f42e5b5a5ca3b05f5b333.JPEG)
-
-`MB0088`
 
 ---
 
@@ -618,8 +576,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/3e80b564c3574d3a91983ff1763caa6d.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c5f36e448de04d4db9690992ff416499x800x627.JPEG)
 
-`Q8744, Q9941`
-
 ---
 
 ### 28. Blast Injuries
@@ -640,8 +596,6 @@
 **EXAM CONNECTION:** “Marshall’s triad is seen in which type of blast injury?” → **secondary**.
 
 **REMEMBER:** *Wave, then fragments, then wind, then everything else. The wave bursts the eardrum and the lung; the fragments do the killing.*
-
-`Q10245`
 
 ---
 
@@ -665,8 +619,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/598f33b01cd640899aae9e48202e73f0.JPEG)
-
-`Q10399`
 
 ---
 
@@ -693,8 +645,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/29/image-31.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/01/2_k8Mg0qq.jpg)
 
-`Q12011, Q11995`
-
 ---
 
 ### 31. Seat Belt Injury
@@ -715,8 +665,6 @@
 
 **REMEMBER:** *A belt mark on the belly means look for burst bowel, torn mesentery and a Chance fracture behind it.*
 
-`Q12012`
-
 ---
 
 ### 32. Back Spatter (Blowback Phenomenon)
@@ -736,8 +684,6 @@
 
 **REMEMBER:** *Contact shot to a closed skull blows the tissue straight back up the barrel.*
 
-`Q11797`
-
 ---
 
 ### 33. Defence Wounds vs Hesitation Cuts
@@ -756,8 +702,6 @@
 **EXAM CONNECTION: **The location word is decisive:** ulnar border → defence**; **radial/flexor with parallel superficial cuts → hesitation**.
 
 **REMEMBER:** *You defend with the outer edge and cut yourself on the inner one.*
-
-`MB0104`
 
 ---
 
@@ -788,8 +732,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2338efa0315d4a03bd538ad094ee92e0x1280x1055.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/ed9e6de29db142618422450f83cb6915.JPEG)
 
-`Q10371, Q10061`
-
 ---
 
 ### 35. Skull Fractures and Their Mechanisms
@@ -815,8 +757,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/10/screenshot-2024-06-10-153018.png)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/10/screenshot-2024-06-10-152959.png)
 
-`Q11270`
-
 ---
 
 ### 36. Contrecoup Injuries
@@ -841,8 +781,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8d0f005638c5413dad28c3ffb6c4265fx1280x1411.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3875ed3e645d4017a731ac3b47d8df5fx1280x1373.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/72ef5116fb944b82a7cc0d7a0d473db7x1279x1656.JPEG)
-
-`MB0540`
 
 ---
 
@@ -891,8 +829,6 @@
 
 **REMEMBER:** *Fingermarks and nail abrasions with a broken thyroid cartilage — hands did it, and the carotids, not the airway, killed.*
 
-`Q8741, Q10154`
-
 ---
 
 ### 40. Fresh Water vs Sea Water Drowning
@@ -913,8 +849,6 @@
 **EXAM CONNECTION:** Multi-select — the trap option is **hypokalaemia** (it is hyper).
 
 **REMEMBER:** *Fresh water bursts the cells and stops the heart; sea water floods the lungs.*
-
-`Q10103`
 
 ---
 
@@ -940,8 +874,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/10/screenshot-2024-06-10-095140.png)
 
-`Q11337`
-
 ---
 
 ### 42. Drowning — No Sign Is Conclusive
@@ -965,8 +897,6 @@
 
 **IMAGES:**
 ![explanation](https://cdn1.dailyrounds.org/uploads/7c49cd2c216b4a43bf964b1c6fd7877dx286x283.PNG)
-
-`MB5903, MB5896`
 
 ---
 
@@ -1006,8 +936,6 @@
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/17/screenshot-2024-05-17-110617.JPG)
-
-`Q9912, Q11983`
 
 ---
 
@@ -1052,8 +980,6 @@
 
 **REMEMBER:** *Wredin the ear, Fodere the weight, Ploucquet the ratio, Breslau the gut — and the flotation test lies both ways.*
 
-`Q9955, Q10277`
-
 ---
 
 ### 48. Estimating Fetal Age — Haase’s Rule
@@ -1073,8 +999,6 @@
 **EXAM CONNECTION:** The stem gives CRL and limb length separately — **add them first**, then choose the formula.
 
 **REMEMBER:** *Under 25 cm take the square root; over 25 cm divide by 5 — and always add the leg to the crown–rump length.*
-
-`Q11968`
 
 ---
 
@@ -1096,8 +1020,6 @@
 
 **REMEMBER:** *Spalding overlaps the skull, Robert’s fills the heart with gas, Bohr’s liquefies the brain on ultrasound.*
 
-`Q11997`
-
 ---
 
 ### 50. Breslau’s Second Life Test
@@ -1117,8 +1039,6 @@
 **EXAM CONNECTION:** “Which organ is tested in Breslau’s second life test” → **stomach**. Do not answer “lungs” — that is the *first* test.
 
 **REMEMBER:** *A breathing baby also swallows air.*
-
-`MB5920`
 
 ---
 
@@ -1141,8 +1061,6 @@
 **EXAM CONNECTION:** “Most appropriate procedure” → **preserve in an envelope or paper bag** (both plastic options are wrong, as is folding the stains together).
 
 **REMEMBER:** *Dry in the shade, pack in paper, one exhibit per bag — plastic rots the DNA.*
-
-`Q11998`
 
 ---
 
@@ -1179,8 +1097,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/20d11c110c5942248ac0b7cf121eb7ef.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/b054745fdf6c41f082de4b5f75c52c70.JPEG)
 
-`Q11814, Q11805`
-
 ---
 
 ### 53. Precipitin Test
@@ -1213,8 +1129,6 @@
 
 **REMEMBER:** *Arsenic red velvet, nitric yellow, phenol grey leather, cyanide pink, copper and amytal blue.*
 
-`Q9921`
-
 ---
 
 ### 55. Pupils in Poisoning — Miosis vs Mydriasis
@@ -1237,8 +1151,6 @@
 
 **REMEMBER:** *Cholinergic and opioid make them small; anticholinergic and sympathomimetic make them big.*
 
-`Q10395`
-
 ---
 
 ### 56. Gastric Lavage — Contraindications and the Carbolic Acid Exception
@@ -1258,8 +1170,6 @@
 **EXAM CONNECTION:** “Gastric lavage can be done in” → **carbolic acid**. The forced alkaline diuresis grid tests one pairing: **weak acid + sodium bicarbonate**.
 
 **REMEMBER:** *Phenol hardens the stomach instead of dissolving it.*
-
-`MC6403, MC3716`
 
 ---
 
@@ -1288,8 +1198,6 @@
 
 **REMEMBER:** *Atropine dries the secretions; only oximes rescue the muscles — and only before the enzyme ages.*
 
-`Q10295`
-
 ---
 
 ### 58. Aconite and Nux Vomica
@@ -1314,8 +1222,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/fc57a4d6732243e5b6871d3bc2e3b5a4.JPEG)
-
-`Q9913, Q10271`
 
 ---
 
@@ -1350,8 +1256,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/27/screenshot-2023-09-27-104520.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/27/screenshot-2023-09-27-104614.jpg)
 
-`Q11990, Q12009`
-
 ---
 
 ### 60. Snakebite Management in India
@@ -1371,8 +1275,6 @@
 **EXAM CONNECTION:** “False regarding snakebite management” → “**atropine and neostigmine are very useful in KRAIT bite**”.
 
 **REMEMBER:** *Neostigmine rescues the cobra bite, never the krait — the krait kills the nerve terminal itself.*
-
-`Q12007`
 
 ---
 
@@ -1400,8 +1302,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/10/13/screenshot-2023-10-13-112003.jpg)
 
-`Q11985`
-
 ---
 
 ### 62. Cadmium — Itai-Itai Disease
@@ -1427,8 +1327,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/Picture1_tTLY5Xt.png)
 
-`Q11989`
-
 ---
 
 ### 63. Mercury — Acrodynia
@@ -1450,8 +1348,6 @@
 **ALSO KNOW:** **Chronic mercury poisoning in infants/young children** — a **pinkish rash beginning at the extremities**, painful swelling of hands and feet, and **desquamation**; a **hypersensitivity reaction** to mercury. Treatment: **remove the source + chelation**.
 
 **REMEMBER:** *Pink painful peeling hands and feet in a toddler — mercury. Mad hatter tremor and blue gum line in the adult.*
-
-`Q12000`
 
 ---
 
@@ -1478,8 +1374,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2246e9bf20bf49c8b0a2d677833bf301x1158x990.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/0bd671a3cc524d59a27847e65eeff573.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/219b2049ea9c4f4f8f22fa7f092db149x720x458.JPEG)
-
-`MF5228, MB1059`
 
 ---
 
@@ -1517,8 +1411,6 @@
 **EXAM CONNECTION:** The stem’s combination of **oxalate crystals + low calcium + renal failure + 4-methylpyrazole** → **ethylene glycol**.
 
 **REMEMBER:** *Block the dehydrogenase and the poison never forms. Methanol takes the eyes; ethylene glycol takes the kidneys and the calcium.*
-
-`Q8742`
 
 ---
 
@@ -1578,8 +1470,6 @@
 
 **REMEMBER:** *Extrasystoles plus shrinking visual fields is tobacco heart; MI and a perforated septum is cocaine.*
 
-`Q8740, Q11988`
-
 ---
 
 ### 70. Opioid Withdrawal and Dependence
@@ -1600,8 +1490,6 @@
 **EXAM CONNECTION:** Watch for the **pupil**: mydriasis + yawning + wet nose = withdrawal, not overdose and not organophosphate (which gives **miosis and wet everything**).
 
 **REMEMBER:** *Withdrawal opens the pupils; overdose shuts them.*
-
-`MB0914, MD0641, MF1236`
 
 ---
 

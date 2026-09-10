@@ -1,8 +1,9 @@
 {
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "strictLineBreaks": false,
   "showLineNumber": false,
   "vimMode": true,
   "attachmentFolderPath": "./images",
-  "readableLineLength": true
+  "readableLineLength": true,
+  "propertiesInDocument": "visible"
 }

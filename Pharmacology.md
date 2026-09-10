@@ -50,8 +50,6 @@
 
 **REMEMBER:** *Loading fills the tank (Vd); maintenance replaces the leak (clearance).*
 
-`Q9240, Q9233, Q9229`
-
 ---
 
 ### 2. Prescribing in Chronic Kidney Disease
@@ -71,8 +69,6 @@
 **EXAM CONNECTION:** Postoperative analgesic in CKD → **acetaminophen**; antihypertensive for renal insufficiency with fluid overload and no proteinuria → **chlorthalidone**.
 
 **REMEMBER:** *In a stressed kidney, prostaglandins hold the front door open — never shut it with an NSAID.*
-
-`Q9307, Q9308`
 
 ---
 
@@ -99,8 +95,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/58ca7aff3ff64887b8cf57ae267880a1.JPEG)
 
-`Q9323`
-
 ---
 
 ### 4. Receptor Antagonists Worth Naming
@@ -120,8 +114,6 @@
 **EXAM CONNECTION:** Bradykinin receptor antagonist → **icatibant**.
 
 **REMEMBER:** *If the swelling doesn’t itch and adrenaline doesn’t help, it is bradykinin.*
-
-`Q10308`
 
 ---
 
@@ -147,8 +139,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/47a42dafb55b40a8a33cfebc2d871081.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8d7167c153aa42a5bdc0787fd454473ex1280x1252.JPEG)
 
-`Q10301`
-
 ---
 
 ### 6. Dosing Rate and Steady State
@@ -172,8 +162,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8bee4685a9ae43ae9d112e3d0790eaffx1280x2445.JPEG)
 
-`MF1298`
-
 ---
 
 ### 7. Drug Metabolism — Phase I vs Phase II
@@ -196,8 +184,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8bee4685a9ae43ae9d112e3d0790eaffx1280x2445.JPEG)
-
-`MA4470, MA4489, MA4490, MA4487`
 
 ---
 
@@ -266,8 +252,6 @@
 
 **REMEMBER:** *Absorption problems you can space apart; metabolic problems you must dose around.*
 
-`Q9285, Q9293, Q9295`
-
 ---
 
 ### 12. Ergotism and CYP3A4 Catastrophes
@@ -291,8 +275,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/e5f470b5d0ef4785a0a3eaba9c8dfafa.JPEG)
 
-`Q9302`
-
 ---
 
 ### 13. Digoxin and P-Glycoprotein
@@ -314,8 +296,6 @@
 **ALSO KNOW:** **P-gp is MDR1 (CD243), not MDR2**; besides eliminating digoxin it **limits drug entry at the blood–brain barrier and in the gut**. **Clarithromycin and erythromycin are the classic INHIBITORS (digoxin toxicity); RIFAMPICIN is the INDUCER (subtherapeutic digoxin).**
 
 **REMEMBER:** *Potassium and digoxin fight for the same seat on the pump — lose potassium and digoxin wins.*
-
-`Q9306`
 
 ---
 
@@ -340,8 +320,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f8a58aad12854f86a92361861e668a00x720x957.JPEG)
 
-`MA4479, MF9196, MA2902`
-
 ---
 
 ### 15. Food, Enzymes and Contraceptive Failure
@@ -362,8 +340,6 @@
 **EXAM CONNECTION:** These appear as isolated recall items. The clopidogrel–omeprazole pairing via **CYP2C19** is the most clinically tested.
 
 **REMEMBER:** *Fat carries the lipophilic drug in; antibiotics break the oestrogen recycling loop.*
-
-`MA1109, MA4480, MB0683, MA4477`
 
 ---
 
@@ -400,8 +376,6 @@
 
 **REMEMBER:** *Thigh, intramuscular, one-in-a-thousand — everything else is an adjunct.*
 
-`Q9250`
-
 ---
 
 ### 18. Enzyme Inhibition and the Edrophonium Test
@@ -422,8 +396,6 @@
 
 **REMEMBER:** *The enzyme activates its own assassin — and only at the active site.*
 
-`Q9294, Q9278`
-
 ---
 
 ### 19. Dose-Dependent Effects of Dopamine
@@ -443,8 +415,6 @@
 **EXAM CONNECTION:** Dose at which dopamine acts on beta-1 receptors → **2–10 µg/kg/min**.
 
 **REMEMBER:** *Dopamine climbs the receptor ladder — dopaminergic, then beta, then alpha.*
-
-`Q10032`
 
 ---
 
@@ -468,8 +438,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/679a402efdee47c7b4fd3adaa70f4af1x1280x2234.JPEG)
-
-`MF5189`
 
 ---
 
@@ -570,8 +538,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6538f64b996042a2988f62f01335e095x1268x324.JPEG)
 
-`Q9275, Q9287, Q9288, Q9271`
-
 ---
 
 ### 28. Beta-Blocker Subclasses and Antihypertensive Side Effects
@@ -591,8 +557,6 @@
 **EXAM CONNECTION:** Matching → **pindolol (non-selective + ISA), carvedilol (non-selective + antioxidant), betaxolol (beta-1 + membrane stabilising), acebutolol (beta-1 + ISA)**; correct drug–adverse effect pair → **verapamil–constipation**.
 
 **REMEMBER:** *Intrinsic sympathomimetic activity is a gentler block — and exactly the wrong thing after a heart attack.*
-
-`Q9973, Q9324, Q9709`
 
 ---
 
@@ -614,8 +578,6 @@
 
 **REMEMBER:** *In digoxin toxicity pick the drug that calms the ventricle without touching the AV node.*
 
-`Q10351, Q10244, Q10413`
-
 ---
 
 ### 30. Antihypertensives and the Lipid Profile
@@ -636,8 +598,6 @@
 
 **REMEMBER:** *Alpha-blockers are the only antihypertensives that fix the lipids too.*
 
-`Q10832`
-
 ---
 
 ### 31. Clonidine — Rebound Hypertension
@@ -657,8 +617,6 @@
 **EXAM CONNECTION:** The stem gives **sedation and dry mouth on treatment** plus a **hypertensive crisis on stopping** — those two together identify clonidine uniquely.
 
 **REMEMBER:** *Release the central brake and stored catecholamines flood out.*
-
-`MG6953, MA2123`
 
 ---
 
@@ -681,8 +639,6 @@
 
 **REMEMBER:** *Lower the pressure inside the glomerulus, not just in the arm.*
 
-`MG5883, MA4786`
-
 ---
 
 ### 33. Enalaprilat and Hypertensive Emergencies
@@ -701,8 +657,6 @@
 **EXAM CONNECTION:** “Active metabolite available for IV use” → **enalapril/enalaprilat**. The losartan-thromboxane fact is a separate favourite.
 
 **REMEMBER:** *Enalaprilat is enalapril with the ester already removed.*
-
-`MA2148, MF8171`
 
 ---
 
@@ -791,8 +745,6 @@
 
 **REMEMBER:** *Vaptans lose water and keep the salt — which is precisely why the patient gets thirsty.*
 
-`Q9280, Q9286`
-
 ---
 
 ### 40. Diuretic Sites of Action and Liddle Syndrome
@@ -813,8 +765,6 @@
 
 **REMEMBER:** *Block the receptor or block the channel — when the channel is stuck open, only the channel blocker works.*
 
-`Q10265, Q9709`
-
 ---
 
 ### 41. Finerenone vs Spironolactone
@@ -834,8 +784,6 @@
 **EXAM CONNECTION:** The answer must explain a **pharmacokinetic/distribution** difference, not a different mechanism — both drugs block the same receptor.
 
 **REMEMBER:** *Same receptor, gentler pharmacokinetics — finerenone spreads out and leaves quickly.*
-
-`Q11802`
 
 ---
 
@@ -861,8 +809,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1eebed7de1f34fd99539e6c7613f42f0x1280x1306.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7e588cc951734db299c6dc05ac5ec75bx1280x1301.JPEG)
-
-`MF1954, MA4793`
 
 ---
 
@@ -906,8 +852,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/de69baed8b1d41cdbb00c4d4e5c135e4x1279x2261.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5667d3b799884c6eac3fa8e97acc7bddx1280x1847.JPEG)
 
-`Q9238, Q9244, Q9255`
-
 ---
 
 ### 45. Antiplatelet Drugs
@@ -928,8 +872,6 @@
 
 **REMEMBER:** *A prodrug is only as good as its activating enzyme.*
 
-`Q9272, Q9297`
-
 ---
 
 ### 46. Direct Oral Anticoagulants and Monitoring
@@ -949,8 +891,6 @@
 **EXAM CONNECTION:** Apixaban class → **factor Xa inhibitor**; drug needing coagulation monitoring → **lepirudin**.
 
 **REMEMBER:** *“-xaban” blocks ten, “-gatran” blocks thrombin — and predictable drugs need no monitoring.*
-
-`Q9273, Q9276`
 
 ---
 
@@ -977,8 +917,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/1cdc3b043f0b47cbac9a11aee230237c.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/672ca9540c3b4fe7b9d71a5ec95b1f1dx1280x1585.JPEG)
 
-`Q9311, Q9330, Q9319`
-
 ---
 
 ### 48. Disease-Modifying Drugs in Sickle Cell Disease
@@ -1001,8 +939,6 @@
 
 **REMEMBER:** *Dilute the HbS, keep it oxygenated, stop it sticking — three drugs, three steps of one polymer.*
 
-`Q9328`
-
 ---
 
 ### 49. Iron Chelation Thresholds
@@ -1022,8 +958,6 @@
 **EXAM CONNECTION:** A single number. **>500 µg/dL → chelate.**
 
 **REMEMBER:** *Once iron outruns transferrin, chelate it — 500 is the line.*
-
-`Q10977`
 
 ---
 
@@ -1045,8 +979,6 @@
 **EXAM CONNECTION:** Straight drug-of-choice recall, but know **when UFH or fondaparinux replaces LMWH**.
 
 **REMEMBER:** *Cancer makes warfarin unpredictable, so use heparin.*
-
-`MC5336`
 
 ---
 
@@ -1139,8 +1071,6 @@
 
 **REMEMBER:** *Block the enzyme or block the transporter — either way the statin piles up and the muscle dissolves.*
 
-`Q9262`
-
 ---
 
 ### 57. Fibrates and the Lipid-Lowering Classes
@@ -1161,8 +1091,6 @@
 
 **REMEMBER:** *Alpha for triglycerides, gamma for glucose — and fibrates thicken the bile.*
 
-`Q9322, Q9318`
-
 ---
 
 ### 58. Bile Acid Sequestrants
@@ -1181,8 +1109,6 @@
 **EXAM CONNECTION:** The stem describes the **mechanism** (“increases bile acid excretion in the stools”) — only the sequestrant fits.
 
 **REMEMBER:** *Trap the bile acids in the gut and the liver burns cholesterol to replace them.*
-
-`Q11811`
 
 ---
 
@@ -1205,8 +1131,6 @@
 
 **REMEMBER:** *Ezetimibe blocks the doorway; statins block the factory; fibrates switch on the burner.*
 
-`MA2020, MF7502`
-
 ---
 
 ### 60. Lipid Drugs — Specific Niches
@@ -1228,8 +1152,6 @@
 **EXAM CONNECTION:** Single-fact recall clustered around lipid drugs, nomograms and obstetric prostaglandins.
 
 **REMEMBER:** *Niacin is the Lp(a) drug; colesevelam is the diabetic’s resin.*
-
-`MA2027, MC3599, MF9381, MC5339, MF8137, MA4700`
 
 ---
 
@@ -1269,8 +1191,6 @@
 
 **REMEMBER:** *Beta-2 pushes potassium in and glucose out.*
 
-`Q9237`
-
 ---
 
 ### 63. Inhaled Anticholinergics and Prokinetics
@@ -1292,8 +1212,6 @@
 **ALSO KNOW:** **The prokinetics as a class: D2 ANTAGONISTS (metoclopramide, domperidone — domperidone does not cross the blood–brain barrier), MOTILIN AGONISTS (erythromycin), 5-HT4 AGONISTS (cisapride, PRUCALOPRIDE, velusetrag, naronapride) and others (sincalide, relamorelin).** **PRUCALOPRIDE is the selective 5-HT4 agonist for chronic constipation — safe because it lacks CISAPRIDE’S hERG/QT toxicity, for which cisapride was withdrawn.**
 
 **REMEMBER:** *Block the autoreceptor and the nerve shouts louder — that is the ipratropium paradox.*
-
-`Q9291, Q9290, Q9299`
 
 ---
 
@@ -1321,8 +1239,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cd66363a6d394a44a7890ccd61457138x1024x768.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ab918f67f8294857a067861d1341021cx799x533.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0a6c665607a14641b55b575ac17d13cax800x600.JPEG)
-
-`MD6669, MC7464`
 
 ---
 
@@ -1377,8 +1293,6 @@
 
 **REMEMBER:** *Mebeverine relaxes the muscle itself — no receptor, no atropine side effects.*
 
-`Q9449`
-
 ---
 
 ### 69. Antacids and Milk–Alkali Syndrome
@@ -1398,8 +1312,6 @@
 **EXAM CONNECTION:** One-line matching of antacid to its complication. **Milk–alkali = calcium**; constipation = aluminium; diarrhoea = magnesium.
 
 **REMEMBER:** *“CAlcium: Constipation and Alkalosis. MAgnesium: Must go Away (diarrhoea).”*
-
-`Q10839`
 
 ---
 
@@ -1463,8 +1375,6 @@
 
 **REMEMBER:** *Thalamic T-channels make the 3 Hz rhythm — block them, and never reach for a sodium-channel blocker.*
 
-`Q9260`
-
 ---
 
 ### 74. Antiepileptics for Neuropathic Pain
@@ -1484,8 +1394,6 @@
 **EXAM CONNECTION:** Antiepileptics also used for neuropathic pain → **pregabalin, carbamazepine and gabapentin** (NOT lamotrigine).
 
 **REMEMBER:** *Neuropathic pain is a firing problem, not an inflammation problem — quieten the membrane, not the prostaglandins.*
-
-`Q9300`
 
 ---
 
@@ -1507,8 +1415,6 @@
 
 **REMEMBER:** *A little carbonic anhydrase inhibition buys stones, tingling and a glaucoma emergency.*
 
-`Q9303`
-
 ---
 
 ### 76. Carbamazepine vs Oxcarbazepine
@@ -1528,8 +1434,6 @@
 **EXAM CONNECTION:** “All are more common with carbamazepine EXCEPT” — the single exception is **hyponatraemia**. The epoxide logic explains every other item on the list.
 
 **REMEMBER:** *No epoxide, no rash and no marrow trouble — but more sodium loss.*
-
-`Q10987`
 
 ---
 
@@ -1601,8 +1505,6 @@
 
 **REMEMBER:** *It plugs the leak without blocking the signal — that is why it is tolerated and ketamine is not.*
 
-`Q9316`
-
 ---
 
 ### 82. Levodopa Interactions
@@ -1622,8 +1524,6 @@
 **EXAM CONNECTION:** Drug NOT to be given with levodopa → **pyridoxine**.
 
 **REMEMBER:** *B6 helps the enzyme you are trying to block — unless carbidopa has already blocked it.*
-
-`Q10273`
 
 ---
 
@@ -1695,8 +1595,6 @@
 
 **REMEMBER:** *The kidney treats lithium as sodium — anything that saves salt poisons the patient.*
 
-`Q9231`
-
 ---
 
 ### 88. Antidepressants and Sexual Dysfunction
@@ -1716,8 +1614,6 @@
 **EXAM CONNECTION:** Antidepressant with least sexual dysfunction → **mirtazapine**.
 
 **REMEMBER:** *Blocking 5-HT2A spares the libido and blocking H1 fattens the patient — that is mirtazapine in one line.*
-
-`Q9256`
 
 ---
 
@@ -1741,8 +1637,6 @@
 
 **REMEMBER:** *Disulfiram punishes, naltrexone and acamprosate persuade.*
 
-`Q9257`
-
 ---
 
 ### 90. Choosing a Benzodiazepine in Liver Disease
@@ -1763,8 +1657,6 @@
 
 **REMEMBER:** *“LOT” needs only conjugation — the sick liver can still manage that.*
 
-`Q9317`
-
 ---
 
 ### 91. Paroxetine and Antidepressants in Pregnancy
@@ -1784,8 +1676,6 @@
 **EXAM CONNECTION:** A pre-conception counselling stem with a prior child with a cardiac defect and an unnamed antidepressant — the answer is **paroxetine** by elimination.
 
 **REMEMBER:** *Paroxetine perforates the septum; sertraline is the safe one.*
-
-`Q10857`
 
 ---
 
@@ -1810,8 +1700,6 @@
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/untitled-431.jpg)
-
-`Q10910`
 
 ---
 
@@ -1838,8 +1726,6 @@
 
 **REMEMBER:** *Anticholinergics for the stiff and the twisted; propranolol for the restless.*
 
-`Q10930`
-
 ---
 
 ### 94. SSRI-Induced Hyponatraemia in the Elderly
@@ -1861,8 +1747,6 @@
 
 **REMEMBER:** *Serotonin tells the kidney to hold water — and an old kidney cannot argue.*
 
-`Q11830`
-
 ---
 
 ### 95. Antidepressants — Choosing by Side Effect
@@ -1883,8 +1767,6 @@
 **EXAM CONNECTION:** Two forms — “which is NOT an SSRI” (**duloxetine**) and “which avoids sexual side effects” (**mirtazapine**).
 
 **REMEMBER:** *Mirtazapine releases serotonin but blocks the receptors that cause the problem.*
-
-`MF0144, MA2652`
 
 ---
 
@@ -1936,8 +1818,6 @@
 
 **REMEMBER:** *Buprenorphine hogs the mu receptor and does little with it; pentazocine works through kappa and makes you dysphoric.*
 
-`Q9236, Q9248`
-
 ---
 
 ### 99. Methotrexate and the DMARDs
@@ -1962,8 +1842,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9f8d4a9516b044e2a3f0355baf01eb5cx1280x1905.JPEG)
 
-`Q9234`
-
 ---
 
 ### 100. Drugs in Gout, in Myasthenia, and Two Signalling Facts
@@ -1987,8 +1865,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e88c3818bfea430391c09404932d7402x1280x2234.JPEG)
 
-`Q9261, Q9259, Q9243, Q9247, Q9254`
-
 ---
 
 ### 101. Local Anaesthetics and Methaemoglobinaemia
@@ -2011,8 +1887,6 @@
 
 **REMEMBER:** *Chocolate blood, cyanosis unresponsive to oxygen, and a pulse oximeter frozen at 85%.*
 
-`Q10247`
-
 ---
 
 ### 102. Cocaine as a Local Anaesthetic
@@ -2034,8 +1908,6 @@
 
 **REMEMBER:** *Every other local anaesthetic needs adrenaline added — cocaine brings its own.*
 
-`Q10907`
-
 ---
 
 ### 103. Tolerance to Opioids — The Three Exceptions
@@ -2056,8 +1928,6 @@
 **EXAM CONNECTION:** “Tolerance does NOT develop to” → **miosis**. The methadone/QT question is a separate high-yield item.
 
 **REMEMBER:** *Pinpoint pupils and constipation never wear off.*
-
-`MB6829, MG1068`
 
 ---
 
@@ -2154,8 +2024,6 @@
 
 **REMEMBER:** *Ask how the drug leaves before you ask what class it is.*
 
-`Q9232`
-
 ---
 
 ### 111. Drugs Acting on Steroid Synthesis and Receptors
@@ -2175,8 +2043,6 @@
 **EXAM CONNECTION:** Drug inhibiting glucocorticoid SYNTHESIS → **metyrapone**.
 
 **REMEMBER:** *Metyrapone stops the last step and lets the precursor pile up — that is both the treatment and the test.*
-
-`Q9270`
 
 ---
 
@@ -2200,8 +2066,6 @@
 
 **REMEMBER:** *It fools the hypothalamus and starves the endometrium — many eggs, fewer pregnancies.*
 
-`Q9296`
-
 ---
 
 ### 113. Pharmacotherapy of Osteoporosis
@@ -2221,8 +2085,6 @@
 **EXAM CONNECTION:** False statement about osteoporosis management → **that bisphosphonates are not given for more than a year**.
 
 **REMEMBER:** *Build first, then protect — and never stop denosumab into thin air.*
-
-`Q9312`
 
 ---
 
@@ -2246,8 +2108,6 @@
 
 **REMEMBER:** *They dump sugar and sodium — the kidney stops hyperfiltering and the heart stops failing.*
 
-`Q9313`
-
 ---
 
 ### 115. Glucocorticoid Replacement and Equivalence
@@ -2268,8 +2128,6 @@
 
 **REMEMBER:** *Twenty milligrams, mostly in the morning — and double it the day the patient falls ill.*
 
-`Q10135`
-
 ---
 
 ### 116. Insulin Preparations
@@ -2289,8 +2147,6 @@
 **EXAM CONNECTION:** Composition of Lente insulin → **70% crystalline, 30% amorphous**.
 
 **REMEMBER:** *Everything in insulin design is about how quickly the hexamer falls apart.*
-
-`Q9235, Q10151`
 
 ---
 
@@ -2314,8 +2170,6 @@
 
 **REMEMBER:** *Glucose-dependent insulin release — that is why it works without causing hypoglycaemia.*
 
-`Q10341, Q10167, Q10274`
-
 ---
 
 ### 118. Chlorpropamide and Drug-Induced Hyponatraemia
@@ -2335,8 +2189,6 @@
 **EXAM CONNECTION:** “Oral hypoglycaemic causing dilutional hyponatraemia” → **chlorpropamide**. The tolvaptan question tests the same axis in reverse.
 
 **REMEMBER:** *Chlorpropamide amplifies ADH; tolvaptan blocks it.*
-
-`MC3582, MA2221, MD7338`
 
 ---
 
@@ -2474,8 +2326,6 @@
 
 **REMEMBER:** *Destroy the drug, change the target, keep it out, or pump it back out — those are the only four options a bacterium has.*
 
-`Q9283, Q9292, Q9284, Q9274`
-
 ---
 
 ### 128. Linezolid and the Oxazolidinones
@@ -2497,8 +2347,6 @@
 **ALSO KNOW:** **Linezolid binds the 50S subunit at the P site of the 23S rRNA and PREVENTS FORMATION OF THE 70S INITIATION COMPLEX** — the very first step of translation, whereas macrolides, chloramphenicol and clindamycin act during ELONGATION. That is why there is **NO CROSS-RESISTANCE** with any other protein-synthesis inhibitor. **Spectrum: Gram-positives only — MRSA, VRE, penicillin-resistant pneumococcus — plus MDR TUBERCULOSIS (a WHO Group A drug) and *Nocardia*; oral bioavailability ~100%, so oral and IV doses are identical.** **MYELOSUPPRESSION — usually THROMBOCYTOPENIA at 7–10 days, reversible on stopping** — is the dose-limiting toxicity. **TEDIZOLID** is the newer once-daily oxazolidinone with less myelosuppression. **Methicillin resistance is via mecA → PBP2a, not beta-lactamase** — hence all beta-lactams fail except **CEFTAROLINE**; other MRSA options are vancomycin, **daptomycin (INACTIVATED BY PULMONARY SURFACTANT — never for pneumonia)**, teicoplanin, tigecycline, cotrimoxazole and clindamycin.
 
 **REMEMBER:** *It poisons bacterial and mitochondrial ribosomes alike — marrow, nerve and optic nerve pay the price.*
-
-`Q9301, Q9251`
 
 ---
 
@@ -2525,8 +2373,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/de59935081ef433c99266fa547e42bb2x866x722.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c1c5288ebe8f4f18af77726317f3d045x856x672.PNG)
 
-`Q10280, Q10680, Q10359`
-
 ---
 
 ### 130. Antimicrobial Choices — Cotrimoxazole and Tafenoquine
@@ -2546,8 +2392,6 @@
 **EXAM CONNECTION:** “Not prescribed in” → **chancroid**. Tafenoquine’s answer is **radical cure of P. vivax**.
 
 **REMEMBER:** *Cotrimoxazole goes where tissues are hard to reach, but no longer to chancroid.*
-
-`MB4318, MD0139, MB2533, MD6933`
 
 ---
 
@@ -2618,8 +2462,6 @@
 
 **REMEMBER:** *Protease inhibitors move the fat and break the sugar; indinavir also grows stones.*
 
-`Q9239`
-
 ---
 
 ### 136. Ethionamide and Antitubercular Hypothyroidism
@@ -2637,8 +2479,6 @@
 **EXAM CONNECTION:** Match the symptom cluster to the drug. **Hypothyroidism + goitre in a MDR-TB patient = ethionamide (or PAS)**; the distractors have entirely different toxicity profiles.
 
 **REMEMBER:** *Ethionamide is a thionamide — it treats TB and, by accident, treats the thyroid too.*
-
-`Q10983`
 
 ---
 
@@ -2662,8 +2502,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a35d3bc243d84eabab61ffc2580066dcx769x673.JPEG)
 
-`Q10991`
-
 ---
 
 ### 138. Antitubercular Drug Toxicities
@@ -2683,8 +2521,6 @@
 **EXAM CONNECTION: **Two questions from one drug list:** optic neuritis → ethambutol**, and **avoid with protease inhibitors → rifampicin**.
 
 **REMEMBER:** *Ethambutol takes the eyes; rifampicin takes the other drugs.*
-
-`MF0533, MB5237, MD4304`
 
 ---
 
@@ -2708,8 +2544,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e48d5ad74a9b48c6baa33c90914e13cbx1280x2560.JPEG)
-
-`MC7458`
 
 ---
 
@@ -2823,8 +2657,6 @@
 
 **REMEMBER:** *A drug that glues a ubiquitin ligase to the wrong protein — it destroys myeloma cells and fetal limbs alike.*
 
-`Q8876`
-
 ---
 
 ### 150. Biological Immunosuppressants
@@ -2845,8 +2677,6 @@
 
 **REMEMBER:** *CD25 appears only on the T cells that have just woken up — block it and you block only them.*
 
-`Q9269, Q9241`
-
 ---
 
 ### 151. Granulocyte Colony-Stimulating Factor
@@ -2866,8 +2696,6 @@
 **EXAM CONNECTION:** True about pegfilgrastim → **it should not be given in sickle cell disease** (its duration is LONGER, it is not oral, and it is effective in severe neutropenia).
 
 **REMEMBER:** *G-CSF fills the blood with sticky white cells — a gift in neutropenia and a hazard in sickle cell.*
-
-`Q9279`
 
 ---
 
@@ -2893,8 +2721,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/untitled-440.jpg)
 
-`Q10906, Q10916`
-
 ---
 
 ### 153. Hormonal Therapy in Breast Cancer
@@ -2914,8 +2740,6 @@
 **EXAM CONNECTION:** Class identification. **Exemestane** is the irreversible steroidal aromatase inhibitor; tamoxifen and ospemifene are SERMs; danazol is an androgen.
 
 **REMEMBER:** *No ovaries left means aromatase is the only source.*
-
-`MB0773, MF5250`
 
 ---
 
@@ -2940,8 +2764,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fd047e306bdc4310be749978ffaf0c5dx1280x1780.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/114b5293e3404eddbd69d440272edb0ex1280x1988.JPEG)
-
-`MB1142, MF9180, MC9511`
 
 ---
 
@@ -3015,8 +2837,6 @@
 
 **REMEMBER:** *E ripens the cervix, F squeezes the uterus — and F also squeezes the airway.*
 
-`Q9282`
-
 ---
 
 ### 160. Triptans and Coronary Vasoconstriction
@@ -3040,8 +2860,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/e5f470b5d0ef4785a0a3eaba9c8dfafa.JPEG)
 
-`MD6615, MF0777`
-
 ---
 
 ### 161. Prostaglandins and the Ductus Arteriosus
@@ -3061,8 +2879,6 @@
 **EXAM CONNECTION:** “Maintains ductal patency” → **PGE1**. The prostaglandin action table is asked in its own right.
 
 **REMEMBER:** *Give the prostaglandin to keep it open; block the prostaglandin to shut it.*
-
-`MC7425`
 
 ---
 
@@ -3132,8 +2948,6 @@
 
 **REMEMBER:** *Atropine dries the patient; pralidoxime is what lets him breathe.*
 
-`Q9697`
-
 ---
 
 ### 167. Paracetamol Poisoning and N-Acetylcysteine
@@ -3155,8 +2969,6 @@
 
 **REMEMBER:** *NAC restores glutathione, protects the liver, and is given in pregnancy without hesitation.*
 
-`Q10924`
-
 ---
 
 ### 168. Tricyclic Antidepressant Overdose
@@ -3177,8 +2989,6 @@
 **EXAM CONNECTION:** “Which does NOT suggest toxicity?” — the answer is the item that **contradicts the anticholinergic syndrome** (hypothermia, miosis, sweating, bradycardia).
 
 **REMEMBER:** *No sweat means no cooling — TCAs make you hot, not cold.*
-
-`Q11000`
 
 ---
 
@@ -3214,8 +3024,6 @@
 
 **REMEMBER:** *Prostaglandins open the outflow and swell the macula — save them for the eye with a healthy retina.*
 
-`Q9242`
-
 ---
 
 ### 171. Glaucoma Drugs by Mechanism of Outflow
@@ -3236,8 +3044,6 @@
 
 **REMEMBER:** *Prostaglandins push aqueous out the back door, netarsudil unclogs the front one.*
 
-`Q9325, Q9310`
-
 ---
 
 ### 172. Drug-Induced Ocular Toxicity
@@ -3256,8 +3062,6 @@
 **EXAM CONNECTION:** “Drug deposited in the cornea” → **chloroquine**. The DMARD distractors (methotrexate, leflunomide, sulfasalazine) have their own distinct toxicities.
 
 **REMEMBER:** *Amphiphilic drugs stick to melanin and to corneal phospholipid.*
-
-`MD0612`
 
 ---
 
@@ -3315,8 +3119,6 @@
 
 **REMEMBER:** *Wrong label = misbranded; wrong identity = spurious; wrong contents = adulterated.*
 
-`Q9245`
-
 ---
 
 ### 177. Barbiturates and Acute Intermittent Porphyria
@@ -3336,8 +3138,6 @@
 **EXAM CONNECTION:** Contraindication recall. Note that options A, C and D describe **legitimate uses** of barbiturates.
 
 **REMEMBER:** *Induce P450, consume the haem, unleash ALA synthase.*
-
-`MB5296`
 
 ---
 

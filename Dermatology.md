@@ -50,8 +50,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/d9bd6517e74a4f0ea85b34e5c1da6437.PNG)
 
-`Q8858, Q8856`
-
 ---
 
 ### 2. Modes of Glandular Secretion
@@ -76,8 +74,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/a0210bc07f9348d4801690e9ac20ff3a.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/5ae64a3914f94172b9fe0f33d52ec566.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d6ef8c9aa61d45a89b36db57f5336967x1280x1222.JPEG)
-
-`Q8864, Q8891`
 
 ---
 
@@ -107,8 +103,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/27/screenshot-2023-11-27-124434.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/08/19/untitled-13534.jpg)
 
-`Q8822, Q11867, Q11870`
-
 ---
 
 ### 4. Skin — The Basics That Get Asked
@@ -131,8 +125,6 @@
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/07/04/untitled-918.jpg)
-
-`Q11673`
 
 ---
 
@@ -158,8 +150,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/07/04/screenshot-2024-07-04-103209.png)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/04/screenshot-2024-07-04-103242.png)
 
-`Q11677`
-
 ---
 
 ### 6. Annular Lesions — and the Wheal That Isn’t
@@ -179,8 +169,6 @@
 **EXAM CONNECTION:** “Least likely to be annular” → **urticaria**. The examiner is checking that you know a wheal is defined by its **transience**, not its shape.
 
 **REMEMBER:** *Rings spread and clear; wheals appear and vanish.*
-
-`MG5805`
 
 ---
 
@@ -207,8 +195,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/8dbdbb9fdeeb44db93b3075608f74136.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f93c2c811aa94081862e08de28fd0c38x600x600.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/874d6f95161c4f0895a7ce32c3c33ca5x1280x1169.JPEG)
-
-`MC0750, MB9195`
 
 ---
 
@@ -255,8 +241,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f7efd5cfe58347fab23e815e6db7c4d8x512x343.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/49d94cf0d72c4848bc6e37e703e3724ex356x496.JPEG)
 
-`Q8886`
-
 ---
 
 ### 10. Lichen Nitidus
@@ -289,8 +273,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/04/24/screenshot-2024-04-24-143750.JPG)
 
-`Q10932`
-
 ---
 
 ### 11. Psoriasis: Immunology and Nails
@@ -314,8 +296,6 @@
 **ALSO KNOW:** **Modern systemic therapy is target-driven: for PSORIASIS, IL-23 inhibitors (risankizumab, guselkumab, tildrakizumab) and IL-17 inhibitors (secukinumab, ixekizumab, bimekizumab) alongside TNF inhibitors and the oral TYK2 inhibitor DEUCRAVACITINIB; for ATOPIC DERMATITIS, DUPILUMAB (anti-IL-4Rα), TRALOKINUMAB and LEBRIKIZUMAB (anti-IL-13), and the oral JAK inhibitors upadacitinib and abrocitinib; for ALOPECIA AREATA, BARICITINIB, RITLECITINIB and deuruxolitinib; and for NON-SEGMENTAL VITILIGO, TOPICAL RUXOLITINIB CREAM — the first approved repigmenting therapy.** **All JAK inhibitors carry a boxed warning for thrombosis, major cardiovascular events, malignancy and serious infection.**[^2]
 
 **REMEMBER:** *Too much IL-17, not too little — the epidermis is running a sprint.*
-
-`Q10943`
 
 ---
 
@@ -343,8 +323,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8accfb401ba1405b85d04bf6eac15d05x1279x1103.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d31270bf5e5f4b709adfe08cf50556d9x131x217.PNG)
 
-`MD6689, MF0876, MD0684`
-
 ---
 
 ### 13. Pompholyx (Dyshidrotic Eczema)
@@ -367,8 +345,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/4f1838108ee0408fa0f9b0e3b59eaa6b.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0d8ec6b043bb4f40ae2329cdf90ce526x942x707.JPEG)
-
-`MC1262`
 
 ---
 
@@ -430,8 +406,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/36f8ba3f8011493fb3be9a3650d07aebx720x472.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/68496a060b3d4f839103073ae151a71dx1280x1128.JPEG)
 
-`Q8820, Q8861, Q8860`
-
 ---
 
 ### 17. Dermatitis Herpetiformis vs Linear IgA Disease
@@ -463,8 +437,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d2ffa1905d93404189705c82b1e6df17x384x218.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f310aa1c7017420ba0bfeee1df97d9fbx188x145.JPEG)
 
-`Q9922, Q9949, Q10270`
-
 ---
 
 ### 18. Pemphigoid Gestationis
@@ -487,8 +459,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/430f46f6ab8e4def91566ce397bf977ax344x428.PNG)
-
-`Q10242`
 
 ---
 
@@ -523,8 +493,6 @@
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture33.jpg)
-
-`Q10893`
 
 ---
 
@@ -570,8 +538,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f76e3f9a008b4177bca3fc93235f8bbex1280x1422.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7d520f373b5444a78ca3afcf1167cbd1x1280x900.JPEG)
 
-`Q8845`
-
 ---
 
 ### 22. Pitted Keratolysis
@@ -597,8 +563,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/089ae868ae1d4b2f974fae426f97cf9a.JPEG)
 
-`Q11969`
-
 ---
 
 ### 23. Erythrasma
@@ -621,8 +585,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a303185d59e74aa19452c39155d19d32x1280x1267.3624823695345.JPEG)
-
-`MA4884`
 
 ---
 
@@ -650,8 +612,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/2ce918eae0784e26ad3534e2fccfd767.PNG)
-
-`Q8843`
 
 ---
 
@@ -682,8 +642,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fc5a6c52271f48bdb61f417171eaf6e5x1280x1706.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0765a3830b0b496e8012c78c66ef2215x1280x1410.JPEG)
 
-`Q9936`
-
 ---
 
 ### 26. Eczema Herpeticum (Kaposi Varicelliform Eruption)
@@ -706,8 +664,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/36cc20551fe34e49b38bf265e3e5c27ex389x257.JPEG)
-
-`MC2215`
 
 ---
 
@@ -756,8 +712,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c9535a74c44e4414810b5b9067b44580x800x600.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a4f9e5c233a049229576d4f4860f0df2x800x600.JPEG)
 
-`Q8850`
-
 ---
 
 ### 29. Chromoblastomycosis — Copper Penny Bodies
@@ -791,8 +745,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cf4305a289564b899dc71aab4dfcf97fx958x656.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3ea8438058004e40912aaa8c1667141fx800x524.JPEG)
 
-`MF5262`
-
 ---
 
 ---
@@ -823,8 +775,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/8c615a42eec4403b9e5f22e8b25556bf.PNG)
 ![question](https://cdn1.dailyrounds.org/uploads/41e8dd759c074ba0a1c32c49bf96fc3c.JPEG)
 
-`Q8821, Q8859, Q8857, Q8849`
-
 ---
 
 ### 31. Tuberculoid Leprosy and the Lepromin Test
@@ -850,8 +800,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/c06b41ee9ace4b48aa8990f2ccbd4cd3.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c804d280380847679e81d53da558702cx1280x1352.2143864598024.JPEG)
 
-`Q8887`
-
 ---
 
 ### 32. Trophic (Neuropathic) Ulcer in Treated Leprosy
@@ -875,8 +823,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/59a1b60312fc4c88ad721abd84e9913d.PNG)
-
-`Q8892`
 
 ---
 
@@ -908,8 +854,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/image_cv8eRBC.png)
 ![explanation](https://media.cerebellumacademy.com/media/public/image_F3OLXAd.png)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/22/screenshot-2023-11-21-190935.png)
-
-`Q10386, Q11866, Q11871, Q11865`
 
 ---
 
@@ -972,8 +916,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/06/15/screenshot-2024-06-15-114035.png)
 
-`Q10043`
-
 ---
 
 ### 37. Cutaneous Larva Migrans vs Larva Currens
@@ -996,8 +938,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/bea7036e115844149e1087a881d82c17.JPEG)
-
-`Q11970`
 
 ---
 
@@ -1022,8 +962,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/6a81faddd8784f6c8b86f3ed787e3bc4.PNG)
 
-`Q11971`
-
 ---
 
 ### 39. Maculae Ceruleae — Pediculosis Pubis
@@ -1045,8 +983,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a71d1bce7f42492dbcc1203772d781b3x508x190.PNG)
-
-`MA5109`
 
 ---
 
@@ -1076,8 +1012,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/aa379fd4309a43b189cafd5d738dad92x327x229.PNG)
-
-`Q10208`
 
 ---
 
@@ -1109,8 +1043,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/be01c14fe5b34f6fb923eca0f40d42cex253x357.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f4fd185c143045fe944bb99f1299a4bbx379x412.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/45e19098c36e4e0ba69bdbc3358cbb5fx559x788.JPEG)
-
-`MF8277`
 
 ---
 
@@ -1159,8 +1091,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e98d079c9ccc4999aeb7779574039be4x512x370.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b510338bdedd4dec9b14c58befaeab11x512x371.PNG)
 
-`Q8841`
-
 ---
 
 ### 44. Segmental Vitiligo
@@ -1187,8 +1117,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7f3ba8a5c000485d928e7c7c3ac394d7x1024x768.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/aa5902707aae41afb9e5454dd77afa78x505x246.PNG)
 
-`Q8848`
-
 ---
 
 ### 45. Reticulate Pigmentary Disorders
@@ -1208,8 +1136,6 @@
 **EXAM CONNECTION:** “Fine reticular hyperpigmentation with pits near the angle of the mouth” → **Dowling–Degos disease**. The perioral pits are the discriminator from Kitamura.
 
 **REMEMBER:** *Dowling–Degos folds inward (flexures, perioral pits); Kitamura goes outward (hand dorsa, palmar pits).*
-
-`Q11972`
 
 ---
 
@@ -1233,8 +1159,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e82657c53e21481db426a43fb422413ax1280x1282.JPEG)
-
-`Q11981`
 
 ---
 
@@ -1333,8 +1257,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b1c54dda60c54955a4012691ef7398e6x483x585.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/95bf059c2e064499bafc8b948dbb3c4dx603x600.JPEG)
 
-`Q8829`
-
 ---
 
 ### 52. Nail Signs
@@ -1373,8 +1295,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/28/screenshot-2023-09-28-112217.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/18/picture8777.jpg)
 
-`Q10828, Q11861, Q11868`
-
 ---
 
 ### 53. Trichotillomania
@@ -1398,8 +1318,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/27/screenshot-2023-11-27-181350.jpg)
 
-`Q11856`
-
 ---
 
 ### 54. Alopecia Areata — The Terminology
@@ -1420,8 +1338,6 @@
 **EXAM CONNECTION:** Pure terminology — **totalis = scalp, universalis = whole body, ophiasis = snake-like band at the back**.
 
 **REMEMBER:** *Totalis is the scalp, universalis is everything, ophiasis creeps around the back like a snake — and it does badly.*
-
-`Q11979`
 
 ---
 
@@ -1445,8 +1361,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2bc0e4da76314d049a833c66bbbbda85x1280x1428.JPEG)
-
-`MA3267, MF7295`
 
 ---
 
@@ -1556,8 +1470,6 @@
 ![explanation](https://cdn1.dailyrounds.org/uploads/4c225646fe424631866c9d31563634a2.PNG)
 ![question](https://cdn1.dailyrounds.org/uploads/2596aff9ba73469ba2ac5201630db157.PNG)
 
-`Q8825, Q8846`
-
 ---
 
 ### 62. Carney Complex — NAME and LAMB
@@ -1582,8 +1494,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/acd1db191f4d487ea4d71b3072c6b344x1268x1206.JPEG)
 
-`Q8865`
-
 ---
 
 ### 63. Tuberous Sclerosis — Major vs Minor Criteria
@@ -1604,8 +1514,6 @@
 **EXAM CONNECTION:** The question gives you a list and asks for the diagnostic category — count majors and minors.
 
 **REMEMBER:** *Two majors make it definite; gingival fibromas, bone cysts and dental pits are all minor — so only “possible”.*
-
-`Q10376`
 
 ---
 
@@ -1628,8 +1536,6 @@
 **ALSO KNOW:** NF1 diagnostic criteria: ≥6 café-au-lait macules, ≥2 neurofibromas or 1 plexiform, axillary/inguinal **freckling (Crowe’s sign)**, **Lisch nodules**, optic glioma, bony dysplasia, first-degree relative. Gene: **NF1** on **17q** (neurofibromin, a Ras-GAP). NF2 = **22q**, bilateral acoustic schwannomas.
 
 **REMEMBER:** *You can push it in and it pops back — neurofibroma, anetoderma, dermatofibroma. Blisters do not buttonhole.*
-
-`Q10379`
 
 ---
 
@@ -1656,8 +1562,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/6b756e8781a7469584bd704e7695a65e.PNG)
 
-`Q11974`
-
 ---
 
 ### 66. Lisch Nodules and the Neurocutaneous Syndromes
@@ -1682,8 +1586,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/12/picture1_hQ8NREt.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/23/screenshot-2024-02-23-124300.jpg)
 
-`Q11516`
-
 ---
 
 ### 67. Ataxia–Telangiectasia (Louis–Bar Syndrome)
@@ -1706,8 +1608,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/b4cc3d885a0545aebea87449b6058906.JPEG)
-
-`MC2717`
 
 ---
 
@@ -1827,8 +1727,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/3f8fbb147d334ed5907f39c38c61c3b8.PNG)
 
-`Q8838, Q8855`
-
 ---
 
 ### 75. Morphoea and the “Box Sign”
@@ -1854,8 +1752,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/5576aade587948e1a5a5a4da521f3193.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/22f1a7f935d44bc68f7fe39709fd1971x1280x1187.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e675bcf8d802402580c8ca820dc77dc3x1280x1186.JPEG)
-
-`Q8890`
 
 ---
 
@@ -1884,8 +1780,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/40c43dd8c3f04527907abf2dadb68bcb.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/42d5abac25a84f59a8480e1f6d87ef7ax1280x1182.5105782792666.JPEG)
 
-`Q10206, Q10257`
-
 ---
 
 ### 77. Cutaneous Manifestations of SLE
@@ -1909,8 +1803,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a9fd4549688a483d8e3c6f4542a8a9e6x512x395.PNG)
-
-`MA5398, MA5309`
 
 ---
 
@@ -1998,8 +1890,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/b71e5ac3bce140de96dcfa1d23bdf9d3.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5be2d00772a2488998c28496dc777016x359x348.PNG)
 
-`Q8842`
-
 ---
 
 ### 82. Fixed Drug Eruption
@@ -2022,8 +1912,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/345b549e83ab4455865cab5f24863b73x720x581.PNG)
-
-`Q8854`
 
 ---
 
@@ -2050,8 +1938,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/ce4017efb0e54947a0dd6d5376823367.PNG)
 
-`Q8828`
-
 ---
 
 ### 84. Dermographism
@@ -2077,8 +1963,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/af9c900dc4d4436a95bb64ecf1d4ddc3x1280x960.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e75400f2cca144e2b279004337f88f0dx1072x1438.PNG)
 
-`Q9878`
-
 ---
 
 ### 85. Hereditary Angioedema
@@ -2100,8 +1984,6 @@
 **ALSO KNOW: **Type III (normal C1-INH):** gain-of-function F12** mutation in ~20%; oestrogen-dependent, female-predominant. *HAE = bradykinin, low C4, oestrogen worsens, antihistamines useless.*
 
 **REMEMBER:** *Bradykinin, not histamine — no itch, no weals, no response to adrenaline, and never an ACE inhibitor.*
-
-`Q9988`
 
 ---
 
@@ -2125,8 +2007,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bfabb8387f314858949b8192868729e9x1280x2310.JPEG)
-
-`Q10025`
 
 ---
 
@@ -2156,8 +2036,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/a9d6e1fc034a428c9e463dce3c85b016.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ccce64d817754beea3c70e269eab9ff3x1280x1182.5105782792666.JPEG)
 
-`Q11976`
-
 ---
 
 ### 88. Bowen’s Disease
@@ -2182,8 +2060,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6b3ceae757274e5bbb82ee20a70840f8x1280x1216.8124118476728.JPEG)
 
-`Q11977`
-
 ---
 
 ### 89. Vascular Birthmarks — Salmon Patch, Port-Wine Stain and Haemangioma
@@ -2206,8 +2082,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/06/05/picture1.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/06/05/picture2.jpg)
-
-`Q9706`
 
 ---
 
@@ -2234,8 +2108,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/2b2cb68f342b42aeb75412ad9a8c5369.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dcf6f993722443c89245666de81247f6x1280x1131.JPEG)
 
-`Q10968`
-
 ---
 
 ### 91. Mycosis Fungoides — Extracorporeal Photopheresis
@@ -2257,8 +2129,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1eeb19c7e56b4d35a33b3d144dc28318x1280x1620.JPEG)
-
-`MC2878`
 
 ---
 
@@ -2316,8 +2186,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/ac7f0b28b1bf4213b1e2ea3fc0c7b12f.PNG)
 
-`Q8893`
-
 ---
 
 ### 95. Treatment-Resistant Acne in a Woman
@@ -2340,8 +2208,6 @@
 
 **IMAGES:**
 ![explanation](https://cdn1.dailyrounds.org/uploads/d0c11e3325124df49bac9104eabccaebx686x530.JPEG)
-
-`MF8274`
 
 ---
 
@@ -2367,8 +2233,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/f75d9d15bf924ec1a5d06e85cfd57860.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/aa0deef4a0d14ef3bcfc937904ab0af5x600x413.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/35d93e9e18cd4f19b2a0df77cb0c2896x448x496.PNG)
-
-`MA3963`
 
 ---
 
@@ -2398,8 +2262,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9ea4455437b64f2fb0c805fc90ed0808x720x416.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a3ab8b9981554aed8921824dfdbcaaa7x720x490.PNG)
 
-`Q8847`
-
 ---
 
 ### 98. Phrynoderma
@@ -2427,8 +2289,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f0134c6609184b61976226da593d114ax1280x984.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bdffe12098534c63a152136e2867643ax1280x1533.JPEG)
 
-`Q8851`
-
 ---
 
 ### 99. Cutis Marmorata
@@ -2450,8 +2310,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8329af0f29b04662b7b94888e138dca0x1280x1846.JPEG)
-
-`Q8840`
 
 ---
 
@@ -2475,8 +2333,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/a3fc83256f6c455cbf15f49328c2b197.png)
-
-`Q8826`
 
 ---
 
@@ -2505,8 +2361,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/47a3d60857e047babd8641b36e8e9fc0x1279x1079.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/928b9801bda54ff68dd1c78ea5d00b86x1199x816.JPEG)
 
-`Q8889`
-
 ---
 
 ### 102. Acanthosis Nigricans
@@ -2529,8 +2383,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4a7761496c064d8bb1e0bd92479dd856x211x177.JPEG)
-
-`Q10023`
 
 ---
 
@@ -2557,8 +2409,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a821c6f1b30042d1aee8d5a4eb2c6e64x800x450.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/81fb367beab54118bfd6ba34f6e0f98dx1280x1213.JPEG)
 
-`Q10380`
-
 ---
 
 ## Investigations and Therapeutics
@@ -2581,8 +2431,6 @@
 
 **REMEMBER:** *Coral red Corynebacterium, golden Malassezia, blue-green Microsporum, milky white vitiligo.*
 
-`Q8862`
-
 ---
 
 ### 105. Anti-Psoriatic Drugs — Matching the Toxicity
@@ -2603,8 +2451,6 @@
 **EXAM CONNECTION:** Column-matching question. Acitretin ↔ mucositis/teratogenic and PUVA ↔ skin cancer are the two anchors.
 
 **REMEMBER:** *PUVA burns you later (cancer), ciclosporin hits the kidney, methotrexate the fetus and liver, acitretin the mucosa — for three years.*
-
-`Q8853`
 
 ---
 
@@ -2629,8 +2475,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6ebc687310f342eb903cfc11bb43f880x1024x768.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1b4a7219538548db927a8f59da688b60x1280x936.JPEG)
-
-`Q8823, Q8827`
 
 ---
 
@@ -2657,8 +2501,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/13/3_dWwqGqk.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/13/4_LZvYmJE.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/25/screenshot-2023-11-25-114321.jpg)
-
-`Q11869`
 
 ---
 

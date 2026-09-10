@@ -47,8 +47,6 @@
 
 **REMEMBER:** *Inside: potassium, magnesium, phosphate and protein. Outside: sodium, chloride, bicarbonate and calcium.*
 
-`Q10324, Q10773`
-
 ---
 
 ### 2. Channelopathies
@@ -68,8 +66,6 @@
 **EXAM CONNECTION:** Direct disease ↔ channel matching.
 
 **REMEMBER:** *HYPERkalaemic = Na. HYPOkalaemic = Ca. Malignant hyperthermia = RYR1. Myotonia congenita = Cl.*
-
-`Q10760`
 
 ---
 
@@ -92,8 +88,6 @@
 
 **REMEMBER:** *One slow red ox — type I is slow, red and oxidative.*
 
-`Q10762`
-
 ---
 
 ### 4. Paroxysmal Nocturnal Haemoglobinuria — The GPI Anchor
@@ -115,8 +109,6 @@
 
 **REMEMBER:** *No anchor, no CD55/CD59, no brake on complement — haemolysis and thrombosis.*
 
-`Q10763`
-
 ---
 
 ### 5. Cell Adhesion Molecules
@@ -137,8 +129,6 @@
 
 **REMEMBER:** *Selectins roll them, integrins stop them, PECAM lets them through — and cadherins hold tissue together.*
 
-`Q10776`
-
 ---
 
 ### 6. Cystic Fibrosis: Why Sweat Chloride Rises but Pancreatic Chloride Falls
@@ -158,8 +148,6 @@
 **EXAM CONNECTION: **A two-statement selection. Remember the direction pair:** sweat chloride UP, pancreatic/airway chloride DOWN.**
 
 **REMEMBER:** *The sweat duct absorbs chloride, the pancreas secretes it — CFTR fails at both, in opposite directions.*
-
-`Q11038`
 
 ---
 
@@ -184,8 +172,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1b2e8593c17c4a2fb62a658d5c37865fx335x360.JPEG)
-
-`MC9795`
 
 ---
 
@@ -215,8 +201,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/397707ff8e1a474aa143981cba6babd6x1279x1431.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/34fac50a7250488b88596ffb2c1141e5x1280x883.JPEG)
 
-`Q9172, Q9165`
-
 ---
 
 ### 9. Isoenzymes
@@ -236,8 +220,6 @@
 **EXAM CONNECTION:** “All true about isoenzymes EXCEPT” → “**they have the same number of charged amino acids**”.
 
 **REMEMBER:** *Same reaction, different molecule — and it is the charge difference that lets you localise the organ.*
-
-`Q10818`
 
 ---
 
@@ -279,8 +261,6 @@
 
 **REMEMBER:** *Succinate bypasses complex I — so if succinate is blocked too, the lesion is further downstream.*
 
-`Q9181`
-
 ---
 
 ### 12. High-Energy Compounds
@@ -299,8 +279,6 @@
 **EXAM CONNECTION:** “Which has the highest energy yield?” → **phosphoenolpyruvate**.
 
 **REMEMBER:** *PEP tops the list; ATP sits in the middle — which is exactly why ATP can be a currency.*
-
-`Q10774`
 
 ---
 
@@ -326,8 +304,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/39cfca1ac5e74aea826d31bfbc8c2586x1280x1590.521861777151.JPEG)
 
-`Q10795, Q10793`
-
 ---
 
 ### 14. Cyanide Poisoning — The Venous Blood Gives It Away
@@ -350,8 +326,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7fdce35a5184493da5256b2517142930x1280x2560.JPEG)
-
-`Q11058`
 
 ---
 
@@ -376,8 +350,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/0d2c86a902f54fd1bbe8d5ea08c81972.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/517dda62074444dd8f1f28403f50a180x720x581.JPEG)
 
-`MA1134`
-
 ---
 
 ### 16. TCA Cycle Inhibitors
@@ -401,8 +373,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/76825a8fa7b34db89430c4b5211dd573x1280x1018.JPEG)
-
-`MA1177`
 
 ---
 
@@ -453,8 +423,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/44dbdd1410134c478ee549479d615b02x1280x739.JPEG)
 
-`Q8918`
-
 ---
 
 ### 20. NADPH — Where It Comes From, Where It Goes
@@ -474,8 +442,6 @@
 **EXAM CONNECTION:** “NADPH is used in” → **fatty acid synthesis**.
 
 **REMEMBER:** *NADH burns, NADPH builds — and NADPH also keeps glutathione reduced.*
-
-`Q9168`
 
 ---
 
@@ -499,8 +465,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/998a1a25cb394a3c83a5408d1dd4ec2bx412x255.JPEG)
-
-`Q9182`
 
 ---
 
@@ -527,8 +491,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/72eb71b8612b4f1b9d3f4db4baaaf704.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3fdba9494f474323a9c3ab86bcd0234bx1092x899.PNG)
 
-`Q9185`
-
 ---
 
 ### 23. Fructosamine
@@ -549,8 +511,6 @@
 
 **REMEMBER:** *Albumin lives 3 weeks, red cells live 3 months — pick the marker to match the window.*
 
-`Q9203`
-
 ---
 
 ### 24. Lactase = β-Galactosidase
@@ -569,8 +529,6 @@
 **EXAM CONNECTION:** “Supplement containing which enzyme?” → **β-galactosidase**.
 
 **REMEMBER:** *Lactase = β-galactosidase. α-galactosidase is Fabry; β-galactocerebrosidase is Krabbe.*
-
-`Q9527`
 
 ---
 
@@ -594,8 +552,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/Screenshot%202024-12-18%20131253.jpg)
 
-`Q9529`
-
 ---
 
 ### 26. Regulation of Pyruvate Kinase and the Other Key Enzymes
@@ -617,8 +573,6 @@
 **ALSO KNOW:** PK deficiency causes **haemolytic anaemia** — the **commonest glycolytic enzyme defect** causing haemolysis (second overall to G6PD). **Autosomal recessive**, non-spherocytic; RBCs cannot make ATP (they have no mitochondria) → membrane pump failure. **2,3-BPG accumulates** upstream → right-shifted O₂ curve → **anaemia is better tolerated** than the haemoglobin level suggests. Blood film: **echinocytes/burr cells**. *PK deficiency: low ATP, high 2,3-BPG — anaemic but comfortable.*
 
 **REMEMBER:** *ATP, alanine and glucagon all say “we don’t need to burn glucose” — so they switch pyruvate kinase off.*
-
-`Q10767`
 
 ---
 
@@ -642,8 +596,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/273ae933e27941edbdbe9e4f99d5dbe6x1280x1129.JPEG)
-
-`Q11059`
 
 ---
 
@@ -670,8 +622,6 @@
 **EXAM CONNECTION:** “Insulin-independent EXCEPT” — the answer is always the **GLUT-4 tissue** (muscle, heart or fat).
 
 **REMEMBER:** *Brain and red cells never wait for insulin; muscle and fat always do.*
-
-`Q11025`
 
 ---
 
@@ -734,8 +684,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dafecd9ee2034003b574e81dbcebbfdax1280x2560.JPEG)
 
-`Q9197, Q9219`
-
 ---
 
 ### 33. Glycogen Storage Diseases — Reading the Glycogen Structure
@@ -759,8 +707,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202024-12-18%20131450.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202024-12-18%20131507.jpg)
 
-`Q9530`
-
 ---
 
 ### 34. Glycogenin — The Primer for Glycogen
@@ -780,8 +726,6 @@
 **EXAM CONNECTION:** “Primer acting as acceptor of glucose residues in glycogen synthesis” → **protein (glycogenin)**.
 
 **REMEMBER:** *Glycogen synthase can only lengthen a chain — glycogenin starts it, on itself.*
-
-`Q10825`
 
 ---
 
@@ -806,8 +750,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d899de2c563b46f3a4712e021cba77d7x1280x1333.JPEG)
 
-`MB1688`
-
 ---
 
 ### 36. Glycogen Synthase Deficiency (GSD 0)
@@ -830,8 +772,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/782e85c36f0648698a222dca988adfabx1280x1863.JPEG)
-
-`MF8299, MB1684`
 
 ---
 
@@ -858,8 +798,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e9308e8bf30d49c284baadb19ae977b5x510x692.PNG)
 
-`Q9161`
-
 ---
 
 ### 38. Amphipathic vs Neutral Lipids
@@ -879,8 +817,6 @@
 **EXAM CONNECTION:** “Which is NOT amphipathic?” → **triglycerides**.
 
 **REMEMBER:** *Esterify the last polar group and the lipid goes neutral — straight to the core of the droplet.*
-
-`Q9178`
 
 ---
 
@@ -905,8 +841,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/06b835f663d042b582fe7e0d8e062422x1280x2002.JPEG)
 
-`Q9200`
-
 ---
 
 ### 40. Cardiolipin and Barth Syndrome
@@ -927,8 +861,6 @@
 **ALSO KNOW:** Cardiolipin is required for the function of Complex IV and the ANT carrier.
 
 **REMEMBER:** *Cardiolipin: only in mitochondria, four tails, and it is what makes VDRL a false-positive test.*
-
-`Q9221`
 
 ---
 
@@ -952,8 +884,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202024-12-18%20131953.jpg)
 
-`Q9526`
-
 ---
 
 ### 42. Lipotropic Factors
@@ -976,8 +906,6 @@
 
 **REMEMBER:** *Lipotropic = anything that helps make choline, because fat leaves the liver wrapped in lecithin.*
 
-`Q10234, Q10761`
-
 ---
 
 ### 43. Abetalipoproteinaemia and the Low-HDL Disorders
@@ -997,8 +925,6 @@
 **EXAM CONNECTION:** “All have low or near-absent HDL EXCEPT” → **abetalipoproteinaemia**.
 
 **REMEMBER:** *Apo A-I builds HDL; apo B builds everything else. Abetalipoproteinaemia loses apo B and keeps HDL.*
-
-`Q10765, Q10780`
 
 ---
 
@@ -1021,8 +947,6 @@
 
 **REMEMBER:** *COX-1 housekeeps (stomach, platelets, kidney); COX-2 inflames. Aspirin kills COX-1 in the platelet for life.*
 
-`Q10779`
-
 ---
 
 ### 45. Bile Acid Synthesis — 7α-Hydroxylase
@@ -1043,8 +967,6 @@
 **EXAM CONNECTION:** “First intermediate in the conversion of cholesterol to bile acids” → **7α-hydroxycholesterol** (7-dehydrocholesterol is the vitamin D trap).
 
 **REMEMBER:** *7α-hydroxylase is the only real exit for cholesterol — and bile acid binders press the accelerator.*
-
-`Q10791`
 
 ---
 
@@ -1067,8 +989,6 @@
 
 **REMEMBER:** *Thiokinase pays two ATP up front; the carnitine shuttle controls the rate; malonyl-CoA is the switch.*
 
-`Q10810, Q10794`
-
 ---
 
 ### 47. LCAT and Reverse Cholesterol Transport
@@ -1088,8 +1008,6 @@
 **EXAM CONNECTION:** “Activator of the key enzyme in reverse cholesterol transport” → **apo A-I**.
 
 **REMEMBER:** *Apo A-I switches on LCAT, which buries cholesterol in the HDL core so more can keep flowing in.*
-
-`Q10813`
 
 ---
 
@@ -1114,8 +1032,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/364d110205114669a30e8479d7e4625ax1024x700.jpeg)
 
-`Q10814`
-
 ---
 
 ### 49. Acute Fatty Liver of Pregnancy — Fetal LCHAD Deficiency
@@ -1135,8 +1051,6 @@
 **EXAM CONNECTION: **The answer hinges on two words:** fetal** (not maternal) and **long-chain** (not medium-chain). All four options are permutations of those two variables.
 
 **REMEMBER:** *The baby’s enzyme defect poisons the mother’s liver.*
-
-`MD3506`
 
 ---
 
@@ -1161,8 +1075,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7d27598800f5469bade0f988478cd9f3x1280x1913.JPEG)
 
-`MA9797`
-
 ---
 
 ### 51. Hormone-Sensitive Lipase vs Lipoprotein Lipase
@@ -1185,8 +1097,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/930c5ce53b9a48df908e15bf24113255x800x552.JPEG)
-
-`MD1280`
 
 ---
 
@@ -1240,8 +1150,6 @@
 
 **REMEMBER:** *Brain and gut send glutamine; muscle sends alanine; only the liver makes urea.*
 
-`Q9160`
-
 ---
 
 ### 56. The Tyrosinaemias
@@ -1260,8 +1168,6 @@
 **EXAM CONNECTION:** Straight enzyme–disease matching.
 
 **REMEMBER:** *Type I blocks last and destroys the liver (treat with nitisinone); type II blocks first and ulcerates the cornea.*
-
-`Q9162`
 
 ---
 
@@ -1286,8 +1192,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/97ff020d81754547b5b454b82d711b6f.JPEG)
-
-`Q9164`
 
 ---
 
@@ -1315,8 +1219,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/00fc56d26bed4db181a849c7dbef250ex1280x1774.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bcd76df2f7cd4fd8bcc986803f0c1256x512x345.PNG)
 
-`Q9186`
-
 ---
 
 ### 59. Ammonia Scavengers in Urea Cycle Disorders
@@ -1339,8 +1241,6 @@
 
 **REMEMBER:** *Benzoate takes glycine (1 N); phenylacetate takes glutamine (2 N) — both walk nitrogen out past the urea cycle.*
 
-`Q9224`
-
 ---
 
 ### 60. Creatine — Not a Neurotransmitter
@@ -1360,8 +1260,6 @@
 **EXAM CONNECTION:** “Which is NOT a neurotransmitter derived from amino acids?” → **creatine**.
 
 **REMEMBER:** *Creatine is a battery, not a messenger — glycine + arginine + SAM.*
-
-`Q9222`
 
 ---
 
@@ -1386,8 +1284,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2accede02d1e4ad7b92c6dffea20a10bx1280x1408.JPEG)
 
-`Q10254`
-
 ---
 
 ### 62. Neurolathyrism
@@ -1407,8 +1303,6 @@
 **EXAM CONNECTION:** “Amino acid implicated in neurolathyrism” → **homoarginine** (β-ODAP is the other correct answer when offered).
 
 **REMEMBER:** *Khesari dal → β-ODAP → excitotoxic spastic paraplegia, motor only. Osteolathyrism is BAPN and lysyl oxidase.*
-
-`Q10777`
 
 ---
 
@@ -1431,8 +1325,6 @@
 **ALSO KNOW:** **Malignant PKU** = BH4 deficiency (dihydropteridine reductase or BH4 synthesis defect) → **dietary phenylalanine restriction alone fails**, because dopamine and serotonin synthesis are also blocked → give **BH4 + L-DOPA + 5-HTP**. Sapropterin (BH4) also helps some classic PKU patients. *BH4 = 3 hydroxylases + NOS; if restricting phenylalanine doesn’t work, suspect BH4.*
 
 **REMEMBER:** *BH4 hydroxylates the three aromatic amino acids and makes NO — lose it and you get malignant PKU.*
-
-`Q10798`
 
 ---
 
@@ -1457,8 +1349,6 @@
 
 **REMEMBER:** *Same complex as PDH, same five cofactors — and leucine is the one that poisons the brain.*
 
-`Q10799`
-
 ---
 
 ### 65. Phenylketonuria — Management
@@ -1479,8 +1369,6 @@
 **EXAM CONNECTION:** Multi-select on management — the wrong option is always **“tyrosine restriction”** (it is supplementation), and **taliglucerase** (that is for Gaucher).
 
 **REMEMBER:** *Restrict phenylalanine, SUPPLEMENT tyrosine — and treat the mother before she conceives.*
-
-`Q10804`
 
 ---
 
@@ -1505,8 +1393,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5ead5ccdd3404daba2c1ac8d84e4128bx1280x723.JPEG)
 
-`Q10807`
-
 ---
 
 ### 67. Primary Hyperoxaluria
@@ -1526,8 +1412,6 @@
 **EXAM CONNECTION:** “Primary hyperoxaluria is a defect in the metabolism of” → **glycine**.
 
 **REMEMBER:** *Glycine → glyoxylate → oxalate. Fix the liver, not just the kidney.*
-
-`Q10808`
 
 ---
 
@@ -1549,8 +1433,6 @@
 
 **REMEMBER:** *Homogentisic acid loves collagen — black cartilage, black discs, black urine.*
 
-`Q10940`
-
 ---
 
 ### 69. Homocysteine, Pyridoxine and Cystathionine β-Synthase
@@ -1571,8 +1453,6 @@
 **EXAM CONNECTION:** “Which enzyme benefits from pyridoxine?” — the B6-dependent enzymes are **CBS and cystathionase**; the stem’s answer is CBS because it is the rate-limiting step that actually lowers homocysteine.
 
 **REMEMBER:** *B6 pushes homocysteine forward to cysteine; B12 and folate push it back to methionine.*
-
-`Q10951`
 
 ---
 
@@ -1598,8 +1478,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b3632e10e9ca4447ad3bdca0b708fc39x435x243.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7b53b3afcc1c47e792f684ad0097deeex1280x1310.JPEG)
 
-`MA7258, MA7244, MD0797, MA8396`
-
 ---
 
 ### 71. Semi-Essential Amino Acids
@@ -1618,8 +1496,6 @@
 **EXAM CONNECTION:** “Semi-essential amino acid” → **arginine**. Histidine is accepted by some texts but is listed as fully essential in most standard sources — pick arginine when both appear.
 
 **REMEMBER:** *The urea cycle makes arginine but spends it immediately.*
-
-`MA7227`
 
 ---
 
@@ -1696,8 +1572,6 @@
 
 **REMEMBER:** *Type III builds the scaffold fast; type I makes it strong — and 80% is as good as it gets.*
 
-`Q9151`
-
 ---
 
 ### 78. Insulin — Structure and Analogues
@@ -1722,8 +1596,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/b7d69bea027d436b8378228003336bb5.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/130678960a2c4eaeb2b0d022d80235c0x1280x2499.JPEG)
 
-`Q9157`
-
 ---
 
 ### 79. Isoelectric pH
@@ -1743,8 +1615,6 @@
 **EXAM CONNECTION:** “Which method CANNOT be used to precipitate proteins?” → **moving pH away from the isoelectric pH**.
 
 **REMEMBER:** *At the pI, charge is zero, repulsion is zero, and the protein falls out.*
-
-`Q9180`
 
 ---
 
@@ -1767,8 +1637,6 @@
 
 **REMEMBER:** *Selenium sits in three redox enzymes: peroxidase, deiodinase, thioredoxin reductase — and it is read from a stop codon.*
 
-`Q9199`
-
 ---
 
 ### 81. Levels of Protein Structure
@@ -1788,8 +1656,6 @@
 **EXAM CONNECTION:** “Which protein CANNOT have quaternary structure?” → **myoglobin**.
 
 **REMEMBER:** *One chain, no quaternary — and no cooperativity, which is why myoglobin stores and haemoglobin delivers.*
-
-`Q9531`
 
 ---
 
@@ -1811,8 +1677,6 @@
 **EXAM CONNECTION:** Straight protein ↔ function matching; α-actinin for “stabilises actin”.
 
 **REMEMBER:** *Titin is the spring, nebulin the ruler, α-actinin the anchor, dystrophin the tether that fails in Duchenne.*
-
-`Q10778`
 
 ---
 
@@ -1837,8 +1701,6 @@
 **EXAM CONNECTION:** Pure matching. Pauly’s/histidine and Sakaguchi/arginine are the two most frequently asked.
 
 **REMEMBER:** *Pauly points to the imidazole.*
-
-`MA7234`
 
 ---
 
@@ -1892,8 +1754,6 @@
 
 **REMEMBER:** *No salvage → PRPP piles up → de novo runs wild → urate. But the brain’s problem is the lost salvage itself.*
 
-`Q9532`
-
 ---
 
 ### 88. Causes of Hyperuricaemia — and the One That Lowers It
@@ -1914,8 +1774,6 @@
 
 **REMEMBER:** *Xanthine oxidase makes urate — so losing it lowers urate. Fructose and lactate raise it.*
 
-`Q10766`
-
 ---
 
 ### 89. De Novo Purine Synthesis — The Rate-Limiting Step
@@ -1935,8 +1793,6 @@
 **EXAM CONNECTION:** The answer must name **both the correct substrate step AND the correct enzyme** — read all four options carefully.
 
 **REMEMBER:** *Purines are built on the sugar; the committed step is PRPP + glutamine, by PRPP amidotransferase.*
-
-`Q10782`
 
 ---
 
@@ -1961,8 +1817,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/20d98e26810d41d993afd2a0347328ae.JPEG)
-
-`Q11060`
 
 ---
 
@@ -2008,8 +1862,6 @@
 
 **REMEMBER:** *Cap = eukaryote, Shine–Dalgarno = prokaryote. The cap is a backwards bond no nuclease can chew.*
 
-`Q9154`
-
 ---
 
 ### 94. Conservative Amino Acid Substitution
@@ -2028,8 +1880,6 @@
 **EXAM CONNECTION:** “Which substitution would have NO effect on protein function?” → **glutamine replaced by asparagine**.
 
 **REMEMBER:** *Same class, same function. Sickle cell is what happens when you change class.*
-
-`Q9155`
 
 ---
 
@@ -2050,8 +1900,6 @@
 **EXAM CONNECTION:** “Affinity maturation is because of” → **somatic hypermutation**. Gene rearrangement (V(D)J) is the intended distractor.
 
 **REMEMBER:** *V(D)J makes variety before antigen; hypermutation makes quality after it.*
-
-`Q9206`
 
 ---
 
@@ -2075,8 +1923,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1e2ad80f76c940efad91da49b943c477x562x1198.PNG)
-
-`Q9175`
 
 ---
 
@@ -2102,8 +1948,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/83d6d116e37041048e4b17bb665fae6ex1280x903.PNG)
 
-`Q9176`
-
 ---
 
 ### 98. miRNA
@@ -2127,8 +1971,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/55bd04b204964e28a346d5edb9dda58ex1280x1391.JPEG)
 
-`Q9179`
-
 ---
 
 ### 99. Lynch Syndrome (HNPCC) — Mismatch Repair
@@ -2148,8 +1990,6 @@
 **EXAM CONNECTION:** Family history of colon cancer without florid polyposis → **mismatch repair**.
 
 **REMEMBER:** *Few polyps, fast cancers, right-sided, plus endometrium — and MSI makes it immunotherapy-sensitive.*
-
-`Q9184`
 
 ---
 
@@ -2171,8 +2011,6 @@
 
 **REMEMBER:** *Methylated C deaminates to T — a legal base, so the repair system never notices. That is why CpG is a hotspot.*
 
-`Q9195`
-
 ---
 
 ### 101. Enhancers vs Promoters
@@ -2192,8 +2030,6 @@
 **EXAM CONNECTION:** “True statement about enhancers” → they **recruit chromatin and modify regulatory mechanisms**; the distractors all claim they must be close to, or upstream of, the promoter.
 
 **REMEMBER:** *Promoters must be adjacent; enhancers can be anywhere and just loop over.*
-
-`Q9201`
 
 ---
 
@@ -2219,8 +2055,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ee4e74c9abc84ce4a1745d163afebbf3x1280x1276.JPEG)
 
-`Q9209`
-
 ---
 
 ### 103. Suppressor Mutations
@@ -2243,8 +2077,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5097eab53ac14750a1cc322bf8016a29x1280x1555.JPEG)
 
-`Q9227`
-
 ---
 
 ### 104. Post-Transcriptional vs Post-Translational Modification
@@ -2264,8 +2096,6 @@
 
 **REMEMBER:** *If it happens to RNA it is transcriptional; sugars go on proteins, so glycosylation is translational.*
 
-`Q9228, Q10174`
-
 ---
 
 ### 105. Reading Back from mRNA to the Template Strand
@@ -2284,8 +2114,6 @@
 **EXAM CONNECTION:** Given an mRNA sequence, asked for the template strand — the whole question is whether you remembered to **reverse for directionality**.
 
 **REMEMBER:** *Coding strand = mRNA with T. Template = complement, then flip it round.*
-
-`Q9519`
 
 ---
 
@@ -2307,8 +2135,6 @@
 
 **REMEMBER:** *Ricin and Shiga toxin both attack the big eukaryotic subunit (28S); diphtheria attacks eEF-2.*
 
-`Q9940`
-
 ---
 
 ### 107. α-Amanitin and the Polymerases
@@ -2327,8 +2153,6 @@
 **EXAM CONNECTION:** Death cap mushroom vignette → **RNA polymerase**.
 
 **REMEMBER:** *Amanitin stops Pol II in us; rifampicin stops the bacterial polymerase. Late-onset mushroom poisoning is the lethal one.*
-
-`Q10784`
 
 ---
 
@@ -2353,8 +2177,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture12_GkPH2U9.jpg)
 
-`Q10868`
-
 ---
 
 ### 109. Chargaff’s Rule and Single-Stranded Genomes
@@ -2376,8 +2198,6 @@
 
 **REMEMBER:** *No partner strand, no Chargaff.*
 
-`Q10954`
-
 ---
 
 ### 110. Simultaneous IgM and IgD: Alternative RNA Splicing
@@ -2397,8 +2217,6 @@
 **EXAM CONNECTION:** The question tests whether you can separate the **four** B-cell diversification mechanisms. Simultaneous IgM/IgD = **splicing** (RNA level); class switch = **recombination** (DNA level).
 
 **REMEMBER:** *One transcript, two constant regions — the cell just splices differently.*
-
-`Q11011`
 
 ---
 
@@ -2423,8 +2241,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/07/06/whatsapp-image-2023-06-12-at-190121011058.jpg)
 
-`Q11321`
-
 ---
 
 ### 112. ApoB-48 vs ApoB-100 — RNA Editing
@@ -2447,8 +2263,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/32bc240e5be848dda037a6e8368306b1x605x534.JPEG)
-
-`MD0798`
 
 ---
 
@@ -2473,8 +2287,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9e86086e09284a7eaa24d79a49175a8fx719x599.PNG)
 
-`MB2776`
-
 ---
 
 ### 114. Epigenetic Regulation of Transcription
@@ -2497,8 +2309,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a5e2caab31444ddda44e54b175ad2c72x993x932.JPEG)
-
-`MB2780`
 
 ---
 
@@ -2536,8 +2346,6 @@
 
 **REMEMBER:** *SNoW DRoP. And RT-PCR converts, real-time PCR counts.*
 
-`Q9150, Q9174`
-
 ---
 
 ### 117. CRISPR-Cas9
@@ -2561,8 +2369,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d3bf122638db40b29075f1af8c9ac945x1280x3718.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/55d34c1a7d75486a8ef76803f4b55946x1280x857.PNG)
-
-`Q9153, Q9177`
 
 ---
 
@@ -2588,8 +2394,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/51c1c4b06b834ee49a2595c93a0c6680.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e7d11af6afbe4947aad151b29bbfbc8ex1280x1705.JPEG)
 
-`Q9173`
-
 ---
 
 ### 119. Chromosome Banding Techniques
@@ -2611,8 +2415,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0bda1837e4df41da95a780816883d72ax1280x979.JPEG)
-
-`Q9205, Q9220`
 
 ---
 
@@ -2636,8 +2438,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/24a6c67a71c147d48c2461e68e660e4ex1120x1354.PNG)
 
-`Q9207`
-
 ---
 
 ### 121. Sanger Sequencing — Why ddNTPs
@@ -2660,8 +2460,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/92241a874eba422bb066650b71f4e59ex1024x1024.PNG)
-
-`Q9208, Q9204`
 
 ---
 
@@ -2688,8 +2486,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5cda283f69124bfdabc26964852ea2b5x1280x2037.JPEG)
 
-`Q9218`
-
 ---
 
 ### 123. Chromatin Immunoprecipitation (ChIP)
@@ -2712,8 +2508,6 @@
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202024-12-18%20131326.jpg)
-
-`Q9524`
 
 ---
 
@@ -2738,8 +2532,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/171f4fe6637e4718ab94ab027de0a8bbx572x449.PNG)
 
-`MF0680`
-
 ---
 
 ### 125. Restriction Endonucleases and Palindromes
@@ -2760,8 +2552,6 @@
 **EXAM CONNECTION:** Given four 6-base sequences, only one is a true palindrome. Do not eyeball for repeats (AAGAAG, GAGAGG are traps) — write out the complement.
 
 **REMEMBER:** *A dimeric enzyme needs a mirror-image site.*
-
-`MD0126`
 
 ---
 
@@ -2786,8 +2576,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/e3cfb150996e46179163a897cd3823ca.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/53a706e417e4439889c4fec0a2189b5ex600x600.JPEG)
 
-`MC6789`
-
 ---
 
 ## Vitamins
@@ -2809,8 +2597,6 @@
 **EXAM CONNECTION:** “Which vitamin in supraphysiological doses causes macular oedema and cysts?” → **B3 (niacin)**. Or the diabetic caution question.
 
 **REMEMBER:** *Niacin: flushes the skin, raises the sugar, raises the urate, and swells the macula.*
-
-`Q9163, Q9169`
 
 ---
 
@@ -2835,8 +2621,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e5d6c8ffb72c49bb85eb3eb5a7900d1ax1280x1902.JPEG)
 
-`Q9171`
-
 ---
 
 ### 129. Vitamin Status — The Erythrocyte Enzyme Assays
@@ -2859,8 +2643,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4b98026e752a4e53ab76ce2162552bf0x960x720.PNG)
-
-`Q9210, Q9214`
 
 ---
 
@@ -2886,8 +2668,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/95c075ced62347fbb61a6c14d1d575bcx1279x1234.JPEG)
 
-`Q9211`
-
 ---
 
 ### 131. FIGLU and the Histidine Load Test
@@ -2912,8 +2692,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/46ad4c55f4d24551a3d691e61d8b6237x1280x1449.JPEG)
 
-`Q9975`
-
 ---
 
 ### 132. Hypervitaminosis A
@@ -2932,8 +2710,6 @@
 **EXAM CONNECTION:** Young woman on “high-dose vitamin supplements” with papilloedema and normal imaging → **vitamin A**.
 
 **REMEMBER:** *Too little vitamin A blinds at night; too much raises the pressure in the head — and deforms the fetus.*
-
-`Q10185`
 
 ---
 
@@ -2960,8 +2736,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/41951a946a70435dbe9930bc95aeef74x1279x1623.JPEG)
 
-`Q10786`
-
 ---
 
 ### 134. The Methyl-Folate Trap
@@ -2985,8 +2759,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2340fa2f5ef54a51a74955f50a8b11cbx1280x1774.JPEG)
 
-`Q10800`
-
 ---
 
 ### 135. The Three Forms of Vitamin K
@@ -3007,8 +2779,6 @@
 **EXAM CONNECTION:** “Source of vitamin K in green leafy vegetables” → **phylloquinone**.
 
 **REMEMBER:** *K1 from plants, K2 from bacteria, K3 from the factory — and never K3 in a newborn.*
-
-`Q10805`
 
 ---
 
@@ -3034,8 +2804,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/20f0c68170c2437a8e235efe8000eed6.JPEG)
 
-`Q10821`
-
 ---
 
 ### 137. Biotin Deficiency — Raw Egg White
@@ -3054,8 +2822,6 @@
 **EXAM CONNECTION:** “Bodybuilder eating raw eggs — LEAST likely finding” → **megaloblastic anaemia**. Everything else offered is a genuine biotin sign.
 
 **REMEMBER:** *Biotin carries carbon dioxide, not one-carbon units — so no megaloblasts.*
-
-`MD3254`
 
 ---
 
@@ -3076,8 +2842,6 @@
 **EXAM CONNECTION:** Two forms — “why does thiamine deficiency reduce energy production” (**PDH/α-KGDH coenzyme**) and “which coenzyme deficiency causes lactic acidosis” (**thiamine**). Both point to PDH.
 
 **REMEMBER:** *Block PDH and pyruvate has nowhere to go but lactate.*
-
-`MC9489, MB3256`
 
 ---
 
@@ -3101,8 +2865,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/78592172dff84017a824c47084b3f181x1024x906.JPEG)
-
-`MF8118`
 
 ---
 
@@ -3188,8 +2950,6 @@
 
 **REMEMBER:** *Copper cross-links collagen. Menkes can’t absorb it; Wilson can’t excrete it.*
 
-`Q9223`
-
 ---
 
 ### 146. Wilson Disease — Why Zinc Works
@@ -3211,8 +2971,6 @@
 
 **REMEMBER:** *Zinc induces metallothionein and traps copper in the gut — chelators pull it out of tissue.*
 
-`Q10802`
-
 ---
 
 ### 147. Zinc
@@ -3233,8 +2991,6 @@
 **EXAM CONNECTION:** “Zinc is a cofactor of” → **carbonic anhydrase**.
 
 **REMEMBER:** *Zinc: taste, wound healing, gonads, immunity — and carbonic anhydrase.*
-
-`Q10823`
 
 ---
 
@@ -3271,8 +3027,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b98b5f3f140340c3be0a305fa0fd4771x1280x1525.JPEG)
 
-`Q9149`
-
 ---
 
 ### 150. Van den Bergh Reaction
@@ -3292,8 +3046,6 @@
 **EXAM CONNECTION:** Obstructive jaundice → **direct positive**.
 
 **REMEMBER:** *Water-soluble reacts directly. Conjugated goes to the urine; unconjugated goes to the brain.*
-
-`Q9170`
 
 ---
 
@@ -3318,8 +3070,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5d91b99726dd490081cf7cf57c982757x1280x2558.JPEG)
 
-`Q9226`
-
 ---
 
 ### 152. Classifying the Porphyrias
@@ -3340,8 +3090,6 @@
 **EXAM CONNECTION:** “Which is NOT a hepatic porphyria?” → **erythropoietic protoporphyria**.
 
 **REMEMBER:** *ALA and PBG hurt the nerves; porphyrins burn the skin. Hepatic acute attacks, erythropoietic photosensitivity.*
-
-`Q10170`
 
 ---
 
@@ -3367,8 +3115,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2370f6a3e9e64db5b0d342d7fc4a410fx1280x1964.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/920bb948896549ca8d154dc6b5f5166cx1280x1313.JPEG)
 
-`MF0210, MB0707`
-
 ---
 
 ### 154. Bilirubin Metabolism — The Rate-Limiting Step
@@ -3391,8 +3137,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d87ed2fc1ea044268632684a033fe807x1280x2023.JPEG)
-
-`MB0757, MD3077`
 
 ---
 
@@ -3418,8 +3162,6 @@
 
 **REMEMBER:** *Carbs 1, protein 0.8, fat 0.7 — and above 1 means you are making fat.*
 
-`Q10177`
-
 ---
 
 ### 156. Specific Dynamic Action
@@ -3443,8 +3185,6 @@
 
 **REMEMBER:** *Protein is expensive to process — a fifth to a third of its calories are burned just handling it.*
 
-`Q10820`
-
 ---
 
 ### 157. Basal Metabolic Rate — Up or Down
@@ -3464,8 +3204,6 @@
 **EXAM CONNECTION:** “Which causes DECREASED BMR” → **starvation**. Cachexia is the trap because it also involves weight loss — but it *raises* BMR.
 
 **REMEMBER:** *Starvation conserves, cachexia consumes.*
-
-`MB2856`
 
 ---
 
@@ -3504,8 +3242,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ab6287d4c3344460a3cda715d9451c74x600x1200.JPEG)
 
-`Q9152, Q9159`
-
 ---
 
 ### 160. The Stages of Fasting
@@ -3530,8 +3266,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ec0f7f37d46b43aba5d8a67df102de0cx1280x1901.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0d210dea707846be8a80b1dd085abdacx600x1200.JPEG)
 
-`Q9183`
-
 ---
 
 ### 161. Alcohol — The NADH Problem
@@ -3554,8 +3288,6 @@
 **ALSO KNOW:** Alcohol dehydrogenase (and ALDH) oxidize ethanol while **reducing NAD⁺ to NADH** → a **high NADH/NAD⁺ ratio**.
 
 **REMEMBER:** *Alcohol floods the cell with NADH — pyruvate goes to lactate, lactate blocks urate excretion, and gout follows.*
-
-`Q9215`
 
 ---
 
@@ -3580,8 +3312,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/Screenshot%202024-12-18%20131348.jpg)
 
-`Q9534`
-
 ---
 
 ## Lysosomal and Peroxisomal Disorders
@@ -3605,8 +3335,6 @@
 
 **REMEMBER:** *Cherry-red spot: no big organs = Tay-Sachs; big organs = Niemann–Pick; big organs and no spot = Gaucher.*
 
-`Q9213`
-
 ---
 
 ### 164. Fabry Disease
@@ -3626,8 +3354,6 @@
 **EXAM CONNECTION:** Burning hands + angiokeratoma + renal impairment → then asked for the **mode of inheritance** → **X-linked recessive**.
 
 **REMEMBER:** *Fabry is the odd sphingolipidosis — X-linked, burning hands, angiokeratomas, whorled cornea.*
-
-`Q9987`
 
 ---
 
@@ -3652,8 +3378,6 @@
 
 **REMEMBER:** *Peroxisome degrades VLCFA and phytanic acid (they rise) but MAKES plasmalogens (they fall).*
 
-`Q10803`
-
 ---
 
 ### 166. Refsum Disease
@@ -3675,8 +3399,6 @@
 **ALSO KNOW:** Phytanic acid is **β-methyl branched** at C3, blocking β-oxidation — it must first be degraded by **α-oxidation**, which occurs in **peroxisomes**.
 
 **REMEMBER:** *A methyl group blocks β-oxidation, so phytanic acid needs α-oxidation — and never let a Refsum patient fast.*
-
-`Q10811`
 
 ---
 
@@ -3701,8 +3423,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/67318a8bf95c43458e32f68aec2ced49x1102x490.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ca4ee3b83d5f4ce0ad9162fcd39be183x1280x1126.JPEG)
-
-`Q11052`
 
 ---
 
@@ -3729,8 +3449,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a017a6d45196402e81ffe7e36e3d7b92x268x201.JPEG)
 
-`Q11057, Q10790`
-
 ---
 
 ### 169. Gaucher Disease
@@ -3756,8 +3474,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/eaf86bca861342ff84c303230efbb8bax1280x2017.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/0f716f89fa9a4370bbdb7b6295a1acee.JPEG)
 
-`MF1500, MB0052`
-
 ---
 
 ### 170. Enzyme Replacement Therapy in Lysosomal Storage Disease
@@ -3777,8 +3493,6 @@
 **EXAM CONNECTION:** Trade names are asked directly. Anchor **Naglazyme–Maroteaux–Lamy** and **Aldurazyme–Hurler**; the “-sulfase” endings track the sulfatase deficiencies.
 
 **REMEMBER:** *Enzyme in the vein cannot reach the brain.*
-
-`MB1477`
 
 ---
 
@@ -3805,8 +3519,6 @@
 
 **REMEMBER:** *P for P450, P for NADPH — the phosphate one does the biosynthesis and the detox.*
 
-`Q10963`
-
 ---
 
 ### 172. Serum Protein Electrophoresis in Nephrotic Syndrome
@@ -3830,8 +3542,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fbd0983139604b11ad59a24ebd1bfdefx1280x606.JPEG)
 
-`Q11021`
-
 ---
 
 ### 173. Flipped LDH Ratio
@@ -3854,8 +3564,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5fe1affdba0148eb9ad195e5bb2563c3x1024x680.JPEG)
-
-`MC9496, MA8376`
 
 ---
 

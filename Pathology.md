@@ -51,8 +51,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0b81a62385fb4da491ea928f50073f81x800x593.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ac25710341c747349404d7fb34e3e14fx800x423.PNG)
 
-`Q11821`
-
 ---
 
 ### 2. Apoptosis: Initiator and Executioner Caspases
@@ -78,8 +76,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/d6f10eafa0404c5592bb1ce161d73fec.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/55ea5017b3da4e3bb02e80426b956631x1280x2559.JPEG)
 
-`Q11848`
-
 ---
 
 ### 3. Dystrophic vs Metastatic Calcification
@@ -104,8 +100,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/7c523f86ec7d4e89abedf0600e249de3.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/19c9bc9d375649d7ac42ecb43585cdd9x1280x1239.JPEG)
 
-`MA2199, MA2156`
-
 ---
 
 ### 4. The Sequence of Necrosis
@@ -124,8 +118,6 @@
 **EXAM CONNECTION:** Sequence recall. The trap is putting karyolysis before karyorrhexis — the nucleus must fragment before it dissolves.
 
 **REMEMBER:** *Shrink, shatter, then dissolve.*
-
-`MA2550, MC7087`
 
 ---
 
@@ -146,8 +138,6 @@
 **EXAM CONNECTION:** Definition questions. **Anaplasia = differentiation; pleomorphism = shape**; keep them separate.
 
 **REMEMBER:** *Permanent cells can only get bigger.*
-
-`MC3180, MA2542, MC6757`
 
 ---
 
@@ -171,8 +161,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/da5cfe5b914a411481bdc3af51988d68x1280x1750.JPEG)
-
-`MA2541, MA2544, MC0100`
 
 ---
 
@@ -198,8 +186,6 @@
 
 **REMEMBER:** *Blood markers don’t find the primary — the immunostains do. Colon is CK20 positive.*
 
-`Q10884`
-
 ---
 
 ### 8. DNA Repair Pathways
@@ -224,8 +210,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0a372d4847344cd7924ef749c9039b74x1280x1270.JPEG)
 
-`Q11016`
-
 ---
 
 ### 9. Blotting Techniques
@@ -246,8 +230,6 @@
 **EXAM CONNECTION:** Identify the **target molecule** in each clinical scenario and the matching is automatic.
 
 **REMEMBER:** *SNoW DRoP — Southern/DNA, Northern/RNA, Western/Protein.*
-
-`Q11853`
 
 ---
 
@@ -276,8 +258,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6e51281fd81f4c8a99e5d632f32bf314x1280x859.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/3cee031e734f42848ad4eb8a20132a59.PNG)
 
-`MA4152, MF8086, MC3150`
-
 ---
 
 ### 11. Epigenetics and MicroRNA
@@ -298,8 +278,6 @@
 **EXAM CONNECTION:** Definitional. The key phrase is **“not caused by alterations in DNA sequence.”**
 
 **REMEMBER:** *Epigenetics changes the reading, not the text.*
-
-`MC0082, MA3172`
 
 ---
 
@@ -325,8 +303,6 @@
 
 **REMEMBER:** *Antibody is already loaded and fires in minutes; T cells must first be recruited and take weeks.*
 
-`Q9895`
-
 ---
 
 ### 13. Mast Cells and the Hypersensitivity Reactions
@@ -351,8 +327,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/fd9b7fad1a6948ac979334a064f7d0e8.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/05afb970bbf44923a9051559614f82e1x1280x2558.JPEG)
 
-`Q9958`
-
 ---
 
 ### 14. Neutrophil Extracellular Traps
@@ -375,8 +349,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/7ec51d31000d474eae33d1496ac48ebf.GIF)
-
-`Q10038`
 
 ---
 
@@ -403,8 +375,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/39dfc36475f94e52bc7fd4648aed92a4.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/50817ec07cd446f9a6490e6810ea3fd2x1279x1080.JPEG)
 
-`MD0149, MF9277`
-
 ---
 
 ### 16. Wiskott–Aldrich Syndrome
@@ -428,8 +398,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c28ffe3f31474198a0dcead7c61fc313x720x348.JPEG)
-
-`MF4954`
 
 ---
 
@@ -458,8 +426,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/04/25/picture37.jpg)
 
-`Q9643, Q9644`
-
 ---
 
 ### 18. Chronic Myeloid Leukaemia
@@ -479,8 +445,6 @@
 **EXAM CONNECTION:** Most sensitive investigation in suspected CML → **FISH and PCR for BCR-ABL1**.
 
 **REMEMBER:** *Every maturation stage plus basophils, low LAP, and a kinase that never switches off.*
-
-`Q9952`
 
 ---
 
@@ -502,8 +466,6 @@
 
 **REMEMBER:** *The cytoplasm outgrows the nucleus — and only B12, never folate, protects the cord.*
 
-`Q10013`
-
 ---
 
 ### 20. Prognostic Genetics in Multiple Myeloma
@@ -524,8 +486,6 @@
 **EXAM CONNECTION:** “NOT associated with poor prognosis in myeloma” → **translocation involving cyclin D1, t(11;14)**.
 
 **REMEMBER:** *Everything crashes into the IgH enhancer — but only cyclin D1 is a survivable passenger.*
-
-`Q10093`
 
 ---
 
@@ -556,8 +516,6 @@
 
 **REMEMBER:** *Big pentameric IgM stays in the blood — thick blood, big nodes, intact bones.*
 
-`Q10831`
-
 ---
 
 ### 22. Hereditary Spherocytosis and Pigment Gallstones
@@ -581,8 +539,6 @@
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture13_iMJmAgR.jpg)
-
-`Q10869`
 
 ---
 
@@ -615,8 +571,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/504d808c549645b0bcadbcefbb529c39x720x655.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0469c0ef21f44d53aefb652fcca8f295x720x845.PNG)
 
-`MC0238, MC7439`
-
 ---
 
 ### 24. Paroxysmal Nocturnal Haemoglobinuria
@@ -639,8 +593,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/d7cc11a7646f4d32b87eb44ade0ac2a8.JPEG)
-
-`MC0377`
 
 ---
 
@@ -683,8 +635,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/b3f383f3dbc145629ed5b2d4fc98828d.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/773fe97dafd444069f2a797a988ad5ecx1280x1126.JPEG)
 
-`MF7291, MD6958, MB3646, MF2227, MA3125`
-
 ---
 
 ### 26. Multiple Myeloma — Plasma Cell Inclusions
@@ -714,8 +664,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/be2826017fa044f9a0f46c9a305d9baex1279x1199.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/c33558f7f3f04be780d1f10abe5cc295.PNG)
 
-`MA9462, MA4138, MC0513, MB3644`
-
 ---
 
 ### 27. Cutaneous T-Cell Lymphoma — Sézary vs Mycosis Fungoides
@@ -739,8 +687,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/f981fb48bce44cd4adab2869d94a3764.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/f754dc7934424d90a3a339359c9209de.JPEG)
-
-`MC0195, MC0193`
 
 ---
 
@@ -815,8 +761,6 @@
 
 **REMEMBER:** *Ib sticks, IIb/IIIa clumps — ristocetin tells you which one is broken.*
 
-`Q9888`
-
 ---
 
 ### 32. Blood Products — Storage and Anticoagulants
@@ -848,8 +792,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/9e1a29810adf4e8db425729998e4107e.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/abc691ac348544e79127b6941c1c71e6x800x640.JPEG)
 
-`MF9248, MB9272, MF7220, MD0156, MD6723`
-
 ---
 
 ### 33. Reptilase Time
@@ -869,8 +811,6 @@
 **EXAM CONNECTION:** The question gives a coagulation panel with **normal platelets**. Reptilase is the test that separates the two remaining possibilities.
 
 **REMEMBER:** *Reptilase ignores heparin, so it exposes the fibrinogen.*
-
-`MC0508, MC0807`
 
 ---
 
@@ -895,8 +835,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8a852ed6ad094d22b4add695e1529e87x1280x1740.JPEG)
-
-`MC4459, MF8320`
 
 ---
 
@@ -928,8 +866,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1d45eefa763e41f99a85843ad6f59a59x800x534.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9ab8c514977e4b98a14460159d9e52f6x1280x925.JPEG)
 
-`Q11843`
-
 ---
 
 ### 36. Cardiac Tumours and Carney Complex
@@ -954,8 +890,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/528a3d9188634a509fb70d6f13136abbx1280x1885.JPEG)
 
-`MB0459, MB0460`
-
 ---
 
 ### 37. Thromboangiitis Obliterans (Buerger Disease)
@@ -975,8 +909,6 @@
 **EXAM CONNECTION:** The histological phrase “**extends into contiguous veins and nerves**” is unique to Buerger disease.
 
 **REMEMBER:** *Inflammation inside the clot, spreading to the vein and nerve beside it.*
-
-`MB1615, MC2504, MB1597`
 
 ---
 
@@ -1002,8 +934,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/513ae428901c4b76a18722ab31200856.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/20779968120a46ee8ede09c38f0f2cccx1280x1582.JPEG)
 
-`MB8577`
-
 ---
 
 ### 39. Blood Cultures in Infective Endocarditis
@@ -1026,8 +956,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/186ed21749ed4d3ab7e43344abb39a78x1200x2770.JPEG)
-
-`MG1038`
 
 ---
 
@@ -1053,8 +981,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/66d4d667e23d413580cbd80184648d5e.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f3764ab072a54a8b8f146f3072eb75b6x1280x1345.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7a2c77e5933245f8bb8534c099249e8fx1280x1345.JPEG)
-
-`MC0912`
 
 ---
 
@@ -1087,8 +1013,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/646f5e3157224d3484d268df83978955x1280x845.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/89d208f8f5f34e66a4a815daa86c067cx416x467.JPEG)
 
-`Q10018`
-
 ---
 
 ### 42. Mendelson’s Syndrome
@@ -1111,8 +1035,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/fcba5c612d6e4e76abad598fb12eae9a.PNG)
-
-`MC6253`
 
 ---
 
@@ -1142,8 +1064,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/55a9a6e7c27d464e94b1bad0a9f74d03.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3667d71a5a8c439a9df8f85718e5bf19x800x527.JPEG)
 
-`MD0601, MC3183, MC1850`
-
 ---
 
 ---
@@ -1172,8 +1092,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7f039af743ee4067a0c727cb7b482b29x1280x1391.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1954f94cdc314e7da9931a38553e4f1bx1280x1390.JPEG)
 
-`Q9892, Q10363`
-
 ---
 
 ### 45. Post-Streptococcal Glomerulonephritis and RPGN
@@ -1196,8 +1114,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1a0c6263f5724e50ba7d5e8c3645edf6x1280x853.3333333333334.JPEG)
-
-`Q10102`
 
 ---
 
@@ -1225,8 +1141,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/862779b26c7243f2a170f9e64927cc5ex1280x1268.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7a297a03f6db49959196ff715d59b609x1280x1685.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2f5f5862005f47ea9dae3e9a023bfc13x1280x1142.JPEG)
-
-`MB5294, MB5313, MB5345, MB5367`
 
 ---
 
@@ -1266,8 +1180,6 @@
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/5533b552bdbef7b6dd28d343c8b0205d.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/5e1cbf6142480ef53a1f54a9919fab15.webp)
 
-`Q10599, Q10600, Q10601, Q10319`
-
 ---
 
 ### 49. Chronicity of Hepatitis B
@@ -1292,8 +1204,6 @@
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/c5ce0269364d67db6b94979d02deffe6.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/d27f2865941cfa0b1e0ffb1412181781.webp)
 
-`Q10602, Q10603, Q10604, Q10611`
-
 ---
 
 ### 50. Liver Function Tests — What Each One Measures
@@ -1314,8 +1224,6 @@
 
 **REMEMBER:** *Transaminases show damage, albumin and INR show function, alkaline phosphatase shows the plumbing.*
 
-`Q10605`
-
 ---
 
 ### 51. Portal Hypertension — Where the Block Is
@@ -1335,8 +1243,6 @@
 **EXAM CONNECTION:** “NOT an intrahepatic cause” → **obstructive portal vein thrombosis (prehepatic)**; feature NOT seen in NCPF → **bridging fibrosis**.
 
 **REMEMBER:** *Block before the liver bleeds; block inside it fails; block after it floods with ascites.*
-
-`Q10608, Q10609`
 
 ---
 
@@ -1369,8 +1275,6 @@
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/0e40ef72aa3cac34038ca07f38c01fbc.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/cc6eb589caf5f975a3db97933e9f3036.webp)
 
-`Q10614, Q10615, Q10610, Q10607, Q10613`
-
 ---
 
 ### 53. Drug-Induced Liver Injury — Signature Histologies
@@ -1390,8 +1294,6 @@
 **EXAM CONNECTION:** Matching → **valproate–microvesicular steatosis, allopurinol–fibrin ring granuloma, amiodarone–Mallory–Denk bodies, isoniazid–non-caseating granulomas**.
 
 **REMEMBER:** *Tiny fat droplets mean poisoned mitochondria; one big droplet is just fat.*
-
-`Q10612`
 
 ---
 
@@ -1421,8 +1323,6 @@
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/0a2ec73c9103bee1fcb3251571fe21ca.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/3a0826cd23e4aa1995bf1cdcb837686b.webp)
 
-`Q10617, Q10618, Q10619, Q10620, Q10621`
-
 ---
 
 ### 55. Wilson Disease and Haemochromatosis — Diagnosis and Deposits
@@ -1442,8 +1342,6 @@
 **EXAM CONNECTION:** Screening an asymptomatic sibling in Wilson disease → **ATP7B genetic testing**; organ NOT showing haemosiderin → **testis**.
 
 **REMEMBER:** *Neither metal has an easy way out — so find the family before the organs fail.*
-
-`Q10622, Q10623, Q10624`
 
 ---
 
@@ -1470,8 +1368,6 @@
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/400b34742901ce906be75fe76686694c.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/bc76dc51e1bc67afbf28cc1e0f1d454b.webp)
 
-`Q10625, Q10626, Q10634, Q10633, Q10629`
-
 ---
 
 ### 57. Cholangiocarcinoma and Hepatoblastoma
@@ -1491,8 +1387,6 @@
 **EXAM CONNECTION:** NOT a risk for cholangiocarcinoma → **typhoid carrier state**; Klatskin tumour → **perihilar extrahepatic cholangiocarcinoma**; good prognosis in hepatoblastoma → **pure fetal histology**.
 
 **REMEMBER:** *Chronic irritation of a bile duct ends in cholangiocarcinoma; a typhoid carrier’s stone-filled gallbladder ends in gallbladder cancer.*
-
-`Q10627, Q10628, Q10630, Q10631, Q10632`
 
 ---
 
@@ -1517,8 +1411,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/10d91fea144f4264a44653915f0f34a6x720x448.JPEG)
 
-`MF1440, MF9224`
-
 ---
 
 ### 59. Hepatitis — Acute vs Chronic Histology
@@ -1542,8 +1434,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ed3b8d201aea404fbad0181756978b57x1280x3480.JPEG)
-
-`MC2581, MA4155`
 
 ---
 
@@ -1582,8 +1472,6 @@
 
 **REMEMBER:** *Herpes ulcerates the edge, CMV burrows into the base, Candida just sits on top.*
 
-`Q10635, Q10636`
-
 ---
 
 ### 62. Oesophageal Webs and Rings
@@ -1611,8 +1499,6 @@
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/3b6fe2a959f918ec23f69e4f5337996a.webp)
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/7554eb43b3ebd6c3f50c4f5cc74e366f.webp)
 
-`Q10640, Q10641, Q10643, Q10638, Q10637`
-
 ---
 
 ### 63. Achalasia Cardia
@@ -1632,8 +1518,6 @@
 **EXAM CONNECTION:** True about achalasia → **decreased NO and VIP release in the distal oesophagus**.
 
 **REMEMBER:** *The sphincter cannot relax because the “off” signal is dead, not because the “on” signal is loud.*
-
-`Q10642`
 
 ---
 
@@ -1657,8 +1541,6 @@
 
 **IMAGES:**
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/b92ea928c1f5315959a2e85c195a3c8b.webp)
-
-`Q10644`
 
 ---
 
@@ -1686,8 +1568,6 @@
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/14051ddb-5bc1-4072-bf5b-b8c0e5e24371.jpg)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/edc886aa8321db2ae9f80770b172eb42.webp)
 
-`Q10655, Q10656, Q10639, Q10648, Q10647, Q10654`
-
 ---
 
 ### 66. Gastric Adenocarcinoma — Diffuse versus Intestinal
@@ -1710,8 +1590,6 @@
 
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/551524f61b03b910202e2286b0b556bb.webp)
-
-`Q10649, Q10650, Q10651`
 
 ---
 
@@ -1738,8 +1616,6 @@
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/e33b1c11e391bbce25dd29fc33895a44.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/a8016019209651fc3b6911192ea2914a.webp)
 
-`Q10645, Q10646, Q10657`
-
 ---
 
 ### 68. Mechanisms of Malabsorption
@@ -1764,8 +1640,6 @@
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/1fa585e35f29d3ffc9cea7aa8c571303.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/3e0541e8a858e9e9dbcfc9349667fd3d.webp)
 
-`Q10661, Q10662, Q10663`
-
 ---
 
 ### 69. Congenital Diarrhoeas — IPEX and Microvillus Inclusion Disease
@@ -1789,8 +1663,6 @@
 
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/f57587b1736ea52df57c0e0df265069a.webp)
-
-`Q10659, Q10660`
 
 ---
 
@@ -1817,8 +1689,6 @@
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/adfa24091dd720c828d23aca03fb2cee.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/3f7fb512cfe95f1126512eae606bd1f0.webp)
 
-`Q10658, Q10666, Q10667, Q10669`
-
 ---
 
 ### 71. Colitis, Ischaemia and Infectious Sequelae
@@ -1838,8 +1708,6 @@
 **EXAM CONNECTION:** Microscopic colitis → **collagenous and lymphocytic only**; commonest site of GI ischaemia → **colon**; NOT a *Campylobacter* complication → **aplastic crisis**; rotavirus toxin → **NSP4**.
 
 **REMEMBER:** *Normal colonoscopy with watery diarrhoea means biopsy; last field of the sprinkler means splenic flexure.*
-
-`Q10668, Q10670, Q10671, Q10664`
 
 ---
 
@@ -1864,8 +1732,6 @@
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/a5777e34f8d562847737f1f6a617bca5.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/642293576ee8c299794060161e16f01e.webp)
-
-`Q10652, Q10653, Q10665`
 
 ---
 
@@ -1892,8 +1758,6 @@
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/9100fb816164a295f6227ca70a16afd4.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/d592dca15d66e2936b8328bcc5af6085.webp)
 
-`Q10672`
-
 ---
 
 ### 74. Crohn Disease versus Ulcerative Colitis
@@ -1917,8 +1781,6 @@
 **IMAGES:**
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/d75dc29ae36d18022b03630e4a9ff092.webp)
 
-`Q10673, Q10674`
-
 ---
 
 ### 75. Colorectal Carcinoma and Lynch Syndrome
@@ -1938,8 +1800,6 @@
 **EXAM CONNECTION:** Most important prognostic factor → **lymph node status (with depth of invasion)**; family with colorectal and endometrial cancer → **MSH (mismatch repair) gene testing**.
 
 **REMEMBER:** *Losing the proofreader makes few polyps and fast cancers — and hands the immune system a target.*
-
-`Q10675, Q10676`
 
 ---
 
@@ -1965,8 +1825,6 @@
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/b888132e7ec263152df24081193f0093.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/c7f3c7f2d402e7e33e4d2167bc4078dc.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/325b58d102c13c7c9344fb5f372df692.webp)
-
-`Q10678, Q10679, Q10677`
 
 ---
 
@@ -1996,8 +1854,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0fc3cdfe0f2d4a268398a2afe3839034x1280x1573.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a4079f7c1f83426ca6094d5d37bf059ax720x816.PNG)
 
-`MG6611`
-
 ---
 
 ### 78. Oesophageal Carcinoma — Recognising the Type
@@ -2024,8 +1880,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/773e24b7b9e24ef881bed2b58f99d218x1279x1048.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f03350b97f8d455da3e53b9124e9d83ax1279x1048.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b943f25f3358433583d6924c14ba9801x1279x1049.JPEG)
-
-`MB9274, MA2198`
 
 ---
 
@@ -2070,8 +1924,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1bf2c58f5ce2468d88bae1eadbaee552x1280x1108.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e55699def8dd4db89b3d578f478ee036x1280x1108.JPEG)
 
-`Q10099, Q10081`
-
 ---
 
 ### 81. Papillary Thyroid Carcinoma
@@ -2096,8 +1948,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/2f164bcb918f4ad49ec163e966b7202d.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a91495940f4f4437840356f87c3954efx1280x1159.JPEG)
 
-`MG6574`
-
 ---
 
 ### 82. Somatotroph Adenoma and PIT-1
@@ -2118,8 +1968,6 @@
 **EXAM CONNECTION:** The clinical description (long hands and feet, protruding jaw) identifies acromegaly; the answer is the **transcription factor of the somatotroph lineage**.
 
 **REMEMBER:** *PIT-1 makes growth hormone, prolactin and TSH cells.*
-
-`MD6717`
 
 ---
 
@@ -2144,8 +1992,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6b233b3b2d9d49d49685f0dad6384948x1280x1054.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/195578065e3247c094ff1b8205ec17dcx1280x1054.JPEG)
-
-`MB5473`
 
 ---
 
@@ -2176,8 +2022,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/68ba6b6a16c14c7283fbc2d3d669f0ffx745x529.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b17233c0e5ba4cbdbb85fc5ae096a634x1280x1106.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a203874dea9c4530b2db0e62409e4f4ax1280x1094.JPEG)
-
-`MB5515, MD0592`
 
 ---
 
@@ -2212,8 +2056,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/66c2cfa5e9a244f8999ee33027d6dde2x1280x853.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f291e205b3a8431ea4c4b9099ed3d902x600x1384.JPEG)
 
-`MG7202, MA5649`
-
 ---
 
 ### 86. Breast Cancer — HER2 Testing and Molecular Subtypes
@@ -2240,8 +2082,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e7eadae9aaf1403399eadaa2ef3cc625x1280x1252.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4cb27d72e8614595ae8b4e0ce2a8d0dex1280x1323.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5d1f88f168044be7a084c2f861fe2a7cx1280x1322.JPEG)
-
-`MC6248, MA5703`
 
 ---
 
@@ -2274,8 +2114,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/945e49b983ea4b6ca20777dfd41ffc28x720x480.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fd5e47c8426d40c4a36de4358d1a24f7x599x450.JPEG)
 
-`MA6185, MA8502, MG1016, MF8326`
-
 ---
 
 ---
@@ -2304,8 +2142,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/b559bf19d0394a0cbdc52a1cae041366.PNG)
 
-`Q10961`
-
 ---
 
 ### 89. Immunohistochemistry of Seminoma
@@ -2326,8 +2162,6 @@
 **EXAM CONNECTION:** A four-marker multi-select. Include **PLAP, OCT4, KIT**; exclude **hCG** (and AFP, and CD30).
 
 **REMEMBER:** *A germ cell frozen at its most primitive — pluripotency markers yes, trophoblast markers no.*
-
-`Q11030`
 
 ---
 
@@ -2357,8 +2191,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/3d9f833ca9e845a9ad0c88510221812e.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/161368f93d9341cb9a94985a5a639e5cx1279x662.JPEG)
 
-`Q9959`
-
 ---
 
 ### 91. Ewing Sarcoma
@@ -2385,8 +2217,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/324a41653878431eb00f6994dd3699aax1280x1407.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4d0cd73e727b488b9d5bb40db0a021f6x720x553.PNG)
 
-`MG7197`
-
 ---
 
 ### 92. Capillary Haemangioma
@@ -2411,8 +2241,6 @@
 ![explanation](https://cdn1.dailyrounds.org/uploads/28fe8aa3482b4eb2b8f07f025ec9d599x265x190.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/66608e07536d4823a515db5e574bb28ex1280x853.JPEG)
 
-`MB1626`
-
 ---
 
 ### 93. Rosenthal Fibres
@@ -2436,8 +2264,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/89718cdc76004fe2933f1de8e14df3bb.PNG)
 
-`MA2967, MA3632`
-
 ---
 
 ### 94. Basal Cell Carcinoma and Patterns of Spread
@@ -2457,8 +2283,6 @@
 **EXAM CONNECTION:** “Least commonly spreads by lymphatics” → **basal cell carcinoma**. Note that Merkel cell and melanoma are included precisely because they are aggressive skin cancers.
 
 **REMEMBER:** *It eats locally but never travels.*
-
-`MC5322, MA9170`
 
 ---
 
@@ -2492,8 +2316,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/aa77d43ce6f34bb480a2a303f8c419fcx802x531.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/800f908dc3a343d8961576964a1f3db1x1280x925.JPEG)
 
-`Q10289, Q10281, Q10307`
-
 ---
 
 ### 96. Turner Syndrome — Essential Workup
@@ -2518,8 +2340,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/340936f5af594f37aa654a880f002d50x1280x1769.JPEG)
-
-`MF9393`
 
 ---
 

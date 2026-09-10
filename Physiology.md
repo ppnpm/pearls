@@ -38,8 +38,6 @@
 
 **REMEMBER:** *Feedback corrects an error that has already happened; feed-forward prevents it.*
 
-`Q8835, Q8956`
-
 ---
 
 ### 2. Cell Adhesion Molecules
@@ -63,8 +61,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cff12cc1e0cf4a298dd52197a820deabx1279x818.JPEG)
 
-`Q8879, Q8959`
-
 ---
 
 ### 3. Cellular Organelles and Secretory Polarity
@@ -85,8 +81,6 @@
 
 **REMEMBER:** *Nucleus at the back, Golgi in the middle, granules at the front — a production line pointing at the lumen.*
 
-`Q8883`
-
 ---
 
 ### 4. Thermoregulation and Temperature Measurement
@@ -106,8 +100,6 @@
 **EXAM CONNECTION:** Heat loss at 47 °C ambient → **sweating (evaporation)**; false statement → **that rectal temperature is lower than axillary**.
 
 **REMEMBER:** *When the room is hotter than you are, only evaporation can still export heat.*
-
-`Q9004, Q9889`
 
 ---
 
@@ -132,8 +124,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/9e65cb4f41a6492a8013df434d57ea87.JPEG)
 
-`Q9003, Q9894, Q10141`
-
 ---
 
 ### 6. Regulation of Glycogen Phosphorylase
@@ -156,8 +146,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dafecd9ee2034003b574e81dbcebbfdax1280x2560.JPEG)
-
-`Q10985`
 
 ---
 
@@ -182,8 +170,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/10/700.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/10/701.jpg)
 
-`Q11255`
-
 ---
 
 ### 8. Organelle Marker Enzymes
@@ -203,8 +189,6 @@
 **EXAM CONNECTION:** Matching questions, often as “all are mitochondrial markers EXCEPT” → **5′-nucleotidase**.
 
 **REMEMBER:** *The marker enzyme does the organelle’s characteristic job.*
-
-`MF7394, MA4659, MF7313, MB9565`
 
 ---
 
@@ -262,8 +246,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/6c478df751c84f949a6c0ab3d3d93001.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/10227ad34b60459897d9c5d3309f4107x1280x2823.JPEG)
 
-`Q8831, Q8830`
-
 ---
 
 ### 12. The Sarcomere and the Cross-Bridge Cycle
@@ -290,8 +272,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5b3b50ddb02941f5ac80cc10bcdae0fbx775x599.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/60c59fd72afd49ac9a6b41580d16e236x386x599.JPEG)
 
-`Q8834, Q8924`
-
 ---
 
 ### 13. Excitation–Contraction Coupling in Skeletal versus Cardiac Muscle
@@ -312,8 +292,6 @@
 
 **REMEMBER:** *Skeletal muscle pulls a lever; cardiac muscle needs calcium to fetch calcium.*
 
-`Q8963, Q8968`
-
 ---
 
 ### 14. Chemical Synapses, Junctions and Exosomes
@@ -333,8 +311,6 @@
 **EXAM CONNECTION:** True about chemical synapses → **unidirectional conduction**; intercellular communication in eukaryotes → **exosome**; matching junction molecules → **occludin–kidney, connexon–heart, desmocollin–skin, E-cadherin–epithelium**.
 
 **REMEMBER:** *One-way traffic is the cost of being able to think.*
-
-`Q10051, Q8967, Q10066`
 
 ---
 
@@ -361,8 +337,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0f3a7b9a21434609a95f91b0ef12effcx1280x1019.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d808e65b4f694be88dbce6c8e7354d90x1280x1678.JPEG)
 
-`Q10978`
-
 ---
 
 ### 16. Phases of the Nerve Action Potential
@@ -386,8 +360,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/e4a2ce96f3ed4c5390ac49809e2b0088.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b142a264fb7f4271af9a4127a31a35b8x1280x1683.JPEG)
-
-`Q11050`
 
 ---
 
@@ -413,8 +385,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a3c27f19b832464d939cbafcfab1208ax1280x2133.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2a96ee0f49dd43f388fc7e96e279f5ccx1280x2273.JPEG)
 
-`MC1287, MF4968, MC1294`
-
 ---
 
 ### 18. Nerve Fibre Susceptibility
@@ -434,8 +404,6 @@
 **EXAM CONNECTION:** Three different susceptibility orders exist; read **which agent** the question is about before answering.
 
 **REMEMBER:** *Pressure crushes the big ones; anaesthetic soaks into the small ones.*
-
-`MF5437`
 
 ---
 
@@ -462,8 +430,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d808e65b4f694be88dbce6c8e7354d90x1280x1678.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0743bd9469c34201b620841d24f08cb0x1280x1556.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/79ac1ff4addc4f319d6ab71c5ed720d5x1280x5407.JPEG)
-
-`MG1019, MC7405, MC0694`
 
 ---
 
@@ -492,8 +458,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/6f3facd7a9524712a22266f8a427fe3a.PNG)
 
-`Q8878, Q8955`
-
 ---
 
 ### 21. Blood Storage and Anticoagulant Solutions
@@ -513,8 +477,6 @@
 **EXAM CONNECTION:** Storage period with phosphate alone and with adenine plus phosphate → **21 days and 35 days**.
 
 **REMEMBER:** *Phosphate saves the oxygen curve; adenine saves the ATP — and only adenine buys extra days.*
-
-`Q8999`
 
 ---
 
@@ -540,8 +502,6 @@
 
 **REMEMBER:** *Baroreceptors buffer the minute, the kidney sets the year.*
 
-`Q8930, Q8833, Q8961, Q8954`
-
 ---
 
 ### 23. Cardiac Muscle Junctions and Ultrastructure
@@ -564,8 +524,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/c9a9ae28d6884955bbb5b700aaa84d91.JPEG)
-
-`Q8836, Q8882, Q8880`
 
 ---
 
@@ -593,8 +551,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/76202439afbd4b4f88576c49193b05c2x1280x1316.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e8152288950741fcb3748d8010af752dx1280x1259.JPEG)
 
-`Q8964, Q9006`
-
 ---
 
 ### 25. Baroreceptors of the Carotid Sinus
@@ -620,8 +576,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/49792d496825408c95ad667c077a64dcx1280x2026.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c26f743543a34cca9e06719113b377bex1280x1674.JPEG)
 
-`Q10998`
-
 ---
 
 ### 26. The SA Node Action Potential
@@ -645,8 +599,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/72463b08cb6a44848f032162d449409bx800x600.GIF)
 
-`Q11014`
-
 ---
 
 ### 27. Pulse Pressure and Arterial Compliance
@@ -666,8 +618,6 @@
 **EXAM CONNECTION:** “What has DECREASED?” — everything else on the list would **narrow** the pulse pressure if reduced. Only **compliance** widens it by falling.
 
 **REMEMBER:** *A stiff pipe cannot absorb the beat — systolic soars, diastolic sags.*
-
-`Q11268`
 
 ---
 
@@ -694,8 +644,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/2cc38040ebe945859aafc3a5221da48e.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9ab97d9977fb4e7abe45d1cd42bf0791x1280x650.JPEG)
 
-`MC8907`
-
 ---
 
 ### 29. The Pressure–Volume Loop and Contractility
@@ -721,8 +669,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/76202439afbd4b4f88576c49193b05c2x1280x1316.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e8152288950741fcb3748d8010af752dx1280x1259.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/72463b08cb6a44848f032162d449409bx800x600.GIF)
-
-`MF2366, MG0987`
 
 ---
 
@@ -752,8 +698,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f63564c02af64479b366d5aaa20ef047x1280x1382.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1f1f1c4189404e9fae215bd0a8d3b577x1280x1145.JPEG)
 
-`Q8927, Q8928, Q8931, Q8958`
-
 ---
 
 ### 31. Peripheral Chemoreceptors and Oxygen Sensing
@@ -773,8 +717,6 @@
 **EXAM CONNECTION:** Ion involved in peripheral oxygen sensing → **potassium**; highest airway resistance → **bronchi (medium-sized airways)**; volume at which airway pressure is zero → **FRC**.
 
 **REMEMBER:** *Hypoxia works by shutting a potassium channel — and the carotid body reads pressure, not content.*
-
-`Q8997, Q9005, Q9979`
 
 ---
 
@@ -799,8 +741,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/8226e6fc3bdd4392b76d0fa474fc0659.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/59e08c6c2d5c4a5ea66fb8e49162cc29x934x712.PNG)
-
-`MF9337`
 
 ---
 
@@ -830,8 +770,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6bf00026bd254cc8843370dd7cd90f23x600x1366.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0d448a20301a4373b39e03a726675434x1280x3207.JPEG)
 
-`MF8225, MB2007, MB2013`
-
 ---
 
 ### 34. The Cough Reflex Pathway
@@ -852,8 +790,6 @@
 **EXAM CONNECTION:** “Receives the sensory stimuli” → **nucleus tractus solitarius**. The other options are all efferent or autonomic output nuclei.
 
 **REMEMBER:** *All visceral sensation lands in the solitary nucleus.*
-
-`MG0929`
 
 ---
 
@@ -883,8 +819,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/500e1da504d94d398ff2bf10eaabe8eb.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0d0a53d8dd1b4b35909256f8a69b8a6bx1280x2564.JPEG)
 
-`Q8832, Q8837`
-
 ---
 
 ### 36. Vasopressin Escape and Water Handling
@@ -904,8 +838,6 @@
 **EXAM CONNECTION:** Vasopressin escape → **downregulation of aquaporin-2**; insensible loss per day → **500–600 mL**.
 
 **REMEMBER:** *The duct stops listening to a hormone that never stops shouting.*
-
-`Q8926, Q8925`
 
 ---
 
@@ -929,8 +861,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9ddfeb532f3b4162af5301ce970e31eax542x120.JPEG)
-
-`Q8965, Q8966, Q10136`
 
 ---
 
@@ -957,8 +887,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9512c61fde2b4724828a30873cf54f59x1280x1384.JPEG)
 ![question](https://daily-rounds-staging.s3.amazonaws.com/uploads/15c2e62e91f448bc990088bf8be49034.JPEG)
 
-`Q8989, Q8996, Q10011, Q10276, Q10095`
-
 ---
 
 ### 39. Sodium Transporters of the Proximal Convoluted Tubule
@@ -983,8 +911,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/35783f7c4b7f43e9a9a525c4acfe370ex1280x1670.JPEG)
 
-`Q10988`
-
 ---
 
 ### 40. Potassium Recycling in the Thick Ascending Limb
@@ -1007,8 +933,6 @@
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/09/12.jpg)
-
-`Q11187`
 
 ---
 
@@ -1033,8 +957,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/f9e9ddb302d944008de20d3d789832a1.JPEG)
-
-`MB4797, MD6747, MF1398`
 
 ---
 
@@ -1065,8 +987,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3aedd333927b4607b4c6b1eca436466ex1020x730.JPEG)
 
-`Q8957`
-
 ---
 
 ### 43. Gastric Acid Secretion
@@ -1091,8 +1011,6 @@
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/a4587831a79aa9a2d35da61e25bfb9fb.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/c5461d992769348488d23055aab95ca7.webp)
 
-`Q10693, Q10688, Q10689, Q10325`
-
 ---
 
 ### 44. Gastrointestinal Hormone Families
@@ -1111,8 +1029,6 @@
 **EXAM CONNECTION:** Does NOT belong to the secretin family → **CCK**; most potent choleretic → **bile salts**.
 
 **REMEMBER:** *Gastrin and CCK are cousins; secretin, glucagon, VIP and GIP are the other branch.*
-
-`Q10687, Q10686`
 
 ---
 
@@ -1136,8 +1052,6 @@
 
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/63ea10782f9a5ad75b8c7a16840df066.webp)
-
-`Q10692, Q10691, Q10694, Q10327, Q10690`
 
 ---
 
@@ -1163,8 +1077,6 @@
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/2df9bb9acdadf9c29ef31f73dbcc26ea.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/601342059de9ae02f874c481cccf6e57.webp)
 
-`Q10695, Q10696, Q10697, Q10699, Q10700, Q10701, Q10698, Q10702`
-
 ---
 
 ### 47. Protein Digestion and Peptide Absorption
@@ -1189,8 +1101,6 @@
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/1ac31d844e8bf8a44d1c49dd46105cd2.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/03d21d150b47ca4087daf0bd590359f3.webp)
 
-`Q10706, Q10707, Q10708, Q10705`
-
 ---
 
 ### 48. Regulation of Gastric Emptying
@@ -1214,8 +1124,6 @@
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/c5461d992769348488d23055aab95ca7.webp)
 
-`Q10709, Q10710, Q10711, Q10712, Q10718, Q10719, Q10713`
-
 ---
 
 ### 49. Intestinal and Colonic Motility
@@ -1235,8 +1143,6 @@
 **EXAM CONNECTION:** Does NOT increase small intestinal motility → **secretin**; longest transit time → **colon**; maximum colonic motility → **sigmoid colon**; rectal inflation increases peristalsis in → **the distal colon**.
 
 **REMEMBER:** *The colon is a warehouse, not a conveyor belt — and the sigmoid does most of the shifting.*
-
-`Q10714, Q10715, Q10716, Q10717`
 
 ---
 
@@ -1262,8 +1168,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/04/24/screenshot-2024-04-24-143934.JPG)
 
-`Q10944`
-
 ---
 
 ### 51. SGLT1 and Oral Rehydration
@@ -1283,8 +1187,6 @@
 **EXAM CONNECTION:** The transporter name is the answer. Do not confuse SGLT1 (gut) with SGLT2 (kidney/drug target) or GLUT4 (insulin-dependent).
 
 **REMEMBER:** *Glucose pulls sodium, sodium pulls water.*
-
-`MF1400`
 
 ---
 
@@ -1308,8 +1210,6 @@
 
 **REMEMBER:** *Fat tells the brain it can afford a pregnancy.*
 
-`Q8877, Q8929`
-
 ---
 
 ### 53. Secondary Hyperparathyroidism
@@ -1329,8 +1229,6 @@
 **EXAM CONNECTION:** NOT a cause of secondary hyperparathyroidism → **parathyroid adenoma**.
 
 **REMEMBER:** *Primary makes calcium high; secondary is chasing a calcium that is low.*
-
-`Q8960`
 
 ---
 
@@ -1356,8 +1254,6 @@
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/74a9a0d852fbf3359e6724d324b33838.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/ea4b928b25d65842f715fb13f8610eb9.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/1254b58050233e32fef029478cbc9de0.webp)
-
-`Q10490, Q10494, Q10492, Q10493`
 
 ---
 
@@ -1387,8 +1283,6 @@
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/e8791878c98d8abc6fb2338736ed171c.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/0e158a415481be5ac5356a30cb66f27c.webp)
 
-`Q10491, Q10495, Q10496`
-
 ---
 
 ### 56. Central Control of Appetite
@@ -1408,8 +1302,6 @@
 **EXAM CONNECTION:** Cell bodies of orexinergic neurones → **lateral hypothalamic area**.
 
 **REMEMBER:** *Lateral = “let’s eat”; ventromedial = “very much done”.*
-
-`Q10703`
 
 ---
 
@@ -1435,8 +1327,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/da7e53b4253c447499fd44ce2631fa17.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1b49d858574d4f49bc96c921b8579244x1280x1393.JPEG)
 
-`Q10956`
-
 ---
 
 ### 58. Thyroid Hormone Storage and Serotonin’s GI Role
@@ -1460,8 +1350,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4f7fee13e7ea4ca8bb231cb855ab5493x1279x818.JPEG)
-
-`MB6158, MF1952, MC7080, MF7507`
 
 ---
 
@@ -1487,8 +1375,6 @@
 
 **REMEMBER:** *One climbing fibre teaches; a hundred thousand parallel fibres are taught.*
 
-`Q8881, Q8923`
-
 ---
 
 ### 60. Pain Modulation
@@ -1513,8 +1399,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/282b5f42ca40421795588ad74e57cdffx1280x1037.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/74c90cdb28d74654865a4fb00eadc576.JPEG)
 
-`Q8962, Q8885, Q8884`
-
 ---
 
 ### 61. Decerebrate and Decorticate Rigidity
@@ -1538,8 +1422,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a6c11cba47204951b0b484492ec712f7x571x131.JPEG)
 
-`Q8995, Q8998, Q9001`
-
 ---
 
 ### 62. Memory and Dietary Fibre
@@ -1559,8 +1441,6 @@
 **EXAM CONNECTION:** Duration of short-term memory → **30–300 seconds**; NOT a significant dietary fibre → **gums**; nutritional therapy in IBD → **inducing remission in Crohn disease**.
 
 **REMEMBER:** *The hippocampus writes the file; the cortex keeps it; the cerebellum remembers how to ride the bicycle.*
-
-`Q9007, Q9000, Q10159`
 
 ---
 
@@ -1586,8 +1466,6 @@
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/4561f5bd2dc31a672ddd9fb47af9c4ac.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/caae5f0e62c941aa908ef23f76f41152.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/babe4e846ecba3b0e14c2b237d323592.webp)
-
-`Q10681, Q10682, Q10683, Q10684, Q10685`
 
 ---
 
@@ -1618,8 +1496,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture36_HSqgaRr.jpg)
 
-`Q10914`
-
 ---
 
 ### 65. Inner and Outer Hair Cells
@@ -1639,8 +1515,6 @@
 **EXAM CONNECTION: **The statement set inverts the roles. Anchor:** inner cells SEND the signal (afferent), outer cells AMPLIFY it (efferent).**
 
 **REMEMBER:** *One row that listens, three rows that turn up the volume.*
-
-`Q11007`
 
 ---
 
@@ -1664,8 +1538,6 @@
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/05/physiology-5_1-6.jpg)
-
-`Q11324`
 
 ---
 

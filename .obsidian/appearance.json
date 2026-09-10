@@ -1,12 +1,14 @@
 {
   "theme": "moonstone",
-  "interfaceFontFamily": "Satoshi Variable",
+  "interfaceFontFamily": "Inter",
   "textFontFamily": "Charter",
-  "baseFontSize": 18,
-  "monospaceFontFamily": "Cascadia Mono",
+  "baseFontSize": 24,
+  "monospaceFontFamily": "Monaco",
   "showViewHeader": false,
   "showRibbon": false,
   "nativeMenus": false,
-  "cssTheme": "Sanctum",
-  "enabledCssSnippets": []
+  "cssTheme": "",
+  "enabledCssSnippets": [],
+  "accentColor": "#f55c99",
+  "baseFontSizeAction": true
 }

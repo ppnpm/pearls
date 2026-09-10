@@ -40,8 +40,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1c8d4a9369334b1fb315596674356c0dx1280x2558.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f50e3a5e088e40b79fb251f95e77af48x1280x2429.JPEG)
 
-`Q9909, Q10048`
-
 ---
 
 ### 2. MacEwen’s (Suprameatal) Triangle![figure](images/2026-08-16-09-57-46-middle-ear-anatomy-44-638-1593313145.jpg)
@@ -70,8 +68,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/644137c4bfa64cab9c0a0c38bbf188edx800x800.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5bf445840f6745ab90b5d08f120862dfx800x526.PNG)
 
-`Q9967, Q10124, Q10182`
-
 ---
 
 ### 3. Cochlear Tonotopy
@@ -96,8 +92,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ac32b12add0e447490f8fc31849b786cx1280x1752.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/db6e073a0b4d4a96b07e576215ff74fex1280x1752.JPEG)
 
-`Q10241, Q9915`
-
 ---
 
 ### 4. Facial Nerve — The Labyrinthine Segment
@@ -120,8 +114,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/420f3175135e46929b2b19e6d9c4162bx1280x4080.JPEG)
-
-`Q10248`
 
 ---
 
@@ -147,8 +139,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e41df44ff9ef4779a03d5417ecbc3668x1280x1441.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/a662c397893d4641b87bccfe3981cefc.PNG)
 
-`Q10305, Q9923`
-
 ---
 
 ### 6. The Middle Ear Transformer Mechanism
@@ -173,8 +163,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture45.jpg)
 
-`Q10900`
-
 ---
 
 ### 7. Cochlear Hair Cells — Inner vs Outer
@@ -198,8 +186,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/912d6426a5c64869a16ccd419c34a812x1280x2975.JPEG)
-
-`MG1166, MB8894`
 
 ---
 
@@ -229,8 +215,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6b4b5cb4346c46c897b05917cdbf8c21x1280x3090.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9ad20391e348495eb8316e0a318c0d79x1280x1521.JPEG)
 
-`MA6240, MF7475`
-
 ---
 
 ---
@@ -255,8 +239,6 @@
 
 **REMEMBER:** *A broken chain behind an intact drum is the worst of both worlds — no ossicles and no back door.*
 
-`Q9900`
-
 ---
 
 ### 10. Rinne’s Test — Estimating the Air–Bone Gap
@@ -277,8 +259,6 @@
 **EXAM CONNECTION:** The stem lists which forks are negative — count them and read off the gap.
 
 **REMEMBER:** *More forks negative = bigger gap. And always suspect a false negative Rinne in a dead ear — check Weber.*
-
-`Q10188`
 
 ---
 
@@ -310,8 +290,6 @@
 
 **REMEMBER:** *Whisper 25, conversation 60, shout 80 — a shout means severe.*
 
-`Q10995`
-
 ---
 
 ### 12. Audiogram Shapes
@@ -338,8 +316,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/3c6c3768ec1c4ad7ab5f32dd08e4ed0f.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0cb11f00c57a4a8680f4f8b5bba18adfx1280x1803.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/59360a00559541cfad59db9d4d396aabx1280x1623.JPEG)
-
-`Q11029`
 
 ---
 
@@ -373,8 +349,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/250dd8e48bdb46259f04f4fb6e1b9479x1279x1605.JPEG)
 
-`Q11842`
-
 ---
 
 ### 14. Objective vs Subjective Hearing Tests
@@ -406,8 +380,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8e75c7e16b9045ad89595ed0ca1b4b06x1280x1416.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6b4b5cb4346c46c897b05917cdbf8c21x1280x3090.JPEG)
 
-`MD6949, MF9109, MD6951, MF7320`
-
 ---
 
 ## Diseases of the Ear
@@ -430,8 +402,6 @@
 **EXAM CONNECTION:** “Which measure prevents recurrence?” → **oxymetazoline nasal spray** (the distractors are all harmful).
 
 **REMEMBER:** *Descent is the dangerous half — decongest, swallow, stay awake, and never plug the ear.*
-
-`Q9950`
 
 ---
 
@@ -457,8 +427,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/43f950c937954d77b63785beae531068.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d20f24dd2e5d4b8ba33fb4a9f6dfd002x482x458.JPEG)
 
-`Q10143`
-
 ---
 
 ### 17. Malignant (Necrotising) Otitis Externa
@@ -479,8 +447,6 @@
 **EXAM CONNECTION:** “Malignant otitis externa is ___” → an **infective condition**.
 
 **REMEMBER:** *An old diabetic with agonising night ear pain and granulations in the canal floor — Pseudomonas eating the skull base. Biopsy it, gallium-scan it, treat for weeks.*
-
-`Q10246`
 
 ---
 
@@ -505,8 +471,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/88f608e6ac5043c083c5637bb8014793.JPEG)
 
-`Q11818`
-
 ---
 
 ### 19. Congenital Cholesteatoma — Levenson’s Criteria
@@ -529,8 +493,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/7e994a5f04e44082bfac66040247c358.PNG)
-
-`MA6024`
 
 ---
 
@@ -602,8 +564,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d1dab6693b424b19bd3aca7c49bd81a9x1280x2095.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3bb2fd521fc34b67b82d1bb38db07bf6x1280x2359.JPEG)
 
-`Q9966`
-
 ---
 
 ### 24. The Caloric Test
@@ -626,8 +586,6 @@
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/08/29/picture17.jpg)
-
-`Q11214`
 
 ---
 
@@ -652,8 +610,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/19/screenshot-2024-06-19-174717.png)
 
-`Q11253`
-
 ---
 
 ### 26. Benign Paroxysmal Positional Vertigo and the Epley Manoeuvre
@@ -677,8 +633,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f04bc59fd59546bf9a210805af6f7d32x1280x2359.JPEG)
 
-`Q11849`
-
 ---
 
 ### 27. Reading Vestibular Nystagmus
@@ -700,8 +654,6 @@
 
 **REMEMBER:** *The fast phase runs away from the sick ear.*
 
-`MF4984`
-
 ---
 
 ### 28. Ménière’s Disease — The Treatment Ladder
@@ -721,8 +673,6 @@
 **EXAM CONNECTION: **Read the qualifier:** “definitive”** → labyrinthectomy; **“first-line”** → salt restriction and diuretics; **“hearing-preserving surgery”** → vestibular neurectomy.
 
 **REMEMBER:** *Take out the labyrinth and the vertigo has nothing left to come from.*
-
-`MC5283`
 
 ---
 
@@ -753,8 +703,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/aefb7e9048e74fa79af2612160b82c8e.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/33d76cc70edc4ca4a7be3078b5723b90x512x510.PNG)
 
-`Q9931, Q10000`
-
 ---
 
 ### 30. Samter’s Triad
@@ -775,8 +723,6 @@
 **EXAM CONNECTION:** “Not a component of Samter’s triad” → **allergic rhinitis**.
 
 **REMEMBER:** *Polyps, asthma, aspirin — block COX and the leukotrienes take over.*
-
-`Q10056, Q10077`
 
 ---
 
@@ -803,8 +749,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d9ec1e34cd544413bf9bf09d9af03250x1280x1120.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7d2aa180c42c4fae9aafa8dc82e8daf5x1280x1994.JPEG)
 
-`Q10235`
-
 ---
 
 ### 32. Septoplasty vs Submucous Resection
@@ -824,8 +768,6 @@
 **EXAM CONNECTION:** “False regarding septoplasty” → “**mucoperiosteal flap raised on both sides**”.
 
 **REMEMBER:** *Septoplasty: Freer’s incision, one flap, conservative, any age. SMR: Killian’s, both flaps, adults, and it perforates.*
-
-`Q10243`
 
 ---
 
@@ -854,8 +796,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8e425cf42dff444ca7227b0e65a0c499x1280x747.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/96fa8aaab59a4e4299655c6a3d8b21c1x259x269.JPEG)
 
-`Q10255`
-
 ---
 
 ### 34. Le Fort Fractures
@@ -876,8 +816,6 @@
 **EXAM CONNECTION:** “Le Fort III does NOT pass through” → **the inferior wall (floor) of the orbit** — that belongs to Le Fort II.
 
 **REMEMBER:** *All three break the pterygoid plates. II takes the orbital floor; III takes the medial and lateral walls and floats the whole face off the skull.*
-
-`Q10353`
 
 ---
 
@@ -905,8 +843,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/66e69d87c30a4debb95178fdc941e6d2x408x481.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6e8d515afbf345a0bfd6e3f5f524e750x720x949.JPEG)
 
-`MC6411, MC7584`
-
 ---
 
 ### 36. Atrophic Rhinitis (Ozaena)
@@ -931,8 +867,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cdafe3fc932845f78f061ada8c044c6dx1280x957.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a813c201198c4800bbe43437de8562b9x512x382.PNG)
 
-`MF1488, MB4740`
-
 ---
 
 ### 37. Allergic Rhinitis — The Named Signs
@@ -956,8 +890,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/64cb9b6da4d44ca0a1750878e3906fe8x1200x1118.JPEG)
 
-`MG5831`
-
 ---
 
 ### 38. Choanal Atresia and CHARGE
@@ -980,8 +912,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dff547f2da0c4b1fba7b0b4222c897f8x799x472.PNG)
-
-`MB4702`
 
 ---
 
@@ -1031,8 +961,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/d779f195b72141bb9f3c59fe7f4358ee.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c49ef6ae1e5c4014978739947e30ced8x1280x1669.JPEG)
 
-`Q9965, Q9968`
-
 ---
 
 ### 42. Membrane Over the Tonsil — Vincent’s Angina vs Diphtheria
@@ -1054,8 +982,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8b1458efa4d141df8a2f9f81715e20edx720x1019.JPEG)
-
-`Q10195`
 
 ---
 
@@ -1080,8 +1006,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/c1dcc4b62ee04808a4d45d8cd9a1e240.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/75704eb8b460449db4446e2c8f4c4e50x1280x2159.JPEG)
-
-`Q10362`
 
 ---
 
@@ -1108,8 +1032,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/74b4c98abb59427c8564c3236d75b224x1280x1826.JPEG)
 
-`Q9934`
-
 ---
 
 ### 45. Thyroplasty — The Four Types
@@ -1130,8 +1052,6 @@
 
 **REMEMBER:** *Tight and long makes it high. Type IV lengthens for a female voice; Type III shortens for a male one.*
 
-`Q10207`
-
 ---
 
 ### 46. Tracheostomy — High, Mid and Low
@@ -1151,8 +1071,6 @@
 **EXAM CONNECTION:** “Indication for HIGH tracheostomy” → **carcinoma larynx**.
 
 **REMEMBER:** *Never cut at the first ring — the cricoid will stenose — unless the larynx is coming out anyway.*
-
-`Q10342`
 
 ---
 
@@ -1178,8 +1096,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/14/screenshot-2024-05-14-115959.png)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/07/screenshot-2023-11-07-153601.jpg)
 
-`Q11647`
-
 ---
 
 ### 48. Laryngomalacia
@@ -1204,8 +1120,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/cdeb9ee2910d4768bb9509720b22fd7b.JPEG)
 
-`Q10844`
-
 ---
 
 ### 49. Reinke Oedema
@@ -1228,8 +1142,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/770bbe6eb9104fe1baf945ede1d21e6f.JPEG)
-
-`Q11815`
 
 ---
 
@@ -1256,8 +1168,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ac8a3c609f364402a506295a9fd0bd3cx512x422.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1faa9206ae1b4a40bb9b76f834d8a8a2x768x576.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/05a81e40a55f40009934c6ec010ca5f8x720x324.JPEG)
-
-`MC7498`
 
 ---
 
@@ -1286,8 +1196,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ac5dbf3b0d7449279efdc72a549df0a5x1280x1134.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e598d4b5b5404acd9edf7be2b040a3ecx1280x1424.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7d82455c1ad94ac39dac6fce31c98ca6x600x759.JPEG)
-
-`MD2326, MF1506, MA7135, MC2264`
 
 ---
 
@@ -1318,8 +1226,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f3294641c02c4a5e9dd7bdaa033624f4x605x600.JPEG)
 
-`Q9907, Q10007`
-
 ---
 
 ### 53. Occupational Sinonasal Malignancy
@@ -1339,8 +1245,6 @@
 **EXAM CONNECTION:** “Carpenter with sinonasal carcinoma — histology?” → **adenocarcinoma**.
 
 **REMEMBER:** *Wood dust makes adenocarcinoma in the ethmoid; nickel makes squamous cancer.*
-
-`Q9917`
 
 ---
 
@@ -1363,8 +1267,6 @@
 **EXAM CONNECTION:** The stem specifies **extent** — sinus involvement without lateral spread = **IB**.
 
 **REMEMBER:** *Teenage boy, torrential epistaxis, Holman–Miller sign — image and embolise, never biopsy.*
-
-`Q9925`
 
 ---
 
@@ -1390,8 +1292,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4ded39d831464964acc8ce474e149908x1279x1012.JPEG)
 
-`Q10082`
-
 ---
 
 ### 56. Parapharyngeal Space — Pre-Styloid vs Post-Styloid
@@ -1413,8 +1313,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/65e95b72f7834a8ea6c17c6d7d26289ax1280x1473.JPEG)
-
-`MB5373`
 
 ---
 
@@ -1440,8 +1338,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/93edbd02d7624a5e9bfc08748f8c850f.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6a66229bcb5a43a7a3a2d4b2a650aa6dx1000x715.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3118eb7d296447fe89dd3cfd4f20c26fx1280x964.JPEG)
-
-`MA1180`
 
 ---
 

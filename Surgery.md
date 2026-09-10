@@ -51,8 +51,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f1e757e5e4ad4cb9ad52817087b60c6ex1279x1662.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/66d755b07838450a89db5c238649d3fax1279x1642.JPEG)
 
-`Q9995`
-
 ---
 
 ### 2. Surgical Wound Classification and Surgical Site Infection
@@ -73,8 +71,6 @@
 **EXAM CONNECTION:** Match the scenario to the class. Emergency procedures in uncontrolled settings (**open cardiac massage, penetrating trauma**) are **contaminated (III)**, not dirty — dirty requires **pus or established perforation**.
 
 **REMEMBER:** *Controlled entry is clean-contaminated; uncontrolled entry is contaminated; pus is dirty.*
-
-`Q11043`
 
 ---
 
@@ -99,8 +95,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/b72ac66835784d84b7a009900b801a2d.PNG)
 ![question](https://cdn1.dailyrounds.org/uploads/343819643f414ecdb0ef4a522676ff6d.JPEG)
 
-`MA6497, MD0217, MC1438`
-
 ---
 
 ### 4. Surgical Knots and Suture Materials
@@ -122,8 +116,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/594c2a3ca3d74865a7d0d5a8d4b9f78fx1280x2097.JPEG)
 
-`Q11822, Q10866`
-
 ---
 
 ### 5. Named Surgical Incisions
@@ -141,8 +133,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/213ebc8183304f7b82e95491588f80c1x1280x1439.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/eca41929fa4245c2a6f4428370343172x1280x1434.JPEG)
 
-`MG1067`
-
 ---
 
 ### 6. Surgical Risk Scores
@@ -159,8 +149,6 @@
 **EXAM CONNECTION:** “Not a component” → **complication of surgery**.
 
 **REMEMBER:** *A preoperative score can only contain preoperative facts.*
-
-`MD0765`
 
 ---
 
@@ -187,8 +175,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8a06d58bf48844608a03d99182f2f454x1280x1792.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4b054ae0f1fd4a04baa35c8686c0c01ax1280x2262.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/01e363fe8e3344b78c45d8a2148d4b3cx1280x2262.JPEG)
-
-`MF5375, MC9377, MC9376`
 
 ---
 
@@ -223,8 +209,6 @@
 
 **REMEMBER:** *Primary now, reactionary when the pressure comes back, secondary when the infection eats through.*
 
-`Q10855`
-
 ---
 
 ### 10. Massive Transfusion: The Metabolic Consequences
@@ -245,8 +229,6 @@
 **EXAM CONNECTION:** “Which is NOT an adverse effect” — the answer inverts a real derangement. Calcium goes **down**, temperature goes **down**.
 
 **REMEMBER:** *Citrate steals the calcium and later leaves behind bicarbonate.*
-
-`Q10925`
 
 ---
 
@@ -272,8 +254,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/bd892fa4aec9484f88fc620c3f28fc5d.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/1f856bc80d264b0c98541855fcbe7743.JPEG)
 
-`MF9295, MF5380`
-
 ---
 
 ### 12. Intraosseous Access
@@ -296,8 +276,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/5643fcb7d9d645f1bb5a87876d642627.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/db2eb2bf3be34415997390fd7b265b31x1280x1352.JPEG)
-
-`MF8273`
 
 ---
 
@@ -326,8 +304,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/08a610ca86a342fcb7afd84dd7f93d65x1280x1993.JPEG)
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/09/01/image-15.jpg)
 
-`Q10138, Q10410, Q11327`
-
 ---
 
 ### 14. Liver Trauma: Penetrating versus Blunt
@@ -350,8 +326,6 @@
 
 **REMEMBER:** *Unstable or penetrating means open; stable and blunt means embolise.*
 
-`Q10885`
-
 ---
 
 ### 15. Vascular Trauma: Choosing the Conduit
@@ -371,8 +345,6 @@
 **EXAM CONNECTION:** The length of the defect is the discriminator — a long tear rules out primary anastomosis and a patch. **Interposition reversed saphenous vein graft** is the answer.
 
 **REMEMBER:** *Short gap, sew it; long gap, bridge it with the patient’s own vein.*
-
-`Q11017`
 
 ---
 
@@ -398,8 +370,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/11/17/picture1.jpg)
 
-`Q11273`
-
 ---
 
 ## Burns and Plastic Surgery
@@ -421,8 +391,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture38.jpg)
 
-`Q10861`
-
 ---
 
 ### 18. Skin Grafts: Primary versus Secondary Contracture
@@ -442,8 +410,6 @@
 
 **REMEMBER:** *Thick grafts shrink at once and then behave; thin grafts behave at once and then shrink.*
 
-`Q11274`
-
 ---
 
 ### 19. Burn Depth, Dressings and Resuscitation
@@ -462,8 +428,6 @@
 **EXAM CONNECTION:** The **pain and colour** give the depth, and the depth gives the dressing.
 
 **REMEMBER:** *If it hurts, it will heal — cover it. If it is numb and leathery, cut it out and graft it.*
-
-`Q11333`
 
 ---
 
@@ -489,8 +453,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/c3b0189e88984ebd8b0b961ab3365781.JPEG)
 ![question](https://upload.wikimedia.org/wikipedia/commons/1/1a/SinusPilonidalis.jpg)
 
-`MB2793, MA1341`
-
 ---
 
 ## Oesophagus and Stomach
@@ -514,8 +476,6 @@
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/12/05/screenshot-2023-12-05-163230.jpg)
-
-`Q9795`
 
 ---
 
@@ -541,8 +501,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/27/screenshot-2023-04-26-123631_AcyAjOO.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/06/01/surgery-31.jpg)
 
-`Q9812, Q9816, Q9835, Q9827`
-
 ---
 
 ### 23. Achalasia and Oesophageal Webs (Plummer–Vinson)
@@ -566,8 +524,6 @@
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/05/04/untitled-183.jpg)
-
-`Q11278, Q9811, Q9834`
 
 ---
 
@@ -596,8 +552,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/c446264d75ba4e829845320cab454f02.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/95ae79a1d5cb4c0fa2d9437712a90e54x1279x1410.JPEG)
 
-`Q9840, Q9841, Q9839, Q9836, Q9837, MD9049`
-
 ---
 
 ### 25. Endoscopy, GIST and Oesophageal Cancer Palliation
@@ -625,8 +579,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/screenshot-2024-03-15-153546.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/15/screenshot-2024-03-15-153703.jpg)
 
-`Q9838, Q9833, Q9832`
-
 ---
 
 ### 26. Gastric Cancer
@@ -652,8 +604,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/22/screenshot-2024-03-22-192920.png)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/22/screenshot-2024-03-22-192225.png)
 
-`Q9842, Q9848, Q9849, Q9847, Q9844, Q9846, MB2420`
-
 ---
 
 ### 27. Upper GI Bleeding Scores
@@ -672,8 +622,6 @@
 **EXAM CONNECTION:** “NOT included in the Rockall score” → **haemoglobin**.
 
 **REMEMBER:** *Blatchford before the scope (bloods); Rockall after it (findings).*
-
-`Q9843`
 
 ---
 
@@ -699,8 +647,6 @@
 
 **REMEMBER:** *Obstruction starts it, visceral pain announces it, parietal pain localises it.*
 
-`Q9774, Q9777, Q9775, Q9778, Q9779`
-
 ---
 
 ### 29. Meckel’s Diverticulum
@@ -719,8 +665,6 @@
 **EXAM CONNECTION:** “Incorrect about Meckel’s” → **that it is a false diverticulum**, or **that in children it presents mimicking appendicitis** (it presents with painless bleeding).
 
 **REMEMBER:** *Gastric mucosa in the wrong place — it bleeds, and it glows on the scan.*
-
-`Q9776, Q9780`
 
 ---
 
@@ -748,8 +692,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture2.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture8.jpg)
 
-`Q9799, Q9798, Q9800, Q9794, Q9802, Q9797`
-
 ---
 
 ### 31. Adhesive Small Bowel Obstruction
@@ -772,8 +714,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture8.jpg)
 
-`Q10850`
-
 ---
 
 ### 32. Postoperative Ileus versus Mechanical Obstruction
@@ -793,8 +733,6 @@
 **EXAM CONNECTION:** “All of the following EXCEPT” — the exception is always the option that **continues feeding**.
 
 **REMEMBER:** *Decompress and check the potassium — never feed a silent gut.*
-
-`Q10897`
 
 ---
 
@@ -821,8 +759,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/06/10/picture5_AqOOW7J.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/06/10/picture7_zfhUHyc.jpg)
 
-`Q9850, Q9851, Q9853, Q9852, Q9854`
-
 ---
 
 ### 34. Enterocutaneous Fistula — What Closes and What Doesn’t
@@ -845,8 +781,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/6d1eac14816a4a3290279f24465d46f5.PNG)
-
-`Q10075, Q10287`
 
 ---
 
@@ -872,8 +806,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/09/whatsapp-image-2024-09-09-at-60550-pm.jpeg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/09/whatsapp-image-2024-09-09-at-60554-pm.jpeg)
 
-`Q11311`
-
 ---
 
 ## Colon, Rectum and Anal Canal
@@ -896,8 +828,6 @@
 **EXAM CONNECTION:** Screening children in an FAP family → **APC genetic testing**; “NOT an extracolonic manifestation” → **renal cell carcinoma**; commonest facial abnormality in Gardner → **multiple osteomas**; “correct about Amsterdam II” → **at least 2 successive generations**; marker of transition to invasive carcinoma → **p53**.
 
 **REMEMBER:** *Test the gene first — a negative result frees the child, a positive one starts the clock.*
-
-`Q9781, Q9782, Q9783, Q9786, Q9788`
 
 ---
 
@@ -936,8 +866,6 @@
 
 **REMEMBER:** *Screen the population with stool, investigate the patient with a scope. Above the dentate line drains up; below it drains to the groin.*
 
-`Q9789, Q9793, Q9803, Q9806, Q9804, ME6750`
-
 ---
 
 ### 39. Rectal Cancer — Staging and Operations
@@ -959,8 +887,6 @@
 
 **REMEMBER:** *Distance from the sphincter decides the operation; nodes decide the prognosis.*
 
-`Q9807, Q9808`
-
 ---
 
 ### 40. Inflammatory Bowel Disease — Surgical Indications
@@ -981,8 +907,6 @@
 **EXAM CONNECTION:** “NOT an indication for surgery in UC” → **left-sided colitis**; commonest extra-intestinal manifestation → **arthropathy**. In the Crohn stem, three options state the opposite of a true fact (proximal ileum, continuous lesions, antibiotics alone) — the answer is the counter-intuitive one about **margins**.
 
 **REMEMBER:** *Colectomy cures colitis but never cures Crohn — so cut generously in one and sparingly in the other.*
-
-`Q9784, Q9790, MC3786`
 
 ---
 
@@ -1007,8 +931,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/28/picture8_s8T1Gmi.jpg)
 
-`Q9785, Q9791, MD0763`
-
 ---
 
 ### 42. Volvulus
@@ -1029,8 +951,6 @@
 
 **REMEMBER:** *A sigmoid volvulus can be untwisted from below; a caecal one has to be resected.*
 
-`Q9801`
-
 ---
 
 ### 43. Acute Colonic Pseudo-Obstruction (Ogilvie Syndrome)
@@ -1050,8 +970,6 @@
 **EXAM CONNECTION:** Multi-select of risk factors — include the **motility-suppressing** ones, exclude the mechanical ones (**adhesions**).
 
 **REMEMBER:** *The colon is paralysed, not blocked — give neostigmine, but only after excluding a real blockage.*
-
-`Q11831`
 
 ---
 
@@ -1075,8 +993,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture6_paG6mqe.jpg)
 
-`Q9809, Q9817, Q9815, Q9814, Q9813`
-
 ---
 
 ### 45. Fistula-in-Ano: Simple versus Complex
@@ -1097,8 +1013,6 @@
 **EXAM CONNECTION:** The stem states the tract type and number of openings. **Simple and low → fistulotomy**; anything high or multiple → a sphincter-sparing option.
 
 **REMEMBER:** *Lay open what crosses little muscle; preserve the sphincter for everything else.*
-
-`Q11826`
 
 ---
 
@@ -1121,8 +1035,6 @@
 
 **REMEMBER:** *Ripstein and Wells go through the belly; Delorme, Altemeier and Thiersch stay below.*
 
-`Q11239, Q9805`
-
 ---
 
 ### 47. Nerve Injury in Rectal and Pelvic Surgery
@@ -1141,8 +1053,6 @@
 **EXAM CONNECTION:** Two variables must be matched — **which autonomic system** and **which function**. Sympathetic = ejaculation and bladder, not erection.
 
 **REMEMBER:** *Parasympathetic points, sympathetic shoots — cut the sympathetics and semen goes backwards.*
-
-`Q11310, MF8312`
 
 ---
 
@@ -1171,8 +1081,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/06/02/untitled-194.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/30/screenshot-2024-03-30-095414.png)
 
-`Q9818, Q9819, Q9823, Q9826, Q9829, Q9820, Q9830, Q9828`
-
 ---
 
 ### 49. Femoral Hernia
@@ -1194,8 +1102,6 @@
 **EXAM CONNECTION:** The whole question is the **relationship to the pubic tubercle**. **Below and lateral = femoral; above and medial = inguinal.** “Wrong femoral ring boundary” → **lateral–conjoint tendon**.
 
 **REMEMBER:** *Below and lateral, rigid neck, strangles early — operate now.*
-
-`Q11035`
 
 ---
 
@@ -1230,8 +1136,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/06/03/hernia-12.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/06/02/untitled-192.jpg)
 
-`Q9821, Q9824, Q9822, Q9831, Q9825`
-
 ---
 
 ### 51. Chronic Pain After Inguinal Hernia Repair
@@ -1252,8 +1156,6 @@
 **EXAM CONNECTION:** “Most common complication” — the intuitive answers (infection, recurrence) are wrong; the mesh-era answer is **chronic pain**. For groin pain after laparoscopic repair, the **anterolateral thigh** distribution gives the nerve.
 
 **REMEMBER:** *Mesh fixed the recurrence and left the nerves complaining.*
-
-`Q10915, Q11334`
 
 ---
 
@@ -1285,8 +1187,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture17.jpg)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/89fab04ff0da4e0d850859727d1690e8x1280x1980.JPEG)
 
-`Q9861, Q9856, Q9862, Q9866, Q9855, Q9876, MD1314`
-
 ---
 
 ### 53. Bile Duct Stones — Naming by Timing
@@ -1306,8 +1206,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cb8a9fd06ff049cf8d8471ff68af11dcx1280x6315.JPEG)
-
-`MF1322, MF0817, MG1110`
 
 ---
 
@@ -1331,8 +1229,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/08/26/screenshot-2024-08-26-175606.jpg)
 
-`Q11313, Q11301, Q11302, Q11312`
-
 ---
 
 ### 55. Bile Leak and the Classifications of Bile Duct Injury
@@ -1353,8 +1249,6 @@
 **EXAM CONNECTION:** The bile-leak stem’s distractors are all real treatments in the *wrong order* — **drain → define → repair**. The classification question’s instinctive answer is Strasberg (the most famous), which is exactly the trap: **vascular → HANNOVER**.
 
 **REMEMBER:** *Sepsis first, anatomy second, surgery last. Strasberg maps the duct, McMahon measures the hole, Bismuth grades the hilum, Hannover remembers the artery.*
-
-`Q9877, Q11792`
 
 ---
 
@@ -1379,8 +1273,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture26.jpg)
 
-`Q10972, Q9863, Q9864`
-
 ---
 
 ### 57. Cholangiocarcinoma and Choledochal Cysts
@@ -1403,8 +1295,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture33.jpg)
 
-`Q9865, Q9867`
-
 ---
 
 ### 58. Liver Tumours
@@ -1424,8 +1314,6 @@
 **EXAM CONNECTION:** Cirrhosis with an enhancing mass and raised AFP → **hepatoma**; “NOT a liver cancer staging system” → **Astler–Coller**; “NOT part of Kasabach–Merritt” → **hepatic adenoma**.
 
 **REMEMBER:** *BCLC is the one that tells you what to do, not just how bad it is.*
-
-`Q9858, Q9859, Q9860`
 
 ---
 
@@ -1452,8 +1340,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6c4bf5121419410a93c9ec3ab563077ex1280x1881.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2a6c17df4bd948958a3072145176af04x1280x1653.JPEG)
 
-`Q9857, MD6772`
-
 ---
 
 ### 60. Child–Turcotte–Pugh Score
@@ -1472,8 +1358,6 @@
 **EXAM CONNECTION:** “Which parameter will you NOT use” → **creatinine**. Learn CTP and MELD as a contrasting pair.
 
 **REMEMBER:** *Child-Pugh measures the liver; MELD adds the kidney.*
-
-`MB7264`
 
 ---
 
@@ -1494,8 +1378,6 @@
 **EXAM CONNECTION:** Commonest cause → **gallstones**; “NOT a metabolic cause” → **hyperkalaemia**; “NOT a SIRS criterion” → **BP <90/60**; indication for intervention → **infected necrotic collection**; commonest pseudoaneurysm → **splenic artery**.
 
 **REMEMBER:** *Leave sterile necrosis alone; delay, then step up only for infection.*
-
-`Q9869, Q9870, Q9872, Q9873, Q9871`
 
 ---
 
@@ -1521,8 +1403,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture39.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture40.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture36.jpg)
-
-`Q9874, Q9868, Q9875`
 
 ---
 
@@ -1550,8 +1430,6 @@
 
 **REMEMBER:** *Amylase means the cyst talks to the duct — that’s IPMN.*
 
-`Q9998`
-
 ---
 
 ### 64. Hydatid Cyst: WHO-IWGE Staging Drives Management
@@ -1576,8 +1454,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/d38b00bb1738446eb1c728f36b8c3557.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7ac33059a5a14243b5f4ec89754d5ccbx1280x1799.JPEG)
-
-`Q11820`
 
 ---
 
@@ -1615,8 +1491,6 @@
 **IMAGES:**
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/d87d9518c7cb042899e7a0154c04f949.webp)
 
-`Q10044, Q10293, Q10724, Q11015`
-
 ---
 
 ### 66. Sentinel Node Biopsy and Breast Conservation
@@ -1640,8 +1514,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture2.jpg)
 
-`Q10903`
-
 ---
 
 ### 67. DCIS After Breast Conservation
@@ -1664,8 +1536,6 @@
 
 **REMEMBER:** *It cannot spread, so treat only the breast — surgery plus radiotherapy.*
 
-`Q11266`
-
 ---
 
 ### 68. Radical Mastectomy and Axillary Anatomy
@@ -1684,8 +1554,6 @@
 **EXAM CONNECTION:** “Not removed in radical mastectomy” → **supraclavicular nodes**. Both pectoral muscles ARE removed in the classical Halsted operation.
 
 **REMEMBER:** *Halsted took everything in the axilla but nothing above the clavicle.*
-
-`MB0997`
 
 ---
 
@@ -1711,8 +1579,6 @@
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/082340a6423a693f2e9b6fce412d654c.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/73daf7da0e5d62ee1787e9ba49d4cd83.webp)
 
-`Q10721, Q10720`
-
 ---
 
 ### 70. Breast Congenital Anomalies — The Terminology
@@ -1735,8 +1601,6 @@
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/44136e7475e5cdbf119a02af93ac4554.webp)
 
-`Q10722, Q10723`
-
 ---
 
 ### 71. Breast Self-Examination and BI-RADS
@@ -1758,8 +1622,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/504a22df2e1245329a35d71199e408c6x344x208.PNG)
-
-`MF4007, MB9858, MB1037`
 
 ---
 
@@ -1785,8 +1647,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/288489a34deb41d4aaf6b61f432d0f09.PNG)
 
-`Q10053`
-
 ---
 
 ### 73. Preoperative Preparation in Graves Disease
@@ -1805,8 +1665,6 @@
 **EXAM CONNECTION:** Note the exact wording — “to minimise **intraoperative bleeding**” selects **iodine**, not the drug that makes the patient euthyroid.
 
 **REMEMBER:** *Iodine shrinks the gland and dries the field — the last two weeks before the knife.*
-
-`Q11276`
 
 ---
 
@@ -1831,8 +1689,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/a7e0542ebb724f978e6cd49358048f9c.JPEG)
 
-`MD0816, MF8139`
-
 ---
 
 ### 75. MEN Syndromes and the RET Proto-Oncogene
@@ -1856,8 +1712,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/e31505be1cbb411781f75172bbd94af0.JPEG)
 
-`Q11824`
-
 ---
 
 ### 76. Intraoperative PTH — The Miami Criterion
@@ -1880,8 +1734,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/78538d8853224efd93d30bd4a826420dx1280x1347.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/95f7c4eac7794f728806926c4f50bbb2x1280x1061.JPEG)
-
-`MD2054, MD0764`
 
 ---
 
@@ -1921,8 +1773,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/08236bd5a4d343518c8760b7cb3d28f3x1080x1400.JPEG)
 ![explanation](https://cdn1.dailyrounds.org/uploads/4db798c2a59c445eaf0bdd00f3eb2e11.JPEG)
 
-`Q10090, Q10128, MD0768, MF1780, MF5331`
-
 ---
 
 ### 78. Renal and Ureteric Stones
@@ -1948,8 +1798,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/Screenshot%202025-02-08%20180331.jpg)
 
-`Q10408, Q9961, MA4550`
-
 ---
 
 ### 79. Testicular Tumours
@@ -1974,8 +1822,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture41_TOWotaw.jpg)
 
-`Q10922`
-
 ---
 
 ### 80. Fournier Gangrene
@@ -1999,8 +1845,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/09/25/picture28.jpg)
 
-`Q11289`
-
 ---
 
 ### 81. Varicocele, Scrotal Swellings and TURP
@@ -2021,8 +1865,6 @@
 **EXAM CONNECTION:** Both stems name the comorbidity or complication to be avoided (**cardiac failure → bipolar/saline**; symptomatic varicocele → the least invasive effective option, **embolisation**).
 
 **REMEMBER:** *Bipolar lets you irrigate with saline, so there is nothing to dilute.*
-
-`Q11806, Q11816, MF1315`
 
 ---
 
@@ -2053,8 +1895,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/11138d2cb6824c879bc3b2b05541cc10x502x449.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/671962f1854c4c7186982ec8d1359b23x441x548.PNG)
 
-`MC3251, MC3423, MF1324`
-
 ---
 
 ### 83. Haemorrhagic Cystitis in Children
@@ -2068,8 +1908,6 @@
 - **The commonest cause of UTI in children overall remains *E. COLI*;** a child with a febrile UTI needs **ultrasound**, with **MCU for reflux and DMSA for scarring** depending on age and recurrence.
 
 **REMEMBER:** *Adenovirus 11 and 21 bleed the bladder.*
-
-`Q11846`
 
 ---
 
@@ -2105,8 +1943,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a277163d01f14377a0caac15cdb27804x648x432.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1f0c315db1d94698b862516e1b06e8bfx900x1200.JPEG)
 
-`Q10860, MF1317, MF8180`
-
 ---
 
 ### 85. Tests for Varicose Veins
@@ -2128,8 +1964,6 @@
 **EXAM CONNECTION:** The question groups all four eponyms — sort them by **which part of the venous system each interrogates**.
 
 **REMEMBER:** *Tourniquet above tests the junction; tourniquet plus walking tests the deep veins.*
-
-`MF9266, MF9199`
 
 ---
 
@@ -2155,8 +1989,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/4aba0d02377b4b64808a992654f70480.PNG)
-
-`MB7689`
 
 ---
 
@@ -2184,8 +2016,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture6.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture7.jpg)
 
-`Q9787, Q9792, Q9796`
-
 ---
 
 ### 88. Anorectal Malformation and VACTERL
@@ -2208,8 +2038,6 @@
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/03/29/picture5_lUloloi.jpg)
-
-`Q9810`
 
 ---
 
@@ -2236,8 +2064,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/20/picture1555.jpg)
 ![question](https://cdn1.dailyrounds.org/uploads/a8031d2804a445b1bf12408bb593e860.JPEG)
 
-`Q11308, Q11305, MC5346`
-
 ---
 
 ### 90. The Vanishing Testis and the Undescended Testis
@@ -2257,8 +2083,6 @@
 **EXAM CONNECTION:** The finding is **blind-ending vessels**. The trap is offering further exploration in each anatomical compartment.
 
 **REMEMBER:** *Follow the vessels — if they end blindly, so does the search.*
-
-`Q11279`
 
 ---
 
@@ -2282,8 +2106,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/cac0f56ef35d43b0a72010bfbc60002c.JPEG)
-
-`MB7710, MB6977`
 
 ---
 
@@ -2310,8 +2132,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d65f01d0e377468fa13f3e569e53408cx720x835.JPEG)
 
-`Q9879, Q10361`
-
 ---
 
 ### 93. Intracranial Aneurysm: Coiling versus Clipping
@@ -2332,8 +2152,6 @@
 
 **REMEMBER:** *Coils fill the sac from inside; clips close the neck from outside; nimodipine only protects the brain afterwards.*
 
-`Q11235`
-
 ---
 
 ### 94. Mediastinal Masses
@@ -2343,8 +2161,6 @@
 **MUST KNOW:** **ANTERIOR compartment — the “4 Ts”: THYMOMA, TERATOMA/germ cell, THYROID (retrosternal) and “TERRIBLE lymphoma”. MIDDLE — cysts (PERICARDIAL commonest), lymph nodes, vascular masses. POSTERIOR — NEUROGENIC tumours.**
 
 **REMEMBER:** *Four Ts in front, cysts and nodes in the middle, nerves behind.*
-
-`MC8051`
 
 ---
 
@@ -2370,8 +2186,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/d4d3532287f7489b88469826542b5967.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/055f1bab79fd4d128ea4b78f73ba1c05x1280x2546.JPEG)
 
-`Q11841, Q10158`
-
 ---
 
 ### 96. Paget–Schroetter Syndrome
@@ -2381,8 +2195,6 @@
 **MUST KNOW:** Seen in **throwers, swimmers and weightlifters**; presents with a **swollen, painful, cyanosed arm worsened by exercise**. Treat with **catheter-directed thrombolysis plus FIRST RIB RESECTION**. Contrast **ARTERIAL thoracic outlet syndrome** — subclavian **artery**, with **pallor and claudication**.
 
 **REMEMBER:** *The vein is the one that thromboses with effort.*
-
-`Q10107`
 
 ---
 
@@ -2394,8 +2206,6 @@
 
 **REMEMBER:** *Sural nerve for the graft, epineurial sutures for the repair.*
 
-`Q10304`
-
 ---
 
 ### 98. Organ Donation — Maastricht Categories
@@ -2405,8 +2215,6 @@
 **MUST KNOW:** **I = dead on arrival; II = failed resuscitation; IV = cardiac arrest in a brain-dead donor.** **I and II are UNCONTROLLED; III and IV are CONTROLLED.**
 
 **REMEMBER:** *Category III is the planned withdrawal — the controlled one.*
-
-`Q10131`
 
 ---
 
@@ -2431,8 +2239,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/12/30/picture2.jpg)
 
-`Q10212`
-
 ---
 
 ### 100. The Dentate Line and Inguinal Node Drainage
@@ -2452,8 +2258,6 @@
 
 **REMEMBER:** *Below the dentate line drains like skin; the testis drains where it came from.*
 
-`Q11349`
-
 ---
 
 ### 101. FDG-PET and Neuroendocrine Tumours
@@ -2472,8 +2276,6 @@
 **EXAM CONNECTION:** “Which will NOT be FDG-avid?” — the answer is the **best-differentiated, slowest-growing** tumour.
 
 **REMEMBER:** *Slow, well-differentiated tumours ignore FDG — find them with somatostatin receptors instead.*
-
-`Q11259`
 
 ---
 
@@ -2516,8 +2318,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/02/screenshot-2024-09-02-155902.png)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/91ea1c2efe24404aa594b8f26d57e44fx1280x4050.JPEG)
 
-`Q11317, Q11322, Q11300, Q11329, Q11332, Q11331, Q11298, Q11307, Q11330, Q11320, Q10012, Q10299, Q10306, Q10329, Q10330, Q10356, Q9962`
-
 ---
 
 ### 103. Duke Criteria for Infective Endocarditis (2023 Duke-ISCVID)
@@ -2540,8 +2340,6 @@
 
 **REMEMBER:** *Two cultures, typical organism — that’s a major criterion; since 2023, PET/CT, PCR and what the surgeon sees at operation count as major too.*
 
-`Q11840`
-
 ---
 
 ### 104. Addisonian Crisis After Steroid Withdrawal
@@ -2551,8 +2349,6 @@
 **MUST KNOW:** Long-term exogenous steroids suppress the hypothalamic–pituitary–adrenal axis, so the adrenal cannot mount a stress response when the drug stops or when surgery, sepsis or trauma intervenes. **Never stop long-term steroids abruptly, and give perioperative stress-dose cover.**
 
 **REMEMBER:** *Low sodium, high potassium, low sugar, low pressure — give hydrocortisone first and ask questions later.*
-
-`MF4784`
 
 ---
 

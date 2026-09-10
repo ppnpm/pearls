@@ -44,8 +44,6 @@
 
 **REMEMBER:** *Immediate memory is attention; recent memory is the hippocampus; remote memory is the last to go.*
 
-`Q8894, Q8902, Q8916`
-
 ---
 
 ### 2. The Mental Status Examination
@@ -67,8 +65,6 @@
 **ALSO KNOW:** **THE CLASSIFICATIONS IN CURRENT USE ARE DSM-5-TR (2022) AND ICD-11 (in force since 1 January 2022).** Changes worth knowing: **PROLONGED GRIEF DISORDER is now a formal diagnosis in both**; **ICD-11 replaced the ICD-10 schizophrenia SUBTYPES (paranoid, hebephrenic, catatonic) with a SYMPTOM-DIMENSION description, and merged the ICD-10 personality-disorder types into a SINGLE diagnosis graded MILD/MODERATE/SEVERE with trait qualifiers**; **GAMING DISORDER and COMPLEX PTSD are new ICD-11 entities**; and **GENDER INCONGRUENCE was moved out of the mental disorders chapter altogether.** Indian PG papers still quote ICD-10 numbering, so read which system the stem names.[^1]
 
 **REMEMBER:** *A patient can pass the fire question and still set the ward alight — watch, don’t just ask.*
-
-`Q9976, Q10259`
 
 ---
 
@@ -92,8 +88,6 @@
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/25/screenshot-2024-05-25-170300.jpg)
-
-`Q11180, Q11182, Q11882, Q11960, Q11880`
 
 ---
 
@@ -139,8 +133,6 @@
 
 **REMEMBER:** *The newest memories die first, and the oldest die last.*
 
-`Q10236, Q10233, Q10382, Q10268`
-
 ---
 
 ### 7. Depersonalisation vs Delusional Mood
@@ -161,8 +153,6 @@
 **EXAM CONNECTION:** Look for **“as if”** and for whether the change is in the **self** (depersonalisation) or in the **world** (derealisation/delusional mood). Preserved insight rules out the psychotic options.
 
 **REMEMBER:** *“I feel unreal” with insight is depersonalisation; “something ominous is happening” without insight is delusional mood.*
-
-`Q10936`
 
 ---
 
@@ -228,8 +218,6 @@
 
 **REMEMBER:** *Sudden, stressed, sad and female does well; slow, young, flat and male does badly.*
 
-`Q8905, Q8917`
-
 ---
 
 ### 13. Schizophrenia — History, Subtypes and Neurochemistry
@@ -252,8 +240,6 @@
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/12/screenshot-2024-03-12-142949.jpg)
-
-`Q11148, Q11149, Q11169, Q10441, Q10442`
 
 ---
 
@@ -300,8 +286,6 @@
 
 **REMEMBER:** *Melancholia wakes at four in the morning and cannot be cheered; atypical depression sleeps all day and brightens with good news.*
 
-`Q8900, Q8898, Q8911, Q8934, Q8896`
-
 ---
 
 ### 17. Postpartum Psychiatric Disorders
@@ -321,8 +305,6 @@
 **EXAM CONNECTION:** Day-4 tearfulness, mood swings and insomnia → **postpartum blues**.
 
 **REMEMBER:** *Blues by day five and gone by day fourteen; anything psychotic in the first two weeks is an emergency.*
-
-`Q8933`
 
 ---
 
@@ -345,8 +327,6 @@
 **ALSO KNOW:** **Lithium is the only psychotropic with a proven anti-suicidal effect.** Risk is highest in **depressive and mixed** episodes, not manic ones. *15% attempt; lithium is the protective drug.*
 
 **REMEMBER:** *Four episodes a year: stop the antidepressant, check the thyroid, start valproate.*
-
-`Q8938`
 
 ---
 
@@ -374,8 +354,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/b23ef537226e48a6889d0ecfe4f96f0d.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/eade6e43293b4095a6eea33c2cc85427x1280x1308.JPEG)
 
-`Q9906, Q10377, Q10108, Q10267`
-
 ---
 
 ### 20. Persistent Depressive Disorder and Tic Disorders
@@ -395,8 +373,6 @@
 **EXAM CONNECTION:** Duration for dysthymia in a child → **1 year**; motor tics alone for over a year in a 9-year-old → **persistent (chronic) motor tic disorder**.
 
 **REMEMBER:** *A year of low mood is a childhood’s worth; the urge before the movement makes it a tic.*
-
-`Q10014, Q10016`
 
 ---
 
@@ -420,8 +396,6 @@
 **ALSO KNOW:** *Psychotic depression needs two drugs — or ECT.*
 
 **REMEMBER:** *When the delusion says what the depression feels, the depression is the diagnosis.*
-
-`Q11292`
 
 ---
 
@@ -450,8 +424,6 @@
 
 **REMEMBER:** *Blues need company, depression needs treatment, psychosis needs admission.*
 
-`Q11319`
-
 ---
 
 ### 23. Paradoxical Suicide
@@ -472,8 +444,6 @@
 **EXAM CONNECTION:** Definition recall — the counter-intuitive timing is the entire point.
 
 **REMEMBER:** *Energy returns before hope does.*
-
-`MC7746, MF5804`
 
 ---
 
@@ -520,8 +490,6 @@
 
 **REMEMBER:** *The ritual buys relief and the relief buys the ritual — prevent the response and the loop starves.*
 
-`Q8915, Q8910`
-
 ---
 
 ### 27. Body Dysmorphic Disorder
@@ -543,8 +511,6 @@
 **ALSO KNOW:** **SSRIs are the drug of choice**, usually with **CBT** — especially when insight is poor or absent. **Surgery is contraindicated** because it does not touch the underlying psychopathology (and patients are typically dissatisfied afterwards). BDD is classified under **obsessive-compulsive and related disorders** in DSM-5 (with hoarding, trichotillomania, excoriation disorder). Requires **higher SSRI doses** and longer trials than depression. High suicide risk. *BDD = OCD-family → SSRI + CBT, never the scalpel.*
 
 **REMEMBER:** *The mirror is the compulsion — operating on it changes nothing.*
-
-`Q8940, Q8935`
 
 ---
 
@@ -572,8 +538,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/12/screenshot-2024-03-12-152954.jpg)
 ![question](https://cdn1.dailyrounds.org/uploads/aa238c6f54564eb89070cdc1975b62ab.JPEG)
 
-`Q10423, Q10424, Q10425, Q10429, Q10430, Q9916`
-
 ---
 
 ### 29. Anxiety Disorders — Classification and First-Line Treatment
@@ -593,8 +557,6 @@
 **EXAM CONNECTION:** NOT classified under anxiety disorders → **PTSD**; drug of choice for generalised anxiety disorder → **sertraline**; fear of places from which escape is difficult → **agoraphobia**; NOT an indication for ECT → **panic disorder**; nightmares and flashbacks 4 months after a fatal accident → **PTSD**.
 
 **REMEMBER:** *DSM-5 sorted these by mechanism, not by mood — which is why OCD and PTSD moved out.*
-
-`Q11154, Q11157, Q11155, Q10435, Q11165, Q11161, Q11162, Q11170`
 
 ---
 
@@ -621,8 +583,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6ab1892272934b0792b8745017664ccfx1280x6841.JPEG)
-
-`MD0861, MF1455`
 
 ---
 
@@ -670,8 +630,6 @@
 
 **REMEMBER:** *Unconscious symptom, unconscious motive — the moment intent appears, the diagnosis changes.*
 
-`Q8932, Q8907`
-
 ---
 
 ### 34. Somatic Symptom Disorders
@@ -691,8 +649,6 @@
 **EXAM CONNECTION:** Persistent belief of rotten intestines with normal investigations and repeated consultations → **hypochondriasis**.
 
 **REMEMBER:** *Symptoms bring you somatisation; a diagnosis brings you hypochondriasis.*
-
-`Q11166`
 
 ---
 
@@ -729,8 +685,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/03/13/screenshot-2024-03-13-155020.jpg)
 
-`Q11150, Q11160, Q11163, Q10433`
-
 ---
 
 ### 37. Alcoholic Hallucinosis vs Delirium Tremens
@@ -757,8 +711,6 @@
 **EXAM CONNECTION:** All four options may be true of both conditions — pick the one about **orientation and clear consciousness**, which is unique to hallucinosis.
 
 **REMEMBER:** *Hears voices but knows the date — hallucinosis. Confused and seeing things — delirium tremens.*
-
-`Q11793`
 
 ---
 
@@ -822,8 +774,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/71b5dbf4d86640e5b78dc4df64d08f98x1280x2592.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/159c16f93b7541e4b5663b45d540da78x1062x1682.JPEG)
 
-`Q8899, Q8912`
-
 ---
 
 ### 41. Parasomnias
@@ -843,8 +793,6 @@
 **EXAM CONNECTION:** Night-time screaming with no recall in a 4-year-old → **night terrors**.
 
 **REMEMBER:** *Early night, no memory, cannot be consoled = terror; late night, full recall, wakes properly = nightmare.*
-
-`Q9881`
 
 ---
 
@@ -873,8 +821,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/8f0dac50232a4eedac4dc9f639dfcb4e.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f57a309d87e9465dbf87fa566138b76bx1280x944.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e189481359b14d4fbee07cd798b5f043x1280x2592.JPEG)
-
-`MA5331, MF5078, MA5964`
 
 ---
 
@@ -925,8 +871,6 @@
 
 **REMEMBER:** *The alarm teaches the bladder; desmopressin only silences it.*
 
-`Q8906, Q8908, Q8941, Q8897, Q8937`
-
 ---
 
 ### 46. Autism Spectrum and Related Childhood Disorders
@@ -953,8 +897,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/26f3f33b358940a68e8f87ad4143eab9x600x287.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d8ef5a926c6d468ba9063acd5f2105afx800x533.PNG)
 
-`Q11167, Q11168, Q11159, Q11147`
-
 ---
 
 ### 47. Autism Spectrum Disorder and Its Overlap with ADHD
@@ -974,8 +916,6 @@
 **EXAM CONNECTION:** “Autism is characterised by” → **inattentive, impulsive, hyperactive** (tangential speech is the distractor — it belongs to psychosis).
 
 **REMEMBER:** *Autism breaks the social use of language, not its logical thread.*
-
-`Q9696`
 
 ---
 
@@ -997,8 +937,6 @@
 **EXAM CONNECTION:** “Not used in treatment” → **clozapine**. The autism question answers **early handedness** as the feature that is absent.
 
 **REMEMBER:** *Clozapine spares the striatum, so it cannot stop tics.*
-
-`MC2855, MG7180, MC2643`
 
 ---
 
@@ -1054,8 +992,6 @@
 
 **REMEMBER:** *Schizoid doesn’t want people; avoidant wants them and is afraid; schizotypal is odd whether or not anyone is there.*
 
-`Q9882, Q9883, Q10058`
-
 ---
 
 ### 53. Antisocial Personality Disorder
@@ -1075,8 +1011,6 @@
 **EXAM CONNECTION:** Charming man with repeated fights and police cases → **antisocial personality disorder**.
 
 **REMEMBER:** *Charm in the room, chaos in the record — believe the record.*
-
-`Q11878, Q11956`
 
 ---
 
@@ -1112,8 +1046,6 @@
 
 **REMEMBER:** *Starvation raises the cholesterol and the cortisol, and lowers everything you would expect it to.*
 
-`Q10445`
-
 ---
 
 ### 56. SCOFF Questionnaire
@@ -1148,8 +1080,6 @@
 
 **REMEMBER:** *The SSRI side effect nobody wants in depression is exactly the effect wanted here.*
 
-`Q10403, Q10084`
-
 ---
 
 ### 58. Premature Ejaculation — Behavioural Techniques
@@ -1170,8 +1100,6 @@
 **EXAM CONNECTION:** Eponym matching. Both Semans’ and the squeeze technique appear as separate questions with the same underlying condition.
 
 **REMEMBER:** *Stop before the point of no return, and the threshold rises.*
-
-`MF0814, MF8199`
 
 ---
 
@@ -1199,8 +1127,6 @@
 
 **REMEMBER:** *In stupor the lights are on and nobody moves; in delirium the lights themselves are flickering.*
 
-`Q8895, Q8903, Q8904, Q8914`
-
 ---
 
 ### 60. Psychiatric Presentations of Endocrine Disease
@@ -1220,8 +1146,6 @@
 **EXAM CONNECTION:** Addison disease resembles → **depression**; tactile hallucinations in chronic cocaine use → **formication**.
 
 **REMEMBER:** *Before you diagnose a mind, examine the glands.*
-
-`Q8909, Q8936`
 
 ---
 
@@ -1243,8 +1167,6 @@
 
 **REMEMBER:** *FTD loses the brakes before it loses the memories.*
 
-`MC0323, MC3551`
-
 ---
 
 ### 62. Assessing Delirium — the CAM Algorithm
@@ -1265,8 +1187,6 @@
 **EXAM CONNECTION:** The tool name and its 1+2+(3 or 4) rule are both asked, as is the **first-line drug (haloperidol, not a benzodiazepine)**.
 
 **REMEMBER:** *Acute, fluctuating and inattentive — the rest is detail.*
-
-`MC6852, MC0283, MD0205`
 
 ---
 
@@ -1312,8 +1232,6 @@
 
 **REMEMBER:** *Anticholinergic for the stiff and twisted; propranolol for the one who cannot sit down.*
 
-`Q10436, Q11172`
-
 ---
 
 ### 66. Lithium Levels and Monitoring
@@ -1334,8 +1252,6 @@
 
 **REMEMBER:** *Twelve hours after the dose, and never let the patient run dry of salt or water.*
 
-`Q11178`
-
 ---
 
 ### 67. Serotonin Syndrome
@@ -1355,8 +1271,6 @@
 **EXAM CONNECTION:** Agitation, seizures, hyperreflexia and tremor after adding an MAOI and amitriptyline → **cyproheptadine**.
 
 **REMEMBER:** *Clonus and sweat means serotonin; rigidity and a huge CK means neuroleptic malignant syndrome.*
-
-`Q11889`
 
 ---
 
@@ -1380,8 +1294,6 @@
 
 **REMEMBER:** *Sedate the catatonic, not the delirious.*
 
-`Q11883, Q11961, Q11888, Q11963, Q11185, Q11175`
-
 ---
 
 ### 69. Valproate: Hepatotoxicity and Hyperammonaemia
@@ -1402,8 +1314,6 @@
 **EXAM CONNECTION:** Match the toxicity to the drug. **Ammonia and liver → valproate; kidney and thyroid → lithium; marrow and sodium → carbamazepine; rash → lamotrigine; stones and glaucoma → topiramate.**
 
 **REMEMBER:** *Valproate poisons the mitochondrion — the liver fattens and the ammonia climbs.*
-
-`Q10960`
 
 ---
 
@@ -1426,8 +1336,6 @@
 
 **REMEMBER:** *The one anaesthetic that does not fight the seizure.*
 
-`MC3381`
-
 ---
 
 ### 71. Antidepressant Discontinuation and Side Effects
@@ -1447,8 +1355,6 @@
 **EXAM CONNECTION:** “Least likely adverse effect” of an SSRI → **sialorrhoea** (SSRIs dry the mouth). Hoigné is a pure eponym recall.
 
 **REMEMBER:** *Short half-life means a hard landing.*
-
-`MC3474, MC5211, MF0840`
 
 ---
 
@@ -1516,8 +1422,6 @@
 
 **REMEMBER:** *Expressive therapy stirs anxiety up; supportive therapy settles it down — pick by how much the patient can bear.*
 
-`Q8939, Q8913`
-
 ---
 
 ### 77. Defence Mechanisms and Psychosexual Fixation
@@ -1542,8 +1446,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/9a29c19d8f3946b9a9b97f6fafcd7f54.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9d927c604d6c4572afc3181efaad5621x1280x3468.JPEG)
 
-`Q10190, Q9982, Q10370`
-
 ---
 
 ### 78. Freud’s Structural Model
@@ -1564,8 +1466,6 @@
 
 **REMEMBER:** *Conscience says “don’t”; the ego ideal says “become”.*
 
-`Q11171, Q11173`
-
 ---
 
 ### 79. Abreaction vs Catharsis
@@ -1585,8 +1485,6 @@
 **EXAM CONNECTION: **Definition-matching. Note the precise wording:** “after consciously reliving a repressed painful experience”** = abreaction, not plain catharsis.
 
 **REMEMBER:** *Catharsis releases the emotion; abreaction relives the memory first.*
-
-`MC4279, MA7152, MA4462, MC7587`
 
 ---
 

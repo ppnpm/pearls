@@ -49,8 +49,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/e7043d29a273452490437193fddb2028.JPEG)
 ![question](https://media.cerebellumacademy.com/media/public/image_ba8Uepe.png)
 
-`Q8810, Q10089, Q10354`
-
 ---
 
 ### 2. Modified Mallampati Grading
@@ -74,8 +72,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/e7043d29a273452490437193fddb2028.JPEG)
 
-`Q10225, Q10089`
-
 ---
 
 ### 3. Perioperative Platelet and Prophylaxis Thresholds
@@ -94,8 +90,6 @@
 **EXAM CONNECTION:** Two number-recall stems: the **50,000** surgical threshold, and **cefazolin** for cardiac surgery prophylaxis. Both are pure recall — no reasoning available.
 
 **REMEMBER:** *Fifty thousand to cut, ten thousand per bag, cefazolin within the hour.*
-
-`MF9191, MF8120`
 
 ---
 
@@ -122,8 +116,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7f3e319aa6174d5d9044e026fef3eed6x1176x1512.PNG)
 
-`Q8808`
-
 ---
 
 ### 5. Endotracheal Tube Cuff Pressure
@@ -143,8 +135,6 @@
 **EXAM CONNECTION:** Direct numerical recall (25 cmH2O / 20–30 range).
 
 **REMEMBER:** *Capillaries perfuse at 30 — stay under it, or you will be treating stenosis in six weeks.*
-
-`Q10221`
 
 ---
 
@@ -169,8 +159,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/18b974d106b84f62a622028c5005668d.png)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6c7938ac77534f1aa0e15552460ddc46x1280x1826.JPEG)
-
-`Q8817, Q9978`
 
 ---
 
@@ -202,8 +190,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/13ad5af14e2f4084adedff8ce343d63fx1280x1556.JPEG)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/12/18/picture15_ekic22E.jpg)
 
-`Q10252, Q10215`
-
 ---
 
 ### 8. Endobronchial Intubation
@@ -225,8 +211,6 @@
 **ALSO KNOW:** When the endotracheal tube enters a **mainstem bronchus (usually the RIGHT)**, only one lung is ventilated — the reduced volume available causes a **sudden rise in peak inspiratory pressure**. The **right main bronchus is wider, shorter and more vertical**, so a tube advanced too far naturally goes right — leaving the left lung to collapse. Signs: **unilateral chest rise, absent air entry on the left, falling SpO₂, high PIP**. Confirm by **auscultation and tube depth (~21 cm in women, 23 cm in men at the incisors)**; the fix is to **withdraw the tube**, not to increase pressure. Other causes of a sudden PIP rise: **bronchospasm, kinked/blocked tube, pneumothorax, secretions, light anaesthesia/chest wall rigidity**. *High PIP + one-sided chest = pull the tube back.*
 
 **REMEMBER:** *One lung, half the compliance, twice the pressure — and it is always the right side.*
-
-`Q10440`
 
 ---
 
@@ -253,8 +237,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a6f73de7a27844a1940d2bc2aa82d1aax1280x3999.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6b7731ed4b024568803d8aa1b4f787acx1280x3099.JPEG)
 
-`Q10747`
-
 ---
 
 ### 10. Maxillofacial Trauma — Which Airway Route
@@ -274,8 +256,6 @@
 **EXAM CONNECTION:** RTA + maxillofacial trauma + low SpO2 → **orotracheal intubation**.
 
 **REMEMBER:** *Nothing goes up the nose in a mid-face or base-of-skull fracture.*
-
-`Q10744`
 
 ---
 
@@ -299,8 +279,6 @@
 
 **IMAGES:**
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/e427c2ec5e5815509d8b38ab8c8d8f6d.webp)
-
-`Q10437`
 
 ---
 
@@ -326,8 +304,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4d4a089781de4526bad5e8a55be3978ex1280x1063.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/695009ac8fd04796901480b9bf91328a.PNG)
 
-`Q10753, Q8816`
-
 ---
 
 ### 13. Nasopharyngeal vs Oropharyngeal Airway
@@ -351,8 +327,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/69a1ea2e15c54b5a8e3e144fe0293f69.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/69f20e42939f424b84f1df3d8aae0838x1280x960.JPEG)
-
-`MG6768`
 
 ---
 
@@ -380,8 +354,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/c3eb2f02713d4f108ef0c9cca63d9874.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f4593cdc76ff47e7b1c27cfd8868f381x1279x904.JPEG)
 
-`MF1362, MA2839, MD0678`
-
 ---
 
 ### 15. Intubating (Fastrach) LMA
@@ -407,8 +379,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e4d267bcfe264d7e9c9f9c723c98b18cx1063x1381.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/26de9b0b9395464abb55055aab4255aax1280x1662.JPEG)
 
-`MA2271`
-
 ---
 
 ## Intravenous Induction Agents
@@ -430,8 +400,6 @@
 **EXAM CONNECTION:** “Induction agent causing adrenal cortex suppression” → **etomidate**.
 
 **REMEMBER:** *Etomidate protects the heart and punishes the adrenal — 11β-hydroxylase.*
-
-`Q10006`
 
 ---
 
@@ -455,8 +423,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/be48d8c17d4b421bb2e752e37fe3e621.JPEG)
-
-`MA5744, MA5117, MA5093, MA5035`
 
 ---
 
@@ -512,8 +478,6 @@
 
 **REMEMBER:** *MAC measures potency (low MAC = potent); blood:gas coefficient measures speed.*
 
-`Q10756`
-
 ---
 
 ### 21. Metabolism of the Volatile Agents
@@ -533,8 +497,6 @@
 **EXAM CONNECTION:** “Which is least metabolised?” → desflurane. Or metabolism percentage matching.
 
 **REMEMBER:** *Metabolism = toxicity. Methoxyflurane kidneys, halothane liver, desflurane neither.*
-
-`Q10743`
 
 ---
 
@@ -556,8 +518,6 @@
 
 **REMEMBER:** *Halothane relaxes every smooth muscle it meets — good for the airway, disastrous in labour.*
 
-`Q10749, Q10740`
-
 ---
 
 ### 23. Diffusion Hypoxia
@@ -576,8 +536,6 @@
 **EXAM CONNECTION:** “Diffusion hypoxia is seen during” → **recovery/reversal of anaesthesia**.
 
 **REMEMBER:** *N2O rushes in at induction (second gas effect) and rushes out at the end (diffusion hypoxia) — so finish on 100% oxygen.*
-
-`Q10754`
 
 ---
 
@@ -603,8 +561,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2b4742a236574d888df15bbc175acb5dx1280x1280.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/07a4b3ffcc41420c90d72d54795fba78x860x68.PNG)
 
-`MF4933, MA5857, MA5854, MA5863`
-
 ---
 
 ### 25. Desflurane — Not for Inhalational Induction
@@ -624,8 +580,6 @@
 **EXAM CONNECTION:** “Not used for induction in paediatric patients” → **desflurane**. Halothane is the tempting distractor because of its toxicity, but it *can* be used; desflurane cannot.
 
 **REMEMBER:** *Sevo goes down sweet, desflurane fights back.*
-
-`MA6552`
 
 ---
 
@@ -651,8 +605,6 @@
 
 **REMEMBER:** *Fade means non-depolarising (or phase II); sustained means a true depolarising block.*
 
-`Q8807, Q10346`
-
 ---
 
 ### 27. Reversal of Neuromuscular Blockade
@@ -672,8 +624,6 @@
 **EXAM CONNECTION:** “Reversal agent for vecuronium” → **neostigmine** (sugammadex if offered). Dantrolene and baclofen are the distractors.
 
 **REMEMBER:** *Neostigmine floods the junction; sugammadex kidnaps the drug — and only for roc and vec.*
-
-`Q8867`
 
 ---
 
@@ -695,8 +645,6 @@
 
 **REMEMBER:** *Hofmann elimination needs no organ — only body temperature and pH.*
 
-`Q10262, Q10755`
-
 ---
 
 ### 29. Suxamethonium Apnoea
@@ -717,8 +665,6 @@
 
 **REMEMBER:** *Big dose → phase II block. Normal dose but prolonged → atypical enzyme. Either way: ventilate and wait.*
 
-`Q10739, Q10746, Q10752`
-
 ---
 
 ### 30. Sugammadex
@@ -738,8 +684,6 @@
 **EXAM CONNECTION:** “Rocuronium given, failed intubation, immediate reversal” → **sugammadex**, not neostigmine. The examiner is testing that you know neostigmine cannot reverse a deep block.
 
 **REMEMBER:** *Neostigmine competes; sugammadex kidnaps.*
-
-`MG5801`
 
 ---
 
@@ -777,8 +721,6 @@
 
 **REMEMBER:** *Fill, squeeze and TILT THE HEAD DOWN — never sit them up.*
 
-`Q10218, Q8813, Q10421`
-
 ---
 
 ### 33. Bier’s Block (IVRA)
@@ -801,8 +743,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/d0eacc915ce34ba589bf5dc53b2308d3.JPEG)
-
-`Q8815`
 
 ---
 
@@ -829,8 +769,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ca40227eb560417699f97d0d88a8b4c6x1280x1717.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/83b981b2e07545d08c3889d69545fc3ex1200x799.JPEG)
 
-`Q11850`
-
 ---
 
 ### 35. Retrobulbar Block
@@ -854,8 +792,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/5eb4eeb027f8404bbbb71475c1295991.JPEG)
 
-`MA5812`
-
 ---
 
 ### 36. Contraindications to Spinal Anaesthesia
@@ -875,8 +811,6 @@
 **EXAM CONNECTION:** “Not an absolute contraindication” → **myelopathy / pre-existing neurological deficit**. The other three options are always drawn from the absolute list.
 
 **REMEMBER:** *Refusal, infection, pressure, and bleeding are absolute; old deficits just need documenting.*
-
-`MA6140, MC5206`
 
 ---
 
@@ -943,8 +877,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/688fb994a2b44b8da42204a99a01db42.PNG)
 
-`Q8814`
-
 ---
 
 ### 41. Analgesia for Multiple Rib Fractures
@@ -965,8 +897,6 @@
 
 **REMEMBER:** *In rib fractures you are not treating pain, you are preventing pneumonia.*
 
-`Q8812`
-
 ---
 
 ### 42. Coeliac Plexus Block
@@ -986,8 +916,6 @@
 **EXAM CONNECTION:** “Most common complication” → **hypotension** (or diarrhoea). “Most feared/serious complication” → **paraplegia**. Read which one is asked.
 
 **REMEMBER:** *Block the splanchnic sympathetics and the blood pools in the belly — fill the tank first.*
-
-`Q10829`
 
 ---
 
@@ -1016,8 +944,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/e9e7b14b36424f5ebd4f64378a1ea050.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/88d55e09cb5847649f01ad13a2ceec94x1280x426.JPEG)
 
-`Q8819, Q10175`
-
 ---
 
 ### 44. Cylinder Colour Codes and Heliox
@@ -1038,8 +964,6 @@
 
 **REMEMBER:** *Brown = helium = less dense = less work of breathing.*
 
-`Q10401, Q10742`
-
 ---
 
 ### 45. Soda Lime
@@ -1059,8 +983,6 @@
 **EXAM CONNECTION:** Presented as a multi-statement “which are true” grid. The numbers most often falsified: **23 L (not 15)**, **Ca(OH)₂ 80% (not NaOH)**, **water 15% (not 5%)**.
 
 **REMEMBER:** *Calcium does the work, sodium does the catalysis, silica does the holding together.*
-
-`MA4129`
 
 ---
 
@@ -1086,8 +1008,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e0d65c4f15264135884407f1f0571accx1280x1076.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3ca9b5f3a06f4027b9626096e9c988f7x1280x1026.JPEG)
 
-`MA4161, MA2294`
-
 ---
 
 ### 47. Mapleson Circuits
@@ -1107,8 +1027,6 @@
 **EXAM CONNECTION:** Always the same axis: which circuit for **spontaneous** (A) vs **controlled** (D). Paediatric variants (E and F) are asked separately.
 
 **REMEMBER:** *A for Alone-breathing, D for Driven-breathing.*
-
-`MC3995`
 
 ---
 
@@ -1134,8 +1052,6 @@
 
 **REMEMBER:** *Oesophagus for speed, pulmonary artery for accuracy — rectum lags and reads high.*
 
-`Q10388`
-
 ---
 
 ### 49. Ringer’s Lactate — Composition
@@ -1155,8 +1071,6 @@
 **EXAM CONNECTION:** Straight composition-matching question.
 
 **REMEMBER:** *130-109-4-3-28: near-physiological, mildly alkalinising, and never in the same line as blood.*
-
-`Q10745`
 
 ---
 
@@ -1178,8 +1092,6 @@
 
 **REMEMBER:** *Same systolic, suddenly higher diastolic — you are in the artery.*
 
-`Q10738`
-
 ---
 
 ### 51. Platelets — Highest Risk of Bacterial Contamination
@@ -1200,8 +1112,6 @@
 **EXAM CONNECTION:** “Blood component with the maximum risk of bacterial contamination” → **platelet concentrate**.
 
 **REMEMBER:** *Platelets live at room temperature — so do the bacteria.*
-
-`Q10757`
 
 ---
 
@@ -1226,8 +1136,6 @@
 
 **REMEMBER:** *90% saturation = 60 mmHg — below that you are off the cliff.*
 
-`Q8804`
-
 ---
 
 ### 53. ARDS — Ventilation Targets
@@ -1247,8 +1155,6 @@
 
 **REMEMBER:** *6 mL/kg predicted, plateau under 30, FiO2 under 0.6, saturation 88–95 — and prone them if severe.*
 
-`Q8809`
-
 ---
 
 ### 54. Assist-Control Ventilation and Respiratory Alkalosis
@@ -1267,8 +1173,6 @@
 **EXAM CONNECTION:** “Which mode is associated with respiratory alkalosis?” → **ACMV**.
 
 **REMEMBER:** *Assist-control gives a full breath every time the patient asks — ask often and you blow off CO2.*
-
-`Q8802, Q10169`
 
 ---
 
@@ -1290,8 +1194,6 @@
 
 **REMEMBER:** *20 stops the EEG, 10 kills the cell — everything in between is penumbra worth saving.*
 
-`Q10737`
-
 ---
 
 ### 56. Anatomical Dead Space
@@ -1311,8 +1213,6 @@
 **EXAM CONNECTION:** “Anatomical dead space is increased by all EXCEPT” → **bronchoconstrictors**.
 
 **REMEMBER:** *Wider and longer airways = more dead space. Intubation shortens the pipe and halves it.*
-
-`Q10741`
 
 ---
 
@@ -1349,8 +1249,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture25.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture26.jpg)
 
-`Q10870`
-
 ---
 
 ### 58. Initial Ventilator Settings
@@ -1369,8 +1267,6 @@
 **EXAM CONNECTION:** “Which initial setting is NOT correct?” → the tidal volume option, and the trap word is **“actual body weight”** or the number **12 mL/kg**. Both are wrong for the same reason.
 
 **REMEMBER:** *Ventilate the lungs the patient was born with, not the body they carry.*
-
-`MD4631`
 
 ---
 
@@ -1397,8 +1293,6 @@
 
 **REMEMBER:** *Push fast (100–120), push hard (5–6 cm), let it come all the way back, and swap every 2 minutes.*
 
-`Q8803, Q10358, Q10349`
-
 ---
 
 ### 60. Adrenaline in CPR
@@ -1418,8 +1312,6 @@
 **EXAM CONNECTION:** “True about adrenaline in CPR” → **can be given intratracheally**. The distractors are intracardiac superiority and the coarse→fine reversal.
 
 **REMEMBER:** *1 mg every 3–5 min; fine becomes coarse; intracardiac is history.*
-
-`Q10748`
 
 ---
 
@@ -1442,8 +1334,6 @@
 
 **REMEMBER:** *Children arrest from lack of air, not lack of rhythm — 15:2 when there are two of you.*
 
-`Q10751, Q10349`
-
 ---
 
 ### 62. Recovery Position
@@ -1463,8 +1353,6 @@
 **EXAM CONNECTION:** Vignette of an unresponsive but breathing patient found prone → **recovery position**.
 
 **REMEMBER:** *Breathing with a pulse = roll them; gasping = start compressions.*
-
-`Q10230`
 
 ---
 
@@ -1490,8 +1378,6 @@
 
 **REMEMBER:** *Volatiles and sux trigger it; rising EtCO2 warns you; dantrolene saves them.*
 
-`Q10216, Q10388`
-
 ---
 
 ### 64. Commonest Sequel of Day-Care Anaesthesia
@@ -1511,8 +1397,6 @@
 **EXAM CONNECTION:** “Most common adverse effect after day-care anaesthesia” → **drowsiness** (PONV is the trap — it is the commonest cause of *admission*).
 
 **REMEMBER:** *Drowsiness is commonest; PONV is what stops them going home.*
-
-`Q10072`
 
 ---
 
@@ -1534,8 +1418,6 @@
 
 **REMEMBER:** *Palm up protects the ulnar nerve.*
 
-`Q10750`
-
 ---
 
 ### 66. Anaesthesia Eponyms and History
@@ -1553,8 +1435,6 @@
 **EXAM CONNECTION:** Straight “who coined/introduced” recall — these appear reliably in Anaesthesia papers.
 
 **REMEMBER:** *Holmes named it, Morton showed it, Simpson chloroformed it, Lundy balanced it.*
-
-`Q10736`
 
 ---
 
@@ -1575,8 +1455,6 @@
 **EXAM CONNECTION:** The stem gives you a **number**: EtCO₂ falling 40 → 14 mmHg during neck or sitting surgery. The distractors (vagal stimulation, carotid body, sympathetic overactivity) do not drop EtCO₂ — that single sign is diagnostic.
 
 **REMEMBER:** *Open vein above the heart, EtCO₂ falls off a cliff.*
-
-`MC5207`
 
 ---
 

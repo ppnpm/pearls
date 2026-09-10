@@ -45,8 +45,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/edfec934c9dd4e948efdec9aa4fdee9e.JPEG)
 
-`Q9945`
-
 ---
 
 ### 2. Myocarditis — Diagnostic Categories
@@ -67,8 +65,6 @@
 **EXAM CONNECTION:** Multi-select — **palpitations** is the item that must be excluded from “subclinical”.
 
 **REMEMBER:** *Subclinical means the tests are abnormal but the patient feels nothing — the moment they get symptoms, it is “probable”.*
-
-`Q10021, Q10022`
 
 ---
 
@@ -94,8 +90,6 @@
 **IMAGES:**
 ![explanation](https://cdn1.dailyrounds.org/uploads/505052b1f4c841f68d3d076123915607x625x230.PNG)
 
-`Q10092`
-
 ---
 
 ### 4. NYHA vs mMRC — Grading Breathlessness
@@ -115,8 +109,6 @@
 **EXAM CONNECTION:** Breathless on an ordinary daily activity in a cardiac patient → **NYHA II** (and mMRC 5 does not exist).
 
 **REMEMBER:** *NYHA is the heart, mMRC is the lung — and comfortable at rest but breathless walking to the toilet is class III.*
-
-`Q10283`
 
 ---
 
@@ -140,8 +132,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/18bbe4a977c84587903e8637a0d9303cx1280x1005.JPEG)
-
-`Q11707`
 
 ---
 
@@ -168,8 +158,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d9de18e8421d4e87965d2b4915fe52c6x1280x960.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/70e10acc7b9f4c249713071ae9311e21x1280x1789.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/18bbe4a977c84587903e8637a0d9303cx1280x1005.JPEG)
-
-`Q11716, Q11726, Q11728`
 
 ---
 
@@ -198,8 +186,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4412e8eb72994d2b9514a06d7a6b99cbx1280x2052.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7d6c4d5ed4a54f70b2030d71f3d06969x1280x1697.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d8076b463c924c27b49b4479ac3c46b2x1279x1416.JPEG)
-
-`Q11720, Q11721, Q11733`
 
 ---
 
@@ -230,8 +216,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2fbcf5dbbd664b00b0670113380120dfx720x363.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/74fdb0fbf87c4ba3af78ce55dd0c7864x530x614.PNG)
 
-`Q11740, Q11768`
-
 ---
 
 ### 9. Statin Intensity After Myocardial Infarction
@@ -257,8 +241,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a664fd309c9e44d8bec9a2eaae5a64a5x1280x1803.JPEG)
 
-`Q11743`
-
 ---
 
 ### 10. Dextrocardia on the ECG
@@ -281,8 +263,6 @@
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture19.jpg)
-
-`Q10854`
 
 ---
 
@@ -310,8 +290,6 @@
 
 **REMEMBER:** *Broken heart: the apex stops, the base squeezes, the arteries are clean.*
 
-`Q10927`
-
 ---
 
 ### 12. Hypertensive Emergency: Labetalol
@@ -331,8 +309,6 @@
 **EXAM CONNECTION:** Two decisions are being tested — **is there end-organ damage (emergency vs urgency)** and **which agent fits the scenario**. Labetalol is the default safe answer unless the stem names dissection, phaeochromocytoma or pulmonary oedema.
 
 **REMEMBER:** *Lower it fast enough to save the organs, slowly enough not to starve the brain — 25% in the first hour.*
-
-`Q10918`
 
 ---
 
@@ -358,8 +334,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/aa3c283d27fc4d788789de1c221daff7.PNG)
 
-`Q11012`
-
 ---
 
 ### 14. Brugada Syndrome
@@ -384,8 +358,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/be306bd6f6fd4cc08068642c7b672f3dx1159x572.PNG)
 
-`Q11040`
-
 ---
 
 ### 15. Which Heart Failure Drugs Change Mortality
@@ -405,8 +377,6 @@
 **EXAM CONNECTION:** The stem asks what **“delays progression”** or **“improves survival”** — not what relieves breathlessness. Diuretic options are always the trap.
 
 **REMEMBER:** *Diuretics dry the patient; ACE inhibitors and beta-blockers keep them alive.*
-
-`Q11196`
 
 ---
 
@@ -441,8 +411,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dc7631cfd820449aa194c6b97d9224e4x1280x878.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b65557ee28394d6986b00e6f57841f29x1279x840.JPEG)
 
-`Q11851`
-
 ---
 
 ### 17. Loud S1 vs Soft S1
@@ -463,8 +431,6 @@
 
 **REMEMBER:** *A valve that swings far bangs loud; a stiff valve barely whispers.*
 
-`MC0049`
-
 ---
 
 ### 18. Central vs Peripheral Cyanosis
@@ -484,8 +450,6 @@
 **EXAM CONNECTION:** “Not a cause of central cyanosis” → **hypothermia**. Methaemoglobinaemia is included to check you know abnormal haemoglobins count as *central*.
 
 **REMEMBER:** *If the tongue is blue, it is central.*
-
-`MF4966`
 
 ---
 
@@ -511,8 +475,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b99f9978e8ee438bbd08eedad63b4d74x1280x3028.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d4668925fa3d4297b60f21f9059bfdc1x1280x1241.JPEG)
-
-`MF1433`
 
 ---
 
@@ -541,8 +503,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/321f89fee89642ff8d4791a7741dd90ax1280x1311.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/70e10acc7b9f4c249713071ae9311e21x1280x1789.JPEG)
 
-`MG0988`
-
 ---
 
 ### 21. Cor Pulmonale
@@ -566,8 +526,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/2f76f0e1f4c54dd0acdfdbe17fe53558.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/20f8fcfb42a241858420a39210256d38x1280x1083.JPEG)
-
-`MF2481`
 
 ---
 
@@ -610,8 +568,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/25067efa869941baa6a40b54599b371ax1049x213.PNG)
 ![question](https://cdn1.dailyrounds.org/uploads/56d3f3941c6d447d9e74e846087b52a0.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e2b6162528124a3ba471869ec72fd6b5x1280x774.JPEG)
-
-`MB3782, MB3778, MA0616, MB3694`
 
 ---
 
@@ -662,8 +618,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/eb36c4e28e1b4be1893c1244b5398713.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/13dd0f1ab9d149ba9c46dd72848559ebx488x422.PNG)
 
-`Q10109`
-
 ---
 
 ### 26. Acute Exacerbation of COPD
@@ -687,8 +641,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/eda7f0cf5ada48ac9b474ce986cfb27fx1280x1348.JPEG)
-
-`Q11715, Q11712`
 
 ---
 
@@ -721,8 +673,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4797840fdd004525bcb2d0a73a5421cax598x445.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c279eade67fd456eb0eb0acea3da1d7ax1279x970.JPEG)
 
-`Q11717`
-
 ---
 
 ### 28. Stepwise Management of Asthma
@@ -747,8 +697,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/633f242e7352405fa619711d7af9e1eex1280x4038.JPEG)
-
-`Q11725`
 
 ---
 
@@ -777,8 +725,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cafe42500b644382ad44f84bba9e324ax1280x1019.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c11515d308804449887a93f28f2e9a68x1280x846.PNG)
 
-`Q11734`
-
 ---
 
 ### 30. Mycoplasma Pneumonia
@@ -799,8 +745,6 @@
 
 **REMEMBER:** *No cell wall, no beta-lactam — a macrolide for the fried-egg colony.*
 
-`Q11777`
-
 ---
 
 ### 31. GOLD Staging of COPD
@@ -820,8 +764,6 @@
 **EXAM CONNECTION:** The stem gives post-bronchodilator values and asks which needs further evaluation → **FEV1 <0.8 (80%) with FEV1/FVC <0.7**.
 
 **REMEMBER:** *Ratio under 0.7 makes the diagnosis; FEV1 grades the severity — both after the bronchodilator.*
-
-`Q8806`
 
 ---
 
@@ -849,8 +791,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/09f02c63497141728eaf19b02048faeb.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ffbd97e6efff47eda6268df1bde7ed6fx1280x1110.JPEG)
 
-`Q10957`
-
 ---
 
 ### 33. CURB-65 and the Site of Care in Pneumonia
@@ -871,8 +811,6 @@
 **EXAM CONNECTION:** Count the points in the stem. **Confusion + tachypnoea + age ≥65 = 3 → ICU + IV therapy.** Oral options are wrong at that score.
 
 **REMEMBER:** *Two gets a bed, three gets the ICU.*
-
-`Q10984`
 
 ---
 
@@ -895,8 +833,6 @@
 
 **REMEMBER:** *In shock, the diaphragm steals the blood the organs need — ventilate to buy it back.*
 
-`Q11804`
-
 ---
 
 ### 35. Kartagener Syndrome
@@ -917,8 +853,6 @@
 **EXAM CONNECTION:** “Not a component of the triad” → **male infertility**. Note the careful wording — it is a feature of the *disease*, just not of the *triad*.
 
 **REMEMBER:** *Cilia clear mucus, set sidedness and swim sperm — but the triad only names three.*
-
-`ME9644`
 
 ---
 
@@ -953,8 +887,6 @@
 
 **REMEMBER:** *Wasted and fasciculating, yet spastic and hyperreflexic, with normal sensation — only ALS does both.*
 
-`Q9473`
-
 ---
 
 ### 38. Normal Pressure Hydrocephalus vs Binswanger Disease
@@ -976,8 +908,6 @@
 **EXAM CONNECTION:** “Underlying cause of the incontinence” in NPH → **stretching of descending cortical fibres**. And triad + **hypertension with white matter change** → **Binswanger**.
 
 **REMEMBER:** *Wet, wacky and wobbly — but shunt them for the gait, and only if the ventricles are big without the sulci.*
-
-`Q9479, Q9483`
 
 ---
 
@@ -1001,8 +931,6 @@
 **REMEMBER:** *Sacked from work, rude to the family, and eating two boxes of biscuits a day — that is tau in the frontal lobe, not amyloid in the hippocampus.*
 ![[Neuropathology-of-Picks-disease-Pick-bodies-arrows-in-frontal-cortex-A-B-3931444241.png]]
 
-`Q9481`
-
 ---
 
 ### 40. Alzheimer Disease Genetics
@@ -1022,8 +950,6 @@
 **EXAM CONNECTION:** Straight gene–chromosome matching; **APP–21 is the anchor** to work from.
 
 **REMEMBER:** *APP is 21 (hence Down syndrome), PSEN1 is 14, PSEN2 is 1, APOE is 19.*
-
-`Q9484`
 
 ---
 
@@ -1046,8 +972,6 @@
 
 **REMEMBER:** *Cluster attacks are too fast for a tablet — inject or give high-flow oxygen; and amitriptyline only prevents, never aborts.*
 
-`Q9480, Q9482`
-
 ---
 
 ### 42. Rimegepant and the Gepants
@@ -1068,8 +992,6 @@
 
 **REMEMBER:** *Gepants block CGRP without squeezing arteries — which is why the cardiac patient can have one and a triptan is off-limits.*
 
-`Q9478`
-
 ---
 
 ### 43. Headache Red Flags — SNOOP
@@ -1089,8 +1011,6 @@
 **EXAM CONNECTION:** “Which is NOT indicative of serious pathology?” → **chronic cocaine use**.
 
 **REMEMBER:** *SNOOP. And in anyone over 50 with a tender temple, give steroids before you biopsy.*
-
-`Q9485, Q9942`
 
 ---
 
@@ -1116,8 +1036,6 @@
 **IMAGES:**
 ![explanation](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/question_explanation/3a725038-932b-4c75-8f96-4b46d9adb87b.jpg)
 
-`Q9486`
-
 ---
 
 ### 45. Guillain–Barré Syndrome and it’s Miller–Fisher Variant
@@ -1139,8 +1057,6 @@
 **EXAM CONNECTION:** “All true about Miller–Fisher EXCEPT” → “**a type of axonal neuropathy**”. And “false about GBS” → “**plasmapheresis is not effective**”.
 
 **REMEMBER:** *GQ1b sits in the eye-movement nerves — hence ophthalmoplegia, ataxia and areflexia, and it is demyelinating.*
-
-`Q9488, Q9493`
 
 ---
 
@@ -1173,8 +1089,6 @@
 ![explanation](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/question_explanation/971e39a5-b689-4156-a3ff-aacd6bd63606.jpg)
 ![explanation](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/question_explanation/fc4e7a75-592b-4ebb-8750-58f88fb06136.jpg)
 
-`Q9494, Q9495, Q9490`
-
 ---
 
 ### 47. Compressive Myelopathy and Spinal Shock
@@ -1195,8 +1109,6 @@
 **EXAM CONNECTION:** “Which would NOT support compressive myelopathy?” → the intended answer is **hypotonia**, but note that it can occur in spinal shock — the examiners want the classic UMN picture.
 
 **REMEMBER:** *Floppy early, spastic later — spinal shock hides the upper motor neuron lesion for a fortnight.*
-
-`Q9496`
 
 ---
 
@@ -1221,8 +1133,6 @@
 **IMAGES:**
 ![question](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/questions_image/01KMYPG5DBESW216K4P9VNNAFJ.jpg)
 
-`Q9497, Q9499`
-
 ---
 
 ### 49. Delirium
@@ -1244,8 +1154,6 @@
 
 **REMEMBER:** *Fluctuating attention, reversed sleep, picking at the sheets, and a slow EEG — find the cause, don’t sedate first.*
 
-`Q9501`
-
 ---
 
 ### 50. Acute Ischaemic Stroke — CT Angiography
@@ -1266,8 +1174,6 @@
 **EXAM CONNECTION:** Clear NCCT + hemiparesis with aphasia (i.e. a large cortical syndrome) → **CT angiography** to look for LVO.
 
 **REMEMBER:** *CT excludes blood, CTA finds the clot — lyse and image at the same time, then thrombectomy for the big vessels.*
-
-`Q10078`
 
 ---
 
@@ -1293,8 +1199,6 @@
 **IMAGES:**
 ![question](https://image.prepladder.com/content/2mOGpEJOPfjS8POg8ryK1692706376.png)
 
-`Q10162, Q10163`
-
 ---
 
 ### 52. Dementia with Lewy Bodies
@@ -1318,8 +1222,6 @@
 
 **REMEMBER:** *Fluctuating, hallucinating, dream-enacting and parkinsonian — and never give haloperidol.*
 
-`Q10168`
-
 ---
 
 ### 53. ABCD2 Score for TIA
@@ -1341,8 +1243,6 @@
 
 **REMEMBER:** *Age 60, BP 140/90, weakness scores double, an hour scores double, and diabetes counts.*
 
-`Q10407`
-
 ---
 
 ### 54. Lambert–Eaton Myasthenic Syndrome vs Myasthenia Gravis
@@ -1363,8 +1263,6 @@
 **EXAM CONNECTION:** “NOT correct about LEMS” → **incremental response at 2–3 Hz** (it is decremental at low frequency, incremental at high).
 
 **REMEMBER:** *LEMS gets stronger with use because calcium builds up — the exact opposite of myasthenia.*
-
-`Q11356`
 
 ---
 
@@ -1389,8 +1287,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/5a0119c357cf4c85a06e09ed00c0843e.JPEG)
-
-`Q11727`
 
 ---
 
@@ -1418,8 +1314,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/71be37076f91458cbdb3a43fada1746f.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5f813fbb8ee5461a8455492a12746f77x600x906.JPEG)
 
-`Q11741`
-
 ---
 
 ### 57. Thrombolysis in Acute Ischaemic Stroke
@@ -1441,8 +1335,6 @@
 **EXAM CONNECTION:** Acute deficit + normal CT + within window → **IV thrombolysis** (never “nothing, since CT was normal”).
 
 **REMEMBER:** *An early normal CT is permission to thrombolyse, not a reason to reassure.*
-
-`Q11751`
 
 ---
 
@@ -1467,8 +1359,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/af07286f85de4f3dbbda141e1975c166.JPEG)
 
-`Q11757`
-
 ---
 
 ### 59. Tigroid White Matter — Pelizaeus–Merzbacher Disease
@@ -1489,8 +1379,6 @@
 **EXAM CONNECTION:** “Tigroid white matter” → **Pelizaeus–Merzbacher disease**.
 
 **REMEMBER:** *Tiger stripes mean the myelin was never made — dysmyelination, not demyelination.*
-
-`Q11762`
 
 ---
 
@@ -1516,8 +1404,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/58105eba00354e34b9271a088ec2e5f1x1280x1530.PNG)
 
-`Q11767`
-
 ---
 
 ### 61. Brown-Séquard Syndrome
@@ -1536,7 +1422,6 @@
 
 **EXAM CONNECTION: **Options mix the sides and modalities. Check two things:** pain/ temperature must be CONTRALATERAL**, everything else **IPSILATERAL** — and the LMN band is **at** the level, on the same side.
  **REMEMBER:** *Same side moves badly and feels position; the other side can’t feel pain.*
-`Q10875`
 
 ---
 
@@ -1560,7 +1445,6 @@
 ![[{F1C968E0-0B09-44D2-8245-50D5844144E5}.png]]
 ![[Schwannoma_with_Antoni_A_and_Antoni_B_areas-3820047941 2.jpg]]
 ![[80911112041492400000-3919475223.webp]]
-`Q10882`
 
 ---
 
@@ -1585,8 +1469,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/04/24/screenshot-2024-04-24-143702.JPG)
 
-`Q10931`
-
 ---
 
 ### 64. Visual Agnosia
@@ -1607,8 +1489,6 @@
 **EXAM CONNECTION:** The give-away is **“recognises the object by another modality”** — which localises to the visual association cortex, not to the sensory pathway or the language areas.
 
 **REMEMBER:** *The ventral stream tells you WHAT — lose it and you see without knowing.*
-
-`Q10990`
 
 ---
 
@@ -1642,8 +1522,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/10/12/screenshot-2023-10-12-124045.jpg)
 
-`Q11254`
-
 ---
 
 ### 66. Neurofibromatosis Type 1
@@ -1667,8 +1545,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/05/04/untitled-184.jpg)
 
-`Q11306`
-
 ---
 
 ### 67. Withdrawing Antiepileptic Drugs
@@ -1688,8 +1564,6 @@
 **EXAM CONNECTION:** The stem lists every favourable criterion *except* duration. Read the seizure-free interval and count to two years.
 
 **REMEMBER:** *Two years clear, then taper over months.*
-
-`MC7033, MC5594`
 
 ---
 
@@ -1712,8 +1586,6 @@
 
 **REMEMBER:** *Anterior communicating is commonest; posterior communicating is deadliest.*
 
-`MB9660`
-
 ---
 
 ### 69. Restless Legs Syndrome
@@ -1734,8 +1606,6 @@
 **EXAM CONNECTION:** “All EXCEPT” → the option saying symptoms **begin or worsen with activity**. Every criterion is about rest and relief with movement.
 
 **REMEMBER:** *Rest provokes it, movement relieves it, night amplifies it.*
-
-`MC2739`
 
 ---
 
@@ -1760,8 +1630,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/da01446bcb434cf5a6866a80b9f84556.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1764350d33f04129869472f31df05d82x407x358.PNG)
-
-`MD9083`
 
 ---
 
@@ -1846,8 +1714,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/31aeec65e0c4450ebaab39c620fdc941.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/59d66670c07a481abcc0e406a52edd56x1280x1156.JPEG)
 
-`Q10080`
-
 ---
 
 ### 77. Severity Scores in Acute Pancreatitis
@@ -1868,8 +1734,6 @@
 **EXAM CONNECTION:** “All are components of HAPS EXCEPT” → **normal serum calcium**.
 
 **REMEMBER:** *HAPS is three things — no rebound, normal haematocrit, normal creatinine. Calcium belongs to Ranson.*
-
-`Q10074`
 
 ---
 
@@ -1895,8 +1759,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202025-02-18%20162012.jpg)
 
-`Q10161`
-
 ---
 
 ### 79. Serological Workup for Acute Viral Hepatitis
@@ -1917,8 +1779,6 @@
 **EXAM CONNECTION:** Choose the panel that contains **both HBsAg AND IgM anti-HBc** plus anti-HAV and anti-HCV.
 
 **REMEMBER:** *Test A, B and C — and always both B markers, because the window period hides HBsAg.*
-
-`Q10309`
 
 ---
 
@@ -1941,8 +1801,6 @@
 **EXAM CONNECTION:** Asked as several separate one-liners — **most specific for hepatocyte injury (ALT)**, **marker of chronic disease (albumin)**, **PT measures which factors (II, V, VII, X)**, and **which is NOT a fibrosis marker (telopeptide)**.
 
 **REMEMBER:** *ALT means injury, albumin means chronic, PT means acute — and factor VIII is the one the liver does not make.*
-
-`Q10464, Q10465, Q10466, Q10467, Q10468, Q10469, Q10470`
 
 ---
 
@@ -1969,8 +1827,6 @@
 **IMAGES:**
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/5dc9c6f26750b70579026435e134c18a.webp)
 
-`Q10472, Q10473, Q10474, Q10475`
-
 ---
 
 ### 82. Whipple’s Disease
@@ -1996,8 +1852,6 @@
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/1ff3d6f1ab97ebd2698783d04e61d8bf.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/b1f06f33c0e3595e77bdf058d73857c7.webp)
 
-`Q10476, Q10477, Q10478`
-
 ---
 
 ### 83. Small Bowel vs Large Bowel Diarrhoea
@@ -2019,8 +1873,6 @@
 **EXAM CONNECTION:** “Large bowel diarrhoea is associated with all EXCEPT” → **large volume stool**.
 
 **REMEMBER:** *Small bowel gives you volume; large bowel gives you urgency, mucus and blood.*
-
-`Q11355, Q10479, Q10480`
 
 ---
 
@@ -2045,8 +1897,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/aa6e11777ad14c64b9c24cd85e47403f.JPEG)
 
-`Q11704`
-
 ---
 
 ### 85. Hereditary Syndromes and Pancreatic Cancer Risk
@@ -2066,8 +1916,6 @@
 **EXAM CONNECTION:** “Highest association with pancreatic cancer” → **Peutz–Jeghers syndrome**.
 
 **REMEMBER:** *Freckled lips and gut hamartomas carry the steepest pancreatic cancer risk of any syndrome.*
-
-`Q11739`
 
 ---
 
@@ -2090,8 +1938,6 @@
 
 **REMEMBER:** *Platelets fall and stiffness rises long before the biopsy is taken.*
 
-`Q11745`
-
 ---
 
 ### 87. Localising Malabsorption — D-Xylose, Schilling and Biopsy
@@ -2111,8 +1957,6 @@
 **EXAM CONNECTION:** Read the three tests as a filter — mucosa (xylose), histology (biopsy), ileum/pancreas (Schilling).
 
 **REMEMBER:** *Xylose needs no enzyme — so a normal xylose means the mucosa is fine and the problem is digestion.*
-
-`Q11754`
 
 ---
 
@@ -2143,8 +1987,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/af5e1b00249b45648917b1cc46d266bfx720x632.PNG)
 
-`Q11774`
-
 ---
 
 ### 89. Zollinger–Ellison Syndrome: The Secretin Test
@@ -2164,8 +2006,6 @@
 **EXAM CONNECTION:** The question is almost always “next best investigation” after a raised gastrin — the answer is the **secretin test**, not imaging and not biopsy.
 
 **REMEMBER:** *Secretin should switch gastrin OFF — if it goes up, it’s a gastrinoma.*
-
-`Q10834`
 
 ---
 
@@ -2188,8 +2028,6 @@
 
 **REMEMBER:** *Lose the weight; vitamin E is the only drug with real histological evidence.*
 
-`Q10964`
-
 ---
 
 ### 91. Pentagastrin Test and Achlorhydria
@@ -2209,8 +2047,6 @@
 **EXAM CONNECTION:** “Which will NOT secrete acid after pentagastrin?” — the answer is the condition with **no parietal cells**. Every other option has an intact or hyperactive parietal cell mass.
 
 **REMEMBER:** *You cannot stimulate cells that are no longer there.*
-
-`Q10969`
 
 ---
 
@@ -2242,8 +2078,6 @@
 
 **REMEMBER:** *Crohn goes through the wall (fistulae); colitis stays on the surface (bleeding).*
 
-`Q11294`
-
 ---
 
 ### 93. Infectious Oesophagitis at Endoscopy
@@ -2264,8 +2098,6 @@
 
 **REMEMBER:** *CMV digs long snaking ulcers from below; herpes punches small craters from the surface.*
 
-`Q11295`
-
 ---
 
 ### 94. Hepatitis D and Bulevirtide
@@ -2285,8 +2117,6 @@
 **EXAM CONNECTION:** New-drug recall. **Entry inhibitor + hepatitis D = bulevirtide**; the distractors are drugs for HBV and HIV.
 
 **REMEMBER:** *HDV borrows HBV’s coat and its doorway — block the doorway (NTCP).*
-
-`Q11798`
 
 ---
 
@@ -2322,8 +2152,6 @@
 
 **REMEMBER:** *Same numbers, different volume — euvolaemic means restrict water; hypovolaemic means give salt.*
 
-`Q10405`
-
 ---
 
 ### 97. Anion Gap in Metabolic Acidosis
@@ -2343,8 +2171,6 @@
 **EXAM CONNECTION:** “Normal anion gap acidosis in all EXCEPT” → **salicylate poisoning**.
 
 **REMEMBER:** *Added acid widens the gap; lost bicarbonate keeps it normal and raises the chloride.*
-
-`Q11732`
 
 ---
 
@@ -2369,8 +2195,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture21.jpg)
 
-`Q10852`
-
 ---
 
 ### 99. Sodium Deficit and the Glasgow Coma Scale
@@ -2391,8 +2215,6 @@
 **EXAM CONNECTION: **Both are pure calculations. Watch the GCS trap:** localising with ONE arm scores 5**, even if the other arm only flexes — always the best response.
 
 **REMEMBER:** *0.6 × weight × the gap for sodium; best eye, best voice, best movement for GCS.*
-
-`Q11267, Q11286`
 
 ---
 
@@ -2422,8 +2244,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/495a2ed70c254967a131d2168bfd9e00.JPEG)
 
-`Q11801`
-
 ---
 
 ### 101. Hyperkalaemia — ECG Sequence
@@ -2448,8 +2268,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/09c04d90e8f94add9258932549e38ecb.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/42cb3e8f49db4d64bd53c3af849c6da0x1280x1622.JPEG)
 
-`MF8083`
-
 ---
 
 ### 102. Prerenal vs Intrinsic AKI
@@ -2472,8 +2290,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9794a1e8c242417fb6431c0de1c214b9x1200x2480.JPEG)
-
-`MA1391`
 
 ---
 
@@ -2498,8 +2314,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/61f60a4aeb574c178459f81e107d7445x1279x911.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b83e16725c9e4acbae2e0ff8275ec1a5x1279x911.JPEG)
-
-`MB6507`
 
 ---
 
@@ -2557,8 +2371,6 @@
 
 **REMEMBER:** *The commonest adenoma says nothing until it presses on the chiasm — the commonest SECRETING one is the prolactinoma.*
 
-`Q8868`
-
 ---
 
 ### 107. Insulin’s Actions
@@ -2581,8 +2393,6 @@
 
 **REMEMBER:** *Insulin stores everything and releases nothing — so no ketones, no free amino acids, no glucose output.*
 
-`Q9971`
-
 ---
 
 ### 108. MEN Syndromes — 2A vs 2B
@@ -2603,8 +2413,6 @@
 **EXAM CONNECTION:** “Not seen in MEN 2B” → **parathyroid adenoma**.
 
 **REMEMBER:** *2A has parathyroids; 2B has neuromas, a marfanoid build and a big colon instead.*
-
-`Q10140`
 
 ---
 
@@ -2629,8 +2437,6 @@
 
 **REMEMBER:** *Grade it on the pH, not the sugar — and never start insulin if the potassium is under 3.3.*
 
-`Q10164`
-
 ---
 
 ### 110. Stages of Type 1 Diabetes
@@ -2652,8 +2458,6 @@
 **EXAM CONNECTION:** “Stage 3” → **autoimmune positive WITH dysglycaemia** (and clinically evident disease).
 
 **REMEMBER:** *Antibodies first, then abnormal sugars, then symptoms — and teplizumab can buy time between stages 2 and 3.*
-
-`Q10286`
 
 ---
 
@@ -2679,8 +2483,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/37f7f5a0b0f645dc8c51db7060e0e5b9x1280x1337.JPEG)
 
-`Q11711`
-
 ---
 
 ### 112. Iatrogenic (Exogenous) Cushing Syndrome
@@ -2704,8 +2506,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2a9e78f1a9274af1a1860912a1ffea1dx1280x2864.JPEG)
 
-`Q11714`
-
 ---
 
 ### 113. Confirming Acromegaly/Gigantism
@@ -2726,8 +2526,6 @@
 **EXAM CONNECTION:** “Confirmatory test” → **no suppression of GH after glucose**.
 
 **REMEMBER:** *IGF-1 screens, the glucose tolerance test confirms — and random GH tells you nothing.*
-
-`Q11723`
 
 ---
 
@@ -2750,8 +2548,6 @@
 **EXAM CONNECTION:** Read the comorbidity list and **eliminate by adverse effect** — that is the entire technique.
 
 **REMEMBER:** *Pancreatitis rules out the incretins, bladder cancer rules out pioglitazone, needles rule out GLP-1 — leaving the gliflozin.*
-
-`Q11729, Q11730`
 
 ---
 
@@ -2778,8 +2574,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/d2d0ede29d4d42ce98e2ed30593c890f.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/446147cae6bd406294d261351cfe7cdfx1280x2916.JPEG)
 
-`Q11735`
-
 ---
 
 ### 116. Hypopituitarism — What Needs Replacing
@@ -2800,8 +2594,6 @@
 **EXAM CONNECTION:** “Which supplement is NOT needed” → **mineralocorticoid**.
 
 **REMEMBER:** *ACTH runs cortisol, not aldosterone — and steroid always goes in before thyroxine.*
-
-`Q11761`
 
 ---
 
@@ -2828,8 +2620,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/a27cb0e287bb413e822d26e645f25c43.png)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7ebf66ac726e4bf1ae40d287b9585d36x720x464.JPEG)
 
-`Q11776`
-
 ---
 
 ### 118. Thyroid Eye Disease: What Actually Treats It
@@ -2852,8 +2642,6 @@
 
 **REMEMBER:** *Steroids, selenium, teprotumumab, surgery — rituximab is the odd one out.*
 
-`Q10853`
-
 ---
 
 ### 119. Hypercalcaemia: Inpatients vs Outpatients
@@ -2874,8 +2662,6 @@
 **EXAM CONNECTION:** Read the setting word — **“hospitalised” → malignancy**; “incidentally detected”/“outpatient” → hyperparathyroidism.
 
 **REMEMBER:** *Mild and chronic is found in clinic (parathyroid); severe and acute lands in hospital (cancer).*
-
-`Q10959`
 
 ---
 
@@ -2898,8 +2684,6 @@
 
 **REMEMBER:** *It’s the waist that counts — visceral fat drains into the liver.*
 
-`Q11003`
-
 ---
 
 ### 121. Nelson Syndrome
@@ -2920,8 +2704,6 @@
 **EXAM CONNECTION:** The stem always gives the **prior adrenalectomy**. Pigmentation plus a visual deficit after that operation is Nelson syndrome by definition.
 
 **REMEMBER:** *Take away both adrenals and the pituitary tumour runs free.*
-
-`Q11026`
 
 ---
 
@@ -2946,8 +2728,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/09/05/screenshot-2024-09-05-093401.png)
 
-`Q11325`
-
 ---
 
 ### 123. Osmolality Patterns — DI vs SIADH vs Psychogenic Polydipsia
@@ -2968,8 +2748,6 @@
 
 **REMEMBER:** *Ask whether the urine is appropriate for the plasma.*
 
-`MB6741, MF1402`
-
 ---
 
 ### 124. Thyroid Storm with Atrial Fibrillation in an Asthmatic
@@ -2989,8 +2767,6 @@
 **EXAM CONNECTION:** The stem hides “known case of bronchial asthma” among the thyroid features. That single clause changes the answer from a β-blocker to **diltiazem**.
 
 **REMEMBER:** *Block the AV node without blocking the bronchi.*
-
-`MF8119, MD4185`
 
 ---
 
@@ -3016,8 +2792,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/57617c19d08a4e3aacd60a698f3634ce.PNG)
 
-`MB6877`
-
 ---
 
 ### 126. MEN 1 (Wermer Syndrome)
@@ -3042,8 +2816,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/95f7c4eac7794f728806926c4f50bbb2x1280x1061.JPEG)
 
-`MB3124`
-
 ---
 
 ### 127. Screening for Diabetic Retinopathy
@@ -3064,8 +2836,6 @@
 **EXAM CONNECTION:** Pure guideline recall, and the type-1-vs-type-2 distinction is the entire point.
 
 **REMEMBER:** *Type 2 has been silently running for years — look at the retina today.*
-
-`MB7136`
 
 ---
 
@@ -3088,8 +2858,6 @@
 
 **REMEMBER:** *Diabetes lowers the threshold to treat and narrows the choice of drug.*
 
-`MG1064`
-
 ---
 
 ### 129. Investigating Graves’ Disease
@@ -3109,8 +2877,6 @@
 **EXAM CONNECTION:** Multi-select format. The one to strike out is **FNAC**; everything else is legitimately part of the workup.
 
 **REMEMBER:** *Cytology answers “is it cancer”, not “is it overactive”.*
-
-`MF2248`
 
 ---
 
@@ -3139,8 +2905,6 @@
 ![question](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/questions_image/01KN164CDR6TJ5EBXPY5WA0GCW.png)
 ![question](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/questions_image/01KN144MBEHYG3NY90EW8KCH1B.png)
 
-`Q9451, Q9454, Q9467`
-
 ---
 
 ### 131. Acute Promyelocytic Leukaemia — The Bleeding Emergency
@@ -3167,8 +2931,6 @@
 ![explanation](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/question_explanation/469a76fd-ec71-4eae-b79e-9cc8b04f1f1e.png)
 ![explanation](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/question_explanation/f62020dd-4412-499d-916c-b81a674b593b.png)
 
-`Q9455, Q9469`
-
 ---
 
 ### 132. Acute Lymphoblastic Leukaemia in a Child
@@ -3191,8 +2953,6 @@
 **ALSO KNOW:** **BONE PAIN with a limp or refusal to walk is highly characteristic** — childhood ALL is a classic mimic of **juvenile idiopathic arthritis** and “growing pains”; the clue is **cytopenias alongside the bone pain**. **CNS and TESTES are sanctuary sites**, so intrathecal prophylaxis is mandatory.
 
 **REMEMBER:** *A limping pale child with bruises and a big spleen has leukaemia until the marrow says otherwise.*
-
-`Q9452, Q9459, Q9453`
 
 ---
 
@@ -3217,8 +2977,6 @@
 **IMAGES:**
 ![explanation](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/question_explanation/91cbcd90-bbd0-4906-9c7e-55b815288e21.jpg)
 
-`Q9456, Q9463`
-
 ---
 
 ### 134. Langerhans Cell Histiocytosis
@@ -3241,8 +2999,6 @@
 **ALSO KNOW:** The rash is **scaly, crusted, petechial, in the scalp and flexures** — mistaken for cradle cap or nappy rash that “won’t clear”. Skeletal signs: punched-out skull lesions **WITHOUT a sclerotic rim**, a **BEVELLED EDGE / “hole-within-a-hole”**, **BUTTON SEQUESTRUM**, **FLOATING TEETH** (loss of the lamina dura) and **VERTEBRA PLANA** (LCH is the commonest cause in children). **DIABETES INSIPIDUS from pituitary stalk involvement is the commonest endocrine complication.**
 
 **REMEMBER:** *Rash, punched-out skull, and a discharging ear — look for tennis racquets under the electron microscope.*
-
-`Q9457`
 
 ---
 
@@ -3268,8 +3024,6 @@
 **IMAGES:**
 ![question](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/questions_image/01KM50P4ZA4CXES17EXXQDMP9H.jpg)
 
-`Q9458, Q9465, Q9466`
-
 ---
 
 ### 136. Chronic Lymphocytic Leukaemia
@@ -3291,8 +3045,6 @@
 
 **REMEMBER:** *Smudge cells and lymphocytosis in an older adult — flow the blood, don’t stick the marrow.*
 
-`Q9468`
-
 ---
 
 ### 137. Dry Tap on Bone Marrow Aspiration
@@ -3312,8 +3064,6 @@
 **EXAM CONNECTION:** Multi-select — **hairy cell, AML-M7 and MDS** are causes; **follicular lymphoma** is not.
 
 **REMEMBER:** *If nothing comes out, something has filled it or fibrosed it — take the trephine.*
-
-`Q9462`
 
 ---
 
@@ -3335,8 +3085,6 @@
 
 **REMEMBER:** *Green tumour, myeloperoxidase, bilateral proptosis in a child — it is AML until the marrow proves otherwise.*
 
-`Q9464`
-
 ---
 
 ### 139. Sideroblastic Anaemia
@@ -3356,8 +3104,6 @@
 **EXAM CONNECTION:** “Which would NOT be seen?” → **low serum iron** (it is high).
 
 **REMEMBER:** *Plenty of iron that the cell cannot use — the exact opposite of iron deficiency, and never give more iron.*
-
-`Q9943`
 
 ---
 
@@ -3380,8 +3126,6 @@
 
 **REMEMBER:** *Alpha is the gut immunoglobulin — so alpha HCD is a small bowel lymphoma that can be cured with an antibiotic.*
 
-`Q9890`
-
 ---
 
 ### 141. Which Anaemias Respond to Erythropoietin
@@ -3402,8 +3146,6 @@
 **EXAM CONNECTION:** Multi-select → **CKD anaemia and myelofibrotic anaemia** respond; aplastic and nutritional do not.
 
 **REMEMBER:** *EPO is a whip, not a fuel — it needs a marrow that still has cells and iron.*
-
-`Q11710`
 
 ---
 
@@ -3426,8 +3168,6 @@
 **EXAM CONNECTION:** “Most common bleeding manifestation of severe haemophilia” → **recurrent haemarthrosis**.
 
 **REMEMBER:** *Factors bleed deep and late into joints; platelets bleed shallow and at once into skin.*
-
-`Q11750`
 
 ---
 
@@ -3453,8 +3193,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/56f896aa6c2b4c449e446165261ce012x458x918.PNG)
 
-`Q11773`
-
 ---
 
 ### 144. Vitamin B12: The Two Enzymes
@@ -3478,8 +3216,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/8a5d8832f8fd47d5a510b47e7da82c7d.PNG)
 
-`Q10837`
-
 ---
 
 ### 145. Small Cell Lung Cancer and SIADH
@@ -3502,8 +3238,6 @@
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/15/untitled-443.jpg)
-
-`Q10919`
 
 ---
 
@@ -3532,8 +3266,6 @@
 
 **REMEMBER:** *Empty stores raise the carrier and drop the saturation; inflammation drops both.*
 
-`Q10958`
-
 ---
 
 ### 147. Fostamatinib in Immune Thrombocytopenia
@@ -3554,8 +3286,6 @@
 **EXAM CONNECTION:** The stem names the drug **class** (tyrosine kinase inhibitor). Only fostamatinib qualifies; bosutinib is a BCR-ABL inhibitor for CML.
 
 **REMEMBER:** *SYK inhibition switches off the macrophage — a chemical splenectomy.*
-
-`Q10966`
 
 ---
 
@@ -3585,8 +3315,6 @@
 
 **REMEMBER:** *Sickle cells break under force but survive water — mechanically fragile, osmotically tough.*
 
-`Q11006`
-
 ---
 
 ### 149. Differentiation Syndrome in Acute Promyelocytic Leukaemia
@@ -3607,8 +3335,6 @@
 **EXAM CONNECTION:** The stem gives a **recently treated APML patient with new respiratory symptoms and infiltrates**. The answer is the steroid, not another cytotoxic drug.
 
 **REMEMBER:** *The drug works, the cells mature, the lungs leak — give dexamethasone.*
-
-`Q11256`
 
 ---
 
@@ -3633,8 +3359,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/05/screenshot-2024-09-02-132158.png)
 
-`Q11284`
-
 ---
 
 ### 151. TACO vs TRALI
@@ -3653,8 +3377,6 @@
 **EXAM CONNECTION:** The word to hunt is the **blood pressure**. Elevated → TACO → **CXR + BNP**. Low → TRALI → leucocyte antibodies.
 
 **REMEMBER:** *Overload pushes pressure up; TRALI drops it.*
-
-`MF2519`
 
 ---
 
@@ -3675,8 +3397,6 @@
 **EXAM CONNECTION:** Drug-of-choice recall. Vemurafenib is the tempting modern answer but is reserved for **refractory** disease.
 
 **REMEMBER:** *Cladribine cures the hairy cell.*
-
-`MD4654`
 
 ---
 
@@ -3702,8 +3422,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/6359e01906c647fc90ca09a466f82172.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0fedd76b578148fc8ed55da37e66574cx1280x1995.JPEG)
-
-`MG1005, MB4049`
 
 ---
 
@@ -3860,8 +3578,6 @@
 
 **REMEMBER:** *Blood stages end the fever; only primaquine empties the liver and stops the relapse.*
 
-`Q8869`
-
 ---
 
 ### 164. Suspected Meningitis — The Order of Actions
@@ -3882,8 +3598,6 @@
 **EXAM CONNECTION:** Sequencing question → **stabilise, fundoscopy, LP, then antibiotics** (in the stable patient).
 
 **REMEMBER:** *Look at the discs before you put in the needle — but never let the needle delay the antibiotic in a sick patient.*
-
-`Q9489, Q9492`
 
 ---
 
@@ -3906,8 +3620,6 @@
 **EXAM CONNECTION:** “Drug of choice for chemoprophylaxis” → **rifampicin**.
 
 **REMEMBER:** *Prophylaxis clears the throat, not the meninges — which is why it is rifampicin, not penicillin.*
-
-`Q9491`
 
 ---
 
@@ -3935,8 +3647,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a3f2b9d4234948d985eaa3da557abd6ex720x540.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/186c398941d74434a0a17a1ff17f83eax720x476.PNG)
 
-`Q9898, Q9981`
-
 ---
 
 ### 167. Procalcitonin
@@ -3957,8 +3667,6 @@
 **EXAM CONNECTION:** “Role of procalcitonin” → **to decide the duration of antibiotics**.
 
 **REMEMBER:** *Procalcitonin tells you when to STOP the antibiotic, not whether to start it.*
-
-`Q11719`
 
 ---
 
@@ -3981,8 +3689,6 @@
 
 **REMEMBER:** *Ceftriaxone plus vancomycin plus steroid before the first dose — and ampicillin at the extremes of age.*
 
-`Q11742`
-
 ---
 
 ### 169. Relative Bradycardia — Faget’s Sign
@@ -4001,8 +3707,6 @@
 **EXAM CONNECTION:** “Relative bradycardia occurs in” → typically **all of the above**.
 
 **REMEMBER:** *A high fever with a calm pulse means an intracellular organism — think typhoid first.*
-
-`Q11752`
 
 ---
 
@@ -4024,8 +3728,6 @@
 **EXAM CONNECTION:** “Most common presentation of inhalational anthrax” → **haemorrhagic mediastinitis**.
 
 **REMEMBER:** *Anthrax spores skip the lung and go to the lymph nodes — a wide mediastinum, not a consolidation.*
-
-`Q11758`
 
 ---
 
@@ -4051,8 +3753,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/dafb9bf2283b45b59a0a7914f2e03006.JPEG)
 
-`Q11787`
-
 ---
 
 ### 172. Congenital CMV
@@ -4073,8 +3773,6 @@
 **EXAM CONNECTION:** “Which infection mimics erythroblastosis fetalis?” → **CMV**. The calcification pattern (periventricular vs diffuse) is the other recurring discriminator.
 
 **REMEMBER:** *CMV around the ventricles and deaf; Toxo scattered with hydrocephalus.*
-
-`Q10874`
 
 ---
 
@@ -4099,8 +3797,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/untitled-446.jpg)
 
-`Q10921`
-
 ---
 
 ### 174. Enterococcal Endocarditis
@@ -4121,8 +3817,6 @@
 **EXAM CONNECTION:** The answer is the drug the organism is **not** intrinsically resistant to. Cephalosporin options are always wrong for enterococcus.
 
 **REMEMBER:** *Enterococcus laughs at cephalosporins — ampicillin plus a partner.*
-
-`Q10917`
 
 ---
 
@@ -4148,8 +3842,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/87393961ada7455c9dfb916aecbaad44x720x531.JPEG)
 
-`Q10979`
-
 ---
 
 ### 176. Oral Hairy Leukoplakia
@@ -4173,8 +3865,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3638defe56f14870888eb384aaa09078x1280x1131.9605077574047.JPEG)
 ![explanation](https://cdn1.dailyrounds.org/uploads/9521c953e6664507b3e6ee8d585b3eff.JPEG)
 ![explanation](https://cdn1.dailyrounds.org/uploads/df58bad5b5004221b4194a6eee2570ee.JPEG)
-
-`Q10981`
 
 ---
 
@@ -4200,8 +3890,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2747323f98db44d0a05e0638d4d95114x1280x2558.JPEG)
 
-`Q11039`
-
 ---
 
 ### 178. Rabies: Diagnosis and the Corneal Impression
@@ -4226,8 +3914,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/29/screenshot-2024-06-29-123912.png)
 
-`Q11260`
-
 ---
 
 ### 179. CSF Patterns in Meningitis
@@ -4251,8 +3937,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/505060e2c15c41f5a879f53aa4a8efa6.GIF)
-
-`MB9159, MC1613`
 
 ---
 
@@ -4288,8 +3972,6 @@
 
 **REMEMBER:** *The only synovial joint in the neck is C1–C2 — which is why RA attacks it, and why you must check it before you intubate.*
 
-`Q10357`
-
 ---
 
 ### 182. Systemic Lupus Erythematosus — Commonest Presentation
@@ -4313,8 +3995,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1da1c0f61e29410c9f97bd2143e58b53x1280x1052.JPEG)
-
-`Q11708`
 
 ---
 
@@ -4340,8 +4020,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3c76be2af0f04ba88f45ca2174e078fax1280x2296.JPEG)
 
-`Q11763, Q11764`
-
 ---
 
 ### 184. Uveitis — Which Disease Hits Which Part of the Eye
@@ -4362,8 +4040,6 @@
 **EXAM CONNECTION:** “Iritis seen in all EXCEPT” → **rheumatoid arthritis** (juvenile RA is the trap).
 
 **REMEMBER:** *B27 attacks the iris, adult rheumatoid attacks the sclera — and juvenile arthritis attacks the iris silently.*
-
-`Q11771`
 
 ---
 
@@ -4386,8 +4062,6 @@
 
 **REMEMBER:** *Over 50 with a tender temporal artery — steroids first, biopsy after, and ask about the shoulders.*
 
-`Q11835`
-
 ---
 
 ### 186. Drugs That Precipitate Gout — CANT LEAP
@@ -4407,8 +4081,6 @@
 **EXAM CONNECTION:** “Avoid all EXCEPT” → **high-dose salicylates**. The trap is knowing aspirin’s dose-dependence rather than blanket-avoiding aspirin.
 
 **REMEMBER:** *A little aspirin retains urate; a lot excretes it.*
-
-`MC1213`
 
 ---
 
@@ -4434,8 +4106,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9af726f2c71f4f47847780615b61c65dx462x600.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4a4967d74a494db59838dd2e542b4890x986x732.JPEG)
 
-`MC1403, MC1637`
-
 ---
 
 ### 188. Antibodies in Systemic Sclerosis and Overlap Syndromes
@@ -4455,8 +4125,6 @@
 **EXAM CONNECTION:** The stem deliberately gives **two diseases’ worth of findings**. Recognise “overlap” and the answer follows.
 
 **REMEMBER:** *Two diseases in one patient means look for the overlap antibody.*
-
-`MF9281`
 
 ---
 
@@ -4494,8 +4162,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/90fc36735ada43a1ac4e06c99141b0a7.PNG)
 
-`MC2141`
-
 ---
 
 ## Critical Care, Toxicology & Environmental Medicine
@@ -4523,8 +4189,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e0a64eb40ba64ce5bb19166d95385f24x1280x956.JPEG)
 
-`Q10118`
-
 ---
 
 ### 192. Septic Shock — Vasopressor of Choice
@@ -4545,8 +4209,6 @@
 **EXAM CONNECTION:** Fluid-refractory septic shock → **noradrenaline infusion**.
 
 **REMEMBER:** *Fluids, cultures, antibiotics within the hour — then noradrenaline, not dopamine.*
-
-`Q11706, Q11709`
 
 ---
 
@@ -4569,8 +4231,6 @@
 
 **REMEMBER:** *Glucose first — it takes seconds, and it is the one cause that punishes delay.*
 
-`Q11749`
-
 ---
 
 ### 194. Cardiac Tamponade vs Tension Pneumothorax
@@ -4592,8 +4252,6 @@
 **EXAM CONNECTION:** “Differentiating feature” → **breath sounds**.
 
 **REMEMBER:** *Same neck veins, same muffled heart — listen to the lungs to tell them apart.*
-
-`Q11753`
 
 ---
 
@@ -4618,8 +4276,6 @@
 
 **REMEMBER:** *Citrate becomes bicarbonate; and a raised anion gap with a normal pH always means two disorders, not none.*
 
-`Q11759, Q11760`
-
 ---
 
 ### 196. Adrenaline First in Cardiac Arrest
@@ -4642,8 +4298,6 @@
 
 **REMEMBER:** *Shockable: shock, shock, shock-then-drugs. Non-shockable: adrenaline now.*
 
-`Q10858`
-
 ---
 
 ### 197. Heat Stroke: When to Stop Cooling
@@ -4665,8 +4319,6 @@
 
 **REMEMBER:** *Cool fast, stop early — the temperature keeps falling after you stop.*
 
-`Q10888`
-
 ---
 
 ### 198. Digoxin Toxicity
@@ -4686,8 +4338,6 @@
 **EXAM CONNECTION:** “All are true” is often the right answer here — the statements are all classical teaching. The one to remember is **poor level–toxicity correlation** and the **hypokalaemia link**.
 
 **REMEMBER:** *Low potassium lets digoxin in — the level in the blood tells you less than the patient does.*
-
-`Q11249`
 
 ---
 
@@ -4712,8 +4362,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1f5811521ca64b0294bc67e57e96fba2x1280x1016.JPEG)
 
-`MB3384`
-
 ---
 
 ## General Medicine & Miscellaneous
@@ -4736,8 +4384,6 @@
 **EXAM CONNECTION:** Cancer pain uncontrolled on paracetamol + NSAID → **start tramadol AND continue the NSAIDs** — note that continuing step 1 is part of the correct answer.
 
 **REMEMBER:** *Climb one rung, keep the drugs below you, and never chase the NSAID dose upward.*
-
-`Q9477`
 
 ---
 

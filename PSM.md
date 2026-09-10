@@ -43,8 +43,6 @@
 
 **REMEMBER:** *Primordial stops the risk factor, primary stops the disease, secondary catches it early, tertiary limits the damage.*
 
-`Q10547, Q10548, Q10550, Q10546`
-
 ---
 
 ### 2. The Iceberg Phenomenon
@@ -67,8 +65,6 @@
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/851b62c53b65a2a7ae3101ba8f0206f8.webp)
 
-`Q10549`
-
 ---
 
 ### 3. Concepts and Determinants of Health
@@ -90,8 +86,6 @@
 
 **REMEMBER:** *Physical, mental, social — and productive. Emotional is a dimension, not part of the definition.*
 
-`Q10533, Q10534, Q10536, Q10537, Q10535`
-
 ---
 
 ### 4. Health Indicators
@@ -111,8 +105,6 @@
 **EXAM CONNECTION:** “Mortality indicator” → **life expectancy**; “not a morbidity indicator” → **days of restricted activity** (disability); years lived in full health → **HALE**; deprivation index → **HPI**.
 
 **REMEMBER:** *Mortality counts deaths, morbidity counts illness, disability counts lost function — DALY adds the first two together.*
-
-`Q10540, Q10543, Q10544, Q10545, Q10538, Q10539, Q10541`
 
 ---
 
@@ -136,8 +128,6 @@
 
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/c4542997db76eda4674bb4aeb1e0bb64.webp)
-
-`Q10542, Q10026`
 
 ---
 
@@ -166,8 +156,6 @@
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/a0e7dbaf4eebf3fa03d2cdcaf52c89da.webp)
 
-`Q10551, Q10552, Q10554, Q10556`
-
 ---
 
 ### 7. Choosing the Study Design
@@ -192,8 +180,6 @@
 **IMAGES:**
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/2e8cc6fba7e65b3627fa232e087bb0d7.webp)
 
-`Q10557, Q10558, Q10559, Q10560, Q10569, Q10570, Q10571, Q10572`
-
 ---
 
 ### 8. Reading the Epidemic Curve
@@ -213,8 +199,6 @@
 **EXAM CONNECTION:** Outbreak spanning three incubation periods → **common source, multiple exposure**.
 
 **REMEMBER:** *One incubation period means one exposure; peaks one incubation period apart mean person-to-person.*
-
-`Q10561, Q10573, Q10577, Q10578, Q10579`
 
 ---
 
@@ -242,8 +226,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f8f2d7bcf01a465699a42d1a750c87b8x1280x704.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c96f4beb9eb942899198d757d3388918x1280x904.JPEG)
 
-`Q10563, Q10564, Q10565, Q10566, MF7364, MF7355`
-
 ---
 
 ### 10. Bias, Confounding and Random Error
@@ -263,8 +245,6 @@
 **EXAM CONNECTION:** “Will not reduce confounding” → **deletion**; “not true about random error” → **it causes bias**.
 
 **REMEMBER:** *More data cures chance and entrenches bias — only design cures bias.*
-
-`Q10562, Q10567, Q10568`
 
 ---
 
@@ -292,8 +272,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/7ce2cf0861534857a124a94978d0b2f4.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ee4ded5c67c44716abd4d0a0527f6034x720x748.JPEG)
 
-`Q10877, MA4963, MC4856`
-
 ---
 
 ## Biostatistics
@@ -317,8 +295,6 @@
 
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/282ff7f52b4d583fc04b9a49f08920bc.webp)
-
-`Q10020, Q10057, Q10555`
 
 ---
 
@@ -358,8 +334,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/44ad7515ca2a463e816a919d6602d752.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/53c3609dccfd4f39a6baf16fe1cf5c97x1280x904.JPEG)
 
-`Q10139, Q10935, Q10920, Q10947, MB1795, MC6992, MD0847`
-
 ---
 
 ### 14. Choosing a Test of Significance
@@ -385,8 +359,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/69ce1962b6b64f638b91fe579a829ac4x1280x1675.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/6c32b798c9814526ac720ca4983c538f.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/c0efdba1c9b94f8099e9ec072ccd4fe5.JPEG)
-
-`MD0843, MC4556, MB2760, MB2764, MB2761, MB3161, MB3181, MB3178`
 
 ---
 
@@ -414,8 +386,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c86c4e0efdea496487723728f004de8ex1280x1523.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/711b7580f9604a5d8a05eab99ce199ebx1280x1225.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6e085576b4f04e5784a9a2773def8601x1280x978.JPEG)
-
-`MB3216`
 
 ---
 
@@ -448,8 +418,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3be6dcba99de4b9da9d25d64a480a8f4x1280x979.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6f9d650d06b14a07b7e419a9d76e3a18x1280x1415.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/93e2bf4f32dc4ae18ff93a6454c32c28.JPEG)
-
-`MB1984, MB1998, MB1988, MB1954, MB2759, MB1339, MB2663`
 
 ---
 
@@ -492,8 +460,6 @@
 
 **REMEMBER:** *The finger doesn’t reach the colon and the eye doesn’t reach under the tongue.*
 
-`Q10876`
-
 ---
 
 ## Communicable Disease Epidemiology
@@ -519,8 +485,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/4bd6f0572d234ff7a7a1547f3143977c.JPEG)
 
-`Q10096`
-
 ---
 
 ### 20. Carriers, Latency and Subclinical Infection
@@ -545,8 +509,6 @@
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/00e6b5dc91c37bffbcb0cdfff0581392.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/dacd150caab4606a6fea05b4f1066f95.webp)
 
-`Q10574, Q10575, Q10583`
-
 ---
 
 ### 21. Modes of Transmission
@@ -566,8 +528,6 @@
 **EXAM CONNECTION:** “Not a direct transmission” → **droplet nuclei**; “no vertical transmission” → **tetanus**; filaria in the mosquito → **cyclo-developmental**.
 
 **REMEMBER:** *Droplets fall within a metre and are direct; nuclei float and are airborne. Filaria develops without multiplying; malaria does both.*
-
-`Q10584, Q10585, Q10586, Q10576, Q10587`
 
 ---
 
@@ -589,8 +549,6 @@
 
 **REMEMBER:** *Only the susceptible are at risk — subtract the immune and the index case before you divide.*
 
-`Q10580, Q10581, Q10582`
-
 ---
 
 ### 23. Herd Immunity and Vaccine Types
@@ -610,8 +568,6 @@
 **EXAM CONNECTION:** “False about herd immunity” → **100% herd immunity is possible**; drawback of polysaccharide vaccines → **serotype-specific immunity**; subunit vaccine → **hepatitis B**.
 
 **REMEMBER:** *Herd immunity breaks chains of transmission — so it does nothing for tetanus, which has no chain.*
-
-`Q10588, Q10589, Q10590, Q10591`
 
 ---
 
@@ -642,8 +598,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/10/27/untitled-1.jpg)
 
-`MF7563, MB8208, Q11240`
-
 ---
 
 ### 25. Arthropod Vectors
@@ -663,8 +617,6 @@
 **EXAM CONNECTION:** “Not transmitted by hard ticks” → **relapsing fever**. Learn the **soft tick and louse** pair as the exception.
 
 **REMEMBER:** *Long feeders carry slow organisms; quick feeders carry relapsing fever.*
-
-`MB7813, MD7336`
 
 ---
 
@@ -698,8 +650,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/21/screenshot-2024-09-21-113044.png)
 
-`Q10976, Q11216`
-
 ---
 
 ### 27. BCG Vaccine
@@ -726,8 +676,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/a92349814bd04512a123d2590ee61d21.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0167d0e462734a3d942aad80afa1c23bx1280x2081.JPEG)
 
-`Q10592, Q10835, MC7006`
-
 ---
 
 ### 28. HPV Vaccine — Antigen, Schedules and India’s 2026 Rollout
@@ -749,8 +697,6 @@
 
 **REMEMBER:** *L for the Look-alike particle in the vaccine; E for the Evil oncoproteins. Fewer doses only for the young and immunocompetent.*
 
-`Q10865, Q11004`
-
 ---
 
 ### 29. Oral Cholera Vaccines
@@ -770,8 +716,6 @@
 **EXAM CONNECTION:** “Correct about Shanchol” → **bivalent, two liquid oral doses, from 1 year of age**. Dukoral → **killed O1 with the B subunit, inducing intestinal immunity**.
 
 **REMEMBER:** *A gut infection needs a gut vaccine — two doses, two weeks apart, from one year old, and no buffer for Shanchol.*
-
-`Q10114, Q9680`
 
 ---
 
@@ -799,8 +743,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c7bd80ca927b42bcb0956bc12ae146b7x956x717.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/549c3f139636430fa5c659529a31d432x1280x1489.JPEG)
 
-`Q10597, Q10598, MF7319`
-
 ---
 
 ### 31. Adverse Events Following Immunisation and True Contraindications
@@ -826,8 +768,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/be675360c109494e9527b7a9d637884a.JPEG)
 
-`Q10593, Q10595, Q10596, MC6158`
-
 ---
 
 ### 32. Passive Immunisation with Immunoglobulin
@@ -847,8 +787,6 @@
 **EXAM CONNECTION:** “False about NHIG” → **all live vaccines can be given simultaneously with it**.
 
 **REMEMBER:** *Passive antibody kills a live vaccine before it can work — twelve weeks after, two weeks before.*
-
-`Q10594`
 
 ---
 
@@ -880,8 +818,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture23_DjB3zMT.jpg)
 
-`Q10871`
-
 ---
 
 ### 34. Rabies Post-Exposure Prophylaxis
@@ -905,8 +841,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f49dfa01d9bd424db725e4ebf600cb98x1280x3397.JPEG)
 
-`MD0180, MF7555`
-
 ---
 
 ### 35. Yellow Fever Vaccine and International Travel
@@ -926,8 +860,6 @@
 **EXAM CONNECTION:** Pure number recall — **10 days for validity, 6 days for quarantine**. The two figures are often swapped in the options.
 
 **REMEMBER:** *Ten days to be protected, six days to be quarantined.*
-
-`MB8310`
 
 ---
 
@@ -949,8 +881,6 @@
 **EXAM CONNECTION:** “Most immediate and appropriate” is doing the work — the answer is the **mechanical removal step**, not calling a team or applying disinfectant to a pool of blood.
 
 **REMEMBER:** *Soak it up first — hypochlorite dies on contact with blood.*
-
-`Q11243`
 
 ---
 
@@ -1008,8 +938,6 @@
 
 **REMEMBER:** *Cover it daily and the tip stops being a dump — one acre serves ten thousand people.*
 
-`Q10126, Q10112`
-
 ---
 
 ### 40. Biomedical Waste Segregation
@@ -1031,8 +959,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/204d3e521e0a4ff6b35b363d9eb057db.JPEG)
 
-`MA1141, MA0720, MC6997`
-
 ---
 
 ### 41. Pasteurisation and Milk Quality
@@ -1052,8 +978,6 @@
 **EXAM CONNECTION:** “All are pasteurisation tests EXCEPT” → the **adulteration** test (iodine, or lactometer if offered).
 
 **REMEMBER:** *Phosphatase dies at the same heat as TB — that’s why it certifies the milk.*
-
-`Q10923`
 
 ---
 
@@ -1077,8 +1001,6 @@
 
 **IMAGES:**
 ![explanation](https://cdn1.dailyrounds.org/uploads/bed65d5582c142b8ab4533128373dcabx383x287.PNG)
-
-`MB7378, MB7344, MB7690, MB8309, MB7473`
 
 ---
 
@@ -1104,8 +1026,6 @@
 
 **REMEMBER:** *Fat holds no water and no potassium — so measure the lean mass and subtract.*
 
-`Q9969`
-
 ---
 
 ### 44. RDA versus EAR
@@ -1126,8 +1046,6 @@
 
 **REMEMBER:** *EAR covers half the people; add 2 SD and you cover nearly everyone — that is the RDA.*
 
-`Q10785`
-
 ---
 
 ### 45. Food Adulteration Syndromes
@@ -1147,8 +1065,6 @@
 **EXAM CONNECTION:** Match toxin to food to disease. The stem’s unusual feature (**glaucoma**, or **spastic paraplegia**, or **ascites**) identifies which of the four it is.
 
 **REMEMBER:** *Argemone swells the legs and the eyes.*
-
-`MB8168`
 
 ---
 
@@ -1175,8 +1091,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/402ec23059f642f1840119590a5d55fdx1280x711.PNG)
 
-`Q10975`
-
 ---
 
 ### 47. Intrauterine Device — Contraindications and Complications
@@ -1198,8 +1112,6 @@
 **EXAM CONNECTION:** The multi-select list mixes absolute and relative contraindications; **cardiac disease is on neither list**.
 
 **REMEMBER:** *The IUCD’s risks are all inside the uterus.*
-
-`MB8225, MB8223`
 
 ---
 
@@ -1225,8 +1137,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/39374e8ae8ff4766ab580e0847668af7.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/757c2c3ffa7b49d683b56627fa39f325x350x243.JPEG)
-
-`MC9550, MF5092, MB8291`
 
 ---
 
@@ -1255,8 +1165,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/63efb6787d7b418b9c0acd907790fc3bx347x269.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/783a69fcdd7545f5a6a6166f8c0a73edx700x470.JPEG)
 
-`MC3511, MC4562, MB8055, MF7526, MB7753`
-
 ---
 
 ### 50. Lymphatic Filariasis and the Transmission Assessment Survey
@@ -1279,8 +1187,6 @@
 
 **REMEMBER:** *TAS asks one question — can we stop the mass drug administration yet?*
 
-`Q9360`
-
 ---
 
 ### 51. Quality-Improvement Programmes — MusQan, LaQshya, Kayakalp
@@ -1301,8 +1207,6 @@
 
 **REMEMBER:** *MusQan makes the child smile, LaQshya guards the labour room, Kayakalp scrubs the hospital.*
 
-`Q11836, Q11827`
-
 ---
 
 ### 52. Iron, Folic Acid and Iodine — Programme Doses
@@ -1322,8 +1226,6 @@
 **EXAM CONNECTION:** Dose plus frequency plus tablet colour are asked together. The commonest error is giving the reproductive-age-woman dose **daily** instead of **weekly**.
 
 **REMEMBER:** *Weekly for the well, daily for the pregnant.*
-
-`MD4243, MC4406, MB8059, MB9178, MC4841`
 
 ---
 
@@ -1348,8 +1250,6 @@
 
 **REMEMBER:** *If it produces a number to compare options it’s quantitative; if it moves information between people it’s behavioural.*
 
-`Q10094, Q10841`
-
 ---
 
 ### 54. International Health Agencies
@@ -1373,8 +1273,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7fbec45fbefb428d893451bf128f03f7x900x600.PNG)
 
-`Q10069`
-
 ---
 
 ### 55. Levels of Community Participation
@@ -1394,8 +1292,6 @@
 **EXAM CONNECTION:** Rank the options by **who decides**. Anything describing planning or decision-making outranks anything describing contribution or consultation.
 
 **REMEMBER:** *Giving resources is helping; making the plan is participating.*
-
-`Q10982`
 
 ---
 
@@ -1418,8 +1314,6 @@
 **EXAM CONNECTION:** The answer is the **priority-based** list (immediate/delayed/minimal), not anatomical or administrative categories.
 
 **REMEMBER:** *Red now, yellow soon, green last, black never — the greatest good for the greatest number.*
-
-`Q11209`
 
 ---
 
@@ -1444,8 +1338,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/13/screenshot-2024-06-13-111312.JPG)
 
-`Q11315`
-
 ---
 
 ### 58. Health Committees of India
@@ -1468,8 +1360,6 @@
 
 **REMEMBER:** *Bhore built the PHC; the HLEG proposed a new rural cadre.*
 
-`MC4855, MB0762`
-
 ---
 
 ### 59. Drug Inventory — The Reorder Formula
@@ -1489,8 +1379,6 @@
 **EXAM CONNECTION:** Compute **average monthly consumption first**, then the reorder factor. The safety-stock adjustment explains why the answer is slightly above the arithmetic figure.
 
 **REMEMBER:** *Cover the wait for the order and the wait until the next order.*
-
-`MF0846`
 
 ---
 
@@ -1516,8 +1404,6 @@
 
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/3a2ac4b56a7a48ec486fa7149d70b8c0.webp)
-
-`Q10553`
 
 ---
 
@@ -1549,8 +1435,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f03638b6a2544b3b8ecd5800ca7ce5d6x1280x739.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8264d886076a4266a5770f584eb6262ax1280x775.JPEG)
 
-`MB8153, MC3614, MB9123, MC4776`
-
 ---
 
 ## Health Legislation and Miscellaneous
@@ -1572,8 +1456,6 @@
 **EXAM CONNECTION:** “Which article is NOT related to paediatrics?” → **Article 42** (maternity relief and working conditions).
 
 **REMEMBER:** *21A educates, 24 stops child labour, 39(e) protects from abuse — 42 is for the worker, not the child.*
-
-`Q11993`
 
 ---
 
@@ -1599,8 +1481,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/19/screenshot-2024-09-19-094506.png)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/19/screenshot-2024-09-19-094510.png)
 
-`Q11261`
-
 ---
 
 ### 64. Intelligence Quotient Classifications
@@ -1620,8 +1500,6 @@
 **EXAM CONNECTION:** IQ 56 under **Levine and Marks** = **moron**; the same value under the modern system = **mild intellectual disability**. Both appear as questions.
 
 **REMEMBER:** *The scale named in the question decides the label.*
-
-`MB0566, MB0570`
 
 ---
 

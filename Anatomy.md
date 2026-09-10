@@ -36,8 +36,6 @@
 
 **REMEMBER:** *Saliva needs modifying (striated ducts); pancreatic juice does not.*
 
-`Q9265`
-
 ---
 
 ### 2. Palatine Tonsil — Histology
@@ -76,8 +74,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4001334811e3425ba537e7df3024eae9x263x274.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/25c7b3b99a6542d9bbe2289071e1a88cx800x600.JPEG)
 
-`Q10203`
-
 ---
 
 ### 3. Cilia vs Stereocilia
@@ -101,8 +97,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-95.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-96.jpg)
 
-`Q11481`
-
 ---
 
 ### 4. Strongest Layer of the Gut Wall
@@ -125,8 +119,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/25/screenshot-2024-05-25-170141.jpg)
 
-`Q11504`
-
 ---
 
 ### 5. Woven vs Lamellar Bone
@@ -146,8 +138,6 @@
 **EXAM CONNECTION:** “Most characteristic feature of woven/immature bone” → **random collagen orientation** (Haversian system is the lamellar-bone distractor).
 
 **REMEMBER:** *Woven = fast, random, weak — normal only in the fetus and in callus.*
-
-`Q11640`
 
 ---
 
@@ -173,8 +163,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-62.jpg)
 
-`Q11653`
-
 ---
 
 ### 7. Ossification Centres Present at Birth
@@ -194,8 +182,6 @@
 
 **REMEMBER:** *At birth: femur lower end, tibia upper end, calcaneus, talus, cuboid — the “term baby” set.*
 
-`Q11645`
-
 ---
 
 ### 8. Hilton’s Law
@@ -214,8 +200,6 @@
 **EXAM CONNECTION:** Either a direct definition question, or the applied version — “a child with knee pain and a normal knee examination” → the answer lies in the **hip**.
 
 **REMEMBER:** *One nerve for the joint, its movers, and the skin over them — so hip pain shows up at the knee.*
-
-`Q9570`
 
 ---
 
@@ -245,8 +229,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture23.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture24.jpg)
 
-`Q10879, Q10856`
-
 ---
 
 ### 10. Identifying the Terminal Bronchiole
@@ -273,8 +255,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8ca0a584d17747e9bce0cc93b9a7462dx575x431.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/70456d647c524177a20ef42e242fa6bex1280x1024.JPEG)
 
-`Q11049`
-
 ---
 
 ### 11. Collagen Types — The Mnemonic Set
@@ -297,8 +277,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/eb0ba099c64e4f858e80413936d4a088x1280x2156.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/22c6422132c84f62833a8d64fdf24958x1280x3831.JPEG)
-
-`MC5277, MB2543`
 
 ---
 
@@ -323,8 +301,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/30d56388bdfc47c3857415654d48802ax1280x803.JPEG)
 
-`MB2694`
-
 ---
 
 ### 13. Transitional Epithelium (Urothelium) — Where It Stops
@@ -346,8 +322,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d08d82d545bf4815b7899a9df650acf2x1280x2380.JPEG)
-
-`MB2696`
 
 ---
 
@@ -393,8 +367,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/c665ec22481e4dea9d6ae41b862b817b.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c2640596dfbe4215bcd56556366b593cx1280x1103.JPEG)
 
-`Q9264`
-
 ---
 
 ### 16. Wolffian vs Müllerian Remnants in the Male
@@ -417,8 +389,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/edaf9b8f53db443d99ebd81200690467x1280x1676.JPEG)
-
-`Q10019`
 
 ---
 
@@ -445,8 +415,6 @@
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/d7a31d2daf102958140ace52daa66058.webp)
 
-`Q10448, Q10454`
-
 ---
 
 ### 18. Dandy–Walker Syndrome
@@ -471,8 +439,6 @@
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/770b96ded6bc85993b526b5eba21269c.webp)
 
-`Q10450`
-
 ---
 
 ### 19. Pituitary — Dual Origin
@@ -494,8 +460,6 @@
 
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/b05bc7fd1990c38062b1c569a54c8a38.webp)
-
-`Q10451`
 
 ---
 
@@ -519,8 +483,6 @@
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/86ce4232077d7dad2da51454e8b8fd7a.webp)
 
-`Q10457`
-
 ---
 
 ### 21. First Pharyngeal Arch — Muscles and the Tensor Rule
@@ -540,8 +502,6 @@
 **EXAM CONNECTION:** “Least likely to arise from the 1st arch” → **levator veli palatini**.
 
 **REMEMBER:** *TENSOR = TRIGEMINAL; levator veli palatini is vagal.*
-
-`Q11472`
 
 ---
 
@@ -566,8 +526,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/07/04/untitled-880.jpg)
 
-`Q11496`
-
 -
 
 ### 23. Intervertebral Disc — Embryological Origin
@@ -590,8 +548,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/Picture1_nwT1J2m.png)
 ![explanation](https://media.cerebellumacademy.com/media/public/Picture2_i21IeWU.png)
-
-`Q11636`
 
 ---
 
@@ -623,8 +579,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5194b555828e41f8a28df8584a1cd21cx1280x1214.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/508de4aed9fc414fb9c5e16e83fd750cx1279x1125.JPEG)
 
-`Q10996`
-
 ---
 
 ---
@@ -654,8 +608,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7e9ce74f456b4c359307fecb18e85099x1280x1508.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3393db8be7694ebf9f7f8b174f60b2a0x1280x1342.JPEG)
 
-`Q9187`
-
 ---
 
 ### 26. Brachial Plexus — The Silent Segment
@@ -674,8 +626,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 **EXAM CONNECTION:** Straight one-liner: “Which part of the brachial plexus gives no branches?” → **divisions**.
 
 **REMEMBER:** *Behind the clavicle the plexus is only re-sorting — no branches from divisions.*
-
-`Q9188`
 
 ---
 
@@ -706,8 +656,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/36ee2aea014e45c29cb91aad5206cef6x1280x1142.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c8b6fb3ab5a54b02b7a73e2d5ee84320x1280x2971.JPEG)
 
-`Q9189, Q9194`
-
 ---
 
 ### 28. Shoulder Abduction — Who Does What
@@ -733,8 +681,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1cc7962a39374d419793ce26976b0c05x1280x1652.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/58f389b94a1446b98f4aee71a0e048c8x800x509.PNG)
 
-`Q10250, Q9984`
-
 ---
 
 ### 29. Ulnar vs Median in the Hand
@@ -754,8 +700,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 **EXAM CONNECTION:** Direct numerical question (15 vs 5), or clinically via Froment’s sign.
 
 **REMEMBER:** *Ulnar owns 15 of 20 — the median only gets LOAF.*
-
-`Q11375`
 
 ---
 
@@ -784,8 +728,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 ![explanation](https://media.cerebellumacademy.com/media/public/17.png)
 ![explanation](https://media.cerebellumacademy.com/media/public/18.png)
 
-`Q11491`
-
 ---
 
 ### 31. Carpal Bones: Superlatives
@@ -808,8 +750,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/24/picture-27_zmze7bs.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/12/26/picture74.jpg)
-
-`Q9558`
 
 ---
 
@@ -835,8 +775,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6652d491f95f4d7ab50abe272cc12892x1280x1496.GIF)
 
-`Q10989`
-
 ---
 
 ### 33. Kanavel’s Signs — Flexor Sheath Infection
@@ -859,8 +797,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c4acfff517914a74a30320734d94e737x1280x2520.JPEG)
-
-`MB0211`
 
 ---
 
@@ -886,8 +822,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/69526a82cd0c4671ab9f2c4d3cd069c2x1280x1442.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4a8a0fa0dbe046729f57315e6adb33bbx1280x1223.JPEG)
 
-`MC5272, MA0541`
-
 ---
 
 ### 35. Branches of the Brachial Artery
@@ -909,8 +843,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e624e43c20f744ea9806489d8df72212x1280x2308.JPEG)
-
-`MA0676`
 
 ---
 
@@ -950,8 +882,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/image_fr2Sxki.png)
 
-`Q9518`
-
 ---
 
 ### 38. Trendelenburg Gait
@@ -977,8 +907,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-83_yKEsbeR.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-84_kpcG9e3.jpg)
 
-`Q10352, Q11665`
-
 ---
 
 ### 39. Talipes Calcaneovalgus vs Equinovarus
@@ -1000,8 +928,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c5e0f6ac8558427b86225843c167d9bbx1280x722.PNG)
-
-`Q10279`
 
 ---
 
@@ -1026,8 +952,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/22/01.jpg)
 
-`Q11474`
-
 ---
 
 ### 41. Lisfranc Ligament
@@ -1049,8 +973,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/18/anatomy-nov-inicet-2022-03.jpg)
-
-`Q11457`
 
 ---
 
@@ -1076,8 +998,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/07/12/whatsapp-image-2023-06-12-at-19012101101018.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/07/12/whatsapp-image-2023-06-12-at-19012101101019.jpg)
 
-`Q11454`
-
 ---
 
 ### 43. Knee Bursae — The Named Knees
@@ -1102,8 +1022,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/06/22/picture7_7pP8YJl.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/22/picture8_YeVAwxe.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/22/picture9_cATgTRH.jpg)
-
-`Q11662`
 
 ---
 
@@ -1135,8 +1053,6 @@ Parietal pleura and body-wall serous membranes from the **LATERAL PLATE (somatic
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6726324b53454ee7bb50634d7d6b60f0x1280x1753.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bb026f1c907d44bba86524b7caea404dx1280x1942.JPEG)
 
-`Q10971`
-
 ---
 
 ### 45. Gluteal Region: Nerve Supply and Fascial Ligaments
@@ -1166,8 +1082,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 **ALSO KNOW:** **Piriformis has its own branches** directly from the sacral plexus (S1, S2) — not from either gluteal nerve. Superior gluteal nerve injury → **Trendelenburg gait** (see the separate pearl); it is at risk in the **direct lateral (Hardinge) approach** to the hip and from misplaced intramuscular injections. The **pudendal nerve** then re-enters the pelvis through the **lesser sciatic foramen** — the only structure to leave and re-enter.
 
 **REMEMBER:** *The abductors share a nerve, the extensor has its own, and each gemellus follows its neighbour.*
-
-`Q11799, Q11800`
 
 ---
 
@@ -1230,8 +1144,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/53e0cadbe05649db9d15da8a233616d8x1279x1382.JPEG)
 
-`Q8974`
-
 ---
 
 ### 50. Superior Intercostal Veins — Left vs Right
@@ -1254,8 +1166,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6e2b7b730be649eda48465dce01e10c9x1280x1757.JPEG)
-
-`Q9146`
 
 ---
 
@@ -1281,8 +1191,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 ![question](https://cdn1.dailyrounds.org/uploads/d67221b99bf14146a043a1366fa1a789.GIF)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a19e57540547467a88c5a58de59eaf7dx1280x1887.JPEG)
 
-`Q10029`
-
 ---
 
 ### 52. Membranous Interventricular Septum
@@ -1307,8 +1215,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-81.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-82.jpg)
 
-`Q11345`
-
 ---
 
 ### 53. Central Line Complications
@@ -1331,8 +1237,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/05/18/ai-15_OHMmMGN.jpg)
-
-`Q11495`
 
 ---
 
@@ -1358,8 +1262,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/09/4.jpg)
 
-`Q11634`
-
 ---
 
 ### 55. Left-Sided Venous Drainage — The Asymmetry
@@ -1383,8 +1285,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/04/screenshot-2024-07-04-104032.png)
 
-`Q11659`
-
 ---
 
 ### 56. First Sternocostal Joint
@@ -1403,8 +1303,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 **EXAM CONNECTION:** “Joint between the sternum and 1st costal cartilage” → **synarthrosis/fibrous** (or primary cartilaginous depending on the text — the point is that it is **immobile and unlike the rest**).
 
 **REMEMBER:** *First rib is a fixed frame; ribs 2–7 need to move, so they get synovial joints.*
-
-`Q11669`
 
 ---
 
@@ -1435,8 +1333,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 ![question](https://cdn1.dailyrounds.org/uploads/eee7d8c1beb146bfa7d69dd6e39f86b7.JPEG)
 ![explanation](https://cdn1.dailyrounds.org/uploads/3d8e3f54552b403497312a700fe57005.JPEG)
 
-`Q10962`
-
 ---
 
 ### 58. The Fibrous Skeleton of the Heart
@@ -1462,8 +1358,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 ![question](https://cdn1.dailyrounds.org/uploads/a4e63f64e3d64d7c8281be354c422b8b.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f2f1b29f86e547e188b23313658ce4d4x1280x1474.JPEG)
 
-`Q11024`
-
 ---
 
 ### 59. Thoracic Duct vs Right Lymphatic Duct
@@ -1486,8 +1380,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7ded001ab6264452ba0c8b4225f6dab2x1280x1658.JPEG)
-
-`MA9689`
 
 ---
 
@@ -1539,8 +1431,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 ![explanation](https://image.prepladder.com/content/YrQZgIE7q1yyWIqUTLqh1740382248.png)
 ![explanation](https://image.prepladder.com/content/PbsMNKzElhc14eBXdOKn1740382265.png)
 
-`Q10729`
-
 ---
 
 ### 63. Root of the Mesentery
@@ -1566,8 +1456,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 ![question](https://image.prepladder.com/content/tEsd1us5l5WusPFrOfmL1740382082.png)
 ![explanation](https://image.prepladder.com/content/LvM9JjLnWaC0Ems08qW71740382132.png)
 
-`Q10731`
-
 ---
 
 ### 64. Marginal Artery of Drummond![Marginal Artery Of Drummond](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd45jl3w9libvn.cloudfront.net%2Fjaypee%2Fstatic%2Fbooks%2F9788184484564%2FChapters%2Fimages%2F633-1.jpg&f=1&nofb=1&ipt=2bd8de59e869d6f9b4642416ff899b05b91e6d995618ba12eff94e615d5c738b)
@@ -1590,8 +1478,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 **IMAGES:**
 ![explanation](https://image.prepladder.com/content/t5U1FmGpt6LXSRTBGaPS1740382293.png)
 
-`Q10728`
-
 ---
 
 ### 65. Portocaval Anastomoses
@@ -1611,8 +1497,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 **EXAM CONNECTION:** Cirrhosis vignette with haematemesis → “which anastomosis is responsible?” → left gastric–oesophageal.
 
 **REMEMBER:** *Gut veins meeting body-wall veins: gullet, umbilicus, anus — varices, caput, piles.*
-
-`Q10732`
 
 ---
 
@@ -1640,8 +1524,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 ![explanation](https://image.prepladder.com/content/ILojPXRhddQkPZADm9eK1740379169.png)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/07/04/untitled-917.jpg)
 
-`Q10735, Q11643`
-
 ---
 
 ### 67. Paraduodenal Recess
@@ -1663,8 +1545,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **IMAGES:**
 ![explanation](https://image.prepladder.com/content/Yh8qJvZdSxaXSejtMY3Q1740382170.png)
-
-`Q10730`
 
 ---
 
@@ -1689,8 +1569,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 **IMAGES:**
 ![explanation](https://image.prepladder.com/content/pTSqt176tGXO5stYRoQw1740382322.png)
 
-`Q10727`
-
 ---
 
 ### 69. Pelvic Diaphragm
@@ -1714,8 +1592,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/04/anotmy-12.jpg)
 
-`Q11479`
-
 ---
 
 ### 70. Internal Iliac Artery — Posterior Division
@@ -1738,8 +1614,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/09/ia-13.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/image_iEks6PE.png)
-
-`Q11478, Q9507`
 
 ---
 
@@ -1766,8 +1640,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/07/20/untitled-1103.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/26/screenshot-2023-09-26-195325.jpg)
 
-`Q11486`
-
 ---
 
 ### 72. Abdominal Transverse Planes
@@ -1790,8 +1662,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/06/25/screenshot-2024-06-25-094612.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/22/whatsapp-image-2024-06-22-at-123059-pm.jpeg)
 
-`Q11635`
-
 ---
 
 ### 73. Conjoint Tendon (Falx Inguinalis)
@@ -1810,8 +1680,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 **EXAM CONNECTION:** “All are true of the conjoint tendon EXCEPT” → “runs parallel to the inguinal ligament”.
 
 **REMEMBER:** *Conjoint tendon backs up the superficial ring — obliquely, not in parallel.*
-
-`Q11671`
 
 ---
 
@@ -1836,8 +1704,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/07/04/untitled-921.jpg)
 
-`Q11674`
-
 ---
 
 ### 75. Cremasteric Reflex
@@ -1856,8 +1722,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 **EXAM CONNECTION:** Direct root-value recall (L1, L2), and clinically as the torsion sign.
 
 **REMEMBER:** *L1–L2, in by the ilioinguinal and out by the genitofemoral — and it disappears in torsion.*
-
-`Q11680`
 
 ---
 
@@ -1881,8 +1745,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/15/picture37_ucaj8Oz.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/15/picture38_ix1mras.jpg)
-
-`Q9561`
 
 ---
 
@@ -1912,8 +1774,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/16/picture48.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/16/screenshot-2024-02-15-110907.jpg)
 
-`Q10725, Q10726, Q9569`
-
 ---
 
 ### 78. Tributaries of the Inferior Vena Cava
@@ -1937,8 +1797,6 @@ The **STYLOMANDIBULAR ligament is a thickening of the INVESTING layer of deep ce
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/52073319c69146e8ab4a9e39defe325dx1280x1789.JPEG)
-
-`Q11005`
 
 ---
 
@@ -1976,8 +1834,6 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9bdcb775f0bb40c6ae59758c9b2dc391x600x847.JPEG)
 
-`Q11008`
-
 ---
 
 ### 80. Urine Extravasation in Urethral Rupture
@@ -2005,8 +1861,6 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a89e957c868f466f97b3198f1ab132fcx1280x1244.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3e9c19a5861144d2af2f1f3a9503bbdax1280x1318.JPEG)
 
-`Q11834`
-
 ---
 
 ### 81. Walls of the True Pelvis
@@ -2028,8 +1882,6 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c0bafe2e502f461e940a89256019ae23x600x614.JPEG)
-
-`MB3523`
 
 ---
 
@@ -2054,8 +1906,6 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/dd2f4930d3854a5cbd7a2d383aebe46b.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5e824c87ebef4f6ebe169a3d0b5f79bfx600x577.JPEG)
-
-`MA7327`
 
 ---
 
@@ -2122,8 +1972,6 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 
 **REMEMBER:** *Pretracheal = the visceral sleeve; SCM belongs to the investing layer.*
 
-`Q9267`
-
 ---
 
 ### 88. Suprasternal Space of Burns
@@ -2147,8 +1995,6 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/34294ba3616e4cb4b7c7b3653eae6903x1280x1718.JPEG)
 
-`Q9887`
-
 ---
 
 ### 89. Long Left Recurrent Laryngeal Nerve
@@ -2167,8 +2013,6 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 **EXAM CONNECTION:** “Long left recurrent laryngeal nerve is due to persistence of which arch artery?” → **6th**.
 
 **REMEMBER:** *Left keeps its 6th arch (ductus) and pays with a long nerve; right loses it and settles for the 4th.*
-
-`Q9956`
 
 ---
 
@@ -2195,8 +2039,6 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c2b7083ef012475d9aebef2d54f11f8cx1280x1198.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/17218674842e4fa39be51de087788127x1279x1439.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/afe1220251a8474da41fc3734d19261b.JPEG)
-
-`Q10062, Q10189, Q8972`
 
 ---
 
@@ -2227,8 +2069,6 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/dc81c0a94d7a40f28052b990aa39f8e8x1280x1525.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3dea3f58f8aa498d81f60998535a309bx600x666.JPEG)
 
-`Q10117`
-
 ---
 
 ### 92. Styloid Process — Three Muscles, Three Different Nerves
@@ -2250,8 +2090,6 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/02/19/picture2.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/19/picture3_MfcLXDI.jpg)
-
-`Q10042`
 
 ---
 
@@ -2275,8 +2113,6 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 **IMAGES:**
 ![question](https://corebtr-assets-production.s3.ap-south-1.amazonaws.com/questions_image/01KN45HW2TH1AWFEASTMAPPHWX.jpg)
 
-`Q10160`
-
 ---
 
 ### 94. The Dangerous Layer of the Scalp
@@ -2299,8 +2135,6 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/image_3r149gs.png)
-
-`Q10406`
 
 ---
 
@@ -2329,8 +2163,6 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/16/whatsapp-image-2023-11-16-at-142429.jpeg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/08/screenshot-2023-11-08-183242.jpg)
 
-`Q11340, Q11475`
-
 ---
 
 ### 96. The “Magic of C6”
@@ -2352,8 +2184,6 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/06/22/4.jpg)
-
-`Q11471`
 
 ---
 
@@ -2380,8 +2210,6 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/21/screenshot-2024-09-21-112042.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/21/screenshot-2024-09-21-112107.jpg)
 
-`Q11352`
-
 ---
 
 ### 98. Mandibular Nerve — Anterior vs Posterior Division
@@ -2403,8 +2231,6 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 **EXAM CONNECTION:** Multi-statement question — the false statements always place the inferior alveolar or mental nerve in the anterior division.
 
 **REMEMBER:** *Anterior division chews (motor); posterior division feels (sensory).*
-
-`Q11492`
 
 ---
 
@@ -2428,8 +2254,6 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/09/05/screenshot-2024-09-05-140551.png)
-
-`Q11679`
 
 ---
 
@@ -2455,8 +2279,6 @@ Both are **retroperitoneal**, **yellow** on gross section, and sit at the upper 
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/02/17/picture63.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/17/picture64.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/06/09/picture32_xOBKCci.jpg)
-
-`Q9556, Q9557`
 
 ---
 
@@ -2486,8 +2308,6 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/untitled-432.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/04/15/picture32_MSP8EF9.jpg)
 
-`Q10912, Q10913, Q10929`
-
 ---
 
 ### 102. The Anterior Ethmoidal Canal
@@ -2510,8 +2330,6 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/03/26/untitled-138.jpg)
-
-`Q11192`
 
 ---
 
@@ -2537,8 +2355,6 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 ![question](https://cdn1.dailyrounds.org/uploads/7f16b1b530a7440d861285b84920e6f6.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/16af0ac5a1fb43a188c243b7ebe52a7dx1279x1050.PNG)
 
-`Q11803`
-
 ---
 
 ### 104. Hyoglossus — Superficial vs Deep Relations
@@ -2562,8 +2378,6 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/094c749125af45d99b5abb0a00f6b7c3x600x564.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/eb08a0a807d543eca416ea4b558f2f87x600x564.JPEG)
 
-`MA0964`
-
 ---
 
 ### 105. Frey’s Syndrome — Auriculotemporal Nerve
@@ -2583,8 +2397,6 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 **EXAM CONNECTION:** Stem gives Botox into preauricular skin and asks which nerve underwent aberrant innervation → **auriculotemporal**. The facial nerve is the distractor because it is the nerve *at risk* in parotid surgery — but it is motor, not secretomotor.
 
 **REMEMBER:** *The nerve meant to make you salivate ends up making you sweat.*
-
-`MB4256`
 
 ---
 
@@ -2607,8 +2419,6 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6c23f82879904a98ad5c366911d4df2cx1280x1378.JPEG)
-
-`MC4397`
 
 ---
 
@@ -2698,8 +2508,6 @@ And the **median nerve** supplies sensation to the **thumb, index and middle fin
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/77c1267c387c4797a45fa347b30af020x1279x1414.JPEG)
-
-`Q11845`
 
 ---
 
@@ -2838,8 +2646,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6e25b56bd7a44f719f16657175a3d5a2x1280x1459.JPEG)
 
-`Q8969`
-
 ---
 
 ### 125. Purkinje Cell — The Sole Output of the Cerebellar Cortex
@@ -2861,8 +2667,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **IMAGE:** Large flask-shaped somata in a single row at the molecular–granular junction. **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/e940abf2e54740389ec12805f147a230.JPEG)
-
-`Q8970`
 
 ---
 
@@ -2886,8 +2690,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/57b488add6e9471584851e21f5a0c844x354x550.PNG)
 
-`Q9266`
-
 ---
 
 ### 127. The “Anaesthetist’s Artery”
@@ -2906,8 +2708,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** Given as a long stem describing the artery’s course, then “which is NOT a branch” → **mental**.
 
 **REMEMBER:** *Facial artery does lips and nose; the chin (mental) belongs to the maxillary artery.*
-
-`Q9448, Q9510`
 
 ---
 
@@ -2932,8 +2732,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/3612ca30186940edb1dbc1703a618d2d.JPEG)
 
-`Q9939`
-
 ---
 
 ### 129. Millard–Gubler Syndrome
@@ -2957,8 +2755,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 ![question](https://cdn1.dailyrounds.org/uploads/a1ded896850d4a9eb86539ae70c5c310.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8ee430244d484c38883f0624c2dd416fx468x293.JPEG)
 
-`Q10005, Q10064`
-
 ---
 
 ### 130. Dura of the Posterior Cranial Fossa
@@ -2981,8 +2777,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 ![question](https://cdn1.dailyrounds.org/uploads/f3ffc6786821474987e50ee119da1f0b.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4353961d751045c7881807d03f681607x1046x823.PNG)
 
-`Q10009`
-
 ---
 
 ### 131. Anterior Cerebral Artery Stroke
@@ -3004,8 +2798,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/01/01/picture16_dWjWWf0.jpg)
-
-`Q9516`
 
 ---
 
@@ -3031,8 +2823,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fafa841adb1d47b6a9dc39e743c9881ax1280x1288.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bfdb7ca542504a1bb4a5ccb65df68133x1279x1007.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0124ac26a6a94b39a448d93203b3fadbx510x451.GIF)
-
-`Q10249`
 
 ---
 
@@ -3060,8 +2850,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 ![question](https://cdn1.dailyrounds.org/uploads/13d99094df7e42fda8a2ed4bd450676c.GIF)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e405d998d47b40719f40307f3985f8bcx1280x2843.JPEG)
 
-`Q10288, Q10290`
-
 ---
 
 ### 134. Thalamus — Lamina and Key Nuclei
@@ -3088,8 +2876,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/b915c270ab5af9ddd60a2424da666603.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/ef955abde40d8331fd59d9dd843b93ca.webp)
 
-`Q10461, Q10462, Q10463`
-
 ---
 
 ### 135. Tuffier’s (Intercristal) Line
@@ -3114,8 +2900,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/09/26/screenshot-2023-09-26-194457.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/09/26/screenshot-2023-09-26-194559.jpg)
 
-`Q11480, Q9513`
-
 ---
 
 ### 136. Fourth Ventricle — Sensory Column Order
@@ -3139,8 +2923,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/16/screenshot-2024-05-16-124220.JPG)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/04/whatsapp-image-2023-11-04-at-190127.jpeg)
 
-`Q11482`
-
 ---
 
 ### 137. Ligamentum Flavum
@@ -3159,8 +2941,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **EXAM CONNECTION:** One-liner on its composition; also asked via the loss-of-resistance technique.
 
 **REMEMBER:** *Yellow ligament, yellow elastin — the “give” you feel before the epidural space.*
-
-`Q11485`
 
 ---
 
@@ -3185,8 +2965,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-71_2KvCA3I.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/09/picture2_rw0NybC.jpg)
 
-`Q11502`
-
 ---
 
 ### 139. Midbrain Decussations
@@ -3209,8 +2987,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-48.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/03/ia-49.jpg)
-
-`Q11505`
 
 ---
 
@@ -3238,8 +3014,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/11/16/picture1_G56FmPI.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/05/09/ia-15_S5BUhyV.jpg)
 
-`Q11490, Q11637`
-
 ---
 
 ### 141. Lumbar Root Localisation — L4 vs L5 vs S1
@@ -3262,8 +3036,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/21/screenshot-2024-09-21-105931.jpg)
-
-`Q11483`
 
 ---
 
@@ -3289,8 +3061,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/05/18/ai-16.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/15/screenshot-2024-05-15-194331.JPG)
 
-`Q11639`
-
 ---
 
 ### 143. Papez Circuit
@@ -3315,8 +3085,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/04/screenshot-2024-07-04-102142.png)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/04/4.jpg)
 
-`Q11646`
-
 ---
 
 ### 144. Cord End vs Dural Sac End
@@ -3340,8 +3108,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/Picture1_jhebV4l.png)
 
-`Q11655`
-
 ---
 
 ### 145. Trigeminal Nuclei — Which Sensation
@@ -3364,8 +3130,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/03/untitled-6_01aPAfq.jpg)
-
-`Q11656`
 
 ---
 
@@ -3391,8 +3155,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/15/screenshot-2024-05-15-102147.png)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/07/screenshot-2023-11-07-175932.jpg)
 
-`Q11657`
-
 ---
 
 ### 147. Deep Cerebellar Nuclei and the Dentate
@@ -3416,8 +3178,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/09/03/screenshot-2024-09-03-162435.jpeg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/11/07/screenshot-2023-11-07-171455.jpg)
 
-`Q11660, Q11488`
-
 ---
 
 ### 148. Cerebral White Matter Fibres
@@ -3439,8 +3199,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/12/28/picture17.jpg)
-
-`Q9554`
 
 ---
 
@@ -3473,8 +3231,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/12/28/picture24_MtwBmwN.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/12/28/picture25_w4HM85M.jpg)
 
-`Q9555`
-
 ---
 
 ### 150. Superior Cerebellar Peduncle — The Efferent Highway
@@ -3499,8 +3255,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bbb4a665a5074327ad5d0cf51f17a431x1280x1099.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/34cdc17d883b41d688f40950d3f0c6efx600x489.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/08d7e9790f8b4fe4afdec9aa33c384b3x1280x1767.JPEG)
-
-`MF0799, MC5274`
 
 ---
 
@@ -3529,8 +3283,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 ![question](https://cdn1.dailyrounds.org/uploads/65de9eb2b484426fbd35ca7c539623db.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/aeb26d2ca87a4db393b2bb93c23734d1x343x338.JPEG)
 
-`MB9263, MC7579`
-
 ---
 
 ### 152. Visual Agnosia — Inferior Temporal Lobe
@@ -3554,8 +3306,6 @@ White rami carry **preganglionic sympathetic fibers** from the spinal nerve into
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/985d9f9c21e142b787a38323bc997372x600x535.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1c16e1eaa21a41bf97b6cbe2769e08f8x600x487.JPEG)
-
-`MG1141`
 
 ---
 

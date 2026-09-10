@@ -46,8 +46,6 @@
 **IMAGES:**
 ![explanation](https://cdn1.dailyrounds.org/uploads/22ed05e62e1847ef8ac555f5033d495e.PNG)
 
-`Q9029`
-
 ---
 
 ### 2. Traction and Splints
@@ -76,8 +74,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ebe2047d3e9847f3a49a5f1c046469e1x1280x2018.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1f97f56a87274e03a6d674be73244d8cx1280x1257.JPEG)
 
-`Q9035`
-
 ---
 
 ### 3. Primary versus Secondary Fracture Healing
@@ -100,8 +96,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/8080f170c26d4182a821d1f65b69d60a.PNG)
-
-`Q9046`
 
 ---
 
@@ -130,8 +124,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9af4f46e1d084fcdb9e0eea7ede0d2fcx1280x1566.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9bccaf344b0540cca0439ea1c43fac7ex1280x2560.JPEG)
 
-`Q9927`
-
 ---
 
 ### 5. Fracture Healing — Micromotion and Non-Union
@@ -151,8 +143,6 @@
 **EXAM CONNECTION:** Two related stems — “callus increased by” (**micromotion**) and “false about MIPO” (**maximum soft tissue damage**).
 
 **REMEMBER:** *A little movement builds callus; too much builds a false joint.*
-
-`MC9504, MC4853, MA8113`
 
 ---
 
@@ -186,8 +176,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8b868b0c26134874a2eeeb9c693faa4dx800x600.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/465c935b02614de4a6ef0c385131f6e5x720x540.JPEG)
 
-`MF7559, MB6531, MF5272`
-
 ---
 
 ### 7. Bone Grafts — Osteoinductive vs Osteoconductive
@@ -214,8 +202,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/50d75944d680436780799bd6790aeec4.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/06be4c40d88a4d0dbc05ac7ebfd0bc5dx720x775.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b92598d330514a3babb74ad481395e07x1279x1560.JPEG)
-
-`MD6711, MC7735`
 
 ---
 
@@ -258,8 +244,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/0c4ce65e67924b4dad621155ea2feddfx1280x1085.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1e8d2990ca664920a9acfc69cf29e9ebx720x1051.PNG)
 
-`Q9031, Q9032`
-
 ---
 
 ### 10. Lunate versus Perilunate Dislocation
@@ -286,8 +270,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/04/49.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/04/50.jpg)
 
-`Q11460`
-
 ---
 
 ### 11. Scaphoid Fracture and Kienböck Disease
@@ -308,8 +290,6 @@
 **EXAM CONNECTION:** Statement-selection questions swap fractured/dislocated and scaphoid/lunate. Fix the pair: **scaphoid FRACTURES, lunate DISLOCATES and undergoes Kienböck’s AVN.**
 
 **REMEMBER:** *Blood enters the scaphoid from the far end — break the waist and starve the top.*
-
-`Q11009`
 
 ---
 
@@ -348,8 +328,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/40.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/10/41.jpg)
 
-`Q11244, Q11228`
-
 ---
 
 ### 13. Kocher’s Manoeuvre for Anterior Shoulder Dislocation
@@ -373,8 +351,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/67f3c42870b74c74b2709fefbcb428db.GIF)
-
-`Q11847`
 
 ---
 
@@ -405,8 +381,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9c2040ddd70745199f16395e93f78b58x1280x988.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3deb8ddc550345bc883002661184a0d4x1280x1157.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1ea28df97a50400b87329ff762655acax1280x1179.JPEG)
-
-`MC5635`
 
 ---
 
@@ -441,8 +415,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/49f2c42b7d6d4a24b655b430415fe243.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/53e9673a803e46d7aaea91bcdbbb267fx1280x1010.JPEG)
 
-`Q8920, Q9009`
-
 ---
 
 ### 16. Talar Neck (Aviator’s) Fracture
@@ -465,8 +437,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/6b3b37936e4649ab919570fdc3715578.JPEG)
-
-`Q10256`
 
 ---
 
@@ -502,8 +472,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e0aedfeb601e466183ef098660e542e7x1280x4053.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/c3cb21b866064155a99cb92795f99f27.JPEG)
 
-`Q11135, Q11144`
-
 ---
 
 ### 18. Hip Fracture: Fixation vs Replacement
@@ -533,8 +501,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/25/screenshot-2024-07-25-131913.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/08/18/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_101.jpg)
 
-`Q11250, Q11258, Q11252`
-
 ---
 
 ### 19. Ottawa Ankle Rules
@@ -557,8 +523,6 @@
 
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/52ba594d759847b9951685d8d03a8b61x990x750.JPEG)
-
-`MA8984, MG1620`
 
 ---
 
@@ -592,8 +556,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d0fe0973e40947a38b3ffe66e259013ex720x561.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b7e2bf315c3147f3a79d03f2d5faf129x1280x1223.JPEG)
 
-`MA8044, MA8027, MA8076, MG6554`
-
 ---
 
 ### 21. Posterior Hip Dislocation
@@ -617,8 +579,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/9dc3ec214d1848acb82c015910b09598.PNG)
-
-`MA8023, MF0602`
 
 ---
 
@@ -651,8 +611,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8b868b0c26134874a2eeeb9c693faa4dx800x600.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/465c935b02614de4a6ef0c385131f6e5x720x540.JPEG)
 
-`MG1157, MB6110`
-
 ---
 
 ---
@@ -681,8 +639,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/05/22/picture16.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/24/picture78.jpg)
-
-`Q10339`
 
 ---
 
@@ -719,8 +675,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-103349.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-103402.jpg)
 
-`Q11221`
-
 ---
 
 ### 25. Diffuse Idiopathic Skeletal Hyperostosis (DISH)
@@ -756,8 +710,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/11/103.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/11/104.jpg)
 
-`Q11257`
-
 ---
 
 ### 26. Spondylolisthesis
@@ -787,8 +739,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a60f94ab53164841a0e357010da2170dx1280x3636.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b4fcc6bd19cc4cce974ba84fdbbdda35x1280x1198.JPEG)
 
-`MC4412, MG7157`
-
 ---
 
 ### 27. Chance Fracture
@@ -815,8 +765,6 @@
 ![explanation](https://cdn1.dailyrounds.org/uploads/809c7f2eeeef40559454d092a0888c94.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8ca2cf0bd7054020b23c4f31ff429b9cx1280x1706.JPEG)
 
-`MG6548`
-
 ---
 
 ### 28. Spinal Injury Classification Systems
@@ -837,8 +785,6 @@
 **EXAM CONNECTION:** “Unlikely to be used” for a cervical injury → **AO-Magerl**. Learn each eponym’s specific level.
 
 **REMEMBER:** *Three cervical regions, three eponyms; the thoracolumbar spine has its own.*
-
-`MB2100`
 
 ---
 
@@ -867,8 +813,6 @@
 
 **REMEMBER:** *Capillaries close long before arteries do — a present pulse proves nothing.*
 
-`Q9033`
-
 ---
 
 ### 30. Avascular Necrosis of the Femoral Head
@@ -892,8 +836,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/d4d99ed053c740f89ffd942b56104a07.JPEG)
 
-`Q9040`
-
 ---
 
 ### 31. Fat Embolism Syndrome
@@ -914,8 +856,6 @@
 **EXAM CONNECTION:** “Not in the major diagnostic triad” → **fat globules in urine**.
 
 **REMEMBER:** *Hypoxia, confusion and axillary petechiae, one to three days after a femoral fracture.*
-
-`Q10237`
 
 ---
 
@@ -959,8 +899,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/265949daa50e406388181e793de23143x1280x1198.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e5e04841e5954754b32fcc00e3ba67fax720x1067.PNG)
 
-`Q8952`
-
 ---
 
 ### 34. Poliomyelitis — Patterns of Paralysis
@@ -981,8 +919,6 @@
 **EXAM CONNECTION:** “Hand–knee gait” → **quadriceps weakness**.
 
 **REMEMBER:** *Anterior horn cells are motor only — flaccid, patchy, and never numb.*
-
-`Q9008`
 
 ---
 
@@ -1013,8 +949,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2b3438081dbe418fb173399e274c123bx720x720.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7997bc8460f245c79ee6571e4bc9643bx1280x1262.JPEG)
 
-`Q9014, Q9021`
-
 ---
 
 ### 36. Clubfoot (CTEV) and the Ponseti Method
@@ -1041,8 +975,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e59e90661cd9489da70e48c66b033465x720x540.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2f1dac6a8b584f309c6f4575ff1db633x1200x1399.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/397cd668dc374093ad2ca245a002eed4x1280x4599.JPEG)
-
-`Q9037, Q10145, Q10187`
 
 ---
 
@@ -1071,8 +1003,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6f5f9488f022431ebb7fa92791068eb6x1280x973.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/fd00e0e53297417fb91a4615a317e88f.JPEG)
 
-`Q9041, Q9047`
-
 ---
 
 ### 38. Slipped Capital Femoral Epiphysis
@@ -1100,8 +1030,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/b23ae0fc22e442d59468b158d195551e.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/36d68f0d17ec4d609106778933139f66x1024x700.jpeg)
 
-`Q11130`
-
 ---
 
 ### 39. Osteochondritis Eponyms
@@ -1120,8 +1048,6 @@
 **EXAM CONNECTION:** Pure matching. The two most confused are **Kienböck (lunate) vs Köhler (navicular)** and **Panner (capitulum) vs Calvé (vertebra)**.
 
 **REMEMBER:** *Kienböck’s Kwrist lunate, Köhler’s foot navicular, Panner’s elbow, Calvé’s flat vertebra.*
-
-`Q11141`
 
 ---
 
@@ -1152,8 +1078,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-102757.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-102812.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/05/screenshot-2024-01-05-102825.jpg)
-
-`Q11210`
 
 ---
 
@@ -1187,8 +1111,6 @@
 ![explanation](https://cdn1.dailyrounds.org/uploads/2ace3e5f483345cb80598521cc408d52.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9d49ed63a91246ae976876919820e765x407x333.JPEG)
 
-`Q11823`
-
 ---
 
 ### 42. Sprengel Deformity
@@ -1212,8 +1134,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7c0bd69f56924b10b8c2b32184e6636ax396x354.PNG)
 
-`MC2620, MB9173`
-
 ---
 
 ### 43. Polio — Which Muscles
@@ -1234,8 +1154,6 @@
 **EXAM CONNECTION:** Gait-to-muscle mapping. **Hand-knee gait → quadriceps**; **high-stepping gait → tibialis anterior**; **Trendelenburg lurch → gluteus medius**.
 
 **REMEMBER:** *No other muscle can extend the knee, so the hand must do it.*
-
-`MC9502, MF7379`
 
 ---
 
@@ -1297,8 +1215,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/295bf4a3cddd4400aa62800f53989bdax1280x1176.JPEG)
 
-`Q8919, Q9024`
-
 ---
 
 ### 48. Tuberculosis of the Spine (Pott’s Disease)
@@ -1320,8 +1236,6 @@
 
 **REMEMBER:** *Tuberculosis eats the front of the spine — so decompress from the front, and never laminectomise.*
 
-`Q9018`
-
 ---
 
 ### 49. Tuberculosis of the Hip
@@ -1341,8 +1255,6 @@
 **EXAM CONNECTION:** Sequence question → **synovial hypertrophy → apparent shortening → cartilage destruction → dislocation**.
 
 **REMEMBER:** *The hip lies where it holds most fluid — abducted early, adducted once spasm takes over.*
-
-`Q9899`
 
 ---
 
@@ -1366,8 +1278,6 @@
 
 **REMEMBER:** *Salmonella follows the S’s — several, symmetrical, severe, spine, sickle cell, stool.*
 
-`Q10200, Q9964`
-
 ---
 
 ### 51. Infectious Flexor Tenosynovitis
@@ -1390,8 +1300,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/6498a2a86d8044679ad50453a138dbc3.JPEG)
-
-`Q10344`
 
 ---
 
@@ -1420,8 +1328,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/04/41.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/04/42.jpg)
 
-`Q11467, Q11468`
-
 ---
 
 ### 53. Septic Arthritis and the Kocher Criteria
@@ -1447,8 +1353,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/24/screenshot-2024-01-23-194843.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/24/screenshot-2024-01-23-195047.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/08/17/untitled-1325.jpg)
-
-`Q11229, Q11241`
 
 ---
 
@@ -1481,8 +1385,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c3c6a201b4ff4777a09699639315f12fx1280x1407.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ac5acbf0c4fd4e8bb8b94f8c1a773e09x1280x1176.JPEG)
 
-`Q8922`
-
 ---
 
 ### 55. Giant Cell Tumour of Bone
@@ -1511,8 +1413,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/06be4c40d88a4d0dbc05ac7ebfd0bc5dx720x775.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b92598d330514a3babb74ad481395e07x1279x1560.JPEG)
 
-`Q9015`
-
 ---
 
 ### 56. Pathological Fractures and Bone Metastases
@@ -1537,8 +1437,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/9545cc4094ed4f7790a90a1c8d8caa1b.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f5c6d490eece469ea217e5bbaf5f2c2ax738x770.JPEG)
-
-`Q9045`
 
 ---
 
@@ -1571,8 +1469,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c270a3182e8b4c88aee57604251e2a99x1280x2072.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/730b18c6eeb4404b951c573b2fd9683dx512x410.PNG)
 
-`MF9190, MF5245`
-
 ---
 
 ### 58. Fibrous Dysplasia
@@ -1599,8 +1495,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ce70bc4237aa476895fa17ad1ba0052ax720x775.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4fa0d93be1a74fd1b912ae6e6fdb11e9x1280x1184.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e0b87da53c294194bad5fc8a83c1222fx1279x1560.JPEG)
-
-`MB5186, MF7548`
 
 ---
 
@@ -1634,8 +1528,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/57436a7d9dac4a02a03a9d08d991b811x720x720.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ea56ff526ee445e7ba55188fea556f7fx672x526.JPEG)
 
-`Q8921`
-
 ---
 
 ### 60. Osteoporosis — Screening and Diagnosis
@@ -1658,8 +1550,6 @@
 **ALSO KNOW:** **Treatment thresholds and agents have moved on: ROMOSOZUMAB (an anti-sclerostin antibody, 12 monthly doses, with a boxed warning for myocardial infarction and stroke) and TERIPARATIDE/ABALOPARATIDE are ANABOLIC agents used FIRST in very high-risk patients, followed by an antiresorptive — because the sequence anabolic-then-antiresorptive gains far more bone than the reverse.** **DENOSUMAB must NEVER simply be stopped — discontinuation causes rebound bone loss and multiple vertebral fractures, so it is always followed by a bisphosphonate.** **Bisphosphonate drug holidays are considered after 5 years oral / 3 years intravenous in patients no longer at high risk**, weighing atypical femoral fracture and osteonecrosis of the jaw.[^1]
 
 **REMEMBER:** *T-score diagnoses, Z-score investigates — and the chemistry is normal in primary osteoporosis.*
-
-`Q9013, Q9022`
 
 ---
 
@@ -1685,8 +1575,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/b96ba0de255c405891527173735b0de5.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8304d32eb63241a79bb599822608ba51x1280x1326.JPEG)
 
-`Q9038, Q9012, Q10204`
-
 ---
 
 ### 62. Paget Disease of Bone (Osteitis Deformans)
@@ -1711,8 +1599,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/b35179303a794f21a6afbf920613a3f7.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/73e04614513446d697efa0befc290e5cx1280x756.JPEG)
 
-`Q11137`
-
 ---
 
 ### 63. Osteopetrosis (Marble Bone Disease)
@@ -1736,8 +1622,6 @@
 
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/5502f05c4901430e962f4cf8f8d772af.JPEG)
-
-`Q11138`
 
 ---
 
@@ -1765,8 +1649,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/19/screenshot-2024-09-19-092802.png)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/09/19/screenshot-2024-09-19-093002.png)
 
-`Q11211`
-
 ---
 
 ### 65. Investigating Osteoporosis
@@ -1791,8 +1673,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/ea36103522cd4a58b73b9ea1162d107e.PNG)
 
-`MD6691, MD0674`
-
 ---
 
 ### 66. Tumour-Induced Osteomalacia
@@ -1813,8 +1693,6 @@
 **EXAM CONNECTION:** “Which does NOT cause osteomalacia” → **breast carcinoma**. The rule is **mesenchymal tumours only**.
 
 **REMEMBER:** *Mesenchymal tumours secrete FGF-23 and waste phosphate.*
-
-`MC7057`
 
 ---
 
@@ -1850,8 +1728,6 @@
 **EXAM CONNECTION:** “All true EXCEPT” → **non-erosive arthritis** (it IS erosive).
 
 **REMEMBER:** *Enthesitis erodes first and then ossifies — bamboo spine is the scar of the healing.*
-
-`Q9044`
 
 ---
 
@@ -1894,8 +1770,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/d4196bdafb2d49008a9f87d2af5b5718.GIF)
 
-`Q9017`
-
 ---
 
 ### 71. Sunderland Classification of Nerve Injury
@@ -1926,8 +1800,6 @@
 
 **REMEMBER:** *One sheath lost per grade — after the perineurium goes, only surgery helps.*
 
-`Q11132`
-
 ---
 
 ### 72. Common Peroneal Nerve and Its Branches
@@ -1952,8 +1824,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3d52bcf03ec442bfa7909cf6ba2a7033x1280x2400.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3b8f77c49d2f4567a384a3c2ccb0deb0x1200x1836.JPEG)
 
-`Q11136`
-
 ---
 
 ### 73. Tardy Ulnar Nerve Palsy
@@ -1977,8 +1847,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/5c296d249f144c18a66670bd2709531d.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/92f0eef457f04dedb22143e5aaa5edf5x1280x1508.JPEG)
-
-`Q11146`
 
 ---
 
@@ -2009,8 +1877,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture38.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture39.jpg)
 
-`Q11207`
-
 ---
 
 ### 75. Splints and Nerve Palsies
@@ -2038,8 +1904,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture30.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture31.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/02/picture30_HJLEd4u.jpg)
-
-`Q11251`
 
 ---
 
@@ -2070,8 +1934,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f908a703a2374676a376b9623c1ac7e0x1272x1060.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/42f8071970804886b08e6640a9357394x1279x1223.JPEG)
 
-`Q8953`
-
 ---
 
 ### 77. Meniscal Zones and Healing
@@ -2096,8 +1958,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/bc22fc2a4cae4ed38415688ec639da2fx1279x1559.JPEG)
 
-`Q9019`
-
 ---
 
 ### 78. Overuse Syndromes of the Elbow and Wrist
@@ -2121,8 +1981,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/a109bd0fa18646a49aae68a96bda3831x1024x768.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2849d44748cc49b88e7587aa450497dcx1280x1492.JPEG)
-
-`Q9025, Q9026`
 
 ---
 
@@ -2153,8 +2011,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/76ffde96dd6548f39c140c40173bf1d6x1279x1319.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/4a886ed275c8438e86d2a7d3f835ab45x1280x1979.JPEG)
 
-`Q9932`
-
 ---
 
 ### 80. The Posterior Cruciate Ligament
@@ -2177,8 +2033,6 @@
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/02/07/screenshot-2024-02-07-143739.jpg)
-
-`Q11459`
 
 ---
 
@@ -2204,8 +2058,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/cffa0b9af3ad464191d771ef59116714x451x278.JPEG)
 
-`Q11022`
-
 ---
 
 ### 82. Adhesive Capsulitis (Frozen Shoulder)
@@ -2226,8 +2078,6 @@
 
 **REMEMBER:** *If you can’t move it either, it’s the capsule — and check the sugar.*
 
-`Q11131`
-
 ---
 
 ### 83. Medial Tibial Stress Syndrome (Shin Splints)
@@ -2247,8 +2097,6 @@
 **EXAM CONNECTION:** The combination of **overuse history + medial tibial border pain + normal X-ray** is the whole question.
 
 **REMEMBER:** *Overuse pain along the shin with a clean film is a stress reaction, not a fracture.*
-
-`MD0236`
 
 ---
 
@@ -2294,8 +2142,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c7478efaa5a74aa7a6ea139b5a5afa3ax512x192.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3631f0284db3434eb6a33a2a0a59b3ffx500x383.PNG)
 
-`Q9049, Q10210, Q10251, Q9980`
-
 ---
 
 ### 86. Miscellaneous High-Yield Orthopaedic Facts
@@ -2337,8 +2183,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/1231da278b7e4cb59d66012e919831efx1280x4207.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/b85c2139c3894b4f91bdcec9f13b7143x1279x1060.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/daee4afc01aa4108beaa28c2c90f4625x1280x1860.JPEG)
-
-`Q11129, Q11133, Q11134, Q11140, Q11142, Q11143, Q11145, Q11139`
 
 ---
 
@@ -2395,8 +2239,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/01/04/picture204.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/07/04/screenshot-2024-07-03-180933.png)
 
-`Q11197, Q11198, Q11206, Q11208, Q11212, Q11213, Q11217, Q11219, Q11225, Q11205, Q11193`
-
 ---
 
 ### 88. Named Radiological Signs and Indices
@@ -2423,8 +2265,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/a563b87f3e454a3e9241d2b9b6f1defe.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2df2aea2d73f4db1b519218e4ffe4086x1280x1403.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7bdaaa016aca4c10998ea407458da1f9x1280x2594.JPEG)
-
-`MA8933, MB2460, MB2218, MB5160, MD0752`
 
 ---
 
@@ -2460,8 +2300,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5dfd59610ed4480eb08ec567e78533cdx1280x2558.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/8dde492c1e9b4216982a97ebdbba9d15x1280x1416.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d3299a6fd29841c58c0b784671708142x1279x1140.JPEG)
-
-`MC5321, MB9225, MB6273, MF8164, MD0233`
 
 ---
 

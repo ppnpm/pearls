@@ -47,8 +47,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/dfac3ef207ca41d4bed26f176b1414ba.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/5291846a37d8459e8dbf04b6c5c7127fx1280x1277.JPEG)
 
-`Q8944, Q8987, Q8994`
-
 ---
 
 ### 2. Radiation Physics and Radiation Injury
@@ -72,8 +70,6 @@
 **IMAGES:**
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/62c4f6d692354217afdc5a9e9ef3ce48x1280x901.JPEG)
 
-`Q8949, Q8977, Q8988`
-
 ---
 
 ### 3. Radiotherapy Principles
@@ -93,8 +89,6 @@
 **EXAM CONNECTION:** Incorrect about brachytherapy → **that it is better than teletherapy for large bulky tumours**; linear accelerator produces → **X-rays**; correct radiotherapy statement → **rapidly proliferating cells are the most radiosensitive**.
 
 **REMEMBER:** *Brachytherapy’s steep dose fall-off is both its virtue and its limit.*
-
-`Q9756, Q9764, Q9770`
 
 ---
 
@@ -118,8 +112,6 @@
 
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/18/screenshot-2024-05-18-182008.jpg)
-
-`Q11702, Q11684, Q11683`
 
 ---
 
@@ -145,8 +137,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/23/screenshot-2024-05-23-114356.png)
 
-`Q11190`
-
 ---
 
 ### 6. Radiosensitivity Across the Cell Cycle
@@ -170,8 +160,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/23/screenshot-2024-05-23-160416.png)
 
-`Q11230`
-
 ---
 
 ### 7. Radiotherapy Isotopes
@@ -191,8 +179,6 @@
 **EXAM CONNECTION:** “Not used for brachytherapy” → **I-131**. The FDG-negative list is a separate recurring question.
 
 **REMEMBER:** *Brachytherapy is placed; I-131 is swallowed.*
-
-`MA0881, MB9138`
 
 ---
 
@@ -218,8 +204,6 @@
 
 **REMEMBER:** *Osmolality causes the harm; glucose competes with the tracer.*
 
-`Q9771, Q9919`
-
 ---
 
 ### 9. MRI — Techniques and Limitations
@@ -243,8 +227,6 @@
 **IMAGES:**
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/04/08/picture19_tWnRfgz.jpg)
 
-`Q10192, Q10101, Q10217, Q9996`
-
 ---
 
 ### 10. Contrast Agents in Renal Failure
@@ -266,8 +248,6 @@
 **ALSO KNOW:** **“Contrast-induced nephropathy” has been substantially reworded: the ACR–NKF consensus separates CONTRAST-ASSOCIATED AKI (temporal association only) from the far rarer CONTRAST-INDUCED AKI (causal), and the risk from modern low-osmolar INTRAVENOUS iodinated contrast is much lower than once taught.** **Prophylactic intravenous volume expansion is advised only at eGFR <30 (or 30–44 with risk factors); N-acetylcysteine and sodium bicarbonate are NOT recommended.** **GADOLINIUM: nephrogenic systemic fibrosis risk is essentially confined to the older group I agents, and group II macrocyclic agents may be given at any eGFR when needed.**[^2]
 
 **REMEMBER:** *Microbubbles leave through the lungs — the kidney never sees them.*
-
-`Q11265`
 
 ---
 
@@ -310,8 +290,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/282333c26be449bd800cfea0159eeb4dx550x354.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fb98f430409147869af505f94c6f6bb0x514x750.JPEG)
 
-`Q8985, Q9711, Q9714, Q9712, Q8981, Q8993, Q8948, Q8983`
-
 ---
 
 ### 12. Left Atrial Enlargement on the Chest Film
@@ -334,8 +312,6 @@
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture31.jpg)
-
-`Q9720, Q9752`
 
 ---
 
@@ -362,8 +338,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/07/16/32.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture25.jpg)
 
-`Q9724, Q9727, Q9738, Q9751`
-
 ---
 
 ### 14. Mediastinal Fat-Containing Lesions
@@ -387,8 +361,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture11.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/07/19/screenshot-2024-07-19-173953.png)
-
-`Q9744, Q9736`
 
 ---
 
@@ -414,8 +386,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/86f614af2eab4519a2937a04e489d58bx1280x1291.JPEG)
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture32.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/05/28/screenshot-2024-05-28-121406.JPG)
-
-`Q10111, Q9753, Q9762`
 
 ---
 
@@ -443,8 +413,6 @@
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/e83c2c281877c3fbbacd6361de157184.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/f663cbde8b9a88f02998bb64cad4fdcb.webp)
 
-`Q10428, Q10438`
-
 ---
 
 ### 17. Mediastinal Compartments and Their Masses
@@ -470,8 +438,6 @@
 **EXAM CONNECTION:** Compartment-to-lesion matching. The trap is placing a **hernia** in the anterior compartment — anterior belongs to Morgagni, **posterior to Bochdalek**.
 
 **REMEMBER:** *Bochdalek is Back and Left; Morgagni is anterior and Mild.*
-
-`Q10934`
 
 ---
 
@@ -502,8 +468,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/935130413e8844539ca5aa93b5b1bb05x1280x2307.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ee54e3d51b4945a7968846fd90614688x1060x901.PNG)
 
-`MF8222, MA3927, MA3921, MA0995`
-
 ---
 
 ### 19. Sarcoidosis on the Chest Film
@@ -529,8 +493,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/7c08f3e499554daa82a94abbaa834206.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/abd5116277e049879e572cba83a97ec2x1280x1170.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/78f7f81bc1f04f4ea823bae7b3045af1x1280x1298.JPEG)
-
-`MC9495, MA3958`
 
 ---
 
@@ -566,8 +528,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c4d273d1af7445fdad02e659555c9e69x510x494.GIF)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d07d5041004645849e8cce1dd37bd092x510x640.GIF)
 
-`ME0663, MA3953`
-
 ---
 
 ### 21. Lung Ultrasound Signs
@@ -598,8 +558,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/fd21cd55ab7646578c4cd53d2d385159x600x577.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/ee798df373334af1a796790b65496d7bx600x1759.JPEG)
 
-`MF1861, MA0686, MF5404`
-
 ---
 
 ### 22. Aspergilloma — Monod and Air-Crescent Signs
@@ -625,8 +583,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/3047b338a39748ab9f377dc72a3a2e04x1280x1667.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9b6bb8c03c1c4fdebe7b8c87e7db2010x1212x1140.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/265efc2c54a84d509c8e1a8089faba8fx450x658.PNG)
-
-`MA0986`
 
 ---
 
@@ -654,8 +610,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2100a010197040dcb3950fb2541433a9x252x255.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/e88016b5d7e345ffb33922a35e0b9a08x468x450.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/97213a6b824346bebf418955ba37f97fx512x402.PNG)
-
-`MF0893`
 
 ---
 
@@ -696,8 +650,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/96660889c8b34a0f89ee373ebdb60f40x1280x1040.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/91de267cb9594cb6ba98e16f4495780fx443x490.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6353c90095d1471696dac8fa7bd2a3b3x676x568.JPEG)
-
-`MC4008, MB6587`
 
 ---
 
@@ -755,8 +707,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/458fc62210274be0bea7f4e734e2f60fx512x210.PNG)
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/07/16/34.jpg)
 
-`Q8978, Q8992, Q8982, Q8991, Q9715`
-
 ---
 
 ### 28. Abdominal CT — Two Classic Appearances
@@ -784,8 +734,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture14.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture19.jpg)
 
-`Q9725, Q9726, Q9746, Q9745, Q9749`
-
 ---
 
 ### 29. Bowel Obstruction and Paediatric Emergencies
@@ -811,8 +759,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/07/19/screenshot-2024-07-19-171813.png)
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/07/19/screenshot-2024-07-19-171431.png)
-
-`Q9734, Q9733`
 
 ---
 
@@ -841,8 +787,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/7f3f7730700343f88eec3c39109ee642x1191x1198.JPEG)
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture9.jpg)
 
-`Q9766, Q9910, Q10196, Q9760`
-
 ---
 
 ### 31. Pancreatic Lesions on Imaging
@@ -869,8 +813,6 @@
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/60025bbe68e88a74670e4ebc8d156919.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/156fad64a0306edf012a6350f4c64e99.webp)
 
-`Q10219, Q10422, Q10222`
-
 ---
 
 ### 32. Gallbladder Ultrasound and Biliary Cystic Disease
@@ -895,8 +837,6 @@
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/23f78cda6fd6b322e1b403686ff1d224.webp)
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/01/image-20230401205003-1.png)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/04/29/screenshot-2024-04-29-120104.JPG)
-
-`Q10226, Q10231`
 
 ---
 
@@ -930,8 +870,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2560300a6ff5419ea21d6c7c92d01ff0x392x406.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/f6d749d25dc9401f994415cbf015b26bx1278x416.PNG)
 
-`Q10300, Q10416, Q10302, Q10360`
-
 ---
 
 ### 34. Air in the Wrong Place — Named Signs
@@ -964,8 +902,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/23/screenshot-2024-05-23-163602_nOdKJAL.png)
 ![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202025-01-27%20183612.jpg)
 
-`Q11688, Q11692, Q11689, Q11685, Q11691`
-
 ---
 
 ### 35. Hepatic Hydatid Cyst
@@ -991,8 +927,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/03/26/untitled-177.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/03/26/untitled-178.jpg)
-
-`Q11194`
 
 ---
 
@@ -1037,8 +971,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/300e1080a96d4fe19194df39a503fef0x660x476.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/13531a6af0434a64bf763df3a4c61fb8x479x600.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/6d13f1689c1141ed93c2e447931546f0x512x683.PNG)
-
-`MA0600, MC5358, MA0586, MA0588`
 
 ---
 
@@ -1142,8 +1074,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/07/19/screenshot-2024-07-19-174619.png)
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/07/16/43.jpg)
 
-`Q9722, Q9750, Q9737, Q9728`
-
 ---
 
 ### 45. Renal Anomalies and Renovascular Disease
@@ -1167,8 +1097,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/05/27/picture21_bK8Jl8w.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture10.jpg)
-
-`Q9767, Q10213, Q10209`
 
 ---
 
@@ -1194,8 +1122,6 @@
 ![question](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/775369158450a6eb2242ec480aca19f2.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/ec94e614618a58663914892c4c9cd92f.webp)
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/d56735e037979903d42f91a34fe12c22.webp)
-
-`Q10224, Q10417, Q10420`
 
 ---
 
@@ -1226,8 +1152,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/08/19/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_182.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/07/18/screenshot-2024-07-18-151825.png)
 
-`Q10446, Q11697, Q11694, Q11695`
-
 ---
 
 ### 48. Non-Visualisation of a Kidney on IVP
@@ -1248,8 +1172,6 @@
 **EXAM CONNECTION:** The key word is **“fails to appear”** — meaning **no function**, not abnormal drainage. Hydronephrosis is the seductive wrong answer.
 
 **REMEMBER:** *IVU shows function — no nephrons, no picture.*
-
-`Q10946`
 
 ---
 
@@ -1275,8 +1197,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/08/19/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_198.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/WhatsApp%20Image%202025-01-27%20at%2018.50.30.jpeg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/08/19/whatsapp-image-2023-06-12-at-190121011010201026_page_68_page_199.jpg)
-
-`Q11199`
 
 ---
 
@@ -1305,8 +1225,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2023/03/27/untitled-144_IwptMAR.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/23/screenshot-2024-05-23-165250.png)
 
-`Q11202`
-
 ---
 
 ### 51. Renal Imaging Patterns
@@ -1330,8 +1248,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/d50726d672614185aa3af017c2c26f51.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/02a0180259ff4791973b4e606fc2d286x1280x3761.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/2f5f5862005f47ea9dae3e9a023bfc13x1280x1142.JPEG)
-
-`MA8432, MA8433`
 
 ---
 
@@ -1422,8 +1338,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/5673403979a1498eb5bf914d620bae9d.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/43378e03896145b3b7c0c2a9079863f5x510x537.GIF)
 
-`Q8951, Q8979, Q8980, Q9710, Q8985, Q8975`
-
 ---
 
 ### 58. Head and Neck Imaging
@@ -1450,8 +1364,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/18696bc6d6f4479a83c07f8e2744bdc2.PNG)
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/04/03/image-20230403140605-1.png)
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture37.jpg)
-
-`Q9768, Q9759, Q9994, Q10211, Q9755`
 
 ---
 
@@ -1484,8 +1396,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/70e224cb8f474989967b054500d2890dx720x720.JPEG)
 ![question](https://media.cerebellumacademy.com/media/public/image_iW1H8jJ.png)
 
-`Q10240, Q10291, Q10229, Q10260, Q10383, Q10367, Q10381, Q10418`
-
 ---
 
 ### 60. Spinal Cord Blood Supply and Aortic Surgery
@@ -1505,8 +1415,6 @@
 **EXAM CONNECTION:** Paraplegia with dissociated sensory loss after type A dissection repair → **artery of Adamkiewicz**.
 
 **REMEMBER:** *One artery in front, two behind — so the front infarcts and proprioception survives.*
-
-`Q10227`
 
 ---
 
@@ -1548,8 +1456,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/da30bfdd9fb343269e21219017fbda42x1280x1149.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d7cb2373c2794c4684e64759ca20c19ex647x745.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/917c06cd8b0241e8995ff2379c1b42f0x831x977.JPEG)
-
-`MA3835, MA8648, MC4255, MA3867, MC4621`
 
 ---
 
@@ -1625,8 +1531,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/07/15/20.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/07/16/37.jpg)
 
-`Q8950, Q9716, Q9713, Q9717`
-
 ---
 
 ### 67. Bone Radiology of Metabolic Disease
@@ -1653,8 +1557,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/9621135fec1a4a85a6e32020a22d1cb9x1003x1024.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/42b6c256be964e73944ca3a2aee9efb6x1280x1035.JPEG)
 
-`Q8976, Q8986`
-
 ---
 
 ### 68. Bone Tumours and Bone Densitometry
@@ -1678,8 +1580,6 @@
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/07/15/15.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture3.jpg)
-
-`Q9729, Q9741, Q9740, Q9748`
 
 ---
 
@@ -1707,8 +1607,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/d35ccc8b28ca4fec8570cc11334fdc20x558x599.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/630c14604bca4648b45d5685357dca18x461x599.JPEG)
 
-`Q10214, Q9957, Q10049`
-
 ---
 
 ### 70. Ochronosis (Alkaptonuria)
@@ -1732,8 +1630,6 @@
 **IMAGES:**
 ![question](https://cdn1.dailyrounds.org/uploads/df31f1cd0d16469abadf81affc2e464d.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/a8b69e45cd084515b8371f1470720264.JPEG)
-
-`MA1502, MD4508`
 
 ---
 
@@ -1787,8 +1683,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/07/15/13.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/07/16/40.jpg)
 
-`Q9719, Q9721, Q9723, Q9718`
-
 ---
 
 ### 74. Scalp Swellings of the Newborn
@@ -1818,8 +1712,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/40523a67a8e44fda91e6d9f596fcff53x1280x1367.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/335c38cfcc744bf38f01ef300dce3c09x1280x1434.JPEG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/375683b550704193aaea059adccfc65cx1280x1191.JPEG)
-
-`MF8231, MB6601`
 
 ---
 
@@ -1852,8 +1744,6 @@
 ![question](https://cdn1.dailyrounds.org/uploads/89193768cde74e8390c96a1692913ba0.JPEG)
 ![question](https://cdn1.dailyrounds.org/uploads/e7550fdaf1424892a1b2b157be5dc843.JPEG)
 
-`Q8945, Q8946, Q8947`
-
 ---
 
 ### 76. Vascular Imaging and Interventional Complications
@@ -1879,8 +1769,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/07/15/21.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture17.jpg)
 
-`Q9730, Q9742, Q9732, Q9747`
-
 ---
 
 ### 77. Mammography
@@ -1900,8 +1788,6 @@
 **EXAM CONNECTION:** Exit window in mammography → **beryllium**.
 
 **REMEMBER:** *Soft tissue needs soft X-rays — and soft X-rays need a beryllium window to escape.*
-
-`Q9996`
 
 ---
 
@@ -1928,8 +1814,6 @@
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/9db0b5bf052e540266d55474fafbf086.webp)
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture5.jpg)
 ![question](https://cdn1.dailyrounds.org/uploads/5c1bfce552ce4e4aa865f973461aadcc.JPEG)
-
-`Q10228, Q10419, Q10384`
 
 ---
 
@@ -1960,8 +1844,6 @@
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/18/screenshot-2024-07-18-151135.png)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/07/18/screenshot-2024-07-18-151206.png)
 
-`Q11686, Q11687, Q11701, Q11698`
-
 ---
 
 ### 80. Doppler Waveforms and Lung Ultrasound Signs
@@ -1989,8 +1871,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/05/27/screenshot-2024-05-27-092554.jpg)
 ![explanation](https://media.cerebellumacademy.com/media/public/images/2024/05/27/screenshot-2024-05-27-102120.jpg)
 
-`Q11200, Q11201`
-
 ---
 
 ### 81. Doppler Waveforms in Venous Disease
@@ -2015,8 +1895,6 @@
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/c9d8ead89b764e3bab9541fd7b534b34x1280x960.JPEG)
 ![explanation](https://cdn1.dailyrounds.org/uploads/3dbabd447e2a4e409ce51818a274fd17.PNG)
 ![explanation](https://dhmbxeygs57ff.cloudfront.net/uploads/abb8db41eea04d79a3b747bbe7969860x1280x636.JPEG)
-
-`MC5357, MG5844`
 
 ---
 
@@ -2045,8 +1923,6 @@
 **IMAGES:**
 ![explanation](https://pub-8c30f7a873214da0837b787a0c529b95.r2.dev/a3e2d7e0419e88a92538bb415c021085.webp)
 ![explanation](https://media.cerebellumacademy.com/media/public/Screenshot%202025-06-04%20163714.png)
-
-`Q10220, Q10402, Q10223, Q10345`
 
 ---
 
@@ -2088,8 +1964,6 @@
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/04/16/picture42.jpg)
 ![question](https://media.cerebellumacademy.com/media/public/images/2024/05/27/picture27.jpg)
 
-`Q9765, Q9757, Q9769`
-
 ---
 
 ### 85. Whole-Body Trauma CT (“Pan-Scan”)
@@ -2112,8 +1986,6 @@
 
 **IMAGES:**
 ![question](https://media.cerebellumacademy.com/media/public/images/2023/03/26/untitled-132.jpg)
-
-`Q11186, Q11189`
 
 ---
 
